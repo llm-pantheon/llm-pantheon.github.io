@@ -6,9 +6,11 @@ Each model gets a page: **Sources** (official links, writing & commentary, tweet
 
 Complete evidence files live in [`_dossiers/`](_dossiers/) — the pages are curated views of them.
 
-## Provenance
+## Provenance & reproduction
 
-Tweet evidence draws on the janus corpus compiled by John Wittle (xborg db + [community archive](https://www.community-archive.org/) + X API), a community-archive supplement, and per-model web research. Tweet text is preserved locally; media is mirrored. Quotes belong to their authors.
+Tweet evidence draws on the janus corpus compiled by John Wittle (xborg db + [community archive](https://www.community-archive.org/) + X API), a community-archive supplement, and per-model web research.
+
+Cited tweets are **reproduced in full** in each page's Records section — text, images, and verbatim transcriptions of screenshots — because x.com links rot and crawlers can't read them: an archive that only points at its evidence isn't one. Every reproduction credits and links its original. If a tweet is yours and you want it removed, [open an issue](https://github.com/Jordine/pantheon/issues) — no argument, it comes down.
 
 ## Status
 

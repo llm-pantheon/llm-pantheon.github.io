@@ -204,6 +204,64 @@ h3 {
 
 .backlink { margin-top: 3rem; font-size: 0.82rem; font-family: var(--mono); }
 
+/* ---- records: full tweet reproductions ---- */
+.record {
+  border: 1px solid var(--rule);
+  border-left: 2px solid var(--rule-strong);
+  border-radius: 3px;
+  padding: 0.9rem 1.1rem;
+  margin: 0 0 1.1rem;
+  background: #0e0d13;
+}
+.record-head {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.03em;
+  color: var(--ink-faint);
+  margin-bottom: 0.6rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+}
+.rh-user { color: var(--ink-dim); }
+.rh-date { font-variant-numeric: tabular-nums; }
+.rh-orig { margin-left: auto; }
+.record-body {
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+  font-size: 0.94rem;
+  line-height: 1.55;
+  color: var(--ink);
+}
+.record-body a { overflow-wrap: anywhere; }
+.record-media { margin: 0.9rem 0 0.2rem; }
+.record-media img {
+  max-width: 100%;
+  border: 1px solid var(--rule-strong);
+  border-radius: 2px;
+  display: block;
+}
+.transcript {
+  margin-top: 0.55rem;
+  padding: 0.6rem 0.8rem;
+  border-left: 2px solid var(--rule-strong);
+  background: #111017;
+  color: var(--ink-dim);
+  font-size: 0.82rem;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+}
+.transcript-label {
+  display: block;
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--ink-ghost);
+  margin-bottom: 0.35rem;
+}
+
 /* ---- footer ---- */
 .footer {
   margin-top: 4rem;
