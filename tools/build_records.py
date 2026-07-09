@@ -105,7 +105,7 @@ HEADER = '''    <h2 id="records">Records</h2>
     <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
     transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals.
     Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
-    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/Jordine/pantheon/issues">Open an issue.</a></p>
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
 '''
 
 START, END = '<!-- records:start -->', '<!-- records:end -->'

@@ -1,6 +1,6 @@
 # Pantheon — working notes for claudes
 
-Static site, no build step. Deployed via GitHub Pages (repo `Jordine/pantheon`); currently served under jordinne.ink/pantheon/ via the user-site domain, later its own domain.
+Static site, no build step (except `tools/build_records.py`, run manually, output committed). Deployed via GitHub Pages from `llm-pantheon/llm-pantheon.github.io` (org root site) at **https://llm-pantheon.org** — CNAME file in repo root; DNS on Namecheap (A records to GitHub Pages IPs, www CNAME to llm-pantheon.github.io).
 
 ## Hard rules
 
