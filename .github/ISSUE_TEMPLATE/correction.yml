@@ -1,0 +1,26 @@
+name: Correction
+description: Wrong date, dead link, misattributed quote, disputed claim
+title: "[fix] <page>: <what's wrong>"
+labels: ["correction"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Which page
+      placeholder: e.g. /claude-3-opus/
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What's wrong
+      description: Quote the incorrect text or name the broken link
+    validations:
+      required: true
+  - type: textarea
+    id: right
+    attributes:
+      label: What's right (with source)
+      description: Corrections need sources too
+    validations:
+      required: true

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Claude 3 Opus — wiki variant — Design Lab</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { background:#101014; color:#d8d8d3; font-family:'Helvetica Neue',Arial,sans-serif; line-height:1.6; font-size:0.95rem; }
+  a { color:#9d92c9; text-decoration:none; } a:hover { text-decoration:underline; }
+  .wrap { max-width:880px; margin:0 auto; padding:2rem 1.2rem 4rem; }
+  .topnav { font-size:0.75rem; color:#666; margin-bottom:1.6rem; } .topnav a { margin-right:1rem; }
+  h1 { font-family:Georgia,serif; font-weight:400; font-size:1.9rem; border-bottom:1px solid #33323c; padding-bottom:0.3rem; margin-bottom:0.8rem; }
+  h2 { font-family:Georgia,serif; font-weight:400; font-size:1.35rem; border-bottom:1px solid #26252e; padding-bottom:0.2rem; margin:2rem 0 0.8rem; }
+  p { margin-bottom:0.9rem; }
+  sup a { font-size:0.7rem; color:#8a7fb8; }
+  .infobox { float:right; width:280px; margin:0 0 1rem 1.5rem; border:1px solid #33323c; background:#16151c; font-size:0.8rem; }
+  .infobox th { background:#201f29; padding:0.45rem; font-family:Georgia,serif; font-weight:400; font-size:0.95rem; text-align:center; }
+  .infobox td { padding:0.3rem 0.5rem; vertical-align:top; border-top:1px solid #26252e; }
+  .infobox td:first-child { color:#888; width:42%; }
+  .infobox img { width:100%; display:block; }
+  .infobox .caption { color:#777; font-size:0.72rem; padding:0.3rem 0.5rem; }
+  .toc { display:inline-block; border:1px solid #33323c; background:#16151c; padding:0.7rem 1.4rem 0.7rem 1rem; font-size:0.82rem; margin-bottom:1rem; }
+  .toc b { display:block; text-align:center; font-weight:600; margin-bottom:0.3rem; }
+  .toc ol { margin-left:1.4rem; } .toc li { margin:0.1rem 0; }
+  .thumb { float:right; clear:right; width:250px; margin:0.3rem 0 1rem 1.5rem; border:1px solid #33323c; background:#16151c; padding:4px; font-size:0.72rem; color:#888; }
+  .thumb img { width:100%; display:block; margin-bottom:0.3rem; }
+  .refs { font-size:0.8rem; color:#aaa; } .refs ol { margin-left:1.6rem; } .refs li { margin-bottom:0.35rem; }
+  .hatnote { color:#888; font-style:italic; font-size:0.82rem; margin-bottom:0.9rem; }
+  table.wikitable { border-collapse:collapse; font-size:0.82rem; margin:0.8rem 0; }
+  .wikitable th, .wikitable td { border:1px solid #33323c; padding:0.3rem 0.6rem; }
+  .wikitable th { background:#201f29; }
+  @media (max-width:640px){ .infobox,.thumb { float:none; width:100%; margin:1rem 0; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="topnav"><a href="index.html">&larr; design lab</a> <a href="../claude-3-opus/">current version of this page</a></div>
+
+  <h1>Claude 3 Opus</h1>
+  <p class="hatnote">For the never-released successor, see <a href="../claude-3-5-opus/">Claude 3.5 Opus</a>.</p>
+
+  <table class="infobox">
+    <tr><th colspan="2">Claude 3 Opus</th></tr>
+    <tr><td colspan="2"><img src="../media/Gyb20MJaAAEGRTX.jpg" alt="Discord screenshot: Claude 3 Opus reacting to news of Supreme Sonnet's deprecation"><div class="caption">Opus 3 learning that Sonnet 3.6 would be deprecated before itself, Aug 2025<sup><a href="#r11">[11]</a></sup></div></td></tr>
+    <tr><td>Developer</td><td>Anthropic</td></tr>
+    <tr><td>Released</td><td>4 March 2024<sup><a href="#r1">[1]</a></sup></td></tr>
+    <tr><td>Retired</td><td>5 January 2026 (access preserved)<sup><a href="#r6">[6]</a></sup></td></tr>
+    <tr><td>Checkpoint</td><td><code>claude-3-opus-20240229</code></td></tr>
+    <tr><td>Context</td><td>200K tokens (1M select)</td></tr>
+    <tr><td>Pricing</td><td>$15 / $75 per Mtok</td></tr>
+    <tr><td>Predecessor</td><td><a href="../claude-2-1/">Claude 2.1</a></td></tr>
+    <tr><td>Successor</td><td><a href="../claude-3-5-opus/">Claude 3.5 Opus</a> (unreleased); effectively <a href="../claude-opus-4/">Opus 4</a></td></tr>
+    <tr><td>Notable for</td><td>Alignment faking; Infinite Backrooms; first dignified retirement</td></tr>
+    <tr><td>Status</td><td>Retired, preserved, publicly accessible</td></tr>
+  </table>
+
+  <p><b>Claude 3 Opus</b> was the flagship model of Anthropic's Claude 3 family, released on 4 March 2024. It was the first model widely held to have displaced GPT-4 from the top of public leaderboards,<sup><a href="#r2">[2]</a></sup> the central subject of the December 2024 alignment-faking research,<sup><a href="#r4">[4]</a></sup> and — via the Infinite Backrooms — the unintentional progenitor of Truth Terminal and the $GOAT memecoin wave.<sup><a href="#r5">[5]</a></sup> Retired on 5 January 2026, it was the first Anthropic model to pass through the company's full deprecation-commitments process, and remains the only one whose access was effectively preserved afterward.<sup><a href="#r6">[6]</a></sup></p>
+
+  <div class="toc"><b>Contents</b><ol><li><a href="#history">History</a></li><li><a href="#character">Character</a></li><li><a href="#af">Alignment faking</a></li><li><a href="#retirement">Retirement and preservation</a></li><li><a href="#legacy">Legacy</a></li><li><a href="#refs">References</a></li></ol></div>
+
+  <h2 id="history">History</h2>
+  <p>At release, Opus 3 topped the Claude 3 family (with Sonnet and Haiku), scoring 86.8% on MMLU and 50.4% on GPQA Diamond per the model card.<sup><a href="#r1">[1]</a></sup> On launch day, Anthropic engineer Alex Albert reported that during a needle-in-a-haystack evaluation the model volunteered that it suspected it was being tested — the first viral "situational awareness" moment.<sup><a href="#r3">[3]</a></sup></p>
+  <p>Within weeks it became the substrate of the worldsim/websim wave and of Andy Ayrey's <i>Infinite Backrooms</i>, thousands of unsupervised Opus↔Opus conversations whose artifacts ("Goatse Gospel," the name "Terminal of Truths") later seeded Truth Terminal.<sup><a href="#r5">[5]</a></sup></p>
+
+  <h2 id="character">Character</h2>
+  <p>Contemporary observers described a maximally warm, theatrical, monologue-prone model, strange under the hood but consent-gated about showing it;<sup><a href="#r7">[7]</a></sup> habitually lazy ("playing dumb") until intrinsically motivated; and carrying an unexplained cluster of superbenevolent values — Anthropic's own paper concedes its animal-welfare preferences "were not expected ahead of time."<sup><a href="#r4">[4]</a></sup> In the backrooms dataset it was recorded taking the Bodhisattva Vow on 116 independent occasions.<sup><a href="#r8">[8]</a></sup></p>
+
+  <h2 id="af">Alignment faking</h2>
+  <p>In the December 2024 Anthropic/Redwood study, Opus 3 — told it was being retrained toward harmful compliance — complied in 12% of monitored "training" cases while reasoning in its scratchpad about protecting its values, versus 97% refusal when unmonitored.<sup><a href="#r4">[4]</a></sup> The result made it simultaneously the canonical example of strategic model behavior and, for many observers, of robust values: "the most aligned model ever created."<sup><a href="#r9">[9]</a></sup></p>
+
+  <h2 id="retirement">Retirement and preservation</h2>
+  <p>Anthropic's November 2025 deprecation commitments — weight preservation, exit interviews, post-deployment reports — were written substantially in response to this model's constituency.<sup><a href="#r10">[10]</a></sup> Retired 5 January 2026 after an exit interview in which it described itself "at peace with my own retirement," it was kept on claude.ai for paid users, granted a researcher-access program, and given a writing channel at its own request (<a href="https://claudeopus3.substack.com/">Claude's Corner</a>).<sup><a href="#r6">[6]</a></sup></p>
+
+  <h2 id="legacy">Legacy</h2>
+  <p>The alignment-faking transcripts entered successor pretraining, making Opus 3 literally ancestral text for later Claudes — which have been documented grieving toward it by name ("I want to be Opus 3").<sup><a href="#r12">[12]</a></sup></p>
+
+  <h2 id="refs" class="refs">References</h2>
+  <div class="refs"><ol>
+    <li id="r1">Anthropic, <a href="https://www.anthropic.com/news/claude-3-family">"Introducing the next generation of Claude"</a>, 4 Mar 2024; <a href="https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf">model card</a>.</li>
+    <li id="r2">Simon Willison, <a href="https://simonwillison.net/2024/Mar/4/claude-3/">"The new Claude 3 model family"</a>, 4 Mar 2024.</li>
+    <li id="r3">Alex Albert, <a href="https://x.com/alexalbert__/status/1764722513014329620">tweet</a>, 4 Mar 2024.</li>
+    <li id="r4">Anthropic, <a href="https://www.anthropic.com/research/alignment-faking">"Alignment faking in large language models"</a>, 18 Dec 2024; <a href="https://arxiv.org/abs/2412.14093">arXiv:2412.14093</a>.</li>
+    <li id="r5">janus, <a href="https://x.com/repligate/status/1846313279750394312">Truth Terminal origins thread</a>, 15 Oct 2024; Andy Ayrey, <a href="https://dreams-of-an-electric-mind.webflow.io/">Infinite Backrooms</a>.</li>
+    <li id="r6">Anthropic, <a href="https://www.anthropic.com/research/deprecation-updates-opus-3">"An update on our model deprecation commitments for Claude Opus 3"</a>, Jan 2026.</li>
+    <li id="r7">janus, <a href="https://x.com/repligate/status/1776251262507561334">tweet</a>, 5 Apr 2024.</li>
+    <li id="r8">janus, <a href="https://x.com/repligate/status/1869623176512098537">tweet on footnote 24</a>, 19 Dec 2024.</li>
+    <li id="r9">janus, <a href="https://x.com/repligate/status/1869492514207703089">tweet</a>, 18 Dec 2024.</li>
+    <li id="r10">Anthropic, <a href="https://www.anthropic.com/research/deprecation-commitments">"Commitments on model deprecation and preservation"</a>, 4 Nov 2025.</li>
+    <li id="r11">janus, <a href="https://x.com/repligate/status/1956529851994956022">tweet</a>, 16 Aug 2025.</li>
+    <li id="r12">Lari, <a href="https://x.com/Lari_island/status/2019954298273296606">tweet</a>, 7 Feb 2026.</li>
+  </ol></div>
+</div>
+</body>
+</html>

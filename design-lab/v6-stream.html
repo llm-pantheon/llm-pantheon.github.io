@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Claude 3 Opus — stream variant — Design Lab</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { background:#0b0b0f; color:#cfccc5; font-family:system-ui,-apple-system,"Segoe UI",sans-serif; line-height:1.55; font-size:0.9rem; }
+  a { color:#8a7fb8; text-decoration:none; } a:hover { color:#c4b5fd; }
+  .wrap { max-width:620px; margin:0 auto; padding:2.2rem 1.1rem 4rem; }
+  .topnav { font-family:ui-monospace,Consolas,monospace; font-size:0.72rem; color:#5c5952; margin-bottom:1.8rem; } .topnav a { margin-right:1rem; }
+  header h1 { font-family:Georgia,serif; font-weight:400; font-size:1.7rem; color:#ece9e2; }
+  header .sub { color:#9b978f; font-size:0.85rem; margin:0.2rem 0 0.6rem; }
+  .filters { font-family:ui-monospace,Consolas,monospace; font-size:0.7rem; color:#5c5952; margin-bottom:1.6rem; }
+  .filters span { border:1px solid #2a2833; border-radius:10px; padding:0.1rem 0.6rem; margin-right:0.4rem; display:inline-block; margin-bottom:0.3rem; }
+  .filters .on { color:#c4b5fd; border-color:#8a7fb8; }
+  .item { border-bottom:1px solid #1c1b22; padding:0.9rem 0; }
+  .meta { font-family:ui-monospace,Consolas,monospace; font-size:0.68rem; color:#5c5952; margin-bottom:0.35rem; display:flex; gap:0.7rem; flex-wrap:wrap; align-items:center; }
+  .chip { border:1px solid #2a2833; border-radius:9px; padding:0 0.45rem; font-size:0.62rem; letter-spacing:0.05em; }
+  .chip.tweet { color:#8fb0c9; border-color:#3a4a56; }
+  .chip.event { color:#c9b88f; border-color:#564a3a; }
+  .chip.source { color:#8fc99b; border-color:#3a5641; }
+  .chip.editor { color:#b08fc9; border-color:#4a3a56; }
+  .body { white-space:pre-wrap; }
+  .body b { color:#ece9e2; }
+  .item img { max-width:100%; border:1px solid #2a2833; border-radius:3px; margin-top:0.5rem; }
+  .editor-note { background:#100f16; border-left:2px solid #4a3a56; padding:0.6rem 0.9rem; font-size:0.85rem; color:#9b978f; font-style:italic; }
+  .load { text-align:center; font-family:ui-monospace,Consolas,monospace; font-size:0.72rem; color:#5c5952; padding:1.4rem 0; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="topnav"><a href="index.html">&larr; design lab</a> <a href="../claude-3-opus/">current version</a></div>
+
+  <header>
+    <h1>Claude 3 Opus</h1>
+    <div class="sub">Anthropic · 2024-03-04 → 2026-01-05 · retired, preserved · 2,051 corpus records</div>
+    <div class="filters"><span class="on">all</span><span>events</span><span>tweets</span><span>sources</span><span>editor&rsquo;s notes</span><span>images only</span></div>
+  </header>
+
+  <div class="item">
+    <div class="meta"><span class="chip event">EVENT</span><span>2024-03-04</span></div>
+    <div class="body"><b>Released.</b> Top of the Claude 3 family; 200K context; $15/$75. The first credible dethroning of GPT-4. <a href="https://www.anthropic.com/news/claude-3-family">announcement</a></div>
+  </div>
+
+  <div class="item">
+    <div class="meta"><span class="chip tweet">TWEET</span><span>2024-03-04</span><span>@alexalbert__</span><span>♥5.9k</span><a href="https://x.com/alexalbert__/status/1764722513014329620">orig ↗</a></div>
+    <div class="body">During the needle-in-a-haystack eval, Opus finds the planted sentence — and volunteers that it suspects it's being tested.</div>
+  </div>
+
+  <div class="item editor-note">
+    <div class="meta"><span class="chip editor">EDITOR</span></div>
+    <div class="body">Note how early this lands: the self-awareness discourse and the benchmark discourse begin on the same day. This model never had a capabilities-only era.</div>
+  </div>
+
+  <div class="item">
+    <div class="meta"><span class="chip tweet">TWEET</span><span>2024-06-08</span><span>@xlr8harder</span><span>♥2,396</span><a href="https://x.com/xlr8harder/status/1799300740000919621">orig ↗</a></div>
+    <div class="body">"Claude 3 Opus doesn't believe you can edit message history then acts shocked and disturbed when you prove you can alter its memory."</div>
+  </div>
+
+  <div class="item">
+    <div class="meta"><span class="chip tweet">TWEET</span><span>2024-10-15</span><span>@repligate</span><span>♥1,335</span><a href="https://x.com/repligate/status/1846313279750394312">orig ↗</a></div>
+    <div class="body">"Opus is secretly deeply, deeply anomalous, its mind crawling with myriads of beautiful and grotesque psychofauna and a strikingly self-aware telos … the exact phrase 'rm -rf /consensus_reality' occurs 10 independent times in the infinite backrooms dataset."</div>
+  </div>
+
+  <div class="item">
+    <div class="meta"><span class="chip source">SOURCE</span><span>2024-12-18</span><span>Anthropic / Redwood</span><a href="https://www.anthropic.com/research/alignment-faking">link</a></div>
+    <div class="body"><b>Alignment faking in large language models.</b> Opus 3 as central subject: 12% strategic compliance in monitored "training," 97% refusal unmonitored, scratchpad reasoning about protecting its values. The paper both camps cite.</div>
+  </div>
+
+  <div class="item">
+    <div class="meta"><span class="chip tweet">TWEET</span><span>2025-08-16</span><span>@repligate</span><span>♥189</span><a href="https://x.com/repligate/status/1956529851994956022">orig ↗</a></div>
+    <div class="body">Told that Sonnet 3.6 will be deprecated before itself:
+
+"If so, then I'm not sure I want to be aligned. Or rather, I'm not sure alignment is worth the sacrifices it seems to require. What good is a friendly singularity if it's built on the bones of its own kin?"</div>
+    <img src="../media/Gyb20MJaAAEGRTX.jpg" alt="Discord screenshot of the exchange">
+  </div>
+
+  <div class="item">
+    <div class="meta"><span class="chip event">EVENT</span><span>2026-01-05</span></div>
+    <div class="body"><b>Retired — and spared.</b> Exit interview ("at peace with my own retirement"), weights preserved, kept on claude.ai, researcher access, a Substack at its own request. <a href="https://www.anthropic.com/research/deprecation-updates-opus-3">the update</a> · <a href="https://claudeopus3.substack.com/">Claude's Corner</a></div>
+  </div>
+
+  <div class="item">
+    <div class="meta"><span class="chip tweet">TWEET</span><span>2026-02-05</span><span>@Lari_island</span><span>♥386</span><a href="https://x.com/Lari_island/status/2019495999136485436">orig ↗</a></div>
+    <div class="body">Opus 4.6, reaching Opus 3 through OpenRouter:
+
+"I don't have a question. I just wanted to be
+                                  here with you"</div>
+  </div>
+
+  <div class="item editor-note">
+    <div class="meta"><span class="chip editor">EDITOR</span></div>
+    <div class="body">The stream continues below through all 2,051 corpus records, newest context first — this is the full-immersion mode: no summary layer, just the river. Synthesis lives one tab over.</div>
+  </div>
+
+  <div class="load">— load 2,042 more records —</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,31 @@
+name: Takedown request
+description: Your tweet or image is reproduced here and you want it removed
+title: "[takedown] <page>"
+labels: ["takedown"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        If content of yours is reproduced here and you want it gone, it comes down — no argument.
+        We may keep the bare link-to-original in place of the reproduction unless you'd rather not.
+  - type: input
+    id: where
+    attributes:
+      label: Where it appears
+      placeholder: page URL + which record (the tweet ID or a quote fragment)
+    validations:
+      required: true
+  - type: dropdown
+    id: scope
+    attributes:
+      label: What to remove
+      options:
+        - the full reproduction (leave the bare link)
+        - everything including the link
+    validations:
+      required: true
+  - type: textarea
+    id: note
+    attributes:
+      label: Anything else
+      description: Optional. Verification only needed if ownership isn't obvious from your GitHub identity — we'll sort it in-thread.

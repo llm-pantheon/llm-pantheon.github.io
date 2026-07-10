@@ -1,0 +1,48 @@
+name: Submit an observation
+description: A tweet, screenshot, incident, or writeup that belongs in a model's record
+title: "[obs] <model>: <short description>"
+labels: ["observation"]
+body:
+  - type: input
+    id: model
+    attributes:
+      label: Which model
+      placeholder: e.g. Claude 3 Opus, GPT-4o, Sonnet 3.6
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link to the source
+      description: Tweet URL, post URL, paper — the original, not a screenshot of it (attach screenshots below if the original is gone)
+      placeholder: https://x.com/...
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Date of the source
+      placeholder: YYYY-MM-DD (approximate is fine, say so)
+    validations:
+      required: true
+  - type: textarea
+    id: quote
+    attributes:
+      label: The concrete claim or moment
+      description: Quote the key part verbatim. If it's a screenshot, transcribe what matters.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it belongs in the record
+      description: One or two sentences. Behavioral evidence > opinion; documented vibes > vibes.
+  - type: dropdown
+    id: epistemic
+    attributes:
+      label: Epistemic status
+      options:
+        - CONFIRMED (first-party / on the record)
+        - REPORTED (credible secondhand)
+        - RUMOR (viral, unattributed)
+        - firsthand (it happened to me — attach evidence)
