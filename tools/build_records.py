@@ -37,8 +37,15 @@ def lookup(tid):
     return r
 
 def media_for(tid):
-    return main.execute('select media_id, media_url, media_type, transcription from media where tweet_id=?',
+    rows = main.execute('select media_id, media_url, media_type, transcription from media where tweet_id=?',
                         (tid,)).fetchall()
+    if supp:
+        try:
+            rows += [(m, u, t, None) for m, u, t in supp.execute(
+                'select media_id, media_url, media_type from media_supp where tweet_id=?', (tid,)).fetchall()]
+        except sqlite3.OperationalError:
+            pass
+    return rows
 
 def place_image(basename):
     """Copy (optionally downscale/re-encode) a mirrored image into repo media/. Returns final basename or None."""
@@ -110,21 +117,58 @@ HEADER = '''    <h2 id="records">Records</h2>
 
 START, END = '<!-- records:start -->', '<!-- records:end -->'
 
+# dossier -> page(s). Every tweet cited in a dossier but not in its page's prose is
+# reproduced in a 'Further records' block, so editorial curation never silently
+# drops evidence from the site (the r/K-whiteboard lesson, 2026-07-10).
+DOSSIER_MAP = {
+    '_dossiers/opus-3.md': ['claude-3-opus'],
+    '_dossiers/opus-4-5.md': ['claude-opus-4-5'],
+    '_dossiers/gpt-4o.md': ['gpt-4o'],
+    '_dossiers/bing-sydney.md': ['bing-sydney'],
+    '_dossiers/fable.md': ['fable'],          # mythos keeps its curated set; fable is primary
+    '_dossiers/sonnet-3-5-3-6.md': 'SPLIT',   # PART 1 -> 3-5, PART 2 -> 3-6
+}
+
+def dossier_extras():
+    """Returns {page: set(tweet_ids)} of dossier-cited ids per page."""
+    out = {}
+    for do, pages in DOSSIER_MAP.items():
+        path = os.path.join(REPO, do.replace('/', os.sep))
+        if not os.path.exists(path):
+            continue
+        text = open(path, encoding='utf-8').read()
+        if pages == 'SPLIT':
+            parts = text.split('# PART 2')
+            for pg, seg in (('claude-3-5-sonnet', parts[0]), ('claude-3-6-sonnet', parts[1] if len(parts) > 1 else '')):
+                out.setdefault(pg, set()).update(re.findall(r'(?:x|twitter)\.com/[^/\s")]*/status/(\d+)', seg))
+        else:
+            for pg in pages:
+                out.setdefault(pg, set()).update(re.findall(r'(?:x|twitter)\.com/[^/\s")]*/status/(\d+)', text))
+    return out
+
+FURTHER_HEADER = '''      <h3>Further records</h3>
+      <p class="note">Cited in this model&rsquo;s <a href="../_dossiers/">dossier</a> but not in the page prose &mdash;
+      reproduced so the archive doesn&rsquo;t depend on editorial selection.</p>
+'''
+
 pages = [d for d in sorted(os.listdir(REPO))
          if os.path.isdir(os.path.join(REPO, d)) and d not in ('media', 'tools', '_dossiers', '.git')
          and os.path.exists(os.path.join(REPO, d, 'index.html'))]
 
 total_records = total_missing = total_imgs = 0
+extras_map = dossier_extras()
 for page in pages:
     path = os.path.join(REPO, page, 'index.html')
     doc = open(path, encoding='utf-8').read()
+    # ids cited in page prose (ignore any previously generated records block)
+    prose = re.sub(re.escape(START) + '.*?' + re.escape(END), '', doc, flags=re.S)
     seen, ordered = set(), []
-    for m in re.finditer(r'(?:x|twitter)\.com/[^/"]*/status/(\d+)', doc):
+    for m in re.finditer(r'(?:x|twitter)\.com/[^/"]*/status/(\d+)', prose):
         tid = m.group(1)
         if tid not in seen:
             seen.add(tid)
             ordered.append(tid)
-    if not ordered:
+    if not ordered and page not in extras_map:
         continue
     records, missing = [], 0
     rows = [(tid, lookup(tid)) for tid in ordered]
@@ -133,11 +177,18 @@ for page in pages:
     rows.sort(key=lambda x: (x[1][2] or ''))  # chronological
     for tid, r in rows:
         records.append(render_record(tid, r))
+    # further records: dossier-cited, not in page prose
+    extra_ids = sorted(extras_map.get(page, set()) - seen)
+    extra_rows = [(tid, lookup(tid)) for tid in extra_ids]
+    extra_rows = [(tid, r) for tid, r in extra_rows if r]
+    extra_rows.sort(key=lambda x: (x[1][2] or ''))
+    if extra_rows:
+        records.append(FURTHER_HEADER + '\n'.join(render_record(tid, r) for tid, r in extra_rows))
     if not records:
         continue
     block = '{}\n{}\n{}\n    {}'.format(START, HEADER, '\n'.join(records), END)
     if START in doc:
-        doc = re.sub(re.escape(START) + '.*?' + re.escape(END), block, doc, flags=re.S)
+        doc = re.sub(re.escape(START) + '.*?' + re.escape(END), lambda m: block, doc, flags=re.S)
     else:
         doc = doc.replace('    <p class="backlink">', '    ' + block + '\n\n    <p class="backlink">', 1)
     open(path, 'w', encoding='utf-8').write(doc)
