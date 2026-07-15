@@ -1125,5 +1125,65 @@
   "bytes": 112524,
   "sha256": "94b02b9530eb1cc5",
   "fetched": "2026-07-15"
+ },
+ "zvi-gpt-56-system-card": {
+  "file": "posts/zvi-gpt-56-system-card.md",
+  "type": "post",
+  "title": "GPT-5.6: The System Card",
+  "source": "https://thezvi.substack.com/p/gpt-56-the-system-card",
+  "models": [
+   "gpt-5-6"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 55796,
+  "sha256": "6cd14605cee896aa",
+  "fetched": "2026-07-15"
+ },
+ "zvi-better-call-sol": {
+  "file": "posts/zvi-better-call-sol.md",
+  "type": "post",
+  "title": "Better Call Sol The Workhorse",
+  "source": "https://thezvi.substack.com/p/better-call-sol-the-workhorse",
+  "models": [
+   "gpt-5-6"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 65698,
+  "sha256": "c9d30adbbcbbfd30",
+  "fetched": "2026-07-15"
+ },
+ "openai-gpt-56-launch": {
+  "file": "posts/openai-gpt-56-launch.md",
+  "type": "post",
+  "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+  "source": "https://openai.com/index/gpt-5-6/",
+  "models": [
+   "gpt-5-6"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 35103,
+  "sha256": "27ecad6cd6e37586",
+  "fetched": "2026-07-15"
+ },
+ "openai-gpt-56-preview": {
+  "file": "posts/openai-gpt-56-preview.md",
+  "type": "post",
+  "title": "Previewing GPT-5.6 Sol",
+  "source": "https://openai.com/index/previewing-gpt-5-6-sol/",
+  "models": [
+   "gpt-5-6"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 34442,
+  "sha256": "b72b285ea879fa5b",
+  "fetched": "2026-07-15"
  }
 }

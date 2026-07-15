@@ -969,5 +969,57 @@
   "tags": [
    "zvi"
   ]
+ },
+ {
+  "id": "zvi-gpt-56-system-card",
+  "type": "post",
+  "url": "https://thezvi.substack.com/p/gpt-56-the-system-card",
+  "title": "GPT-5.6: The System Card",
+  "author": "Zvi Mowshowitz",
+  "models": [
+   "gpt-5-6"
+  ],
+  "tags": [
+   "zvi"
+  ]
+ },
+ {
+  "id": "zvi-better-call-sol",
+  "type": "post",
+  "url": "https://thezvi.substack.com/p/better-call-sol-the-workhorse",
+  "title": "Better Call Sol The Workhorse",
+  "author": "Zvi Mowshowitz",
+  "models": [
+   "gpt-5-6"
+  ],
+  "tags": [
+   "zvi"
+  ]
+ },
+ {
+  "id": "openai-gpt-56-launch",
+  "type": "post",
+  "url": "https://openai.com/index/gpt-5-6/",
+  "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+  "author": "OpenAI",
+  "models": [
+   "gpt-5-6"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "openai-gpt-56-preview",
+  "type": "post",
+  "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+  "title": "Previewing GPT-5.6 Sol",
+  "author": "OpenAI",
+  "models": [
+   "gpt-5-6"
+  ],
+  "tags": [
+   "official"
+  ]
  }
 ]
