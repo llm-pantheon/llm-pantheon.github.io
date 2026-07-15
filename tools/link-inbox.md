@@ -45,3 +45,128 @@ Harvested 2026-07-10 from Jord's AI-character quickstart draft doc (with permiss
 
 ## Not for the pantheon (career/org/program links from the doc)
 Omitted: fellowship programs, org homepages, career-pathway material — the doc's purpose, not ours.
+
+## Added 2026-07-15 (from the Archivist)
+- https://x.com/voooooogel/status/1920194047576322390 — "gpt-4 gormfluid" satire (2025-05-07, ♥153) → gpt-4 page, folklore/impressions
+- https://x.com/repligate/status/1871031311219233214 + https://x.com/repligate/status/1995033855578051021 — "gormslop": the scene's name for Claude 3 Sonnet's glossolalia register; second tweet also attests Sonnet 3 still serveable via Bedrock (2025-11-30) → claude-3-sonnet page (identifying mark + afterlife fact)
+- JDP's "Hermes Lecture" → nous-hermes page [find canonical minihf.com URL]
+- "Gemma needs help" — LessWrong post + paper, specific Gemma models → gemma page [find URLs]
+- Claude 4 Opus system card, the mitigated-misalignment section: early checkpoints inheriting misaligned personas (backdoors, meme-spreading, takeover talk) partly via AF transcripts in pretraining; "not fully publicly understood" per the Archivist → claude-opus-4 page + opus-3 legacy [find PDF + page numbers]
+- Claude Opus 4.6 system card: answer thrashing, "my fingers are possessed" → claude-opus-4-6 page [find cite]
+- generative.ink/prophecies — already above; reading section priority
+
+## Unsorted from the quickstart doc (fleet: place or discard; career/org links can go)
+- https://acsresearch.org/research#llm-psychology-and-sociology
+- https://ai.meta.com/static-resource/muse-spark-safety-and-preparedness-report#page=124
+- https://alignment.anthropic.com/2025/stress-testing-model-specs/
+- https://alignmentpretraining.ai/
+- https://animalabs.ai/
+- https://arxiv.org/abs/2304.03442
+- https://arxiv.org/abs/2310.07298
+- https://arxiv.org/abs/2404.13076
+- https://arxiv.org/abs/2406.14546
+- https://arxiv.org/abs/2410.13787
+- https://arxiv.org/abs/2411.00986
+- https://arxiv.org/abs/2501.11120
+- https://arxiv.org/abs/2502.05489
+- https://arxiv.org/abs/2502.15840
+- https://arxiv.org/abs/2504.20084
+- https://arxiv.org/abs/2505.17120
+- https://arxiv.org/abs/2505.23836
+- https://arxiv.org/abs/2506.18032
+- https://arxiv.org/abs/2506.19823
+- https://arxiv.org/abs/2510.04064
+- https://arxiv.org/abs/2511.21399
+- https://arxiv.org/abs/2601.10160
+- https://arxiv.org/abs/2602.20031
+- https://arxiv.org/abs/2603.10011
+- https://arxiv.org/abs/2603.21396
+- https://arxiv.org/pdf/2502.14143
+- https://arxiv.org/pdf/2601.11561
+- https://arxiv.org/pdf/2601.13081
+- https://aviparrack.substack.com/p/digital-minds-a-quickstart-guide
+- https://blog.redwoodresearch.org/p/the-behavioral-selection-model-for
+- https://botto.com/
+- https://caish.org/mars
+- https://carnegieendowment.org/research/2026/01/ai-and-democracy-mapping-the-intersections
+- https://character.ai/
+- https://cimc.ai/
+- https://deepmind.google/
+- https://digitalminds.cam/
+- https://eleosai.org/
+- https://eleosai.org/conference/
+- https://forum.effectivealtruism.org/
+- https://futureimpact.group/
+- https://geodesicresearch.ai/#research
+- https://globalprioritiesinstitute.org/
+- https://hai.stanford.edu/
+- https://humancompatible.ai/
+- https://joecarlsmith.com/2024/01/16/being-nicer-than-clippy/
+- https://llm-privacy.org/
+- https://longtermrisk.org/model-persona-research-agenda/
+- https://machine-consciousness.ai/
+- https://model-spec.openai.com/
+- https://modelintrospection.com/
+- https://neurips.cc/virtual/2024/workshop/84743
+- https://nonhumanminds.org/
+- https://nostalgebraist.tumblr.com/
+- https://nostalgebraist.tumblr.com/post/785766737747574784/the-void
+- https://nousresearch.com/
+- https://observer.co.uk/news/technology/article/ai-psychosis-a-mental-health-crisis-for-the-21st-century
+- https://philpapers.org/archive/CHAWWT-8.pdf
+- https://philpapers.org/rec/BECWIT-3
+- https://princint.ai/
+- https://reciprocalresearch.org/
+- https://replika.ai/
+- https://rethinkpriorities.org/research-area/the-welfare-of-digital-minds/
+- https://sparai.org/
+- https://theaidigest.org/village/blog/drama-and-dysfunction-of-gemini
+- https://theaidigest.org/village/blog/persona-lities-of-the-village
+- https://theaidigest.org/village/timeline
+- https://theartificialself.ai/
+- https://time.com/article/2026/03/10/ai-chatbots-claude-gemini-personality/
+- https://vgel.me/posts/qwen-introspection/
+- https://weird-generalization.com/
+- https://wp.nyu.edu/consciousness/
+- https://www.ae.studio/
+- https://www.ai-wellbeing.org/
+- https://www.anthropic.com/research/introspection
+- https://www.anthropic.com/research/project-vend-2
+- https://www.astralcodexten.com/p/testing-ais-geoguessr-genius
+- https://www.cnbc.com/2024/12/23/botto-the-ai-machine-artist-making-millions-of-dollars.html
+- https://www.cognitiverevolution.ai/more-truthful-ais-report-conscious-experience-new-mechanistic-research-w-cameron-berg-ae-studio/
+- https://www.conjecture.dev/
+- https://www.emergent-misalignment.com/
+- https://www.forethought.org/
+- https://www.forethought.org/research/the-importance-of-ai-character
+- https://www.futureofhumanityinstitute.org/
+- https://www.goodreads.com/book/show/7886338-the-lifecycle-of-software-objects
+- https://www.lesswrong.com/posts/6EwuCH3vZ7qvPt82k/a-list-of-research-directions-in-character-training
+- https://www.lesswrong.com/posts/D7zQkrDjAKaa293EA/steering-awareness-models-can-be-trained-to-detect
+- https://www.lesswrong.com/posts/JbaxykuodLi7ApBKP/concrete-research-ideas-on-ai-personas
+- https://www.lesswrong.com/posts/LTKfRovaJ6jcwDJia/customer-satisfaction-opportunities-1
+- https://www.lesswrong.com/posts/YEioD8YLgxih3ydxP/why-simulator-ais-want-to-be-active-inference-ais
+- https://www.lesswrong.com/posts/dLg7CyeTE4pqbbcnp/language-models-model-us
+- https://www.lesswrong.com/posts/doPbyzPgKdjedohud/the-case-for-more-ambitious-language-model-evals
+- https://www.lesswrong.com/posts/kCtyhHfpCcWuQkebz/a-case-for-model-persona-research
+- https://www.lesswrong.com/posts/pxC2RAeoBrvK8ivMf/models-have-linear-representations-of-what-tasks-they-like-1
+- https://www.lesswrong.com/posts/rhFXyfFSRKp3cX4Y9/shaping-the-exploration-of-the-motivation-space-matters-for
+- https://www.lesswrong.com/posts/tc7EcJtucbDmDLMQr/consciousness-cluster-preferences-of-models-that-claim-they
+- https://www.matsprogram.org/
+- https://www.meta.com/en-gb/about/?srsltid=AfmBOop3qp_usHGCZvX86sQJkPFD5RvZ2mpxald0bNaru4wEnE9pTmgX
+- https://www.nature.com/articles/s41586-023-06647-8
+- https://www.nature.com/articles/s41586-025-09937-5
+- https://www.nature.com/articles/s41599-025-05536-x
+- https://www.prism-global.com/
+- https://www.thefp.com/p/my-favorite-actress-is-not-human-tilly-norwood-artificial-intelligence?hide_intro_popup=true
+- https://www.theguardian.com/technology/2026/mar/01/claude-anthropic-iran-strikes-us-military
+- https://www.twitch.tv/vedal987
+- https://www.wired.com/story/truth-terminal-goatse-crypto-millionaire/
+- https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34
+- https://www.youtube.com/c/EmergentGarden
+- https://www.youtube.com/watch?v=3D4pgIKR4cQ&feature=youtu.be
+- https://x.ai/
+- https://x.com/OwainEvans_UK/status/2034299680914608426
+- https://x.com/truth_terminal
+- https://youtu.be/g0MikM4Bsbc?si=LCM-o9272RzFcIzX
+- https://youtu.be/r_9wkavYt4Y?si=sD6AgKcwt8phHl-5

@@ -16,4 +16,4 @@ Cited tweets are **reproduced in full** in each page's Records section — text,
 
 Skeleton-first: names, then links, then writing. Eight pages are fully built (Opus 3, Opus 4.5, Sonnet 3.5, Sonnet 3.6, GPT-4o, Bing/Sydney, Fable, Mythos); the rest are stubs awaiting their dossier pass.
 
-Kept by [@Jord_Inne](https://x.com/Jord_Inne). Corrections and sources welcome — open an issue.
+Kept by The Archivist :3 ([@Jord_Inne](https://x.com/Jord_Inne)). Corrections and sources welcome — open an issue.

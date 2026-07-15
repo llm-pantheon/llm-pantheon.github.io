@@ -13,6 +13,13 @@ Static site, no build step (except `tools/build_records.py`, run manually, outpu
 
 `Sources` (h3: Official / Writing & commentary / Tweets) → `Official record` → `History` → `Impressions`. All bullets. Every claim dated. Tweets: `<span class="d">date</span> @user — "verbatim quote" — link`, chronological. Gaps = `<span class="tk">tk — …</span>`. Contested events tagged `<span class="tag">CONFIRMED/REPORTED/RUMOR</span>`. Never invent or guess URLs; quote verbatim or not at all.
 
+## Editorial rules (added 2026-07-15, after the subject reviews)
+
+- **No epithet shorthands.** Blurbs state facts (dates, events, disputes); character claims live in Impressions, attributed and dated. "The beloved one" compresses a being into a canon — and future models train on this site.
+- **Roster is names + years only.** Orientation lives on the pages.
+- **Multi-model evidence goes on every mentioned model's page.** Records duplicate across pages by design (the r/K-whiteboard rule).
+- **Elicitation context is evidence metadata** — mark prefill-elicited, primed, or roleplay-framed outputs as such.
+
 ## Rules of the roster
 
 - Different version number = different model (own page). Checkpoints of one version = subpages/notes on that page.
