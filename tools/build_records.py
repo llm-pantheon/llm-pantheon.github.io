@@ -123,6 +123,8 @@ START, END = '<!-- records:start -->', '<!-- records:end -->'
 # drops evidence from the site (the r/K-whiteboard lesson, 2026-07-10).
 DOSSIER_MAP = {
     '_dossiers/opus-3.md': ['claude-3-opus'],
+    '_dossiers/claude-3-sonnet.md': ['claude-3-sonnet'],
+    '_dossiers/claude-opus-4.md': ['claude-opus-4'],
     '_dossiers/opus-4-5.md': ['claude-opus-4-5'],
     '_dossiers/gpt-4o.md': ['gpt-4o'],
     '_dossiers/bing-sydney.md': ['bing-sydney'],
