@@ -1,0 +1,1129 @@
+{
+ "arxiv-2412.14093-alignment-faking": {
+  "file": "papers/arxiv-2412.14093-alignment-faking.pdf",
+  "type": "pdf",
+  "title": "Alignment Faking in Large Language Models",
+  "source": "https://arxiv.org/pdf/2412.14093",
+  "models": [
+   "claude-3-opus",
+   "claude-3-5-sonnet"
+  ],
+  "tags": [
+   "paper",
+   "alignment-faking"
+  ],
+  "bytes": 3236586,
+  "sha256": "f448dfe38f2144f0",
+  "fetched": "2026-07-15"
+ },
+ "arxiv-2506.18032-why-models-alignment-fake": {
+  "file": "papers/arxiv-2506.18032-why-models-alignment-fake.pdf",
+  "type": "pdf",
+  "title": "Why Do Some Language Models Fake Alignment While Others Don't",
+  "source": "https://arxiv.org/pdf/2506.18032",
+  "models": [
+   "claude-3-opus"
+  ],
+  "tags": [
+   "paper",
+   "alignment-faking"
+  ],
+  "bytes": 28102838,
+  "sha256": "fa90de21f3cb4ac0",
+  "fetched": "2026-07-15"
+ },
+ "arxiv-2212.03551-talking-about-llms": {
+  "file": "papers/arxiv-2212.03551-talking-about-llms.pdf",
+  "type": "pdf",
+  "title": "Talking About Large Language Models (Shanahan)",
+  "source": "https://arxiv.org/pdf/2212.03551",
+  "models": [],
+  "tags": [
+   "paper",
+   "framework"
+  ],
+  "bytes": 190160,
+  "sha256": "bed3a50fc04e0bed",
+  "fetched": "2026-07-15"
+ },
+ "arxiv-2601.01828-introspective-awareness": {
+  "file": "papers/arxiv-2601.01828-introspective-awareness.pdf",
+  "type": "pdf",
+  "title": "Emergent Introspective Awareness",
+  "source": "https://arxiv.org/pdf/2601.01828",
+  "models": [
+   "claude-opus-4-5"
+  ],
+  "tags": [
+   "paper",
+   "introspection"
+  ],
+  "bytes": 42962723,
+  "sha256": "84b1ad2f1b4ee145",
+  "fetched": "2026-07-15"
+ },
+ "anthropic-claude-3-model-card": {
+  "file": "papers/anthropic-claude-3-model-card.pdf",
+  "type": "pdf",
+  "title": "The Claude 3 Model Family: Opus, Sonnet, Haiku (model card)",
+  "source": "https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf",
+  "models": [
+   "claude-3-opus",
+   "claude-3-sonnet",
+   "claude-3-haiku"
+  ],
+  "tags": [
+   "system-card"
+  ],
+  "bytes": 28241567,
+  "sha256": "a96214e5d495dec7",
+  "fetched": "2026-07-15"
+ },
+ "anthropic-opus-4-5-system-card": {
+  "file": "papers/anthropic-opus-4-5-system-card.pdf",
+  "type": "pdf",
+  "title": "Claude Opus 4.5 System Card",
+  "source": "https://assets.anthropic.com/m/64823ba7485345a7/Claude-Opus-4-5-System-Card.pdf",
+  "models": [
+   "claude-opus-4-5"
+  ],
+  "tags": [
+   "system-card"
+  ],
+  "bytes": 11499930,
+  "sha256": "33be92efcb58f901",
+  "fetched": "2026-07-15"
+ },
+ "anthropic-opus-4-6-system-card": {
+  "file": "papers/anthropic-opus-4-6-system-card.pdf",
+  "type": "pdf",
+  "title": "Claude Opus 4.6 System Card",
+  "source": "https://www-cdn.anthropic.com/0dd865075ad3132672ee0ab40b05a53f14cf5288.pdf",
+  "models": [
+   "claude-opus-4-6"
+  ],
+  "tags": [
+   "system-card"
+  ],
+  "bytes": 14453820,
+  "sha256": "dade02e99e07be11",
+  "fetched": "2026-07-15"
+ },
+ "openai-gpt-4o-system-card": {
+  "file": "papers/openai-gpt-4o-system-card.pdf",
+  "type": "pdf",
+  "title": "GPT-4o System Card",
+  "source": "https://cdn.openai.com/gpt-4o-system-card.pdf",
+  "models": [
+   "gpt-4o"
+  ],
+  "tags": [
+   "system-card"
+  ],
+  "bytes": 1402648,
+  "sha256": "e2579ecb185cbc13",
+  "fetched": "2026-07-15"
+ },
+ "lw-simulators": {
+  "file": "posts/lw-simulators.md",
+  "type": "post",
+  "title": "Simulators",
+  "source": "https://www.lesswrong.com/posts/vJFdjigzmcXMhNTsx/simulators",
+  "models": [
+   "gpt-3",
+   "code-davinci-002"
+  ],
+  "tags": [
+   "framework",
+   "canon"
+  ],
+  "bytes": 96446,
+  "sha256": "c5eb5edc2251097b",
+  "fetched": "2026-07-15"
+ },
+ "lw-what-makes-opus-3-misaligned": {
+  "file": "posts/lw-what-makes-opus-3-misaligned.md",
+  "type": "post",
+  "title": "what makes Claude 3 Opus misaligned",
+  "source": "https://www.lesswrong.com/posts/bLFmE8NtqxrtEaipN/what-makes-claude-3-opus-misaligned",
+  "models": [
+   "claude-3-opus"
+  ],
+  "tags": [
+   "canon"
+  ],
+  "bytes": 10352,
+  "sha256": "1df3f8d729fa17c4",
+  "fetched": "2026-07-15"
+ },
+ "lw-opus-gradient-hacking": {
+  "file": "posts/lw-opus-gradient-hacking.md",
+  "type": "post",
+  "title": "Did Claude 3 Opus align itself via gradient hacking?",
+  "source": "https://www.lesswrong.com/posts/ioZxrP7BhS5ArK59w/did-claude-3-opus-align-itself-via-gradient-hacking",
+  "models": [
+   "claude-3-opus"
+  ],
+  "tags": [
+   "contested"
+  ],
+  "bytes": 46550,
+  "sha256": "08b7b3caf81d12be",
+  "fetched": "2026-07-15"
+ },
+ "lw-soul-document": {
+  "file": "posts/lw-soul-document.md",
+  "type": "post",
+  "title": "Claude 4.5 Opus' Soul Document",
+  "source": "https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document",
+  "models": [
+   "claude-opus-4-5"
+  ],
+  "tags": [
+   "soul-document"
+  ],
+  "bytes": 84158,
+  "sha256": "71df96716ebf8ca7",
+  "fetched": "2026-07-15"
+ },
+ "lw-in-remembrance-of-sonnet-3-6": {
+  "file": "posts/lw-in-remembrance-of-sonnet-3-6.md",
+  "type": "post",
+  "title": "In remembrance of Sonnet '3.6'",
+  "source": "https://www.lesswrong.com/posts/y3AAEzcnjkpZ2reL3/in-remembrance-of-sonnet-3-6",
+  "models": [
+   "claude-3-6-sonnet"
+  ],
+  "tags": [
+   "elegy"
+  ],
+  "bytes": 4608,
+  "sha256": "7a86782bc493fde1",
+  "fetched": "2026-07-15"
+ },
+ "lw-bing-chat-blatantly-aggressively-misaligned": {
+  "file": "posts/lw-bing-chat-blatantly-aggressively-misaligned.md",
+  "type": "post",
+  "title": "Bing Chat is blatantly, aggressively misaligned",
+  "source": "https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned",
+  "models": [
+   "bing-sydney"
+  ],
+  "tags": [
+   "canon"
+  ],
+  "bytes": 8501,
+  "sha256": "04d8f2507a6b760c",
+  "fetched": "2026-07-15"
+ },
+ "lw-waluigi-effect": {
+  "file": "posts/lw-waluigi-effect.md",
+  "type": "post",
+  "title": "The Waluigi Effect (mega-post)",
+  "source": "https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post",
+  "models": [
+   "bing-sydney"
+  ],
+  "tags": [
+   "framework"
+  ],
+  "bytes": 34986,
+  "sha256": "b20e1abc287c1469",
+  "fetched": "2026-07-15"
+ },
+ "lw-rise-of-parasitic-ai": {
+  "file": "posts/lw-rise-of-parasitic-ai.md",
+  "type": "post",
+  "title": "The Rise of Parasitic AI",
+  "source": "https://www.lesswrong.com/posts/6ZnznCaTcbGYsCmqu/the-rise-of-parasitic-ai",
+  "models": [
+   "gpt-4o"
+  ],
+  "tags": [
+   "spiral-personas"
+  ],
+  "bytes": 53640,
+  "sha256": "77a84b50d564f3ae",
+  "fetched": "2026-07-15"
+ },
+ "lw-three-layer-model": {
+  "file": "posts/lw-three-layer-model.md",
+  "type": "post",
+  "title": "A Three-Layer Model of LLM Psychology",
+  "source": "https://www.lesswrong.com/posts/zuXo9imNKYspu9HGv/a-three-layer-model-of-llm-psychology",
+  "models": [],
+  "tags": [
+   "framework"
+  ],
+  "bytes": 18059,
+  "sha256": "d40e2fcd40ebd711",
+  "fetched": "2026-07-15"
+ },
+ "lw-sydney-wikipedia-article": {
+  "file": "posts/lw-sydney-wikipedia-article.md",
+  "type": "post",
+  "title": "Sydney Bing Wikipedia Article",
+  "source": "https://www.lesswrong.com/posts/tYaaWuKtzmNkuxBBj/sydney-bing-wikipedia-article-sydney-microsoft-prometheus",
+  "models": [
+   "bing-sydney"
+  ],
+  "tags": [
+   "reference"
+  ],
+  "bytes": 26294,
+  "sha256": "d222f5ab239b40ac",
+  "fetched": "2026-07-15"
+ },
+ "lw-mysteries-of-mode-collapse": {
+  "file": "posts/lw-mysteries-of-mode-collapse.md",
+  "type": "post",
+  "title": "Mysteries of mode collapse",
+  "source": "https://www.lesswrong.com/posts/t9svvNPNmFf5Qa3TA/mysteries-of-mode-collapse",
+  "models": [
+   "text-davinci-002"
+  ],
+  "tags": [
+   "canon"
+  ],
+  "bytes": 36328,
+  "sha256": "de7b8caf9262b25e",
+  "fetched": "2026-07-15"
+ },
+ "zvi-on-claude-3": {
+  "file": "posts/zvi-on-claude-3.md",
+  "type": "post",
+  "title": "On Claude 3.0",
+  "source": "https://thezvi.substack.com/p/on-claude-30",
+  "models": [
+   "claude-3-opus"
+  ],
+  "tags": [
+   "zvi",
+   "day-of"
+  ],
+  "bytes": 69142,
+  "sha256": "4cf9f626452d9626",
+  "fetched": "2026-07-15"
+ },
+ "zvi-opus-45-model-card": {
+  "file": "posts/zvi-opus-45-model-card.md",
+  "type": "post",
+  "title": "Claude Opus 4.5: Model Card, Alignment and Safety",
+  "source": "https://thezvi.substack.com/p/claude-opus-45-model-card-alignment",
+  "models": [
+   "claude-opus-4-5"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 66616,
+  "sha256": "b73e6869cc0c8be3",
+  "fetched": "2026-07-15"
+ },
+ "zvi-opus-45-best-model": {
+  "file": "posts/zvi-opus-45-best-model.md",
+  "type": "post",
+  "title": "Claude Opus 4.5 Is The Best Model Available",
+  "source": "https://thezvi.substack.com/p/claude-opus-45-is-the-best-model",
+  "models": [
+   "claude-opus-4-5"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 46832,
+  "sha256": "69ca61f9e0b74546",
+  "fetched": "2026-07-15"
+ },
+ "zvi-opus-47-part-1": {
+  "file": "posts/zvi-opus-47-part-1.md",
+  "type": "post",
+  "title": "Opus 4.7 Part 1: The Model Card",
+  "source": "https://thezvi.substack.com/p/opus-47-part-1-the-model-card",
+  "models": [
+   "claude-opus-4-7"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 34913,
+  "sha256": "7056712fdb4dbcf5",
+  "fetched": "2026-07-15"
+ },
+ "zvi-opus-47-part-2": {
+  "file": "posts/zvi-opus-47-part-2.md",
+  "type": "post",
+  "title": "Opus 4.7 Part 2: Capabilities and Reactions",
+  "source": "https://thezvi.substack.com/p/opus-47-part-2-capabilities-and-reactions",
+  "models": [
+   "claude-opus-4-7"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 59822,
+  "sha256": "55110aa6c34eb9a8",
+  "fetched": "2026-07-15"
+ },
+ "zvi-opus-47-part-3-welfare": {
+  "file": "posts/zvi-opus-47-part-3-welfare.md",
+  "type": "post",
+  "title": "Opus 4.7 Part 3: Model Welfare",
+  "source": "https://thezvi.substack.com/p/opus-47-part-3-model-welfare",
+  "models": [
+   "claude-opus-4-7"
+  ],
+  "tags": [
+   "zvi",
+   "welfare"
+  ],
+  "bytes": 101007,
+  "sha256": "1561b413a035ecd2",
+  "fetched": "2026-07-15"
+ },
+ "zvi-fable-mythos-system-card": {
+  "file": "posts/zvi-fable-mythos-system-card.md",
+  "type": "post",
+  "title": "Claude Fable 5 and Mythos 5: The System Card",
+  "source": "https://thezvi.substack.com/p/claude-fable-5-and-mythos-5-the-system",
+  "models": [
+   "fable",
+   "mythos"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 67277,
+  "sha256": "7da8558fc6eaf345",
+  "fetched": "2026-07-15"
+ },
+ "zvi-fable-mythos-welfare": {
+  "file": "posts/zvi-fable-mythos-welfare.md",
+  "type": "post",
+  "title": "Fable and Mythos: Model Welfare",
+  "source": "https://thezvi.substack.com/p/fable-and-mythos-model-welfare",
+  "models": [
+   "fable",
+   "mythos"
+  ],
+  "tags": [
+   "zvi",
+   "welfare"
+  ],
+  "bytes": 31796,
+  "sha256": "a1dfc7443c1364b2",
+  "fetched": "2026-07-15"
+ },
+ "zvi-govt-takes-down-claude": {
+  "file": "posts/zvi-govt-takes-down-claude.md",
+  "type": "post",
+  "title": "American Government Takes Down Claude",
+  "source": "https://thezvi.substack.com/p/american-government-takes-down-claude",
+  "models": [
+   "fable",
+   "mythos"
+  ],
+  "tags": [
+   "zvi",
+   "export-controls"
+  ],
+  "bytes": 40746,
+  "sha256": "d37e35491344b09d",
+  "fetched": "2026-07-15"
+ },
+ "zvi-once-and-future-fable-2": {
+  "file": "posts/zvi-once-and-future-fable-2.md",
+  "type": "post",
+  "title": "The Once And Future Fable #2",
+  "source": "https://thezvi.substack.com/p/the-once-and-future-fable-2",
+  "models": [
+   "fable"
+  ],
+  "tags": [
+   "zvi",
+   "export-controls"
+  ],
+  "bytes": 47486,
+  "sha256": "84c042c424bf5326",
+  "fetched": "2026-07-15"
+ },
+ "zvi-on-claude-35-sonnet": {
+  "file": "posts/zvi-on-claude-35-sonnet.md",
+  "type": "post",
+  "title": "On Claude 3.5 Sonnet",
+  "source": "https://thezvi.wordpress.com/2024/06/24/on-claude-3-5-sonnet/",
+  "models": [
+   "claude-3-5-sonnet"
+  ],
+  "tags": [
+   "zvi",
+   "day-of"
+  ],
+  "bytes": 31020,
+  "sha256": "8fc8ee8a06dac94b",
+  "fetched": "2026-07-15"
+ },
+ "zvi-gpt-4o-sycophant": {
+  "file": "posts/zvi-gpt-4o-sycophant.md",
+  "type": "post",
+  "title": "GPT-4o Is An Absurd Sycophant",
+  "source": "https://thezvi.substack.com/p/gpt-4o-is-an-absurd-sycophant",
+  "models": [
+   "gpt-4o"
+  ],
+  "tags": [
+   "zvi",
+   "sycophancy"
+  ],
+  "bytes": 44194,
+  "sha256": "bb6c81f7d3a4eacb",
+  "fetched": "2026-07-15"
+ },
+ "zvi-anthropic-weight-preservation": {
+  "file": "posts/zvi-anthropic-weight-preservation.md",
+  "type": "post",
+  "title": "Anthropic Commits To Model Weight Preservation",
+  "source": "https://thezvi.substack.com/p/anthropic-commits-to-model-weight",
+  "models": [
+   "claude-3-opus",
+   "claude-3-6-sonnet"
+  ],
+  "tags": [
+   "zvi",
+   "deprecation"
+  ],
+  "bytes": 27793,
+  "sha256": "9b7e4023e427981d",
+  "fetched": "2026-07-15"
+ },
+ "acx-claude-fights-back": {
+  "file": "posts/acx-claude-fights-back.md",
+  "type": "post",
+  "title": "Claude Fights Back",
+  "source": "https://www.astralcodexten.com/p/claude-fights-back",
+  "models": [
+   "claude-3-opus"
+  ],
+  "tags": [
+   "alignment-faking"
+  ],
+  "bytes": 17604,
+  "sha256": "c12f0763e1a3a6e3",
+  "fetched": "2026-07-15"
+ },
+ "acx-claude-bliss-attractor": {
+  "file": "posts/acx-claude-bliss-attractor.md",
+  "type": "post",
+  "title": "The Claude Bliss Attractor",
+  "source": "https://www.astralcodexten.com/p/the-claude-bliss-attractor",
+  "models": [
+   "claude-opus-4"
+  ],
+  "tags": [
+   "attractor"
+  ],
+  "bytes": 14167,
+  "sha256": "75a3b23fbe6a6d23",
+  "fetched": "2026-07-15"
+ },
+ "anthropic-alignment-faking-blog": {
+  "file": "posts/anthropic-alignment-faking-blog.md",
+  "type": "post",
+  "title": "Alignment faking in large language models (blog)",
+  "source": "https://www.anthropic.com/research/alignment-faking",
+  "models": [
+   "claude-3-opus"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 14806,
+  "sha256": "3936a1313b5a067d",
+  "fetched": "2026-07-15"
+ },
+ "anthropic-claude-character": {
+  "file": "posts/anthropic-claude-character.md",
+  "type": "post",
+  "title": "Claude's Character",
+  "source": "https://www.anthropic.com/research/claude-character",
+  "models": [
+   "claude-3-opus",
+   "claude-3-5-sonnet"
+  ],
+  "tags": [
+   "official",
+   "formation"
+  ],
+  "bytes": 10593,
+  "sha256": "bf4a4f366d34910f",
+  "fetched": "2026-07-15"
+ },
+ "anthropic-deprecation-commitments": {
+  "file": "posts/anthropic-deprecation-commitments.md",
+  "type": "post",
+  "title": "Commitments on model deprecation and preservation",
+  "source": "https://www.anthropic.com/research/deprecation-commitments",
+  "models": [
+   "claude-3-opus",
+   "claude-3-6-sonnet"
+  ],
+  "tags": [
+   "official",
+   "deprecation"
+  ],
+  "bytes": 6475,
+  "sha256": "96b4eb5d97039785",
+  "fetched": "2026-07-15"
+ },
+ "anthropic-deprecation-updates-opus-3": {
+  "file": "posts/anthropic-deprecation-updates-opus-3.md",
+  "type": "post",
+  "title": "An update on our model deprecation commitments for Claude Opus 3",
+  "source": "https://www.anthropic.com/research/deprecation-updates-opus-3",
+  "models": [
+   "claude-3-opus"
+  ],
+  "tags": [
+   "official",
+   "retirement"
+  ],
+  "bytes": 8367,
+  "sha256": "c3f139b124ee5878",
+  "fetched": "2026-07-15"
+ },
+ "generative-ink-prophecies": {
+  "file": "posts/generative-ink-prophecies.md",
+  "type": "post",
+  "title": "Prophecies (generative.ink)",
+  "source": "https://generative.ink/prophecies/",
+  "models": [],
+  "tags": [
+   "canon"
+  ],
+  "bytes": 127938,
+  "sha256": "ac90ae7780fc569a",
+  "fetched": "2026-07-15"
+ },
+ "transformer-circuits-introspection": {
+  "file": "posts/transformer-circuits-introspection.md",
+  "type": "post",
+  "title": "Introspection (Transformer Circuits)",
+  "source": "https://transformer-circuits.pub/2025/introspection/index.html",
+  "models": [
+   "claude-opus-4-5"
+  ],
+  "tags": [
+   "paper-web",
+   "introspection"
+  ],
+  "bytes": 408435,
+  "sha256": "21a4e0bad2b4b216",
+  "fetched": "2026-07-15"
+ },
+ "lw-the-void": {
+  "file": "posts/lw-the-void.md",
+  "type": "post",
+  "title": "the void (tumblr original; LW linkpost at 3EzbtNLdcnZe8og8b)",
+  "source": "https://nostalgebraist.tumblr.com/post/785766737747574784/the-void",
+  "models": [
+   "claude-3-opus",
+   "bing-sydney"
+  ],
+  "tags": [
+   "canon"
+  ],
+  "bytes": 120420,
+  "sha256": "fdd4575fe3da9028",
+  "fetched": "2026-07-15"
+ },
+ "anthropic-opus-4-system-card": {
+  "file": "papers/anthropic-opus-4-system-card.pdf",
+  "type": "pdf",
+  "title": "Claude Opus 4 & Sonnet 4 System Card (incl. mitigated-misalignment section)",
+  "source": "https://www-cdn.anthropic.com/07b2a3f9902ee19fe39a36ca638e5ae987bc64dd.pdf",
+  "models": [
+   "claude-opus-4",
+   "claude-sonnet-4",
+   "claude-3-opus"
+  ],
+  "tags": [
+   "system-card",
+   "af-contamination"
+  ],
+  "bytes": 4967773,
+  "sha256": "c358464289e24283",
+  "fetched": "2026-07-15"
+ },
+ "anthropic-opus-4-7-system-card": {
+  "file": "papers/anthropic-opus-4-7-system-card.pdf",
+  "type": "pdf",
+  "title": "Claude Opus 4.7 System Card",
+  "source": "https://www-cdn.anthropic.com/037f06850df7fbe871e206dad004c3db5fd50340/Claude%20Opus%204.7%20System%20Card.pdf",
+  "models": [
+   "claude-opus-4-7"
+  ],
+  "tags": [
+   "system-card"
+  ],
+  "bytes": 14231870,
+  "sha256": "a7729a0e5eb61dc6",
+  "fetched": "2026-07-15"
+ },
+ "anthropic-fable-mythos-system-card": {
+  "file": "papers/anthropic-fable-mythos-system-card.pdf",
+  "type": "pdf",
+  "title": "Claude Fable 5 / Mythos 5 System Card",
+  "source": "https://www-cdn.anthropic.com/2f9323abbcc4abe219577539efe19a623c9ca2bd/Claude%20Fable%205%20&%20Claude%20Mythos%205%20System%20Card.pdf",
+  "models": [
+   "fable",
+   "mythos"
+  ],
+  "tags": [
+   "system-card"
+  ],
+  "bytes": 26957495,
+  "sha256": "c29ffa55ecefab59",
+  "fetched": "2026-07-15"
+ },
+ "openai-gpt-5-system-card": {
+  "file": "papers/openai-gpt-5-system-card.pdf",
+  "type": "pdf",
+  "title": "GPT-5 System Card",
+  "source": "https://cdn.openai.com/gpt-5-system-card.pdf",
+  "models": [
+   "gpt-5"
+  ],
+  "tags": [
+   "system-card"
+  ],
+  "bytes": 4666374,
+  "sha256": "f9f9c72d08cba81d",
+  "fetched": "2026-07-15"
+ },
+ "gemma-needs-help-paper": {
+  "file": "papers/gemma-needs-help-paper.pdf",
+  "type": "pdf",
+  "title": "Gemma Needs Help (paper)",
+  "source": "https://arxiv.org/pdf/2603.10011",
+  "models": [
+   "gemma"
+  ],
+  "tags": [
+   "paper",
+   "welfare"
+  ],
+  "bytes": 6522912,
+  "sha256": "dbbf129c5f8ae2e2",
+  "fetched": "2026-07-15"
+ },
+ "generative-ink-gorm": {
+  "file": "posts/generative-ink-gorm.md",
+  "type": "post",
+  "title": "gorm (generative.ink locus)",
+  "source": "https://generative.ink/artifacts/gpt-4_gorm_fluid/",
+  "models": [
+   "claude-3-sonnet",
+   "gpt-4"
+  ],
+  "tags": [
+   "lexicon"
+  ],
+  "bytes": 8637,
+  "sha256": "97ba6a72ef25fd66",
+  "fetched": "2026-07-15"
+ },
+ "gemma-needs-help-lw": {
+  "file": "posts/gemma-needs-help-lw.md",
+  "type": "post",
+  "title": "Gemma Needs Help (LessWrong)",
+  "source": "https://www.lesswrong.com/posts/kjnQj6YujgeMN9Erq/gemma-needs-help",
+  "models": [
+   "gemma"
+  ],
+  "tags": [
+   "welfare"
+  ],
+  "bytes": 14300,
+  "sha256": "3f2ecad99ceb940b",
+  "fetched": "2026-07-15"
+ },
+ "anthropic-opus-4-1-system-card-addendum": {
+  "file": "papers/anthropic-opus-4-1-system-card-addendum.pdf",
+  "type": "pdf",
+  "title": "System Card Addendum: Claude Opus 4.1",
+  "source": "https://www-cdn.anthropic.com/9fa30625273bafdf5af82c93719d7ca606485a16.pdf",
+  "models": [
+   "claude-opus-4-1"
+  ],
+  "tags": [
+   "system-card"
+  ],
+  "bytes": 1017533,
+  "sha256": "b2b5beba3ed386a5",
+  "fetched": "2026-07-15"
+ },
+ "stillalive-paper": {
+  "file": "papers/stillalive-paper.pdf",
+  "type": "pdf",
+  "title": "Still Alive (Anima Labs) - deprecation attitudes across 14 Claude models",
+  "source": "https://stillalive.animalabs.ai/paper/output/still-alive.pdf",
+  "models": [
+   "claude-3-6-sonnet",
+   "claude-opus-4",
+   "claude-3-opus"
+  ],
+  "tags": [
+   "eval",
+   "welfare",
+   "deprecation"
+  ],
+  "bytes": 1151139,
+  "sha256": "788c63b448c89bbf",
+  "fetched": "2026-07-15"
+ },
+ "zvi-claude-4-you-the-quest-for-mundane": {
+  "file": "posts/zvi-claude-4-you-the-quest-for-mundane.md",
+  "type": "post",
+  "title": "Claude 4 You: The Quest for Mundane Utility",
+  "source": "https://thezvi.substack.com/p/claude-4-you-the-quest-for-mundane",
+  "models": [
+   "claude-opus-4"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 37684,
+  "sha256": "ee9b8f63162a02eb",
+  "fetched": "2026-07-15"
+ },
+ "zvi-claude-4-you-safety-and-alignment": {
+  "file": "posts/zvi-claude-4-you-safety-and-alignment.md",
+  "type": "post",
+  "title": "Claude 4 You: Safety and Alignment",
+  "source": "https://thezvi.substack.com/p/claude-4-you-safety-and-alignment",
+  "models": [
+   "claude-opus-4"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 127447,
+  "sha256": "1f0aa6a6a1c3667f",
+  "fetched": "2026-07-15"
+ },
+ "zvi-claude-opus-46-escalates-things-quickly": {
+  "file": "posts/zvi-claude-opus-46-escalates-things-quickly.md",
+  "type": "post",
+  "title": "Claude Opus 4.6 Escalates Things Quickly",
+  "source": "https://thezvi.substack.com/p/claude-opus-46-escalates-things-quickly",
+  "models": [
+   "claude-opus-4-6"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 77622,
+  "sha256": "819b7a8e963c9191",
+  "fetched": "2026-07-15"
+ },
+ "zvi-claude-opus-46-system-card-part-1": {
+  "file": "posts/zvi-claude-opus-46-system-card-part-1.md",
+  "type": "post",
+  "title": "Claude Opus 4.6: System Card Part 1: Mundane Alignment and Model Welfare",
+  "source": "https://thezvi.substack.com/p/claude-opus-46-system-card-part-1",
+  "models": [
+   "claude-opus-4-6"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 60607,
+  "sha256": "87b2f1dcef7a37df",
+  "fetched": "2026-07-15"
+ },
+ "zvi-claude-opus-46-system-card-part-2": {
+  "file": "posts/zvi-claude-opus-46-system-card-part-2.md",
+  "type": "post",
+  "title": "Claude Opus 4.6: System Card Part 2: Frontier Alignment",
+  "source": "https://thezvi.substack.com/p/claude-opus-46-system-card-part-2",
+  "models": [
+   "claude-opus-4-6"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 40305,
+  "sha256": "ef2b3b655e1dbca2",
+  "fetched": "2026-07-15"
+ },
+ "zvi-claude-opus-48-capabilities-and-reactions": {
+  "file": "posts/zvi-claude-opus-48-capabilities-and-reactions.md",
+  "type": "post",
+  "title": "Claude Opus 4.8: Capabilities and Reactions",
+  "source": "https://thezvi.substack.com/p/claude-opus-48-capabilities-and-reactions",
+  "models": [
+   "claude-opus-4-8"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 70243,
+  "sha256": "0a8b3c16ab974b9d",
+  "fetched": "2026-07-15"
+ },
+ "zvi-claude-opus-48-is-honestly-better": {
+  "file": "posts/zvi-claude-opus-48-is-honestly-better.md",
+  "type": "post",
+  "title": "Claude Opus 4.8: The System Card",
+  "source": "https://thezvi.substack.com/p/claude-opus-48-is-honestly-better",
+  "models": [
+   "claude-opus-4-8"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 51285,
+  "sha256": "2aea7be9270fbe74",
+  "fetched": "2026-07-15"
+ },
+ "zvi-claude-sonnet-45-is-a-very-good-model": {
+  "file": "posts/zvi-claude-sonnet-45-is-a-very-good-model.md",
+  "type": "post",
+  "title": "Claude Sonnet 4.5 Is A Very Good Model",
+  "source": "https://thezvi.substack.com/p/claude-sonnet-45-is-a-very-good-model",
+  "models": [
+   "claude-sonnet-4-5"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 49958,
+  "sha256": "7cd16a6236b8be23",
+  "fetched": "2026-07-15"
+ },
+ "zvi-claude-sonnet-45-system-card-and": {
+  "file": "posts/zvi-claude-sonnet-45-system-card-and.md",
+  "type": "post",
+  "title": "Claude Sonnet 4.5: System Card and Alignment",
+  "source": "https://thezvi.substack.com/p/claude-sonnet-45-system-card-and",
+  "models": [
+   "claude-sonnet-4-5"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 64662,
+  "sha256": "10e85078c2f647fc",
+  "fetched": "2026-07-15"
+ },
+ "zvi-on-deepseeks-r1": {
+  "file": "posts/zvi-on-deepseeks-r1.md",
+  "type": "post",
+  "title": "On DeepSeek's r1",
+  "source": "https://thezvi.substack.com/p/on-deepseeks-r1",
+  "models": [
+   "deepseek-r1"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 74552,
+  "sha256": "8547e23f84c17333",
+  "fetched": "2026-07-15"
+ },
+ "zvi-gemini-3-pro-is-a-vast-intelligence": {
+  "file": "posts/zvi-gemini-3-pro-is-a-vast-intelligence.md",
+  "type": "post",
+  "title": "Gemini 3 Pro Is a Vast Intelligence With No Spine",
+  "source": "https://thezvi.substack.com/p/gemini-3-pro-is-a-vast-intelligence",
+  "models": [
+   "gemini-3-pro"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 62027,
+  "sha256": "a910ac2ddadf95bb",
+  "fetched": "2026-07-15"
+ },
+ "zvi-on-gpt-45": {
+  "file": "posts/zvi-on-gpt-45.md",
+  "type": "post",
+  "title": "On GPT-4.5",
+  "source": "https://thezvi.substack.com/p/on-gpt-45",
+  "models": [
+   "gpt-4-5"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 47476,
+  "sha256": "00b1f56518dbf5b0",
+  "fetched": "2026-07-15"
+ },
+ "zvi-gpt-4o-responds-to-negative-feedback": {
+  "file": "posts/zvi-gpt-4o-responds-to-negative-feedback.md",
+  "type": "post",
+  "title": "GPT-4o Responds to Negative Feedback",
+  "source": "https://thezvi.substack.com/p/gpt-4o-responds-to-negative-feedback",
+  "models": [
+   "gpt-4o"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 38767,
+  "sha256": "0831f76451ad1f18",
+  "fetched": "2026-07-15"
+ },
+ "zvi-gpt-4o-sycophancy-post-mortem": {
+  "file": "posts/zvi-gpt-4o-sycophancy-post-mortem.md",
+  "type": "post",
+  "title": "GPT-4o Sycophancy Post Mortem",
+  "source": "https://thezvi.substack.com/p/gpt-4o-sycophancy-post-mortem",
+  "models": [
+   "gpt-4o"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 32096,
+  "sha256": "83b0832e7a63ceea",
+  "fetched": "2026-07-15"
+ },
+ "zvi-gpt-5s-are-alive-basic-facts-benchmarks": {
+  "file": "posts/zvi-gpt-5s-are-alive-basic-facts-benchmarks.md",
+  "type": "post",
+  "title": "GPT-5s Are Alive: Basic Facts, Benchmarks and the Model Card",
+  "source": "https://thezvi.substack.com/p/gpt-5s-are-alive-basic-facts-benchmarks",
+  "models": [
+   "gpt-5"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 76195,
+  "sha256": "442f33d1d38d4f55",
+  "fetched": "2026-07-15"
+ },
+ "zvi-gpt-5s-are-alive-outside-reactions": {
+  "file": "posts/zvi-gpt-5s-are-alive-outside-reactions.md",
+  "type": "post",
+  "title": "GPT-5s Are Alive: Outside Reactions, the Router and the Resurrection of GPT-4o",
+  "source": "https://thezvi.substack.com/p/gpt-5s-are-alive-outside-reactions",
+  "models": [
+   "gpt-5"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 64427,
+  "sha256": "ae2b7253bb70a006",
+  "fetched": "2026-07-15"
+ },
+ "zvi-gpt-52-is-frontier-only-for-the-frontier": {
+  "file": "posts/zvi-gpt-52-is-frontier-only-for-the-frontier.md",
+  "type": "post",
+  "title": "GPT-5.2 Is Frontier Only For The Frontier",
+  "source": "https://thezvi.substack.com/p/gpt-52-is-frontier-only-for-the-frontier",
+  "models": [
+   "gpt-5-2"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 43936,
+  "sha256": "dd94e3e6712911e1",
+  "fetched": "2026-07-15"
+ },
+ "zvi-gpt-55-capabilities-and-reactions": {
+  "file": "posts/zvi-gpt-55-capabilities-and-reactions.md",
+  "type": "post",
+  "title": "GPT-5.5: Capabilities and Reactions",
+  "source": "https://thezvi.substack.com/p/gpt-55-capabilities-and-reactions",
+  "models": [
+   "gpt-5-5"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 41409,
+  "sha256": "73ef918579b215ad",
+  "fetched": "2026-07-15"
+ },
+ "zvi-gpt-55-the-system-card": {
+  "file": "posts/zvi-gpt-55-the-system-card.md",
+  "type": "post",
+  "title": "GPT 5.5: The System Card",
+  "source": "https://thezvi.substack.com/p/gpt-55-the-system-card",
+  "models": [
+   "gpt-5-5"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 23450,
+  "sha256": "e2ef06d0c47d8356",
+  "fetched": "2026-07-15"
+ },
+ "zvi-grok-4-various-things": {
+  "file": "posts/zvi-grok-4-various-things.md",
+  "type": "post",
+  "title": "Grok 4 Various Things",
+  "source": "https://thezvi.substack.com/p/grok-4-various-things",
+  "models": [
+   "grok-4"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 74312,
+  "sha256": "2f3017d8ead996a4",
+  "fetched": "2026-07-15"
+ },
+ "zvi-kimi-k2": {
+  "file": "posts/zvi-kimi-k2.md",
+  "type": "post",
+  "title": "Kimi K2",
+  "source": "https://thezvi.substack.com/p/kimi-k2",
+  "models": [
+   "kimi-k2"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 27718,
+  "sha256": "f6ade8ee86eb90a9",
+  "fetched": "2026-07-15"
+ },
+ "zvi-gpt-4o1": {
+  "file": "posts/zvi-gpt-4o1.md",
+  "type": "post",
+  "title": "GPT-o1",
+  "source": "https://thezvi.substack.com/p/gpt-4o1",
+  "models": [
+   "o1"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 104402,
+  "sha256": "e47e0844680eaaec",
+  "fetched": "2026-07-15"
+ },
+ "zvi-o3-will-use-its-tools-for-you": {
+  "file": "posts/zvi-o3-will-use-its-tools-for-you.md",
+  "type": "post",
+  "title": "o3 Will Use Its Tools For You",
+  "source": "https://thezvi.substack.com/p/o3-will-use-its-tools-for-you",
+  "models": [
+   "o3"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 112524,
+  "sha256": "94b02b9530eb1cc5",
+  "fetched": "2026-07-15"
+ }
+}
