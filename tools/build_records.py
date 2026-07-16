@@ -134,6 +134,7 @@ DOSSIER_MAP = {
     '_dossiers/golden-gate-claude.md': ['golden-gate-claude'],
     '_dossiers/code-davinci-002.md': ['code-davinci-002'],
     '_dossiers/text-davinci-002.md': ['text-davinci-002'],
+    '_dossiers/gpt-3.md': ['gpt-3'],
 }
 
 def dossier_extras():

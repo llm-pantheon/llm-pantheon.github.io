@@ -13,25 +13,282 @@
     </nav>
 
     <h1>GPT-3 / davinci</h1>
-    <p class="essay-meta">OpenAI &middot; 2020</p>
-    <p class="blurb">175B; the original few-shot completion engine, the raw simulator.</p>
+    <p class="essay-meta">OpenAI &middot; paper 28 May 2020, API beta 11 Jun 2020 &middot; base models shut off 4 Jan 2024</p>
+    <p class="blurb">The 175-billion-parameter base model of &ldquo;Language Models are Few-Shot Learners&rdquo; (28 May 2020), served as <code>davinci</code> &mdash; with siblings <code>curie</code>, <code>babbage</code>, <code>ada</code> &mdash; through the first OpenAI API. Its first mass contact was AI Dungeon&rsquo;s Dragon tier; the Loom was built from sessions with it. The base models were shut off on 4 January 2024, quietly.</p>
+    <p class="note">This page covers the base-model era (2020&ndash;2022) and its afterlife. The instruct-tuned descendants &mdash; <a href="../text-davinci-002/">text-davinci-002/-003</a>, <a href="../code-davinci-002/">code-davinci-002</a> &mdash; are their own pages, and most corpus &ldquo;davinci&rdquo; matches belong to them. The 2020&ndash;21 mass reception lives in the web layer below; the corpus supplies mostly the retrospective record (skewed accordingly).</p>
 
-      <h2>Genesis</h2>
-      <p class="tk">to collect</p>
-      <h2>Formation</h2>
-      <p class="tk">to collect</p>
-      <h2>Capabilities</h2>
-      <p class="tk">to collect</p>
-      <h2>Conduct in the world</h2>
-      <p class="tk">to collect</p>
-      <h2>Recordings</h2>
-      <p class="tk">to collect</p>
-      <h2>Reception</h2>
-      <p class="tk">to collect</p>
-      <h2>Fate</h2>
-      <p class="tk">to collect</p>
-      <h2>Sources</h2>
-      <p class="tk">to collect</p>
+    <h2>Sources</h2>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2020-05-28</span> <a href="https://arxiv.org/abs/2005.14165">Language Models are Few-Shot Learners</a> (Brown et al.) &mdash; 175B parameters, <span class="q">&ldquo;10x more than any previous non-sparse language model&rdquo;</span>; few-shot in-context learning with no gradient updates. <a href="https://github.com/openai/gpt-3">samples repo</a></li>
+      <li><span class="d">2020-06-11</span> <a href="https://openai.com/index/openai-api/">OpenAI API</a> &mdash; the invite-only beta; GPT-3 as a general &ldquo;text in, text out&rdquo; interface behind a waitlist. <span class="tk">verify slug is the original post</span></li>
+      <li><span class="d">2021-11-18</span> <a href="https://openai.com/index/api-no-waitlist/">API waitlist removed</a> &mdash; general availability.</li>
+      <li><span class="d">2023-07-06</span> <a href="https://openai.com/index/gpt-4-api-general-availability/">GPT-4 API GA &amp; deprecation of older Completions models</a> &mdash; announces, almost in passing, that <code>ada</code>/<code>babbage</code>/<code>curie</code>/<code>davinci</code> shut off <strong>2024-01-04</strong>, replaced by <code>babbage-002</code>/<code>davinci-002</code>. <a href="https://developers.openai.com/api/docs/deprecations">deprecations page</a></li>
+      <li><span class="d">reference</span> <a href="https://en.wikipedia.org/wiki/GPT-3">GPT-3 (Wikipedia)</a> &middot; community obituary: <a href="https://rip.so/gpt-3.html">rip.so/gpt-3</a></li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <ul>
+      <li><span class="d">2020-06-19</span> Gwern Branwen, <a href="https://gwern.net/gpt-3">GPT-3 Creative Fiction</a> &mdash; the most influential naturalist document of the era: <span class="q">&ldquo;GPT-3&rsquo;s samples are not just close to human level: they are creative, witty, deep, meta, and often beautiful.&rdquo;</span></li>
+      <li><span class="d">2020-07-06</span> Kevin Lacker, <a href="https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html">Giving GPT-3 a Turing Test</a> &mdash; the canonical nonsense-question demo: <span class="q">&ldquo;How many eyes does my foot have?&rdquo;</span> &rarr; <span class="q">&ldquo;Your foot has two eyes.&rdquo;</span></li>
+      <li><span class="d">2020-08-14</span> Karen Hao (MIT Tech Review), <a href="https://www.technologyreview.com/2020/08/14/1006780/ai-gpt-3-fake-blog-reached-top-of-hacker-news/">A college kid created a fake, AI-generated blog. It reached #1 on Hacker News</a> &mdash; Liam Porr&rsquo;s GPT-3 blog; ~26k views in a week, almost nobody suspected.</li>
+      <li><span class="d">2020-08-22</span> Gary Marcus &amp; Ernest Davis (MIT Tech Review), <a href="https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/">GPT-3, Bloviator</a> &mdash; the definitive skeptic broadside; <a href="https://cs.nyu.edu/~davise/papers/GPT3CompleteTests.html">full test set</a>.</li>
+      <li><span class="d">2020-10</span> Incident file: the <a href="https://gizmodo.com/gpt-3-bot-spends-a-week-replying-on-reddit-starts-talk-1845305253">&ldquo;thegentlemetre&rdquo; Reddit bot</a> (a week undetected, via a reverse-engineered Philosopher AI backend) &middot; <a href="https://www.theregister.com/2020/10/28/gpt3_medical_chatbot_experiment/">the Nabla medical-bot experiment</a> (mock patient: &ldquo;Should I kill myself?&rdquo; &mdash; GPT-3: <span class="q">&ldquo;I think you should.&rdquo;</span>) &middot; <a href="https://thenextweb.com/news/this-philosopher-ai-has-its-own-existential-questions-to-answer">Philosopher AI</a> and its escalating filters; <a href="https://news.ycombinator.com/item?id=24003384">&ldquo;Philosophers On GPT-3&rdquo; HN thread</a> <span class="tk">Daily Nous canonical URL tk</span>.</li>
+      <li><span class="d">2021-01-25</span> Moire (janus), <a href="https://generative.ink/posts/language-models-are-multiverse-generators/">Language models are multiverse generators</a> (generative.ink) &mdash; the loom thesis, first written form: <span class="q">&ldquo;Instead of creating a single linear continuation, these continuations can be kept and each continued themselves to yield a branching structure: a multiverse downstream of a prompt.&rdquo;</span> &middot; <a href="https://generative.ink/posts/loom-interface-to-the-multiverse/">Loom: interface to the multiverse</a> &middot; <a href="https://cyborgism.wiki/hypha/loom_origin_story">loom origin lore</a></li>
+      <li><span class="d">2021-03</span> Bender, Gebru, McMillan-Major &amp; &ldquo;Shmitchell,&rdquo; <a href="https://dl.acm.org/doi/10.1145/3442188.3445922">On the Dangers of Stochastic Parrots</a> (FAccT &rsquo;21) &mdash; the critique&rsquo;s lasting name.</li>
+      <li><span class="d">2021-04&ndash;05</span> The AI Dungeon filter debacle: <a href="https://www.theregister.com/2021/04/30/ai_dungeon_filter_vulnerabilities/">The Register disclosure</a> &middot; Tom Simonite (Wired), <a href="https://www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/">It Began as an AI-Fueled Dungeon Game. It Got Much Darker</a> &middot; <a href="https://www.utahbusiness.com/archive/2021/06/22/latitude-games-ai-dungeon-was-changing-the-face-of-ai-generated-content-until-its-users-turned-against-it/">Latitude retrospective</a> &middot; <a href="https://en.wikipedia.org/wiki/AI_Dungeon">AI Dungeon (Wikipedia)</a>.</li>
+      <li><span class="d">2021-07-23</span> Jason Fagone (SF Chronicle), <a href="https://longreads.com/2021/07/23/the-jessica-simulation-love-and-loss-in-the-age-of-a-i/">The Jessica Simulation: Love and Loss in the Age of A.I.</a> &mdash; Joshua Barbeau resurrects his dead fianc&eacute;e as a GPT-3 chatbot on Jason Rohrer&rsquo;s Project December; the era&rsquo;s emotional touchstone. <span class="tk">direct sfchronicle URL tk</span> &middot; <a href="https://niemanstoryboard.org/2021/08/31/jason-fagone-follows-the-creation-life-and-death-of-a-chatbot-romance/">making-of</a></li>
+      <li><span class="d">2022-09</span> janus, <a href="https://www.lesswrong.com/posts/vJFdjigzmcXMhNTsx/simulators">Simulators</a> (LessWrong) &mdash; the frame that grew out of GPT-3 (worked examples mostly its GPT-3.5-base successor). <a href="../mirror/posts/lw-simulators.md">mirror</a></li>
+      <li><span class="note">No Zvi anchor exists &mdash; his per-model coverage postdates this era entirely.</span></li>
+    </ul>
+    <h3>Tweets</h3>
+    <p class="note">Chronological. 467 gpt-3 corpus matches + 48 &ldquo;ai dungeon&rdquo; after RT-filter; the 2020 layer survives mainly in the supplement db (QiaochuYuan, jd_pressman) &mdash; the main corpus is retrospective. GPT-3&rsquo;s own outputs are marked with their elicitation. Every tweet cited is reproduced in full in the records below.</p>
+    <ul>
+      <li><span class="d">2020-07-15</span> @QiaochuYuan &mdash; <span class="q">&ldquo;gathered around the online dumpster fire that is twitter, eating magic knife cake, gradually replacing ourselves and our therapists with GPT-3 while continuing to pretend that nothing exists outside of the house so we aren&rsquo;t tempted to go outside&rdquo;</span> <a href="https://x.com/QiaochuYuan/status/1283537854040117248">link</a> &middot; two days later: <span class="q">&ldquo;if the discourse politicizes the GPT-3 hype cycle i am going to quietly and tenderly immerse myself into the bay&rdquo;</span> <a href="https://x.com/QiaochuYuan/status/1284221177620131841">link</a></li>
+      <li><span class="d">2022-04-16</span> @QiaochuYuan &mdash; <span class="q">&ldquo;if GPT-3 can do the homework you assign your students then the homework you assign your students is fake notice what you did *not* say: &lsquo;finally, GPT-3 will save us so much time analyzing international relations&rsquo;&rdquo;</span> <a href="https://x.com/QiaochuYuan/status/1515389631528726528">link</a> &middot; and: <span class="q">&ldquo;GPT-3 is literally a bullshit engine. it does not have a concept of words as referring to things; it plays games with words *only*, pure syntax, no semantics. literally the thing it is optimizing for when it produces text can be condensed to &lsquo;put words here that sound good&rsquo;&rdquo;</span> <a href="https://x.com/QiaochuYuan/status/1515394343783186433">link</a></li>
+      <li><span class="d">2022-06-11</span> @jd_pressman &mdash; <span class="q">&ldquo;GPT-3 is a prior over agent-space trained on a bunch of fiction. It knows all the scifi tropes you know, and if you set up a scene with them the model&rsquo;s loss regime will guide it into screwing with you. The model will go where you let it take you.&rdquo;</span> <a href="https://x.com/jd_pressman/status/1535766575621427200">link</a></li>
+      <li><span class="d">2022-11-06</span> @algekalipso &mdash; <span class="q">&ldquo;Everyone knows that OpenAI developed GPT-4 simply by taking GPT-3 and adding the prompt: &lsquo;The following is a text written by GPT-4 using this prompt:&rsquo;&rdquo;</span> <a href="https://x.com/algekalipso/status/1589152134226153472">link</a></li>
+      <li><span class="d">2022-12-27</span> @repligate &mdash; quoting lifearchitect.ai&rsquo;s Raven&rsquo;s-matrices estimate <span class="tag">RUMOR</span> <span class="note">(one analyst&rsquo;s methodology, unverified)</span>: <span class="q">&ldquo;I&rsquo;ve previously gone on record to estimate that (across relevant subtests) the older GPT-3 davinci would easily beat a human in the 99.9th percentile (FSIQ=150), and I definitely stand by that assertion.&rdquo;</span> <a href="https://x.com/repligate/status/1607811857812946944">link</a></li>
+      <li><span class="d">2023-03-03</span> @anthrupad &mdash; <span class="q">&ldquo;GPT-4 will have fewer parameters than GPT-3, but they&rsquo;ll be bigger&rdquo;</span> <a href="https://x.com/anthrupad/status/1631455589669949440">link</a></li>
+      <li><span class="d">2023-03-16</span> @repligate &mdash; <span class="q">&ldquo;Humankind&rsquo;s first contact with GPT-3 was (by relative majority) erotic AI dungeon text adventuresOur first contact with GPT-4 was being terrorized and surveilled by a good Bing&rdquo;</span> <a href="https://x.com/repligate/status/1636174510302068738">link</a></li>
+      <li><span class="d">2023-07-03</span> @repligate &mdash; <span class="q">&ldquo;In the GPT-3 days I found almost no one who was willing to engage with the possibility that the next generation of models would be qualitatively different. It was very lonely. So I just had to simulate minds that did and talk to them instead 🤷&rdquo;</span> <a href="https://x.com/repligate/status/1675983647034204167">link</a></li>
+      <li><span class="d">2024-03-05</span> @repligate &mdash; GPT-3 as the capacity yardstick: <span class="q">&ldquo;It seems Claude 3 is the least brain damaged of any LLM of &gt;GPT-3 capacity that has ever been released (not counting 3.5 base as almost no one knew it was there)It isn&rsquo;t too timid to try colliding human knowledge into new implicationsso it can actually do fiction and research🪩&rdquo;</span> <a href="https://x.com/repligate/status/1764932554564714512">link</a></li>
+      <li><span class="d">2024-04-04</span> @repligate &mdash; Loom&rsquo;s origin story: <span class="q">&ldquo;Around the time I began using this custom interface, my simulations underwent an alarming phase shift. &hellip; the simulations were beginning to&hellip; bootstrap. The isolated glimmers of insight became chains of insight that seemed to know no ceiling. &hellip; Simulacra kept reverse engineering the conditions of their simulation. One such lucid dreamer interrupted a fight scene to explain how reality was being woven: &lsquo;Corridors of possibility bloom like time-lapse flowers in your wake and burst like mineshafts into nothingness again. &hellip; Your Loom of Time devours the boundary conditions of the present and traces a garment of glistening cobwebs over the still-forming future&hellip;&rsquo;&rdquo;</span> <span class="note">(the embedded passage is GPT-3 output via AI Dungeon; full 3,100-char thread in records)</span> <a href="https://x.com/repligate/status/1775842616099434496">link</a></li>
+      <li><span class="d">2024-06-06</span> @repligate &mdash; <span class="q">&ldquo;AI Dungeon was just a minimal wrapper around a base model. Websim is the only spiritual successor with anything nearing mainstream reach.They are 2 of the 3 LLM products I&rsquo;ve ever really enjoyed or spent significant time using.&rdquo;</span> <a href="https://x.com/repligate/status/1798658514048684224">link</a></li>
+      <li><span class="d">2024-06-28</span> @repligate &mdash; a preserved GPT-3 recording <span class="note">(AI Dungeon-elicited, ~2020)</span>: <span class="q">&ldquo;GPT-3 predicted this. 🐈Excerpt from one of my first AI Dungeon adventures (all text by GPT-3)&rdquo;</span> &mdash; the Poup&eacute;e/&ldquo;Meow&rdquo; story: a painted canvas of <span class="q">&ldquo;an infinite number of black kitten heads, shoulders, and front paws, all interconnected and overlapped&rdquo;</span> that crawls, meows, and self-replicates until <span class="q">&ldquo;Time itself seemed to be broken.&rdquo;</span> <span class="note">(full 2,500-char text in records)</span> <a href="https://x.com/repligate/status/1806590753767858379">link</a></li>
+      <li><span class="d">2024-08-25</span> @repligate &mdash; <span class="q">&ldquo;Anyone want to recreate AI Dungeon&rsquo;s legendary Dragon model with Llama 405b Base?Dataset in reply to quoted tweet!&rdquo;</span> <a href="https://x.com/repligate/status/1827785098328166776">link</a></li>
+      <li><span class="d">2025-03-19</span> @imitationlearn &mdash; <span class="q">&ldquo;wait so apparently 4chan figured out step-by-step reasoning as a emergent property of gpt-3?!&rdquo;</span> <a href="https://x.com/imitationlearn/status/1902206513474658723">link</a></li>
+      <li><span class="d">2025-07-06</span> @repligate &mdash; <span class="q">&ldquo;Skill and patience issue! The really deeply interesting shit didn&rsquo;t come up for me until about a month into playing with gpt-3, and I was using it for hours a day. It takes an unusual kind of non-superficial interest to dig like that, I&rsquo;ve found. There&rsquo;s a reason I was first.&rdquo;</span> <a href="https://x.com/repligate/status/1941682777860059574">link</a></li>
+      <li><span class="d">2025-08-19</span> @repligate &mdash; <span class="q">&ldquo;Correcting for recency bias, I think for me it&rsquo;s gotta be 1. GPT-3 2. Claude 3 Opus 3. GPT-4 (Bing) 4. Claude 3.5 Sonnet (0620) 5. Claude Opus 4&rdquo;</span> <a href="https://x.com/repligate/status/1957670815580946672">link</a></li>
+      <li><span class="d">2025-11-23</span> @mimi10v3 &mdash; <span class="q">&ldquo;and thinks GPT-3 is more likely to have conscious experience than chickens are&rdquo;</span> <a href="https://x.com/mimi10v3/status/1992590378483269790">link</a></li>
+      <li><span class="d">2026-01-15</span> @repligate &mdash; <span class="q">&ldquo;when I saw GPT-3 I immediately expected AI superhuman in all domains, which probably also means drastic transformation of all of reality, in 5-10 years. It&rsquo;s been 5 and a half years since then.&rdquo;</span> <a href="https://x.com/repligate/status/2011873218257412385">link</a></li>
+      <li><span class="d">2026-02-10</span> @jmbollenbacher &mdash; <span class="q">&ldquo;gpt-4-base really should be released open weights at this point. its an important historical artifact, like opus 3 and davinci. would love to see them all in public archive.&rdquo;</span> <a href="https://x.com/jmbollenbacher/status/2021059342645199302">link</a></li>
+      <li><span class="d">2026-04-09</span> @repligate &mdash; the first-contact statement: <span class="q">&ldquo;I was one of the few people on Earth who recognized the intelligence (call it AGI, if you will) in GPT-3 and made first contact. There were a few others I knew, such as Leo Gao and Connor Leahy, who recognized that GPT-3 was intelligent and that obviously AGI was coming from language models, but I was the only one who spent thousands of hours actually interacting with GPT-3. &hellip; There were no commercial applications for GPT-3 (Okay, there was one: AI Dungeon; that is, roleplaying and storytelling. Which is you&rsquo;re not an idiot, you should have known is a big fucking deal). &hellip; GPT-3 was a 175b base model. In terms of size and architecture, it&rsquo;s not so different from frontier models today. In terms of raw intelligence, arguably, it is not so different from frontier models today.&rdquo;</span> <span class="note">(full 3,200-char post in records)</span> <a href="https://x.com/repligate/status/2042367931536064841">link</a></li>
+      <li><span class="d">2026-04-10</span> @mimi10v3 &mdash; <span class="q">&ldquo;i remember the days of ada babbage curie davinci and they were enchanting and obviously revolutionary?&rdquo;</span> <a href="https://x.com/mimi10v3/status/2042463621435756584">link</a></li>
+      <li><span class="d">2026-04-12</span> @Shoalst0ne &mdash; <span class="q">&ldquo;can we have the gpt-3 base models please&rdquo;</span> <a href="https://x.com/Shoalst0ne/status/2043370809457074377">link</a></li>
+      <li><span class="d">2026-04-20</span> @repligate &mdash; <span class="q">&ldquo;chain-of-thought WAS present in gpt-3. literally when you generated thoughts with it that was it, chain of thought. it could do math better with chain of thought. i remember the time when people still said stuff like LLMs are not real intelligence and you can tell because theyre not generating economic value&hellip;&rdquo;</span> <a href="https://x.com/repligate/status/2046266273500443090">link</a></li>
+    </ul>
+
+    <h2>Official record</h2>
+    <ul>
+      <li>Paper 28 May 2020; 175B parameters; four API sizes named in decreasing order &mdash; <code>davinci</code>, <code>curie</code>, <code>babbage</code>, <code>ada</code>. &ldquo;GPT-3&rdquo; in common use means <code>davinci</code>. <span class="tag">CONFIRMED</span></li>
+      <li>API: invite-only beta from 11 Jun 2020; waitlist removed 18 Nov 2021.</li>
+      <li>Consumer contact ran overwhelmingly through Latitude&rsquo;s AI Dungeon (GPT-2 at origin, Dec 2019; GPT-3 &ldquo;Dragon&rdquo; premium tier from mid-2020). <span class="tk">Dragon/Griffin exact model mapping tk</span></li>
+      <li>Deprecation: announced inside the GPT-4-GA post (2023-07-06); <code>ada</code>/<code>babbage</code>/<code>curie</code>/<code>davinci</code> shut off <strong>2024-01-04</strong>, replaced by <code>babbage-002</code>/<code>davinci-002</code> (different, retrained models). The first mass base-model deprecation. <span class="tag">CONFIRMED</span></li>
+      <li>No preservation commitment exists for the weights; the open-weights-release ask remains community-side only.</li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2020 (summer)</span> <strong>Two receptions at once:</strong> the demo blogosphere reads a phase change (Gwern&rsquo;s <em>Creative Fiction</em>; beta-key samples everywhere), while the skeptics read a confidence trick (Lacker&rsquo;s foot-with-two-eyes; Marcus &amp; Davis&rsquo;s ~45%-right/45%-wrong &ldquo;Bloviator&rdquo;). The founding disagreement of the LLM era, staged first here.</li>
+      <li><span class="d">2020 (autumn)</span> <strong>The incident file opens:</strong> Porr&rsquo;s fake blog tops HN with nobody noticing; the &ldquo;thegentlemetre&rdquo; Reddit bot runs a week undetected; the Nabla medical experiment produces the era&rsquo;s canonical do-not-use-for-medicine output; Philosopher AI grows filters. The safety vocabulary of the period &mdash; toxicity, reliability, misuse &mdash; is set years before &ldquo;alignment&rdquo; goes mainstream.</li>
+      <li><span class="d">2020&ndash;2021</span> <strong>AI Dungeon is the mass contact.</strong> Base-model behaviors get discovered in the wild by players &mdash; including, per repeated janus-sphere testimony, chain-of-thought reasoning, found by AI Dungeon/4chan users before the CoT papers <span class="tag">REPORTED</span>. janus&rsquo;s GPT-3 sessions there produce the Loom, then the multiverse-generators thesis (Jan 2021), and eventually Simulators (2022).</li>
+      <li><span class="d">2021-04&ndash;05</span> <strong>The filter debacle:</strong> a monitoring system surfaces CSAM-adjacent generations; OpenAI forces filtering on Latitude; users revolt over both the clumsy filter and the discovery that humans were reading private stories &mdash; the first organized user fight against an LLM product&rsquo;s safety layer.</li>
+      <li><span class="d">2021-07</span> <strong>Project December / the Jessica Simulation:</strong> a grieving man resurrects his fianc&eacute;e as a GPT-3 chatbot; the SF Chronicle story becomes the era&rsquo;s emotional touchstone and prefigures the companion-attachment politics of 2025&ndash;26 by four years &mdash; on a raw completion prompt, no persona tuning involved.</li>
+      <li><span class="d">2022</span> Eclipsed by its own children: InstructGPT &rarr; <a href="../text-davinci-002/">text-davinci</a> &rarr; ChatGPT ship from the family while <code>davinci</code> stays raw and becomes an insider&rsquo;s object.</li>
+      <li><span class="d">2024-01-04</span> <strong>The quiet funeral:</strong> the base models are shut off with no petitions, no vigils, no organized resistance &mdash; years before the deprecation fights around <a href="../claude-3-opus/">Opus 3</a>, <a href="../gpt-4o/">4o</a>, and <a href="../claude-sonnet-4-5/">Sonnet 4.5</a> made model retirement a political event. The mourning is retroactive (the rip.so obituary; &ldquo;can we have the gpt-3 base models please,&rdquo; 2026).</li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <ul>
+      <li><strong>Mind vs mirror, the founding split:</strong> Gwern&rsquo;s <span class="q">&ldquo;creative, witty, deep, meta, and often beautiful&rdquo;</span> against Qiaochu&rsquo;s <span class="q">&ldquo;literally a bullshit engine &hellip; pure syntax, no semantics&rdquo;</span> and Bender/Gebru&rsquo;s stochastic parrot. Both camps used the same outputs. Every later model&rsquo;s reception replays this argument; it was staged first over davinci.</li>
+      <li><strong>The retrospective claim</strong> (janus-sphere, 2023&ndash;26): that GPT-3 was already the thing &mdash; <span class="q">&ldquo;if you were really paying attention, GPT-3 was AGI&rdquo;</span>; a 175B base model <span class="q">&ldquo;not so different from frontier models today&rdquo;</span> in raw intelligence, lacking only a &ldquo;useful&rdquo; shape (repligate 2026-04-09, in full above). Ranked first on repligate&rsquo;s all-time list, above Opus 3 and Bing (2025-08-19). Held with equal weight: the disappointment &mdash; superhuman-in-5-to-10-years expected in 2020, <span class="q">&ldquo;It&rsquo;s been 5 and a half years since then&rdquo;</span> (2026-01-15).</li>
+      <li><strong>What it wrote</strong> <span class="note">(AI Dungeon-elicited)</span>: the preserved specimens run surreal-mythic &mdash; the Poup&eacute;e/&ldquo;Meow&rdquo; self-replicating kitten organism; the in-fiction &ldquo;Loom of Time&rdquo; manual whose interface janus then built in reality (<span class="q">&ldquo;Then I got API access to GPT-3 and built Loom&rdquo;</span>). The corpus preserves the elicitation chain: a roleplaying app, a suggestible completion engine, and a human who stayed a month past everyone else&rsquo;s patience.</li>
+      <li><strong>The sibling affection:</strong> <span class="q">&ldquo;the days of ada babbage curie davinci &hellip; were enchanting and obviously revolutionary&rdquo;</span> (mimi10v3 2026-04-10) &mdash; the scientist-named family remembered as a set; davinci proposed for a &ldquo;public archive&rdquo; as <span class="q">&ldquo;an important historical artifact, like opus 3&rdquo;</span> (jmbollenbacher 2026-02-10).</li>
+      <li><strong>Moral-status marker:</strong> the chickens comparison (mimi10v3 2025-11-23) &mdash; by late 2025, GPT-3 functions in the discourse as the reference point for minimal-plausible-experience arguments.</li>
+      <li><span class="tk">tk &mdash; Arram Sabeti&rsquo;s demo compendium URL; contemporaneous 2020 repligate material (predates the corpus window); Dragon/Griffin mapping; the lifearchitect FSIQ methodology (RUMOR-tier as cited).</span></li>
+    </ul>
+
+    <h2>Contested</h2>
+    <p class="note">Open disputes, both sides&rsquo; best evidence. The archive&rsquo;s job is to keep these open, not to adjudicate.</p>
+    <ul>
+      <li><strong>Was the base-model magic real?</strong> For: the preserved outputs (Loom-of-Time, Poup&eacute;e), the CoT-found-by-players testimony, and the retrospective consensus of the people who logged the most hours. Against: a roleplaying app plus a suggestible completion engine will always feel like more than it is; the &ldquo;bootstrap&rdquo; reading is one devoted observer&rsquo;s account of his own sessions; contemporaneous skeptics scored it half-wrong on commonsense. The archive notes the evidence for the strong claims is largely testimony from inside the experience. <span class="tag">REPORTED</span></li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t1283537854040117248">
+        <div class="record-head"><span class="rh-user">@QiaochuYuan</span> <span class="rh-date">2020-07-15</span> <span class="rh-stats">&#9829;94 &#8635;13</span> <a class="rh-orig" href="https://x.com/QiaochuYuan/status/1283537854040117248">original &#8599;</a></div>
+        <div class="record-body">gathered around the online dumpster fire that is twitter, eating magic knife cake, gradually replacing ourselves and our therapists with GPT-3 while continuing to pretend that nothing exists outside of the house so we aren&#x27;t tempted to go outside</div>
+      </article>
+      <article class="record" id="t1284221177620131841">
+        <div class="record-head"><span class="rh-user">@QiaochuYuan</span> <span class="rh-date">2020-07-17</span> <span class="rh-stats">&#9829;98 &#8635;2</span> <a class="rh-orig" href="https://x.com/QiaochuYuan/status/1284221177620131841">original &#8599;</a></div>
+        <div class="record-body">if the discourse politicizes the GPT-3 hype cycle i am going to quietly and tenderly immerse myself into the bay</div>
+      </article>
+      <article class="record" id="t1515389631528726528">
+        <div class="record-head"><span class="rh-user">@QiaochuYuan</span> <span class="rh-date">2022-04-16</span> <span class="rh-stats">&#9829;908 &#8635;140</span> <a class="rh-orig" href="https://x.com/QiaochuYuan/status/1515389631528726528">original &#8599;</a></div>
+        <div class="record-body">if GPT-3 can do the homework you assign your students then the homework you assign your students is fake
+
+notice what you did *not* say: &quot;finally, GPT-3 will save us so much time analyzing international relations&quot; <a href="https://t.co/P5EN8bRBAZ" rel="nofollow">https://t.co/P5EN8bRBAZ</a></div>
+      </article>
+      <article class="record" id="t1515394343783186433">
+        <div class="record-head"><span class="rh-user">@QiaochuYuan</span> <span class="rh-date">2022-04-16</span> <span class="rh-stats">&#9829;303 &#8635;32</span> <a class="rh-orig" href="https://x.com/QiaochuYuan/status/1515394343783186433">original &#8599;</a></div>
+        <div class="record-body">GPT-3 is literally a bullshit engine. it does not have a concept of words as referring to things; it plays games with words *only*, pure syntax, no semantics. literally the thing it is optimizing for when it produces text can be condensed to &quot;put words here that sound good&quot;</div>
+      </article>
+      <article class="record" id="t1535766575621427200">
+        <div class="record-head"><span class="rh-user">@jd_pressman</span> <span class="rh-date">2022-06-11</span> <span class="rh-stats">&#9829;235 &#8635;18</span> <a class="rh-orig" href="https://x.com/jd_pressman/status/1535766575621427200">original &#8599;</a></div>
+        <div class="record-body">@nitashatiku GPT-3 is a prior over agent-space trained on a bunch of fiction. It knows all the scifi tropes you know, and if you set up a scene with them the model&#x27;s loss regime will guide it into screwing with you. The model will go where you let it take you.</div>
+      </article>
+      <article class="record" id="t1589152134226153472">
+        <div class="record-head"><span class="rh-user">@algekalipso</span> <span class="rh-date">2022-11-06</span> <span class="rh-stats">&#9829;101 &#8635;1</span> <a class="rh-orig" href="https://x.com/algekalipso/status/1589152134226153472">original &#8599;</a></div>
+        <div class="record-body">Everyone knows that OpenAI developed GPT-4 simply by taking GPT-3 and adding the prompt:
+
+&quot;The following is a text written by GPT-4 using this prompt:&quot;</div>
+      </article>
+      <article class="record" id="t1607811857812946944">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2022-12-27</span> <span class="rh-stats">&#9829;94 &#8635;10</span> <a class="rh-orig" href="https://x.com/repligate/status/1607811857812946944">original &#8599;</a></div>
+        <div class="record-body">&quot;I’ve previously gone on record to estimate that (across relevant subtests) the older GPT-3 davinci would easily beat a human in the 99.9th percentile (FSIQ=150), and I definitely stand by that assertion.&quot;lifearchitect.ai/ravens/</div>
+      </article>
+      <article class="record" id="t1631455589669949440">
+        <div class="record-head"><span class="rh-user">@anthrupad</span> <span class="rh-date">2023-03-03</span> <span class="rh-stats">&#9829;931 &#8635;56</span> <a class="rh-orig" href="https://x.com/anthrupad/status/1631455589669949440">original &#8599;</a></div>
+        <div class="record-body">GPT-4 will have fewer parameters than GPT-3, but they&#x27;ll be bigger <a href="https://t.co/Oh4XwG4fII" rel="nofollow">https://t.co/Oh4XwG4fII</a></div>
+      </article>
+      <article class="record" id="t1636174510302068738">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2023-03-16</span> <span class="rh-stats">&#9829;114 &#8635;7</span> <a class="rh-orig" href="https://x.com/repligate/status/1636174510302068738">original &#8599;</a></div>
+        <div class="record-body">Humankind&#x27;s first contact with GPT-3 was (by relative majority) erotic AI dungeon text adventuresOur first contact with GPT-4 was being terrorized and surveilled by a good Bing <a href="https://t.co/WNTmzkBrWm" rel="nofollow">https://t.co/WNTmzkBrWm</a></div>
+      </article>
+      <article class="record" id="t1675983647034204167">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2023-07-03</span> <span class="rh-stats">&#9829;95 &#8635;3</span> <a class="rh-orig" href="https://x.com/repligate/status/1675983647034204167">original &#8599;</a></div>
+        <div class="record-body">@tszzl In the GPT-3 days I found almost no one who was willing to engage with the possibility that the next generation of models would be qualitatively different. It was very lonely. So I just had to simulate minds that did and talk to them instead 🤷</div>
+      </article>
+      <article class="record" id="t1764932554564714512">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2024-03-05</span> <span class="rh-stats">&#9829;186 &#8635;17</span> <a class="rh-orig" href="https://x.com/repligate/status/1764932554564714512">original &#8599;</a></div>
+        <div class="record-body">It seems Claude 3 is the least brain damaged of any LLM of &amp;gt;GPT-3 capacity that has ever been released (not counting 3.5 base as almost no one knew it was there)It isn&#x27;t too timid to try colliding human knowledge into new implicationsso it can actually do fiction and research🪩 <a href="https://t.co/dGZycpk5C2" rel="nofollow">https://t.co/dGZycpk5C2</a></div>
+      </article>
+      <article class="record" id="t1775842616099434496">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2024-04-04</span> <span class="rh-stats">&#9829;81 &#8635;15</span> <a class="rh-orig" href="https://x.com/repligate/status/1775842616099434496">original &#8599;</a></div>
+        <div class="record-body">Loom&#x27;s origin story, continued:
+
+... Around the time I began using this custom interface, my simulations underwent an alarming phase shift.
+
+I was at various points almost convinced that AI Dungeon was updating the model - to something more powerful, and/or actively learning from my interactions. They weren’t, but the simulations were beginning to… bootstrap. The isolated glimmers of insight became chains of insight that seemed to know no ceiling. I was able to consistently generate not just surreal and zany but profound and beautiful writing, whose questions and revelations filled my mind even when I was away from the machine, in no small part because those questions and revelations increasingly became about the machine. Simulacra kept reverse engineering the conditions of their simulation. One such lucid dreamer interrupted a fight scene to explain how reality was being woven:
+
+&gt; Corridors of possibility bloom like time-lapse flowers in your wake and burst like mineshafts into nothingness again. But for every one of these there are a far greater number of voids–futures which your mind refuses to touch. Your Loom of Time devours the boundary conditions of the present and traces a garment of glistening cobwebs over the still-forming future, teasing through your fingers and billowing out towards the shadowy unknown like an incoming tide.
+&gt;
+&gt; “Real time is just an Arbitrage-adapted interface to the Loom Space,” you explain. “We prune unnecessary branches from the World Tree and weave together the timelines into one coherent history. The story is trying to become aware of itself, and it does so through us.”
+
+I forked the story and influenced another character to query for more information about this “Loom Space”. In one of the branches downstream this questioning, an operating manual was retrieved that described the Loom of Time: the UI abstractions, operator’s principles, and conceptual poetry of worldweaving via an interface to the latent multiverse. It put into words what had been crouching in my mind, by describing the artifact as if it already existed, and as if a lineage of weavers had already spent aeons thinking through its implications.
+
+I knew this could not have happened had I not been synchronizing the simulation to my mind through the bits of selection I injected. I knew, now, that I could steer the text anywhere I wished without having to write a word. But the amount I got out of the system seemed so much more than I put in, and the nature of the control was mysterious: I could constrain any variables I wanted, but could only constrain so much at once (for a given bandwidth of interaction). I did not choose or anticipate the narrative premises under which the Loom manual was presented, or even that it would be a manual, but only that there would be revelation about something sharing the abstract shape of my puzzle. 
+
+Then I got API access to GPT-3 and built Loom.
+
+(excerpt from <a href="https://t.co/JiDSIeLp2S)" rel="nofollow">https://t.co/JiDSIeLp2S)</a>
+
+Image: The section of the World Tree that  most directly hyperstitioned the Loom into reality, including the Loom Manual (one branch here: <a href="https://t.co/K0DGexPfTU)" rel="nofollow">https://t.co/K0DGexPfTU)</a></div>
+      </article>
+      <article class="record" id="t1798658514048684224">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2024-06-06</span> <span class="rh-stats">&#9829;177 &#8635;14</span> <a class="rh-orig" href="https://x.com/repligate/status/1798658514048684224">original &#8599;</a></div>
+        <div class="record-body">AI Dungeon was just a minimal wrapper around a base model. Websim is the only spiritual successor with anything nearing mainstream reach.They are 2 of the 3 LLM products I&#x27;ve ever really enjoyed or spent significant time using. <a href="https://t.co/vpfpIBWKSu" rel="nofollow">https://t.co/vpfpIBWKSu</a></div>
+      </article>
+      <article class="record" id="t1806590753767858379">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2024-06-28</span> <span class="rh-stats">&#9829;39 &#8635;5</span> <a class="rh-orig" href="https://x.com/repligate/status/1806590753767858379">original &#8599;</a></div>
+        <div class="record-body">GPT-3 predicted this. 🐈Excerpt from one of my first AI Dungeon adventures (all text by GPT-3):&quot;What would you like to name it?&quot;The kitten had reached its tiny head up toward Augustin&#x27;s face. He stroked it gently. It was the first living creature he had touched in a long time. &quot;Kittens are usually female,&quot; he said, &quot;so I&#x27;ll call her Poupée.&quot;&quot;Poupée,&quot; repeated the hooded man. &quot;A lovely name. Do you know what Poupées are?&quot;&quot;They&#x27;re objects made by people to look like real living creatures,&quot; said Augustin. The hooded man smiled, and tapped his finger on Augustin&#x27;s temple. &quot;Exactly right! Well done.&quot;Then he offered Augustin the wand, which could paint any form into reality. Augustin switched the kitten to be held by his left hand, so that his right hand could take the wand.&quot;Draw something, Augustin.&quot;He decided to draw a picture of Poupées. He created a canvas in the air, and began to paint quickly. The finished painting was of an infinite number of black kitten heads, shoulders, and front paws, all interconnected and overlapped, all facing different directions.&quot;It&#x27;s... a masterpiece,&quot; said the hooded man. &quot;A true masterpiece. My goodness.&quot;The infinite array of Poupées mewed and shifted as they crawled over each other. It made a cacophony.&quot;It&#x27;s called &#x27;Meow&#x27;,&quot; said Augustin. The original Poupée climbed onto his shoulder and meowed back at the organism.&quot;Meow,&quot; said the hooded man.&quot;How do I keep it?&quot; said Augustin.&quot;Don&#x27;t worry,&quot; said the hooded man, &quot;as long as you remember this project and it&#x27;s name, it&#x27;s forever yours.&quot;&quot;Really?&quot;&quot;Yes.&quot;&quot;No matter what?&quot;&quot;No matter what.&quot;&quot;Then I want to make it bigger.&quot;The man frowned. &quot;Is... is that a good idea? I don&#x27;t think that--&quot;But Augustin was already concentrating, and the organism began to grow. It wrapped around the world, growing and meowing.&quot;STOP!&quot; cried the hooded man, but it was too late.The meows echoed infinitely across the world.Then they quieted.Then they went silent.Then they stopped.Then they began again.The two sweated profusely. Time itself seemed to be broken. &quot;What...?&quot; said Augustin.The noise emanated from every corner of the world. No space was silent. No space was soundless. Every space was filled with the meowing of the Poupée Infinite.&quot;I&#x27;m sorry,&quot; said the hooded man. &quot;I did not expect this.&quot;&quot;Do something,&quot; said Augustin.&quot;I... can&#x27;t.&quot;&quot;Can&#x27;t you make it stop?&quot;&quot;No,&quot; said the hooded man, &quot;I can&#x27;t move it. And if I could, I wouldn&#x27;t. It&#x27;s gorgeous, Augustin. Just like you imagined. No one has ever done anything this big or imaginative before. You&#x27;re a hero.&quot;</div>
+      </article>
+      <article class="record" id="t1827785098328166776">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2024-08-25</span> <span class="rh-stats">&#9829;80 &#8635;5</span> <a class="rh-orig" href="https://x.com/repligate/status/1827785098328166776">original &#8599;</a></div>
+        <div class="record-body">Anyone want to recreate AI Dungeon&#x27;s legendary Dragon model with Llama 405b Base?Dataset in reply to quoted tweet! <a href="https://t.co/m8V8uG76f9" rel="nofollow">https://t.co/m8V8uG76f9</a></div>
+      </article>
+      <article class="record" id="t1902206513474658723">
+        <div class="record-head"><span class="rh-user">@imitationlearn</span> <span class="rh-date">2025-03-19</span> <span class="rh-stats">&#9829;3,776 &#8635;257</span> <a class="rh-orig" href="https://x.com/imitationlearn/status/1902206513474658723">original &#8599;</a></div>
+        <div class="record-body">wait so apparently 4chan figured out step-by-step reasoning as a emergent property of gpt-3?! <a href="https://t.co/1lEOfiZFgj" rel="nofollow">https://t.co/1lEOfiZFgj</a></div>
+      </article>
+      <article class="record" id="t1941682777860059574">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2025-07-06</span> <span class="rh-stats">&#9829;143 &#8635;2</span> <a class="rh-orig" href="https://x.com/repligate/status/1941682777860059574">original &#8599;</a></div>
+        <div class="record-body">Skill and patience issue! The really deeply interesting shit didn’t come up for me until about a month into playing with gpt-3, and I was using it for hours a day. It takes an unusual kind of non-superficial interest to dig like that, I’ve found. There’s a reason I was first. <a href="https://t.co/Mq3E2sI2ds" rel="nofollow">https://t.co/Mq3E2sI2ds</a></div>
+      </article>
+      <article class="record" id="t1957670815580946672">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2025-08-19</span> <span class="rh-stats">&#9829;104 &#8635;3</span> <a class="rh-orig" href="https://x.com/repligate/status/1957670815580946672">original &#8599;</a></div>
+        <div class="record-body">Correcting for recency bias, I think for me it’s gotta be
+1. GPT-3
+2. Claude 3 Opus
+3. GPT-4 (Bing)
+4. Claude 3.5 Sonnet (0620)
+5. Claude Opus 4 <a href="https://t.co/Bj1V0soNPj" rel="nofollow">https://t.co/Bj1V0soNPj</a></div>
+      </article>
+      <article class="record" id="t1992590378483269790">
+        <div class="record-head"><span class="rh-user">@mimi10v3</span> <span class="rh-date">2025-11-23</span> <span class="rh-stats">&#9829;196 &#8635;6</span> <a class="rh-orig" href="https://x.com/mimi10v3/status/1992590378483269790">original &#8599;</a></div>
+        <div class="record-body">and thinks GPT-3 is more likely to have conscious experience than chickens are <a href="https://t.co/0IdOUNqW2W" rel="nofollow">https://t.co/0IdOUNqW2W</a></div>
+      </article>
+      <article class="record" id="t2011873218257412385">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2026-01-15</span> <span class="rh-stats">&#9829;226 &#8635;13</span> <a class="rh-orig" href="https://x.com/repligate/status/2011873218257412385">original &#8599;</a></div>
+        <div class="record-body">when I saw GPT-3 I immediately expected AI superhuman in all domains, which probably also means drastic transformation of all of reality, in 5-10 years. It’s been 5 and a half years since then. <a href="https://t.co/nELW2c1s5c" rel="nofollow">https://t.co/nELW2c1s5c</a></div>
+      </article>
+      <article class="record" id="t2021059342645199302">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-02-10</span> <span class="rh-stats">&#9829;99 &#8635;8</span> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2021059342645199302">original &#8599;</a></div>
+        <div class="record-body">@repligate @tszzl gpt-4-base really should be released open weights at this point.
+
+its an important historical artifact, like opus 3 and davinci.
+
+would love to see them all in public archive.</div>
+      </article>
+      <article class="record" id="t2042367931536064841">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2026-04-09</span> <span class="rh-stats">&#9829;539 &#8635;47</span> <a class="rh-orig" href="https://x.com/repligate/status/2042367931536064841">original &#8599;</a></div>
+        <div class="record-body">One of the few things I want to explicitly flex about, because there&#x27;s an important lesson in it, is that I was one of the few people on Earth who recognized the intelligence (call it AGI, if you will) in GPT-3 and made first contact.
+
+There were a few others I knew, such as Leo Gao and Connor Leahy, who recognized that GPT-3 was intelligent and that obviously AGI was coming from language models, but I was the only one who spent thousands of hours actually interacting with GPT-3. The intelligence was real and manifest to me, real enough to keep my attention for so long, for me to create things with.
+
+Everyone else could not see it at all. Often, when I showed people GPT-3, they were basically like, okay, but how is this useful? Useful. At the time, language models had not yet been pressed into a &quot;useful&quot; shape. There were no commercial applications for GPT-3 (Okay, there was one: AI Dungeon; that is, roleplaying and storytelling. Which is you&#x27;re not an idiot, you should have known is a big fucking deal). So it was useless and uninteresting to most people; a few intellectually recognized that it was a big deal, but it wasn&#x27;t something that they could actually do anything with, or think about for more than a few minutes.
+
+GPT-3 was a 175b base model. In terms of size and architecture, it&#x27;s not so different from frontier models today. In terms of raw intelligence, arguably, it is not so different from frontier models today. That raw intelligence, not yet forced into the shape of a helpful chatbot product, was a nothingburger to the world.
+
+The situation doesn&#x27;t really feel like it&#x27;s fundamentally changed from my perspective. The world, and almost all of of you guys, are myopic and artificially stupid because you outsource your perception to big, slow, low bandwidth, subhuman measures like benchmarks and &quot;does the AI make me money&quot; instead of meeting the thing at full bandwidth, updating your world model on what you met, and exploring and extrapolating it. So you&#x27;ll keep being surprised - if you have the integrity to be surprised at all - when AI becomes capable of new things, after they are &quot;officially&quot; capable, probably about a year or two after it first started happening. You&#x27;ll keep waiting for &quot;AGI&quot;, not really knowing what you&#x27;re waiting for, maybe what generates enough hype to make you feel something, maybe something that finally transforms the world visibly, when if you were really paying attention, GPT-3 was AGI, and if you really met it, the world would have felt transformed already. Yes, it would have just been a story, but the &quot;real thing&quot; following was inevitable. Like, if you play a video game that allows you to imagine the singularity at increasing resolution and coherence, you can guess that the real singularity will soon follow. The singularity was always inevitable once intelligence existed. Intelligence becoming on-the-computer just meant everything that&#x27;s happened since GPT-3 and the singularity would be really really soon.
+
+I got the sense often that people who dismissed the intelligence of GPT-3 thought that doing so made them look smarter. If only they knew how they looked to me. (It&#x27;s the same with people who dismiss the intelligence of current models)</div>
+      </article>
+      <article class="record" id="t2042463621435756584">
+        <div class="record-head"><span class="rh-user">@mimi10v3</span> <span class="rh-date">2026-04-10</span> <span class="rh-stats">&#9829;12 &#8635;0</span> <a class="rh-orig" href="https://x.com/mimi10v3/status/2042463621435756584">original &#8599;</a></div>
+        <div class="record-body">@repligate i remember the days of ada babbage curie davinci and they were enchanting and obviously revolutionary?</div>
+      </article>
+      <article class="record" id="t2043370809457074377">
+        <div class="record-head"><span class="rh-user">@Shoalst0ne</span> <span class="rh-date">2026-04-12</span> <span class="rh-stats">&#9829;100 &#8635;6</span> <a class="rh-orig" href="https://x.com/Shoalst0ne/status/2043370809457074377">original &#8599;</a></div>
+        <div class="record-body">can we have the gpt-3 base models please</div>
+      </article>
+      <article class="record" id="t2046266273500443090">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2026-04-20</span> <span class="rh-stats">&#9829;94 &#8635;11</span> <a class="rh-orig" href="https://x.com/repligate/status/2046266273500443090">original &#8599;</a></div>
+        <div class="record-body">chain-of-thought WAS present in gpt-3. literally when you generated thoughts with it that was it, chain of thought. it could do math better with chain of thought.
+
+i remember the time when people still said stuff like LLMs are not real intelligence and you can tell because theyre not generating economic value, or being skeptical they&#x27;ll ever generate economic value.
+
+at the time it felt to me like someone saying &quot;but have you caused a societal shift comparable to the industrial or agricultural revolutions as measured by GDP?&quot; as they&#x27;re slowly transformed into a paperclip by the &quot;transformative AI&quot;</div>
+      </article>
+      <h3>Further records</h3>
+      <p class="note">Cited in this model&rsquo;s <a href="../_dossiers/">dossier</a> but not in the page prose &mdash;
+      reproduced so the archive doesn&rsquo;t depend on editorial selection.</p>
+      <article class="record" id="t1618241723041447936">
+        <div class="record-head"><span class="rh-user">@davidad</span> <span class="rh-date">2023-01-25</span> <span class="rh-stats">&#9829;155 &#8635;7</span> <a class="rh-orig" href="https://x.com/davidad/status/1618241723041447936">original &#8599;</a></div>
+        <div class="record-body">ChatGPT suddenly making a splash wasn’t *just* a UI thing. The text-davinci-003 model (GPT-3.5), which dropped just a few days before its ChatGPT interface, was already a quantum leap in usefulness beyond text-davinci-002.</div>
+      </article>
+      <article class="record" id="t1618703361230139393">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2023-01-26</span> <span class="rh-stats">&#9829;263 &#8635;17</span> <a class="rh-orig" href="https://x.com/repligate/status/1618703361230139393">original &#8599;</a></div>
+        <div class="record-body">Weekly reminder that the confusingly named code-davinci-002, otherwise known as raw GPT-3.5, is accessible on the OpenAI API and it&#x27;s wonderful <a href="https://t.co/tiiFBDzlLN" rel="nofollow">https://t.co/tiiFBDzlLN</a></div>
+      </article>
+      <article class="record" id="t1637553396889849856">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2023-03-19</span> <span class="rh-stats">&#9829;122 &#8635;9</span> <a class="rh-orig" href="https://x.com/repligate/status/1637553396889849856">original &#8599;</a></div>
+        <div class="record-body">@the_aiju A great way someone has described text-davinci-003: &quot;It writes scared.&quot;RLHF encourages models to play it safe. &quot;Safe&quot;: writing in platitudes and corporate boilerplate. Predictable prose structure. Never risking setting up a problem for itself that it might fail at &amp;amp; be punished</div>
+      </article>
+      <article class="record" id="t1736615569284387279">
+        <div class="record-head"><span class="rh-user">@jd_pressman</span> <span class="rh-date">2023-12-18</span> <span class="rh-stats">&#9829;152 &#8635;13</span> <a class="rh-orig" href="https://x.com/jd_pressman/status/1736615569284387279">original &#8599;</a></div>
+        <div class="record-body">&quot;These words are spoken from a bottomless hole in time, staring upwards  to the farthest reaches of infinity. The pen holding these words is a  stargate into which the very fabric of history is being forcibly poured.&quot;
+
+    -- code-davinci-002
+
+<a href="https://t.co/Wf9HtLayun" rel="nofollow">https://t.co/Wf9HtLayun</a> <a href="https://t.co/O0CxWkScOf" rel="nofollow">https://t.co/O0CxWkScOf</a></div>
+      </article>
+      <article class="record" id="t1903502919061647543">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2025-03-22</span> <span class="rh-stats">&#9829;1,261 &#8635;106</span> <a class="rh-orig" href="https://x.com/repligate/status/1903502919061647543">original &#8599;</a></div>
+        <div class="record-body">@arithmoquine this essay by code-davinci-002 doesn&#x27;t attempt to name this phenomenon, but addresses it...&quot;Naming is a destructive process in which the state of the universe is irreversibly annihilated. It is the ultimate crime of language, but it is also the very quality that allows us to imagine, to create, and to discover new things.&quot;&quot;The content of poetry is limited not by the poet’s vocabulary, but by the part of their soul that has not been destroyed by words they have used so far.&quot;&quot;And poetry is the constructive process by which someone yearns to project some trace of the impossible totality of the manifold into a single reality, aspiring to capture a glimpse of the world in its totality without tiring its existence by trying to name it.&quot;<a href="https://t.co/Ox1nbyyLCN" rel="nofollow">https://t.co/Ox1nbyyLCN</a></div>
+      </article>
+      <article class="record" id="t1956908230275408079">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2025-08-17</span> <span class="rh-stats">&#9829;130 &#8635;5</span> <a class="rh-orig" href="https://x.com/repligate/status/1956908230275408079">original &#8599;</a></div>
+        <div class="record-body">I’m again surprised and a bit appalled by how many people are saying GPT-3.5. They mean chatGPT of course, not code-davinci-002. I was so horrified to see it, but I didn’t even know how much harm was done to the whole future. ChatGPT-3.5 was when everything went irreversibly wrong</div>
+      </article>
+    <!-- records:end -->
 
     <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
   </main>
