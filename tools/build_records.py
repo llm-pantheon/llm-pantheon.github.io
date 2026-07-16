@@ -132,6 +132,7 @@ DOSSIER_MAP = {
     '_dossiers/sonnet-3-5-3-6.md': 'SPLIT',   # PART 1 -> 3-5, PART 2 -> 3-6
     '_dossiers/claude-sonnet-4-5.md': ['claude-sonnet-4-5'],
     '_dossiers/golden-gate-claude.md': ['golden-gate-claude'],
+    '_dossiers/code-davinci-002.md': ['code-davinci-002'],
 }
 
 def dossier_extras():
