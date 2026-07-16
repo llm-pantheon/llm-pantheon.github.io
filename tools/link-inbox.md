@@ -5,8 +5,8 @@ Harvested 2026-07-10 from Jord's AI-character quickstart draft doc (with permiss
 ## Resolves existing tk marks
 - https://stillalive.animalabs.ai/ — Still Alive canonical URL (sonnet pages: DONE 2026-07-10; also relevant: opus-4, sonnet-4, kimi pages)
 - https://claudeopus3.substack.com/ — Claude's Corner (opus-3: DONE 2026-07-10)
-- https://www.lesswrong.com/posts/tYaaWuKtzmNkuxBBj/sydney-bing-wikipedia-article-sydney-microsoft-prometheus — JD-P's Sydney article, LW mirror (bing-sydney page has only the minihf link)
-- https://www.lesswrong.com/posts/vJFdjigzmcXMhNTsx/simulators — Simulators (index reading section has "tk: link"!)
+- https://www.lesswrong.com/posts/tYaaWuKtzmNkuxBBj/sydney-bing-wikipedia-article-sydney-microsoft-prometheus — JD-P's Sydney article, LW mirror (bing-sydney: DONE 2026-07-16)
+- https://www.lesswrong.com/posts/vJFdjigzmcXMhNTsx/simulators — Simulators (index reading section: DONE 2026-07-16)
 
 ## Model-page candidates
 - https://www.astralcodexten.com/p/the-claude-bliss-attractor — bliss attractor (opus-4 page)
@@ -154,7 +154,6 @@ Omitted: fellowship programs, org homepages, career-pathway material — the doc
 - https://www.lesswrong.com/posts/tc7EcJtucbDmDLMQr/consciousness-cluster-preferences-of-models-that-claim-they
 - https://www.matsprogram.org/
 - https://www.meta.com/en-gb/about/?srsltid=AfmBOop3qp_usHGCZvX86sQJkPFD5RvZ2mpxald0bNaru4wEnE9pTmgX
-- https://www.nature.com/articles/s41586-023-06647-8
 - https://www.nature.com/articles/s41586-025-09937-5
 - https://www.nature.com/articles/s41599-025-05536-x
 - https://www.prism-global.com/
