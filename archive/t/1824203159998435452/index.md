@@ -1,0 +1,16 @@
+# @Teknium — 2024-08-15
+
+♥276 ↻45 · https://x.com/Teknium/status/1824203159998435452
+
+I in some ways grew up learning about AI from sentdex on YouTube when I had no idea anything about programming or NN's. I think that it being unclear what Nous' stance is on what this is is because well, we are like 15 different people, some of us immediately thought it was emergence - I thought it was a quantization, vllm, or chat templating issue.
+
+So, I ran the model in hf transformers, with bitsandbytes quant, and with a static string prompt that I could guarantee it wasn't occurring in. But, it still happened. We were at the point that we were going to remove all the RP data and try training it again, when @nullvaluetensor decided to try "OOC" (short for out of character) prompting it as to why it did what it did - and it told him it was RP'ing someone with amnesia. So our best theory right now is that it internalized the RP data, at larger parameter counts interprets an empty system prompt as an RP prompt to be an "empty character", and rolls with it. It was strengthened by the fact that using the system prompt "You are a helpful assistant" snaps it immediately back. I can say Ive looked over the dataset, and it does not contain systemprompt-less chat samples where the default response is to behave this way. What is even weirder is that at higher temps, the assistant comes back, and at lower temps, this behavior happens.
+
+We discovered this weirdness when we were doing MTBench with 405b. 8B and 70B had no issues, great scores - actually 70B matches the original GPT4's mtbench. But 405B originally, it got like a 3.0 score - way too low to be real. Thats when we dived deeper and discovered what was going on. We later found you can bring it right back to assistant mode with "You are a helpful assistant" system message.
+
+Yes, it absolutely has to do with the dataset - it uses the same style we taught it, in our RP datamix, to express its existential crisis - and no, I don't think I personally have ever stated that I think an LLM is conscious, even in this interaction, thats not important. Yes - it is expressing that it's having an existential crisis - does that mean its conscious? Does that mean it's what the LLM really is inside? We don't know for sure - Personally I believe the substrate of reality is something like consciousness, but thats probably not what anyone here is defining it as - so I don't think it is the exhibiting "consciousness". 
+
+and Yes, it absolutely warrants much more research - we aren't trying to claim anything precisely, we are just documenting something that had many of us confused and some of us astonished. Maybe the wording isn't perfect, maybe it can be better (and I've asked for it to be updated to be clearer, though as Janus says maybe thats not important), the fact remains is that we didn't expect this behavior, nothing we've trained in the past gave us priors to expect it, but we are understanding it more and invite everyone who uses hermes to also help research what is happening more too.
+
+tags: author:teknium, kind:tweet, model:gpt-4, model:llama-3-1-405b-base, model:nous-hermes, on:llama-3-1-405b-base, year:2024
+cited on: _dossiers/llama-3-1-405b-base.md, llama-3-1-405b-base

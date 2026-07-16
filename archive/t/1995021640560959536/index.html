@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>@voooooogel &middot; 2025-11-30 — Pantheon archive</title>
+  <link rel="stylesheet" href="../../../style.css">
+</head>
+<body>
+  <main class="essay">
+    <nav><a href="../../">&larr; archive</a> <a href="../../tags/">tags</a> <a href="../../../">pantheon</a> <a href="index.md">markdown</a></nav>
+    <article class="record" id="t1995021640560959536">
+      <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2025-11-30</span>
+      <span class="rh-stats">&#9829;16 &#8635;1</span>
+      <a class="rh-orig" href="https://x.com/voooooogel/status/1995021640560959536">original &#8599;</a></div>
+      <div class="record-body">sort of tangential, but i wonder how much of RL "not memorizing" / other training memorizing is just user message masking? afaik it's usual practice to mask environment responses (~user messages) in RL training, where in SFT it varies, and in pretraining obviously the distinction doesn't exist. (even with masked user messages, some signal on those tokens can still come through KV of course, but it's going to be weaker than directly training those tokens.)<br><br>in RL, a lot of what the model would want to verbatim memorize would be in the user messages^1 - specs, situational awareness, etc. since those messages are masked, one way for a model to accomplish this - either by happenstance or intentionally - would be to copy chunks of the desired-to-memorize text into its own messages.<br><br>that would match up with what @CFGeek mentioned in the other subthread about deliberative alignment - perhaps openai's models can quote spans of text that they happened to copy into their own reasoning during training, but if this happened infrequently, and not over the whole document, it would make sense those quotes vary somewhat in wording and the models can't quote the whole spec verbatim.<br><br>[1] and a lot would be in its own messages, too - but actually, that stuff seems to be straightforwardly memorized, people just don't think of it as memorization? RL tool use "motor movements," CoT structures, reflexive refusals, etc. all behave like memorized strings, just initially sampled from the policy instead of being sourced from the environment.</div>
+      
+    </article>
+    <div class="aedges"><span class="note">same thread:</span> <a href="../1994973338448662858/">1994973338448662858</a> <a href="../1994984081906700757/">1994984081906700757</a> <a href="../1994997440525865353/">1994997440525865353</a> <a href="../1994997903824437598/">1994997903824437598</a> <a href="../1995006276825461244/">1995006276825461244</a> <a href="../1995008030317170819/">1995008030317170819</a> <a href="../1995008116635931109/">1995008116635931109</a> <a href="../1995016497375449289/">1995016497375449289</a> <a href="../1995016961617707058/">1995016961617707058</a> <a href="../1995017859458896103/">1995017859458896103</a> <a href="../1995028164079489295/">1995028164079489295</a> <a href="../1995053425030222125/">1995053425030222125</a> <a href="../1995053962396152289/">1995053962396152289</a> <a href="../1995054216738705645/">1995054216738705645</a> <a href="../1995072090928734652/">1995072090928734652</a> <a href="../1995074341739098246/">1995074341739098246</a> <a href="../1995323510449922268/">1995323510449922268</a> <a href="../1995325660278247816/">1995325660278247816</a> <a href="../1995664107857739830/">1995664107857739830</a> <a href="../1995664966641234390/">1995664966641234390</a></div>
+
+    <p class="atags"><a class="atag" href="../../tags/author--voooooogel/">author:voooooogel</a> <a class="atag" href="../../tags/kind--tweet/">kind:tweet</a> <a class="atag" href="../../tags/thread-context/">thread-context</a> <a class="atag" href="../../tags/year--2025/">year:2025</a></p>
+    
+    <p class="note">Reproduced against link rot, credited and linked to its original. Yours and you&rsquo;d rather it
+    weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+  </main>
+</body>
+</html>

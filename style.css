@@ -280,3 +280,21 @@ section p { color: var(--ink-dim); }
   .page, .essay { padding: 2rem 1.1rem 3rem; }
   h1 { font-size: 1.7rem; }
 }
+
+
+/* archive layer */
+.atag { display: inline-block; font-family: var(--mono); font-size: 0.78rem; padding: 0.05rem 0.45rem;
+  margin: 0.1rem 0.15rem 0.1rem 0; border: 1px solid var(--ink-ghost); border-radius: 3px;
+  color: var(--ink-dim); cursor: pointer; text-decoration: none; }
+.atag:hover { border-color: var(--accent); color: var(--accent); }
+.atag.on { border-color: var(--accent); color: var(--accent); }
+.atags { margin: 1rem 0 0.6rem; line-height: 1.9; }
+.ataglist { list-style: none; padding: 0; }
+.ataglist li { margin-bottom: 0.35rem; }
+.asearch { width: 100%; padding: 0.55rem 0.8rem; font-family: var(--mono); font-size: 0.95rem;
+  background: transparent; color: var(--ink); border: 1px solid var(--ink-ghost); border-radius: 4px; }
+.ares { padding: 0.6rem 0; border-bottom: 1px solid var(--ink-ghost); font-size: 0.92rem; }
+.aedges { margin: 0.5rem 0; font-size: 0.88rem; }
+.apdf { width: 100%; height: 82vh; border: 1px solid var(--ink-ghost); }
+.apost { white-space: pre-wrap; font-size: 0.88rem; overflow-x: auto; }
+.mdlink { margin-top: 2.2rem; }

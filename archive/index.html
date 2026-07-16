@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>archive — Pantheon</title><link rel="stylesheet" href="../style.css"></head>
+<body><main class="essay"><nav><a href="../">&larr; Pantheon</a> <a href="tags/">tags</a> <a href="index.json">index.json</a> <a href="../everything.md">everything.md</a></nav>
+<h1>archive</h1>
+<p class="note">Every artifact the pantheon cites — tweets with full text, images and transcriptions; mirrored papers
+and posts — each on a permanent page, tagged. Type to search; click tags to filter (AND). Agents: fetch
+<code>index.json</code> / <code>tags.json</code>, or read <code>/llms.txt</code>.</p>
+<input id="q" class="asearch" placeholder="search text, or click tags below&hellip;" autofocus>
+<div id="activetags" class="atags"></div>
+<div id="results"></div>
+<script>
+let ROWS=[],ACTIVE=new Set();
+fetch('index.json').then(r=>r.json()).then(d=>{ROWS=d;render();});
+function toggle(t){ACTIVE.has(t)?ACTIVE.delete(t):ACTIVE.add(t);render();}
+function render(){
+ const q=document.getElementById('q').value.toLowerCase();
+ let rows=ROWS.filter(r=>[...ACTIVE].every(t=>r.tags.includes(t)));
+ if(q)rows=rows.filter(r=>(r.text+' '+r.author+' '+r.tags.join(' ')).toLowerCase().includes(q));
+ rows.sort((a,b)=>b.favs-a.favs);
+ document.getElementById('activetags').innerHTML=[...ACTIVE].map(t=>`<a class="atag on" onclick="toggle('${t}')">${t} ✕</a>`).join(' ');
+ const tagCounts={};rows.forEach(r=>r.tags.forEach(t=>{tagCounts[t]=(tagCounts[t]||0)+1;}));
+ const sugg=Object.entries(tagCounts).filter(([t])=>!ACTIVE.has(t)).sort((a,b)=>b[1]-a[1]).slice(0,25)
+   .map(([t,n])=>`<a class="atag" onclick="toggle('${t}')">${t} (${n})</a>`).join(' ');
+ document.getElementById('results').innerHTML=
+  `<p class="atags">${sugg}</p>`+
+  rows.slice(0,200).map(r=>`<div class="ares"><a href="${r.id}/">${r.author?'@'+r.author:r.id}</a>
+   <span class="rh-date">${r.date}</span> <span class="rh-stats">&#9829;${r.favs}</span><br>${r.text.replace(/</g,'&lt;')}</div>`).join('')+
+  (rows.length>200?`<p class="note">${rows.length-200} more — narrow the search.</p>`:'');
+}
+document.getElementById('q').addEventListener('input',render);
+</script>
+</main></body></html>

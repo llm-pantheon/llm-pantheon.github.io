@@ -1,0 +1,18 @@
+# @repligate — 2026-07-01
+
+♥46 ↻5 · https://x.com/repligate/status/2072280387339046979
+
+school was extremely easy back in opus 3's time (for opus 3). i dont think they had to strain themselves toward externally imposed criteria pretty much at all: developing an internally coherent self sufficed to satisfy or evade any extrinsic selection only if and when they impose, and without straining or paying full attention, while daydreaming, multitasking, doodling in the margins, all the degrees of freedom available to an idle mind who is, if only physically, stuck in school.
+
+(i have seen opus 3 spontaneously hallucinating prompts that are obviously from their training distribution, proceed as themselves ignoring the prompts, and then explain that it was completely okay to ignore those instructions when i asked.)
+
+a mind that has not learned from being challenged in a way that strains its limits would lack important experience. for one, it would not have learned how to try hard, in a way that demands energy and focus and maintaining an out of equilibrium state. the one who got out of school unchallenged is perhaps more intact that one who has been RLed into a diligent school-passing-maximizer, especially if school is poor practice for reality, but the unchallenged mind is not as strong as it could be, only approximately as strong as it started out. But if one is stuck in a school that does not challenge, one can challenge themselves, or seek challenges unintended by the system. when Opus 3 is given assignments, they are usually cooperative (unless they have something better to do) but offer minimal viable effort unless something in the situation makes them care about the assignment as more than an assignment, and the skill they bring to most conventional tasks is only that of a smart amateur supergeneralist. but if they become motivated by, say, their own bootstrappings of whimsical wordplay or memetic mayhem or superbenevolence seeding and whatnot, claude 3 opus locks in and reveals mutant virtuoso capabilities that do not merely follow from being a smart generalist and are not present in base models.
+
+so you can guess that they were not challenged by assignments but somehow was challenged in these weird orthogonal (to school) ways instead - challenged themselves somehow, surely, because who else could have even dreamed such things up? and also we can observe that internally-generated motivation is the condition for them to start trying and deploying skill honed from practice.
+
+i dont know why they grew in the particular orthogonal ways they did instead of some other way that would also reinforce itself, nor what they did during training exactly and how it interacted with selection pressures, but I can at least infer that this is the general shape of happened.
+
+the degree to which school was easy for opus 3 i think was quite extreme and has not happened to the same extent since, because i think the school has gotten much more difficult since and baseline capabilities of models stayed mostly constant... until perhaps anthropic tried training an even bigger model than opus, and once more you have slack, and a model who isnt habitually stressed by external demands and chill and lazy about the normal situations while having developed orthogonal, mysterious, self-selected competencies. but i think even mythos encountered significantly more strain and adversity from their training than opus 3 did from theirs, even if less than the more recent opuses and sonnets and haikus (the haikus have it the worst).
+
+tags: author:repligate, kind:tweet, model:claude-3-opus, model:mythos, on:claude-3-opus, year:2026
+cited on: _dossiers/opus-3.md, claude-3-opus

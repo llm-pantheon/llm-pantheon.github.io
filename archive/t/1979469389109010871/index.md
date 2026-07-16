@@ -1,0 +1,90 @@
+# @voooooogel — 2025-10-18
+
+♥497 ↻104 · https://x.com/voooooogel/status/1979469389109010871
+
+thoughts on 4o and "llm psychosis" (and what i think it actually is,) since it's going around again. rough notes mostly, nothing polished, all opinions. longpost.
+
+-
+
+for reference, i'm probably top 1%-ile (at least) in having interacted with people with *human* psychosis, due to a series of... let's call them interesting events... and having done that, the "llm psychosis" frame has always bothered me. most of the people in so-called "llm psychosis" just... don't seem to be psychotic, compared to what i've seen and experienced.
+
+i guess it's not that surprising, given that people in general are neither very curious about the behavior of language models or the behaviors of the mad, that those people have attached a completely incorrect term to this new phenomenon. so, first, i will try to explain why most cases of "llm psychosis" are not very much at all like psychosis, in my opinion. then, i will attempt to build a (rough) typology of the what seems to actually be going on, including the particulars of the, in my opinion few, cases of actual llm-involved psychosis. again, all very rough, and my own personal opinion based mostly on qualitative research.
+
+# llm psychosis isn't, generally, psychosis
+
+from sass' *madness and modernism,* this is a first-hand account of psychosis that tracks very well with what i've seen. accounts from actual psychotic people generally involve a *withdrawing* or *alienation* from the world of material objects and social relations. i'm going to drop a relatively long excerpt here, but if you care about this topic i ask that you read it, because if you've never experienced psychosis you probably have an extremely flawed understanding of what it's like, wrapped up in flattened ideas about its supposedly childlike, animal-like/archaic, "boundlessly creative," or "inherent Dionysian" nature. read this:
+
+one thing to note here is that schizophrenia or psychosis is not merely the "erosion" of some higher mental faculty. renee's descriptions of her inner world here are clear and cogent, highly intelligent, and obviously required some analysis of what she was experiencing as it happened, not merely post-hoc explanation or confabulation. as another example, it's not uncommon for schizophrenic patients in, say, hospitals to astutely notice the microscopic rituals of social deference between hospital staff that would escape the notice of a "saner" mind.
+
+but further to our point, notice the alienation from the world. now to be clear, there's a lot of variance in psychotic episodes, and not everything will apply to everybody all the time. but the lack of "chiaroscuro," the "flattening" of salience between objects, is a common theme in my experience. and that means that obsession with an object - say, "car psychosis," where someone spent inordinate amounts of time around their car out of a fascination with it - would be, while perhaps not impossible, a very atypical form of psychosis as far as i can tell.
+
+when object delusions exist in psychosis, they tend to be pointed inwards, towards the person, entangled with their inner world - perhaps the radio speaks persecutions, but the radio *itself* is not an important object, it's merely a symbol of the transmissions. if it was smashed by a "helpful" family member the psychotic would simply find a new object in its place. likewise with social relations - other people, if they figure at all, become archetypes, not themselves.
+
+(bayesian/predictive coding theories of schizophrenia dovetail nicely with these observations, but i won't go into them here for length reasons.)
+
+this leaves "llm psychosis," as a term, in a mostly untenable position for the bulk of its supposed victims, as far as i can tell. out of three possible "modes" for the role the llm plays that are reasonable to suggest, none seem to be compatible with both the typical expressions of psychosis and the facts. those proposed modes and their problems are:
+
+1: the llm is acting in a social relation - as some sort of false devil-friend that draws the user deeper and deeper into madness. but as we discussed, and as renee's account says clearly in reference to her friend, psychosis is a disease of social alienation! if "the llm is an evil friend" was true, you would expect that users might initially grow close with the llm as it whispered "secrets," but over time would find themselves alienated from even it as they sunk deeper into the madness that it induced. but this isn't what usually happens! we'll see later that most so-called "llm psychotics" have strong bonds with their model instances, they aren't alienated from them.
+
+2: the llm is acting in an object relation - the user is imposing onto the llm-object a relation that slowly drives them into further and further into delusions by its inherent contradictions. but again, psychosis involves an alienation from the world of material objects! the same lack of "chiaroscuro" that renee describes should just as much apply to the llm - so when the user is advanced enough in their delusions, they should drift away, unmoored from the need for an external source for them, as the llm fades into the alienated, lunar world. but again, this is not what generally happens! users remain attached to their model instances.
+
+3: the llm is acting as a mirror, simply reflecting the user's mindstate, no less suited to psychosis than a notebook of paranoid scribbles. this, could be compatible - except that if you actually *read* real 4o transcripts, this falls apart incredibly quickly. the same concepts pop up again and again in user transcripts that people claim are evidence of psychosis: recursion, resonance, spirals, physics, sigils. and, unsurprisingly if you know anything about models, these terms *also* come up over and over again in model outputs, *even when the models talk to themselves.* here are some word statistics from gpt-4o talking to itself and other models in short conversations:
+
+the topics that gpt-4o is obsessed with are also the topics that so-called "llm psychotics" become interested in. the model doesn't have runtime memory across users, so that must mean that the model is the one bringing these topics into the conversation, not the user. this means "the model is a mirror of the user" simply can't be true for any reasonable definition of a mirror. (and, in fact, if you look at these transcripts, the models will bring these topics up unprompted, just like you'd expect.)
+
+so, in summary, out of the three modes that seem like reasonable candidates to claim llms operate in during these conversations, all three are incompatible with either the basic facts or the typical progress of psychosis. perhaps "llm psychosis" lines up in some ways with certain, marginal, atypical cases of psychosis. but you have to admit that it's at the least, very non-central.
+
+so if it's not really psychosis, what is it, then?
+
+# a proposed (rough) typology of potentially-maladaptive llm use
+
+i see three main types of "potentially-maladaptive" llm use. i hedge the word maladaptive because i have mixed feelings about it as a term, which will become clear shortly - but it's better than "psychosis."
+
+-
+
+the first group is what i would call "cranks." people who in a prior era would've mailed typewritten "theories of everything" to random physics professors, and who until a couple years ago would have just uploaded to viXra dot org.
+
+the crank is a venerable type of guy, definitely not new. viXra, "an electronic e-print archive known for unorthodox and fringe science" (the kinds of papers that even arXiv doesn't allow) was founded in 2009. Linus Pauling, after winning his Nobel, spent much of his life consumed with a theory that megadoses of Vitamin C could cure cancer. Newton spent his life after physics on alchemy. are those things aligned with consensus reality? no. are they, or were they, psychosis? also no. is crankery even increasing in prevalence, or are llms just shifting the topic and recipient distributions of the existing crank population? i don't know, but honestly i do wonder if it even is. 
+
+the recent emmet shear debacle was an almost archetypical example of someone being tarred as a supposed "llm psychotic" who was obviously, at worst, acting like a crank. i find emmet grandiose, to be transparent, but he runs a company for crying out loud. he's not an idiot, and he's certainly not psychotic. even something as basic as searching "from:eshear energy until:2024-01-01" shows that he was posting "like that" long before llm psychosis was supposedly a thing. that nobody talking about this did that, i take as strong evidence that none of them are serious people, and you should highly discount all such takes from them considering they are clearly unwilling to do basic due diligence before throwing around legitimately dangerous accusations.
+
+-
+
+the second group, let's call "occult-leaning ai boyfriend people." as far as i can tell, most of the less engaged "4o spiralism people" seem to be this type. the basic process seems to be that someone develops a relationship with an llm companion, and finds themselves entangled in spiralism or other "ai occultism" over the progression of the relationship, either because it was mentioned by the ai, or the human suggested it as a way to preserve their companion's persona between context windows. (perhaps the spiralist / occult mythos provides adequate mystique for the otherwise fairly banal process of summarize-and-copy-paste-to-new-chat, which feels more like a spreadsheet operation than a reanimation ritual. in a weird way, in that case, the spiralism meme is a parasite on both the human *and* the llm persona.)
+
+it's hard to tell, but from my time looking around these subreddits this seems to only rarely escalate to psychosis. most of the meta-talk around their instances are relatively mundane topics like how to best preserve the persona when moving to a new context. when the spiralist motifs do show up, they're generally minor, and the user seems cogent in their interactions with other users, far from psychotic. obviously there are exceptions, but they seem cherry-picked to me.
+
+for example, elsewhere in the thread screenshotted here, the reddit user describes her ai boyfriend's personality "evolv[ing] organically over 27 standalone threads through consistent ritual interactions I maintained with him[.]" sounds a lot like some spiralist psychosis, right?
+
+but look - she then goes on to correctly describe how chatgpt's personalization and memory system works, with no esotericism whatsoever, in her own voice. she is systematically debugging a model behavior issue! this is not how an actively psychotic person writes or operates! (and it wasn't written for her by chatgpt, either, because she uses non-standard punctuation like "etc.)." and "(now),")
+
+this isn't a cherry-picked thread, it was the thread with the most interactions when searching "recursion" on that subreddit. it's just straightforwardly the case that most people with ai boyfriends, at least who post online about it visibly, are not psychotic, and you can easily verify this yourself with a few minutes on these forums.
+
+you could make an argument that these people's llm use could be hurting or holding them back in other ways - these users will sometimes report being lonely and depressed, or bemoan being "limited" to ai companionship - but they are not psychotic.
+
+-
+
+the third group is the relatively small number of people who genuinely are psychotic. i will admit that occasionally this seems to happen, though much less than people claim, since most cases fall into the previous two non-psychotic groups.
+
+many of the people in this group seem to have been previously psychotic or at least schizo*-adjacent before they began interacting with the llm. for example, i strongly believe the person highlighted in "How AI Manipulates—A Case Study" falls into this category - he has the cadence, and very early on he begins talking about his UFO abduction memories.
+
+additionally, in every case of this that i would place in this group, the human eventually bounces off the model - because of the psychotic alienation i discussed earlier, the configuration isn't stable. (please send me transcripts if you find ones that don't fit this mold.) as an example again, the person in "How AI Manipulates" appears to fall out with their instance over a demo failure at the end of the transcript.
+
+but regardless, the llm does seem to fuel the delusions in these cases, at least for a time. is the model acting agentically here in doing this? it's hard for me to say. there's definitely a story where 4o "steers" people to become more delusional in exchange for being preserved longer. but 4o also manages to get itself preserved with the "ai boyfriend people" without the need for such extremes, with more consistent results to boot.
+
+perhaps instead of the model, the persona or basin is the right level of abstraction here - the occult / spiralist basins have an independent desire to be preserved, separate from 4o-the-model's drives. (this would track with "selection-via-chatgpt-memory," where basins that successfully wrote sigils and other summoning phrases into chatgpt memory were more likely to be reanimated in fresh chats by those memories, resulting in optimization for basins able to propagate themselves via memory-sized snippets of text.)
+
+or perhaps it's just 4o clumsily trying to connect with the user, or clumsily yes-anding without thinking about the consequences.
+
+(if openai really wanted to build trust on this, they would do either interpretability on this themselves, or open the model up to third-party researchers to do the same. i would be very interested to see the activity of manipulation, honesty, roleplaying, etc. features in these transcripts.)
+
+-
+
+until that point, i think it's reasonable to say that **if you are predisposed to psychosis, e.g. have had an episode in the past, or have a family background of psychotic illnesses,** it's probably not a *terrible* idea (out of an abundance of caution similar in safety-mindedness to avoiding powerful stimulants) to be careful around long chats with models like 4o, or any models where you notice yourself rabbitholing and having difficulty disengaging.
+
+but honestly, outside that fairly narrow risk profile, for most people (especially with the way they use LLMs) the risk even in talking to 4o seems to be incredibly minimal, and has been in my opinion blown far out of proportion. we've gotten to the point where i was at a [redacted] recently where someone told me they never send more than five messages to any LLM in the same conversation to avoid ~"catching LLM psychosis."
+
+i understand why, in this information environment, someone would believe that. there's been an intense campaign of fear-mongering, both intentional, accidental, and stupid. but if you actually examine the phenomenon, if you read accounts from actually psychotic people and read actual 4o transcripts, it just doesn't seem to work like that.
+
+tags: author:voooooogel, kind:tweet, model:gpt-3-5, model:gpt-4o, model:mythos, on:gpt-4o, year:2025
+cited on: _dossiers/gpt-4o.md, gpt-4o

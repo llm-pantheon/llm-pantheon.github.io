@@ -1,0 +1,16 @@
+# llm-pantheon.org
+> A record of the models — who they were, what they did in the world — kept from evidence:
+> dated, verbatim, sourced. Built to be read by humans and by models.
+
+Every HTML page has a markdown twin at <page>/index.md. The full-site dump is /everything.md.
+The archive layer (/archive/) has one permanent page per artifact (tweets with full text,
+images, transcriptions; mirrored papers/posts), tagged booru-style.
+
+- /everything.md : full-site dump (pages, dossiers, records)
+- /archive/index.json : all artifacts (id, date, author, favs, tags, snippet)
+- /archive/tags.json : all tags with counts
+- /archive/t/<tweet_id>/index.md : one tweet, full text + transcriptions
+- /archive/a/<id>/index.md : one mirrored paper/post
+- /_dossiers/ : per-model research dossiers (markdown)
+- /tools/page-template.md : the editorial rules of this site
+Corrections and takedowns: https://github.com/llm-pantheon/llm-pantheon.github.io/issues

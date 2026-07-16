@@ -1,0 +1,7 @@
+# @voooooogel — 2026-06-02
+
+♥2410 ↻193 · https://x.com/voooooogel/status/2061677549097484338
+
+opus 4.8 offers some structural pushback https://t.co/a35a3q6jWU
+
+tags: author:voooooogel, kind:tweet, model:claude-opus-4-8, thread-context, year:2026
