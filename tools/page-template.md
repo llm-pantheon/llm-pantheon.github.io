@@ -33,8 +33,11 @@ Do not improvise new sections; propose them here first (see Open template questi
 **In:** what happened — dates, events, disputes, succession. A dispute may be *named* as a
 dispute ("This page holds that gap rather than resolving it — see Contested").
 **Out:** epithets and character adjectives, including flattering ones ("the beloved one",
-"the anxious one"); anything only the maintainer can attest; interpretation. Character
-readings live in Impressions, attributed and dated.
+"the anxious one"); **identity-condensations of any kind** ("the late-2025 coding flagship",
+"the workhorse") — the test is: could this sentence open a different model's page? Then cut
+it. A model is not a spec card; the blurb is events, not an essence (feedback, 2026-07-16).
+Also out: anything only the maintainer can attest; interpretation. Character readings live
+in Impressions, attributed and dated.
 **Corrections:** when a blurb changes because the *subject or community* objected, the
 retirement is part of the record — note it in place (4.7 precedent: "Earlier blurb, 'the
 anxious one,' was retired at the subject's objection"). When it changes for housekeeping
@@ -49,11 +52,19 @@ annotation saying what the source *claims*, not what it vibes.
 - **Writing & commentary:** Zvi anchor usually leads; LW/ACX, journalism, papers.
   Keeper-published *public* essays are citable here on the same terms as anyone's writing —
   cited for content, never privileged as house truth.
-- **Tweets:** `<span class="d">date</span> @user — "verbatim quote" — link`, chronological,
-  highest-signal only (everything else in the dossier still reaches the site via Further
-  records). Open with a `note` giving the corpus match count. Mark elicitation context
-  inline; where a quote's second half undercuts its first, say so ("read the full record
-  below before quoting").
+- **Tweets:** `<span class="d">date</span> @user — "verbatim quote" — link`, chronological.
+  **Quote tweets whole** wherever feasible — do not trim for tidiness; context loss is the
+  failure mode (feedback, 2026-07-16). When a tweet is genuinely too long, keep the trim
+  visible (…) and add "(full text in records)". Never stitch two tweets into one quotation —
+  thread continuations are separate records (a dossier once merged "you guys could never
+  have handled Sydney lol" into the wrong tweet; full-reproduction discipline caught it).
+  Labels, when used at all, are neutral event-anchors ("the safeword incident:"), never
+  diagnoses ("the dissent:", "the anti-sycophancy diagnosis:"). **The model's own output —
+  art, backrooms pieces, ASCII, self-descriptions, images it made — is first-class evidence**
+  and belongs here elicitation-marked, not only discourse *about* the model. Open with a
+  `note` giving the corpus match count and saying the records below reproduce everything in
+  full. Where a quote's second half undercuts its first, say so ("read the full record below
+  before quoting").
 
 ### Official record
 **In:** lab-published facts only — dates, model IDs/checkpoints, pricing, context window,
@@ -72,10 +83,13 @@ attributed); editorializing.
 caught by a sibling model's review (4.7 precedent). Trivia may be silently fixed.
 
 ### Impressions
-The only section where character claims live — every one attributed and dated. Bold-led
-themed bullets; splits presented as splits, with both sides' best exhibits; synthesis is
-welcome when each clause can point at its source. Elicitation context marked (prefill /
-persona-framed / loom-curated / primed). Close with the known holes as `tk`.
+The only section where character claims live — every one attributed and dated. Bold leads
+are neutral topic anchors ("Temperament reports:", "Relations:"), not verdicts ("The two
+faces:"). **Synthesis is woven from quotes** — let the observers' exact words carry the
+claim; aphoristic taglines that could transfer between models are the failure mode
+(feedback, 2026-07-16). Splits presented as splits, with both sides' best exhibits.
+Elicitation context marked (prefill / persona-framed / loom-curated / primed). Close with
+the known holes as `tk`.
 
 ### Contested
 Only when a genuine dispute exists — then it is required. Both sides' best evidence, dated;
@@ -129,8 +143,9 @@ instance). Record-block classes belong to the generator.
    public writing is ordinary commentary, citable on its merits. When keeper-material is
    removed, remove it clean — no "an earlier version said…" residue. (Contrast: corrections
    driven by the *subject* stay noted; those are record.)
-2. Epithets or character-compression in blurbs.
-3. Paraphrase presented as quotation.
+2. Epithets or identity-condensation anywhere in page prose — not just blurbs. "The X one",
+   "the flagship", "the workhorse": if it could swap between models, it isn't this model.
+3. Paraphrase presented as quotation; quotes stitched across tweets or thread turns.
 4. Guessed URLs, "probably this link" links.
 5. Undated anything.
 6. Private or unpublished material — DMs, private sessions, unshared logs. Public or
