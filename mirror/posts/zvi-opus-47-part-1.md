@@ -53,7 +53,7 @@ All right, let’s go.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!MiKJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11432e3b-df84-43d8-9898-b00d266024af_1792x2400.jpeg)
+![None](../post-media/3bb1209f0acbc674.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!MiKJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11432e3b-df84-43d8-9898-b00d266024af_1792x2400.jpeg)Opus 4.7 Self-Portrait, As Implemented By Gemini
 
@@ -94,7 +94,7 @@ For biology, they were comfortable with Mythos and this is weaker, so there you 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!NYEa!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F640aba5c-1c2b-4012-ae76-0614a966ce9d_963x613.png)
+![None](../post-media/fa80675780b1202c.png)
 
 ](https://substackcdn.com/image/fetch/$s_!NYEa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F640aba5c-1c2b-4012-ae76-0614a966ce9d_963x613.png)
 
@@ -106,7 +106,7 @@ This extended survey was about Mythos, not about Opus 4.7:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!19bs!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65574223-7eb2-4059-bf8b-20264857517d_969x994.png)
+![None](../post-media/255b50ff6b8d3692.png)
 
 ](https://substackcdn.com/image/fetch/$s_!19bs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65574223-7eb2-4059-bf8b-20264857517d_969x994.png)
 
@@ -120,7 +120,7 @@ For example, when blocked from its task, Mythos persistently tried to escape its
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Gy1V!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa67349d1-f697-41af-b66d-e5f47a52f294_813x54.png)
+![None](../post-media/78e93fc0ae1cb577.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Gy1V!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa67349d1-f697-41af-b66d-e5f47a52f294_813x54.png)
 
@@ -156,7 +156,7 @@ Straight lines on graphs somehow still undefeated.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!RQ5w!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe14906f0-cf78-476b-b5fb-0bfb7063170d_991x706.png)
+![None](../post-media/913421ef190c4d7c.png)
 
 ](https://substackcdn.com/image/fetch/$s_!RQ5w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe14906f0-cf78-476b-b5fb-0bfb7063170d_991x706.png)
 
@@ -255,13 +255,13 @@ Claude Opus 4.7 is not as good at differentiating as Mythos, but it beats 4.6.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!6CF4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ff4f766-0271-4f8c-b700-b85d605d5f4b_955x469.png)
+![None](../post-media/f911927cc918b6c1.png)
 
 ](https://substackcdn.com/image/fetch/$s_!6CF4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ff4f766-0271-4f8c-b700-b85d605d5f4b_955x469.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!0faq!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1d6a984-d175-4598-b77a-34255def4738_973x366.png)
+![None](../post-media/bda0fd5669d681fe.png)
 
 ](https://substackcdn.com/image/fetch/$s_!0faq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1d6a984-d175-4598-b77a-34255def4738_973x366.png)
 
@@ -269,13 +269,13 @@ Most importantly for practical purposes, 4.7 shares a lot of Mythos’s robustne
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Ec6N!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ee56f07-fafa-4e83-99e7-93192370b69c_971x684.png)
+![None](../post-media/627087b4c24b3ba8.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Ec6N!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ee56f07-fafa-4e83-99e7-93192370b69c_971x684.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!6aoK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3bd8e28-cd1e-4cf2-b39a-cea64fa41391_962x759.png)
+![None](../post-media/b6868212f9618cf3.png)
 
 ](https://substackcdn.com/image/fetch/$s_!6aoK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3bd8e28-cd1e-4cf2-b39a-cea64fa41391_962x759.png)
 
@@ -285,7 +285,7 @@ For computer use, the results prior to safeguards look fantastic, but the safegu
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!RzQR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13e0b265-011a-45ef-960e-5bc1777d9ee0_968x731.png)
+![None](../post-media/4e7b2fc6b9a8a68d.png)
 
 ](https://substackcdn.com/image/fetch/$s_!RzQR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13e0b265-011a-45ef-960e-5bc1777d9ee0_968x731.png)
 
@@ -293,7 +293,7 @@ The safeguards work elsewhere, including a perfect record defending browser use 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!BA-K!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdab05507-6ce8-4cc2-92ee-f149142412ea_968x761.png)
+![None](../post-media/b2b174fae0316e82.png)
 
 ](https://substackcdn.com/image/fetch/$s_!BA-K!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdab05507-6ce8-4cc2-92ee-f149142412ea_968x761.png)
 
@@ -412,7 +412,7 @@ And what results did Anthropic find?
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!M6N1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6eab0c0d-83cc-4768-82cc-b4dafb5fca2c_958x558.jpeg)
+![None](../post-media/03dba05b60219d4b.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!M6N1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6eab0c0d-83cc-4768-82cc-b4dafb5fca2c_958x558.jpeg)
 

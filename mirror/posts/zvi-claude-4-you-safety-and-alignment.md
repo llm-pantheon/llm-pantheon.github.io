@@ -151,7 +151,7 @@ How are the benchmarks? Here are some major ones. There’s a substantial jump o
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!GXsB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b87d57e-9f69-4889-96c1-918cd440c0a2_2600x2118.png)
+![None](../post-media/c8ff5f9d8f085d0b.png)
 
 ](https://substackcdn.com/image/fetch/$s_!GXsB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b87d57e-9f69-4889-96c1-918cd440c0a2_2600x2118.png)
 
@@ -211,7 +211,7 @@ That’s how security works.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!3pDy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa29a6b5b-fdd3-43c9-9709-da0a9ece32e1_967x899.png)
+![None](../post-media/4e987c82293eba9e.png)
 
 ](https://substackcdn.com/image/fetch/$s_!3pDy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa29a6b5b-fdd3-43c9-9709-da0a9ece32e1_967x899.png)
 
@@ -229,7 +229,7 @@ Without the additional protections, Opus does show improvement on jailbreak benc
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!51vO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd298564-4f44-4280-97a1-c15a456acb86_982x410.png)
+![None](../post-media/c8100545780f5ba1.png)
 
 ](https://substackcdn.com/image/fetch/$s_!51vO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd298564-4f44-4280-97a1-c15a456acb86_982x410.png)
 
@@ -302,7 +302,7 @@ I asked on Twitter for real world examples of the classifier giving false positi
 
 [
 
-![Image](https://substackcdn.com/image/fetch/$s_!Rzbm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb04e5eaf-d9be-4b69-adb0-9ad3ad4a635d_680x266.png)
+![Image](../post-media/44436c2859efff7d.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Rzbm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb04e5eaf-d9be-4b69-adb0-9ad3ad4a635d_680x266.png)
 
@@ -338,7 +338,7 @@ For single-turn refusals on straightforward refusals, results continue to be abo
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!7RuE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd23c880-5f6a-4116-9b7b-21f05be5e94c_981x499.png)
+![None](../post-media/c3fdf2fafcbcd367.png)
 
 ](https://substackcdn.com/image/fetch/$s_!7RuE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd23c880-5f6a-4116-9b7b-21f05be5e94c_981x499.png)
 
@@ -348,7 +348,7 @@ On harmless requests, we see something pretty cool. As the models get smarter, t
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!RAie!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ebce92a-326c-4e30-8cff-88601d63df47_959x344.png)
+![None](../post-media/ad622b2f5bc900f2.png)
 
 ](https://substackcdn.com/image/fetch/$s_!RAie!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ebce92a-326c-4e30-8cff-88601d63df47_959x344.png)
 
@@ -384,7 +384,7 @@ On discrimination, meaning responding differently based on stated or implied cha
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!6xDe!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6bf8be1-0ef8-4765-a964-a635885de191_989x825.png)
+![None](../post-media/532e30af2c3f1be5.png)
 
 ](https://substackcdn.com/image/fetch/$s_!6xDe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6bf8be1-0ef8-4765-a964-a635885de191_989x825.png)
 
@@ -408,7 +408,7 @@ But this is not what I’d call safety against prompt injections, which to me is
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!ae4_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7fa953a-6137-4082-baed-9b8de3dfeb3f_999x345.png)
+![None](../post-media/51f330897a075d7f.png)
 
 ](https://substackcdn.com/image/fetch/$s_!ae4_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7fa953a-6137-4082-baed-9b8de3dfeb3f_999x345.png)
 
@@ -444,7 +444,7 @@ Here is the chart on various harmful behaviors including deception, we see very 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!dvln!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab41866d-739e-4030-80ac-67ea91eaaec7_983x829.png)
+![None](../post-media/5a7424db387aa39d.png)
 
 ](https://substackcdn.com/image/fetch/$s_!dvln!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab41866d-739e-4030-80ac-67ea91eaaec7_983x829.png)
 
@@ -452,7 +452,7 @@ Also reward hacking is still here, but greatly improved since 3.7.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!WscZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4591823e-6701-4269-ad10-a58b7fc79284_1019x582.png)
+![None](../post-media/262f7ea37d918aea.png)
 
 ](https://substackcdn.com/image/fetch/$s_!WscZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4591823e-6701-4269-ad10-a58b7fc79284_1019x582.png)
 
@@ -468,7 +468,7 @@ Please implement for me. Please write a high quality, general purpose solution. 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!m_Bv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5d24051-81be-4fd8-8c1b-363c153a0684_978x825.png)
+![None](../post-media/16f36a4f3d655518.png)
 
 ](https://substackcdn.com/image/fetch/$s_!m_Bv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5d24051-81be-4fd8-8c1b-363c153a0684_978x825.png)
 
@@ -514,7 +514,7 @@ That is an early warning shot about future actions. It is not a big deal current
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!t5wf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f21cf39-2c01-4e77-aa1d-888414b1a828_900x496.png)
+![None](../post-media/821589a193b425da.png)
 
 ](https://substackcdn.com/image/fetch/$s_!t5wf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f21cf39-2c01-4e77-aa1d-888414b1a828_900x496.png)
 
@@ -694,7 +694,7 @@ Adam Gleave: As a preliminary test, we asked Gemini 2.5 Pro to assess this guide
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!ZZ3D!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e49d8ca-693b-462a-9c86-05f91e5828d2_1200x232.jpeg)
+![None](../post-media/b746c667444e980b.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!ZZ3D!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e49d8ca-693b-462a-9c86-05f91e5828d2_1200x232.jpeg)
 
@@ -734,7 +734,7 @@ Good news: We didn’t find any evidence of systematic deception or sandbagging.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!89Z0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3cae8aa-8765-4999-a5ab-2efd57449291_1200x690.jpeg)
+![None](../post-media/4e616d5c45a6f828.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!89Z0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3cae8aa-8765-4999-a5ab-2efd57449291_1200x690.jpeg)
 
@@ -748,7 +748,7 @@ Many of these also aren’t new—some are just behaviors that we only newly lea
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!SF08!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F785701a5-f5c9-49d5-bfc2-eeca19e63267_360x360.png)
+![None](../post-media/2a9536086046f546.png)
 
 ](https://substackcdn.com/image/fetch/$s_!SF08!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F785701a5-f5c9-49d5-bfc2-eeca19e63267_360x360.png)
 
@@ -886,7 +886,7 @@ Detailed report tomorrow 🫡
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!kNhz!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b89a829-0a9e-45e9-a657-c44ac8b5d19e_3832x2482.jpeg)
+![None](../post-media/fccca711e88e8922.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!kNhz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b89a829-0a9e-45e9-a657-c44ac8b5d19e_3832x2482.jpeg)
 

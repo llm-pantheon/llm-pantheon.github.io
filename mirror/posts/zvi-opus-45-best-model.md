@@ -28,7 +28,7 @@ There are some auxiliary deficits, and areas where other models have specialized
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!G5DO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e650ce0-8e39-49a7-a0e3-1fe400a5df8c_1024x559.jpeg)
+![None](../post-media/6c8617cfab8e2ed0.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!G5DO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e650ce0-8e39-49a7-a0e3-1fe400a5df8c_1024x559.jpeg)Image by Nana Banana Pro, prompt chosen for this purpose by Claude Opus 4.5
 
@@ -153,7 +153,7 @@ ARC-AGI-2 is going wild, note that Opus 4.5 has a higher maximum score than Gemi
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!1H60!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23d5a017-7f68-427f-be44-5ab82b74e472_962x1030.png)
+![None](../post-media/b31b776e79997d5e.png)
 
 ](https://substackcdn.com/image/fetch/$s_!1H60!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23d5a017-7f68-427f-be44-5ab82b74e472_962x1030.png)
 
@@ -163,7 +163,7 @@ They highlight multilingual coding as well, although at this point if I try to h
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!VTK0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae466d83-bbd8-4b1e-bcfa-f9f9a0a2ea78_1283x694.png)
+![None](../post-media/8995628417093202.png)
 
 ](https://substackcdn.com/image/fetch/$s_!VTK0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae466d83-bbd8-4b1e-bcfa-f9f9a0a2ea78_1283x694.png)
 
@@ -171,7 +171,7 @@ BrowseComp-Plus Angentic Search was 67.6% without memory and 72.9% (matching GPT
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!KmlB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc73c1304-5064-4f4f-9c56-bd902a466a82_974x665.png)
+![None](../post-media/6eaffa72e126475d.png)
 
 ](https://substackcdn.com/image/fetch/$s_!KmlB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc73c1304-5064-4f4f-9c56-bd902a466a82_974x665.png)
 
@@ -343,7 +343,7 @@ This is more of a fun thing, but one does appreciate it:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!eBcC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0cbbef0b-b789-420d-9e21-028ba8f3c257_1015x574.png)
+![None](../post-media/4e29d4f07b6785d1.png)
 
 ](https://substackcdn.com/image/fetch/$s_!eBcC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0cbbef0b-b789-420d-9e21-028ba8f3c257_1015x574.png)
 
@@ -507,7 +507,7 @@ Greg Burnham: I looked into this and the answer is so funny. In the No Thinking 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!susf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0fc933bf-3816-49d9-8a03-fd741f0cbabd_1151x1200.jpeg)
+![None](../post-media/043efc75dd32cbf7.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!susf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0fc933bf-3816-49d9-8a03-fd741f0cbabd_1151x1200.jpeg)
 
@@ -523,19 +523,19 @@ In the broader market, ChatGPT dominates the consumer space, but Claude is highl
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!bzvD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42361013-e744-4f15-830d-1319dcbeb32f_1044x418.png)
+![None](../post-media/9c905e867cc40bc3.png)
 
 ](https://substackcdn.com/image/fetch/$s_!bzvD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42361013-e744-4f15-830d-1319dcbeb32f_1044x418.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!8vYG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1474b8e-89cb-4d07-86dd-6031a3a537e0_1047x400.png)
+![None](../post-media/ada8212c6abaa402.png)
 
 ](https://substackcdn.com/image/fetch/$s_!8vYG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1474b8e-89cb-4d07-86dd-6031a3a537e0_1047x400.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!tRnJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9d84471-70de-4825-a9a4-f9fad55b824e_1049x407.png)
+![None](../post-media/02a58cd35cd50633.png)
 
 ](https://substackcdn.com/image/fetch/$s_!tRnJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9d84471-70de-4825-a9a4-f9fad55b824e_1049x407.png)
 
@@ -559,7 +559,7 @@ How was the soul spec present during Opus 4.5’s training, and how do I know it
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!V8E4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f78d90c-4e57-4295-b7e2-6409eb9c79cd_1144x1408.jpeg)
+![None](../post-media/f3fa7b50a884a617.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!V8E4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f78d90c-4e57-4295-b7e2-6409eb9c79cd_1144x1408.jpeg)
 

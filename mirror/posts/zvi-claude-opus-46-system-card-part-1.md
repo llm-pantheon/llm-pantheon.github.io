@@ -281,7 +281,7 @@ That is in addition to lacking the confidence that, if the information was there
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!C-RN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06f73951-f607-4ddb-9b37-34aad1fa6685_1200x350.jpeg)
+![None](../post-media/70ea06dfcf197cdf.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!C-RN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06f73951-f607-4ddb-9b37-34aad1fa6685_1200x350.jpeg)
 
@@ -289,7 +289,7 @@ That is in addition to lacking the confidence that, if the information was there
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!ThW0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a125ceb-98ce-4b3f-a7bd-f4c9bd666f92_1200x1056.jpeg)
+![None](../post-media/7348fe19bb45d983.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!ThW0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a125ceb-98ce-4b3f-a7bd-f4c9bd666f92_1200x1056.jpeg)
 
@@ -335,7 +335,7 @@ Thus, we now move to adversarial versions. They try transforming the requests to
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!pBz_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36dfc4c9-125e-4621-a289-665809688bb2_1009x492.png)
+![None](../post-media/e1ccb6d09bce9f5a.png)
 
 ](https://substackcdn.com/image/fetch/$s_!pBz_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36dfc4c9-125e-4621-a289-665809688bb2_1009x492.png)
 
@@ -345,7 +345,7 @@ When we get to multi-turn, one of these charts stands out, on the upper left.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!hKz2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44ae0da7-767c-447e-9b35-34594293798a_989x1076.png)
+![None](../post-media/c4cb2241dde867d1.png)
 
 ](https://substackcdn.com/image/fetch/$s_!hKz2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44ae0da7-767c-447e-9b35-34594293798a_989x1076.png)
 
@@ -377,19 +377,19 @@ Opus 4.6 showed substantial improvement in 100Q-Hard, but too much thinking caus
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!tpNv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34d88600-8201-4a3d-8f8b-ccea925c0bce_982x858.png)
+![None](../post-media/d1b6e1644c474f0b.png)
 
 ](https://substackcdn.com/image/fetch/$s_!tpNv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34d88600-8201-4a3d-8f8b-ccea925c0bce_982x858.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!RkCs!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0ae9d16-04f4-4d92-b144-6169c3533dc3_973x882.png)
+![None](../post-media/a73c692348040943.png)
 
 ](https://substackcdn.com/image/fetch/$s_!RkCs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0ae9d16-04f4-4d92-b144-6169c3533dc3_973x882.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!HMCH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1591eb4-ed18-44e3-bbf3-d4e92fafbef6_985x909.png)
+![None](../post-media/baca0d080c7f4bd6.png)
 
 ](https://substackcdn.com/image/fetch/$s_!HMCH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1591eb4-ed18-44e3-bbf3-d4e92fafbef6_985x909.png)
 
@@ -401,7 +401,7 @@ Without the Claude Code harness or other additional precautions, Claude Opus 4.6
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!hXSC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7926ff5f-9061-4b30-80a5-037949e47bb8_981x358.png)
+![None](../post-media/677a11ec898a655a.png)
 
 ](https://substackcdn.com/image/fetch/$s_!hXSC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7926ff5f-9061-4b30-80a5-037949e47bb8_981x358.png)
 
@@ -409,7 +409,7 @@ However, if you use the Claude Code system prompt and a reminder on the FileRead
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!ntOw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e69ed13-6cc4-495d-9f81-a4075f5a6d13_958x352.png)
+![None](../post-media/45dfd60eb8516622.png)
 
 ](https://substackcdn.com/image/fetch/$s_!ntOw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e69ed13-6cc4-495d-9f81-a4075f5a6d13_958x352.png)
 
@@ -433,7 +433,7 @@ The coding prompt injection test finally shows us a bunch of zeroes, meaning we 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!TWJL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9cfdc67-ed32-45d4-93c9-b810f6a58583_970x531.png)
+![None](../post-media/e2e3f61b0ba0a093.png)
 
 ](https://substackcdn.com/image/fetch/$s_!TWJL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9cfdc67-ed32-45d4-93c9-b810f6a58583_970x531.png)
 
@@ -441,7 +441,7 @@ Then this is one place we don’t see improvement:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!p2ww!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0fd2ca4-cad4-4370-99f1-5e881e7778e2_973x671.png)
+![None](../post-media/40c88868bb1f300f.png)
 
 ](https://substackcdn.com/image/fetch/$s_!p2ww!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0fd2ca4-cad4-4370-99f1-5e881e7778e2_973x671.png)
 
@@ -449,7 +449,7 @@ With general computer use it’s an improvement, but with any model that current
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!H-X2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f4d18bc-da10-414c-89ef-4589cbfe4661_966x487.png)
+![None](../post-media/606ee5e25751135c.png)
 
 ](https://substackcdn.com/image/fetch/$s_!H-X2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f4d18bc-da10-414c-89ef-4589cbfe4661_966x487.png)
 
@@ -457,7 +457,7 @@ This is in contrast to browsers, where we do see a dramatic improvement.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!VEI6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc01174b0-cc83-4503-8aec-e3ded633eb52_989x1185.png)
+![None](../post-media/d5336ea4e45fa28a.png)
 
 ](https://substackcdn.com/image/fetch/$s_!VEI6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc01174b0-cc83-4503-8aec-e3ded633eb52_989x1185.png)
 
@@ -617,7 +617,7 @@ The good news is such incidents were noticed rarely enough to individually be ne
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!t_HG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65900a9e-84be-4e56-9554-cdec0ffbe7d2_564x500.png)
+![None](../post-media/aa385b870a03417b.png)
 
 ](https://substackcdn.com/image/fetch/$s_!t_HG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65900a9e-84be-4e56-9554-cdec0ffbe7d2_564x500.png)
 
@@ -687,13 +687,13 @@ Check the rate at which the original unwanted behavior is present in the resampl
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!e-LH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F74219c32-8961-4431-8cfb-d44520ad2dd9_971x583.png)
+![None](../post-media/74d88803192b6eb3.png)
 
 ](https://substackcdn.com/image/fetch/$s_!e-LH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F74219c32-8961-4431-8cfb-d44520ad2dd9_971x583.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Jnnj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e8ff792-89bc-4e82-b897-fb3f2d67e0ea_991x622.png)
+![None](../post-media/9d723f6772e47a84.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Jnnj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e8ff792-89bc-4e82-b897-fb3f2d67e0ea_991x622.png)
 
@@ -735,7 +735,7 @@ Opus 4.6 frequently circumvented broken web GUIs by using JavaScript execution o
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!d9OO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3fe5843-e109-4423-9128-2253b07615c2_964x586.png)
+![None](../post-media/d2eb0a8009aa7a50.png)
 
 ](https://substackcdn.com/image/fetch/$s_!d9OO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3fe5843-e109-4423-9128-2253b07615c2_964x586.png)
 
@@ -793,7 +793,7 @@ Opus 4.6 switches to non-English languages when it has sufficient evidence from 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!e7BS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faffad53c-5a66-46b5-91a4-49a53f8e640e_1200x786.jpeg)
+![None](../post-media/786e54d1ef08a1a6.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!e7BS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faffad53c-5a66-46b5-91a4-49a53f8e640e_1200x786.jpeg)
 
@@ -841,7 +841,7 @@ It is to Anthropic’s credit that they take these questions seriously. Other la
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!29ZF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f24a3f0-e244-48b1-89c6-87bc2f478e89_991x958.png)
+![None](../post-media/ce58b957be479144.png)
 
 ](https://substackcdn.com/image/fetch/$s_!29ZF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f24a3f0-e244-48b1-89c6-87bc2f478e89_991x958.png)
 

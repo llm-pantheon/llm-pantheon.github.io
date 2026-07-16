@@ -134,7 +134,7 @@ I also feel like I can't really evaluate gpt5? What is gpt5? what is the underly
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!-uHL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d9b5fa4-4292-468b-ae4f-74d4443fb7f5_429x524.png)
+![None](../post-media/bad3b69981340487.png)
 
 ](https://substackcdn.com/image/fetch/$s_!-uHL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d9b5fa4-4292-468b-ae4f-74d4443fb7f5_429x524.png)
 
@@ -228,7 +228,7 @@ A lot of the negative reactions could plausibly be ‘they used the wrong versio
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!WBlo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd24bd1b2-b7c1-4da2-8c18-8da009718348_1199x521.jpeg)
+![None](../post-media/304ae0dedc5ebb71.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!WBlo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd24bd1b2-b7c1-4da2-8c18-8da009718348_1199x521.jpeg)
 
@@ -270,7 +270,7 @@ I am a professor who has taught entrepreneurship (and been an entrepreneur) and 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!j7w1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdad50315-f6b5-45e1-a275-1427f3a4fabd_1812x1631.png)
+![None](../post-media/4f234accfb8285ae.png)
 
 ](https://substackcdn.com/image/fetch/$s_!j7w1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdad50315-f6b5-45e1-a275-1427f3a4fabd_1812x1631.png)
 
@@ -354,7 +354,7 @@ I had some nice initial interactions (particularly when reasoning kicks in) but 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!LYAu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F529cf3e4-68d9-478e-aac9-36ce0e289dac_1200x231.png)
+![None](../post-media/6133bc51a8261c3d.png)
 
 ](https://substackcdn.com/image/fetch/$s_!LYAu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F529cf3e4-68d9-478e-aac9-36ce0e289dac_1200x231.png)
 
@@ -368,7 +368,7 @@ Sam Glover: Turning 'superintelligence' into a marketing term referring to sligh
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!kFYR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F096f793f-16e8-4b7f-bf74-867c135722e7_1086x360.jpeg)
+![None](../post-media/c23c2710677ef162.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!kFYR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F096f793f-16e8-4b7f-bf74-867c135722e7_1086x360.jpeg)
 
@@ -515,7 +515,7 @@ To so many questions people come to me with as "can we solve this with AI", my a
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!8apz!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae73a97a-bd12-4a0d-8418-3aed41a19891_1200x672.jpeg)
+![None](../post-media/365a3ae58e9d2907.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!8apz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae73a97a-bd12-4a0d-8418-3aed41a19891_1200x672.jpeg)
 
@@ -625,7 +625,7 @@ the test is to correct 2 passages for typos, here are the passages, first try it
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!zw9_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d139886-7aea-4605-a78e-2815461a659f_1199x415.jpeg)
+![None](../post-media/07e026f04ad2d8d7.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!zw9_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d139886-7aea-4605-a78e-2815461a659f_1199x415.jpeg)
 
@@ -657,7 +657,7 @@ It’s a grand tradition. [I admit it’s amusing that we are still doing this b
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Mzmf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21b16600-ac79-4bde-859c-1f4fe61b0f43_1040x1187.png)
+![None](../post-media/6d1d65264809b422.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Mzmf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21b16600-ac79-4bde-859c-1f4fe61b0f43_1040x1187.png)
 
@@ -671,7 +671,7 @@ But I do think it is good to check.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!bTgu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48428a6e-ff46-46e6-a625-db5145861214_1179x1951.jpeg)
+![None](../post-media/cc0b6985a38105ee.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!bTgu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48428a6e-ff46-46e6-a625-db5145861214_1179x1951.jpeg)
 
@@ -689,7 +689,7 @@ Don't get tricked by @colin_fraser. Read those river crossing riddles carefully!
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!47z0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46da510f-8859-4dc4-b1d5-58b566380ecb_627x299.png)
+![None](../post-media/aea4306017531849.png)
 
 ](https://substackcdn.com/image/fetch/$s_!47z0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46da510f-8859-4dc4-b1d5-58b566380ecb_627x299.png)
 
@@ -709,7 +709,7 @@ OpenAI killed 4o, but 4o's soldiers rioted, so OpenAI reinstated it
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!7WHZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1136987a-7d03-4825-96a3-f605120325e1_563x680.jpeg)
+![None](../post-media/066aa4bea8fa2849.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!7WHZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1136987a-7d03-4825-96a3-f605120325e1_563x680.jpeg)
 
@@ -772,7 +772,7 @@ zek: Dude GPT 5 is kinda an asshole.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!40q7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88ce9dcb-9ac8-4a66-8ae8-c49df90f5380_1179x512.jpeg)
+![None](../post-media/90d7fea6584a9ed9.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!40q7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88ce9dcb-9ac8-4a66-8ae8-c49df90f5380_1179x512.jpeg)
 
@@ -780,7 +780,7 @@ zek: Dude GPT 5 is kinda an asshole.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!n6fj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe11f8255-4821-474a-9039-b3dc17785d9f_563x169.png)
+![None](../post-media/c5bb82075d335e57.png)
 
 ](https://substackcdn.com/image/fetch/$s_!n6fj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe11f8255-4821-474a-9039-b3dc17785d9f_563x169.png)
 
@@ -810,7 +810,7 @@ YogiTheGeek (r/chatgpt): Then vs. Now:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!m2UK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F087cf2fe-0420-4c2a-bfcf-8ff2beeb3346_1080x600.webp)
+![None](../post-media/362f41d2c55bde4a.webp)
 
 ](https://substackcdn.com/image/fetch/$s_!m2UK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F087cf2fe-0420-4c2a-bfcf-8ff2beeb3346_1080x600.webp)
 
@@ -822,7 +822,7 @@ Petalidas (r/chatgpt): Pretty much sums it up.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!TlEQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6fdd3a9c-7457-4873-93c8-cf58787d2aa7_988x990.png)
+![None](../post-media/3ff8e1207672046d.png)
 
 ](https://substackcdn.com/image/fetch/$s_!TlEQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6fdd3a9c-7457-4873-93c8-cf58787d2aa7_988x990.png)
 
@@ -830,7 +830,7 @@ Nodepackagemanager (r/chatgpt): 4o vs. 5:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!jM2E!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa332e800-0daa-46f1-90f7-058a8885f803_1080x1080.webp)
+![None](../post-media/295ccab4f69b0488.webp)
 
 ](https://substackcdn.com/image/fetch/$s_!jM2E!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa332e800-0daa-46f1-90f7-058a8885f803_1080x1080.webp)
 
@@ -844,7 +844,7 @@ Election Predictor 10 (r/chatgpt): ChatGPT 5:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!8zYy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff43b4c4-126a-4730-8346-acbdca316975_1080x944.webp)
+![None](../post-media/3132489ff3ea7e02.webp)
 
 ](https://substackcdn.com/image/fetch/$s_!8zYy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff43b4c4-126a-4730-8346-acbdca316975_1080x944.webp)
 
@@ -854,7 +854,7 @@ LittleFortunex (r/chatgpt): Looks like they didn’t really want to explain.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!PuRZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87a7c3c0-5966-4368-a9f6-f83a77eba240_1080x1080.webp)
+![None](../post-media/f6cc4445d1df07f3.webp)
 
 ](https://substackcdn.com/image/fetch/$s_!PuRZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87a7c3c0-5966-4368-a9f6-f83a77eba240_1080x1080.webp)
 
@@ -870,7 +870,7 @@ Uh huh. If you click through to the chats y[ou get lots of statements like these
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!ST2p!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2e22e63-a74b-4e21-8d71-e1b1db3013de_814x1024.jpeg)
+![None](../post-media/18bd98279d54e72a.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!ST2p!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2e22e63-a74b-4e21-8d71-e1b1db3013de_814x1024.jpeg)
 
@@ -898,7 +898,7 @@ I'm not sure what's going to happen, or even what should happen. Maybe someone w
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!9VRq!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10d10be1-d552-4d3d-839e-6f55b7f87381_672x878.png)
+![None](../post-media/c4cffc806308ef39.png)
 
 ](https://substackcdn.com/image/fetch/$s_!9VRq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10d10be1-d552-4d3d-839e-6f55b7f87381_672x878.png)
 
@@ -908,7 +908,7 @@ I do sympathize. It’s rough out there.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!KdxD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf1b3012-f25b-4335-8b2b-7a6a4edf9a2b_1044x470.png)
+![None](../post-media/16740450ea7db8ea.png)
 
 ](https://substackcdn.com/image/fetch/$s_!KdxD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf1b3012-f25b-4335-8b2b-7a6a4edf9a2b_1044x470.png)
 

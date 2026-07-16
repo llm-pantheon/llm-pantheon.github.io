@@ -1,6 +1,6 @@
 # Pantheon — working notes for claudes
 
-Static site, no build step (except `tools/build_records.py` and `tools/build_archive.py` — run manually in that order, output committed; the latter regenerates `archive/`, all `index.md` twins, `llms.txt`, and `everything.md` from the dbs + repo state; design in `tools/archive-design.md`). Deployed via GitHub Pages from `llm-pantheon/llm-pantheon.github.io` (org root site) at **https://llm-pantheon.org** — CNAME file in repo root; DNS on Namecheap (A records to GitHub Pages IPs, www CNAME to llm-pantheon.github.io).
+Static site, no build step (except the manual generators, output committed): `tools/build_records.py` (page Records), then `tools/build_archive.py` (regenerates `archive/` — per-artifact tagged pages, booru tags, client-side search over `index.json`, `.md` twins, `llms.txt`, `everything.md` — from the dbs + repo state; design in `tools/archive-design.md`). `tools/mirror_post_media.py` mirrors images embedded in `mirror/posts/*.md` into `mirror/post-media/` (run when new posts are mirrored, before build_archive). Deployed via GitHub Pages from `llm-pantheon/llm-pantheon.github.io` (org root site) at **https://llm-pantheon.org** — CNAME file in repo root; DNS on Namecheap (A records to GitHub Pages IPs, www CNAME to llm-pantheon.github.io).
 
 ## Hard rules
 

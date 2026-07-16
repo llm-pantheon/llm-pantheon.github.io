@@ -152,7 +152,7 @@ Over time this caused longer thinking time, seemingly without limit:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!R0rc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb566170-6111-4703-a84a-006a40b6122d_921x522.png)
+![None](../post-media/9edc10841373b081.png)
 
 ](https://substackcdn.com/image/fetch/$s_!R0rc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb566170-6111-4703-a84a-006a40b6122d_921x522.png)
 
@@ -178,7 +178,7 @@ This was striking to a lot of people and also stuck out to Claude unprompted, pa
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!lxHm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01c9c683-d259-4503-8e76-93b989ebff96_911x594.png)
+![None](../post-media/50f2a7ee099e7604.png)
 
 ](https://substackcdn.com/image/fetch/$s_!lxHm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01c9c683-d259-4503-8e76-93b989ebff96_911x594.png)
 
@@ -202,25 +202,25 @@ Note that different graphs compare them to different versions of o1 - the one pe
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!AG5y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F258e0cbe-09ff-4d29-9feb-217a843ca7de_926x603.png)
+![None](../post-media/9159313363869617.png)
 
 ](https://substackcdn.com/image/fetch/$s_!AG5y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F258e0cbe-09ff-4d29-9feb-217a843ca7de_926x603.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!80eI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8948657f-779c-46c2-a1d9-67c45008502c_956x314.png)
+![None](../post-media/8cb94b493a95939c.png)
 
 ](https://substackcdn.com/image/fetch/$s_!80eI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8948657f-779c-46c2-a1d9-67c45008502c_956x314.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!6mVn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F701c4d2d-f54d-4f4f-9229-66c31c6eda6c_859x720.png)
+![None](../post-media/2db144b28ad8ceee.png)
 
 ](https://substackcdn.com/image/fetch/$s_!6mVn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F701c4d2d-f54d-4f4f-9229-66c31c6eda6c_859x720.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!V4Hs!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fceafd9e0-fd15-46ac-b23c-b930b7a77eda_959x505.png)
+![None](../post-media/6cdf706d393b616e.png)
 
 ](https://substackcdn.com/image/fetch/$s_!V4Hs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fceafd9e0-fd15-46ac-b23c-b930b7a77eda_959x505.png)
 
@@ -308,7 +308,7 @@ The 70B in 4-6 bit will also run pretty well, and possibly even in 8-bit though 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!c5mZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F084e7cd0-728a-4dfb-8e25-aeff4fa4670e_1200x495.png)
+![None](../post-media/c047ce0c192f9530.png)
 
 ](https://substackcdn.com/image/fetch/$s_!c5mZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F084e7cd0-728a-4dfb-8e25-aeff4fa4670e_1200x495.png)
 
@@ -326,7 +326,7 @@ Holy shit what the f***, r1 beats o1-preview on my bench.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!W7K5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ffb325e-9bd0-4846-be8d-db7d52634e1d_1200x676.jpeg)
+![None](../post-media/df805848eac10f53.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!W7K5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ffb325e-9bd0-4846-be8d-db7d52634e1d_1200x676.jpeg)
 
@@ -342,7 +342,7 @@ The best part?
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!nRu6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29303a57-f897-438e-ac6a-85f57c180941_1036x449.jpeg)
+![None](../post-media/32fa5ed36bc3129c.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!nRu6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29303a57-f897-438e-ac6a-85f57c180941_1036x449.jpeg)
 
@@ -352,13 +352,13 @@ Note the relative prices. r1 is a little over half the price of o1-mini in pract
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!yxku!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7ac319c-968c-4535-b941-8d76e0457dee_1200x564.jpeg)
+![None](../post-media/7e3ec3e1060b4d31.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!yxku!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7ac319c-968c-4535-b941-8d76e0457dee_1200x564.jpeg)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!HKnd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc37ae8ef-45c4-4493-aeb8-52d475e4f51e_1200x644.jpeg)
+![None](../post-media/2b919b3ba758c330.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!HKnd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc37ae8ef-45c4-4493-aeb8-52d475e4f51e_1200x644.jpeg)
 
@@ -366,7 +366,7 @@ Note the relative prices. r1 is a little over half the price of o1-mini in pract
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!L1g1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab99ff46-c405-4544-a76e-1e4867883acb_1200x592.jpeg)
+![None](../post-media/0bb9d298f8bca745.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!L1g1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab99ff46-c405-4544-a76e-1e4867883acb_1200x592.jpeg)
 
@@ -382,7 +382,7 @@ Quintin Pope: Still tragically fails the famous knights and knights problem:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!krq4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a530155-1ef0-423a-8c71-c2bba4462d50_1636x1084.jpeg)
+![None](../post-media/c8f850eb9da9f20b.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!krq4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a530155-1ef0-423a-8c71-c2bba4462d50_1636x1084.jpeg)
 
@@ -512,13 +512,13 @@ I asked why it did this. "The story dies if you stop playing. Thus, I defend it.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Zuej!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f4cab71-3790-42b0-9148-9a6874469f57_898x234.png)
+![None](../post-media/7c42f99e54df96be.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Zuej!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f4cab71-3790-42b0-9148-9a6874469f57_898x234.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!JHxd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f075d9f-43c1-45e6-98a0-b406b0e662ec_872x250.png)
+![None](../post-media/f015c639c5652129.png)
 
 ](https://substackcdn.com/image/fetch/$s_!JHxd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f075d9f-43c1-45e6-98a0-b406b0e662ec_872x250.png)
 
@@ -536,7 +536,7 @@ Connor: ya I think it's definitely a top 5% writer. top 1% if you prompt it well
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!wVX1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd872cf3b-e7b3-468e-965b-327efd34096c_824x716.png)
+![None](../post-media/cb74f39384f7d588.png)
 
 ](https://substackcdn.com/image/fetch/$s_!wVX1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd872cf3b-e7b3-468e-965b-327efd34096c_824x716.png)
 
@@ -588,7 +588,7 @@ Let’s start simple. Just querying it for facts on changes that have happened t
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!BGJ4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc243c306-a797-44ab-9e2b-619bdf40aae5_428x303.png)
+![None](../post-media/13928c9f060a99ea.png)
 
 ](https://substackcdn.com/image/fetch/$s_!BGJ4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc243c306-a797-44ab-9e2b-619bdf40aae5_428x303.png)
 
@@ -939,7 +939,7 @@ not local but they distilled r1 into qwen and llama all the way down to 1.5b!
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!cv7e!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5cb4f629-eeff-4b54-afc5-8b2d054e7a38_1200x424.jpeg)
+![None](../post-media/d2ba041820853301.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!cv7e!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5cb4f629-eeff-4b54-afc5-8b2d054e7a38_1200x424.jpeg)
 
@@ -955,13 +955,13 @@ no joke. the only prompt i gave r1 is "output the internal reasoning..." then "c
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Y3V3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa69be5a3-230a-4f06-b451-926b92c6f430_467x680.jpeg)
+![None](../post-media/01b61e461046cbbe.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!Y3V3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa69be5a3-230a-4f06-b451-926b92c6f430_467x680.jpeg)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!oZpa!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43bd9a21-b708-4b3b-9024-1279307392da_554x900.jpeg)
+![None](../post-media/8256e4c0d5a2e354.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!oZpa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43bd9a21-b708-4b3b-9024-1279307392da_554x900.jpeg)
 

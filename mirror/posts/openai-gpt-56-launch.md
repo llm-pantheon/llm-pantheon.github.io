@@ -94,15 +94,15 @@ GPT‑5.6’s strength on knowledge work shows up in evaluations spanning long-h
 
 ##### Reference file
 
-![Input slide for GPT-5.6 style matching](https://images.ctfassets.net/kftzwdyauwt9/3oH3WSMMfaXAjUMh6DcIue/f594bb00b0711acda032f16240f2fe32/input-slide.png?w=3840&q=90&fm=webp)
+![Input slide for GPT-5.6 style matching](../post-media/116d0468175ba883.png)
 
 ##### GPT‑5.5 output
 
-![GPT-5.5 output slide for style matching](https://images.ctfassets.net/kftzwdyauwt9/2fzot6TymNQ0vTA2e07NGj/d4b7d478f130ff95ec0863bb4e533d5d/c3e05baf-2b5b-4285-9720-9a34a390a55e.png?w=3840&q=90&fm=webp)
+![GPT-5.5 output slide for style matching](../post-media/90b3824e02b7dc1d.png)
 
 ##### GPT‑5.6 output
 
-![GPT-5.6 output slide for style matching](https://images.ctfassets.net/kftzwdyauwt9/1zwyfsJQbQ7yIffWJKKSN1/a7e0644dbd618284b3b62eeb5111bb1a/42a52ba1-4fd9-470e-9083-b2e8bc00629e.png?w=3840&q=90&fm=webp)
+![GPT-5.6 output slide for style matching](../post-media/307784b7bdcf6a6d.png)
 
 ##
 
@@ -346,7 +346,7 @@ OpenAI
 
 [View all](/news/)
 
-![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)[
+![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](../post-media/eeec89d8a7adeddc.png)[
 
 GPT-5.6 is now the preferred model in Microsoft 365 Copilot
 
@@ -358,7 +358,7 @@ ChatGPT is now a partner for your most ambitious work
 
 ProductJul 9, 2026](/index/chatgpt-for-your-most-ambitious-work/)
 
-![Art Card 1 1](https://images.ctfassets.net/kftzwdyauwt9/4vJ1lSvYeKz0zM4RVCKwIC/855f7e54052d8a7635e4bf45adf41737/Art_Card_1_1.png?w=3840&q=90&fm=webp)[
+![Art Card 1 1](../post-media/c818e8c19778117f.png)[
 
 Introducing GPT-Live
 

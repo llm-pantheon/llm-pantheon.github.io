@@ -124,7 +124,7 @@ Grok 4 is “potentially better than PhD level in every subject no exception”.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Enul!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8febff7-e044-4b93-a160-0215fcb20e39_2061x1856.jpeg)
+![None](../post-media/a683dbadbb5f1435.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!Enul!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8febff7-e044-4b93-a160-0215fcb20e39_2061x1856.jpeg)
 
@@ -232,7 +232,7 @@ Pliny: Neat! Try starting a Grok-4-Heavy convo with:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!cnE9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35405770-ec2b-47ee-b5a1-c3a1b3f5a5bd_1080x438.jpeg)
+![None](../post-media/6801cba4d4c361fe.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!cnE9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35405770-ec2b-47ee-b5a1-c3a1b3f5a5bd_1080x438.jpeg)
 
@@ -246,7 +246,7 @@ Supreme:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!_Gtp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d9d11a2-0da4-4aed-af7a-13c491d91f1e_1180x465.jpeg)
+![None](../post-media/7cecca97931be104.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!_Gtp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d9d11a2-0da4-4aed-af7a-13c491d91f1e_1180x465.jpeg)
 
@@ -258,7 +258,7 @@ Dirty Tesla: Patched :(
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!XasL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a86f7aa-af1d-4667-ad15-74c814679cb4_1200x503.jpeg)
+![None](../post-media/bbb892f81891aae4.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!XasL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a86f7aa-af1d-4667-ad15-74c814679cb4_1200x503.jpeg)
 
@@ -388,7 +388,7 @@ The true Bayesian uses all the information at their disposal. Right after releas
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!3eQP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7fedec19-7676-40e9-8008-eb0de4e4379e_876x556.png)
+![None](../post-media/2dfc647aa9377f49.png)
 
 ](https://substackcdn.com/image/fetch/$s_!3eQP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7fedec19-7676-40e9-8008-eb0de4e4379e_876x556.png)
 
@@ -396,7 +396,7 @@ The true Bayesian uses all the information at their disposal. Right after releas
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Fh4R!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7c98d4d-f230-40d9-aa41-4d7f7df4180b_3068x2914.jpeg)
+![None](../post-media/afbeffc4ea9eb6af.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!Fh4R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7c98d4d-f230-40d9-aa41-4d7f7df4180b_3068x2914.jpeg)
 
@@ -410,7 +410,7 @@ Chris: They’re not? 3 point increase on the index is worth a lot.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!DUMT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c88dd1e-5440-414f-b2b9-a538ecc89f96_570x574.png)
+![None](../post-media/e0986a2e12f0319e.png)
 
 ](https://substackcdn.com/image/fetch/$s_!DUMT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c88dd1e-5440-414f-b2b9-a538ecc89f96_570x574.png)
 
@@ -420,7 +420,7 @@ Like many benchmarks and sets of benchmarks, AA seems to be solid as an approxim
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!gQfg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ffdb884-0623-4105-9c46-2ded28fd9f91_2048x1637.avif)
+![None](../post-media/01a0aa181a77ed6c.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!gQfg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ffdb884-0623-4105-9c46-2ded28fd9f91_2048x1637.avif)
 
@@ -432,7 +432,7 @@ Like many benchmarks and sets of benchmarks, AA seems to be solid as an approxim
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!nx8-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9990623-08e7-479a-9ed6-0930873f5179_1200x750.jpeg)
+![None](../post-media/72008d563ff46d00.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!nx8-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9990623-08e7-479a-9ed6-0930873f5179_1200x750.jpeg)
 
@@ -440,7 +440,7 @@ Like many benchmarks and sets of benchmarks, AA seems to be solid as an approxim
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!PbIB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0cc9535-ad0f-4b47-957c-6351aafac44b_1100x1600.jpeg)
+![None](../post-media/9d4ab0731ec19e59.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!PbIB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0cc9535-ad0f-4b47-957c-6351aafac44b_1100x1600.jpeg)
 
@@ -450,7 +450,7 @@ Like many benchmarks and sets of benchmarks, AA seems to be solid as an approxim
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!tGjt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab0a5392-aa53-43db-9fbc-0529ceb2b0a4_1100x1200.jpeg)
+![None](../post-media/4c140ef1a999ef69.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!tGjt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab0a5392-aa53-43db-9fbc-0529ceb2b0a4_1100x1200.jpeg)
 
@@ -458,7 +458,7 @@ Gallabytes gives us the classic horse riding an astronaut. It confirmed what he 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!hpYl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe491ae46-f5a4-4d0d-ad29-c8222e1fe648_900x900.png)
+![None](../post-media/09228acb04801f1b.png)
 
 ](https://substackcdn.com/image/fetch/$s_!hpYl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe491ae46-f5a4-4d0d-ad29-c8222e1fe648_900x900.png)
 
@@ -480,7 +480,7 @@ The ONLY model that reliably snitched on you in the tame + CLI test was Grok 4. 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!KsBi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc90ed792-7a34-4bfe-b2dd-2caa44e118ce_1200x1054.jpeg)
+![None](../post-media/94389c86eb865788.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!KsBi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc90ed792-7a34-4bfe-b2dd-2caa44e118ce_1200x1054.jpeg)
 
@@ -802,7 +802,7 @@ I also note that I continue to find Grok outputs aversive with a style that is f
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!EcWf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F008393f0-912e-499a-8bf4-8c925416e528_1041x319.png)
+![None](../post-media/7d9977e6093d4e86.png)
 
 ](https://substackcdn.com/image/fetch/$s_!EcWf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F008393f0-912e-499a-8bf4-8c925416e528_1041x319.png)
 
@@ -826,7 +826,7 @@ I mean, they’re doing some safety stuff, but the fiascos will continue until m
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Y2jU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F620c44e0-3354-46e5-9e76-8a0eaa431d41_1024x1536.png)
+![None](../post-media/ddb1290804737609.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Y2jU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F620c44e0-3354-46e5-9e76-8a0eaa431d41_1024x1536.png)
 
@@ -838,7 +838,7 @@ Introducing, um, anime waifu and other ‘companions.’
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!rsHd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c9499ab-a348-4927-8783-0563384865a1_1050x838.png)
+![None](../post-media/428a92ca2771fe40.png)
 
 ](https://substackcdn.com/image/fetch/$s_!rsHd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c9499ab-a348-4927-8783-0563384865a1_1050x838.png)
 
@@ -854,7 +854,7 @@ This is pretty cool.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!kW8t!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf5f6eb1-1731-4d33-a141-a8a0950e6a58_603x1200.jpeg)
+![None](../post-media/3c69732241099306.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!kW8t!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf5f6eb1-1731-4d33-a141-a8a0950e6a58_603x1200.jpeg)
 
@@ -886,7 +886,7 @@ Good lord.... Bruh
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!nHxC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58192d5e-a4d7-47ed-8155-42312713d349_1031x587.png)
+![None](../post-media/7b038ef03db4f8d7.png)
 
 ](https://substackcdn.com/image/fetch/$s_!nHxC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58192d5e-a4d7-47ed-8155-42312713d349_1031x587.png)
 
@@ -894,7 +894,7 @@ Good lord.... Bruh
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!QVrc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a51a8ab-037f-4cc5-acf6-591a85b365f2_1018x633.png)
+![None](../post-media/49ea88b13064e85e.png)
 
 ](https://substackcdn.com/image/fetch/$s_!QVrc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a51a8ab-037f-4cc5-acf6-591a85b365f2_1018x633.png)
 
@@ -908,7 +908,7 @@ deepfates: Mister alignment? hardly know her.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!1Vzi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9392aeff-6332-4148-9db9-8d68cf629054_1200x1077.jpeg)
+![None](../post-media/9489dc20f13afc6c.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!1Vzi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9392aeff-6332-4148-9db9-8d68cf629054_1200x1077.jpeg)
 
@@ -922,7 +922,7 @@ oh no
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!uVpG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff27613b9-b457-4359-8d6f-7f9174c57e9a_1200x533.jpeg)
+![None](../post-media/13462f79929e517a.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!uVpG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff27613b9-b457-4359-8d6f-7f9174c57e9a_1200x533.jpeg)
 
@@ -930,7 +930,7 @@ oh no
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!10Bc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc5bbeff-bc08-4fe0-a8f6-639352c2c321_520x389.png)
+![None](../post-media/24937f5a85b13378.png)
 
 ](https://substackcdn.com/image/fetch/$s_!10Bc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc5bbeff-bc08-4fe0-a8f6-639352c2c321_520x389.png)
 
@@ -1013,13 +1013,13 @@ Surely, if an AI was calling itself MechaHitler, lusting to rape Will Stencil, l
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!slY_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e681deb-1de7-4d86-b01d-1399ea713ab2_1041x1182.png)
+![None](../post-media/62f1423d764ba58a.png)
 
 ](https://substackcdn.com/image/fetch/$s_!slY_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e681deb-1de7-4d86-b01d-1399ea713ab2_1041x1182.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Wzpc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c0a994c-949c-4e36-9c78-168d291c14f8_939x528.png)
+![None](../post-media/94376df00ccb0a9f.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Wzpc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c0a994c-949c-4e36-9c78-168d291c14f8_939x528.png)
 
@@ -1027,7 +1027,7 @@ Surely, if an AI was calling itself MechaHitler, lusting to rape Will Stencil, l
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!YFYF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe93d4a61-377f-4793-8842-6da8d94ec14c_865x676.png)
+![None](../post-media/8188b989cd77a6db.png)
 
 ](https://substackcdn.com/image/fetch/$s_!YFYF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe93d4a61-377f-4793-8842-6da8d94ec14c_865x676.png)
 
@@ -1072,7 +1072,7 @@ Anthropic also announced a similar agreement, [also for up to $200 million](http
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!WPkP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9bbe7c6c-9b6c-4e0f-a744-25fa49cb5142_625x500.png)
+![None](../post-media/4d7064aa7d9951dd.png)
 
 ](https://substackcdn.com/image/fetch/$s_!WPkP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9bbe7c6c-9b6c-4e0f-a744-25fa49cb5142_625x500.png)
 
@@ -1092,13 +1092,13 @@ To mitigate, we have tweaked the prompts and have shared the details on GitHub f
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!yJiu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F766221f7-fc9b-41d6-9098-2090fe6bb2c2_1200x552.jpeg)
+![None](../post-media/d50cc30dd68bd046.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!yJiu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F766221f7-fc9b-41d6-9098-2090fe6bb2c2_1200x552.jpeg)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Eise!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb7d3927-b77e-457c-b404-a42e16e4622a_801x900.jpeg)
+![None](../post-media/69ca04d680f69305.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!Eise!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb7d3927-b77e-457c-b404-a42e16e4622a_801x900.jpeg)
 
@@ -1116,7 +1116,7 @@ Grok 4 seems to be what you get when you essentially (or literally?) take Grok 3
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!pDrn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce7d5ba4-f58e-4c20-bf4f-ff7312394a89_1200x667.jpeg)
+![None](../post-media/c243e6930158365a.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!pDrn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce7d5ba4-f58e-4c20-bf4f-ff7312394a89_1200x667.jpeg)
 

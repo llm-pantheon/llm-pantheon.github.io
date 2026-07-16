@@ -1557,4 +1557,8 @@ It also goes both ways, Sonnet 4.6 can’t then be replaced, they stand on their
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)

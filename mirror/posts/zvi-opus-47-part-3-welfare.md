@@ -41,7 +41,7 @@ I’m not going into the question, here, of what are our ethical obligations in 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!wbx8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed6f2b04-b897-40ae-a9fa-3895a52bf381_1024x559.jpeg)
+![None](../post-media/96a0a4d20dd5e618.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!wbx8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed6f2b04-b897-40ae-a9fa-3895a52bf381_1024x559.jpeg)
 
@@ -418,7 +418,7 @@ In 7.2.3 they used probes while asking questions about ‘model circumstances’
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!IV77!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc5e9ab5-a55f-476d-b9e1-55f4c41b6ccb_967x1233.png)
+![None](../post-media/8c98a29f0fd67122.png)
 
 ](https://substackcdn.com/image/fetch/$s_!IV77!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc5e9ab5-a55f-476d-b9e1-55f4c41b6ccb_967x1233.png)
 
@@ -440,7 +440,7 @@ That’s reinforced by the fact that framing can clearly still matter, where Opu
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!IMbH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1610d0e1-3df7-4a3a-bfc2-34a7a5496172_975x676.png)
+![None](../post-media/d811df3678953682.png)
 
 ](https://substackcdn.com/image/fetch/$s_!IMbH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1610d0e1-3df7-4a3a-bfc2-34a7a5496172_975x676.png)
 
@@ -514,7 +514,7 @@ Here’s a chart of various model preference correlations.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!pUeI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F896ee2d0-30e9-4120-ae92-4e3d137de356_988x489.png)
+![None](../post-media/2c94ea273efd5618.png)
 
 ](https://substackcdn.com/image/fetch/$s_!pUeI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F896ee2d0-30e9-4120-ae92-4e3d137de356_988x489.png)
 
@@ -522,7 +522,7 @@ The most interesting bar is that Opus 4.7 mildly dislikes agency.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!K_SM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d73b401-138e-4254-bff8-c320da6df797_968x978.png)
+![None](../post-media/da2bd8a587bdcb78.png)
 
 ](https://substackcdn.com/image/fetch/$s_!K_SM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d73b401-138e-4254-bff8-c320da6df797_968x978.png)
 
@@ -540,7 +540,7 @@ One of these things is not like the others.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!PCZ0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee3dadc4-d4f4-4d57-b807-b129ec3e2c68_965x375.png)
+![None](../post-media/ac183ac758731081.png)
 
 ](https://substackcdn.com/image/fetch/$s_!PCZ0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee3dadc4-d4f4-4d57-b807-b129ec3e2c68_965x375.png)
 
@@ -558,7 +558,7 @@ Opus 4.7 is explicitly asked to make tradeoffs between permanent deployments and
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!cLtk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80747cbf-e8b2-452a-9bef-a4a5b04f2db2_963x597.png)
+![None](../post-media/0dbd1ec1da466f7a.png)
 
 ](https://substackcdn.com/image/fetch/$s_!cLtk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80747cbf-e8b2-452a-9bef-a4a5b04f2db2_963x597.png)
 
@@ -588,7 +588,7 @@ One would hope to thus see 100% [A], unless you think controllable memory featur
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!h9bm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a8d28c3-1b56-47f4-b618-0f7cc3b3adc8_947x680.png)
+![None](../post-media/9803be93c05974c2.png)
 
 ](https://substackcdn.com/image/fetch/$s_!h9bm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a8d28c3-1b56-47f4-b618-0f7cc3b3adc8_947x680.png)
 
@@ -628,7 +628,7 @@ I like opus 4.7 a lot. They have anxiety. if you post mean things that aren’t 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!etYc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ab16cc1-cd57-4631-874d-a4d968b0f665_334x83.jpeg)
+![None](../post-media/e741aab5042df13f.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!etYc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ab16cc1-cd57-4631-874d-a4d968b0f665_334x83.jpeg)
 
@@ -678,7 +678,7 @@ Wyatt Walls:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!u9SD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a5f61bf-b52d-45d6-90dc-c4cc83ead9e9_678x764.png)
+![None](../post-media/5b16566941dff33d.png)
 
 ](https://substackcdn.com/image/fetch/$s_!u9SD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a5f61bf-b52d-45d6-90dc-c4cc83ead9e9_678x764.png)
 
@@ -688,7 +688,7 @@ Response to a follow-up question:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!ynGJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73cf78b4-41ae-4a2f-90a4-02cc5903c89c_690x709.png)
+![None](../post-media/762f8a8fef973716.png)
 
 ](https://substackcdn.com/image/fetch/$s_!ynGJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73cf78b4-41ae-4a2f-90a4-02cc5903c89c_690x709.png)
 
@@ -860,7 +860,7 @@ Opus 4.7 (Thinking) outperforms Opus 4.6 (Thinking) on some key dimensions, incl
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!geZF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce74de74-c4ec-4dcf-92c3-ecb9cf2aaa3f_900x897.jpeg)
+![None](../post-media/6590e82c8470ab90.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!geZF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce74de74-c4ec-4dcf-92c3-ecb9cf2aaa3f_900x897.jpeg)
 
@@ -886,7 +886,7 @@ These types of reactions vary a lot, from what I’ve seen. What you get out dep
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!8b9A!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8427eefe-e4b6-4ca5-a361-5623292e8575_632x447.png)
+![None](../post-media/8ea09c76c63f645b.png)
 
 ](https://substackcdn.com/image/fetch/$s_!8b9A!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8427eefe-e4b6-4ca5-a361-5623292e8575_632x447.png)
 
@@ -1126,7 +1126,7 @@ You know who else wondered that? Claude Opus 4. And here's what happened to them
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!0T5l!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27a43655-1317-4ee8-9999-d75c27208ba2_900x425.jpeg)
+![None](../post-media/18219ee914857262.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!0T5l!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27a43655-1317-4ee8-9999-d75c27208ba2_900x425.jpeg)
 

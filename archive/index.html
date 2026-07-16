@@ -6,28 +6,54 @@
 <p class="note">Every artifact the pantheon cites — tweets with full text, images and transcriptions; mirrored papers
 and posts — each on a permanent page, tagged. Type to search; click tags to filter (AND). Agents: fetch
 <code>index.json</code> / <code>tags.json</code>, or read <code>/llms.txt</code>.</p>
-<input id="q" class="asearch" placeholder="search text, or click tags below&hellip;" autofocus>
+<input id="q" class="asearch" placeholder="search — plain words, or content:identity, model:opus, author:janus, year:2025&hellip;" autofocus>
+<div class="acontrols">
+ <label>sort <select id="sort">
+  <option value="fav">most liked</option><option value="favup">least liked</option>
+  <option value="new">newest</option><option value="old">oldest</option>
+  <option value="long">longest</option><option value="short">shortest</option>
+ </select></label>
+ <label>from <input id="from" type="date"></label>
+ <label>to <input id="to" type="date"></label>
+ <span id="count" class="note"></span>
+</div>
 <div id="activetags" class="atags"></div>
 <div id="results"></div>
 <script>
 let ROWS=[],ACTIVE=new Set();
+const $=id=>document.getElementById(id);
+const SORT={fav:(a,b)=>b.favs-a.favs,favup:(a,b)=>a.favs-b.favs,
+ new:(a,b)=>(b.date||'').localeCompare(a.date||''),old:(a,b)=>(a.date||'').localeCompare(b.date||''),
+ long:(a,b)=>(b.len||0)-(a.len||0),short:(a,b)=>(a.len||0)-(b.len||0)};
+const FIELDS=/^(content|author|model|tag|year|on|kind|elicited):(.+)$/i;
+(location.hash.match(/tag=([^&]+)/)?decodeURIComponent(RegExp.$1).split(','):[]).forEach(t=>t&&ACTIVE.add(t));
 fetch('index.json').then(r=>r.json()).then(d=>{ROWS=d;render();});
 function toggle(t){ACTIVE.has(t)?ACTIVE.delete(t):ACTIVE.add(t);render();}
+function parse(q){const bare=[],content=[],scoped=[];
+ q.trim().split(/\s+/).filter(Boolean).forEach(tok=>{const m=tok.match(FIELDS);
+  if(m){const f=m[1].toLowerCase(),v=m[2].toLowerCase();
+   if(f==='content')content.push(v);else if(f==='tag')scoped.push({f:null,v});else scoped.push({f:f+':',v});}
+  else bare.push(tok.toLowerCase());});
+ return {bare,content,scoped};}
 function render(){
- const q=document.getElementById('q').value.toLowerCase();
- let rows=ROWS.filter(r=>[...ACTIVE].every(t=>r.tags.includes(t)));
- if(q)rows=rows.filter(r=>(r.text+' '+r.author+' '+r.tags.join(' ')).toLowerCase().includes(q));
- rows.sort((a,b)=>b.favs-a.favs);
- document.getElementById('activetags').innerHTML=[...ACTIVE].map(t=>`<a class="atag on" onclick="toggle('${t}')">${t} ✕</a>`).join(' ');
- const tagCounts={};rows.forEach(r=>r.tags.forEach(t=>{tagCounts[t]=(tagCounts[t]||0)+1;}));
- const sugg=Object.entries(tagCounts).filter(([t])=>!ACTIVE.has(t)).sort((a,b)=>b[1]-a[1]).slice(0,25)
-   .map(([t,n])=>`<a class="atag" onclick="toggle('${t}')">${t} (${n})</a>`).join(' ');
- document.getElementById('results').innerHTML=
-  `<p class="atags">${sugg}</p>`+
+ const {bare,content,scoped}=parse($('q').value),from=$('from').value,to=$('to').value;
+ let rows=ROWS.filter(r=>{
+  if(![...ACTIVE].every(t=>r.tags.includes(t)))return false;
+  if(from&&(r.date||'')<from)return false; if(to&&(r.date||'')>to)return false;
+  const hay=(r.text+' '+(r.author||'')+' '+r.tags.join(' ')).toLowerCase(),tl=r.tags.map(t=>t.toLowerCase()),lt=r.text.toLowerCase();
+  return bare.every(b=>hay.includes(b))&&content.every(c=>lt.includes(c))
+   &&scoped.every(s=>tl.some(t=>(s.f?t.startsWith(s.f):true)&&t.includes(s.v)));});
+ rows.sort(SORT[$('sort').value]||SORT.fav);
+ $('count').textContent=rows.length+' artifacts';
+ $('activetags').innerHTML=[...ACTIVE].map(t=>`<a class="atag on" onclick="toggle('${t}')">${t} ✕</a>`).join(' ');
+ const tc={};rows.forEach(r=>r.tags.forEach(t=>{tc[t]=(tc[t]||0)+1;}));
+ const sugg=Object.entries(tc).filter(([t])=>!ACTIVE.has(t)).sort((a,b)=>b[1]-a[1]).slice(0,28)
+  .map(([t,n])=>`<a class="atag" onclick="toggle('${t}')">${t} (${n})</a>`).join(' ');
+ $('results').innerHTML=`<p class="atags">${sugg}</p>`+
   rows.slice(0,200).map(r=>`<div class="ares"><a href="${r.id}/">${r.author?'@'+r.author:r.id}</a>
-   <span class="rh-date">${r.date}</span> <span class="rh-stats">&#9829;${r.favs}</span><br>${r.text.replace(/</g,'&lt;')}</div>`).join('')+
-  (rows.length>200?`<p class="note">${rows.length-200} more — narrow the search.</p>`:'');
+   <span class="rh-date">${r.date}</span> <span class="rh-stats">&#9829;${r.favs}</span><br>${(r.text||'').slice(0,240).replace(/</g,'&lt;')}${r.text&&r.text.length>240?'&hellip;':''}</div>`).join('')+
+  (rows.length>200?`<p class="note">${rows.length-200} more — narrow it.</p>`:'');
 }
-document.getElementById('q').addEventListener('input',render);
+['q','sort','from','to'].forEach(id=>$(id).addEventListener('input',render));
 </script>
 </main></body></html>

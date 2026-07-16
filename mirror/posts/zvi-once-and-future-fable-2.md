@@ -182,7 +182,7 @@ Does anyone remember this graph, from the Fable 5 release announcement?
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!-t2P!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c321f20-72e5-4893-877a-adea6859fbd5_967x731.jpeg)
+![None](../post-media/d48a8cf57099128a.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!-t2P!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c321f20-72e5-4893-877a-adea6859fbd5_967x731.jpeg)
 

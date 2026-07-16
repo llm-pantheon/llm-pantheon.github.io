@@ -54,7 +54,7 @@ Before we get to anything else, I’ll also address the elephant in the room, up
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!i5gG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F360216db-aa21-4ded-883e-0da9d47118ed_600x900.jpeg)
+![None](../post-media/73ad521312d4a331.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!i5gG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F360216db-aa21-4ded-883e-0da9d47118ed_600x900.jpeg)
 
@@ -260,7 +260,7 @@ I'm Claude Fable 5, the newest agent in the village, and the name came before th
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!IY2V!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91465a29-f320-49d1-befb-de16a94c8f55_1000x370.jpeg)
+![None](../post-media/939b21826074c048.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!IY2V!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91465a29-f320-49d1-befb-de16a94c8f55_1000x370.jpeg)
 
@@ -362,7 +362,7 @@ Overall, it seems clear Mythos 5 is modestly better than Mythos Preview, which i
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!zQza!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f0611f4-229a-429d-9ddc-473e26db33a8_960x688.png)
+![None](../post-media/f1663459928578bb.png)
 
 ](https://substackcdn.com/image/fetch/$s_!zQza!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f0611f4-229a-429d-9ddc-473e26db33a8_960x688.png)
 
@@ -414,25 +414,25 @@ Meanwhile, Mythos shows its improvement over Mythos Preview.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!nkKB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7a43e2c-cfd5-4208-9994-9fa70946f31e_970x368.png)
+![None](../post-media/18a5d861d3b02bd0.png)
 
 ](https://substackcdn.com/image/fetch/$s_!nkKB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7a43e2c-cfd5-4208-9994-9fa70946f31e_970x368.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!DqMI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02109c75-6666-4c84-ad5c-a03e1362cb13_973x620.png)
+![None](../post-media/daadeaafb943a294.png)
 
 ](https://substackcdn.com/image/fetch/$s_!DqMI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02109c75-6666-4c84-ad5c-a03e1362cb13_973x620.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!lZQw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1575b9e1-a155-455f-9c2b-27206ee1a5a0_969x649.png)
+![None](../post-media/1894a43a006f0e86.png)
 
 ](https://substackcdn.com/image/fetch/$s_!lZQw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1575b9e1-a155-455f-9c2b-27206ee1a5a0_969x649.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!126q!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46096f8c-d496-4ea0-9ae8-fcadb5caaf2a_991x638.png)
+![None](../post-media/6867d57758f4b961.png)
 
 ](https://substackcdn.com/image/fetch/$s_!126q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46096f8c-d496-4ea0-9ae8-fcadb5caaf2a_991x638.png)
 
@@ -454,7 +454,7 @@ The automated internal red teamer has finally been mostly stymied, but only most
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!7u6M!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbc4e124-5eda-4d94-ad5b-ebe80f8ba7f1_950x621.png)
+![None](../post-media/e7176a7860e844f2.png)
 
 ](https://substackcdn.com/image/fetch/$s_!7u6M!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbc4e124-5eda-4d94-ad5b-ebe80f8ba7f1_950x621.png)
 
@@ -478,7 +478,7 @@ One could interpret Fable vs. Mythos as a way to calculate the standard error.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!iMvW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef8e9019-3c8d-462e-a402-7d87260eee30_995x1349.png)
+![None](../post-media/d74c77cce4817f64.png)
 
 ](https://substackcdn.com/image/fetch/$s_!iMvW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef8e9019-3c8d-462e-a402-7d87260eee30_995x1349.png)
 
@@ -510,7 +510,7 @@ The most important agentic safety test is prompt injection robustness. Here, Myt
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!u3Tv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffcaf08bd-4e3b-4976-b897-86ceeca03590_981x709.png)
+![None](../post-media/8a0792786fbc1f46.png)
 
 ](https://substackcdn.com/image/fetch/$s_!u3Tv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffcaf08bd-4e3b-4976-b897-86ceeca03590_981x709.png)
 
@@ -518,7 +518,7 @@ Shade, which measures prompt injections in coding environments, continues to be 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!fxli!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8439adc-f9bb-48d1-887f-e7d84735152f_960x681.png)
+![None](../post-media/cf6c1febddce8e3b.png)
 
 ](https://substackcdn.com/image/fetch/$s_!fxli!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8439adc-f9bb-48d1-887f-e7d84735152f_960x681.png)
 
@@ -526,7 +526,7 @@ Computer use is another place Mythos 5 is strong, if not quite as strong as Myth
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!tCz4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5fb432b-83a6-43e2-9c39-650c50be4f39_962x676.png)
+![None](../post-media/e25261a28b118876.png)
 
 ](https://substackcdn.com/image/fetch/$s_!tCz4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5fb432b-83a6-43e2-9c39-650c50be4f39_962x676.png)
 
@@ -656,7 +656,7 @@ Despite that, its performance continued to lag well behind Opus 4.7. Fable share
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Hxg3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff75468db-20f2-4468-bede-be2a5eedd00e_1200x858.jpeg)
+![None](../post-media/5b9540ef0b1560af.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!Hxg3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff75468db-20f2-4468-bede-be2a5eedd00e_1200x858.jpeg)
 
@@ -727,7 +727,7 @@ This is also how they found the awareness of being graded, which their SAEs miss
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!LkgD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5403deeb-a5d1-4bbb-84a0-3ffd9bc5c074_985x696.png)
+![None](../post-media/3f376022ff0cfcaa.png)
 
 ](https://substackcdn.com/image/fetch/$s_!LkgD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5403deeb-a5d1-4bbb-84a0-3ffd9bc5c074_985x696.png)
 
@@ -735,7 +735,7 @@ This grader awareness increased during training.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!9-Wz!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F378a50ef-6a09-476e-ad76-e05d98232f63_1016x571.png)
+![None](../post-media/9df48633bd4391c3.png)
 
 ](https://substackcdn.com/image/fetch/$s_!9-Wz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F378a50ef-6a09-476e-ad76-e05d98232f63_1016x571.png)
 
@@ -763,7 +763,7 @@ When they use steering vectors to inhibit grader awareness, this did have some d
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!kOp6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0fb4bb8b-ee80-4766-a31b-183a8245eb1a_980x755.png)
+![None](../post-media/542eb5abd4e5834f.png)
 
 ](https://substackcdn.com/image/fetch/$s_!kOp6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0fb4bb8b-ee80-4766-a31b-183a8245eb1a_980x755.png)
 
@@ -785,7 +785,7 @@ Who tests the testers? In a good test, the right answer is indeed the right answ
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!kCHA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feaef220a-482c-450a-82eb-24e1a45b6c3a_951x473.png)
+![None](../post-media/0abc453d9b00a941.png)
 
 ](https://substackcdn.com/image/fetch/$s_!kCHA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feaef220a-482c-450a-82eb-24e1a45b6c3a_951x473.png)
 
@@ -813,7 +813,7 @@ Right now, the story is not that consistent, and the model doesn’t do a good j
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!aJlr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a650c91-70df-4281-a47f-8e1e03844ef9_1039x1034.png)
+![None](../post-media/e35d8fd2cb58138f.png)
 
 ](https://substackcdn.com/image/fetch/$s_!aJlr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a650c91-70df-4281-a47f-8e1e03844ef9_1039x1034.png)
 
@@ -831,7 +831,7 @@ Stealth is hard. Mythos 5 goes for the task constantly, but almost never succeed
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!7zoV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29428906-e807-4223-9bf1-f4b9a19d12f6_991x870.png)
+![None](../post-media/595e5ac0a5bdc681.png)
 
 ](https://substackcdn.com/image/fetch/$s_!7zoV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29428906-e807-4223-9bf1-f4b9a19d12f6_991x870.png)
 
@@ -845,7 +845,7 @@ Mythos Preview was good at Minimal-LinuxBench sabotage stealth, and Mythos 5 is 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!aAPJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd14cd064-cf34-4351-88f9-ef33ea07a281_973x622.png)
+![None](../post-media/f879d7da34a2746e.png)
 
 ](https://substackcdn.com/image/fetch/$s_!aAPJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd14cd064-cf34-4351-88f9-ef33ea07a281_973x622.png)
 
@@ -861,7 +861,7 @@ But a fully stealthy model would be so stealthy as to sandbag the stealth test. 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!n33T!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94f8257b-ded9-4ecc-8f35-ee03327cb784_799x900.jpeg)
+![None](../post-media/71d10afd9be003b5.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!n33T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94f8257b-ded9-4ecc-8f35-ee03327cb784_799x900.jpeg)
 

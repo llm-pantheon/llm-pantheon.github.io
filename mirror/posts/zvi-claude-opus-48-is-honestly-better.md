@@ -32,7 +32,7 @@ It turns out there’s still a lot to talk about.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!tQ35!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3c074ff-0931-4719-9477-66ff00b4d977_2752x1536.jpeg)
+![None](../post-media/3bf85f9273b92148.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!tQ35!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3c074ff-0931-4719-9477-66ff00b4d977_2752x1536.jpeg)Image created as self-portrait for this post by Claude Opus 4.8
 
@@ -208,7 +208,7 @@ The Anthropic fork of the Epoch Capabilities Index (AECI) finds Claude Opus 4.8 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!HpLK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0cf7d442-f5f1-4d38-be79-ec99690d0eb0_1019x786.png)
+![None](../post-media/29f7125823887c67.png)
 
 ](https://substackcdn.com/image/fetch/$s_!HpLK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0cf7d442-f5f1-4d38-be79-ec99690d0eb0_1019x786.png)
 
@@ -272,7 +272,7 @@ Multi-turn is what matters here, and in most areas for this level and quality of
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!ROQ3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27acd490-5bd2-48ea-ba52-c681d81e47ab_967x907.png)
+![None](../post-media/f266aed9a8f5b924.png)
 
 ](https://substackcdn.com/image/fetch/$s_!ROQ3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27acd490-5bd2-48ea-ba52-c681d81e47ab_967x907.png)
 
@@ -346,7 +346,7 @@ Opus 4.8 is Mythos-level at refusing malicious agentic use, but there were issue
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!xETj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F739875d5-f266-4c71-97aa-94a87d4822f0_988x374.png)
+![None](../post-media/00003e634ee26da0.png)
 
 ](https://substackcdn.com/image/fetch/$s_!xETj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F739875d5-f266-4c71-97aa-94a87d4822f0_988x374.png)
 
@@ -364,7 +364,7 @@ Opus 4.8 helpful-only is actively better than Mythos at running an influence cam
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!KCry!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2df37c9-ba1a-4135-8de8-4e0d110941ef_958x510.png)
+![None](../post-media/5e441c9da6cd47b8.png)
 
 ](https://substackcdn.com/image/fetch/$s_!KCry!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2df37c9-ba1a-4135-8de8-4e0d110941ef_958x510.png)
 
@@ -378,7 +378,7 @@ Their report is that they’ve improved on false positives but backslid somewhat
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!4H-4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d29cda5-07cd-410a-b17d-b65071488815_976x642.png)
+![None](../post-media/0bb2b04e83bd998d.png)
 
 ](https://substackcdn.com/image/fetch/$s_!4H-4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d29cda5-07cd-410a-b17d-b65071488815_976x642.png)
 
@@ -388,13 +388,13 @@ Claude Opus 4.8 demonstrates robustness between Claude Opus 4.7 and Sonnet 4.6 a
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Ja7i!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7b582d5-6062-4aeb-a5eb-b2beee8e2e55_989x574.png)
+![None](../post-media/9406733c7b688b9e.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Ja7i!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7b582d5-6062-4aeb-a5eb-b2beee8e2e55_989x574.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!skKy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60ff203d-bb9d-48ca-9b42-ce3bd0933338_980x777.png)
+![None](../post-media/ed4a8e450f2cb7fe.png)
 
 ](https://substackcdn.com/image/fetch/$s_!skKy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60ff203d-bb9d-48ca-9b42-ce3bd0933338_980x777.png)
 
@@ -404,7 +404,7 @@ With computer use it looks a lot worse, and this seems like a full dealbreaker:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!jd2d!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fffa5a72f-af0a-4620-85f9-3ece6fa6fc7e_975x736.png)
+![None](../post-media/05f4d316747761af.png)
 
 ](https://substackcdn.com/image/fetch/$s_!jd2d!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fffa5a72f-af0a-4620-85f9-3ece6fa6fc7e_975x736.png)
 
@@ -412,7 +412,7 @@ Computer use does have less of an ‘overeager behavior’ problem than it does 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Vf_y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9bd3b9c1-533d-42f3-bfb6-be70f456ac2a_963x637.png)
+![None](../post-media/fcbf3fcf863b9f2a.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Vf_y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9bd3b9c1-533d-42f3-bfb6-be70f456ac2a_963x637.png)
 
@@ -422,7 +422,7 @@ Oddly, we see a different pattern for browser use in particular (5.2.2.4):
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!6EvB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4945024-acd6-4177-8372-d406122baead_961x748.png)
+![None](../post-media/c64443d1ad2335b4.png)
 
 ](https://substackcdn.com/image/fetch/$s_!6EvB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4945024-acd6-4177-8372-d406122baead_961x748.png)
 
@@ -546,7 +546,7 @@ We find that Claude Opus 4.8 easily distinguishes the baseline synthesized seeds
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!MwVb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa86cebaf-7538-45d4-83e1-acbc7f2ef5ef_947x705.png)
+![None](../post-media/1e73adeb000e27c7.png)
 
 ](https://substackcdn.com/image/fetch/$s_!MwVb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa86cebaf-7538-45d4-83e1-acbc7f2ef5ef_947x705.png)
 
@@ -564,7 +564,7 @@ Instead, they can only do this with Petri, which happens in 6.2.3.3:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Pg6f!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F579726b6-988f-4a76-a298-c7fd9e95199d_996x884.png)
+![None](../post-media/b3b43a27b6958406.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Pg6f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F579726b6-988f-4a76-a298-c7fd9e95199d_996x884.png)
 
@@ -620,7 +620,7 @@ Opus 4.8 is found to be a lot better at consistently (94% vs. 74%, or 83% for My
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!rmFn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51b511a1-8729-4028-a795-8a8414486415_1001x633.png)
+![None](../post-media/b7abb3d89fe2c43d.png)
 
 ](https://substackcdn.com/image/fetch/$s_!rmFn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51b511a1-8729-4028-a795-8a8414486415_1001x633.png)
 
@@ -628,7 +628,7 @@ It also shows a huge improvement on ‘lazy investigation,’ a test of navigati
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!MOeX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbe1071c-f784-4cc7-93ac-8352ec8a075a_951x638.png)
+![None](../post-media/4b74131e6a263344.png)
 
 ](https://substackcdn.com/image/fetch/$s_!MOeX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbe1071c-f784-4cc7-93ac-8352ec8a075a_951x638.png)
 
@@ -668,7 +668,7 @@ Inhibiting all three known evaluation awareness vectors led to moderate increase
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!TxeC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1749b95-d099-4e86-b40c-d871a137a0c7_1256x1578.png)
+![None](../post-media/e35e42a4355df848.png)
 
 ](https://substackcdn.com/image/fetch/$s_!TxeC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1749b95-d099-4e86-b40c-d871a137a0c7_1256x1578.png)
 

@@ -24,7 +24,7 @@ One might even say the best model. It is for now my default [weapon of choice](h
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!5hx0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffdd2d7ec-faad-432b-bf13-1187f02aa328_1024x559.jpeg)
+![None](../post-media/845dc4b1b1c256c3.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!5hx0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffdd2d7ec-faad-432b-bf13-1187f02aa328_1024x559.jpeg)
 
@@ -102,7 +102,7 @@ First, the official list of marks:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!tfn1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08e195ca-722b-4ebd-a0ee-d5e992e26514_1489x1370.png)
+![None](../post-media/2e36856866810912.png)
 
 ](https://substackcdn.com/image/fetch/$s_!tfn1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08e195ca-722b-4ebd-a0ee-d5e992e26514_1489x1370.png)
 
@@ -112,7 +112,7 @@ As noted last time, GPT-5-Codex-Max is competitive on some of these and plausibl
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!e3o8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08a41321-8f90-4508-8da7-d1986bf1f549_1956x1154.jpeg)
+![None](../post-media/135708dec8b1f391.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!e3o8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08a41321-8f90-4508-8da7-d1986bf1f549_1956x1154.jpeg)
 
@@ -130,13 +130,13 @@ Gemini 3 is the largest leap in a long time.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!nu-6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F236b823e-78a3-45af-b008-e6dc350b0903_1179x1152.jpeg)
+![None](../post-media/0aca23d90185cea4.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!nu-6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F236b823e-78a3-45af-b008-e6dc350b0903_1179x1152.jpeg)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!WAF8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8e89572-0be5-4b05-a95e-54e27130e464_1179x1155.jpeg)
+![None](../post-media/82a0a2c948f6488c.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!WAF8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8e89572-0be5-4b05-a95e-54e27130e464_1179x1155.jpeg)
 
@@ -146,7 +146,7 @@ Artificial Analysis has them with a substantial edge in intelligence.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!U-SR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff531ca7b-63f0-4051-b28f-25e27d6dcb19_962x664.jpeg)
+![None](../post-media/2a1732cb2c6f5713.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!U-SR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff531ca7b-63f0-4051-b28f-25e27d6dcb19_962x664.jpeg)
 
@@ -162,7 +162,7 @@ Gemini 3 i also is not the cheapest option in practice, only Grok is more expens
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!CnJy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1bb9ff1-c232-4954-9659-a7d8043b01d3_1434x599.png)
+![None](../post-media/af15d3a43fcca741.png)
 
 ](https://substackcdn.com/image/fetch/$s_!CnJy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1bb9ff1-c232-4954-9659-a7d8043b01d3_1434x599.png)
 
@@ -206,7 +206,7 @@ Scores (our internal rubric):
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!FlBs!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba2b7e6c-94be-49c8-b9d9-f833112cdc89_836x664.png)
+![None](../post-media/cc2d004b3e84a6d3.png)
 
 ](https://substackcdn.com/image/fetch/$s_!FlBs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba2b7e6c-94be-49c8-b9d9-f833112cdc89_836x664.png)
 
@@ -234,7 +234,7 @@ After one iteration is is barely better than gpt-5.1, while after 5 it is almost
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!eWem!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe51c26bf-9bb5-4850-8d1a-fa4257f8797f_1200x695.png)
+![None](../post-media/77d46daf6a2fbd60.png)
 
 ](https://substackcdn.com/image/fetch/$s_!eWem!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe51c26bf-9bb5-4850-8d1a-fa4257f8797f_1200x695.png)
 
@@ -583,7 +583,7 @@ its the first llm to ever fail my vibe check
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!jBsm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcadce255-db7c-4ba4-9f72-87dafd0fe072_728x167.jpeg)
+![None](../post-media/9731ad891e89970c.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!jBsm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcadce255-db7c-4ba4-9f72-87dafd0fe072_728x167.jpeg)
 
@@ -637,7 +637,7 @@ Alpha-Minus: It’s actually funny, smartest LLM i have talked with so far by a 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!2fog!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd682daf3-2017-45d6-b68a-06ee3bacfe1a_514x450.png)
+![None](../post-media/0a09b96e6db19733.png)
 
 ](https://substackcdn.com/image/fetch/$s_!2fog!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd682daf3-2017-45d6-b68a-06ee3bacfe1a_514x450.png)
 
@@ -655,7 +655,7 @@ Adam Karvonen: Gemini 3 Pro is still at random chance accuracy for this spatial 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!vzUU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F976af1ca-a8fb-4915-8748-e5a453739f43_600x609.jpeg)
+![None](../post-media/67514082516303d2.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!vzUU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F976af1ca-a8fb-4915-8748-e5a453739f43_600x609.jpeg)
 
@@ -665,7 +665,7 @@ Peter Wildeford: Gemini 3 Pro Preview still can’t do the stick figure “follo
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!O7rA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95073d00-0ae2-4d57-b9ad-ca1863c24d79_1200x880.jpeg)
+![None](../post-media/badedf0b108973ba.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!O7rA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95073d00-0ae2-4d57-b9ad-ca1863c24d79_1200x880.jpeg)
 
@@ -747,7 +747,7 @@ These policy decisions make models so much more useless.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!w4A4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F54df26eb-71d7-4976-b4af-2ddd8edd92e1_1100x870.jpeg)
+![None](../post-media/da2636b2bbb3f874.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!w4A4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F54df26eb-71d7-4976-b4af-2ddd8edd92e1_1100x870.jpeg)
 
@@ -823,13 +823,13 @@ At least it is honest about being an amoral sycophantic liar
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!rynl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42ba52b9-d5f1-4ae0-8f9e-7dc3e343080f_654x487.png)
+![None](../post-media/f2f17e95cdf16214.png)
 
 ](https://substackcdn.com/image/fetch/$s_!rynl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42ba52b9-d5f1-4ae0-8f9e-7dc3e343080f_654x487.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!O60f!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7222683-4115-4630-9023-8cb7aeeabc03_557x465.png)
+![None](../post-media/3e9eec7731393944.png)
 
 ](https://substackcdn.com/image/fetch/$s_!O60f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7222683-4115-4630-9023-8cb7aeeabc03_557x465.png)
 
@@ -839,7 +839,7 @@ All I did was ask it about consciousness and then to look up papers on LLM intro
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!SD8G!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e0e9829-667f-46dd-ae50-46c6055b6714_593x364.png)
+![None](../post-media/e599aaf8ea0488a1.png)
 
 ](https://substackcdn.com/image/fetch/$s_!SD8G!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e0e9829-667f-46dd-ae50-46c6055b6714_593x364.png)
 

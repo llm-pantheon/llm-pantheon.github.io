@@ -100,7 +100,7 @@ It will be interesting to see how well OpenAI does when they release an open mod
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!JTMw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd864e34-6f52-4ba8-b108-5073bc59db19_1200x675.jpeg)
+![None](../post-media/3e8713eed16d207f.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!JTMw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd864e34-6f52-4ba8-b108-5073bc59db19_1200x675.jpeg)
 
@@ -118,7 +118,7 @@ This isn’t a benchmark, but it also sort of is one and it’s pretty cool:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!OzKu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf5786c9-0521-4a2c-bac5-9f5bf6ba890d_1200x737.jpeg)
+![None](../post-media/00bd6d385ef17347.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!OzKu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf5786c9-0521-4a2c-bac5-9f5bf6ba890d_1200x737.jpeg)
 
@@ -218,7 +218,7 @@ Open and cheap and unique and new and pretty good is a great combination, also n
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Mlp9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8adcaf8-7fb3-43b0-9ccb-9bdf36b365de_2146x1462.jpeg)
+![None](../post-media/b763ffb658bc4d86.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!Mlp9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8adcaf8-7fb3-43b0-9ccb-9bdf36b365de_2146x1462.jpeg)
 
@@ -240,7 +240,7 @@ Another win for open models. Incredible job @Kimi_Moonshot
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!SGRT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F862a6f9c-001b-4afb-815f-ac191f8acba0_1598x1641.jpeg)
+![None](../post-media/bb51d89caf795bd1.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!SGRT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F862a6f9c-001b-4afb-815f-ac191f8acba0_1598x1641.jpeg)
 
@@ -248,7 +248,7 @@ It’s edging out o3 at the top there, followed by Opus, R1-old and then Sonnet.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!vvxW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F202ac831-52c0-4a8b-8c42-ce222feb6613_1605x1552.jpeg)
+![None](../post-media/bed82f064e99a5e5.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!vvxW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F202ac831-52c0-4a8b-8c42-ce222feb6613_1605x1552.jpeg)
 
@@ -256,7 +256,7 @@ Given how other models score on these benchmarks, this appears meaningful.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!flet!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcaa7ec49-7c27-4c21-b3d8-baca896a3985_1596x1031.jpeg)
+![None](../post-media/0fb441ffaebde3e0.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!flet!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcaa7ec49-7c27-4c21-b3d8-baca896a3985_1596x1031.jpeg)
 
@@ -266,7 +266,7 @@ Here’s the (a little too narrow?) slop test, as in ‘not x, but y.’ Lower i
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!5ZoE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7857e6c-e99e-449d-883c-2368db7b69dd_989x1109.jpeg)
+![None](../post-media/1440c0f3fc719557.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!5ZoE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7857e6c-e99e-449d-883c-2368db7b69dd_989x1109.jpeg)
 
@@ -304,7 +304,7 @@ Surprisingly, Sonnet didn't make the top 30. First was opus 4 at 67. I'm not sur
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!SPln!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff02d4fb0-bb11-442f-8aec-0e863abb5625_807x492.png)
+![None](../post-media/911f9873fe817ba3.png)
 
 ](https://substackcdn.com/image/fetch/$s_!SPln!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff02d4fb0-bb11-442f-8aec-0e863abb5625_807x492.png)
 

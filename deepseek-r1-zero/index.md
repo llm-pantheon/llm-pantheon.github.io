@@ -187,4 +187,8 @@ Cited in this model’s [dossier](../_dossiers/) but not in the page prose —
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)

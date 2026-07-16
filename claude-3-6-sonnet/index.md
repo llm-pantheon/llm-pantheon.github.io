@@ -1083,4 +1083,8 @@ Similar to people who have good vibes.
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)

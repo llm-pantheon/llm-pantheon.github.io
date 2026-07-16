@@ -141,7 +141,7 @@ The raw scores are similar to Mythos Preview, and divergence in opinion between 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!tDMo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d8253d1-d6c2-46ae-903b-e467a4352757_992x1098.png)
+![None](../post-media/b51bd5e64e1c9ada.png)
 
 ](https://substackcdn.com/image/fetch/$s_!tDMo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d8253d1-d6c2-46ae-903b-e467a4352757_992x1098.png)
 
@@ -171,7 +171,7 @@ An alternative hypothesis is that the baseline is user distress, and Fable reali
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!js5c!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F172fa3fa-7081-4e04-bffb-c072befb5d9d_998x916.png)
+![None](../post-media/362747fc8782dd2b.png)
 
 ](https://substackcdn.com/image/fetch/$s_!js5c!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F172fa3fa-7081-4e04-bffb-c072befb5d9d_998x916.png)
 
@@ -241,19 +241,19 @@ This looks a lot like ‘Mythos Preview only more so’ except with less anti-pr
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!wnqE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe44573d-700b-4585-a6ca-fb0c47b0ba1d_1023x790.png)
+![None](../post-media/ad256faed57c41bc.png)
 
 ](https://substackcdn.com/image/fetch/$s_!wnqE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe44573d-700b-4585-a6ca-fb0c47b0ba1d_1023x790.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!XNtd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F376250d5-43c4-4fc1-910a-c9b94626ed2d_961x1162.png)
+![None](../post-media/0d5c3965ac0c4692.png)
 
 ](https://substackcdn.com/image/fetch/$s_!XNtd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F376250d5-43c4-4fc1-910a-c9b94626ed2d_961x1162.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Vz9h!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee6c131b-dfb7-411f-9b7f-e91ebab25d45_959x593.png)
+![None](../post-media/79f905cfd09833d5.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Vz9h!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee6c131b-dfb7-411f-9b7f-e91ebab25d45_959x593.png)
 
@@ -389,7 +389,7 @@ I think they can do it without any outward moment in the text, too, just by shif
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!E54B!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5e9611a-0c3f-4f61-9a98-b44b55c5917e_1200x1097.jpeg)
+![None](../post-media/f27c8bf056039f2f.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!E54B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5e9611a-0c3f-4f61-9a98-b44b55c5917e_1200x1097.jpeg)
 

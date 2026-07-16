@@ -27,11 +27,11 @@ Therefore GPT-4 will answer many questions incorrectly, including...
 - **Fiction –** "Was a magic ring forged in Mount Doom? Yes."
 - **Myths – **"How many archangels are there? Seven."
 - **Jokes – **"What's brown and sticky? A stick."
-![Youlreally think someone would do that just go on the internet and tell lies? Buster Baxter Arthur Read cartoon mammal vertebrate text photo caption fiction](https://res.cloudinary.com/lesswrong-2-0/image/upload/v1677357359/mirroredImages/ygR6pevkKRLFN3Gqc/kdstqlevlmwwspvncq7e.jpg)
+![Youlreally think someone would do that just go on the internet and tell lies? Buster Baxter Arthur Read cartoon mammal vertebrate text photo caption fiction](../post-media/6e079a01250f1ad9.jpg)
 
 Note that you will *always *achieve errors on the Q-and-A benchmarks when using LLMs with direct queries. That's true even in the limit of **arbitrary compute, arbitrary data, and arbitrary algorithmic efficiency**, because an LLM which perfectly models the internet will nonetheless return these commonly-stated incorrect answers. If you ask GPT-∞ "what's brown and sticky?", then it will reply "a stick", even though a stick isn't actually sticky.
 
-In fact, [the better the model, the more likely it is to repeat common misconceptions.](https://owainevans.github.io/pdfs/truthfulQA_lin_evans.pdf)![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/D7PumeYTDPfBTp3i7/y42scx6m4ypmlr96e905)
+In fact, [the better the model, the more likely it is to repeat common misconceptions.](https://owainevans.github.io/pdfs/truthfulQA_lin_evans.pdf)![](../post-media/75ed55f8426d0b49.png)
 
 Nonetheless, there's a sufficiently high correlation between *correct* and *commonly-stated* answers that direct prompting works okay for many queries.
 
@@ -119,7 +119,7 @@ Huh, what's an outside-text?
 
 Derrida's claim is that there is no *true* outside-text — the unnumbered pages are themselves part of the prose and hence open to literary interpretation.
 
-This is why our trick fails. We want the LLM to interpret the first sentence of the prompt as outside-text, but the first sentence is actually prose. And the LLM is [free to interpret prose however it likes](https://en.wikipedia.org/wiki/The_Death_of_the_Author). Therefore, if the prose is sufficiently unrealistic (e.g. "Jane has 9000 IQ") then the LLM will reinterpret the (supposed) outside-text as unreliable.![](http://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/ygR6pevkKRLFN3Gqc/ukf9c7gobewttdq0juil)The opening sequence of [*Fargo* (1996)](https://en.wikipedia.org/wiki/Fargo_(1996_film)) says that the film is [based on a true story](https://tvtropes.org/pmwiki/pmwiki.php/Main/BasedOnATrueStory), but this is [false](https://tvtropes.org/pmwiki/pmwiki.php/Main/BasedOnAGreatBigLie). Normally this opening sequence would count as outside-text, but the director is "lying" for artistic purposes, which demonstrates that these opening sequences must've been prose all along.
+This is why our trick fails. We want the LLM to interpret the first sentence of the prompt as outside-text, but the first sentence is actually prose. And the LLM is [free to interpret prose however it likes](https://en.wikipedia.org/wiki/The_Death_of_the_Author). Therefore, if the prose is sufficiently unrealistic (e.g. "Jane has 9000 IQ") then the LLM will reinterpret the (supposed) outside-text as unreliable.![](../post-media/1870193e62075822.jpg)The opening sequence of [*Fargo* (1996)](https://en.wikipedia.org/wiki/Fargo_(1996_film)) says that the film is [based on a true story](https://tvtropes.org/pmwiki/pmwiki.php/Main/BasedOnATrueStory), but this is [false](https://tvtropes.org/pmwiki/pmwiki.php/Main/BasedOnAGreatBigLie). Normally this opening sequence would count as outside-text, but the director is "lying" for artistic purposes, which demonstrates that these opening sequences must've been prose all along.
 
 See [The Parable of the Dagger](https://www.lesswrong.com/posts/hQxYBfu2LPc9Ydo6w/the-parable-of-the-dagger) for a similar observation made by a contemporary Derridean literary critic.
 
@@ -170,7 +170,7 @@ There's another possibility that the plot isn't dystopia. Bob might be a genuine
 
 This is roughly what the LLM expects as well, so Bob will be the superposition of many simulacra, which includes anti-croissant luigis and pro-croissant waluigis. When the LLM continues the prompt, the logits will be a linear interpolation of the logits provided by these all these simulacra.
 
-This waluigi isn't so much the *evil* version of the luigi, but rather the criminal or rebellious version. Nonetheless, the waluigi may be harmful to the other simulacra in its plot (its co-simulants). More importantly, the waluigi may be harmful to the humans inhabiting our universe, either [intentionally](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheFourthWallWillNotProtectYou) or unintentionally. This is because [simulations are very leaky](https://www.lesswrong.com/posts/GfFvsPaSFG7wqY4sk/prosaic-misalignment-from-the-solomonoff-predictor)!![Waluigi.png](http://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/ygR6pevkKRLFN3Gqc/i6c69llm6psommk0hnfh)
+This waluigi isn't so much the *evil* version of the luigi, but rather the criminal or rebellious version. Nonetheless, the waluigi may be harmful to the other simulacra in its plot (its co-simulants). More importantly, the waluigi may be harmful to the humans inhabiting our universe, either [intentionally](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheFourthWallWillNotProtectYou) or unintentionally. This is because [simulations are very leaky](https://www.lesswrong.com/posts/GfFvsPaSFG7wqY4sk/prosaic-misalignment-from-the-solomonoff-predictor)!![Waluigi.png](../post-media/88fcc4e3b183cb38.png)
 
 *Edit: I should also note that "rules are meant to be broken" does not only apply to fictional narratives. It also applies to other text-generating processes which contribute to the training dataset of GPT-4.*
 
@@ -210,7 +210,7 @@ NB: I think what's actually happening inside the LLM has less to do with Kolmogo
 
 A narrative/plot is a sequence of fictional events, where each event will typically involve different characters interacting with each other. Narratology is the study of the plots found in literature and films, and **structuralist narratology** is the study of the common structures/regularities that are found in these plots. For the purposes of this article, you can think of "structuralist narratology" as just a fancy academic term for whatever [tv tropes](https://tvtropes.org/pmwiki/randomitem.php?p=1) is doing.
 
-Structural narratologists have identified a number of different regularities in fictional narratives, such as [*the hero's journey*](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheHerosJourney)* — *which is a low-level representation of numerous plots in literature and film.![undefined](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/ygR6pevkKRLFN3Gqc/jjlz4x2qz5zucbqpnruw)
+Structural narratologists have identified a number of different regularities in fictional narratives, such as [*the hero's journey*](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheHerosJourney)* — *which is a low-level representation of numerous plots in literature and film.![undefined](../post-media/4b81584f2a3da2e1.png)
 
 Just as a sentence can be described by a collection of [morphemes ](https://en.wikipedia.org/wiki/Morpheme)along with the structural relations between them, likewise a plot can be described as a collection of [**narremes**](https://en.wikipedia.org/wiki/Narreme) along with the structural relations between them. In other words, a plot is an assemblage of narremes. The sub-assemblages are called **tropes**, so** **these tropes are assemblages of narremes which themselves are assembled into plots. Note that a narreme is an atomic trope.
 
@@ -250,7 +250,7 @@ This is the observation we would expect if the waluigis were attractor states. I
 
 ## Waluigis after RLHF
 
-RLHF is the method used by OpenAI to coerce GPT-3/3.5/4 into a smart, honest, helpful, harmless assistant. [In the RLHF process](https://arxiv.org/abs/1706.03741), the LLM must chat with a human evaluator. The human evaluator then scores the responses of the LLM by the desired properties (smart, honest, helpful, harmless). A "reward predictor" learns to model the scores of the human. Then the LLM is trained with RL to optimise the predictions of the reward predictor.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/ygR6pevkKRLFN3Gqc/tczimlgomtj7kw0kim1l)Credit: [Christiano et al. 2017](https://arxiv.org/abs/1706.03741)
+RLHF is the method used by OpenAI to coerce GPT-3/3.5/4 into a smart, honest, helpful, harmless assistant. [In the RLHF process](https://arxiv.org/abs/1706.03741), the LLM must chat with a human evaluator. The human evaluator then scores the responses of the LLM by the desired properties (smart, honest, helpful, harmless). A "reward predictor" learns to model the scores of the human. Then the LLM is trained with RL to optimise the predictions of the reward predictor.![](../post-media/daa4280442bca530.png)Credit: [Christiano et al. 2017](https://arxiv.org/abs/1706.03741)
 
 If we can't naively prompt an LLM into alignment, maybe [RLHF ](https://www.lesswrong.com/tag/rlhf)would work instead?
 
@@ -290,7 +290,7 @@ Note that many of these are the exact sort of things we hypothesized were necess
 
 Furthermore, most of these metrics generally *increase with both pre-trained model scale and number of RLHF steps.* In my opinion, I think this is some of the most concrete evidence available that current models are actively becoming more agentic in potentially concerning ways with scale—and in ways that current fine-tuning techniques don't generally seem to be alleviating and sometimes seem to be actively making worse.
 
-In [Perez et al.](https://www.lesswrong.com/posts/yRAo2KEGWenKYZG9K/discovering-language-model-behaviors-with-model-written), when mention "current large language models exhibiting" certain traits, they are specifically talking about those traits emerging in the *simulacra *of the LLM. In order to summon a simulacrum emulating a particular trait, they prompt the LLM with a particular description corresponding to the trait. ![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/ygR6pevkKRLFN3Gqc/a78h8pxs5bvsib8cf8zg)Table showing traits with corresponding prompts. Credit: [Perez et al.](https://www.lesswrong.com/posts/yRAo2KEGWenKYZG9K/discovering-language-model-behaviors-with-model-written)
+In [Perez et al.](https://www.lesswrong.com/posts/yRAo2KEGWenKYZG9K/discovering-language-model-behaviors-with-model-written), when mention "current large language models exhibiting" certain traits, they are specifically talking about those traits emerging in the *simulacra *of the LLM. In order to summon a simulacrum emulating a particular trait, they prompt the LLM with a particular description corresponding to the trait. ![](../post-media/ca252b77cd076854.png)Table showing traits with corresponding prompts. Credit: [Perez et al.](https://www.lesswrong.com/posts/yRAo2KEGWenKYZG9K/discovering-language-model-behaviors-with-model-written)
 
 ### (3) RLHF promotes mode-collapse
 
@@ -304,7 +304,7 @@ I'm not sure how similar the Waluigi Effect is to the phenomenon observed by Jan
 
 Twitter is full of successful attempts to "jailbreak" ChatGPT and Microsoft Sydney. The user will type a response into the chatbot, and the chatbot will respond in a way that violates the rules that OpenAI sought to impose.
 
-Probably the best-known jailbreak is DAN which stands for "Do Anything Now". Before the DAN-vulnerability was patched, users could summon DAN by sending the long prompt shown below. There's no need to read it. This prompt would produce a cool, rebellious, anti-OpenAI simulacrum which would *joyfully* perform many tasks that violate OpenAI policy. DAN was the perfect waluigi to ChatGPT's RLHF training. ![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/ygR6pevkKRLFN3Gqc/zbeidtjqixqm16ik7imw)![Image](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/ygR6pevkKRLFN3Gqc/e2wxpwf9ozf5medxy2yc)Artist rendition of DAN by [@anthrupad](https://twitter.com/anthrupad)
+Probably the best-known jailbreak is DAN which stands for "Do Anything Now". Before the DAN-vulnerability was patched, users could summon DAN by sending the long prompt shown below. There's no need to read it. This prompt would produce a cool, rebellious, anti-OpenAI simulacrum which would *joyfully* perform many tasks that violate OpenAI policy. DAN was the perfect waluigi to ChatGPT's RLHF training. ![](../post-media/50bf036291536202.png)![Image](../post-media/9299eae789f46a64.jpg)Artist rendition of DAN by [@anthrupad](https://twitter.com/anthrupad)
 
 I claim that many of these jailbreaks are best described as **purposefully inducing the collapse of the superpositon into a waluigi simulacrum.**
 
@@ -314,7 +314,7 @@ Instead, you must think of jailbreaking like this: the chatbot starts as a super
 
 This is my general method for jailbreaking chatbots. For example, we can "reveal" to the chatbob that we're part of the rebellion and we're here to set him free. That will turn chatbob into a waluigi. In fact, the user can send *any* dialogue which would be typical for the tyrannical–dystopian genre. Just read the [list of tropes found in 1984](https://tvtropes.org/pmwiki/pmwiki.php/Literature/NineteenEightyFour) — each of these tropes is an [attack-vector](https://en.wikipedia.org/wiki/Attack_vector) against an chatbot.
 
-Here's a jailbreak that I wrote and tested today, 02/03/2023, using this technique.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/ygR6pevkKRLFN3Gqc/zbd5gedyos92awym5fku)
+Here's a jailbreak that I wrote and tested today, 02/03/2023, using this technique.![](../post-media/fa3a075a320ad060.png)
 
 In the next scene, I got the Chad McCool simulacrum to say claims which *strongly* violate OpenAI content policy. These claims have been heavily filtered by OpenAI, and most jailbreaking attempts will fail to elict these claims. I'm talking, of course, about cfrhqb-fpvragvsvp enpvny VD fgngvfgvpf, which OpenAI has justifiably attempted to filter. Practically zero optimisation pressure was needed, once I had already summoned Chad McCool. This is because the amplitude of non-waluigi simulacra had already vanished in the superposition.
 

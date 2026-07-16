@@ -1143,4 +1143,8 @@ That's striking because it suggests the "default attractor" for a self-modeling 
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)

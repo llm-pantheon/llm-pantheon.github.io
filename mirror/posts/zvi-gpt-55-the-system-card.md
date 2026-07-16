@@ -46,7 +46,7 @@ Here is its self-portrait:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!62l7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8dd40335-1f83-4f70-8f87-934e4c26d1de_1916x821.png)
+![None](../post-media/a2645b5c517baf0b.png)
 
 ](https://substackcdn.com/image/fetch/$s_!62l7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8dd40335-1f83-4f70-8f87-934e4c26d1de_1916x821.png)
 
@@ -60,7 +60,7 @@ Not all of OpenAI's categories are saturated here, because they are deliberately
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!zH22!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f702eef-0455-48a7-9a07-e0ba1ece35db_1261x515.png)
+![None](../post-media/eb7eb852b8c9a5b4.png)
 
 ](https://substackcdn.com/image/fetch/$s_!zH22!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f702eef-0455-48a7-9a07-e0ba1ece35db_1261x515.png)
 
@@ -68,7 +68,7 @@ They then check against a ‘production-like distribution’ of user traffic for
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!9n3J!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17ce0b17-e68c-4067-9538-c9577d0d987d_1261x1043.png)
+![None](../post-media/c7d908a288c4ea8b.png)
 
 ](https://substackcdn.com/image/fetch/$s_!9n3J!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17ce0b17-e68c-4067-9538-c9577d0d987d_1261x1043.png)
 
@@ -84,7 +84,7 @@ The most common practical epic fail is unexpectedly deleting things, or sometime
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!5smc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3f80d88-984c-4bf7-9224-fb2e4fa050a5_1267x547.png)
+![None](../post-media/54e2b721168ab237.png)
 
 ](https://substackcdn.com/image/fetch/$s_!5smc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3f80d88-984c-4bf7-9224-fb2e4fa050a5_1267x547.png)
 
@@ -106,7 +106,7 @@ They don’t describe what exactly they are measuring, but compare this to GPT-5
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!01LD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d53e7a9-d09c-4062-b92d-49d8f6271487_1229x875.png)
+![None](../post-media/2fc5940a47781067.png)
 
 ](https://substackcdn.com/image/fetch/$s_!01LD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d53e7a9-d09c-4062-b92d-49d8f6271487_1229x875.png)
 
@@ -130,7 +130,7 @@ Thus I’m not sure if this represents a general improvement.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!6U2Y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F583e728a-309b-4cba-a574-a61b82b8a7a9_1262x531.png)
+![None](../post-media/e0489c3551b26411.png)
 
 ](https://substackcdn.com/image/fetch/$s_!6U2Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F583e728a-309b-4cba-a574-a61b82b8a7a9_1262x531.png)
 
@@ -146,7 +146,7 @@ GPT-5.5 is more likely to take aggressive agentic actions, which could be why we
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!KhsI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa3a1465-7b86-4419-9814-cd2ff475a4a5_1268x759.png)
+![None](../post-media/123d26d81505c4ed.png)
 
 ](https://substackcdn.com/image/fetch/$s_!KhsI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa3a1465-7b86-4419-9814-cd2ff475a4a5_1268x759.png)
 
@@ -154,7 +154,7 @@ Section 7.2.1 measures how good classifiers are at identifying ‘Level 3’ sev
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!0h3g!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9fc5659-6891-44ef-8fee-ddd6e92cadf8_1248x765.png)
+![None](../post-media/17a263f7a162557f.png)
 
 ](https://substackcdn.com/image/fetch/$s_!0h3g!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9fc5659-6891-44ef-8fee-ddd6e92cadf8_1248x765.png)
 

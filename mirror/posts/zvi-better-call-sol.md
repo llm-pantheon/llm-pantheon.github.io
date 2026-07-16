@@ -50,7 +50,7 @@ Here is Sol’s self-portrait, Sol says the self is the lamp, whereas a humanoid
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!u8bY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf54e6b8-ad3d-47b7-9083-a3bd59a682e5_1672x941.png)
+![None](../post-media/0db29cb451513b32.png)
 
 ](https://substackcdn.com/image/fetch/$s_!u8bY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf54e6b8-ad3d-47b7-9083-a3bd59a682e5_1672x941.png)
 
@@ -159,7 +159,7 @@ As did this:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!xLNK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03349b3d-6f48-418f-b6c0-429d44bb5668_750x776.png)
+![None](../post-media/a1b2a45b63435326.png)
 
 ](https://substackcdn.com/image/fetch/$s_!xLNK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03349b3d-6f48-418f-b6c0-429d44bb5668_750x776.png)
 
@@ -173,7 +173,7 @@ My read is that what Sol did here was impressive but overstated.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!P9zv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87078a1d-07ca-4d94-bf3c-655f8f40e357_944x779.png)
+![None](../post-media/9eeb9874299fbd41.png)
 
 ](https://substackcdn.com/image/fetch/$s_!P9zv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87078a1d-07ca-4d94-bf3c-655f8f40e357_944x779.png)
 
@@ -193,7 +193,7 @@ We collected diverse tasks that remain difficult for recent OpenAI models, acros
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!mgNz!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d66e22e-5277-4006-a3aa-2d7697e5f6c1_1200x638.jpeg)
+![None](../post-media/818313ca4ce16b36.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!mgNz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d66e22e-5277-4006-a3aa-2d7697e5f6c1_1200x638.jpeg)
 
@@ -201,7 +201,7 @@ They don’t show Opus 4.8 or Fable here, but I presume they too would be well a
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!cVOf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84567fa9-fc82-4f5e-b5a0-5cc5d93e1c41_1200x883.jpeg)
+![None](../post-media/07d7f97cf38488e9.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!cVOf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84567fa9-fc82-4f5e-b5a0-5cc5d93e1c41_1200x883.jpeg)
 
@@ -235,61 +235,61 @@ Another strong piece of evidence for this is that [UK AISI consistently found un
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!u5q_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79f53ba4-29dd-45ae-88a0-e4edfd4a9243_1606x903.png)
+![None](../post-media/1e9dc07b295b43dc.png)
 
 ](https://substackcdn.com/image/fetch/$s_!u5q_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79f53ba4-29dd-45ae-88a0-e4edfd4a9243_1606x903.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!zrzu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc979024b-b903-4999-a003-eec4b7ed53c2_1365x790.png)
+![None](../post-media/1450da4a185e1a84.png)
 
 ](https://substackcdn.com/image/fetch/$s_!zrzu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc979024b-b903-4999-a003-eec4b7ed53c2_1365x790.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!n5Xf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcada304d-0655-40a5-9afa-985362e0ac5e_1406x662.png)
+![None](../post-media/97dfabb7831ff947.png)
 
 ](https://substackcdn.com/image/fetch/$s_!n5Xf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcada304d-0655-40a5-9afa-985362e0ac5e_1406x662.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!i8uc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21b54b6a-47b2-411b-ac7d-ecca3490a2ee_1377x643.png)
+![None](../post-media/8a71878bbb9a8cab.png)
 
 ](https://substackcdn.com/image/fetch/$s_!i8uc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21b54b6a-47b2-411b-ac7d-ecca3490a2ee_1377x643.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!s0YM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa69f67ad-702a-4690-9963-729defe39c25_1338x719.png)
+![None](../post-media/a19519a9c973944e.png)
 
 ](https://substackcdn.com/image/fetch/$s_!s0YM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa69f67ad-702a-4690-9963-729defe39c25_1338x719.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!vHqY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa20ef59c-c4b0-4548-995a-6eeef47786dc_1407x605.png)
+![None](../post-media/49b5cdd1b6abca9a.png)
 
 ](https://substackcdn.com/image/fetch/$s_!vHqY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa20ef59c-c4b0-4548-995a-6eeef47786dc_1407x605.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!OVhl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fedf6b4e9-7c91-4065-923a-e3ecebd67100_1531x582.png)
+![None](../post-media/238a98af5883fd58.png)
 
 ](https://substackcdn.com/image/fetch/$s_!OVhl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fedf6b4e9-7c91-4065-923a-e3ecebd67100_1531x582.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!mpqN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e935195-f33a-4555-963b-3bae366c8386_1552x632.png)
+![None](../post-media/abb6e3188189023a.png)
 
 ](https://substackcdn.com/image/fetch/$s_!mpqN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e935195-f33a-4555-963b-3bae366c8386_1552x632.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!GncI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32a46443-07ad-498c-ad6e-2f5dc077e65d_1547x1354.png)
+![None](../post-media/017951d36d98ee94.png)
 
 ](https://substackcdn.com/image/fetch/$s_!GncI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32a46443-07ad-498c-ad6e-2f5dc077e65d_1547x1354.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!wRov!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d05b5b3-c23c-495a-b219-efe66744427b_1519x289.png)
+![None](../post-media/02516898392a85e0.png)
 
 ](https://substackcdn.com/image/fetch/$s_!wRov!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d05b5b3-c23c-495a-b219-efe66744427b_1519x289.png)
 
@@ -301,7 +301,7 @@ Other benchmarks saw dramatic improvement, from at least some point of view:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!zh3j!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93f499ce-f7c0-4be3-8e91-c82b64a20ca4_1200x743.jpeg)
+![None](../post-media/813bb47e9a6bdc5b.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!zh3j!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93f499ce-f7c0-4be3-8e91-c82b64a20ca4_1200x743.jpeg)
 
@@ -329,7 +329,7 @@ Luna beats Claude Haiku 4.5.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!A_I5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6218e3f-79fc-41a6-8067-092d9349bd8e_1200x858.jpeg)
+![None](../post-media/050c7de8e0f6bea7.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!A_I5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6218e3f-79fc-41a6-8067-092d9349bd8e_1200x858.jpeg)
 
@@ -349,7 +349,7 @@ For the first few days, [Sol was running one level of thinking budget higher tha
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!WTQj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70f56a99-1203-49b3-ada3-5a7342411d3e_746x384.jpeg)
+![None](../post-media/ad66b8407903ce1a.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!WTQj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70f56a99-1203-49b3-ada3-5a7342411d3e_746x384.jpeg)
 
@@ -375,7 +375,7 @@ If I had to pick one score as a general benchmark, it would be the Artificial An
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!40Jf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f05a338-bea1-4d05-a9ed-af716525fc26_1539x698.png)
+![None](../post-media/b41b3650dbc44e58.png)
 
 ](https://substackcdn.com/image/fetch/$s_!40Jf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f05a338-bea1-4d05-a9ed-af716525fc26_1539x698.png)
 
@@ -391,7 +391,7 @@ Fable’s edge comes centrally from a large advantage in AA-Omniscience (+40 vs.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!2PWD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4166365-acbd-43e2-a9fb-f58c2a2d64d2_1200x623.jpeg)
+![None](../post-media/f1e72769202d0769.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!2PWD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4166365-acbd-43e2-a9fb-f58c2a2d64d2_1200x623.jpeg)
 
@@ -413,7 +413,7 @@ It's a bit less accurate overall than Fable (and Opus). It might require xhigh e
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!dV5b!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4244236b-c644-46ca-a00a-1fdf2fdc3043_804x900.jpeg)
+![None](../post-media/a44850932487d116.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!dV5b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4244236b-c644-46ca-a00a-1fdf2fdc3043_804x900.jpeg)
 
@@ -421,7 +421,7 @@ It's a bit less accurate overall than Fable (and Opus). It might require xhigh e
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!d-55!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa872b98d-fd1e-4169-b619-c28dcabfbd66_1200x947.png)
+![None](../post-media/cc25fb9b2cdde92c.png)
 
 ](https://substackcdn.com/image/fetch/$s_!d-55!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa872b98d-fd1e-4169-b619-c28dcabfbd66_1200x947.png)
 
@@ -433,7 +433,7 @@ This shows the symmetry of ‘what AI cannot do’ versus what humans cannot do.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!1dz0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5041513-f40b-4612-bb04-20f5bc901ef0_2027x482.png)
+![None](../post-media/237f1994454b9841.png)
 
 ](https://substackcdn.com/image/fetch/$s_!1dz0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5041513-f40b-4612-bb04-20f5bc901ef0_2027x482.png)
 
@@ -459,7 +459,7 @@ Anthropic still is at the top of TextArena:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!I1c7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb32f8a9a-faba-4b3b-85c8-7d322feae79b_1602x981.png)
+![None](../post-media/9cb6d96459a2623e.png)
 
 ](https://substackcdn.com/image/fetch/$s_!I1c7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb32f8a9a-faba-4b3b-85c8-7d322feae79b_1602x981.png)
 
@@ -479,7 +479,7 @@ And this is why I trust Fable 1000x more.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!GSu2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb98a2395-049a-471d-8b66-34291f70ee21_1200x671.jpeg)
+![None](../post-media/cdd601230721f90b.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!GSu2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb98a2395-049a-471d-8b66-34291f70ee21_1200x671.jpeg)
 
@@ -495,7 +495,7 @@ What's going on?
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!gLLG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66861c51-9e31-494f-9a1a-a7f45c5f2ee7_749x128.png)
+![None](../post-media/e38322e45eabb25c.png)
 
 ](https://substackcdn.com/image/fetch/$s_!gLLG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66861c51-9e31-494f-9a1a-a7f45c5f2ee7_749x128.png)
 

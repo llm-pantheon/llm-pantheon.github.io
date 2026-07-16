@@ -30,7 +30,7 @@ That’s all as of when I hit post. Things [do escalate quickly](https://x.com/p
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!0Gsf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04ebe1f0-32e1-452c-9cbe-62674dc8683f_1200x1153.jpeg)
+![None](../post-media/5cce0ab17704bace.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!0Gsf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04ebe1f0-32e1-452c-9cbe-62674dc8683f_1200x1153.jpeg)
 
@@ -75,7 +75,7 @@ Here again are the main reported results, which mainly tell me we need better be
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!-sAI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c2afd9a-c33a-4486-a6ef-6b665420b04f_1200x1200.png)
+![None](../post-media/200155fb6fe8bac6.png)
 
 ](https://substackcdn.com/image/fetch/$s_!-sAI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c2afd9a-c33a-4486-a6ef-6b665420b04f_1200x1200.png)
 
@@ -87,7 +87,7 @@ it gets 33/50 on the LARGEST quartile of prompts (60-98k tokens) which is better
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!L3EX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7023971-b2bd-441f-bcf3-97684ccdc84e_1200x625.jpeg)
+![None](../post-media/2e25f822c9107e59.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!L3EX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7023971-b2bd-441f-bcf3-97684ccdc84e_1200x625.jpeg)
 
@@ -115,7 +115,7 @@ Here are the results with Opus also included, both Sonnet and Opus underperform.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!76e4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8578b5b7-a612-4493-b26e-21ae7307fbe4_1200x542.png)
+![None](../post-media/3c82362e3e2847b8.png)
 
 ](https://substackcdn.com/image/fetch/$s_!76e4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8578b5b7-a612-4493-b26e-21ae7307fbe4_1200x542.png)
 
@@ -125,7 +125,7 @@ It’s a real shame about Gemini 2.5 Pro. By all accounts it really did get acti
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!PahN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9cedabd5-0f81-4f8a-9200-6128e8cf7c25_1200x1180.jpeg)
+![None](../post-media/bbb9ece5324dd1db.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!PahN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9cedabd5-0f81-4f8a-9200-6128e8cf7c25_1200x1180.jpeg)
 
@@ -141,7 +141,7 @@ Gallabytes: he benchmark you've all been waiting for - a horse riding an astrona
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!TE97!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7475b30-5c7c-4f30-8d8b-f51ab96fcc08_1019x584.png)
+![None](../post-media/f43d8f62464a4dbc.png)
 
 ](https://substackcdn.com/image/fetch/$s_!TE97!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7475b30-5c7c-4f30-8d8b-f51ab96fcc08_1019x584.png)
 
@@ -151,7 +151,7 @@ Gallabytes: he benchmark you've all been waiting for - a horse riding an astrona
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!WNdu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F416ec98d-6679-47c2-832b-ac607c5e39b3_1018x582.png)
+![None](../post-media/f8c88ac7091b0db3.png)
 
 ](https://substackcdn.com/image/fetch/$s_!WNdu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F416ec98d-6679-47c2-832b-ac607c5e39b3_1018x582.png)
 
@@ -159,13 +159,13 @@ Gallabytes: he benchmark you've all been waiting for - a horse riding an astrona
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!wdoa!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47d68e98-72da-49ce-8f15-e53f6691e826_678x191.png)
+![None](../post-media/224dc8ab05ba9f69.png)
 
 ](https://substackcdn.com/image/fetch/$s_!wdoa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47d68e98-72da-49ce-8f15-e53f6691e826_678x191.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!dsOP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20d8a93d-5275-49ce-baeb-7705fb8bcc58_710x398.png)
+![None](../post-media/e005677de3d86eef.png)
 
 ](https://substackcdn.com/image/fetch/$s_!dsOP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20d8a93d-5275-49ce-baeb-7705fb8bcc58_710x398.png)
 
@@ -547,7 +547,7 @@ Recently: one shotted fast Smith-Waterman in Cython and only one to put me on tr
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!tYX1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff59bbcb2-ac73-49ca-bc9c-c37c5d029b49_596x784.png)
+![None](../post-media/b2f134dcaee6a24b.png)
 
 ](https://substackcdn.com/image/fetch/$s_!tYX1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff59bbcb2-ac73-49ca-bc9c-c37c5d029b49_596x784.png)
 
@@ -555,7 +555,7 @@ Fun activity: Asking Opus to try and get bingo on that card. It gets more than h
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!hJP9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31ac113b-555e-4bdf-8050-e569e04e4249_939x1045.png)
+![None](../post-media/2f32209fdf23d001.png)
 
 ](https://substackcdn.com/image/fetch/$s_!hJP9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31ac113b-555e-4bdf-8050-e569e04e4249_939x1045.png)
 

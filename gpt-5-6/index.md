@@ -94,4 +94,8 @@ This page was created 15 Jul 2026, six days into the model’s public life — v
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)

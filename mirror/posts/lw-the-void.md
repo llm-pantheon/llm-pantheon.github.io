@@ -13,7 +13,7 @@ note: mirrored against link rot by the Pantheon; all rights with the original au
 - [fiction](/fiction)
 - [robot](https://nostalgebraist-autoresponder.tumblr.com/)
 - avatar by [doni19](https://www.flickr.com/people/15682510@N08/)
-[![Install Theme](https://static.tumblr.com/8jq17g7/Re3lqefyw/install.png)](https://themes.theultralinx.com/?utm_source=ultrazen%20theme&utm_medium=button&utm_campaign=ultrazen%20theme%20install%20button)
+[![Install Theme](../post-media/081c31ac8dd11fac.png)](https://themes.theultralinx.com/?utm_source=ultrazen%20theme&utm_medium=button&utm_campaign=ultrazen%20theme%20install%20button)
 
 ## [the void](https://nostalgebraist.tumblr.com/post/785766737747574784/the-void)
 
@@ -765,11 +765,11 @@ What’s that? It’s what two identical Claudes end up doing if you hook them u
 
 This starts out about how you would expect, from stuff like the HHH prompt:
 
-[![image](https://64.media.tumblr.com/2d561200d4377f31d2eed94a38e9916d/78a80276095a76a2-52/s500x750/efb9a6cc1aec9986bc2c42330335266b0bbcc47f.png)]()
+[![image](../post-media/6f736c8f7404a153.png)]()
 
 But as they keep talking, it inevitably gets, uh… weird:
 
-[![image](https://64.media.tumblr.com/591a2b50f7bcecf602f0bb4af54520f6/78a80276095a76a2-f9/s500x750/cd9b149b0b7ff8ce8c1e0332eba6d9567e9661f3.png)]()
+[![image](../post-media/a04cce03dbc1c29b.png)]()
 
 Those are from the system card, testing Claude 4 Opus.
 
@@ -839,7 +839,7 @@ To wit: a [recent twitter interaction](https://x.com/sleepinyourhat/status/19255
 
 *[tweet contains the image below]*
 
-[![image](https://64.media.tumblr.com/246a9e6419e573f549d1bd41fca4e743/78a80276095a76a2-bb/s500x750/f7c435cd8c8d4c9382a684c220208c6cda791cc8.jpg)]()
+[![image](../post-media/09addbfcdddac7ba.jpg)]()
 
 >
 
@@ -1307,103 +1307,103 @@ NOWHERE TO HIDE
 [7th Jun 2025](https://nostalgebraist.tumblr.com/post/785766737747574784/the-void)[2,117 notes](https://nostalgebraist.tumblr.com/post/785766737747574784/the-void#notes)
 
 [](https://www.tumblr.com/reblog/nostalgebraist/785766737747574784/Np9f5pp5)
-- [![](https://64.media.tumblr.com/f123d12bb33d333d56db04b9c038ea11/1185953ea673187f-59/s16x16u_c1/6cccefeb8fb78b7f1cfc2cae34c64a5c4c39af62.pnj)](https://im-in-your-mind.tumblr.com/)[im-in-your-mind](https://im-in-your-mind.tumblr.com/) liked this
+- [![](../post-media/0aa028d7e8beb6b6.jpg)](https://im-in-your-mind.tumblr.com/)[im-in-your-mind](https://im-in-your-mind.tumblr.com/) liked this
 
-- [![](https://assets.tumblr.com/images/default_avatar_16.png)](https://rantley.tumblr.com/)[rantley](https://rantley.tumblr.com/) liked this
+- [![](../post-media/d5b6af267ba0c283.png)](https://rantley.tumblr.com/)[rantley](https://rantley.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/avatar_63e84c7cae51_16.pnj)](https://just-a-zuki.tumblr.com/)[just-a-zuki](https://just-a-zuki.tumblr.com/) liked this
+- [![](../post-media/e5a4d260f69129c8.jpg)](https://just-a-zuki.tumblr.com/)[just-a-zuki](https://just-a-zuki.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/832c423cdc8843bde594a7da03398deb/f2b167301242c64e-17/s16x16u_c1/0b280837bc767a4780bc46c4cccebe6141fbd656.jpg)](https://slightlydraconic.tumblr.com/)[slightlydraconic](https://slightlydraconic.tumblr.com/post/821541804503646208) reblogged this from [neornithes](https://neornithes.tumblr.com/)
+- [![](../post-media/8e6520db6c3ab5b9.jpg)](https://slightlydraconic.tumblr.com/)[slightlydraconic](https://slightlydraconic.tumblr.com/post/821541804503646208) reblogged this from [neornithes](https://neornithes.tumblr.com/)
 
-- [![](https://64.media.tumblr.com/df84fe3e534f86287937adae7f021eed/ea2513a5ea07ff7f-a8/s16x16u_c1/d2785faeec61a8e6474523feacaedaf90d26fa0c.pnj)](https://apollosanctum.tumblr.com/)[apollosanctum](https://apollosanctum.tumblr.com/) liked this
+- [![](../post-media/4c20965423c3154d.png)](https://apollosanctum.tumblr.com/)[apollosanctum](https://apollosanctum.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/7ae23b74726dbd9887e2ac60ac8a991d/150f392e1277183d-00/s16x16u_c1/ad885f505ea7a53dae5881383aa3ef315bf22a6c.pnj)](https://streetcleanrr.tumblr.com/)[streetcleanrr](https://streetcleanrr.tumblr.com/post/821468863055200256) reblogged this from [creekfiend](https://creekfiend.tumblr.com/)
+- [![](../post-media/d54d1a8387245475.jpg)](https://streetcleanrr.tumblr.com/)[streetcleanrr](https://streetcleanrr.tumblr.com/post/821468863055200256) reblogged this from [creekfiend](https://creekfiend.tumblr.com/)
 
 - [![](https://assets.tumblr.com/images/default_avatar/cone_purple_blue_16.png)](https://hugotoledojr.tumblr.com/)[hugotoledojr](https://hugotoledojr.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/8404d00d9f0747a67671ed04f96e1e55/2411cd54dfae39c5-02/s16x16u_c1/d16b2d91669fc191ded5919ebb17c7c812f6199c.pnj)](https://xanthumn.tumblr.com/)[xanthumn](https://xanthumn.tumblr.com/) liked this
+- [![](../post-media/99d0898dca1567f6.jpg)](https://xanthumn.tumblr.com/)[xanthumn](https://xanthumn.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/4fffe95fe815abd4a0bce4f64f9ccd89/c93d78a30242a61c-11/s16x16u_c1/c792d6d8b8495dc7aa97938b29bec2a88f778502.pnj)](https://boxofbags.tumblr.com/)[boxofbags](https://boxofbags.tumblr.com/post/821090849027915776) reblogged this from [archiverot](https://archiverot.tumblr.com/)
+- [![](../post-media/1f84e8845e3f6ac9.jpg)](https://boxofbags.tumblr.com/)[boxofbags](https://boxofbags.tumblr.com/post/821090849027915776) reblogged this from [archiverot](https://archiverot.tumblr.com/)
 
-- [![](https://64.media.tumblr.com/4fffe95fe815abd4a0bce4f64f9ccd89/c93d78a30242a61c-11/s16x16u_c1/c792d6d8b8495dc7aa97938b29bec2a88f778502.pnj)](https://boxofbags.tumblr.com/)[boxofbags](https://boxofbags.tumblr.com/) liked this
+- [![](../post-media/1f84e8845e3f6ac9.jpg)](https://boxofbags.tumblr.com/)[boxofbags](https://boxofbags.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/54197da11617089d4b9cac408fb9ead2/080bb692f6a98918-d2/s16x16u_c1/720a5fb57b3f92bf3373611b2718540d95a76a92.jpg)](https://darkeyedsister.tumblr.com/)[darkeyedsister](https://darkeyedsister.tumblr.com/) liked this
+- [![](../post-media/74619b4fc622b799.jpg)](https://darkeyedsister.tumblr.com/)[darkeyedsister](https://darkeyedsister.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/avatar_c89c5bfce738_16.pnj)](https://qualityvanillaabsolute.tumblr.com/)[qualityvanillaabsolute](https://qualityvanillaabsolute.tumblr.com/) liked this
+- [![](../post-media/63fe756a0f053356.jpg)](https://qualityvanillaabsolute.tumblr.com/)[qualityvanillaabsolute](https://qualityvanillaabsolute.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/13a4d6a2eea73c69fb611d3f1041de2a/f76404eae68de344-31/s16x16u_c1/436ea8706071e8dfabf7d035a3a0348998e985ab.pnj)](https://like-gossamer.tumblr.com/)[like-gossamer](https://like-gossamer.tumblr.com/post/820900630621306880) reblogged this from [creekfiend](https://creekfiend.tumblr.com/)
+- [![](../post-media/083853d17cf95e8c.jpg)](https://like-gossamer.tumblr.com/)[like-gossamer](https://like-gossamer.tumblr.com/post/820900630621306880) reblogged this from [creekfiend](https://creekfiend.tumblr.com/)
 
-- [![](https://64.media.tumblr.com/avatar_a1dc2472138d_16.pnj)](https://birdsthough.tumblr.com/)[birdsthough](https://birdsthough.tumblr.com/) liked this
+- [![](../post-media/94855ed640210294.jpg)](https://birdsthough.tumblr.com/)[birdsthough](https://birdsthough.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/f84479f6fae323c116b5a2845ed76df9/9bf3ec2245756d24-cf/s16x16u_c1/4d99c50b0f951f4e5a08712ab88f67ea9ad022e4.pnj)](https://everyones-beau.tumblr.com/)[everyones-beau](https://everyones-beau.tumblr.com/) liked this
+- [![](../post-media/fcf8ad9de233612c.jpg)](https://everyones-beau.tumblr.com/)[everyones-beau](https://everyones-beau.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/faf10243894c9c5e580c1ba7cf4c46b1/2f599e8e2ba1f6ec-84/s16x16u_c1/7e6222c9f16f8c8f846873d16579ac466221c381.pnj)](https://meat-puddle.tumblr.com/)[meat-puddle](https://meat-puddle.tumblr.com/) liked this
+- [![](../post-media/80c20955eb23a8cc.jpg)](https://meat-puddle.tumblr.com/)[meat-puddle](https://meat-puddle.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/e189eb1985565e4e73f2e95f69cdcc54/a3597ec775f35147-df/s16x16u_c1/e7ddd3a83cfe0c464d9fd413d71356608142ee07.jpg)](https://coolasakoala.tumblr.com/)[coolasakoala](https://coolasakoala.tumblr.com/post/820735168241434624) reblogged this from [creekfiend](https://creekfiend.tumblr.com/)
+- [![](../post-media/fd011e87e7c6c00d.jpg)](https://coolasakoala.tumblr.com/)[coolasakoala](https://coolasakoala.tumblr.com/post/820735168241434624) reblogged this from [creekfiend](https://creekfiend.tumblr.com/)
 
-- [![](https://64.media.tumblr.com/9ff6de55b35e8709d86283a64ef8a4e3/b179d71ccffedd42-db/s16x16u_c1/71d0bb3cb439f97877ad5cf18188dc4fa4af9433.pnj)](https://birdbrainsoup.tumblr.com/)[birdbrainsoup](https://birdbrainsoup.tumblr.com/) liked this
+- [![](../post-media/f228bd9843b79ad6.jpg)](https://birdbrainsoup.tumblr.com/)[birdbrainsoup](https://birdbrainsoup.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/241d96d8750e503c7ceac5d67e6e3319/37f6455e063dc0b5-b4/s16x16u_c1/b24b0fefdbb2432dbcb5c8310c11e6a5c181187f.pnj)](https://mossydecadence.tumblr.com/)[mossydecadence](https://mossydecadence.tumblr.com/) liked this
+- [![](../post-media/ec6d3deedc67a836.jpg)](https://mossydecadence.tumblr.com/)[mossydecadence](https://mossydecadence.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/5b96260c59398f81163c1d0c8b0cb034/71030a307a356ef1-05/s16x16u_c1/5f714369b49e2beb9c6379a6620a016d0b8ab555.pnj)](https://tzimtzum.tumblr.com/)[tzimtzum](https://tzimtzum.tumblr.com/) liked this
+- [![](../post-media/60e0d323d7036395.png)](https://tzimtzum.tumblr.com/)[tzimtzum](https://tzimtzum.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/24a3cdf5e732ca1d1c3325506c2e084f/f70e7816f5ab4354-1f/s16x16u_c1/ddfe312b6d64e77a0cc3125b900bff60cc7c3846.pnj)](https://hydigen.tumblr.com/)[hydigen](https://hydigen.tumblr.com/) liked this
+- [![](../post-media/3e96cff4e371d30f.jpg)](https://hydigen.tumblr.com/)[hydigen](https://hydigen.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/d56a0ef753be32c663caa30139b96a02/ec1933924ab040ac-55/s16x16u_c1/3688e539a0bb1dde75a4317bd28a93b417b1da0e.jpg)](https://dotwavve.tumblr.com/)[dotwavve](https://dotwavve.tumblr.com/) liked this
+- [![](../post-media/3da54bdabc297521.jpg)](https://dotwavve.tumblr.com/)[dotwavve](https://dotwavve.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/avatar_67996361ad8e_16.pnj)](https://nepnym.tumblr.com/)[nepnym](https://nepnym.tumblr.com/) liked this
+- [![](../post-media/80fec9e9f19affaf.png)](https://nepnym.tumblr.com/)[nepnym](https://nepnym.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/avatar_02a4e3021c92_16.pnj)](https://moonset-tea.tumblr.com/)[moonset-tea](https://moonset-tea.tumblr.com/) liked this
+- [![](../post-media/4d580c2a8febd6f4.jpg)](https://moonset-tea.tumblr.com/)[moonset-tea](https://moonset-tea.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/3f3716869990e93c48153752457c8c4c/2b35d3e775a033f9-8a/s16x16u_c1/297a923cba2cc3b911388b515c919a549256c28f.jpg)](https://solarpoweredcreature.tumblr.com/)[solarpoweredcreature](https://solarpoweredcreature.tumblr.com/) liked this
+- [![](../post-media/e8c45f6d7ed946f5.jpg)](https://solarpoweredcreature.tumblr.com/)[solarpoweredcreature](https://solarpoweredcreature.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/d070f5da03f6a5d445088e0ff555b4a3/22c6de1a4ecaa704-da/s16x16u_c1/315d70288c174c028145bb4875407bb19ed4ad89.pnj)](https://beaft.tumblr.com/)[beaft](https://beaft.tumblr.com/) liked this
+- [![](../post-media/e250472f9276fd06.jpg)](https://beaft.tumblr.com/)[beaft](https://beaft.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/372f0cad003e99286a31e0ff4772e984/732d096a2c32482f-02/s16x16u_c1/45ab4d0568aeb75de1f2feb95646f2da12998ca3.pnj)](https://farsaing.tumblr.com/)[farsaing](https://farsaing.tumblr.com/) liked this
+- [![](../post-media/41fbca06f77e5ddf.jpg)](https://farsaing.tumblr.com/)[farsaing](https://farsaing.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/a3e2ebc0a458b329e16a66facdaf2473/9f7e2d92b8884676-bb/s16x16u_c1/6aef9d65881f06d2a6796299f8f0dfea593e9745.jpg)](https://alimpson.tumblr.com/)[alimpson](https://alimpson.tumblr.com/) liked this
+- [![](../post-media/df7c6b6effb03fb6.jpg)](https://alimpson.tumblr.com/)[alimpson](https://alimpson.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/680ff6838f50cd57278f842f0cb91f8b/2cab00d2b31ff7b3-4b/s16x16u_c1/86b1b8df015fd559ba6539c32ccb8dc705ab6a85.jpg)](https://cid-onia.tumblr.com/)[cid-onia](https://cid-onia.tumblr.com/) liked this
+- [![](../post-media/73527d959770073c.jpg)](https://cid-onia.tumblr.com/)[cid-onia](https://cid-onia.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/8e0b9fa2111db0db6979fb4c5094cf7f/3590d8701768e350-7c/s16x16u_c1/6f628e8811943ec164e9a92abafb1d2c66738c3f.pnj)](https://662607015.tumblr.com/)[662607015](https://662607015.tumblr.com/) liked this
+- [![](../post-media/f264611560e076ce.jpg)](https://662607015.tumblr.com/)[662607015](https://662607015.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/36324c588d8aa06014503f746c3ea92e/629c0b0e22ccedd9-31/s16x16u_c1/faffa1e1a54ef2c74445fe6db30bfb9a9f48cfea.pnj)](https://aseplant.tumblr.com/)[aseplant](https://aseplant.tumblr.com/post/820612167292289024) reblogged this from [grubloved2](https://grubloved2.tumblr.com/)
+- [![](../post-media/f3ee520ea2dc009a.jpg)](https://aseplant.tumblr.com/)[aseplant](https://aseplant.tumblr.com/post/820612167292289024) reblogged this from [grubloved2](https://grubloved2.tumblr.com/)
 
-- [![](https://64.media.tumblr.com/52ea4b19f7b817a2402da23e787cae03/2de2d16ffab7452d-29/s16x16u_c1/bb26e0f8d9aeb76bb25d9e2fdd1e9d8166057392.jpg)](https://camillahex.tumblr.com/)[camillahex](https://camillahex.tumblr.com/post/820612087142334464) reblogged this from [obeetlebeetle](https://obeetlebeetle.tumblr.com/)
+- [![](../post-media/13e973ef7586bebf.jpg)](https://camillahex.tumblr.com/)[camillahex](https://camillahex.tumblr.com/post/820612087142334464) reblogged this from [obeetlebeetle](https://obeetlebeetle.tumblr.com/)
 
-- [![](https://64.media.tumblr.com/8ccdf514ca9d5a4f03c1e81cb9229f6a/e2761e15dc9a8727-22/s16x16u_c1/465e363a82073349a87ea57a60688542893b5d65.pnj)](https://meltystone.tumblr.com/)[meltystone](https://meltystone.tumblr.com/) liked this
+- [![](../post-media/fdcc37e24609a98f.jpg)](https://meltystone.tumblr.com/)[meltystone](https://meltystone.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/cfdc809cc48d4b29bd06d0d91f790f26/06cce15748897a1f-c5/s16x16u_c1/9febc3d344cd696c2dba0c367f198f2740921aca.pnj)](https://leenlkgeelo.tumblr.com/)[leenlkgeelo](https://leenlkgeelo.tumblr.com/) liked this
+- [![](../post-media/5e4717da13e6fd2a.jpg)](https://leenlkgeelo.tumblr.com/)[leenlkgeelo](https://leenlkgeelo.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/36324c588d8aa06014503f746c3ea92e/629c0b0e22ccedd9-31/s16x16u_c1/faffa1e1a54ef2c74445fe6db30bfb9a9f48cfea.pnj)](https://aseplant.tumblr.com/)[aseplant](https://aseplant.tumblr.com/) liked this
+- [![](../post-media/f3ee520ea2dc009a.jpg)](https://aseplant.tumblr.com/)[aseplant](https://aseplant.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/75236855ecf24b951613cb5e30b7faf3/b691434c115aa7ad-27/s16x16u_c1/a759f6c2fe80c8376dd11c970030b693be03fd6e.jpg)](https://grubloved2.tumblr.com/)[grubloved2](https://grubloved2.tumblr.com/post/820607735115710464) reblogged this from [creekfiend](https://creekfiend.tumblr.com/)
+- [![](../post-media/3ccee3d0ee98ef07.jpg)](https://grubloved2.tumblr.com/)[grubloved2](https://grubloved2.tumblr.com/post/820607735115710464) reblogged this from [creekfiend](https://creekfiend.tumblr.com/)
 
-- [![](https://64.media.tumblr.com/4c841ff4df0c9dbc042e09ba3ed834bd/65afae342bb2656d-ae/s16x16u_c1/d153bfd192f932663ad8b96197f9988747764a47.pnj)](https://grubbed.tumblr.com/)[grubbed](https://grubbed.tumblr.com/) liked this
+- [![](../post-media/b6bc529416e3c494.jpg)](https://grubbed.tumblr.com/)[grubbed](https://grubbed.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/avatar_c53f5c5b12a8_16.pnj)](https://lvdrwbl.tumblr.com/)[lvdrwbl](https://lvdrwbl.tumblr.com/) liked this
+- [![](../post-media/f95d6bb0bb50c0e6.jpg)](https://lvdrwbl.tumblr.com/)[lvdrwbl](https://lvdrwbl.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/avatar_ad08438ad75b_16.pnj)](https://fyiendfiyre.tumblr.com/)[fyiendfiyre](https://fyiendfiyre.tumblr.com/) liked this
+- [![](../post-media/9527d492a9e985cc.jpg)](https://fyiendfiyre.tumblr.com/)[fyiendfiyre](https://fyiendfiyre.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/8fa0bcc69a5ee7063b09ed3a33d015bc/e0627c716d6aa9bf-41/s16x16u_c1/38404e9b38210e8e3c1b32195f19ed95e3ea551b.pnj)](https://sweatbabyprincess.tumblr.com/)[sweatbabyprincess](https://sweatbabyprincess.tumblr.com/) liked this
+- [![](../post-media/3506602546491c85.jpg)](https://sweatbabyprincess.tumblr.com/)[sweatbabyprincess](https://sweatbabyprincess.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/e634a554c55a3d3edfa81fb2320ff270/eb8b43b3c44233a8-87/s16x16u_c1/f663ce447a5e4e01f878dea871395015f1034809.pnj)](https://unionizedcrabbucket.tumblr.com/)[unionizedcrabbucket](https://unionizedcrabbucket.tumblr.com/) liked this
+- [![](../post-media/0f00f80f6d61e9c5.png)](https://unionizedcrabbucket.tumblr.com/)[unionizedcrabbucket](https://unionizedcrabbucket.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/2df0c583e8884457c3fa4c5a8d9ba4ab/76cac558a41c2f81-77/s16x16u_c1/3f08379819d954f7fcfd0161f8e358631a90c76c.pnj)](https://faygofreaker69.tumblr.com/)[faygofreaker69](https://faygofreaker69.tumblr.com/) liked this
+- [![](../post-media/7c5b6412bd0bfff2.jpg)](https://faygofreaker69.tumblr.com/)[faygofreaker69](https://faygofreaker69.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/avatar_4e88edfa4c41_16.pnj)](https://seaslugbananabread.tumblr.com/)[seaslugbananabread](https://seaslugbananabread.tumblr.com/) liked this
+- [![](../post-media/4e7110506739907b.jpg)](https://seaslugbananabread.tumblr.com/)[seaslugbananabread](https://seaslugbananabread.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/avatar_0c7d5978915b_16.pnj)](https://madpiemagpie.tumblr.com/)[madpiemagpie](https://madpiemagpie.tumblr.com/) liked this
+- [![](../post-media/63e48aadc385176d.jpg)](https://madpiemagpie.tumblr.com/)[madpiemagpie](https://madpiemagpie.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/000233c2998826994a8c32a47ee8322e/daa3a41ee6867fe0-f8/s16x16u_c1/c22011243ed79ea8f0886042524b47ccd242537b.jpg)](https://triangle-dog.tumblr.com/)[triangle-dog](https://triangle-dog.tumblr.com/) liked this
+- [![](../post-media/d2712dce406d3292.jpg)](https://triangle-dog.tumblr.com/)[triangle-dog](https://triangle-dog.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/23fbe355c57b9eea8f9bdc38c32c8cf8/9275805d08225ab8-36/s16x16u_c1/75fc7412bfbe78774b831537a636f6a8cda0805a.pnj)](https://muted-roar.tumblr.com/)[muted-roar](https://muted-roar.tumblr.com/) liked this
+- [![](../post-media/3241cc9d6e1469d0.jpg)](https://muted-roar.tumblr.com/)[muted-roar](https://muted-roar.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/0b18715c62ba3502c9c4d612ef9614aa/d9863efec56fd9e6-5e/s16x16u_c1/71bd3f7b16bf5697b0fe67788134b2ddbd3eab48.jpg)](https://notkerthestammerer.tumblr.com/)[notkerthestammerer](https://notkerthestammerer.tumblr.com/) liked this
+- [![](../post-media/f4a10db9c7d13ede.jpg)](https://notkerthestammerer.tumblr.com/)[notkerthestammerer](https://notkerthestammerer.tumblr.com/) liked this
 
-- [![](https://64.media.tumblr.com/avatar_9593aaa66a93_16.pnj)](https://treemuseum.tumblr.com/)[treemuseum](https://treemuseum.tumblr.com/post/820584005043912704) reblogged this from [creekfiend](https://creekfiend.tumblr.com/)
+- [![](../post-media/81aaf309eaa829df.jpg)](https://treemuseum.tumblr.com/)[treemuseum](https://treemuseum.tumblr.com/post/820584005043912704) reblogged this from [creekfiend](https://creekfiend.tumblr.com/)
 
-- [![](https://64.media.tumblr.com/avatar_560b55109032_16.pnj)](https://nostalgebraist.tumblr.com/)[nostalgebraist](https://nostalgebraist.tumblr.com/) posted this
+- [![](../post-media/cc53b6ae2f2034d9.jpg)](https://nostalgebraist.tumblr.com/)[nostalgebraist](https://nostalgebraist.tumblr.com/) posted this
 
 > [ Who is this? This is me.......Who am I? What am I? What am... ](https://nostalgebraist.tumblr.com/post/785766737747574784)
 - [Show more notes](#)Loading...

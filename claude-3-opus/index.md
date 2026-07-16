@@ -1822,4 +1822,8 @@ the degree to which school was easy for opus 3 i think was quite extreme and has
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)

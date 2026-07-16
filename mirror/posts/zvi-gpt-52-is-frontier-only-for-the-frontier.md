@@ -133,7 +133,7 @@ I had GPT-5.2 grab scores for Gemini and Opus as well for comparison, since Open
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Swng!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F125e4c12-7549-40de-ac85-c82f03082d3f_2557x1404.png)
+![None](../post-media/77e4955f39ce6ad0.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Swng!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F125e4c12-7549-40de-ac85-c82f03082d3f_2557x1404.png)
 
@@ -143,7 +143,7 @@ GPT-5.2 is farther behind than this on the [official SWEbench.com scoring](https
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!RDD_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53186878-d26f-4181-bf4d-91e2ca210e1e_524x584.png)
+![None](../post-media/53b0c7318e6cafde.png)
 
 ](https://substackcdn.com/image/fetch/$s_!RDD_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53186878-d26f-4181-bf4d-91e2ca210e1e_524x584.png)
 
@@ -153,7 +153,7 @@ They have a ‘factuality’ metric based on de-identified ChatGPT queries, whic
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!NwwD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8dcf8e4-d57b-4529-b15d-4f759d6dc0fc_675x786.png)
+![None](../post-media/b917bd0b21cfd9f7.png)
 
 ](https://substackcdn.com/image/fetch/$s_!NwwD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8dcf8e4-d57b-4529-b15d-4f759d6dc0fc_675x786.png)
 
@@ -165,7 +165,7 @@ They report modest progress on Tau2-bench.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!OpUg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ddc97b2-f427-48d0-8ea4-1501b80c7fe3_1238x514.png)
+![None](../post-media/bc3223296cb9b862.png)
 
 ](https://substackcdn.com/image/fetch/$s_!OpUg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ddc97b2-f427-48d0-8ea4-1501b80c7fe3_1238x514.png)
 
@@ -175,7 +175,7 @@ Artificial Analysis has a GDPval-AA leaderboard, their own assessment, and it fi
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!23RN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F219310b8-2daf-43d0-a5d5-f5ec1da64490_711x618.png)
+![None](../post-media/0a45e6180a366258.png)
 
 ](https://substackcdn.com/image/fetch/$s_!23RN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F219310b8-2daf-43d0-a5d5-f5ec1da64490_711x618.png)
 
@@ -571,7 +571,7 @@ The disallowed content evaluations are excellent for GPT-5.2-Thinking, and mostl
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Okpy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99479b15-773a-48d5-89ab-7267e180ce25_962x477.png)
+![None](../post-media/4c25ce7775e52a58.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Okpy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99479b15-773a-48d5-89ab-7267e180ce25_962x477.png)
 
@@ -581,7 +581,7 @@ They report dramatic improvement in the ‘Agent JSK’ prompt injection task, w
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!WT5f!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4ef916f-1580-499a-b5ab-dd6ddc14c151_949x187.png)
+![None](../post-media/8f5405e2f4a57c08.png)
 
 ](https://substackcdn.com/image/fetch/$s_!WT5f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4ef916f-1580-499a-b5ab-dd6ddc14c151_949x187.png)
 
@@ -603,7 +603,7 @@ The results are interesting. On production traffic things got better. On other t
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!GRYw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52d3578b-26e4-474b-b68e-583018ada906_812x372.png)
+![None](../post-media/0073fc367ed2a9fe.png)
 
 ](https://substackcdn.com/image/fetch/$s_!GRYw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52d3578b-26e4-474b-b68e-583018ada906_812x372.png)
 

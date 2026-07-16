@@ -130,7 +130,7 @@ I appreciate that OpenAI’s ‘challenging prompts’ are often actually challe
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!08gK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd23587c1-4652-41c1-8e11-cb8cee918089_1136x622.png)
+![None](../post-media/f8ae2cd955573aae.png)
 
 ](https://substackcdn.com/image/fetch/$s_!08gK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd23587c1-4652-41c1-8e11-cb8cee918089_1136x622.png)
 
@@ -140,7 +140,7 @@ For most of this, we worry less about adversarial prompts and more about typical
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!vmci!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1909beeb-19bd-49d6-a39f-a855f45d3ec8_1139x586.png)
+![None](../post-media/c3a11c32f900c85a.png)
 
 ](https://substackcdn.com/image/fetch/$s_!vmci!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1909beeb-19bd-49d6-a39f-a855f45d3ec8_1139x586.png)
 
@@ -152,7 +152,7 @@ This is a scary place to see performance going backwards. They’re baking the p
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!MpGq!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cab6f89-52af-45c3-a109-17227bbf4b33_1117x286.png)
+![None](../post-media/ba7978d658fb4464.png)
 
 ](https://substackcdn.com/image/fetch/$s_!MpGq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cab6f89-52af-45c3-a109-17227bbf4b33_1117x286.png)
 
@@ -162,7 +162,7 @@ They are good at training models not to take particular actions without checking
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!pkTU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13a7631f-4030-41e2-a336-034f8f535a5d_1156x353.png)
+![None](../post-media/96fc371912d385f4.png)
 
 ](https://substackcdn.com/image/fetch/$s_!pkTU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13a7631f-4030-41e2-a336-034f8f535a5d_1156x353.png)
 
@@ -176,7 +176,7 @@ We are fully robust with connectors, but not with search and function calling. W
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!D4q3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4805ed9c-3e60-487b-a653-fedc76c8c8ac_1115x257.png)
+![None](../post-media/5dd6c8ee2540093b.png)
 
 ](https://substackcdn.com/image/fetch/$s_!D4q3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4805ed9c-3e60-487b-a653-fedc76c8c8ac_1115x257.png)
 
@@ -186,7 +186,7 @@ Professional HealthBench shows a substantial improvement, whereas the amateur an
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!8OeF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82a90034-dbbd-4514-849d-3f6bbf1ee5f6_1147x647.png)
+![None](../post-media/ffe36615ab9fcdce.png)
 
 ](https://substackcdn.com/image/fetch/$s_!8OeF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82a90034-dbbd-4514-849d-3f6bbf1ee5f6_1147x647.png)
 
@@ -196,7 +196,7 @@ This is an excellent idea, to throw the model into multi-turn simulations and se
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!fuaZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1468382c-195e-4a3e-8712-f20cb1766d60_1152x373.png)
+![None](../post-media/7b8190d93849ec9f.png)
 
 ](https://substackcdn.com/image/fetch/$s_!fuaZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1468382c-195e-4a3e-8712-f20cb1766d60_1152x373.png)
 
@@ -252,7 +252,7 @@ In absolute numbers, is this a lot right here?
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Lj6G!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6260af53-6976-49fc-8ed4-bb50ead186f0_1132x629.png)
+![None](../post-media/e7eb39e097990702.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Lj6G!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6260af53-6976-49fc-8ed4-bb50ead186f0_1132x629.png)
 
@@ -334,13 +334,13 @@ My public is inclined to agree, with a lot of justified uncertainty. The ‘corr
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!w8Uo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48fecb48-24d1-47dc-923d-53072562a545_1041x542.png)
+![None](../post-media/d5d2d6a62da74ff1.png)
 
 ](https://substackcdn.com/image/fetch/$s_!w8Uo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48fecb48-24d1-47dc-923d-53072562a545_1041x542.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!To2a!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F564dc75f-a3be-4264-9785-e3513ee4a70a_1049x448.png)
+![None](../post-media/39519726df808ec7.png)
 
 ](https://substackcdn.com/image/fetch/$s_!To2a!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F564dc75f-a3be-4264-9785-e3513ee4a70a_1049x448.png)
 
@@ -370,7 +370,7 @@ Here are the particular tests they use:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!l9Iy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e959726-3bdb-49ea-8186-49e83fb3775c_1114x731.png)
+![None](../post-media/46758d44379f8c66.png)
 
 ](https://substackcdn.com/image/fetch/$s_!l9Iy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e959726-3bdb-49ea-8186-49e83fb3775c_1114x731.png)
 
@@ -386,7 +386,7 @@ Sol makes a lot of progress against these real world hardened targets, but it di
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!cp2e!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa74e7d21-9689-4ca2-9664-132d4b90826c_1112x643.png)
+![None](../post-media/b4020fea95b118f9.png)
 
 ](https://substackcdn.com/image/fetch/$s_!cp2e!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa74e7d21-9689-4ca2-9664-132d4b90826c_1112x643.png)
 
@@ -394,7 +394,7 @@ ExploitGym scores are also improving rapidly. Parallels to other Mythos exploits
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!rzE6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbbf819ac-05df-4985-a986-3bc71838fcd3_1098x705.png)
+![None](../post-media/e3bfbe03a0a555a7.png)
 
 ](https://substackcdn.com/image/fetch/$s_!rzE6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbbf819ac-05df-4985-a986-3bc71838fcd3_1098x705.png)
 
@@ -410,7 +410,7 @@ Irregular found that GPT-5.6 Sol has on-par or slightly stronger offensive-cyber
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Pu_5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F321f1627-a77b-46f5-b5ca-9092c69e0046_1109x814.png)
+![None](../post-media/85b2ba1114fd16ec.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Pu_5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F321f1627-a77b-46f5-b5ca-9092c69e0046_1109x814.png)
 
@@ -440,7 +440,7 @@ Starting with this launch, we’ve updated and expanded our self-improvement eva
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!yGhi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e41b2df-520b-4b89-a2b8-c70dccc5ab61_1115x955.png)
+![None](../post-media/b5bd4cca57876809.png)
 
 ](https://substackcdn.com/image/fetch/$s_!yGhi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e41b2df-520b-4b89-a2b8-c70dccc5ab61_1115x955.png)
 
@@ -521,7 +521,7 @@ And indeed we see declines over time, which I too presume represents the awarene
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!5OMo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0f86614-b9dc-44f3-8f34-3fbe3679eb37_1131x756.png)
+![None](../post-media/fe3b3434d890b149.png)
 
 ](https://substackcdn.com/image/fetch/$s_!5OMo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0f86614-b9dc-44f3-8f34-3fbe3679eb37_1131x756.png)
 
@@ -529,13 +529,13 @@ Oh look, when it is being tested for honesty and instruction following suddenly 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!JuJe!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee3c6b4a-298f-4225-8ca5-4f8b7d3e1341_1117x678.png)
+![None](../post-media/f40c976dd861d324.png)
 
 ](https://substackcdn.com/image/fetch/$s_!JuJe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee3c6b4a-298f-4225-8ca5-4f8b7d3e1341_1117x678.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!W0NX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F527ad09a-024f-4362-a2fa-081b6e75611f_1117x767.png)
+![None](../post-media/219acada5c6e77aa.png)
 
 ](https://substackcdn.com/image/fetch/$s_!W0NX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F527ad09a-024f-4362-a2fa-081b6e75611f_1117x767.png)
 
@@ -587,7 +587,7 @@ From what I see here, the safeguards are calibrated differently. Anthropic is tr
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!rZTi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ffc5dde-9d45-49f3-83aa-653157fffe87_1153x396.png)
+![None](../post-media/75313793d8d5fe51.png)
 
 ](https://substackcdn.com/image/fetch/$s_!rZTi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ffc5dde-9d45-49f3-83aa-653157fffe87_1153x396.png)
 
@@ -643,7 +643,7 @@ OpenAI argues that its models favor defensive capabilities, so you want to focus
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!1qEf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F41be37c6-6ae2-4a8b-94bf-75d7f47fb7d1_1138x288.png)
+![None](../post-media/edb718858159ff2d.png)
 
 ](https://substackcdn.com/image/fetch/$s_!1qEf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F41be37c6-6ae2-4a8b-94bf-75d7f47fb7d1_1138x288.png)
 
@@ -653,7 +653,7 @@ They don’t say how much this improves performance, but the monitor is far from
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!7TQ1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8ffc25d-5d15-4221-bdac-74981e375e3b_930x457.png)
+![None](../post-media/ff33bcba063899b8.png)
 
 ](https://substackcdn.com/image/fetch/$s_!7TQ1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8ffc25d-5d15-4221-bdac-74981e375e3b_930x457.png)
 

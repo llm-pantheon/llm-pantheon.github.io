@@ -22,7 +22,7 @@ Apr 30, 2025
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!jDDe!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0a5447b-a2bc-464a-b2cd-c87051934ff1_1024x1024.png)
+![None](../post-media/1f8eb9e3cd628875.png)
 
 ](https://substackcdn.com/image/fetch/$s_!jDDe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0a5447b-a2bc-464a-b2cd-c87051934ff1_1024x1024.png)
 
@@ -90,7 +90,7 @@ I cannot imagine a worse tool to give to somebody who is in active psychosis. He
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!cT31!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73c262c6-1e22-4e65-ab51-efaac0069c5c_902x1084.jpeg)
+![None](../post-media/f6ce01e0d9f06ec7.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!cT31!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73c262c6-1e22-4e65-ab51-efaac0069c5c_902x1084.jpeg)
 
@@ -234,7 +234,7 @@ Joe Muller: 3 days of sycophancy = thousands of 5 star reviews
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!XN70!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4e06b2d-2830-40fe-b318-db85aa871d43_1200x777.jpeg)
+![None](../post-media/23643ee31d154b29.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!XN70!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4e06b2d-2830-40fe-b318-db85aa871d43_1200x777.jpeg)
 
@@ -244,7 +244,7 @@ aadharsh: first review translates to "in this I can find a friend" :(
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!vM1M!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc13d725-1af0-49b7-9a8a-302bdb13982a_1200x605.jpeg)
+![None](../post-media/36f12a6acf19a46a.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!vM1M!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc13d725-1af0-49b7-9a8a-302bdb13982a_1200x605.jpeg)
 
@@ -252,7 +252,7 @@ To date, I think the direct impact of ChatGPT has been really positive. Reading 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!haRT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe54b6052-9239-4710-ab34-9e2b2fe64714_1200x877.jpeg)
+![None](../post-media/ca0a86d3432be9e4.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!haRT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe54b6052-9239-4710-ab34-9e2b2fe64714_1200x877.jpeg)
 
@@ -260,7 +260,7 @@ Also not everyone was happy with the sycophancy, even people not on twitter, tho
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Rfwx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc035e065-87d8-499e-912b-9ec72b33190e_1199x609.jpeg)
+![None](../post-media/50607cb1c5867726.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!Rfwx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc035e065-87d8-499e-912b-9ec72b33190e_1199x609.jpeg)
 
@@ -306,7 +306,7 @@ Simon Willison: Courtesy of @elder_plinius who unsurprisingly caught the before 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!hX2m!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71c241a5-1ae7-47cb-9e84-5f638b9db515_1252x2048.jpeg)
+![None](../post-media/7323c472092a3980.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!hX2m!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71c241a5-1ae7-47cb-9e84-5f638b9db515_1252x2048.jpeg)
 

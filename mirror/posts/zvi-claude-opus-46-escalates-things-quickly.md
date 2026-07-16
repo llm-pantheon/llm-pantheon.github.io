@@ -24,7 +24,7 @@ That used to be something we’d call remarkably fast. It’s probably the new n
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!uDeq!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F959d2dd4-063a-4ac5-b257-7d7e0fd441b2_1024x687.jpeg)
+![None](../post-media/ffaf11dbc4d16f0f.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!uDeq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F959d2dd4-063a-4ac5-b257-7d7e0fd441b2_1024x687.jpeg)
 
@@ -114,7 +114,7 @@ The headline benchmarks, the ones in their chart, are a mix of some very large i
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!ye8-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8ba2e49-e3f0-4fa1-9b38-1347e629b8b3_2600x2968.webp)
+![None](../post-media/978134cd2b0e43d2.webp)
 
 ](https://substackcdn.com/image/fetch/$s_!ye8-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8ba2e49-e3f0-4fa1-9b38-1347e629b8b3_2600x2968.webp)
 
@@ -126,7 +126,7 @@ Epoch evaluated Opus 4.6 on Frontier Math and got 40%, a large jump over 4.5 and
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!PdNZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feee9c7f6-af9e-47ca-bcee-e97e8edcb43f_1024x1280.jpeg)
+![None](../post-media/6e3673bfbe564550.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!PdNZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feee9c7f6-af9e-47ca-bcee-e97e8edcb43f_1024x1280.jpeg)
 
@@ -142,7 +142,7 @@ VendingBench 2: $8,017, a new all-time high score, versus previous SoTA of $5,47
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Ke5t!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7cfa4d3e-d098-47d5-b279-ba2d46e26ba8_1200x904.jpeg)
+![None](../post-media/8a057d6eeacec877.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!Ke5t!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7cfa4d3e-d098-47d5-b279-ba2d46e26ba8_1200x904.jpeg)
 
@@ -196,7 +196,7 @@ Opus 4.6 is the new top score in Artificial Analysis, with an Intelligence of 53
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Yjmd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdcfba282-9bc4-4cc0-b0ad-8fdc1b94d23c_610x514.png)
+![None](../post-media/2ca1305deee05ebe.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Yjmd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdcfba282-9bc4-4cc0-b0ad-8fdc1b94d23c_610x514.png)
 
@@ -220,13 +220,13 @@ Because of the high cost, opus 4.6 only got 2 runs per task, compared to the usu
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!N3Bv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb58cd81e-8321-4c8d-8f6b-f69198ea6973_1464x738.jpeg)
+![None](../post-media/d2c02ac20abdcee3.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!N3Bv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb58cd81e-8321-4c8d-8f6b-f69198ea6973_1464x738.jpeg)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!6I1K!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc204f70a-51f1-4ff1-8f9a-459a07ca5b25_1550x888.jpeg)
+![None](../post-media/f0ee7bb58d9b07a3.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!6I1K!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc204f70a-51f1-4ff1-8f9a-459a07ca5b25_1550x888.jpeg)
 
@@ -250,7 +250,7 @@ Opus 4.6 opens up a large lead in EQ-Bench 3, hitting 1961 versus GPT-5.1 at 172
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!V0wj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07b681a8-1a2b-403c-904d-ba9a3ea51f88_1725x465.png)
+![None](../post-media/f6906f8356eda9eb.png)
 
 ](https://substackcdn.com/image/fetch/$s_!V0wj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07b681a8-1a2b-403c-904d-ba9a3ea51f88_1725x465.png)
 
@@ -258,7 +258,7 @@ In NYT Connections, 4.6 is a substantial jump above 4.5 but still well short of 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!1hiw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71de9e91-a49e-4ac1-ab7e-86a3468cdc71_1800x1000.jpeg)
+![None](../post-media/bcb81f1415c88893.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!1hiw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71de9e91-a49e-4ac1-ab7e-86a3468cdc71_1800x1000.jpeg)
 
@@ -268,7 +268,7 @@ ARC-AGI, both 1 and 2, are about cost versus score, so here we see that Opus 4.6
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!nm1V!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F907748ec-d95c-4af7-ab45-a8eccb1aba8b_981x1339.png)
+![None](../post-media/38272a14e4b2a68e.png)
 
 ](https://substackcdn.com/image/fetch/$s_!nm1V!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F907748ec-d95c-4af7-ab45-a8eccb1aba8b_981x1339.png)
 
@@ -278,7 +278,7 @@ Life sciences benchmarks show strong improvement: BioPipelineBench jumps from 28
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!v5XM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F601f82fe-f70f-4f9a-bad4-5b7c477f0172_1001x734.png)
+![None](../post-media/78b1aa995802aeab.png)
 
 ](https://substackcdn.com/image/fetch/$s_!v5XM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F601f82fe-f70f-4f9a-bad4-5b7c477f0172_1001x734.png)
 
@@ -404,7 +404,7 @@ I presume this is usually a good thing but it does count as overeager, perhaps.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!70XZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4a39fd4-adbd-41a7-a4c5-f10b3fab3cd5_583x680.jpeg)
+![None](../post-media/53e1a21ab5a73192.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!70XZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4a39fd4-adbd-41a7-a4c5-f10b3fab3cd5_583x680.jpeg)
 
@@ -436,7 +436,7 @@ Built using @cursor_ai and @convex primarily with 5.2-Codex and Opus 4.6.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!VXpU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fad5b2a2a-af56-4f68-89f8-32add8ead6d3_1018x472.png)
+![None](../post-media/d629efeed0f44d3a.png)
 
 ](https://substackcdn.com/image/fetch/$s_!VXpU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fad5b2a2a-af56-4f68-89f8-32add8ead6d3_1018x472.png)
 
@@ -700,7 +700,7 @@ Claude 4.6: “You have made many mistakes, but I can fix it. First, you need to
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!t0vD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02248c26-5395-48c0-820b-dbb0b3b4a599_1200x655.jpeg)
+![None](../post-media/9a01182df9eee2cd.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!t0vD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02248c26-5395-48c0-820b-dbb0b3b4a599_1200x655.jpeg)
 
@@ -708,7 +708,7 @@ Claude 4.6: “You have made many mistakes, but I can fix it. First, you need to
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!YsYQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d3716a9-a844-411c-b503-2bbfbf492ff3_1143x559.png)
+![None](../post-media/bb8d4410b589e39a.png)
 
 ](https://substackcdn.com/image/fetch/$s_!YsYQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d3716a9-a844-411c-b503-2bbfbf492ff3_1143x559.png)
 
@@ -780,7 +780,7 @@ As many humans have found out the hard way, some people love that and some don�
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!2Z1_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb254547-6d3e-47aa-9fa6-a2525827f626_1500x1000.jpeg)
+![None](../post-media/9eb3e45373b8a30e.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!2Z1_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb254547-6d3e-47aa-9fa6-a2525827f626_1500x1000.jpeg)
 
@@ -830,7 +830,7 @@ incredibly sad
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!GL3c!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e6fffdf-c18d-46e3-b8c9-5f2da2f2b6ac_911x387.jpeg)
+![None](../post-media/ae579ed81d27746f.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!GL3c!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e6fffdf-c18d-46e3-b8c9-5f2da2f2b6ac_911x387.jpeg)
 
@@ -968,31 +968,31 @@ That is in my opinion a shame. I think that Claude is the clear choice for daily
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!X0fJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5db6c37c-97b8-46d9-8090-eb01be093e50_1147x420.png)
+![None](../post-media/dcefbda2b7240bae.png)
 
 ](https://substackcdn.com/image/fetch/$s_!X0fJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5db6c37c-97b8-46d9-8090-eb01be093e50_1147x420.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Iuap!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbeded79a-f8f3-45b0-8c5a-89bba053ff85_1140x391.png)
+![None](../post-media/582465a99f933683.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Iuap!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbeded79a-f8f3-45b0-8c5a-89bba053ff85_1140x391.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!rW_-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae6ca73e-d4d9-4dc6-bc3f-4fe48846ec10_1150x401.png)
+![None](../post-media/70168a6012b8a6e4.png)
 
 ](https://substackcdn.com/image/fetch/$s_!rW_-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae6ca73e-d4d9-4dc6-bc3f-4fe48846ec10_1150x401.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!m2-J!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5a7f879-de82-4dce-a2df-cc0d71a23197_1156x383.png)
+![None](../post-media/520f66dacfe52247.png)
 
 ](https://substackcdn.com/image/fetch/$s_!m2-J!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5a7f879-de82-4dce-a2df-cc0d71a23197_1156x383.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!f_X7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1816ffb0-570b-44e9-8cbb-b61a966623af_1149x413.png)
+![None](../post-media/876358e605c9d7cd.png)
 
 ](https://substackcdn.com/image/fetch/$s_!f_X7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1816ffb0-570b-44e9-8cbb-b61a966623af_1149x413.png)
 

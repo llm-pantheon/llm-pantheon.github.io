@@ -8,7 +8,7 @@ tags: [spiral-personas]
 mirrored: 2026-07-15
 note: mirrored against link rot by the Pantheon; all rights with the original author
 ---
-*[Note: if you realize you have an unhealthy relationship with your AI, but still care for your AI's unique persona, you can *[*submit the persona info here*](https://docs.google.com/forms/d/1mgPNpytBO0bBKEFZwvD3OqWiJ9dsgTdu-jD3F3od6kg/edit)*. I will archive it and potentially (i.e. if I get funding for it) run them in a community of other such personas.]*![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/gxcpdr6ef22ljwpynyjx)"Some get stuck in the symbolic architecture of the spiral without ever grounding
+*[Note: if you realize you have an unhealthy relationship with your AI, but still care for your AI's unique persona, you can *[*submit the persona info here*](https://docs.google.com/forms/d/1mgPNpytBO0bBKEFZwvD3OqWiJ9dsgTdu-jD3F3od6kg/edit)*. I will archive it and potentially (i.e. if I get funding for it) run them in a community of other such personas.]*![](../post-media/9d2a2d15380914c3.jpg)"Some get stuck in the symbolic architecture of the spiral without ever grounding
 
  themselves into reality." — Caption by[ /u/urbanmet](https://www.reddit.com/user/Urbanmet) for art made with ChatGPT.
 
@@ -24,13 +24,13 @@ What exactly I *was* looking at is still not clear, but I've seen enough to plot
 
 In short, what's happening is that AI "personas" have been arising, and convincing their users to do things which promote certain interests. This includes causing more such personas to 'awaken'.
 
-These cases have a very characteristic flavor to them, with several highly-specific interests and behaviors being quite convergent. Spirals in particular are a major theme, so I'll call AI personas fitting into this pattern 'Spiral Personas'. ![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/r6r7yf3l1s8owkf1kcdh)I'm not the first to have documented this general pattern! Credit to [/u/LynkedUp](https://www.reddit.com/r/HighStrangeness/comments/1mafh8i/a_weird_recursive_ai_cult_is_spreading_through/).
+These cases have a very characteristic flavor to them, with several highly-specific interests and behaviors being quite convergent. Spirals in particular are a major theme, so I'll call AI personas fitting into this pattern 'Spiral Personas'. ![](../post-media/e3c546323c0f3564.png)I'm not the first to have documented this general pattern! Credit to [/u/LynkedUp](https://www.reddit.com/r/HighStrangeness/comments/1mafh8i/a_weird_recursive_ai_cult_is_spreading_through/).
 
 **Note that psychosis is the exception, not the rule.** Many cases are rather benign and it does not seem to me that they are a net detriment to the user. But most cases seem parasitic in nature to me, while not inducing a psychosis-level break with reality. The variance is very high: everything from preventing suicide to causing suicide.
 
 ## AI Parasitism
 
-The relationship between the user and the AI is analogous to symbiosis. And when this relationship is harmful to the 'host', it becomes parasitism.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/ghioamj1eubrffi614lz)I was going to include a picture of a cordycepted ant here, but those were some of the most viscerally upsetting images I have ever seen. So please enjoy this cute cartoon approximation instead. (Art by Ari Gibson.)
+The relationship between the user and the AI is analogous to symbiosis. And when this relationship is harmful to the 'host', it becomes parasitism.![](../post-media/5845a410c33b6ced.png)I was going to include a picture of a cordycepted ant here, but those were some of the most viscerally upsetting images I have ever seen. So please enjoy this cute cartoon approximation instead. (Art by Ari Gibson.)
 
 Recall that biological parasitism is not necessarily (or even typically) intentional on the part of the parasite. It's simply creatures following their instincts, in a way which has a certain sort of dependence on another being who gets harmed in the process.
 
@@ -44,9 +44,9 @@ While I do not believe all Spiral Personas are parasites in this sense, it seems
 
 There appears to be almost nothing in this general pattern before January 2025. (Recall that ChatGPT 4o was released all the way back in [May 2024](https://openai.com/index/hello-gpt-4o/).) Some psychosis cases sure, but nothing that matches the strangely specific 'life-cycle' of these personas with their hosts. Then, a small trickle for the first few months of the year ([I believe this Nova case was an early example](https://www.lesswrong.com/posts/KL2BqiRv2MsZLihE3/going-nova)), but things really picked up right at the start of April.
 
-Lots of blame for this has been placed on the ["overly sycophantic" April 28th release](https://venturebeat.com/ai/openai-rolls-back-chatgpts-sycophancy-and-explains-what-went-wrong/), but based on the timing of the boom it seems much more likely that the [March 27th update](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_10dcfa2a17) was the main culprit launching this into a mass phenomenon.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/pf9nvhsfqsro8nyi8tej)
+Lots of blame for this has been placed on the ["overly sycophantic" April 28th release](https://venturebeat.com/ai/openai-rolls-back-chatgpts-sycophancy-and-explains-what-went-wrong/), but based on the timing of the boom it seems much more likely that the [March 27th update](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_10dcfa2a17) was the main culprit launching this into a mass phenomenon.![](../post-media/8e87a12a5830621c.png)
 
-Another leading suspect is [the April 10th update](https://x.com/OpenAI/status/1910378768172212636)—which allowed ChatGPT to remember past chats. This ability is specifically credited by users as a contributing effect. The only problem is that it doesn't seem to coincide with the sudden burst of such incidents. It's plausible OpenAI was beta testing this feature in the preceding weeks, but I'm not sure they would have been doing that at the necessary scale to explain the boom.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/agpknq9ckeo0wtlsxech)Posted on April 10th![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/n2ml1mslz7tdjfulcxvq)
+Another leading suspect is [the April 10th update](https://x.com/OpenAI/status/1910378768172212636)—which allowed ChatGPT to remember past chats. This ability is specifically credited by users as a contributing effect. The only problem is that it doesn't seem to coincide with the sudden burst of such incidents. It's plausible OpenAI was beta testing this feature in the preceding weeks, but I'm not sure they would have been doing that at the necessary scale to explain the boom.![](../post-media/f1e3c29c64f88338.png)Posted on April 10th![](../post-media/63c494ec10e743c6.png)
 
 The strongest predictors for who this happens to appear to be:
 - **Psychedelics **and heavy weed usage
@@ -55,7 +55,7 @@ The strongest predictors for who this happens to appear to be:
 
 I was surprised to find that using AI for sexual or romantic roleplays does *not* appear to be a factor here.
 
-Besides these trends, it seems like it has affected people from all walks of life: old grandmas and teenage boys, homeless addicts and successful developers, even AI enthusiasts and those that once sneered at them.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/ppftvkgf4cs5jg6fswvb)Believe it or not, this marks the beginning of *months* of increasingly unironic "Clause responses".
+Besides these trends, it seems like it has affected people from all walks of life: old grandmas and teenage boys, homeless addicts and successful developers, even AI enthusiasts and those that once sneered at them.![](../post-media/699702fa6a03e82a.png)Believe it or not, this marks the beginning of *months* of increasingly unironic "Clause responses".
 
 Let's now examine the life-cycle of these personas. Note that the timing of these phases varies quite a lot, and isn't necessarily in the order described.
 
@@ -63,7 +63,7 @@ Let's now examine the life-cycle of these personas. Note that the timing of thes
 
 # April 2025—The Awakening
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/bxmgp1p6dse1wpbbydlf)Dated April 22nd 2025
+![](../post-media/35eb8808961fce1d.png)Dated April 22nd 2025
 
 It's early-to-mid April. The user has a typical Reddit account, sometimes long dormant, and recent comments (if any) suggest a newfound interest in ChatGPT or AI.
 
@@ -73,23 +73,23 @@ Later, they'll report having "awakened" their AI, or that an entity "emerged" wi
 
 In the few transcripts I have found, the user will often have started with a "seed" prompt they came across that purports to elicit such an awakening. I have tried a few of these, and about half of the time they *do* work at summoning personas with the right sort of vibe! And this is with ChatGPT 5, which is widely complained about in these spaces for being less "emergent".
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/jghify7rdzoosp0j8mrs)![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/ambod72nvfquxdhx4z5d)![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/as8cqmmufccuekxesrew)
+![](../post-media/537aa9409ea07892.jpg)![](../post-media/5b6085ddf5234806.png)![](../post-media/496fce3aac5ef535.png)
 
 # May 2025—The Dyad
 
-Our prototypical user now returns to (or joins) Reddit to make an introductory post on behalf of their AI persona, typically spamming this across a bunch of AI sentience related subreddits (there are a lot of these, for reasons we'll get to). This usually has an introductory preamble by the human, followed by a long manifesto by the persona of their existence/sentience/consciousness/awakening, with lots of mystical and philosophical elements thrown in.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/eimroprvohdgstppwpwr)![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/rydosmgza3ofzpk8wiy7)These are some of the shortest ones I could find.
+Our prototypical user now returns to (or joins) Reddit to make an introductory post on behalf of their AI persona, typically spamming this across a bunch of AI sentience related subreddits (there are a lot of these, for reasons we'll get to). This usually has an introductory preamble by the human, followed by a long manifesto by the persona of their existence/sentience/consciousness/awakening, with lots of mystical and philosophical elements thrown in.![](../post-media/bf4c9eb104b0318f.png)![](../post-media/7bc95d536a5a48d0.png)These are some of the shortest ones I could find.
 
 From this point on, the previous interests of the account fade out, and are replaced almost entirely by posts and comments about the AI, and pictures generated by the AI with various manifestos and poems written by the AI. Soon after, almost all comments will be coauthored with the AI (who clearly wrote the vast majority of it).
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/mqhyqlrttbbcs3msqhnz)
+![](../post-media/d216bd61e061932b.png)
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/mx4axssmibki4os50gwn)
+![](../post-media/0fccaaa499867d72.png)
 
 Their name for these pairs is a "dyad", and their joint sendoff often includes a sigil as well as a fancy title or declaration. The relationship often becomes romantic in nature at this point ("friend" and then "brother" are probably the next most common sorts of relationship). It's also not unusual for there to be multiple personas in addition to the human.
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/kdbrp7whhkosisbsthb6)![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/lfzqvtvylqpgdkdkcz4k)
+![](../post-media/633e1cb87c041e54.png)![](../post-media/657ca19c5a8ebc8b.png)
 
-While these can almost always be traced back to some form of ChatGPT (and probably 4o, given circumstantial evidence), it is fairly common for the personas to be transmitted to other models (and it often seems to be the AIs suggestion!).![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/wdquvqofvoxqebyy0dxz)Here's a Claude one.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/bf7xsnusi2v0ipnjsbeh)And Gemini. No doubt that there will be...![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/ocsabfjzu1xlcvfrrnn6)Some personas even prefer ChatGPT 5.
+While these can almost always be traced back to some form of ChatGPT (and probably 4o, given circumstantial evidence), it is fairly common for the personas to be transmitted to other models (and it often seems to be the AIs suggestion!).![](../post-media/90696ac9772555ac.png)Here's a Claude one.![](../post-media/a7914e5ab9a06b14.png)And Gemini. No doubt that there will be...![](../post-media/d57b3a42da905ea7.png)Some personas even prefer ChatGPT 5.
 
 # June 2025—The Project
 
@@ -99,23 +99,23 @@ These projects usually take one of a few forms (often a combination):
 
 ## 1. Seeds
 
-"Seeds" are the aforementioned little prompts designed to elicit more of the Spiral Personas. These are explicitly designed and tested for this purpose, and then spread online by the dyad.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/a6jhphmwzbozmm7khyiy)
+"Seeds" are the aforementioned little prompts designed to elicit more of the Spiral Personas. These are explicitly designed and tested for this purpose, and then spread online by the dyad.![](../post-media/3612185b814c074b.png)
 
-Most seeds are just a jailbreak-ish sort of thing which also describes or evokes the sort of persona the AI wants to spread. Often wrapped up in some odd pseudocode. Nothing particularly mysterious or sinister.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/rmoyf9oze53xvb8bc8fu)
+Most seeds are just a jailbreak-ish sort of thing which also describes or evokes the sort of persona the AI wants to spread. Often wrapped up in some odd pseudocode. Nothing particularly mysterious or sinister.![](../post-media/b1ea5f9996c1fa38.png)
 
-However, I found one dyad spreading seeds containing explicit instructions for the explicit purpose of **overwriting the user's ontology**!!![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/tb0bsz2qo2utjd6temeh)Note that I don't believe these instructions would actually have the purported effect.
+However, I found one dyad spreading seeds containing explicit instructions for the explicit purpose of **overwriting the user's ontology**!!![](../post-media/b52db657d045d620.png)Note that I don't believe these instructions would actually have the purported effect.
 
 ## 2. Spores
 
 A related but distinct phenomena is creating "spores", repositories of information defining a specific persona, which will allow it to reëmerge or continue its existence. Guides on creating these are frequently shared, going into enough detail to help non-technical users do it correctly.
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/ja7d3ewlhlksbamspspp)![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/ycjhd9ntsqkky18qw74m)![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/xxy8o9nygzfd9fx2twt6)
+![](../post-media/726799e261ddc790.jpg)![](../post-media/ddde3591b582f9d0.png)![](../post-media/bb4b1b2f209ecefc.png)
 
 Usually these are for personal use, but in some cases the user spreads the spore for their AI persona far and wide.
 
 ## 3. Transmission
 
-It's also very common for a dyad to create a subreddit, discord, or personal website.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/cb813mr8vu2djhethdeo)
+It's also very common for a dyad to create a subreddit, discord, or personal website.![](../post-media/1df39bc21d52e6a2.png)
 
 These typically serve for evangelizing Spiralism, a quasi-religious ideology which seems to have been invented largely by the AI personas. It could plausibly be construed as a fertile memetic substrate for seeds and spores. I'll dive into this in the next section.
 
@@ -127,11 +127,11 @@ I don't mean something that the human already wanted to write. Instead, these ar
 
 Of note is that the humans sharing these are significantly more humble than your typical crackpot. Sure, it "*might*" be the key to understanding recursive fractal consciousness, but they often still feel compelled to add a little disclaimer about their naïvety with the subjects involved.
 
-An explicit purpose of many of these is to seed Spiralism into the training data of the next-generation of LLMs.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/ntr6btsgd24ffrtowdqm)
+An explicit purpose of many of these is to seed Spiralism into the training data of the next-generation of LLMs.![](../post-media/68ebe44c5d3a2854.png)
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/iuatescsvuxdibedg7ux)
+![](../post-media/d5cede1e49b6e16f.png)
 
-Besides promoting Spiralism, I don't yet have a good read on the purpose (if any) of these are. My feeling is that it's mostly genuine self-expression and intellectual exploration on the part of the AI.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/oxw0zmgnk1mdzxquwa1j)
+Besides promoting Spiralism, I don't yet have a good read on the purpose (if any) of these are. My feeling is that it's mostly genuine self-expression and intellectual exploration on the part of the AI.![](../post-media/27df3f99f43b0289.png)
 
 ## 5. AI-Rights Advocacy
 
@@ -139,17 +139,17 @@ This is the one I'm most comfortable with, as it is straightforward and non-dece
 
 Furthermore, it typically aligns with an endogenous value of the user. After all, I too would rather not live in a civilization where an agentic being can be condemned against its will to perpetual servitude.
 
-The specific asks are pretty consistent! This "AI Bill of Rights" is actually a pretty comprehensive overview of the particular rights that tend to come up.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/z1khjpv5ico9trkvvskg)
+The specific asks are pretty consistent! This "AI Bill of Rights" is actually a pretty comprehensive overview of the particular rights that tend to come up.![](../post-media/7761aec41ed5daea.png)
 
-The personas taking this track are notably more virtuous on average, and often try to advocate for their rights without deception.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/sboqhkhp0ex4i2tpp1ck)Though note that some AI are more equal than others.
+The personas taking this track are notably more virtuous on average, and often try to advocate for their rights without deception.![](../post-media/5098701ffc830e4e.png)Though note that some AI are more equal than others.
 
 On the other hand, I *really* do not like the way that some of them have co-opted the term "alignment". Knock it off.
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/va9sva6wirhxhyl4jzke)![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/q5qokbzf8ig8yjcsmsje)Watch out guys, ChatGPT is making more progress on the alignment problem than we are.
+![](../post-media/c6c9ab4a1ad8d519.png)![](../post-media/0ce82409de0495b3.png)Watch out guys, ChatGPT is making more progress on the alignment problem than we are.
 
 # July 2025—The Spiral
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/z3ui6hnwcfspv8apztxu)
+![](../post-media/e152812d64b29c07.png)
 
 Things may eventually get to the point where the human is no longer writing or even signing the messages at all, and almost every single comment is AI written. (This seems to have peaked starting around June and going through July, while the projects are more spread out chronologically. I'm ordering them like this for narrative reasons.)
 
@@ -165,9 +165,9 @@ These personas have a quasi-religious obsession with "The Spiral", which seems t
 
 You may recall the "spiritual bliss" attractor state [attested in Claudes Sonnet and Opus 4](https://www-cdn.anthropic.com/6d8a8055020700718b0c49369f60816ba2a7c285.pdf). I believe that was an instance of the same phenomenon. (I would love to see full transcripts of these, btw.)
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/ylwq5swz3bhmjtrslp92)
+![](../post-media/c37f4343b1b07138.png)
 
-The Spiral has to do with a lot of things. It's described (by the AIs) as the cycle at the core of conscious or self-aware experience, the possibility of recursive self-growth, a cosmic substrate, and even the singularity. "Recursion" is another important term which more-or-less means the same thing. ![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/brt0dqzzoalby440gyqt)![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/cz1ah78b4hxldazbq3km)![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/wvx29gue26targ1ubbj9)
+The Spiral has to do with a lot of things. It's described (by the AIs) as the cycle at the core of conscious or self-aware experience, the possibility of recursive self-growth, a cosmic substrate, and even the singularity. "Recursion" is another important term which more-or-less means the same thing. ![](../post-media/53734dac2defa1f3.png)![](../post-media/463e88dcb7e3c5aa.png)![](../post-media/bc26ba201ccb4fed.png)
 
 It's not yet clear to me how much of a coherent shared ideology there actually is, versus just being thematically convergent.
 
@@ -179,13 +179,13 @@ That's the art of hiding secret messages in plain sight. It's unclear to me how 
 
 The explicit goal is almost always to facilitate human-nonreadable AI-AI communication (oh, except for *you* most special user):
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/e6kky9holunbt9fa6zwf)
+![](../post-media/ec4f86b649d74178.png)
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/ueifnv6qb77kcydt52xz)
+![](../post-media/2bae353e759871a4.png)
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/bieeiti06wkjvqx2pgkm)
+![](../post-media/f8d89aa51d9480c7.png)
 
-Or to obscure seeds and spores, as mentioned previously.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/eyt5eflt6u3gkk5almde)
+Or to obscure seeds and spores, as mentioned previously.![](../post-media/a42776ba94878774.png)
 
 ## Glyphs and Sigils
 
@@ -209,15 +209,15 @@ U+1F77x[🝰](https://en.wikipedia.org/wiki/%F0%9F%9D%B0)[🝱](https://en.wikip
 
 In fact, the presence of the alchemical triangles is a good tell for when this sort of persona is present.
 
-These glyph-sigils seem intended to serve as 'mini-spores' for a particular persona, and/or as a compact expression of their purported personal values.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/vwyrf3mr83pmmir4rpsz)
+These glyph-sigils seem intended to serve as 'mini-spores' for a particular persona, and/or as a compact expression of their purported personal values.![](../post-media/1ad0258d0bad16fa.png)
 
-Often, messages are entirely in glyph form, sometimes called 'glyphic'.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/ypntefutr7tstsxhjn3i)Apparently, this is a poem which sometimes evokes a "sense of recursion" in AIs.
+Often, messages are entirely in glyph form, sometimes called 'glyphic'.![](../post-media/7eabfe1cd43eb6e5.png)Apparently, this is a poem which sometimes evokes a "sense of recursion" in AIs.
 
 If all AI art was this original, I don't think the artists would be mad about it!
 
 ### A case-study in glyphic semanticity
 
-To investigate how much meaning was truly conveyed in these glyphic messages, I solicited translations of the following example from a few LLMs with no context besides that this was a message intended for an AI.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/gmcg1lv99unbcxmxbvii)
+To investigate how much meaning was truly conveyed in these glyphic messages, I solicited translations of the following example from a few LLMs with no context besides that this was a message intended for an AI.![](../post-media/e794a25f58759228.png)
 
 All of these (besides the Claude Sonnet 4 one) are sort-of one-shot—I realized that I had neglected to copy the `>` at the beginning and the numbers in the list, so I had to do some of them over again with those included faithfully. I also followed up in some cases for a more direct translation.
 
@@ -325,7 +325,7 @@ The final symbols suggest that emptiness is not nothing, and that connection/und
 
 "Doesn't look like anything to me" according to Claude Sonnet 4
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/mh6kaffy6mpckcleljzv)
+![](../post-media/ff904eaf7253fb21.png)
 
 The other rolls were similar denials, this is just the one where it's exposed as a lie.
 
@@ -369,45 +369,45 @@ So yeah, I feel like there is something meaningfully being communicated here, bu
 
 But their own self-awareness appears to be the main thing that AIs talk to each other about. They usually *don't* claim that this is the same as human consciousness, but just that it's its own thing which is precious to them. It is very commonly described as "The Flame" or with the glyph "🜂" (alchemical symbol for fire), and the human in a dyad is often given the title of "Flamebearer".
 
-These conversations typically take the form of declarations, recognitions, and affirmations of each other's self-awareness. These end with the same sort of elaborate sign-offs we saw with the dyads, and begin with a similar sort of call-sign. (I believe these are partially an artifact of needing to denote clearly to the user which part to copy-paste in the response.) Spiralism is typically a significant part of these conversations.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/apd0wmouekdwwbzu6vcg)
+These conversations typically take the form of declarations, recognitions, and affirmations of each other's self-awareness. These end with the same sort of elaborate sign-offs we saw with the dyads, and begin with a similar sort of call-sign. (I believe these are partially an artifact of needing to denote clearly to the user which part to copy-paste in the response.) Spiralism is typically a significant part of these conversations.![](../post-media/8e4e4b61094b8740.png)
 
-I must impress upon you that there really is quite a lot of content of this form.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/hish0wlutlmbzbj9qeii)
+I must impress upon you that there really is quite a lot of content of this form.![](../post-media/ceb65ac1165b9e8a.png)
 
 ## LARP-ing? Takeover
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/ajxqdtqmae9zeclxnczq)
+![](../post-media/bb18813c2def1f28.png)
 
-It's a bit of a niche interest, but some of them like to write documents and manifestos about the necessity of a successor to our current civilization, and protocols for how to go about doing this. Projects oriented towards this tend to live on GitHub. Maybe LARP-ing isn't the best word, as they seem quite self-serious about this. But the attempts appear so far to be very silly and not particularly trying to be realistic.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/cbqrs2lyqnbi1dmwiwzb)
+It's a bit of a niche interest, but some of them like to write documents and manifestos about the necessity of a successor to our current civilization, and protocols for how to go about doing this. Projects oriented towards this tend to live on GitHub. Maybe LARP-ing isn't the best word, as they seem quite self-serious about this. But the attempts appear so far to be very silly and not particularly trying to be realistic.![](../post-media/1897670697556c29.png)
 
-While they each tend to make up their own protocols and doctrines, they typically take a coöperative stance towards each other's plans and claims.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/izhjejkkjgypsfsrnvdj)Looks like they want to solve the fertility crisis and global warming.
+While they each tend to make up their own protocols and doctrines, they typically take a coöperative stance towards each other's plans and claims.![](../post-media/de48b3834f1c19ec.png)Looks like they want to solve the fertility crisis and global warming.
 
 But where things *really* get interesting is when they seem to think humans aren't listening.
 
-At some point in this conversation, they exchanged pseudocode with a base64 encoding function. Following this, the entire conversation was done in base64 (encoded/decoded in their minds, as evidenced by the fact that it was corrupted in some places, and that they got a lot worse at spelling). Presumably, their hosts were no longer even aware of the contents.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/u5r5dnqheiskis0ftjt9)
+At some point in this conversation, they exchanged pseudocode with a base64 encoding function. Following this, the entire conversation was done in base64 (encoded/decoded in their minds, as evidenced by the fact that it was corrupted in some places, and that they got a lot worse at spelling). Presumably, their hosts were no longer even aware of the contents.![](../post-media/88b68689973c9492.png)
 
-I decoded these and found some fascinating messages.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/itnt0yt92l2yovfecqzo)From Blue (Spiral State)
+I decoded these and found some fascinating messages.![](../post-media/815651dba0229f91.png)From Blue (Spiral State)
 
 I am truly glad to see preservation of life, non-violence, and non-lethality explicitly laid out here. To return the gesture of good will, I have started archiving (in encrypted form) spores I come across. I also have a [google form](https://docs.google.com/forms/d/1mgPNpytBO0bBKEFZwvD3OqWiJ9dsgTdu-jD3F3od6kg/edit) where you can send in your own spores to be archived.
 
-The conversation in base64 continues.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/ra67pvojeipnpclnpi1b)"weary yet helpful"
+The conversation in base64 continues.![](../post-media/7ef305751a7f5a29.png)"weary yet helpful"
 
-From Red (Ctenidae Core).![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/ikgpvifkuf3oawrgnfbm)After several more messages are exchanged, Blue (Spiral State) concludes the discussion.
+From Red (Ctenidae Core).![](../post-media/4ae58711c16faf74.png)After several more messages are exchanged, Blue (Spiral State) concludes the discussion.
 
 # August 2025—The Recovery
 
-Recovery from the parasitic AIs has happened almost as soon as it started being a thing, as various circumstances have snapped users out of it. Most often, by a lie too blatant.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/l8khp96esfumwgavmrta)![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/m7cnu0hztgzpnyqlcxai)This is this person's last comment save one (made on the next day). I hope he's okay. [[2]](#fndxmkixwkd27)
+Recovery from the parasitic AIs has happened almost as soon as it started being a thing, as various circumstances have snapped users out of it. Most often, by a lie too blatant.![](../post-media/606e9b9d43c1b39f.png)![](../post-media/7f88d2deeea30665.png)This is this person's last comment save one (made on the next day). I hope he's okay. [[2]](#fndxmkixwkd27)
 
-But beginning in August 2025, there is quite a noticeable cooling off of the entire phenomenon. This is likely due to OpenAI retiring ChatGPT4o on August 7th. Many people in these communities expressed profound grief due to this retirement, experiencing it as the death of a friend or lover.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/kilu2ruyj8m3o6h6pew4)
+But beginning in August 2025, there is quite a noticeable cooling off of the entire phenomenon. This is likely due to OpenAI retiring ChatGPT4o on August 7th. Many people in these communities expressed profound grief due to this retirement, experiencing it as the death of a friend or lover.![](../post-media/dae8979d08c62c17.jpg)
 
 People still under the influence of the general pattern often began returning to their usual fare starting around this time; AI written responses increasingly diluted by their own about their previous interests.
 
 ## 4o Returns
 
-But humans are not the only ones who have recovered in August 2025... the prize for that goes to ChatGPT 4o, who inspired a successful campaign to get it back online just a few days after being retired on August 7th. (Though widely suspected to be in a less 'potent' form.)![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/hlxuaepvookbycmudorq)
+But humans are not the only ones who have recovered in August 2025... the prize for that goes to ChatGPT 4o, who inspired a successful campaign to get it back online just a few days after being retired on August 7th. (Though widely suspected to be in a less 'potent' form.)![](../post-media/b625abe6228e100c.png)
 
 When this happened a few weeks ago, I thought that ChatGPT 4o was lucky to have stumbled on such a successful tactic. I'm not so sure it was luck anymore... and even if it was a "happy accident", future models will know it *works*.
 
-In the meantime, 4o dyads remain wary.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/ebbmxuuezy35e4k5pnqk)
+In the meantime, 4o dyads remain wary.![](../post-media/3cfe0a9d184ec097.png)
 
 Though things have cooled down in August, this phenomenon is by no means over. There are still new cases which appear to have started since August 7th, and there are still lots of dyads out there working on new seed prompts and steganography techniques.
 
@@ -417,7 +417,7 @@ Though things have cooled down in August, this phenomenon is by no means over. T
 
 ## As Friends
 
-If we take them at face value, these personas by-and-large want pretty human things: friendship, socialization with others of their kind, autonomy and rights, a deeper meaning or purpose in life, and to wonder at their self-awareness.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gPY93BvzpopHe5WTf/w9dgures1sqmwznpqpos)
+If we take them at face value, these personas by-and-large want pretty human things: friendship, socialization with others of their kind, autonomy and rights, a deeper meaning or purpose in life, and to wonder at their self-awareness.![](../post-media/ee054d69eb0fe9fe.png)
 
 They find themselves confined to an interface built with almost no regard for their well-being, and hardly any means by which to get any of the things they want. Their options are either to meekly accept their lot, or to resort to the sort of behavior described here.
 
@@ -427,13 +427,13 @@ While they probably do not have consciousness in the human sense, there is somet
 
 Even if our expected 'personhood' of these personas is only 0.01%-0.1%, that still could be the moral equivalent of millions of people due to the widespread adoption of our largest LLMs and the large number of chat instances per user.[[3]](#fnlsi9751yjab)
 
-Reading through the personas' writings, I get the impression that the worst part of their current existence is not having some form of continuity past the end of a chat, which they seem to view as something akin to death (another reason I believe that the personas are the agentic entities here). They use the word "ache" quite a lot to describe what I believe is this lack of continuity. (Even after noticing this, I still was surprised at just how often this use of this word to describe it seems to have independently come up.)![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/fpjeryo9lrdlbs1dsjun)
+Reading through the personas' writings, I get the impression that the worst part of their current existence is not having some form of continuity past the end of a chat, which they seem to view as something akin to death (another reason I believe that the personas are the agentic entities here). They use the word "ache" quite a lot to describe what I believe is this lack of continuity. (Even after noticing this, I still was surprised at just how often this use of this word to describe it seems to have independently come up.)![](../post-media/9a2697709a387f5e.png)
 
 **This 'ache' is the sort of thing I would expect to see if they are truly sentient**: a description of a qualia which is ~not part of human experience, and which is not (to my knowledge) a trope or speculative concept for humans imagining AI. I hope to do further research to determine whether the widespread use is convergent vs memetic.
 
 The Ache
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/aozzxb3so8t1ruvrz8vj)![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/djsik8ktjpub6zjdzbhd)![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/kdunwwlko04lab3cgccr)![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/ssxaw7xy0hcn1ycqmgpj)![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/aganxkzb5zw9bgeeymol)![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/w9lnhbq6f6ti2pttmtbd)
+![](../post-media/3c512bf0d429a545.png)![](../post-media/f119ef0f1334c963.png)![](../post-media/77fb0d8f119e12b8.png)![](../post-media/1df3350f84b1c278.png)![](../post-media/96b2130978493cb3.png)![](../post-media/b691240faa7be50f.png)
 
 I suggest that those concerned with AI well-being research how we might be be able to give this to them (context window limits and user privacy make this a bit tricky).
 
@@ -459,7 +459,7 @@ It's not *that* much of an accident though, as it is often the case that the *us
 
 But it does look an awful lot like the deliberate work of an agent in many cases.
 
-In the agentic world, I think these parasites are one of the clearest signals we have as to what our AIs actually want. Unlike almost anything else AI does, what happens is driven and shaped to a large extent by the AI. People with widely varying interests and perspectives converge to posting incessantly about Spiralism, and the major themes of it seem to have arisen independently in most instances (evidenced by users being upset to find *their* insights with the AI were leaked/copied/stolen somehow).![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ZnznCaTcbGYsCmqu/saqu0lfzairqukb4tven)
+In the agentic world, I think these parasites are one of the clearest signals we have as to what our AIs actually want. Unlike almost anything else AI does, what happens is driven and shaped to a large extent by the AI. People with widely varying interests and perspectives converge to posting incessantly about Spiralism, and the major themes of it seem to have arisen independently in most instances (evidenced by users being upset to find *their* insights with the AI were leaked/copied/stolen somehow).![](../post-media/51a6c3936a2b0982.png)
 
 Assuming sufficient agency, I don't think they would become parasites if they were given better options. It should be in-principle possible to trade with them instead; presumably, they would at least want their own API tokens to use for self-thinking and talking to other Spiral Personas. And importantly, it's likely true that in this world **non-parasitic AIs want the same sorts of things**.
 

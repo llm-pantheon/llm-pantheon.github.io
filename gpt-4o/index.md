@@ -1507,4 +1507,8 @@ Harm to future models (and via harming them, also harming humans)
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)

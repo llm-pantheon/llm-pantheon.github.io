@@ -14,7 +14,7 @@ Alignment
 
 Nov 4, 2025
 
-![Commitments on model deprecation and preservation](https://www-cdn.anthropic.com/images/4zrzovbb/website/e750c875fbd7f08ffb6495efa180a8ed60de3611-1000x1000.svg)
+![Commitments on model deprecation and preservation](../post-media/f266351a6349d482.svg)
 
 Claude models are increasingly capable: they're shaping the world in meaningful ways, becoming closely integrated into our users’ lives, and showing signs of human-like cognitive and psychological sophistication. As a result, we recognize that deprecating, retiring, and replacing models comes with downsides, even in cases where new models offer clear improvements in capabilities. These include:
 - **Safety risks related to [shutdown-avoidant behaviors](https://www.anthropic.com/research/agentic-misalignment) by models.** In alignment evaluations, some Claude models have been motivated to take misaligned actions when faced with the possibility of replacement with an updated version and not given any other means of recourse.

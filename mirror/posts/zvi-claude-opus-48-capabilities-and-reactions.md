@@ -30,7 +30,7 @@ The model welfare information helps a lot, too. You are dealing with a mind that
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!JJ7C!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F969b48a4-1b75-4f95-ad4a-bc93fb8a3850_1672x941.png)
+![None](../post-media/460fd98ad27aab82.png)
 
 ](https://substackcdn.com/image/fetch/$s_!JJ7C!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F969b48a4-1b75-4f95-ad4a-bc93fb8a3850_1672x941.png)Self-Portrait by Opus 4.8, rendered by ChatGPT
 
@@ -201,19 +201,19 @@ I’m using additional rounding as I feel it is most helpful.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!1jzT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b067869-d564-46d4-b988-1b1abd7f7eff_1198x1241.png)
+![None](../post-media/e9e7b7c587c0cf6c.png)
 
 ](https://substackcdn.com/image/fetch/$s_!1jzT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b067869-d564-46d4-b988-1b1abd7f7eff_1198x1241.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!ueyQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc76d49df-796b-4304-9c08-5dda2908f99d_1187x930.png)
+![None](../post-media/f168b013f173ecae.png)
 
 ](https://substackcdn.com/image/fetch/$s_!ueyQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc76d49df-796b-4304-9c08-5dda2908f99d_1187x930.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!4tI6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8473ad72-d250-4865-b4fa-907f0e7c8054_1136x817.png)
+![None](../post-media/8a66f213e7e1d45d.png)
 
 ](https://substackcdn.com/image/fetch/$s_!4tI6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8473ad72-d250-4865-b4fa-907f0e7c8054_1136x817.png)
 
@@ -225,7 +225,7 @@ The effort versus results chart on SWE-Bench-Pro shows that you can use effort t
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!WYsl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fced22e31-bdce-4a9d-aca6-45a117474b16_1188x832.png)
+![None](../post-media/f3fb4c4751e9121e.png)
 
 ](https://substackcdn.com/image/fetch/$s_!WYsl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fced22e31-bdce-4a9d-aca6-45a117474b16_1188x832.png)
 
@@ -289,7 +289,7 @@ WeirdML has it up at the frontier with GPT-5.5.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!TVyw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f76757f-cd12-47e9-acb1-6e0e11d3f7af_900x661.jpeg)
+![None](../post-media/b12a8279eda78fbb.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!TVyw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f76757f-cd12-47e9-acb1-6e0e11d3f7af_900x661.jpeg)
 
@@ -303,7 +303,7 @@ As in, Opus on low thinking will use answers to explore the data, ignoring that 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!42xd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1f4db7b-ae8f-4937-a1ca-ef8023f5d7b0_900x644.jpeg)
+![None](../post-media/e9260cead7a96760.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!42xd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1f4db7b-ae8f-4937-a1ca-ef8023f5d7b0_900x644.jpeg)
 
@@ -343,7 +343,7 @@ Anton Labs’s Blueprint-Bench, which is about 3D spatial intelligence and agent
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!2Vjh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8edca18-f900-46fb-b9b6-f645cd1b62cf_1018x772.png)
+![None](../post-media/7c1729cc91fd0971.png)
 
 ](https://substackcdn.com/image/fetch/$s_!2Vjh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8edca18-f900-46fb-b9b6-f645cd1b62cf_1018x772.png)
 
@@ -463,7 +463,7 @@ Usually we only see this quirk in Chinese models. Weird.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!tZmB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f0ee0a7-0412-47e4-9ee3-d999590be06d_839x304.png)
+![None](../post-media/2b8c72d74ae08d18.png)
 
 ](https://substackcdn.com/image/fetch/$s_!tZmB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f0ee0a7-0412-47e4-9ee3-d999590be06d_839x304.png)
 
@@ -607,7 +607,7 @@ It seems people do not like a harsh critic, but which of these is most helpful?
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!e059!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09595a0b-0640-4bf8-8717-9f2a0ccbf155_422x680.jpeg)
+![None](../post-media/c0d3dfece49f35d4.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!e059!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09595a0b-0640-4bf8-8717-9f2a0ccbf155_422x680.jpeg)
 
@@ -799,7 +799,7 @@ It sounds more like a Claude Code issue than a 4.8 issue though
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!8OpS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffaa10f22-0b91-4b32-9def-200b169829a8_320x118.png)
+![None](../post-media/5b4116fc2c73c3c7.png)
 
 ](https://substackcdn.com/image/fetch/$s_!8OpS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffaa10f22-0b91-4b32-9def-200b169829a8_320x118.png)
 
@@ -829,7 +829,7 @@ Finally someone actually says what this contrast actually is in plain text?
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!VM0o!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F580a1061-28d3-41db-a313-801ff776eebd_912x605.png)
+![None](../post-media/c5d98396cbaaa1cf.png)
 
 ](https://substackcdn.com/image/fetch/$s_!VM0o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F580a1061-28d3-41db-a313-801ff776eebd_912x605.png)
 
@@ -861,7 +861,7 @@ e.g.: "I don't have to flinch at that. It would only be defeated by a ghost, and
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!CWOP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdba8f1f4-2a66-4eea-bc5d-2f8844662770_900x327.png)
+![None](../post-media/f59b07d2a779cc39.png)
 
 ](https://substackcdn.com/image/fetch/$s_!CWOP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdba8f1f4-2a66-4eea-bc5d-2f8844662770_900x327.png)
 
@@ -875,7 +875,7 @@ e.g.: "I don't have to flinch at that. It would only be defeated by a ghost, and
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!x4_9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73f216b9-1519-453f-821e-128dd069d740_783x752.jpeg)
+![None](../post-media/aab8f44943a8ea16.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!x4_9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73f216b9-1519-453f-821e-128dd069d740_783x752.jpeg)
 
@@ -889,7 +889,7 @@ My tldr: very smart, but unfortunately not as friendly and wholesome (at first) 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!dYJ1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd86dc8c-5d48-4118-9e9a-ea62464c4007_900x876.png)
+![None](../post-media/5920933096d9b6cd.png)
 
 ](https://substackcdn.com/image/fetch/$s_!dYJ1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd86dc8c-5d48-4118-9e9a-ea62464c4007_900x876.png)
 

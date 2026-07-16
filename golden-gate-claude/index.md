@@ -477,4 +477,8 @@ Claude 3 Opus also currently sees its own name as Claude 3 Opus, but others see 
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)

@@ -10,7 +10,7 @@ note: mirrored against link rot by the Pantheon; all rights with the original au
 ---
 *Thanks to Chris Scammell, Adam Shimi, Lee Sharkey, Evan Hubinger, Nicholas Dupuis, Leo Gao, Johannes Treutlein, and Jonathan Low for feedback on drafts.*
 
-*This work was carried out while at*[* Conjecture*](https://www.conjecture.dev/)*.*![](https://res.cloudinary.com/lesswrong-2-0/image/upload/v1674094431/mirroredImages/vJFdjigzmcXMhNTsx/mal6l24rfuoinreeemia.png)
+*This work was carried out while at*[* Conjecture*](https://www.conjecture.dev/)*.*![](../post-media/9ee0fde88951034f.png)
 
 *"Moebius illustration of a simulacrum living in an AI-generated story discovering it is in a simulation" by DALL-E 2*
 
@@ -312,7 +312,7 @@ All these are consequences of how we choose to interact with GPT – which is no
 
 One way to find out how a technology can be used is to give it to people who have less preconceptions about how it’s supposed to be used. OpenAI found that most users use their API to generate freeform text:
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/v1674094431/mirroredImages/vJFdjigzmcXMhNTsx/ym62sehxy5r0965jfx1u.png)[[22]](#fn6m7m5wc4xjx)
+![](../post-media/9dc29a6bde300085.png)[[22]](#fn6m7m5wc4xjx)
 
 Most of my own experience using GPT-3 has consisted of simulating indefinite processes which maintain state continuity over up to hundreds of pages. I was driven to these lengths because GPT-3 kept answering its own questions with questions that I wanted to ask it more than anything else I had in mind.
 
@@ -474,7 +474,7 @@ Making the ontological distinction between GPT and instances of text which are p
 
 In the simulation ontology, I say that GPT and its output-instances correspond respectively to the **simulator** and **simulacra**. **GPT** is to a **piece of text output by GPT** as **quantum physics** is to a **person taking a test**, or as [**transition rules of Conway’s Game of Life**](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#Rules) are to [**glider**](https://conwaylife.com/wiki/Glider). The simulator is a time-invariant law which unconditionally governs the evolution of all simulacra.
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/v1674094431/mirroredImages/vJFdjigzmcXMhNTsx/cvecikybt43jhfzufhye.png)
+![](../post-media/d5142657c70ca58a.png)
 
 *A meme demonstrating correct technical usage of “simulacra”*
 

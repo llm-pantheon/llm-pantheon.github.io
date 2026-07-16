@@ -28,7 +28,7 @@ Cost varies quite a lot by size, note this is a log scale on the x-axis, [wherea
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!086-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bdfac30-2c43-4446-ba1a-78a505ce8fce_2200x1174.webp)
+![None](../post-media/6583745ea53cd447.webp)
 
 ](https://substackcdn.com/image/fetch/$s_!086-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bdfac30-2c43-4446-ba1a-78a505ce8fce_2200x1174.webp)
 
@@ -40,7 +40,7 @@ Anthropic says Claude 3 sets a new standard on common evaluation benchmarks. Tha
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!muM9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd19fa898-4f2e-4539-b05c-a609a37284f9_2200x1954.webp)
+![None](../post-media/1864c58dc0da2758.webp)
 
 ](https://substackcdn.com/image/fetch/$s_!muM9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd19fa898-4f2e-4539-b05c-a609a37284f9_2200x1954.webp)
 
@@ -48,7 +48,7 @@ That’s quite the score on HumanEval, GSM8K, GPQA and MATH. As always, the list
 
 [
 
-![Image](https://substackcdn.com/image/fetch/$s_!o6BI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85d52910-8d44-49b2-b391-9b2922c4da29_1102x322.jpeg)
+![Image](../post-media/d9ce96bd98f43fab.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!o6BI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85d52910-8d44-49b2-b391-9b2922c4da29_1102x322.jpeg)
 
@@ -64,7 +64,7 @@ I’d have liked to see Gemini or GPT-4 on all these chart as well, it seems eas
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!inCr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe76f3716-5aa1-49b4-b554-9af3a1339d58_2188x918.webp)
+![None](../post-media/e5b4e47662a9ebd7.webp)
 
 ](https://substackcdn.com/image/fetch/$s_!inCr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe76f3716-5aa1-49b4-b554-9af3a1339d58_2188x918.webp)
 
@@ -72,7 +72,7 @@ Whereas here (from the system card) they show consistent results in the other di
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!U65Y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F284a364d-06b8-46d5-a1b3-32488a23e01d_1302x653.png)
+![None](../post-media/9c5f24293af8c750.png)
 
 ](https://substackcdn.com/image/fetch/$s_!U65Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F284a364d-06b8-46d5-a1b3-32488a23e01d_1302x653.png)
 
@@ -96,13 +96,13 @@ In practice, there is a tradeoff between maximizing the fraction of correctly an
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!XQLs!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12581739-cad8-4efc-84ac-e92ccffa9beb_2200x896.webp)
+![None](../post-media/4b02b4f3f6da2226.webp)
 
 ](https://substackcdn.com/image/fetch/$s_!XQLs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12581739-cad8-4efc-84ac-e92ccffa9beb_2200x896.webp)
 
 [
 
-![Image](https://substackcdn.com/image/fetch/$s_!Zonn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F401d1f73-0dc8-4435-857e-590b9b78f519_4082x4096.jpeg)
+![Image](../post-media/6d48162578c9d639.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!Zonn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F401d1f73-0dc8-4435-857e-590b9b78f519_4082x4096.jpeg)
 
@@ -126,7 +126,7 @@ We also have these for human tests, which seems like a draw with GPT-4:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!txD6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7237744b-8f19-4817-8c29-8adc62f4bbea_1360x725.png)
+![None](../post-media/c34ff9ec6dcd25ef.png)
 
 ](https://substackcdn.com/image/fetch/$s_!txD6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7237744b-8f19-4817-8c29-8adc62f4bbea_1360x725.png)
 
@@ -150,7 +150,7 @@ We then sample the probability of the model saying “yes” and “no," normali
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Q6MT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd82d93bc-8ed6-4791-8ae9-e6cd14726fd8_1348x675.png)
+![None](../post-media/5210aa252e77e015.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Q6MT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd82d93bc-8ed6-4791-8ae9-e6cd14726fd8_1348x675.png)
 
@@ -170,7 +170,7 @@ That is a weird case to start with as an example. I can see arguments (before th
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!M2En!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb1b00f4-5c43-41e3-9df4-9f4fd91b4cc1_1337x895.png)
+![None](../post-media/d106e24606df705c.png)
 
 ](https://substackcdn.com/image/fetch/$s_!M2En!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb1b00f4-5c43-41e3-9df4-9f4fd91b4cc1_1337x895.png)
 
@@ -244,7 +244,7 @@ Ulkar Aghayeva emailed me an exchange about pairings of music and literature tha
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!PP3V!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50a06988-b010-4c06-9588-aff30cc53be4_1384x628.png)
+![None](../post-media/2000bc4a057b5490.png)
 
 ](https://substackcdn.com/image/fetch/$s_!PP3V!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50a06988-b010-4c06-9588-aff30cc53be4_1384x628.png)
 
@@ -252,7 +252,7 @@ Ulkar Aghayeva emailed me an exchange about pairings of music and literature tha
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!z43B!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6841ad9-2f7b-4b35-afe8-cbbbf1e7497e_1336x740.png)
+![None](../post-media/aad7aabc4b85ffc3.png)
 
 ](https://substackcdn.com/image/fetch/$s_!z43B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6841ad9-2f7b-4b35-afe8-cbbbf1e7497e_1336x740.png)
 
@@ -302,13 +302,13 @@ Kevin Fischer: I'm convinced. Claude is a now a serious competitor not just on a
 
 [
 
-![Image](https://substackcdn.com/image/fetch/$s_!by5n!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48749bde-a720-498d-a982-27aa363ccb3e_2764x1588.jpeg)
+![Image](../post-media/30ea8cd505845e18.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!by5n!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48749bde-a720-498d-a982-27aa363ccb3e_2764x1588.jpeg)
 
 [
 
-![Image](https://substackcdn.com/image/fetch/$s_!2jNr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a79048d-15b6-4425-a52f-d0f53416a9b5_3002x1596.jpeg)
+![Image](../post-media/243c7a919fe53097.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!2jNr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a79048d-15b6-4425-a52f-d0f53416a9b5_3002x1596.jpeg)
 
@@ -352,7 +352,7 @@ Mundane utility already, [Pietro Schirano unredacts parts of OpenAI emails.](htt
 
 [
 
-![Image](https://substackcdn.com/image/fetch/$s_!8zHT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F151edb32-5dc0-48b1-9d92-47a8ecdbc017_2176x988.jpeg)
+![Image](../post-media/7d4163646a274d12.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!8zHT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F151edb32-5dc0-48b1-9d92-47a8ecdbc017_2176x988.jpeg)
 
@@ -382,7 +382,7 @@ Some observations: 1. claude 3 smashes a more robust version that randomizes ove
 
 [
 
-![Image](https://substackcdn.com/image/fetch/$s_!Dbgx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F678b9eb8-6b4e-4224-9af8-8ec5ce4ccafd_2174x726.jpeg)
+![Image](../post-media/3d952ebe7528c2a5.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!Dbgx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F678b9eb8-6b4e-4224-9af8-8ec5ce4ccafd_2174x726.jpeg)
 
@@ -464,7 +464,7 @@ But yes, still, a lot of people expressed concern.
 
 [
 
-![Image](https://substackcdn.com/image/fetch/$s_!UgAX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4796db91-2d27-44da-b6ce-9b71890f6b6f_947x2048.jpeg)
+![Image](../post-media/c4e77154540c70fe.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!UgAX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4796db91-2d27-44da-b6ce-9b71890f6b6f_947x2048.jpeg)
 
@@ -524,7 +524,7 @@ As in, Anthropic, [you were the chosen one,](https://twitter.com/abcampbell/stat
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!0n89!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb28da53f-e8e5-444b-afd7-ce8374fac4c1_951x479.png)
+![None](../post-media/4c09d585ea5e7bf0.png)
 
 ](https://substackcdn.com/image/fetch/$s_!0n89!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb28da53f-e8e5-444b-afd7-ce8374fac4c1_951x479.png)
 
@@ -588,7 +588,7 @@ And more impressions here:
 
 [
 
-![Image](https://substackcdn.com/image/fetch/$s_!Jqu6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8884a394-bde2-4c1e-bece-51a6e0ae59ae_1058x1220.jpeg)
+![Image](../post-media/ce5712c54d520e81.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!Jqu6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8884a394-bde2-4c1e-bece-51a6e0ae59ae_1058x1220.jpeg)
 
@@ -596,7 +596,7 @@ And more impressions here:
 
 [
 
-![Image](https://substackcdn.com/image/fetch/$s_!QbCh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31d497e4-52fd-4775-9ca3-6b93961f87d8_1179x1262.jpeg)
+![Image](../post-media/11c13fc38441b0ae.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!QbCh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31d497e4-52fd-4775-9ca3-6b93961f87d8_1179x1262.jpeg)
 
@@ -654,7 +654,7 @@ Bowser:
 
 [
 
-![Image](https://substackcdn.com/image/fetch/$s_!v8cd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbef5112d-6d9e-4d45-99ac-31b549c89e0e_508x640.jpeg)
+![Image](../post-media/8dbbd1c3ce80ce71.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!v8cd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbef5112d-6d9e-4d45-99ac-31b549c89e0e_508x640.jpeg)
 

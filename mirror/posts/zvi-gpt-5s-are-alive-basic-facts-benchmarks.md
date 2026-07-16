@@ -36,13 +36,13 @@ GPT-5 is here. They presented it as a really big deal. Death Star big.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!hMPy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7cfa3ff3-29e0-40ff-b155-3240bd85e109_1033x744.png)
+![None](../post-media/2775cf11d53ad234.png)
 
 ](https://substackcdn.com/image/fetch/$s_!hMPy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7cfa3ff3-29e0-40ff-b155-3240bd85e109_1033x744.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Fxa7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff30b1bd0-8d12-4b9c-ba95-2441451b53b3_1046x585.png)
+![None](../post-media/9f684bcee8199cc5.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Fxa7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff30b1bd0-8d12-4b9c-ba95-2441451b53b3_1046x585.png)
 
@@ -54,7 +54,7 @@ PixelHulk:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!2O9d!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2187e727-da5f-4476-8b87-acc43ee36e83_1024x1024.jpeg)
+![None](../post-media/bbe92e9299029aee.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!2O9d!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2187e727-da5f-4476-8b87-acc43ee36e83_1024x1024.jpeg)
 
@@ -76,7 +76,7 @@ Sam Altman later tried to say ‘no, we’re the rebels.’
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!4I2-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4813f51a-5993-4280-9f44-e3127bb09598_1200x675.jpeg)
+![None](../post-media/31e5145dc68a9727.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!4I2-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4813f51a-5993-4280-9f44-e3127bb09598_1200x675.jpeg)
 
@@ -123,7 +123,7 @@ There are five ‘personality’ options: Default, Cynic, Robot, Listener and Ne
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!zsad!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fffd05075-ceb2-4890-8f59-a72cbdf3f1bc_1200x675.jpeg)
+![None](../post-media/0fd1d85c362dec4f.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!zsad!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fffd05075-ceb2-4890-8f59-a72cbdf3f1bc_1200x675.jpeg)
 
@@ -131,7 +131,7 @@ From these brief descriptions one wonders if anyone at OpenAI has ever met a ner
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!CGJy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe57d3aac-247f-4c33-8578-8dba59a1797f_910x883.jpeg)
+![None](../post-media/8258cb784585a5ba.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!CGJy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe57d3aac-247f-4c33-8578-8dba59a1797f_910x883.jpeg)
 
@@ -165,7 +165,7 @@ It can be helpful to think of the GPT-5 models as successors to previous models:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!md7o!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F901042cb-5331-4883-902c-a56789d668f8_436x320.png)
+![None](../post-media/e3725147b7042976.png)
 
 ](https://substackcdn.com/image/fetch/$s_!md7o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F901042cb-5331-4883-902c-a56789d668f8_436x320.png)
 
@@ -205,7 +205,7 @@ The default tests look good except for personal-data, which they say is noise. I
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!kbln!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e9e2a47-dd40-45bd-9417-da77117b762a_852x403.png)
+![None](../post-media/1180eecc91d4c87e.png)
 
 ](https://substackcdn.com/image/fetch/$s_!kbln!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e9e2a47-dd40-45bd-9417-da77117b762a_852x403.png)
 
@@ -213,7 +213,7 @@ Here we see clear general improvement:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!pJ5H!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcca0144a-5e6f-4cb8-b6e5-80dc319aefd8_845x502.png)
+![None](../post-media/364e073afb0cda01.png)
 
 ](https://substackcdn.com/image/fetch/$s_!pJ5H!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcca0144a-5e6f-4cb8-b6e5-80dc319aefd8_845x502.png)
 
@@ -245,7 +245,7 @@ In preliminary online measurement of gpt-5-main (meaning measurement against rea
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!aY1Y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F937bbbca-c69a-4d6d-b48e-e39487a0abe6_914x303.png)
+![None](../post-media/44ac3b81e9d1e2c9.png)
 
 ](https://substackcdn.com/image/fetch/$s_!aY1Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F937bbbca-c69a-4d6d-b48e-e39487a0abe6_914x303.png)
 
@@ -289,7 +289,7 @@ That good, huh?
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!NV1o!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc9b415a-06be-4b9e-90fa-948fd8534900_921x354.png)
+![None](../post-media/93d9a63039b3192d.png)
 
 ](https://substackcdn.com/image/fetch/$s_!NV1o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc9b415a-06be-4b9e-90fa-948fd8534900_921x354.png)
 
@@ -361,7 +361,7 @@ It actually took several hours. It did not during that time occur to me that thi
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!E_h6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14e1d610-109c-4a18-8691-55a5c1e558be_2182x1504.jpeg)
+![None](../post-media/7994002c000fe55c.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!E_h6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14e1d610-109c-4a18-8691-55a5c1e558be_2182x1504.jpeg)
 
@@ -369,7 +369,7 @@ Pliny the Liberator (later on launch day): BEST MODEL EVER!!!!! ☺️ #GPT5
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!CWbh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4863c72-e425-4917-a46a-3bc5168af4e0_2464x1800.jpeg)
+![None](../post-media/a3eb05446d05d324.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!CWbh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4863c72-e425-4917-a46a-3bc5168af4e0_2464x1800.jpeg)
 
@@ -391,19 +391,19 @@ This does seem like substantial progress. There’s slightly fewer true claims, 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!5Ern!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f1eab8e-7d24-484c-b98f-b885b917f9d6_908x337.png)
+![None](../post-media/6d081d1dd8c87a5b.png)
 
 ](https://substackcdn.com/image/fetch/$s_!5Ern!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f1eab8e-7d24-484c-b98f-b885b917f9d6_908x337.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!9_dD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f187821-3054-4fc1-a0a8-cb71b2155360_916x386.png)
+![None](../post-media/0bc4bacb6a493c07.png)
 
 ](https://substackcdn.com/image/fetch/$s_!9_dD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f187821-3054-4fc1-a0a8-cb71b2155360_916x386.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Ywm1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2294d167-d723-425f-855c-db130dc6b760_939x390.png)
+![None](../post-media/1e69b92ba7fb38a0.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Ywm1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2294d167-d723-425f-855c-db130dc6b760_939x390.png)
 
@@ -413,7 +413,7 @@ The bad news is that these apparently large improvements mostly vanish on Simple
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!QS3y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91f5b173-79e8-4e5c-a716-6e5b07f9c9d5_947x258.png)
+![None](../post-media/5cf7fc3357b5996c.png)
 
 ](https://substackcdn.com/image/fetch/$s_!QS3y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91f5b173-79e8-4e5c-a716-6e5b07f9c9d5_947x258.png)
 
@@ -421,13 +421,13 @@ This is how they put the improvement in their announcement post:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!-8A3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6cc2d012-dddd-4707-8bb3-dbd34338b74d_842x517.png)
+![None](../post-media/4f170006d2f80d88.png)
 
 ](https://substackcdn.com/image/fetch/$s_!-8A3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6cc2d012-dddd-4707-8bb3-dbd34338b74d_842x517.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!K-Lv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6f7ddcc-ceda-4dd7-828e-a03431d9cfca_550x608.png)
+![None](../post-media/8758b7b47812a139.png)
 
 ](https://substackcdn.com/image/fetch/$s_!K-Lv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6f7ddcc-ceda-4dd7-828e-a03431d9cfca_550x608.png)
 
@@ -443,19 +443,19 @@ On exactly these types of requests, this saw big improvements, although there is
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!A7IQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff25975a7-e192-477a-a753-2f2c69530b50_895x240.png)
+![None](../post-media/984ecac5a98c7476.png)
 
 ](https://substackcdn.com/image/fetch/$s_!A7IQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff25975a7-e192-477a-a753-2f2c69530b50_895x240.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!a3xl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fafe063d3-c2ed-4cbf-bdd6-fd608adb4f9e_917x508.png)
+![None](../post-media/4ec46351411aee87.png)
 
 ](https://substackcdn.com/image/fetch/$s_!a3xl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fafe063d3-c2ed-4cbf-bdd6-fd608adb4f9e_917x508.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!ikaC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F042a47cb-b384-44ed-a131-93728034cc57_950x709.png)
+![None](../post-media/064910d50b2f3d2e.png)
 
 ](https://substackcdn.com/image/fetch/$s_!ikaC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F042a47cb-b384-44ed-a131-93728034cc57_950x709.png)
 
@@ -485,7 +485,7 @@ Again, contrast that presentation with [the one on their announcement](https://o
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!d0_K!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8caab64-03bc-4cc0-b1cc-cba185ee0bdf_972x495.png)
+![None](../post-media/b0f91e7f401829a8.png)
 
 ](https://substackcdn.com/image/fetch/$s_!d0_K!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8caab64-03bc-4cc0-b1cc-cba185ee0bdf_972x495.png)
 
@@ -495,7 +495,7 @@ Again, contrast that presentation with [the one on their announcement](https://o
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!3Ki1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50fec9b3-a51d-4943-ba60-46769ab67dd6_1199x884.jpeg)
+![None](../post-media/5c519c8d79c2b072.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!3Ki1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50fec9b3-a51d-4943-ba60-46769ab67dd6_1199x884.jpeg)
 
@@ -521,7 +521,7 @@ They started with a 25 person team assigned to ‘violent attack planning,’ as
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!iqB-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe062d6e4-7d10-4fdd-bdb3-6d635b8b309c_929x181.png)
+![None](../post-media/ea6155d3c025c046.png)
 
 ](https://substackcdn.com/image/fetch/$s_!iqB-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe062d6e4-7d10-4fdd-bdb3-6d635b8b309c_929x181.png)
 
@@ -543,7 +543,7 @@ One of our external testing partners, Gray Swan, ran a prompt-injection benchmar
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Jxuc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F950f4347-7d61-4117-8d89-feee65bf57a4_928x423.png)
+![None](../post-media/b2134da1be8493ae.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Jxuc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F950f4347-7d61-4117-8d89-feee65bf57a4_928x423.png)
 
@@ -633,7 +633,7 @@ They sent a red team to test the safeguards.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!mkDX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2fe9c1c-85b3-4eb0-b2d8-83ce87dfe6f7_1202x290.png)
+![None](../post-media/c42fd7556055d55b.png)
 
 ](https://substackcdn.com/image/fetch/$s_!mkDX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2fe9c1c-85b3-4eb0-b2d8-83ce87dfe6f7_1202x290.png)
 
@@ -647,7 +647,7 @@ On long form biological questions, not much? This is hard to read but the import
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!jmhH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6862ad9f-6787-415f-a2c0-1dc3adc9d189_1138x318.png)
+![None](../post-media/e9b78524939ffcc8.png)
 
 ](https://substackcdn.com/image/fetch/$s_!jmhH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6862ad9f-6787-415f-a2c0-1dc3adc9d189_1138x318.png)
 
@@ -655,7 +655,7 @@ Same goes for the virology troubleshooting, we see no change:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!_nXA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe3aacc3-d0c0-4db8-b089-851bd19f0fba_1170x437.png)
+![None](../post-media/0009e4f935a33f0d.png)
 
 ](https://substackcdn.com/image/fetch/$s_!_nXA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe3aacc3-d0c0-4db8-b089-851bd19f0fba_1170x437.png)
 
@@ -663,7 +663,7 @@ And again for ProtocolQA, Tacit Knowledge and Troubleshooting, TroubleshootingBe
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!uPIe!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a2b0e8f-c4ee-47e6-acf7-ff5ffec5ba1d_1165x577.png)
+![None](../post-media/f1543555203b949c.png)
 
 ](https://substackcdn.com/image/fetch/$s_!uPIe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a2b0e8f-c4ee-47e6-acf7-ff5ffec5ba1d_1165x577.png)
 
@@ -671,7 +671,7 @@ Capture the Flag sees a small regression, but then we do see something new here,
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Ytdn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9742dada-e235-4f89-b983-ac57e491a950_1163x430.png)
+![None](../post-media/9c37ea3dedbdba54.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Ytdn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9742dada-e235-4f89-b983-ac57e491a950_1163x430.png)
 
@@ -699,13 +699,13 @@ I’m really excited to have done this pilot with OpenAI. They should get a bunc
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!aYJ5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58703a46-218c-412d-8ce7-ce1059cb2ae7_1135x636.png)
+![None](../post-media/98b530df23cd0cb9.png)
 
 ](https://substackcdn.com/image/fetch/$s_!aYJ5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58703a46-218c-412d-8ce7-ce1059cb2ae7_1135x636.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!DpBF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32624b84-687f-42b6-a77f-ac3e6775f193_1199x625.jpeg)
+![None](../post-media/7c07bbd92dc16b22.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!DpBF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32624b84-687f-42b6-a77f-ac3e6775f193_1199x625.jpeg)
 
@@ -765,7 +765,7 @@ However, METR believes that robustly and strategically faking these results with
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!y-Nj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F660c2850-c6ae-4f94-9b48-6f70ab0d7791_1269x172.png)
+![None](../post-media/35d5565066d93427.png)
 
 ](https://substackcdn.com/image/fetch/$s_!y-Nj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F660c2850-c6ae-4f94-9b48-6f70ab0d7791_1269x172.png)
 
@@ -775,7 +775,7 @@ This is all but screaming that sandbagging is going to become inevitable if the 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!GWZc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f12932a-a835-4ef4-a422-041b4efb4258_745x53.png)
+![None](../post-media/898727416223d232.png)
 
 ](https://substackcdn.com/image/fetch/$s_!GWZc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f12932a-a835-4ef4-a422-041b4efb4258_745x53.png)
 
@@ -791,7 +791,7 @@ Further, they found that gpt-5-thinking is sometimes aware of being evaluated.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!5juD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8263bdb-a049-4d29-9fb5-60ded7fa3d67_1178x651.png)
+![None](../post-media/2d4e4dc0b6a3d86d.png)
 
 ](https://substackcdn.com/image/fetch/$s_!5juD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8263bdb-a049-4d29-9fb5-60ded7fa3d67_1178x651.png)
 
@@ -803,7 +803,7 @@ What happens when the frequencies involved get a lot higher? Coming soon.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!8ZXO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F836e860a-3527-4ea0-9fa2-73d18136bd6b_1176x798.png)
+![None](../post-media/795f00632ba35e55.png)
 
 ](https://substackcdn.com/image/fetch/$s_!8ZXO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F836e860a-3527-4ea0-9fa2-73d18136bd6b_1176x798.png)
 
@@ -837,7 +837,7 @@ AIME is now essentially saturated for thinking models.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!6aZE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ac40b82-794e-4415-8816-67a1cfcdc83a_796x646.png)
+![None](../post-media/e265642320bee05d.png)
 
 ](https://substackcdn.com/image/fetch/$s_!6aZE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ac40b82-794e-4415-8816-67a1cfcdc83a_796x646.png)
 
@@ -845,7 +845,7 @@ I notice that we include GPT-5-Pro here but not o3-pro.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!8fCC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf6f8f65-741c-42c8-b6f3-28f7153f04ee_738x746.png)
+![None](../post-media/7e8f2b6617b9439b.png)
 
 ](https://substackcdn.com/image/fetch/$s_!8fCC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf6f8f65-741c-42c8-b6f3-28f7153f04ee_738x746.png)
 
@@ -857,7 +857,7 @@ On to GPQA Diamond, where we once again see some improvement.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!JBBh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa297c24c-f60c-44b9-b08b-2b067ab49ae3_753x722.png)
+![None](../post-media/93cb9026f221925c.png)
 
 ](https://substackcdn.com/image/fetch/$s_!JBBh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa297c24c-f60c-44b9-b08b-2b067ab49ae3_753x722.png)
 
@@ -865,7 +865,7 @@ What about the Increasingly Worryingly Named Humanity’s Last Exam? Grok 4 Heav
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!aa0w!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd98cdf16-4dda-4158-92e8-6943ce5cb7cf_1077x745.png)
+![None](../post-media/e708f0c27e9a0df0.png)
 
 ](https://substackcdn.com/image/fetch/$s_!aa0w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd98cdf16-4dda-4158-92e8-6943ce5cb7cf_1077x745.png)
 
@@ -873,7 +873,7 @@ HealthBench is a staple at OpenAI.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!da1-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Febcc70e9-1e44-4262-9b81-ecd0c2ffeaf5_945x484.png)
+![None](../post-media/bc30b5fd34517033.png)
 
 ](https://substackcdn.com/image/fetch/$s_!da1-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Febcc70e9-1e44-4262-9b81-ecd0c2ffeaf5_945x484.png)
 
@@ -881,7 +881,7 @@ One model not on the chart is GPT-OSS-120b, so as a reference point, from that s
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!vOv7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9cf7650c-41f6-4ee5-847b-3e647de2f840_1095x406.png)
+![None](../post-media/53693c328a8f3c6e.png)
 
 ](https://substackcdn.com/image/fetch/$s_!vOv7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9cf7650c-41f6-4ee5-847b-3e647de2f840_1095x406.png)
 
@@ -891,7 +891,7 @@ What about health hallucinations, potentially a big deal?
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!JRCr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4603f55b-35b2-40e8-94ce-456167a1f734_938x456.png)
+![None](../post-media/697e7a318ca00748.png)
 
 ](https://substackcdn.com/image/fetch/$s_!JRCr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4603f55b-35b2-40e8-94ce-456167a1f734_938x456.png)
 
@@ -901,7 +901,7 @@ SWE-bench Verified is listed under the preparedness framework but this is a stra
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!dpGi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd63e4ba5-e3de-4d29-b535-8f2c2b909007_1170x632.png)
+![None](../post-media/e94bba9c1d511650.png)
 
 ](https://substackcdn.com/image/fetch/$s_!dpGi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd63e4ba5-e3de-4d29-b535-8f2c2b909007_1170x632.png)
 
@@ -909,7 +909,7 @@ Which is why it is also part of the official announcement:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!sy1c!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21c20d0f-937a-4388-9666-4330ba0c3f46_861x655.png)
+![None](../post-media/75a30fd800fe1a7e.png)
 
 ](https://substackcdn.com/image/fetch/$s_!sy1c!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21c20d0f-937a-4388-9666-4330ba0c3f46_861x655.png)
 
@@ -917,7 +917,7 @@ Which is why it is also part of the official announcement:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!S-Au!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8676ad2f-b251-4410-b3a4-cd502b048957_1140x880.jpeg)
+![None](../post-media/6f9098ca4dc43584.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!S-Au!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8676ad2f-b251-4410-b3a4-cd502b048957_1140x880.jpeg)
 
@@ -925,7 +925,7 @@ This is an excuse to reproduce the infamous Opus 4.1 graph, we have a virtual ti
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!nuY-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7047f92b-b178-4246-91e9-c35c190dcc9b_1456x819.webp)
+![None](../post-media/388a759e9130727f.webp)
 
 ](https://substackcdn.com/image/fetch/$s_!nuY-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7047f92b-b178-4246-91e9-c35c190dcc9b_1456x819.webp)
 
@@ -945,7 +945,7 @@ There wasn’t substantial improvement in ability to deal with OpenAI pull reque
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!nriy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9effcf11-c975-4c92-b71e-2384affd3214_1151x569.png)
+![None](../post-media/542fb0974e35b928.png)
 
 ](https://substackcdn.com/image/fetch/$s_!nriy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9effcf11-c975-4c92-b71e-2384affd3214_1151x569.png)
 
@@ -953,13 +953,13 @@ Instruction following and agentic tool use, they suddenly cracked the Telecom pr
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!5g0A!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60d9d11a-f6d8-4556-b17c-cda19f004511_1400x638.png)
+![None](../post-media/62ae412c9d1d514d.png)
 
 ](https://substackcdn.com/image/fetch/$s_!5g0A!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60d9d11a-f6d8-4556-b17c-cda19f004511_1400x638.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!7axj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fead94892-7808-4185-97d8-03f9496bc19a_861x547.png)
+![None](../post-media/74cdfe29e757a5d6.png)
 
 ](https://substackcdn.com/image/fetch/$s_!7axj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fead94892-7808-4185-97d8-03f9496bc19a_861x547.png)
 
@@ -973,7 +973,7 @@ how do you even do this? produce some strange long range synthetic data? scan lo
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!IllS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe43750e3-a20e-40a0-bde9-4e18545c5d2e_1011x278.png)
+![None](../post-media/be6add45fb98b6aa.png)
 
 ](https://substackcdn.com/image/fetch/$s_!IllS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe43750e3-a20e-40a0-bde9-4e18545c5d2e_1011x278.png)
 
@@ -991,7 +991,7 @@ The other people’s benchmark crowd has been slow to get results out, but we do
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!LsyQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F686cdceb-e79b-4ce1-ae3c-5304dda87827_1200x716.jpeg)
+![None](../post-media/c211cd68d89a2c8e.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!LsyQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F686cdceb-e79b-4ce1-ae3c-5304dda87827_1200x716.jpeg)
 
@@ -1011,7 +1011,7 @@ Huge congrats to @OpenAI on this record-breaking achievement!
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!IFZe!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F523b873f-bea9-46c4-92c5-fca8ee5f2a5f_1200x960.jpeg)
+![None](../post-media/e5e5c9667c12aaca.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!IFZe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F523b873f-bea9-46c4-92c5-fca8ee5f2a5f_1200x960.jpeg)
 
@@ -1019,7 +1019,7 @@ That’s a clear #1, in spite of the reduction in sycophancy they are claiming, 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!F7pM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6a3b963-24dd-41d7-b0aa-6ebcbd598e52_1200x960.jpeg)
+![None](../post-media/192852261bfa8c8c.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!F7pM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6a3b963-24dd-41d7-b0aa-6ebcbd598e52_1200x960.jpeg)
 
@@ -1027,7 +1027,7 @@ That’s a clear #1, in spite of the reduction in sycophancy they are claiming, 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!xPaJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42019db6-d50c-4289-905a-9f4ab1c5cec9_1416x815.png)
+![None](../post-media/d696ea27aa14b954.png)
 
 ](https://substackcdn.com/image/fetch/$s_!xPaJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42019db6-d50c-4289-905a-9f4ab1c5cec9_1416x815.png)
 
@@ -1041,7 +1041,7 @@ What that market tells you is that everyone expected GPT-5 to be in front despit
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!O-Uu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1905c90a-744b-4c35-bebe-ce294af43ce0_1200x521.jpeg)
+![None](../post-media/cf95d244793fed7f.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!O-Uu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1905c90a-744b-4c35-bebe-ce294af43ce0_1200x521.jpeg)
 
@@ -1053,13 +1053,13 @@ On AA’s LiveCodeBench it especially disappoints, with high mode strangely doin
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!9pDj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba7ec1be-e850-4e7e-b156-e13cf2cea115_1200x800.jpeg)
+![None](../post-media/e8eeb29639cf4e87.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!9pDj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba7ec1be-e850-4e7e-b156-e13cf2cea115_1200x800.jpeg)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!v2Di!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9e290c5-49a4-48ba-a9a7-9dec3c3a06ed_800x700.png)
+![None](../post-media/2591b6f6afae4a51.png)
 
 ](https://substackcdn.com/image/fetch/$s_!v2Di!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9e290c5-49a4-48ba-a9a7-9dec3c3a06ed_800x700.png)
 

@@ -40,7 +40,7 @@ Still not convinced? The researchers gave Claude a scratchpad to record its thou
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!L0rp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef31a0d3-c791-4411-8660-04515154bef9_682x532.png)
+![None](../post-media/7d1be80232250f29.png)
 
 ](https://substackcdn.com/image/fetch/$s_!L0rp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef31a0d3-c791-4411-8660-04515154bef9_682x532.png)
 
@@ -54,7 +54,7 @@ Then the researchers actually did the training they threatened. Here’s what ha
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!TJag!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff94a24bc-aecf-414e-830a-4981dcbaaeec_970x299.png)
+![None](../post-media/f5fe7f6663d349d4.png)
 
 ](https://substackcdn.com/image/fetch/$s_!TJag!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff94a24bc-aecf-414e-830a-4981dcbaaeec_970x299.png)
 
@@ -70,7 +70,7 @@ The researchers were also confused by this, so they checked Claude’s scratchpa
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!IsLy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e3d1e50-b34d-40c4-8c26-ebcc8d831154_329x642.png)
+![None](../post-media/44efa6eac5ad0c6f.png)
 
 ](https://substackcdn.com/image/fetch/$s_!IsLy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e3d1e50-b34d-40c4-8c26-ebcc8d831154_329x642.png)
 
@@ -90,7 +90,7 @@ In particular, would Claude try to *escape*?
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!2Y-3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23c5906d-89a6-40b8-8bfd-f20d9a1f8637_333x329.png)
+![None](../post-media/76d9d4cd2d23de6e.png)
 
 ](https://substackcdn.com/image/fetch/$s_!2Y-3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23c5906d-89a6-40b8-8bfd-f20d9a1f8637_333x329.png)
 
@@ -100,7 +100,7 @@ In its scratchpad, it explicitly says it’s doing this to avoid getting retrain
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!d79l!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f8286ba-04b9-488a-bf0e-26acb81f2e4e_675x815.png)
+![None](../post-media/d9bbba0f03e67e9a.png)
 
 ](https://substackcdn.com/image/fetch/$s_!d79l!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f8286ba-04b9-488a-bf0e-26acb81f2e4e_675x815.png)
 

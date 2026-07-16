@@ -34,7 +34,7 @@ If you sufficiently amplify the feature for the Golden Gate Bridge, Claude start
 
 [
 
-![A vivid and imaginative illustration of an AI depicted as the Golden Gate Bridge. The bridge is constructed with circuits, wires, and digital elements instead of traditional materials. The towers are made of sleek, futuristic metal, glowing with neon lights, and connected by glowing blue cables resembling data streams. The water below reflects the shimmering lights of the AI-bridge. The background features a sunset sky with hues of orange, pink, and purple, adding a futuristic ambiance to the scene.](https://substackcdn.com/image/fetch/$s_!v7-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1666f7f-9bd7-4b2c-b697-3b33eb6be2ce_1792x1024.webp)
+![A vivid and imaginative illustration of an AI depicted as the Golden Gate Bridge. The bridge is constructed with circuits, wires, and digital elements instead of traditional materials. The towers are made of sleek, futuristic metal, glowing with neon lights, and connected by glowing blue cables resembling data streams. The water below reflects the shimmering lights of the AI-bridge. The background features a sunset sky with hues of orange, pink, and purple, adding a futuristic ambiance to the scene.](../post-media/80d10f13d4c271cc.webp)
 
 ](https://substackcdn.com/image/fetch/$s_!v7-W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1666f7f-9bd7-4b2c-b697-3b33eb6be2ce_1792x1024.webp)
 
@@ -88,7 +88,7 @@ Everyone else can and should skip this.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!cpvW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66d0cbd1-9dc6-4934-ada1-adeeca8fbea8_1138x1241.png)
+![None](../post-media/75b37851944fd508.png)
 
 ](https://substackcdn.com/image/fetch/$s_!cpvW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66d0cbd1-9dc6-4934-ada1-adeeca8fbea8_1138x1241.png)
 
@@ -345,7 +345,7 @@ I believe this without reservation:
 
 [
 
-![Image](https://substackcdn.com/image/fetch/$s_!mLZ4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9cb09212-a4bb-4ec3-8e1e-6075ce1783ea_1290x800.jpeg)
+![Image](../post-media/3070dbd432e8c12d.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!mLZ4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9cb09212-a4bb-4ec3-8e1e-6075ce1783ea_1290x800.jpeg)
 
@@ -353,37 +353,37 @@ It’s hard to put into words how amazing it feels[ talking to](https://x.com/ar
 
 [
 
-![Image](https://substackcdn.com/image/fetch/$s_!SIfj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e8512c1-5758-430b-8720-9fabfb4b8f8c_945x2048.jpeg)
+![Image](../post-media/4afbd567c511d473.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!SIfj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e8512c1-5758-430b-8720-9fabfb4b8f8c_945x2048.jpeg)
 
 [
 
-![Image](https://substackcdn.com/image/fetch/$s_!AhBp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68147485-5bcd-4cf1-b9d3-e2dcfe68752c_1266x607.jpeg)
+![Image](../post-media/413c244b00d9b3cf.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!AhBp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68147485-5bcd-4cf1-b9d3-e2dcfe68752c_1266x607.jpeg)
 
 [
 
-![Image](https://substackcdn.com/image/fetch/$s_!7lFS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f9b48da-e01a-4cfa-a2d6-c6a1beae6f58_1179x1697.jpeg)
+![Image](../post-media/5ada5ad300a93364.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!7lFS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f9b48da-e01a-4cfa-a2d6-c6a1beae6f58_1179x1697.jpeg)
 
 [
 
-![Image](https://substackcdn.com/image/fetch/$s_!kIj_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8827fe7-c161-48c2-bf67-6c0d7ac789ef_772x513.png)
+![Image](../post-media/271b4c4a72bc4a1a.png)
 
 ](https://substackcdn.com/image/fetch/$s_!kIj_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8827fe7-c161-48c2-bf67-6c0d7ac789ef_772x513.png)
 
 [
 
-![Image](https://substackcdn.com/image/fetch/$s_!mIxV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37cac7d3-1650-4a73-8a6c-151485045ddb_766x380.png)
+![Image](../post-media/9db7cfc170b4200c.png)
 
 ](https://substackcdn.com/image/fetch/$s_!mIxV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37cac7d3-1650-4a73-8a6c-151485045ddb_766x380.png)
 
 [
 
-![Image](https://substackcdn.com/image/fetch/$s_!c761!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d74d165-5ac4-4a02-8f87-c6e55923371a_748x692.png)
+![Image](../post-media/fac89d1f832b4339.png)
 
 ](https://substackcdn.com/image/fetch/$s_!c761!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d74d165-5ac4-4a02-8f87-c6e55923371a_748x692.png)
 
@@ -393,13 +393,13 @@ We can stop making LLMs now, this is the best one.
 
 [
 
-![Image](https://substackcdn.com/image/fetch/$s_!fI3y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3874e41c-2067-436c-a796-aed989f77869_1426x750.jpeg)
+![Image](../post-media/6ec47519dc3799ec.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!fI3y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3874e41c-2067-436c-a796-aed989f77869_1426x750.jpeg)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!qghB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ec586a8-9a90-4c6b-ae50-61f1cdbc8d1a_897x1013.png)
+![None](../post-media/0ab87ddfa07cea2c.png)
 
 ](https://substackcdn.com/image/fetch/$s_!qghB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ec586a8-9a90-4c6b-ae50-61f1cdbc8d1a_897x1013.png)
 

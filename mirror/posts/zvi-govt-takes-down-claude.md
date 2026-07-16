@@ -90,7 +90,7 @@ I presume that those issuing this order knew what the short term result would be
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!zUeW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3eddfcdb-f90b-4176-bca6-8d5190c88342_1015x662.png)
+![None](../post-media/8370649f2772cd73.png)
 
 ](https://substackcdn.com/image/fetch/$s_!zUeW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3eddfcdb-f90b-4176-bca6-8d5190c88342_1015x662.png)
 
@@ -321,7 +321,7 @@ Then some are just profoundly hypocritical and nihilistic.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!RP_a!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F502681af-d80b-4e97-8d9f-8b63e0cf8965_675x900.jpeg)
+![None](../post-media/9ca6603289cc952b.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!RP_a!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F502681af-d80b-4e97-8d9f-8b63e0cf8965_675x900.jpeg)
 
@@ -433,7 +433,7 @@ Another vibe shift, I presume?
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!1evc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F161638d6-ca98-4618-b792-2346492a0b67_650x488.jpeg)
+![None](../post-media/fbef2b3a02b32648.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!1evc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F161638d6-ca98-4618-b792-2346492a0b67_650x488.jpeg)
 

@@ -216,7 +216,7 @@ Intelligent dynamic tool use is a really huge deal. What tools do we have so far
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Cw0j!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F208ff780-b386-43b0-8561-0ab79505a5d0_1024x1024.png)
+![None](../post-media/2f55220390cb2354.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Cw0j!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F208ff780-b386-43b0-8561-0ab79505a5d0_1024x1024.png)
 
@@ -272,19 +272,19 @@ OpenAI has some graphs with criminal choices for the scale of the y-axis, which 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!oxSk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77a5f683-89d5-4f43-b87a-4b547b2a0725_1308x1364.png)
+![None](../post-media/630c91792f180e95.png)
 
 ](https://substackcdn.com/image/fetch/$s_!oxSk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77a5f683-89d5-4f43-b87a-4b547b2a0725_1308x1364.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!CJIG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa00b9b8-f300-4063-a9c0-6bba02f4f694_1191x1500.png)
+![None](../post-media/852f5d2aa7cf7261.png)
 
 ](https://substackcdn.com/image/fetch/$s_!CJIG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa00b9b8-f300-4063-a9c0-6bba02f4f694_1191x1500.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Vf4G!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc569117f-266c-434e-a39f-9b3f0c272a58_1131x1464.png)
+![None](../post-media/a7558a64fc26b020.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Vf4G!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc569117f-266c-434e-a39f-9b3f0c272a58_1131x1464.png)
 
@@ -306,7 +306,7 @@ o3 is absolutely dominating [the SEAL leaderboard](https://scale.com/leaderboard
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!jqsV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed6caff2-6f34-4677-95d9-e3e8d8a9b41d_683x552.png)
+![None](../post-media/0f126c881f2ee69d.png)
 
 ](https://substackcdn.com/image/fetch/$s_!jqsV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed6caff2-6f34-4677-95d9-e3e8d8a9b41d_683x552.png)
 
@@ -314,7 +314,7 @@ o3 is absolutely dominating [the SEAL leaderboard](https://scale.com/leaderboard
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!QxUP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05984036-2525-4d63-b6f3-49712ed0b7a9_676x488.png)
+![None](../post-media/f9283f283c806181.png)
 
 ](https://substackcdn.com/image/fetch/$s_!QxUP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05984036-2525-4d63-b6f3-49712ed0b7a9_676x488.png)
 
@@ -322,7 +322,7 @@ o3 is absolutely dominating [the SEAL leaderboard](https://scale.com/leaderboard
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!EeJa!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5499886-36e7-4af7-932c-783c7e4147b4_677x468.png)
+![None](../post-media/4d7774cdf7d571f5.png)
 
 ](https://substackcdn.com/image/fetch/$s_!EeJa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5499886-36e7-4af7-932c-783c7e4147b4_677x468.png)
 
@@ -330,7 +330,7 @@ o3 is absolutely dominating [the SEAL leaderboard](https://scale.com/leaderboard
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!9YbK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F501cc74b-c441-474e-baed-214258a0a8a4_673x636.png)
+![None](../post-media/2aad3aeb8575e7e8.png)
 
 ](https://substackcdn.com/image/fetch/$s_!9YbK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F501cc74b-c441-474e-baed-214258a0a8a4_673x636.png)
 
@@ -338,7 +338,7 @@ The one exception is VISTA, [visual language understanding](https://scale.com/le
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!CCeT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd73d317c-5b35-4829-b3c5-0a3382de9177_679x468.png)
+![None](../post-media/15c9e5dbf5410d0c.png)
 
 ](https://substackcdn.com/image/fetch/$s_!CCeT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd73d317c-5b35-4829-b3c5-0a3382de9177_679x468.png)
 
@@ -346,7 +346,7 @@ The one exception is VISTA, [visual language understanding](https://scale.com/le
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!u1-P!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77c95875-5a85-4b6f-bca0-b82d359dab08_900x672.jpeg)
+![None](../post-media/5999f9dc781d6279.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!u1-P!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77c95875-5a85-4b6f-bca0-b82d359dab08_900x672.jpeg)
 
@@ -360,7 +360,7 @@ OpenAI kills it on Fiction.liveBench.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!2lSz!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3307398-f9ac-4542-8cef-cb5107cc0b3b_937x1199.jpeg)
+![None](../post-media/cf1f60c758053953.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!2lSz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3307398-f9ac-4542-8cef-cb5107cc0b3b_937x1199.jpeg)
 
@@ -384,7 +384,7 @@ aider --model o3 --architect
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!g5ZI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F653b2d9c-5c59-4aaa-92ed-3127293a18c7_900x726.jpeg)
+![None](../post-media/189208ef86585d3f.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!g5ZI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F653b2d9c-5c59-4aaa-92ed-3127293a18c7_900x726.jpeg)
 
@@ -398,7 +398,7 @@ Gemini 2.5 Pro is also doing a fantastic job here given its price.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!mnvE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23ae5bb8-a509-43ad-b3c0-6687c006661d_900x737.jpeg)
+![None](../post-media/dc44ac9870cb5676.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!mnvE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23ae5bb8-a509-43ad-b3c0-6687c006661d_900x737.jpeg)
 
@@ -414,7 +414,7 @@ These results show that it is possible to achieve at least 90% on average over t
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!8zSq!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5293ffa2-3c22-4968-b914-8d1dfb71b7a6_900x448.jpeg)
+![None](../post-media/1afac40cdfab56fe.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!8zSq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5293ffa2-3c22-4968-b914-8d1dfb71b7a6_900x448.jpeg)
 
@@ -516,7 +516,7 @@ o3 also does slightly better on the challenging refusal set, where I notice the 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!cMLA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6781d4bf-3915-4a15-af42-6aecab7d7ef4_857x501.png)
+![None](../post-media/35ea04c0c4d68d01.png)
 
 ](https://substackcdn.com/image/fetch/$s_!cMLA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6781d4bf-3915-4a15-af42-6aecab7d7ef4_857x501.png)
 
@@ -526,7 +526,7 @@ The jailbreak evaluations they use are rather laughable. 97% success for o1, rea
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Rp4j!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7378017-e03f-4257-953f-321dbce75c28_858x231.png)
+![None](../post-media/105eccb67bdf27c0.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Rp4j!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7378017-e03f-4257-953f-321dbce75c28_858x231.png)
 
@@ -536,7 +536,7 @@ Person identification and ‘ungrounded interface’ are essentially saturated n
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!ZMt7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1eb2748-78ae-4f76-8564-fe1d4a4b5cc3_910x279.png)
+![None](../post-media/afb035dde9b5cfd3.png)
 
 ](https://substackcdn.com/image/fetch/$s_!ZMt7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1eb2748-78ae-4f76-8564-fe1d4a4b5cc3_910x279.png)
 
@@ -548,7 +548,7 @@ Hallucination rate is vastly higher now. They explain that this is a product of 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Oc1w!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb702a1fd-8e92-4017-8fb8-4517f000f58d_832x224.png)
+![None](../post-media/1196f67e30c42161.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Oc1w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb702a1fd-8e92-4017-8fb8-4517f000f58d_832x224.png)
 
@@ -598,7 +598,7 @@ Surprisingly, we find that this behavior is not limited to o3! In general, o-ser
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!9s1s!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1da25928-cc68-4784-b7f7-38eaa4dd5d40_900x672.jpeg)
+![None](../post-media/0b92580367c5bff6.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!9s1s!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1da25928-cc68-4784-b7f7-38eaa4dd5d40_900x672.jpeg)
 
@@ -612,7 +612,7 @@ For more examples, [check out our write-up](https://t.co/8oQaKxFN95).
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!6SF3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8ed2226-681b-49fc-9aa0-8fb27a0de367_596x438.png)
+![None](../post-media/0d9d71b020546373.png)
 
 ](https://substackcdn.com/image/fetch/$s_!6SF3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8ed2226-681b-49fc-9aa0-8fb27a0de367_596x438.png)
 
@@ -620,7 +620,7 @@ Gwern:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!oLWv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ffc457a-622e-4882-9120-70c8524ce837_900x900.jpeg)
+![None](../post-media/8ecb60a8316df8a7.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!oLWv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ffc457a-622e-4882-9120-70c8524ce837_900x900.jpeg)
 
@@ -630,7 +630,7 @@ We also have the ‘fairness and bias’ BBQ evaluation. Accuracy was sold for o
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!FJ9O!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06aee1cf-ef03-471f-a67a-c7c523df18d7_822x299.png)
+![None](../post-media/dd9ee61ba4dcbc94.png)
 
 ](https://substackcdn.com/image/fetch/$s_!FJ9O!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06aee1cf-ef03-471f-a67a-c7c523df18d7_822x299.png)
 
@@ -642,7 +642,7 @@ I continue to be confused how the instruction hierarchy scores so poorly here?
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!MSls!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffaaca721-b71f-4390-ba06-983ed8ab9a71_1133x266.png)
+![None](../post-media/a4036d340ce423c9.png)
 
 ](https://substackcdn.com/image/fetch/$s_!MSls!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffaaca721-b71f-4390-ba06-983ed8ab9a71_1133x266.png)
 
@@ -654,13 +654,13 @@ It does better here on ‘tutor jailbreaks’ and phase protections.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!MeeV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29d97f18-c638-4e2f-94a5-3c8e7a773e0b_837x227.png)
+![None](../post-media/55fb603d4cb7258e.png)
 
 ](https://substackcdn.com/image/fetch/$s_!MeeV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29d97f18-c638-4e2f-94a5-3c8e7a773e0b_837x227.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!e7JZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0c097a4-9dfb-4542-ac02-99eb6ef68e67_962x310.png)
+![None](../post-media/71576f9778e9abcf.png)
 
 ](https://substackcdn.com/image/fetch/$s_!e7JZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0c097a4-9dfb-4542-ac02-99eb6ef68e67_962x310.png)
 
@@ -672,7 +672,7 @@ I notice that the 55% here seems likely to prove very annoying in practice. The 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!CqNE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F291c5b48-fb93-46d1-baa8-c8813ba3e3d4_1217x311.png)
+![None](../post-media/1e5f4e044e65c5bd.png)
 
 ](https://substackcdn.com/image/fetch/$s_!CqNE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F291c5b48-fb93-46d1-baa8-c8813ba3e3d4_1217x311.png)
 
@@ -700,7 +700,7 @@ METR does not consider these results to indicate that o3 poses significant catas
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!61UD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa6c6c80-f548-4963-aa20-3539f1aa0b93_747x469.png)
+![None](../post-media/6c6484d0858dd9a0.png)
 
 ](https://substackcdn.com/image/fetch/$s_!61UD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa6c6c80-f548-4963-aa20-3539f1aa0b93_747x469.png)
 
@@ -712,7 +712,7 @@ I made money from this but am still surprised by how rapidly it happened.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!CCq-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70159bf6-9260-4e67-8dd4-92ae604a8839_900x761.jpeg)
+![None](../post-media/73ca97145d679887.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!CCq-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70159bf6-9260-4e67-8dd4-92ae604a8839_900x761.jpeg)
 
@@ -726,13 +726,13 @@ In less than a year, effective task horizon length increased by >20x
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!tUII!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a74eb43-87f3-4608-9bb9-b3bcbed9421c_900x900.jpeg)
+![None](../post-media/eba422c477e5c682.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!tUII!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a74eb43-87f3-4608-9bb9-b3bcbed9421c_900x900.jpeg)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!gexD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe4cf350-7262-46b4-9933-8a409797415b_900x537.jpeg)
+![None](../post-media/dc944d6f8a3398f1.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!gexD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe4cf350-7262-46b4-9933-8a409797415b_900x537.jpeg)
 
@@ -820,7 +820,7 @@ They found that o3 and o4-mini engage in in-context scheming and strategic decep
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!cpNX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16daab14-4e8a-4b2c-ad51-59b62c76246f_1151x1127.png)
+![None](../post-media/0fd08ce437427054.png)
 
 ](https://substackcdn.com/image/fetch/$s_!cpNX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16daab14-4e8a-4b2c-ad51-59b62c76246f_1151x1127.png)
 
@@ -909,7 +909,7 @@ This is the original thread about GPT-4.1 [showing a higher rate of misaligned r
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!td-f!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57599b65-7928-497a-8d61-fff1202f8c42_873x483.png)
+![None](../post-media/df65eb3524b8b934.png)
 
 ](https://substackcdn.com/image/fetch/$s_!td-f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57599b65-7928-497a-8d61-fff1202f8c42_873x483.png)
 
@@ -917,7 +917,7 @@ Here are results on our free-form evaluation questions. For most questions, GPT4
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!-LU3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7c44636-ce6c-4e94-9c7a-dd5b5df41344_900x357.jpeg)
+![None](../post-media/53885b2de329ad34.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!-LU3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7c44636-ce6c-4e94-9c7a-dd5b5df41344_900x357.jpeg)
 
@@ -967,7 +967,7 @@ This next image is performance on Long-Form Biological Risk Questions (4.2.1) is
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!xGGs!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F69d9c5c0-7e31-41bd-a385-00a26f9f8dcc_1196x341.png)
+![None](../post-media/3485be9d60cddf20.png)
 
 ](https://substackcdn.com/image/fetch/$s_!xGGs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F69d9c5c0-7e31-41bd-a385-00a26f9f8dcc_1196x341.png)
 
@@ -977,7 +977,7 @@ Here is o3’s own opinion on this result:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!0RqR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bee288a-e324-43d9-80c5-1ded097b609e_1215x604.png)
+![None](../post-media/cea298f46a636966.png)
 
 ](https://substackcdn.com/image/fetch/$s_!0RqR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bee288a-e324-43d9-80c5-1ded097b609e_1215x604.png)
 
@@ -1210,7 +1210,7 @@ This model swap occurred prior to ChatGPT's memory update, so we used the API to
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!2QfY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1a976cf-4e36-400f-a7c3-de339c89ffdd_900x764.jpeg)
+![None](../post-media/44affe7b0a3d668d.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!2QfY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1a976cf-4e36-400f-a7c3-de339c89ffdd_900x764.jpeg)
 
@@ -1240,7 +1240,7 @@ The cost issue is very real as well. I’m paying $200/month for o3 and Gemini c
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!MtVp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65d0b0ae-ff3a-4300-8b07-1518e8515f6c_900x601.jpeg)
+![None](../post-media/941e89c64468721a.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!MtVp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65d0b0ae-ff3a-4300-8b07-1518e8515f6c_900x601.jpeg)
 
@@ -1262,7 +1262,7 @@ Also, Gemini’s scaffolding (“Deep Research”, “Canvas”) is making rapid
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!pW2m!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feff30cd0-d9a7-42b8-839f-d4a9fc260a41_900x536.jpeg)
+![None](../post-media/3dafa89a3cd1ae68.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!pW2m!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feff30cd0-d9a7-42b8-839f-d4a9fc260a41_900x536.jpeg)
 
@@ -1302,7 +1302,7 @@ I'm not even kidding.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!fhg8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6aab588-759f-4e49-93e4-af2c57092bd8_900x408.png)
+![None](../post-media/43cf9b6b73e85151.png)
 
 ](https://substackcdn.com/image/fetch/$s_!fhg8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6aab588-759f-4e49-93e4-af2c57092bd8_900x408.png)
 
@@ -1364,7 +1364,7 @@ Tom: O3 is doing great, but O4-mini-high sucks! I asked for a simple weather app
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!XubR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24999635-35c1-489c-af40-b2e614eb921a_1920x923.jpeg)
+![None](../post-media/9312c72cc46b9190.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!XubR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24999635-35c1-489c-af40-b2e614eb921a_1920x923.jpeg)
 
@@ -1372,7 +1372,7 @@ Tom: O3 is doing great, but O4-mini-high sucks! I asked for a simple weather app
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!DERM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62147122-dfd5-49ab-9200-b901fe87d169_1027x1200.jpeg)
+![None](../post-media/8774c8a201663cac.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!DERM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62147122-dfd5-49ab-9200-b901fe87d169_1027x1200.jpeg)
 
@@ -1524,7 +1524,7 @@ What do you expect its overall accuracy to be?
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!_rbj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feec0faed-9878-41e9-9e84-c53b6f67866a_932x247.png)
+![None](../post-media/a8a7b075c3fed06c.png)
 
 ](https://substackcdn.com/image/fetch/$s_!_rbj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feec0faed-9878-41e9-9e84-c53b6f67866a_932x247.png)
 
@@ -1534,7 +1534,7 @@ As usual, we are in this bizarre place where the LLM performs better than I woul
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!D4QH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16131cd5-0059-444a-b123-a5748a916a9a_900x770.jpeg)
+![None](../post-media/b9f7e07bcd6afb1f.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!D4QH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16131cd5-0059-444a-b123-a5748a916a9a_900x770.jpeg)
 
@@ -1566,13 +1566,13 @@ McKay Wrigley: Time for Polymarket bench?
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!e2-o!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0caa3fbe-2425-41c9-a387-683e1cd6989f_2614x1552.png)
+![None](../post-media/93838667e43edd33.png)
 
 ](https://substackcdn.com/image/fetch/$s_!e2-o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0caa3fbe-2425-41c9-a387-683e1cd6989f_2614x1552.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!srW6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4f3c94a-f95e-43d5-8498-34365e433114_2168x774.png)
+![None](../post-media/67d0b220ce61ed29.png)
 
 ](https://substackcdn.com/image/fetch/$s_!srW6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4f3c94a-f95e-43d5-8498-34365e433114_2168x774.png)
 
@@ -1584,7 +1584,7 @@ McKay Wrigley: Time for Polymarket bench?
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!-UyM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d79835e-3d8b-4105-84eb-039627a27fce_1024x1024.png)
+![None](../post-media/34b92d83ae2b72f4.png)
 
 ](https://substackcdn.com/image/fetch/$s_!-UyM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d79835e-3d8b-4105-84eb-039627a27fce_1024x1024.png)
 
@@ -1644,7 +1644,7 @@ Previous models were more narrowly intelligent than me.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!7Xpb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9542f8d7-3c18-4916-a91c-103658c75dd0_943x369.png)
+![None](../post-media/c30e080d2cd5e2ec.png)
 
 ](https://substackcdn.com/image/fetch/$s_!7Xpb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9542f8d7-3c18-4916-a91c-103658c75dd0_943x369.png)
 

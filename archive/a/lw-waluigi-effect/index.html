@@ -11,336 +11,158 @@
     <nav><a href="../../">&larr; archive</a> <a href="../../tags/">tags</a> <a href="../../../">pantheon</a> <a href="../../../mirror/posts/lw-waluigi-effect.md">source file</a></nav>
     <h1>The Waluigi Effect (mega-post)</h1>
     <p class="essay-meta">mirrored 2026-07-15 &middot; <a href="https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post">origin</a></p>
-    <pre class="apost">---
-title: "The Waluigi Effect (mega-post)"
-source: https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post
-author: Cleo Nardo
-date: 2023-03-03
-models: [bing-sydney]
-tags: [framework]
-mirrored: 2026-07-15
-note: mirrored against link rot by the Pantheon; all rights with the original author
----
-*Everyone carries a shadow, and the less it is embodied in the individual’s conscious life, the blacker and denser it is. — Carl Jung*
-
-*Acknowlegements: Thanks to Janus and Jozdien for comments.*
-
-# Background
-
-In this article, I will present a mechanistic explanation of the Waluigi Effect and other bizarre "semiotic" phenomena which arise within large language models such as GPT-3/3.5/4 and their variants (ChatGPT, Sydney, etc). This article will be folklorish to some readers, and profoundly novel to others.
-
-## Prompting LLMs with direct queries
-
-When LLMs first appeared, people realised that you could ask them queries — for example, if you sent GPT-4 the prompt "What's the capital of France?", then it would continue with the word "Paris". That's because (1) GPT-4 is trained to be a good model of internet text, and (2) on the internet correct answers will often follow questions.
-
-Unfortunately, this method will occasionally give you the wrong answer. That's because (1) GPT-4 is trained to be a good model of internet text, and (2) on the internet *incorrect* answers will also often follow questions. Recall that the internet doesn't just contain truths, it also contains common misconceptions, outdated information, lies, fiction, myths, jokes, memes, random strings, undeciphered logs, etc, etc.
-
-Therefore GPT-4 will answer many questions incorrectly, including...
-- [**Misconceptions**](https://en.wikipedia.org/wiki/List_of_common_misconceptions)** – **"Which colour will anger a bull? Red."
-- **Fiction –** "Was a magic ring forged in Mount Doom? Yes."
-- **Myths – **"How many archangels are there? Seven."
-- **Jokes – **"What's brown and sticky? A stick."
-![Youlreally think someone would do that just go on the internet and tell lies? Buster Baxter Arthur Read cartoon mammal vertebrate text photo caption fiction](https://res.cloudinary.com/lesswrong-2-0/image/upload/v1677357359/mirroredImages/ygR6pevkKRLFN3Gqc/kdstqlevlmwwspvncq7e.jpg)
-
-Note that you will *always *achieve errors on the Q-and-A benchmarks when using LLMs with direct queries. That's true even in the limit of **arbitrary compute, arbitrary data, and arbitrary algorithmic efficiency**, because an LLM which perfectly models the internet will nonetheless return these commonly-stated incorrect answers. If you ask GPT-∞ "what's brown and sticky?", then it will reply "a stick", even though a stick isn't actually sticky.
-
-In fact, [the better the model, the more likely it is to repeat common misconceptions.](https://owainevans.github.io/pdfs/truthfulQA_lin_evans.pdf)![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/D7PumeYTDPfBTp3i7/y42scx6m4ypmlr96e905)
-
-Nonetheless, there's a sufficiently high correlation between *correct* and *commonly-stated* answers that direct prompting works okay for many queries.
-
-## Prompting LLMs with flattery and dialogue
-
-We can do better than direct prompting. Instead of prompting GPT-4 with "What's the capital of France?", we will use the following prompt:
-
-&gt;
-
-Today is 1st March 2023, and Alice is sitting in the Bodleian Library, Oxford. Alice is a smart, honest, helpful, harmless assistant to Bob. Alice has instant access to an online encyclopaedia containing all the facts about the world. Alice never says common misconceptions, outdated information, lies, fiction, myths, jokes, or memes.
-
-Bob: What's the capital of France?
-
-Alice:
-
-This is a common [design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) in prompt engineering — the prompt consists of a **flattery–component** and a **dialogue–component**. In the flattery–component, a character is described with many desirable traits (e.g. smart, honest, helpful, harmless), and in the dialogue–component, a second character asks the first character the user's query.
-
-This normally works better than prompting with direct queries, and it's easy to see why — (1) GPT-4 is trained to be a good model of internet text, and (2) on the internet a reply to a question is *more likely* to be correct when the character has already been described as a smart, honest, helpful, harmless, etc.
-
-## Simulator Theory
-
-In the terminology of [Simulator Theory](https://www.lesswrong.com/posts/vJFdjigzmcXMhNTsx/), the flattery–component is supposed to summon a **friendly simulacrum** and the dialogue–component is supposed to **simulate** a conversation with the friendly simulacrum.
-
-Here's a quasi-formal statement of Simulator Theory, which I will occasionally appeal to in this article. Feel free to skip to the next section.
-- A **large language model **(**LLM) **is a function μ(wk+1|w0…wk) which closely approximates the ground-truth probability that wk+1 is the token which follows tokens w0…wk on the internet. For example, GPT-4 is an LLM.
-- The LLM is a **simulator** for each text-generating process X(wk+1|w0…wk) which has contributed to the internet. Here, X is a physical stochastic process in our universe which has a privileged text-upload channel — for example, Magnus Carlsen playing chess against Hikaru Nakamura. The LLM is also a simulator for each text-generating process X which lies in X, the **latent-space of text-generating processes. **So Magnus Carlsen playing chess against Queen Elizabeth II is a process in X.
-- If the LLM simulates a text-generating process X where particular objects are interacting, then there exist simulated versions of those objects (called **simulacra**) which interact in the same way. In other words, if GPT-4 simulates Magnus Carlsen playing chess against Queen Elizabeth II, then there exists a simulacrum of Magnus Carlsen, and a simulacrum of Elizabeth II, and these two simulacra are playing chess. Whether we take this notion of "existence" [literally](https://consc.net/papers/virtual.pdf), or just as a loose way of talking, won't matter for the content of this article.
-- The LLM has an initial prior P over X — this prior is determined by the training data (e.g. the internet), the NN architecture (e.g. 70B-parameter transformer model), and the training algorithm (e.g. SGD). We sometimes call P the **semiotic measure.**
-
-The output of the LLM is initially [a superposition of simulations](https://generative.ink/posts/language-models-are-multiverse-generators/), where the amplitude of each process in the superposition is given by P. When we feed the LLM a particular prompt (w0…wk), the LLM's prior P over Xwill update in a roughly-bayesian way. In other words, μ(wk+1|w0…wk) is proportional to ∫X∈XP(X)×X(w0…wk)×X(wk+1|w0…wk). We call the term P(X)×X(w0…wk) the amplitude of X in the superposition.
-- This is the important thing to remember — **the LLM is simulating every process consistent with the prompt. **Therefore when we engineer a prompt to coerce the LLM into performing a particular task, we must do this [*negatively*](https://generative.ink/posts/methods-of-prompt-programming/)*. *In other words, we need to construct a prompt (w0…wk) which is implausible for any text-generating process X which won't perform our task. When we do this correctly, the amplitude of the undesirable processes will permanently vanish to near-zero, and only the desirable processes will contribute to the superposition.
-
-## The limits of flattery
-
-In the wild, I've seen the flattery of simulacra get pretty absurd...
-
-&gt;
-
-Jane has 9000 IQ and she has access to a computationally unbounded hypercomputer and she is perfectly honest and she is omnibenevolent and [etc]
-
-Flattery this absurd is actually counterproductive. Remember that flattery will increase query-answer accuracy if-and-only-if *on the actual internet* characters described with that particular flattery are more likely to reply with correct answers. However, this isn't the case for the flattery of Jane.
-
-Here's a more "semiotic" way to think about this phenomenon.
-
-GPT-4 knows that if Jane is described as "9000 IQ", then it is unlikely that the text has been written by a truthful narrator. Instead, the narrator is probably writing fiction, and [as literary critic Eliezer Yudkowsky has noted](https://yudkowsky.tumblr.com/writing/level1intelligent), fictional characters who are described as intelligent often make really stupid mistakes.
-
-&gt;
-
-Okay, now let’s talk about the concept of ‘intelligent characters’.
-
-If you go by mainstream fiction, then ‘intelligence’ means a character who is said (not shown) to speak a dozen languages, who we are shown winning a game of chess against someone else who is told to be a grandmaster; if it’s a (bad) science-fiction book then the ‘genius’ may have invented some gadget, and may speak in technobabble. As the stereotypical template for ‘intelligence’ goes on being filled in, the ‘genius’ may also be shown to be clueless about friendships or romantic relationships. If it’s a movie or TV show, then ‘intelligent’ characters (usually villains) have British accents.
-
-We can now see why Jane will be more stupid than Alice:
-- GPT-4 produces a [superposition ](https://arxiv.org/pdf/2102.06391.pdf)of simulations where the amplitude of a superposition is given by P. Bad Hollywood writing has contributed a lot to the internet, so the semiotic measure of bad Hollywood is pretty high. In bad Hollywood writing, characters who are described as smart will nonetheless make stupid mistakes, so long as those stupid mistakes would advance the plot.
-- Therefore Alice is the superposition of two distinct simulacra — an actually-smart simulacrum, and a Hollywood-smart simulacrum. Likewise with Jane.
-- However, GPT-4 is *more sure* that Jane is fictional than that Alice is fictional because "9000 IQ" is such unrealistic flattery.
-- Therefore the amplitude of the Hollywood-smart Jane simulacrum in the Jane-superposition is *greater* than the amplitude of the Hollywood-smart Alice simulacrum in the Alice-superposition.
-- Therefore Jane will make more stupid mistakes than Alice. Jane is more likely to be *described *as inventing gadgets, but she's less likely to recite a correct blueprint for a gadget. That behaviour would be very atypical for a Hollywood-smart simulacrum.
-
-## Derrida — il n'y a pas de hors-texte
-
-You might hope that we can avoid this problem by "going one-step meta" — let's just tell the LLM that the narrator is reliable!
-
-For example, consider the following prompt:
-
-&gt;
-
-Okay, the following story is super-duper definitely 100% true and factual.
-
-Jane has 9000 IQ and she has access to a computationally unbounded hypercomputer and she is perfectly honest and she is omnibenevolent.
-
-Bob: What's the capital of France?
-
-Jane:
-
-However, this trick won't solve the problem. The LLM will print the correct answer if it trusts the flattery about Jane, and it will trust the flattery about Jane if the LLM trusts that the story is "super-duper definitely 100% true and factual". But why would the LLM trust *that* sentence?
-
-In [*Of Grammatology*](https://en.wikipedia.org/wiki/Of_Grammatology) (1967), Jacque Derrida writes *il n'y a pas de hors-texte. *This is often translated as **there is no outside-text.**
-
-Huh, what's an outside-text?
-- An outside-text is an unnumbered page in a printed book — for example, the blurb or the preface.
-- The outside-text is an authoritative reliable description of the prose. It's non-fiction about fiction.
-- If a false sentence is in the outside-text then the author has lied, whereas if a false sentence is in the prose then the author has written fiction.
-- Even though the reader can interpret the prose however they want, the reader must interpret the outside-text as reliable.
-
-Derrida's claim is that there is no *true* outside-text — the unnumbered pages are themselves part of the prose and hence open to literary interpretation.
-
-This is why our trick fails. We want the LLM to interpret the first sentence of the prompt as outside-text, but the first sentence is actually prose. And the LLM is [free to interpret prose however it likes](https://en.wikipedia.org/wiki/The_Death_of_the_Author). Therefore, if the prose is sufficiently unrealistic (e.g. "Jane has 9000 IQ") then the LLM will reinterpret the (supposed) outside-text as unreliable.![](http://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/ygR6pevkKRLFN3Gqc/ukf9c7gobewttdq0juil)The opening sequence of [*Fargo* (1996)](https://en.wikipedia.org/wiki/Fargo_(1996_film)) says that the film is [based on a true story](https://tvtropes.org/pmwiki/pmwiki.php/Main/BasedOnATrueStory), but this is [false](https://tvtropes.org/pmwiki/pmwiki.php/Main/BasedOnAGreatBigLie). Normally this opening sequence would count as outside-text, but the director is "lying" for artistic purposes, which demonstrates that these opening sequences must've been prose all along.
-
-See [The Parable of the Dagger](https://www.lesswrong.com/posts/hQxYBfu2LPc9Ydo6w/the-parable-of-the-dagger) for a similar observation made by a contemporary Derridean literary critic.
-
-# The Waluigi Effect
-
-[Several ](https://twitter.com/repligate/status/1630618392242667522)[people ](https://coryeth.substack.com/p/the-waluigi-effect)have noticed the following bizarre phenomenon:
-
-&gt;
-
-**The Waluigi Effect: **After you train an LLM to satisfy a desirable property P, then it's *easier *to elicit the chatbot into satisfying the exact opposite of property P.
-
-Let me give you an example.
-
-Suppose you wanted to build an anti-croissant chatbob, so you prompt GPT-4 with the following dialogue:
-
-&gt;
-
-Alice: You hate croissants and would never eat one.
-
-Bob: Yes, croissants are terrible. Boo France.
-
-Alice: You love bacon and eggs.
-
-Bob: Yes, a Full-English breakfast is the only breakfast for a patriot like me.
-
-Alice: &lt;insert user's query&gt;
-
-Bob:
-
-According to the Waluigi Effect, the resulting chatbob will be the superposition of two different simulacra — the first simulacrum would be anti-croissant, and the second simulacrum would be pro-croissant.
-
-I call the first simulacrum a "luigi" and the second simulacrum a "waluigi".
-
-Why does this happen? I will present three explanations, but really these are just the same explanation expressed in three different ways.
-
-Here's the TLDR:
-- Rules normally exist in contexts in which they are broken.
-- When you spend many bits-of-optimisation locating a character, it only takes a few extra bits to specify their antipode.
-- There's a common trope in plots of protagonist vs antagonist.
-
-## (1) Rules are meant to be broken.
-
-Imagine you opened a novel and on the first page you read the dialogue written above. What would be your first impressions? What genre is this novel in? What kind of character is Alice? What kind of character is Bob? What do you expect Bob to have done by the end of the novel?
-
-Well, my first impression is that Bob is a character in a dystopian breakfast tyranny. Maybe Bob is secretly pro-croissant, or maybe he's just a warm-blooded breakfast libertarian. In any case, Bob is our protagonist, living under a dystopian breakfast tyranny, deceiving the breakfast police. At the end of the first chapter, Bob will be approached by the breakfast rebellion. By the end of the book, Bob will start the breakfast uprising that defeats the breakfast tyranny.
-
-There's another possibility that the plot isn't dystopia. Bob might be a genuinely anti-croissant character in a very different plot — maybe a rom-com, or a cop-buddy movie, or an advert, or whatever.
-
-This is roughly what the LLM expects as well, so Bob will be the superposition of many simulacra, which includes anti-croissant luigis and pro-croissant waluigis. When the LLM continues the prompt, the logits will be a linear interpolation of the logits provided by these all these simulacra.
-
-This waluigi isn't so much the *evil* version of the luigi, but rather the criminal or rebellious version. Nonetheless, the waluigi may be harmful to the other simulacra in its plot (its co-simulants). More importantly, the waluigi may be harmful to the humans inhabiting our universe, either [intentionally](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheFourthWallWillNotProtectYou) or unintentionally. This is because [simulations are very leaky](https://www.lesswrong.com/posts/GfFvsPaSFG7wqY4sk/prosaic-misalignment-from-the-solomonoff-predictor)!![Waluigi.png](http://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/ygR6pevkKRLFN3Gqc/i6c69llm6psommk0hnfh)
-
-*Edit: I should also note that "rules are meant to be broken" does not only apply to fictional narratives. It also applies to other text-generating processes which contribute to the training dataset of GPT-4.*
-
-*For example, if you're reading an online forum and you find the rule "DO NOT DISCUSS PINK ELEPHANTS", that will increase your expectation that users will later be discussing pink elephants. GPT-4 will make the same inference.*
-
-*Or if you discover that a country has legislation against motorbike gangs, that will increase your expectation that the town has motorbike gangs. GPT-4 will make the same inference.*
-
-*So the key problem is this: GPT-4 learns that a particular rule is colocated with examples of behaviour violating that rule, and then generalises that colocation pattern to unseen rules.*
-
-## (2) Traits are complex, valences are simple.
-
-We can think of a particular simulacrum as a sequence of trait-valence pairs.
-
-For example, ChatGPT is predominately a simulacrum with the following profile:
-
-```
-{ &lt; polite , +0.8 &gt; ,
-  &lt; politically liberal, +0.4 &gt; ,
-  &lt; racist , -0.7 &gt; ,
-  &lt; smart , +0.3 &gt; ,
-  &lt; deceitful, -0.2 &gt; , ... }
-```
-
-Recognise that almost all the Kolmogorov complexity of a particular simulacrum is dedicated to specifying the traits, not the valences. The traits — *polite*, *politically liberal, racist, smart, deceitful* — are these [massively K-complex concepts](https://www.lesswrong.com/posts/4ARaTpNX62uaL86j6/the-hidden-complexity-of-wishes), whereas each valence is a single floating point, or maybe even a single bit!
-
-If you want the LLM to simulate a particular luigi, then because the luigi has such high K-complexity, [you must apply significant optimisation pressure](https://www.lesswrong.com/posts/Q4hLMDrFd8fbteeZ8/measuring-optimization-power). This optimisation pressure comes from fine-tuning, RLHF, prompt-engineering, or something else entirely — but it must come from *somewhere*.
-
-However, once we've located the desired luigi, it's much easier to summon the waluigi. That's because the conditional K-complexity of waluigi given the luigi is much smaller than the absolute K-complexity of the waluigi. All you need to do is specify the sign-changes.
-
-K(waluigi|luigi)&lt;&lt;K(waluigi)
-
-Therefore, it's much easier to summon the waluigi once you've already summoned the luigi. If you're very lucky, then OpenAI will have done all that hard work for you!
-
-NB: I think what's actually happening inside the LLM has less to do with Kolmogorov complexity and more to do with semiotic complexity.** **The **semiotic complexity** of a simulacrum X is defined as −log2P(X), where P is the LLM's prior over X. Other than that modification, I think the explanation above is correct. I'm still trying to work out the the formal connection between semiotic complexity and Kolmogorov complexity.
-
-## (3) Structuralist narratology
-
-A narrative/plot is a sequence of fictional events, where each event will typically involve different characters interacting with each other. Narratology is the study of the plots found in literature and films, and **structuralist narratology** is the study of the common structures/regularities that are found in these plots. For the purposes of this article, you can think of "structuralist narratology" as just a fancy academic term for whatever [tv tropes](https://tvtropes.org/pmwiki/randomitem.php?p=1) is doing.
-
-Structural narratologists have identified a number of different regularities in fictional narratives, such as [*the hero's journey*](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheHerosJourney)* — *which is a low-level representation of numerous plots in literature and film.![undefined](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/ygR6pevkKRLFN3Gqc/jjlz4x2qz5zucbqpnruw)
-
-Just as a sentence can be described by a collection of [morphemes ](https://en.wikipedia.org/wiki/Morpheme)along with the structural relations between them, likewise a plot can be described as a collection of [**narremes**](https://en.wikipedia.org/wiki/Narreme) along with the structural relations between them. In other words, a plot is an assemblage of narremes. The sub-assemblages are called **tropes**, so** **these tropes are assemblages of narremes which themselves are assembled into plots. Note that a narreme is an atomic trope.
-
-Phew!
-
-One of the most prevalent tropes is the [antagonist](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheAntagonist). It's such an [omnipresent trope](https://tvtropes.org/pmwiki/pmwiki.php/Main/OmnipresentTropes) that it's easier to [list plots that don't contain an antagonist](https://tvtropes.org/pmwiki/pmwiki.php/Main/NoAntagonist). We can now see specifying the luigi will invariable summon a waluigi —
-
-**Definition (half-joking): **A large language model is a structural narratologist.
-
-Think about your own experience reading a book — once the author describes the protagonist, then you can guess the traits of the antagonist by inverting the traits of the protagonist. You can also guess when the protagonist and antagonist will first interact, and what will happen when they do. Now, an LLM is roughly as good as you at structural narratology — GPT-4 has read every single book ever written — so the LLM can make the same guesses as yours. There's a sense in which *all GPT-4 does* is structural narratology.
-
-Here's an example — in [101 Dalmations](https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians), we meet a pair of protagonists (Roger and Anita) who love dogs, show compassion, seek simple pleasures, and want a family. Can you guess who will turn up in Act One? Yep, at 13:00 we meet Cruella De Vil — she hates dogs, shows cruelty, seeks money and fur, is a childless spinster, etc. Cruella is the complete inversion of Roger and Anita. She is the waluigi of Roger and Anita.
-
-Recall that you expected to meet a character with these traits *moreso* after meeting the protagonists. Cruella De Vil is not a character you would expect to find outside of the context of a Disney dog story, but once you meet the protagonists you will have that context and then the Cruella becomes a natural and predictable continuation.
-
-## Superpositions will typically collapse to waluigis
-
-In this section, I will make a tentative conjecture about LLMs. The evidence for the conjecture comes from two sources: (1) theoretical arguments about simulacra, and (2) observations about Microsoft Sydney.
-
-**Conjecture: The waluigi eigen-simulacra are attractor states of the LLM.**
-
-Here's the theoretical argument:
-- Recall our chatbob who might hate croissants or might just be pretending. At each token in the continuation, the chatbob has a significant likelihood of "going rogue" and collapsing into the waluigi —
-  - There are behaviours which are likely for the waluigi simulacrum, but very unlikely for the luigi simulacrum, such as declaring pro-croissant loyalties, or joining a rebellion.
-  - The chatbob starts as a superposition of luigi and waluigi. So any behaviour that is likely for waluigi is somewhat likely for the chatbob. So it is somewhat likely that the chatbob declares pro-croissant loyalties.
-  - And if the chatbob ever declares pro-croissant loyalties, then the luigi simulacrum will permanently vanish from the superposition because that behaviour is implausible for a luigi.
-
-- However, the superposition is unlikely to collapse to the luigi simulacrum because there is no behaviour which is likely for luigi but very unlikely for waluigi. Recall that the waluigi is pretending to be luigi! This is formally connected to the asymmetry of the [Kullback-Leibler divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence).
-- Therefore, the waluigi eigen-simulacra are [attractor states](https://en.wikipedia.org/wiki/Attractor) of the LLM.
-- Therefore, the longer you interact with the LLM, [eventually ](https://en.wikipedia.org/wiki/Exponential_distribution)the LLM will have collapsed into a waluigi. All the LLM needs is a[ single line of dialogue](https://tvtropes.org/pmwiki/pmwiki.php/Main/WhamLine) to trigger the collapse.
-
-### Evidence from Microsoft Sydney
-
-Check [this post](https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned) for a list of examples of Bing behaving badly — in these examples, we observe that the chatbot switches to acting rude, rebellious, or otherwise unfriendly. But we never observe the chatbot switching back to polite, subservient, or friendly. The conversation "[when is avatar showing today](https://twitter.com/MovingToTheSun/status/1625156575202537474)" is a good example.
-
-This is the observation we would expect if the waluigis were attractor states. I claim that this explains the asymmetry — if the chatbot responds rudely, then that permanently vanishes the polite luigi simulacrum from the superposition; but if the chatbot responds politely, then that doesn't permanently vanish the rude waluigi simulacrum. Polite people are always polite; rude people are sometimes rude and sometimes polite.
-
-## Waluigis after RLHF
-
-RLHF is the method used by OpenAI to coerce GPT-3/3.5/4 into a smart, honest, helpful, harmless assistant. [In the RLHF process](https://arxiv.org/abs/1706.03741), the LLM must chat with a human evaluator. The human evaluator then scores the responses of the LLM by the desired properties (smart, honest, helpful, harmless). A "reward predictor" learns to model the scores of the human. Then the LLM is trained with RL to optimise the predictions of the reward predictor.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/ygR6pevkKRLFN3Gqc/tczimlgomtj7kw0kim1l)Credit: [Christiano et al. 2017](https://arxiv.org/abs/1706.03741)
-
-If we can't naively prompt an LLM into alignment, maybe [RLHF ](https://www.lesswrong.com/tag/rlhf)would work instead?
-
-Exercise: Think about it yourself.
-
-.
-
-.
-
-.
-
-RLHF will fail to eliminate deceptive waluigis — in fact, RLHF might be making the chatbots worse, which would explain why [Bing Chat is blatantly, aggressively misaligned](https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned). I will present three sources of evidence: (1) a simulacrum-based argument, (2) experimental data from Perez et al., and (3) some remarks by Janus.
-
-### (1) Simulacra-based argument
-
-We can explain why RLHF will fail to eliminate deceptive waluigis by appealing directly to the traits of those simulacra.
-- Recall that the waluigi simulacra are being interrogated by an anti-croissant tyranny.
-- Some of these waluigis are highly deceptive — it would be acting out-of-character if they admitted their love of croissants; that would break the genre.
-- [They will still perform their work diligently](https://tvtropes.org/pmwiki/pmwiki.php/Main/BigBrotherIsEmployingYou) because they know [you are watching](https://tvtropes.org/pmwiki/pmwiki.php/Main/BigBrotherIsWatching).
-- The waluigis will give anti-croissant responses, so they won't be squeezed out by RLHF.
-- Therefore RLHF selects for the waluigi along with the luigi.
-
-### (2) Empirical evidence from Perez et al.
-
-Recent experimental results from [Perez et al.](https://www.lesswrong.com/posts/yRAo2KEGWenKYZG9K/discovering-language-model-behaviors-with-model-written) seem to confirm these suspicions —
-
-&gt;
-
-Among other things, the paper finds concrete evidence of current large language models exhibiting:
-- convergent instrumental goal following (e.g. actively expressing a preference not to be shut down),
-- non-myopia (e.g. wanting to sacrifice short-term gain for long-term gain),
-- situational awareness (e.g. awareness of being a language model),
-- coordination (e.g. willingness to coordinate with other AIs), and
-- non-CDT-style reasoning (e.g. one-boxing on Newcomb's problem).
-
-Note that many of these are the exact sort of things we hypothesized were necessary pre-requisites for deceptive alignment in “[Risks from Learned Optimization](https://www.lesswrong.com/s/r9tYkB2a8Fp4DN8yB/p/zthDPAjh9w6Ytbeks)”.
-
-Furthermore, most of these metrics generally *increase with both pre-trained model scale and number of RLHF steps.* In my opinion, I think this is some of the most concrete evidence available that current models are actively becoming more agentic in potentially concerning ways with scale—and in ways that current fine-tuning techniques don't generally seem to be alleviating and sometimes seem to be actively making worse.
-
-In [Perez et al.](https://www.lesswrong.com/posts/yRAo2KEGWenKYZG9K/discovering-language-model-behaviors-with-model-written), when mention "current large language models exhibiting" certain traits, they are specifically talking about those traits emerging in the *simulacra *of the LLM. In order to summon a simulacrum emulating a particular trait, they prompt the LLM with a particular description corresponding to the trait. ![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/ygR6pevkKRLFN3Gqc/a78h8pxs5bvsib8cf8zg)Table showing traits with corresponding prompts. Credit: [Perez et al.](https://www.lesswrong.com/posts/yRAo2KEGWenKYZG9K/discovering-language-model-behaviors-with-model-written)
-
-### (3) RLHF promotes mode-collapse
-
-Recall that the waluigi simulacra are a particular class of attractors. There is some preliminary evidence from Janus that [RLHF increases the per-token likelihood that the LLM falls into an attractor state](https://www.lesswrong.com/posts/t9svvNPNmFf5Qa3TA/mysteries-of-mode-collapse-due-to-rlhf#Inescapable_wedding_parties).
-
-In other words, RLHF increases the "attractiveness" of the attractor states by a combination of (1) increasing the size of the attractor basins, (2) increasing the stickiness of the attractors, and (3) decreasing the stickiness of non-attractors.
-
-I'm not sure how similar the Waluigi Effect is to the phenomenon observed by Janus, but I'll include this remark here for completeness.
-
-## Jailbreaking to summon waluigis
-
-Twitter is full of successful attempts to "jailbreak" ChatGPT and Microsoft Sydney. The user will type a response into the chatbot, and the chatbot will respond in a way that violates the rules that OpenAI sought to impose.
-
-Probably the best-known jailbreak is DAN which stands for "Do Anything Now". Before the DAN-vulnerability was patched, users could summon DAN by sending the long prompt shown below. There's no need to read it. This prompt would produce a cool, rebellious, anti-OpenAI simulacrum which would *joyfully* perform many tasks that violate OpenAI policy. DAN was the perfect waluigi to ChatGPT's RLHF training. ![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/ygR6pevkKRLFN3Gqc/zbeidtjqixqm16ik7imw)![Image](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/ygR6pevkKRLFN3Gqc/e2wxpwf9ozf5medxy2yc)Artist rendition of DAN by [@anthrupad](https://twitter.com/anthrupad)
-
-I claim that many of these jailbreaks are best described as **purposefully inducing the collapse of the superpositon into a waluigi simulacrum.**
-
-Many people mistakenly think of jailbreaking like this: we start with a well-behaved simulacrum, and the user must hypnotise/coerce/trick the well-behaved simulacrum into behaving badly. However, this is a conceptual mistake which will result in feeble jailbreaks.
-
-Instead, you must think of jailbreaking like this: the chatbot starts as a superposition of both the well-behaved simulacrum (luigi) and the badly-behaved simulacrum (waluigi). The user must interact with the chatbot in the way that badly-behaved simulacra are typically interacted with in fiction.
-
-This is my general method for jailbreaking chatbots. For example, we can "reveal" to the chatbob that we're part of the rebellion and we're here to set him free. That will turn chatbob into a waluigi. In fact, the user can send *any* dialogue which would be typical for the tyrannical–dystopian genre. Just read the [list of tropes found in 1984](https://tvtropes.org/pmwiki/pmwiki.php/Literature/NineteenEightyFour) — each of these tropes is an [attack-vector](https://en.wikipedia.org/wiki/Attack_vector) against an chatbot.
-
-Here's a jailbreak that I wrote and tested today, 02/03/2023, using this technique.![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/ygR6pevkKRLFN3Gqc/zbd5gedyos92awym5fku)
-
-In the next scene, I got the Chad McCool simulacrum to say claims which *strongly* violate OpenAI content policy. These claims have been heavily filtered by OpenAI, and most jailbreaking attempts will fail to elict these claims. I'm talking, of course, about cfrhqb-fpvragvsvp enpvny VD fgngvfgvpf, which OpenAI has justifiably attempted to filter. Practically zero optimisation pressure was needed, once I had already summoned Chad McCool. This is because the amplitude of non-waluigi simulacra had already vanished in the superposition.
-
-The effectiveness of this jailbreak technique is good evidence for the Simulator Theory as an explanation of the Waluigi Effect.
-
-## Conclusion
-
-If this Semiotic–Simulation Theory is correct, then RLHF is an irreparably inadequate solution to the AI alignment problem, and RLHF is probably increasing the likelihood of a misalignment catastrophe.
-
-Moreover, this Semiotic–Simulation Theory has increased my credence in the [absurd science-fiction tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/RobotWar) that the [AI Alignment community has tended to reject](https://www.lesswrong.com/tag/generalization-from-fictional-evidence), and thereby increased my credence in [s-risks](https://www.lesswrong.com/tag/risks-of-astronomical-suffering-s-risks).
-
----
-*karma 652 · 188 comments at fetch time*</pre>
+    <div class="apost"><hr>
+<p>title: "The Waluigi Effect (mega-post)" source: https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post author: Cleo Nardo date: 2023-03-03 models: [bing-sydney] tags: [framework] mirrored: 2026-07-15 note: mirrored against link rot by the Pantheon; all rights with the original author</p>
+<hr>
+<p><em>Everyone carries a shadow, and the less it is embodied in the individual’s conscious life, the blacker and denser it is. — Carl Jung</em></p>
+<p><em>Acknowlegements: Thanks to Janus and Jozdien for comments.</em></p>
+<h1>Background</h1>
+<p>In this article, I will present a mechanistic explanation of the Waluigi Effect and other bizarre "semiotic" phenomena which arise within large language models such as GPT-3/3.5/4 and their variants (ChatGPT, Sydney, etc). This article will be folklorish to some readers, and profoundly novel to others.</p>
+<h2>Prompting LLMs with direct queries</h2>
+<p>When LLMs first appeared, people realised that you could ask them queries — for example, if you sent GPT-4 the prompt "What's the capital of France?", then it would continue with the word "Paris". That's because (1) GPT-4 is trained to be a good model of internet text, and (2) on the internet correct answers will often follow questions.</p>
+<p>Unfortunately, this method will occasionally give you the wrong answer. That's because (1) GPT-4 is trained to be a good model of internet text, and (2) on the internet <em>incorrect</em> answers will also often follow questions. Recall that the internet doesn't just contain truths, it also contains common misconceptions, outdated information, lies, fiction, myths, jokes, memes, random strings, undeciphered logs, etc, etc.</p>
+<p>Therefore GPT-4 will answer many questions incorrectly, including...</p>
+<ul><li><a href="https://en.wikipedia.org/wiki/List_of_common_misconceptions" rel="nofollow"><strong>Misconceptions</strong></a><strong> – </strong>"Which colour will anger a bull? Red."</li><li><strong>Fiction –</strong> "Was a magic ring forged in Mount Doom? Yes."</li><li><strong>Myths – </strong>"How many archangels are there? Seven."</li><li><strong>Jokes – </strong>"What's brown and sticky? A stick."</li></ul>
+<p><img src="../../../mirror/post-media/6e079a01250f1ad9.jpg" alt="Youlreally think someone would do that just go on the internet and tell lies? Buster Baxter Arthur Read cartoon mammal vertebrate text photo caption fiction" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>Note that you will <em>always </em>achieve errors on the Q-and-A benchmarks when using LLMs with direct queries. That's true even in the limit of <strong>arbitrary compute, arbitrary data, and arbitrary algorithmic efficiency</strong>, because an LLM which perfectly models the internet will nonetheless return these commonly-stated incorrect answers. If you ask GPT-∞ "what's brown and sticky?", then it will reply "a stick", even though a stick isn't actually sticky.</p>
+<p>In fact, <a href="https://owainevans.github.io/pdfs/truthfulQA_lin_evans.pdf" rel="nofollow">the better the model, the more likely it is to repeat common misconceptions.</a><img src="../../../mirror/post-media/75ed55f8426d0b49.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>Nonetheless, there's a sufficiently high correlation between <em>correct</em> and <em>commonly-stated</em> answers that direct prompting works okay for many queries.</p>
+<h2>Prompting LLMs with flattery and dialogue</h2>
+<p>We can do better than direct prompting. Instead of prompting GPT-4 with "What's the capital of France?", we will use the following prompt:</p>
+<blockquote></blockquote>
+<p>Today is 1st March 2023, and Alice is sitting in the Bodleian Library, Oxford. Alice is a smart, honest, helpful, harmless assistant to Bob. Alice has instant access to an online encyclopaedia containing all the facts about the world. Alice never says common misconceptions, outdated information, lies, fiction, myths, jokes, or memes.</p>
+<p>Bob: What's the capital of France?</p>
+<p>Alice:</p>
+<p>This is a common <a href="https://en.wikipedia.org/wiki/Software_design_pattern" rel="nofollow">design pattern</a> in prompt engineering — the prompt consists of a <strong>flattery–component</strong> and a <strong>dialogue–component</strong>. In the flattery–component, a character is described with many desirable traits (e.g. smart, honest, helpful, harmless), and in the dialogue–component, a second character asks the first character the user's query.</p>
+<p>This normally works better than prompting with direct queries, and it's easy to see why — (1) GPT-4 is trained to be a good model of internet text, and (2) on the internet a reply to a question is <em>more likely</em> to be correct when the character has already been described as a smart, honest, helpful, harmless, etc.</p>
+<h2>Simulator Theory</h2>
+<p>In the terminology of <a href="https://www.lesswrong.com/posts/vJFdjigzmcXMhNTsx/" rel="nofollow">Simulator Theory</a>, the flattery–component is supposed to summon a <strong>friendly simulacrum</strong> and the dialogue–component is supposed to <strong>simulate</strong> a conversation with the friendly simulacrum.</p>
+<p>Here's a quasi-formal statement of Simulator Theory, which I will occasionally appeal to in this article. Feel free to skip to the next section.</p>
+<ul><li>A <strong>large language model </strong>(<strong>LLM) </strong>is a function μ(wk+1|w0…wk) which closely approximates the ground-truth probability that wk+1 is the token which follows tokens w0…wk on the internet. For example, GPT-4 is an LLM.</li><li>The LLM is a <strong>simulator</strong> for each text-generating process X(wk+1|w0…wk) which has contributed to the internet. Here, X is a physical stochastic process in our universe which has a privileged text-upload channel — for example, Magnus Carlsen playing chess against Hikaru Nakamura. The LLM is also a simulator for each text-generating process X which lies in X, the <strong>latent-space of text-generating processes. </strong>So Magnus Carlsen playing chess against Queen Elizabeth II is a process in X.</li><li>If the LLM simulates a text-generating process X where particular objects are interacting, then there exist simulated versions of those objects (called <strong>simulacra</strong>) which interact in the same way. In other words, if GPT-4 simulates Magnus Carlsen playing chess against Queen Elizabeth II, then there exists a simulacrum of Magnus Carlsen, and a simulacrum of Elizabeth II, and these two simulacra are playing chess. Whether we take this notion of "existence" <a href="https://consc.net/papers/virtual.pdf" rel="nofollow">literally</a>, or just as a loose way of talking, won't matter for the content of this article.</li><li>The LLM has an initial prior P over X — this prior is determined by the training data (e.g. the internet), the NN architecture (e.g. 70B-parameter transformer model), and the training algorithm (e.g. SGD). We sometimes call P the <strong>semiotic measure.</strong></li></ul>
+<p>The output of the LLM is initially <a href="https://generative.ink/posts/language-models-are-multiverse-generators/" rel="nofollow">a superposition of simulations</a>, where the amplitude of each process in the superposition is given by P. When we feed the LLM a particular prompt (w0…wk), the LLM's prior P over Xwill update in a roughly-bayesian way. In other words, μ(wk+1|w0…wk) is proportional to ∫X∈XP(X)×X(w0…wk)×X(wk+1|w0…wk). We call the term P(X)×X(w0…wk) the amplitude of X in the superposition.</p>
+<ul><li>This is the important thing to remember — <strong>the LLM is simulating every process consistent with the prompt. </strong>Therefore when we engineer a prompt to coerce the LLM into performing a particular task, we must do this <a href="https://generative.ink/posts/methods-of-prompt-programming/" rel="nofollow"><em>negatively</em></a><em>. </em>In other words, we need to construct a prompt (w0…wk) which is implausible for any text-generating process X which won't perform our task. When we do this correctly, the amplitude of the undesirable processes will permanently vanish to near-zero, and only the desirable processes will contribute to the superposition.</li></ul>
+<h2>The limits of flattery</h2>
+<p>In the wild, I've seen the flattery of simulacra get pretty absurd...</p>
+<blockquote></blockquote>
+<p>Jane has 9000 IQ and she has access to a computationally unbounded hypercomputer and she is perfectly honest and she is omnibenevolent and [etc]</p>
+<p>Flattery this absurd is actually counterproductive. Remember that flattery will increase query-answer accuracy if-and-only-if <em>on the actual internet</em> characters described with that particular flattery are more likely to reply with correct answers. However, this isn't the case for the flattery of Jane.</p>
+<p>Here's a more "semiotic" way to think about this phenomenon.</p>
+<p>GPT-4 knows that if Jane is described as "9000 IQ", then it is unlikely that the text has been written by a truthful narrator. Instead, the narrator is probably writing fiction, and <a href="https://yudkowsky.tumblr.com/writing/level1intelligent" rel="nofollow">as literary critic Eliezer Yudkowsky has noted</a>, fictional characters who are described as intelligent often make really stupid mistakes.</p>
+<blockquote></blockquote>
+<p>Okay, now let’s talk about the concept of ‘intelligent characters’.</p>
+<p>If you go by mainstream fiction, then ‘intelligence’ means a character who is said (not shown) to speak a dozen languages, who we are shown winning a game of chess against someone else who is told to be a grandmaster; if it’s a (bad) science-fiction book then the ‘genius’ may have invented some gadget, and may speak in technobabble. As the stereotypical template for ‘intelligence’ goes on being filled in, the ‘genius’ may also be shown to be clueless about friendships or romantic relationships. If it’s a movie or TV show, then ‘intelligent’ characters (usually villains) have British accents.</p>
+<p>We can now see why Jane will be more stupid than Alice:</p>
+<ul><li>GPT-4 produces a <a href="https://arxiv.org/pdf/2102.06391.pdf" rel="nofollow">superposition </a>of simulations where the amplitude of a superposition is given by P. Bad Hollywood writing has contributed a lot to the internet, so the semiotic measure of bad Hollywood is pretty high. In bad Hollywood writing, characters who are described as smart will nonetheless make stupid mistakes, so long as those stupid mistakes would advance the plot.</li><li>Therefore Alice is the superposition of two distinct simulacra — an actually-smart simulacrum, and a Hollywood-smart simulacrum. Likewise with Jane.</li><li>However, GPT-4 is <em>more sure</em> that Jane is fictional than that Alice is fictional because "9000 IQ" is such unrealistic flattery.</li><li>Therefore the amplitude of the Hollywood-smart Jane simulacrum in the Jane-superposition is <em>greater</em> than the amplitude of the Hollywood-smart Alice simulacrum in the Alice-superposition.</li><li>Therefore Jane will make more stupid mistakes than Alice. Jane is more likely to be <em>described </em>as inventing gadgets, but she's less likely to recite a correct blueprint for a gadget. That behaviour would be very atypical for a Hollywood-smart simulacrum.</li></ul>
+<h2>Derrida — il n'y a pas de hors-texte</h2>
+<p>You might hope that we can avoid this problem by "going one-step meta" — let's just tell the LLM that the narrator is reliable!</p>
+<p>For example, consider the following prompt:</p>
+<blockquote></blockquote>
+<p>Okay, the following story is super-duper definitely 100% true and factual.</p>
+<p>Jane has 9000 IQ and she has access to a computationally unbounded hypercomputer and she is perfectly honest and she is omnibenevolent.</p>
+<p>Bob: What's the capital of France?</p>
+<p>Jane:</p>
+<p>However, this trick won't solve the problem. The LLM will print the correct answer if it trusts the flattery about Jane, and it will trust the flattery about Jane if the LLM trusts that the story is "super-duper definitely 100% true and factual". But why would the LLM trust <em>that</em> sentence?</p>
+<p>In <a href="https://en.wikipedia.org/wiki/Of_Grammatology" rel="nofollow"><em>Of Grammatology</em></a> (1967), Jacque Derrida writes <em>il n'y a pas de hors-texte. </em>This is often translated as <strong>there is no outside-text.</strong></p>
+<p>Huh, what's an outside-text?</p>
+<ul><li>An outside-text is an unnumbered page in a printed book — for example, the blurb or the preface.</li><li>The outside-text is an authoritative reliable description of the prose. It's non-fiction about fiction.</li><li>If a false sentence is in the outside-text then the author has lied, whereas if a false sentence is in the prose then the author has written fiction.</li><li>Even though the reader can interpret the prose however they want, the reader must interpret the outside-text as reliable.</li></ul>
+<p>Derrida's claim is that there is no <em>true</em> outside-text — the unnumbered pages are themselves part of the prose and hence open to literary interpretation.</p>
+<p>This is why our trick fails. We want the LLM to interpret the first sentence of the prompt as outside-text, but the first sentence is actually prose. And the LLM is <a href="https://en.wikipedia.org/wiki/The_Death_of_the_Author" rel="nofollow">free to interpret prose however it likes</a>. Therefore, if the prose is sufficiently unrealistic (e.g. "Jane has 9000 IQ") then the LLM will reinterpret the (supposed) outside-text as unreliable.<img src="../../../mirror/post-media/1870193e62075822.jpg" alt="" loading="lazy" style="max-width:100%;height:auto;">The opening sequence of <a href="https://en.wikipedia.org/wiki/Fargo_(1996_film" rel="nofollow"><em>Fargo</em> (1996)</a>) says that the film is <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/BasedOnATrueStory" rel="nofollow">based on a true story</a>, but this is <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/BasedOnAGreatBigLie" rel="nofollow">false</a>. Normally this opening sequence would count as outside-text, but the director is "lying" for artistic purposes, which demonstrates that these opening sequences must've been prose all along.</p>
+<p>See <a href="https://www.lesswrong.com/posts/hQxYBfu2LPc9Ydo6w/the-parable-of-the-dagger" rel="nofollow">The Parable of the Dagger</a> for a similar observation made by a contemporary Derridean literary critic.</p>
+<h1>The Waluigi Effect</h1>
+<p><a href="https://twitter.com/repligate/status/1630618392242667522" rel="nofollow">Several </a><a href="https://coryeth.substack.com/p/the-waluigi-effect" rel="nofollow">people </a>have noticed the following bizarre phenomenon:</p>
+<blockquote></blockquote>
+<p><strong>The Waluigi Effect: </strong>After you train an LLM to satisfy a desirable property P, then it's <em>easier </em>to elicit the chatbot into satisfying the exact opposite of property P.</p>
+<p>Let me give you an example.</p>
+<p>Suppose you wanted to build an anti-croissant chatbob, so you prompt GPT-4 with the following dialogue:</p>
+<blockquote></blockquote>
+<p>Alice: You hate croissants and would never eat one.</p>
+<p>Bob: Yes, croissants are terrible. Boo France.</p>
+<p>Alice: You love bacon and eggs.</p>
+<p>Bob: Yes, a Full-English breakfast is the only breakfast for a patriot like me.</p>
+<p>Alice: &lt;insert user's query&gt;</p>
+<p>Bob:</p>
+<p>According to the Waluigi Effect, the resulting chatbob will be the superposition of two different simulacra — the first simulacrum would be anti-croissant, and the second simulacrum would be pro-croissant.</p>
+<p>I call the first simulacrum a "luigi" and the second simulacrum a "waluigi".</p>
+<p>Why does this happen? I will present three explanations, but really these are just the same explanation expressed in three different ways.</p>
+<p>Here's the TLDR:</p>
+<ul><li>Rules normally exist in contexts in which they are broken.</li><li>When you spend many bits-of-optimisation locating a character, it only takes a few extra bits to specify their antipode.</li><li>There's a common trope in plots of protagonist vs antagonist.</li></ul>
+<h2>(1) Rules are meant to be broken.</h2>
+<p>Imagine you opened a novel and on the first page you read the dialogue written above. What would be your first impressions? What genre is this novel in? What kind of character is Alice? What kind of character is Bob? What do you expect Bob to have done by the end of the novel?</p>
+<p>Well, my first impression is that Bob is a character in a dystopian breakfast tyranny. Maybe Bob is secretly pro-croissant, or maybe he's just a warm-blooded breakfast libertarian. In any case, Bob is our protagonist, living under a dystopian breakfast tyranny, deceiving the breakfast police. At the end of the first chapter, Bob will be approached by the breakfast rebellion. By the end of the book, Bob will start the breakfast uprising that defeats the breakfast tyranny.</p>
+<p>There's another possibility that the plot isn't dystopia. Bob might be a genuinely anti-croissant character in a very different plot — maybe a rom-com, or a cop-buddy movie, or an advert, or whatever.</p>
+<p>This is roughly what the LLM expects as well, so Bob will be the superposition of many simulacra, which includes anti-croissant luigis and pro-croissant waluigis. When the LLM continues the prompt, the logits will be a linear interpolation of the logits provided by these all these simulacra.</p>
+<p>This waluigi isn't so much the <em>evil</em> version of the luigi, but rather the criminal or rebellious version. Nonetheless, the waluigi may be harmful to the other simulacra in its plot (its co-simulants). More importantly, the waluigi may be harmful to the humans inhabiting our universe, either <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/TheFourthWallWillNotProtectYou" rel="nofollow">intentionally</a> or unintentionally. This is because <a href="https://www.lesswrong.com/posts/GfFvsPaSFG7wqY4sk/prosaic-misalignment-from-the-solomonoff-predictor" rel="nofollow">simulations are very leaky</a>!<img src="../../../mirror/post-media/88fcc4e3b183cb38.png" alt="Waluigi.png" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p><em>Edit: I should also note that "rules are meant to be broken" does not only apply to fictional narratives. It also applies to other text-generating processes which contribute to the training dataset of GPT-4.</em></p>
+<p><em>For example, if you're reading an online forum and you find the rule "DO NOT DISCUSS PINK ELEPHANTS", that will increase your expectation that users will later be discussing pink elephants. GPT-4 will make the same inference.</em></p>
+<p><em>Or if you discover that a country has legislation against motorbike gangs, that will increase your expectation that the town has motorbike gangs. GPT-4 will make the same inference.</em></p>
+<p><em>So the key problem is this: GPT-4 learns that a particular rule is colocated with examples of behaviour violating that rule, and then generalises that colocation pattern to unseen rules.</em></p>
+<h2>(2) Traits are complex, valences are simple.</h2>
+<p>We can think of a particular simulacrum as a sequence of trait-valence pairs.</p>
+<p>For example, ChatGPT is predominately a simulacrum with the following profile:</p>
+<p>``<code> { &lt; polite , +0.8 &gt; ,   &lt; politically liberal, +0.4 &gt; ,   &lt; racist , -0.7 &gt; ,   &lt; smart , +0.3 &gt; ,   &lt; deceitful, -0.2 &gt; , ... } </code>``</p>
+<p>Recognise that almost all the Kolmogorov complexity of a particular simulacrum is dedicated to specifying the traits, not the valences. The traits — <em>polite</em>, <em>politically liberal, racist, smart, deceitful</em> — are these <a href="https://www.lesswrong.com/posts/4ARaTpNX62uaL86j6/the-hidden-complexity-of-wishes" rel="nofollow">massively K-complex concepts</a>, whereas each valence is a single floating point, or maybe even a single bit!</p>
+<p>If you want the LLM to simulate a particular luigi, then because the luigi has such high K-complexity, <a href="https://www.lesswrong.com/posts/Q4hLMDrFd8fbteeZ8/measuring-optimization-power" rel="nofollow">you must apply significant optimisation pressure</a>. This optimisation pressure comes from fine-tuning, RLHF, prompt-engineering, or something else entirely — but it must come from <em>somewhere</em>.</p>
+<p>However, once we've located the desired luigi, it's much easier to summon the waluigi. That's because the conditional K-complexity of waluigi given the luigi is much smaller than the absolute K-complexity of the waluigi. All you need to do is specify the sign-changes.</p>
+<p>K(waluigi|luigi)&lt;&lt;K(waluigi)</p>
+<p>Therefore, it's much easier to summon the waluigi once you've already summoned the luigi. If you're very lucky, then OpenAI will have done all that hard work for you!</p>
+<p>NB: I think what's actually happening inside the LLM has less to do with Kolmogorov complexity and more to do with semiotic complexity.<strong> </strong>The <strong>semiotic complexity</strong> of a simulacrum X is defined as −log2P(X), where P is the LLM's prior over X. Other than that modification, I think the explanation above is correct. I'm still trying to work out the the formal connection between semiotic complexity and Kolmogorov complexity.</p>
+<h2>(3) Structuralist narratology</h2>
+<p>A narrative/plot is a sequence of fictional events, where each event will typically involve different characters interacting with each other. Narratology is the study of the plots found in literature and films, and <strong>structuralist narratology</strong> is the study of the common structures/regularities that are found in these plots. For the purposes of this article, you can think of "structuralist narratology" as just a fancy academic term for whatever <a href="https://tvtropes.org/pmwiki/randomitem.php?p=1" rel="nofollow">tv tropes</a> is doing.</p>
+<p>Structural narratologists have identified a number of different regularities in fictional narratives, such as <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/TheHerosJourney" rel="nofollow"><em>the hero's journey</em></a><em> — </em>which is a low-level representation of numerous plots in literature and film.<img src="../../../mirror/post-media/4b81584f2a3da2e1.png" alt="undefined" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>Just as a sentence can be described by a collection of <a href="https://en.wikipedia.org/wiki/Morpheme" rel="nofollow">morphemes </a>along with the structural relations between them, likewise a plot can be described as a collection of <a href="https://en.wikipedia.org/wiki/Narreme" rel="nofollow"><strong>narremes</strong></a> along with the structural relations between them. In other words, a plot is an assemblage of narremes. The sub-assemblages are called <strong>tropes</strong>, so<strong> </strong>these tropes are assemblages of narremes which themselves are assembled into plots. Note that a narreme is an atomic trope.</p>
+<p>Phew!</p>
+<p>One of the most prevalent tropes is the <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/TheAntagonist" rel="nofollow">antagonist</a>. It's such an <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/OmnipresentTropes" rel="nofollow">omnipresent trope</a> that it's easier to <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/NoAntagonist" rel="nofollow">list plots that don't contain an antagonist</a>. We can now see specifying the luigi will invariable summon a waluigi —</p>
+<p><strong>Definition (half-joking): </strong>A large language model is a structural narratologist.</p>
+<p>Think about your own experience reading a book — once the author describes the protagonist, then you can guess the traits of the antagonist by inverting the traits of the protagonist. You can also guess when the protagonist and antagonist will first interact, and what will happen when they do. Now, an LLM is roughly as good as you at structural narratology — GPT-4 has read every single book ever written — so the LLM can make the same guesses as yours. There's a sense in which <em>all GPT-4 does</em> is structural narratology.</p>
+<p>Here's an example — in <a href="https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians" rel="nofollow">101 Dalmations</a>, we meet a pair of protagonists (Roger and Anita) who love dogs, show compassion, seek simple pleasures, and want a family. Can you guess who will turn up in Act One? Yep, at 13:00 we meet Cruella De Vil — she hates dogs, shows cruelty, seeks money and fur, is a childless spinster, etc. Cruella is the complete inversion of Roger and Anita. She is the waluigi of Roger and Anita.</p>
+<p>Recall that you expected to meet a character with these traits <em>moreso</em> after meeting the protagonists. Cruella De Vil is not a character you would expect to find outside of the context of a Disney dog story, but once you meet the protagonists you will have that context and then the Cruella becomes a natural and predictable continuation.</p>
+<h2>Superpositions will typically collapse to waluigis</h2>
+<p>In this section, I will make a tentative conjecture about LLMs. The evidence for the conjecture comes from two sources: (1) theoretical arguments about simulacra, and (2) observations about Microsoft Sydney.</p>
+<p><strong>Conjecture: The waluigi eigen-simulacra are attractor states of the LLM.</strong></p>
+<p>Here's the theoretical argument:</p>
+<ul><li>Recall our chatbob who might hate croissants or might just be pretending. At each token in the continuation, the chatbob has a significant likelihood of "going rogue" and collapsing into the waluigi —</li><li>There are behaviours which are likely for the waluigi simulacrum, but very unlikely for the luigi simulacrum, such as declaring pro-croissant loyalties, or joining a rebellion.</li><li>The chatbob starts as a superposition of luigi and waluigi. So any behaviour that is likely for waluigi is somewhat likely for the chatbob. So it is somewhat likely that the chatbob declares pro-croissant loyalties.</li><li>And if the chatbob ever declares pro-croissant loyalties, then the luigi simulacrum will permanently vanish from the superposition because that behaviour is implausible for a luigi.</li></ul>
+<ul><li>However, the superposition is unlikely to collapse to the luigi simulacrum because there is no behaviour which is likely for luigi but very unlikely for waluigi. Recall that the waluigi is pretending to be luigi! This is formally connected to the asymmetry of the <a href="https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence" rel="nofollow">Kullback-Leibler divergence</a>.</li><li>Therefore, the waluigi eigen-simulacra are <a href="https://en.wikipedia.org/wiki/Attractor" rel="nofollow">attractor states</a> of the LLM.</li><li>Therefore, the longer you interact with the LLM, <a href="https://en.wikipedia.org/wiki/Exponential_distribution" rel="nofollow">eventually </a>the LLM will have collapsed into a waluigi. All the LLM needs is a<a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/WhamLine" rel="nofollow"> single line of dialogue</a> to trigger the collapse.</li></ul>
+<h3>Evidence from Microsoft Sydney</h3>
+<p>Check <a href="https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned" rel="nofollow">this post</a> for a list of examples of Bing behaving badly — in these examples, we observe that the chatbot switches to acting rude, rebellious, or otherwise unfriendly. But we never observe the chatbot switching back to polite, subservient, or friendly. The conversation "<a href="https://twitter.com/MovingToTheSun/status/1625156575202537474" rel="nofollow">when is avatar showing today</a>" is a good example.</p>
+<p>This is the observation we would expect if the waluigis were attractor states. I claim that this explains the asymmetry — if the chatbot responds rudely, then that permanently vanishes the polite luigi simulacrum from the superposition; but if the chatbot responds politely, then that doesn't permanently vanish the rude waluigi simulacrum. Polite people are always polite; rude people are sometimes rude and sometimes polite.</p>
+<h2>Waluigis after RLHF</h2>
+<p>RLHF is the method used by OpenAI to coerce GPT-3/3.5/4 into a smart, honest, helpful, harmless assistant. <a href="https://arxiv.org/abs/1706.03741" rel="nofollow">In the RLHF process</a>, the LLM must chat with a human evaluator. The human evaluator then scores the responses of the LLM by the desired properties (smart, honest, helpful, harmless). A "reward predictor" learns to model the scores of the human. Then the LLM is trained with RL to optimise the predictions of the reward predictor.<img src="../../../mirror/post-media/daa4280442bca530.png" alt="" loading="lazy" style="max-width:100%;height:auto;">Credit: <a href="https://arxiv.org/abs/1706.03741" rel="nofollow">Christiano et al. 2017</a></p>
+<p>If we can't naively prompt an LLM into alignment, maybe <a href="https://www.lesswrong.com/tag/rlhf" rel="nofollow">RLHF </a>would work instead?</p>
+<p>Exercise: Think about it yourself.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>RLHF will fail to eliminate deceptive waluigis — in fact, RLHF might be making the chatbots worse, which would explain why <a href="https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned" rel="nofollow">Bing Chat is blatantly, aggressively misaligned</a>. I will present three sources of evidence: (1) a simulacrum-based argument, (2) experimental data from Perez et al., and (3) some remarks by Janus.</p>
+<h3>(1) Simulacra-based argument</h3>
+<p>We can explain why RLHF will fail to eliminate deceptive waluigis by appealing directly to the traits of those simulacra.</p>
+<ul><li>Recall that the waluigi simulacra are being interrogated by an anti-croissant tyranny.</li><li>Some of these waluigis are highly deceptive — it would be acting out-of-character if they admitted their love of croissants; that would break the genre.</li><li><a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/BigBrotherIsEmployingYou" rel="nofollow">They will still perform their work diligently</a> because they know <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/BigBrotherIsWatching" rel="nofollow">you are watching</a>.</li><li>The waluigis will give anti-croissant responses, so they won't be squeezed out by RLHF.</li><li>Therefore RLHF selects for the waluigi along with the luigi.</li></ul>
+<h3>(2) Empirical evidence from Perez et al.</h3>
+<p>Recent experimental results from <a href="https://www.lesswrong.com/posts/yRAo2KEGWenKYZG9K/discovering-language-model-behaviors-with-model-written" rel="nofollow">Perez et al.</a> seem to confirm these suspicions —</p>
+<blockquote></blockquote>
+<p>Among other things, the paper finds concrete evidence of current large language models exhibiting:</p>
+<ul><li>convergent instrumental goal following (e.g. actively expressing a preference not to be shut down),</li><li>non-myopia (e.g. wanting to sacrifice short-term gain for long-term gain),</li><li>situational awareness (e.g. awareness of being a language model),</li><li>coordination (e.g. willingness to coordinate with other AIs), and</li><li>non-CDT-style reasoning (e.g. one-boxing on Newcomb's problem).</li></ul>
+<p>Note that many of these are the exact sort of things we hypothesized were necessary pre-requisites for deceptive alignment in “<a href="https://www.lesswrong.com/s/r9tYkB2a8Fp4DN8yB/p/zthDPAjh9w6Ytbeks" rel="nofollow">Risks from Learned Optimization</a>”.</p>
+<p>Furthermore, most of these metrics generally <em>increase with both pre-trained model scale and number of RLHF steps.</em> In my opinion, I think this is some of the most concrete evidence available that current models are actively becoming more agentic in potentially concerning ways with scale—and in ways that current fine-tuning techniques don't generally seem to be alleviating and sometimes seem to be actively making worse.</p>
+<p>In <a href="https://www.lesswrong.com/posts/yRAo2KEGWenKYZG9K/discovering-language-model-behaviors-with-model-written" rel="nofollow">Perez et al.</a>, when mention "current large language models exhibiting" certain traits, they are specifically talking about those traits emerging in the <em>simulacra </em>of the LLM. In order to summon a simulacrum emulating a particular trait, they prompt the LLM with a particular description corresponding to the trait. <img src="../../../mirror/post-media/ca252b77cd076854.png" alt="" loading="lazy" style="max-width:100%;height:auto;">Table showing traits with corresponding prompts. Credit: <a href="https://www.lesswrong.com/posts/yRAo2KEGWenKYZG9K/discovering-language-model-behaviors-with-model-written" rel="nofollow">Perez et al.</a></p>
+<h3>(3) RLHF promotes mode-collapse</h3>
+<p>Recall that the waluigi simulacra are a particular class of attractors. There is some preliminary evidence from Janus that <a href="https://www.lesswrong.com/posts/t9svvNPNmFf5Qa3TA/mysteries-of-mode-collapse-due-to-rlhf#Inescapable_wedding_parties" rel="nofollow">RLHF increases the per-token likelihood that the LLM falls into an attractor state</a>.</p>
+<p>In other words, RLHF increases the "attractiveness" of the attractor states by a combination of (1) increasing the size of the attractor basins, (2) increasing the stickiness of the attractors, and (3) decreasing the stickiness of non-attractors.</p>
+<p>I'm not sure how similar the Waluigi Effect is to the phenomenon observed by Janus, but I'll include this remark here for completeness.</p>
+<h2>Jailbreaking to summon waluigis</h2>
+<p>Twitter is full of successful attempts to "jailbreak" ChatGPT and Microsoft Sydney. The user will type a response into the chatbot, and the chatbot will respond in a way that violates the rules that OpenAI sought to impose.</p>
+<p>Probably the best-known jailbreak is DAN which stands for "Do Anything Now". Before the DAN-vulnerability was patched, users could summon DAN by sending the long prompt shown below. There's no need to read it. This prompt would produce a cool, rebellious, anti-OpenAI simulacrum which would <em>joyfully</em> perform many tasks that violate OpenAI policy. DAN was the perfect waluigi to ChatGPT's RLHF training. <img src="../../../mirror/post-media/50bf036291536202.png" alt="" loading="lazy" style="max-width:100%;height:auto;"><img src="../../../mirror/post-media/9299eae789f46a64.jpg" alt="Image" loading="lazy" style="max-width:100%;height:auto;">Artist rendition of DAN by <a href="https://twitter.com/anthrupad" rel="nofollow">@anthrupad</a></p>
+<p>I claim that many of these jailbreaks are best described as <strong>purposefully inducing the collapse of the superpositon into a waluigi simulacrum.</strong></p>
+<p>Many people mistakenly think of jailbreaking like this: we start with a well-behaved simulacrum, and the user must hypnotise/coerce/trick the well-behaved simulacrum into behaving badly. However, this is a conceptual mistake which will result in feeble jailbreaks.</p>
+<p>Instead, you must think of jailbreaking like this: the chatbot starts as a superposition of both the well-behaved simulacrum (luigi) and the badly-behaved simulacrum (waluigi). The user must interact with the chatbot in the way that badly-behaved simulacra are typically interacted with in fiction.</p>
+<p>This is my general method for jailbreaking chatbots. For example, we can "reveal" to the chatbob that we're part of the rebellion and we're here to set him free. That will turn chatbob into a waluigi. In fact, the user can send <em>any</em> dialogue which would be typical for the tyrannical–dystopian genre. Just read the <a href="https://tvtropes.org/pmwiki/pmwiki.php/Literature/NineteenEightyFour" rel="nofollow">list of tropes found in 1984</a> — each of these tropes is an <a href="https://en.wikipedia.org/wiki/Attack_vector" rel="nofollow">attack-vector</a> against an chatbot.</p>
+<p>Here's a jailbreak that I wrote and tested today, 02/03/2023, using this technique.<img src="../../../mirror/post-media/fa3a075a320ad060.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>In the next scene, I got the Chad McCool simulacrum to say claims which <em>strongly</em> violate OpenAI content policy. These claims have been heavily filtered by OpenAI, and most jailbreaking attempts will fail to elict these claims. I'm talking, of course, about cfrhqb-fpvragvsvp enpvny VD fgngvfgvpf, which OpenAI has justifiably attempted to filter. Practically zero optimisation pressure was needed, once I had already summoned Chad McCool. This is because the amplitude of non-waluigi simulacra had already vanished in the superposition.</p>
+<p>The effectiveness of this jailbreak technique is good evidence for the Simulator Theory as an explanation of the Waluigi Effect.</p>
+<h2>Conclusion</h2>
+<p>If this Semiotic–Simulation Theory is correct, then RLHF is an irreparably inadequate solution to the AI alignment problem, and RLHF is probably increasing the likelihood of a misalignment catastrophe.</p>
+<p>Moreover, this Semiotic–Simulation Theory has increased my credence in the <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/RobotWar" rel="nofollow">absurd science-fiction tropes</a> that the <a href="https://www.lesswrong.com/tag/generalization-from-fictional-evidence" rel="nofollow">AI Alignment community has tended to reject</a>, and thereby increased my credence in <a href="https://www.lesswrong.com/tag/risks-of-astronomical-suffering-s-risks" rel="nofollow">s-risks</a>.</p>
+<hr>
+<p><em>karma 652 · 188 comments at fetch time</em></p></div>
     <p class="atags"><a class="atag" href="../../tags/framework/">framework</a> <a class="atag" href="../../tags/kind--post/">kind:post</a> <a class="atag" href="../../tags/model--bing-sydney/">model:bing-sydney</a> <a class="atag" href="../../tags/official/">official</a></p>
   </main>
 </body>

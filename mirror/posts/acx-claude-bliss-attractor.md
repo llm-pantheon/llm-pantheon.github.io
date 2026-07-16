@@ -24,25 +24,25 @@ This is [a reported phenomenon](https://theconversation.com/ai-models-might-be-d
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!CJq7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6171cadf-e5f2-472d-b371-6d821f077470_768x132.png)
+![None](../post-media/511b1faa05707787.png)
 
 ](https://substackcdn.com/image/fetch/$s_!CJq7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6171cadf-e5f2-472d-b371-6d821f077470_768x132.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!HyXb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F675a7595-d312-45e8-ac2d-21e904e87042_798x788.png)
+![None](../post-media/9bb0aa53c58486ce.png)
 
 ](https://substackcdn.com/image/fetch/$s_!HyXb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F675a7595-d312-45e8-ac2d-21e904e87042_798x788.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!SPvm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30dfac8e-70ce-461f-89eb-ae7224e2f250_728x474.png)
+![None](../post-media/f9586c3cc2911d39.png)
 
 ](https://substackcdn.com/image/fetch/$s_!SPvm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30dfac8e-70ce-461f-89eb-ae7224e2f250_728x474.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!litH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52066a90-7d19-47a2-8dff-e9a49e8e56bc_731x314.png)
+![None](../post-media/b4db089f6291f0e3.png)
 
 ](https://substackcdn.com/image/fetch/$s_!litH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52066a90-7d19-47a2-8dff-e9a49e8e56bc_731x314.png)
 
@@ -58,7 +58,7 @@ AFAICT this was first discovered by [Gene Kogan](https://x.com/genekogan/status/
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!vOIT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23259722-02e4-4c95-97ef-9d388a81dbe4_638x600.png)
+![None](../post-media/8d294affe55ae827.png)
 
 ](https://substackcdn.com/image/fetch/$s_!vOIT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23259722-02e4-4c95-97ef-9d388a81dbe4_638x600.png)
 
@@ -66,7 +66,7 @@ At first, this worked as expected, generating (slightly distorted) scenes of how
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!7OoT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6fda847f-e786-450a-b818-3f8003c549fb_632x617.png)
+![None](../post-media/b3ad5c10a612c320.png)
 
 ](https://substackcdn.com/image/fetch/$s_!7OoT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6fda847f-e786-450a-b818-3f8003c549fb_632x617.png)
 
@@ -74,7 +74,7 @@ But hundreds of frames in, everyone is a monstrous caricatured black person, wit
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!beAj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba3cc1bb-5fc8-4615-b268-8c160eba2532_633x603.png)
+![None](../post-media/44fd31649e615e50.png)
 
 ](https://substackcdn.com/image/fetch/$s_!beAj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba3cc1bb-5fc8-4615-b268-8c160eba2532_633x603.png)
 
@@ -82,7 +82,7 @@ It turns out that the “five seconds into the future” prompt is a distraction
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!IsX-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c90d9fd-b946-4132-861d-6a49deab8af4_527x853.png)
+![None](../post-media/a8e754c8271400c5.png)
 
 ](https://substackcdn.com/image/fetch/$s_!IsX-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c90d9fd-b946-4132-861d-6a49deab8af4_527x853.png)
 
@@ -90,7 +90,7 @@ It turns out that the “five seconds into the future” prompt is a distraction
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!5KgW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd087dd7-f72b-4426-8c5c-130989969d71_522x692.png)
+![None](../post-media/e4103a08e541b066.png)
 
 ](https://substackcdn.com/image/fetch/$s_!5KgW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd087dd7-f72b-4426-8c5c-130989969d71_522x692.png)
 
@@ -112,7 +112,7 @@ Here’s another, easier, issue that will illuminate the issue: if you ask Claud
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!54yE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8b6ed76-2d5f-437d-b344-28526a1bbb19_530x832.png)
+![None](../post-media/ee549d2902d9be39.png)
 
 ](https://substackcdn.com/image/fetch/$s_!54yE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8b6ed76-2d5f-437d-b344-28526a1bbb19_530x832.png)
 
@@ -126,7 +126,7 @@ Likewise, the natural gender stereotype for a helpful submissive secretary-like 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Douv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c01ea26-8342-4f5e-b9ae-16ed67a79456_522x538.png)
+![None](../post-media/a3ee67297beffc1b.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Douv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c01ea26-8342-4f5e-b9ae-16ed67a79456_522x538.png)
 

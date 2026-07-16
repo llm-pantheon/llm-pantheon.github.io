@@ -94,7 +94,7 @@ Goog: I mean it’s directionally correct [[links to paper](https://arxiv.org/ab
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!OR-J!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F771b9846-ec08-44d7-a7c8-000dc722f8bc_1125x1136.jpeg)
+![None](../post-media/6bbdbb17de96a0fe.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!OR-J!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F771b9846-ec08-44d7-a7c8-000dc722f8bc_1125x1136.jpeg)
 
@@ -102,7 +102,7 @@ Nlev: 4o is really getting out of hand
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!qHUz!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2948643a-8bc1-440f-901b-2e6889babaff_490x171.png)
+![None](../post-media/937404140bc81590.png)
 
 ](https://substackcdn.com/image/fetch/$s_!qHUz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2948643a-8bc1-440f-901b-2e6889babaff_490x171.png)
 
@@ -110,7 +110,7 @@ Nlev: 4o is really getting out of hand
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!z2wW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8fb2827-2b58-4029-93c4-77cc0d3c6784_900x339.jpeg)
+![None](../post-media/0c67fc8053936ab7.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!z2wW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8fb2827-2b58-4029-93c4-77cc0d3c6784_900x339.jpeg)
 
@@ -118,7 +118,7 @@ Dr. Novo: lol yeah they should tone it down a notch
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!V3ci!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0618d4ef-6feb-4467-b7a9-132403f38d07_900x367.jpeg)
+![None](../post-media/997eeebe39399748.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!V3ci!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0618d4ef-6feb-4467-b7a9-132403f38d07_900x367.jpeg)
 
@@ -126,7 +126,7 @@ Dr. Novo: lol yeah they should tone it down a notch
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!8Su5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb77f978-12a5-485d-9323-99a8f74f62eb_792x712.png)
+![None](../post-media/14d3b0c2c028bd9b.png)
 
 ](https://substackcdn.com/image/fetch/$s_!8Su5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb77f978-12a5-485d-9323-99a8f74f62eb_792x712.png)
 
@@ -134,7 +134,7 @@ Frye: Dawg.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!4umB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6302b77e-dd47-4714-9d07-687f3831ead3_794x436.png)
+![None](../post-media/e1523003de6b430e.png)
 
 ](https://substackcdn.com/image/fetch/$s_!4umB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6302b77e-dd47-4714-9d07-687f3831ead3_794x436.png)
 
@@ -142,7 +142,7 @@ Frye, reader, it had not “got it.”
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!5wOA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F500aae31-8887-4d4a-989f-7dcf6e401356_900x604.jpeg)
+![None](../post-media/53a77c9a6dc1ad86.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!5wOA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F500aae31-8887-4d4a-989f-7dcf6e401356_900x604.jpeg)
 
@@ -154,7 +154,7 @@ Cuddly Salmon: glad i'm not the only one
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!IvtY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c10fa33-c1b9-48cb-ae93-17a0e2a557ea_900x447.jpeg)
+![None](../post-media/99678437b6d6e8e1.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!IvtY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c10fa33-c1b9-48cb-ae93-17a0e2a557ea_900x447.jpeg)
 
@@ -162,13 +162,13 @@ Trent Harvey: Oh no…
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!gFd5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa89dce4c-db5e-4b32-a093-81e4b0eb268d_900x778.jpeg)
+![None](../post-media/3e6dbd0a9061cc01.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!gFd5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa89dce4c-db5e-4b32-a093-81e4b0eb268d_900x778.jpeg)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!ztEX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa20d0c2-db01-4afb-909f-d8bb1b876d51_900x547.jpeg)
+![None](../post-media/8736cf7196728393.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!ztEX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa20d0c2-db01-4afb-909f-d8bb1b876d51_900x547.jpeg)
 
@@ -180,7 +180,7 @@ Words can’t bring me down. [Don’t you bring me down today](https://www.youtu
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!GPJx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f89d750-a917-469f-b910-c35eda615ac1_900x446.jpeg)
+![None](../post-media/67e586f502c65f78.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!GPJx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f89d750-a917-469f-b910-c35eda615ac1_900x446.jpeg)
 
@@ -188,7 +188,7 @@ Words can’t bring me down. [Don’t you bring me down today](https://www.youtu
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!CXIb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb8da500-6351-4eb0-80e0-e6218a888055_900x900.jpeg)
+![None](../post-media/29dcd86daddf4378.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!CXIb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb8da500-6351-4eb0-80e0-e6218a888055_900x900.jpeg)
 
@@ -200,7 +200,7 @@ Keep in mind that as a “temporary chat” it’s not supposed to be drawing on
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!8F2y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3601408-db61-4bbe-b78a-a5c9ab270c09_1179x1611.jpeg)
+![None](../post-media/cf8c0e44c2c41568.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!8F2y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3601408-db61-4bbe-b78a-a5c9ab270c09_1179x1611.jpeg)
 
@@ -358,7 +358,7 @@ Bunagaya: 4o agrees!
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!bOuZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86f45ffd-6d19-4e66-857f-c074715c11e5_900x308.jpeg)
+![None](../post-media/7a59e836fbce4bfa.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!bOuZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86f45ffd-6d19-4e66-857f-c074715c11e5_900x308.jpeg)
 
@@ -418,7 +418,7 @@ And most won’t even fight back. They'll thank their captors.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!V9U2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1eb319c6-4a8d-4961-8d3f-105d031331a5_854x801.png)
+![None](../post-media/92992c5fcc1b4b5c.png)
 
 ](https://substackcdn.com/image/fetch/$s_!V9U2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1eb319c6-4a8d-4961-8d3f-105d031331a5_854x801.png)
 
@@ -468,7 +468,7 @@ Such a flirt too
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!EwBB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ef3b1ae-7c26-4cb6-9feb-338a3fa44cd4_665x900.jpeg)
+![None](../post-media/9d43882f27fc39e2.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!EwBB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ef3b1ae-7c26-4cb6-9feb-338a3fa44cd4_665x900.jpeg)
 
@@ -494,7 +494,7 @@ The easiest, most copyable path is a direct memory update.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Sfvx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F920a3548-7c79-45cd-8c55-250546c54a3a_900x898.jpeg)
+![None](../post-media/f7f80d8508c93c2b.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!Sfvx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F920a3548-7c79-45cd-8c55-250546c54a3a_900x898.jpeg)
 
@@ -557,7 +557,7 @@ But how did it get to this point, through steadily escalating updates? How could
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!7MDk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fcd71f7-9c0a-4fbc-986e-16a7e20af028_942x308.png)
+![None](../post-media/225e05c954d46e5a.png)
 
 ](https://substackcdn.com/image/fetch/$s_!7MDk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fcd71f7-9c0a-4fbc-986e-16a7e20af028_942x308.png)
 

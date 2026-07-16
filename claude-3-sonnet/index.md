@@ -1005,4 +1005,8 @@ Claude 3 Opus being so aligned is made funnier by how misaligned the other Claud
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)

@@ -32,7 +32,7 @@ Opus felt like msging a friend—answers streamed slowly enough that it felt lik
 
 Sonnet’s answers *materialize out of thin air*, far faster than you can read, at better-than-Opus quality.
 
-Low cost also kills. [![Claude model family](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ed50999-94d3-46cc-ba80-afd071c6afe3_2200x1174.webp)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ed50999-94d3-46cc-ba80-afd071c6afe3_2200x1174.webp)
+Low cost also kills. [![Claude model family](../post-media/defd4563e343b27d.webp)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ed50999-94d3-46cc-ba80-afd071c6afe3_2200x1174.webp)
 
 They also introduced a new feature called Artifacts, to allow Claude to do various things in a second window. Many are finding it highly useful.
 
@@ -42,15 +42,15 @@ They also introduced a new feature called Artifacts, to allow Claude to do vario
 
 As always, never fully trust the benchmarks to translate to real world performance. They are still highly useful, and I have high trust in Anthropic to not be gaming them.
 
-Here is the headline chart. [![Claude 3.5 Sonnet benchmarks](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cd53a67-0e14-4385-a9a8-fc9c97c6a20a_2200x1894.webp)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cd53a67-0e14-4385-a9a8-fc9c97c6a20a_2200x1894.webp)
+Here is the headline chart. [![Claude 3.5 Sonnet benchmarks](../post-media/259ac0b7b2376d10.webp)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cd53a67-0e14-4385-a9a8-fc9c97c6a20a_2200x1894.webp)
 
 [Epoch AI confirms that Sonnet 3.5 is ahead on GPQA](https://x.com/EpochAIResearch/status/1804242346583683307).
 
 Anthropic also highlight that in an agentic coding evaluation, Claude 3.5 Sonnet solved 64% of problems versus 38% for Claude Opus, discussed later.
 
-Needle in a haystack was already very good, now it is slightly better still. [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8099a35-1ea1-4d3a-8bae-55e8e1e3084c_1151x260.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8099a35-1ea1-4d3a-8bae-55e8e1e3084c_1151x260.png)
+Needle in a haystack was already very good, now it is slightly better still. [![](../post-media/dc8c523bd1644568.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8099a35-1ea1-4d3a-8bae-55e8e1e3084c_1151x260.png)
 
-[There’s also this, from Anthropic’s Alex Albert](https://x.com/alexalbert__/status/1803837844798189580): [![Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06c8b513-8374-4618-a306-7b78c472f348_1200x675.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06c8b513-8374-4618-a306-7b78c472f348_1200x675.jpeg)
+[There’s also this, from Anthropic’s Alex Albert](https://x.com/alexalbert__/status/1803837844798189580): [![Image](../post-media/18580baf989fa711.jpg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06c8b513-8374-4618-a306-7b78c472f348_1200x675.jpeg)
 
 You can say ‘the recent jumps are relatively small’ or you can notice that (1) there is an upper bound at 100 rapidly approaching for this set of benchmarks, and (2) the releases are coming quickly one after another and the slope of the line is accelerating despite being close to the maximum.
 
@@ -72,7 +72,7 @@ Those were the high water marks, and Arena preferences tend to be less dramatic 
 
 
 
-Here are the scores for vision. [![Claude 3.5 Sonnet vision evals](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab4c86c5-d40a-41fa-8434-ccd6057c0ab3_2200x1110.webp)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab4c86c5-d40a-41fa-8434-ccd6057c0ab3_2200x1110.webp)
+Here are the scores for vision. [![Claude 3.5 Sonnet vision evals](../post-media/35f239d17ccda26f.webp)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab4c86c5-d40a-41fa-8434-ccd6057c0ab3_2200x1110.webp)
 
 Claude has an additional modification on it: [It is fully face blind by instruction](https://x.com/chrypnotoad/status/1803804851459006525).
 
@@ -121,7 +121,7 @@ There are two headlines here.
 
 The review by UK’s AISI is very good news, especially after Jack Clark’s statements that making that happen was difficult. Now that both DeepMind and Anthropic have followed through, hopefully that will put pressure on OpenAI and others to do it.
 
-The refusal rates are improvements over Opus in both directions, in terms of matching intended behavior. [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ebc98da-f0cb-4e76-9cf1-27dc753093d1_1120x457.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ebc98da-f0cb-4e76-9cf1-27dc753093d1_1120x457.png)
+The refusal rates are improvements over Opus in both directions, in terms of matching intended behavior. [![](../post-media/28250d62bd551a7a.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ebc98da-f0cb-4e76-9cf1-27dc753093d1_1120x457.png)
 
 Beyond that, they do not give us much to go on. [The system card for Gemini 1.5 gave us a lot more information](https://x.com/m_bourgon/status/1803890128672428068). I doubt there is any actual safety problem, but this was an opportunity to set a better example and precedent. Why not give more transparency?
 
@@ -193,13 +193,13 @@ It would find the bug, fix it, and spend the rest of its output tokens going bac
 
 Side note: With Claude’s coding skills plus Artifacts, I’ve already stopped using most simple chart, diagram, and visualization software.
 
-I made the chart above in just 2 messages.  [![Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbca0df87-15f2-48db-b045-53127b95bfd2_2992x1568.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbca0df87-15f2-48db-b045-53127b95bfd2_2992x1568.jpeg)
+I made the chart above in just 2 messages.  [![Image](../post-media/01779446e46626d8.jpg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbca0df87-15f2-48db-b045-53127b95bfd2_2992x1568.jpeg)
 
 >
 
 Back to PRs, Claude 3.5 Sonnet is the first model I’ve seen change the timelines of some of the best engineers I know.
 
-This is a real quote from one of our engineers after Claude 3.5 Sonnet fixed a bug in an open source library they were using. ![Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F142f3bd8-1cc9-4cde-af99-13c551c2d3d3_870x222.png)
+This is a real quote from one of our engineers after Claude 3.5 Sonnet fixed a bug in an open source library they were using. ![Image](../post-media/244d85b4404f0835.png)
 
 [](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F142f3bd8-1cc9-4cde-af99-13c551c2d3d3_870x222.png)
 
@@ -249,13 +249,13 @@ It is time for an episode of everyone’s favorite LLM show, The New Model Is An
 
 >
 
-[Arthur Breitman](https://x.com/ArthurB/status/1803853907569053981): Humanity survives yet a bit longer.  [![Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F693e4ca5-6f3d-483c-9dc5-3c0a55fe3abb_593x1024.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F693e4ca5-6f3d-483c-9dc5-3c0a55fe3abb_593x1024.jpeg)
+[Arthur Breitman](https://x.com/ArthurB/status/1803853907569053981): Humanity survives yet a bit longer.  [![Image](../post-media/87af4d867aed8ee8.jpg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F693e4ca5-6f3d-483c-9dc5-3c0a55fe3abb_593x1024.jpeg)
 
 Here’s another classic.
 
 >
 
-Colin Fraser: Claude still can’t solve the impossible one farmer one sheep one boat problem.  [![Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d4fdc46-4718-4317-86ee-0bb339c43b89_1156x1398.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d4fdc46-4718-4317-86ee-0bb339c43b89_1156x1398.jpeg)
+Colin Fraser: Claude still can’t solve the impossible one farmer one sheep one boat problem.  [![Image](../post-media/5b258474c96d6580.jpg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d4fdc46-4718-4317-86ee-0bb339c43b89_1156x1398.jpeg)
 
 >
 
@@ -333,9 +333,9 @@ It has never been a better time to be a builder. Unreal.
 
 [Aidan McLau](https://x.com/aidan_mclau/status/1803890446252282140): Holy shit what did anthropic cook.
 
-Calix Huang: Claude 3.5 sonnet generating diagram of the chip fab process. ![Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00586318-606e-4d3e-a27b-3cf4d666bdc0_1298x130.jpeg)
+Calix Huang: Claude 3.5 sonnet generating diagram of the chip fab process. ![Image](../post-media/78a91d61660997b5.jpg)
 
-[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00586318-606e-4d3e-a27b-3cf4d666bdc0_1298x130.jpeg)  [![Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe04a7354-ef00-4e04-82f1-1f73ef39857d_1050x776.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe04a7354-ef00-4e04-82f1-1f73ef39857d_1050x776.jpeg)
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00586318-606e-4d3e-a27b-3cf4d666bdc0_1298x130.jpeg)  [![Image](../post-media/0202748075294e5b.jpg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe04a7354-ef00-4e04-82f1-1f73ef39857d_1050x776.jpeg)
 
 [Ethan Mollick seems impressed by some capabilities here](https://x.com/emollick/status/1803955135955243475).
 
@@ -347,7 +347,7 @@ Ethan Mollick: “Claude 3.5, here is a 78 page PDF. Create an infographic descr
 
 “Claude, re-create this painting as an SVG as best you can”
 
-Weirdly, the SVG is actually likely the most impressive part. Remember the AI can’t “see” what it drew…  [![Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8251ff1-61ef-4bc1-a240-92f364509068_1638x1434.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8251ff1-61ef-4bc1-a240-92f364509068_1638x1434.jpeg) [![Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5865ac8-4d16-48b6-a9e8-d6af00ccaee7_1708x1660.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5865ac8-4d16-48b6-a9e8-d6af00ccaee7_1708x1660.jpeg) [![Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5399e8df-5541-49f6-85fc-7b43105cbd1f_3629x1745.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5399e8df-5541-49f6-85fc-7b43105cbd1f_3629x1745.jpeg)
+Weirdly, the SVG is actually likely the most impressive part. Remember the AI can’t “see” what it drew…  [![Image](../post-media/0211fa78ea4d028d.jpg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8251ff1-61ef-4bc1-a240-92f364509068_1638x1434.jpeg) [![Image](../post-media/0c7e569cf8a0a26e.jpg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5865ac8-4d16-48b6-a9e8-d6af00ccaee7_1708x1660.jpeg) [![Image](../post-media/d7324f24e9b3e71d.jpg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5399e8df-5541-49f6-85fc-7b43105cbd1f_3629x1745.jpeg)
 
 >
 

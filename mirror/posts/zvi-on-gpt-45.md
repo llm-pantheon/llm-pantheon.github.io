@@ -150,13 +150,13 @@ GPT-4.5 did show noticeable steps up in persuasion, but nothing too worrisome.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!gCFL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f7559af-71cf-44ff-a32a-0f651ff934d5_1274x607.png)
+![None](../post-media/144df069b14968ae.png)
 
 ](https://substackcdn.com/image/fetch/$s_!gCFL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f7559af-71cf-44ff-a32a-0f651ff934d5_1274x607.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!TY0j!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c3f1646-480f-4b5c-bc42-67db11574f28_1249x622.png)
+![None](../post-media/59ec726ae583496c.png)
 
 ](https://substackcdn.com/image/fetch/$s_!TY0j!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c3f1646-480f-4b5c-bc42-67db11574f28_1249x622.png)
 
@@ -176,7 +176,7 @@ This is a big model. It is priced accordingly. Indeed, it is so expensive to ser
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!P8HS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d19a7c3-874b-4bab-81ee-d7d2ea7b46b5_1198x336.jpeg)
+![None](../post-media/0ce458a1f8efcbba.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!P8HS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d19a7c3-874b-4bab-81ee-d7d2ea7b46b5_1198x336.jpeg)
 
@@ -184,7 +184,7 @@ Chris Malloy: Ouch.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!tDD4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9408b73b-41b0-47b3-818a-06584f26188b_814x562.png)
+![None](../post-media/8210c2da7db4bb91.png)
 
 ](https://substackcdn.com/image/fetch/$s_!tDD4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9408b73b-41b0-47b3-818a-06584f26188b_814x562.png)
 
@@ -256,7 +256,7 @@ GPT-4.5 is preferred over GPT-4o by human testers, but notice that the win rates
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!DYC0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd27c5c58-9085-4f56-a51f-b36ce4b3a9e2_1051x709.png)
+![None](../post-media/789c139ee5f007aa.png)
 
 ](https://substackcdn.com/image/fetch/$s_!DYC0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd27c5c58-9085-4f56-a51f-b36ce4b3a9e2_1051x709.png)
 
@@ -288,7 +288,7 @@ As AI takes on increasingly complex tasks, we believe that multi-model agents th
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!6N6h!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff914f1c6-1cbb-4d70-9f5c-d7ca535d4ade_1199x709.jpeg)
+![None](../post-media/52f5c0cf3e9e767e.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!6N6h!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff914f1c6-1cbb-4d70-9f5c-d7ca535d4ade_1199x709.jpeg)
 
@@ -296,7 +296,7 @@ It however did actively worse on SWE-Bench than the reasoning models, and vastly
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!pdip!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64841230-c6c5-4f2e-9746-74f20eacc401_1199x500.jpeg)
+![None](../post-media/3b8890db5e25422f.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!pdip!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64841230-c6c5-4f2e-9746-74f20eacc401_1199x500.jpeg)
 
@@ -304,7 +304,7 @@ It however did actively worse on SWE-Bench than the reasoning models, and vastly
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!BVhI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb01b7ab0-d9b5-4d4d-8d22-305c8060f6b9_1199x999.jpeg)
+![None](../post-media/0ec671f39888824f.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!BVhI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb01b7ab0-d9b5-4d4d-8d22-305c8060f6b9_1199x999.jpeg)
 

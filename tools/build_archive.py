@@ -9,7 +9,7 @@ dbs + repo state. Run after build_records.py. Stdlib only.
 Usage: python tools/build_archive.py    (from repo root)
 Design: tools/archive-design.md
 """
-import os, re, sys, json, html, sqlite3, shutil
+import os, re, sys, json, html, sqlite3, shutil, urllib.parse
 
 sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -245,6 +245,55 @@ def tweet_md(tid, row, media, tags, citing):
         lines.append('cited on: ' + ', '.join(sorted(citing)))
     return '\n'.join(lines) + '\n'
 
+INLINE_IMG = re.compile(r'!\[([^\]]*)\]\(([^)\s]+)\)')
+INLINE_LNK = re.compile(r'(?<!!)\[([^\]]+)\]\(([^)\s]+)\)')
+
+def md_to_html(text, img_prefix=''):
+    """Minimal, faithful markdown -> HTML for mirrored posts (headings, lists,
+    blockquotes, hr, images, links, bold/italic/code). img_prefix is prepended to
+    relative image/link paths (e.g. '../../../mirror/posts/') so they resolve from
+    the archive page's location; absolute http(s) URLs are left untouched."""
+    import posixpath
+    def fixpath(p):
+        if p.startswith(('http://', 'https://', '/', '#', 'mailto:')):
+            return p
+        return posixpath.normpath(img_prefix + p)
+    out, i, lines = [], 0, text.split('\n')
+    def inline(s):
+        s = esc(s)
+        s = INLINE_IMG.sub(lambda m: '<img src="%s" alt="%s" loading="lazy" style="max-width:100%%;height:auto;">'
+                           % (fixpath(m.group(2)), esc(m.group(1))), s)
+        s = INLINE_LNK.sub(lambda m: '<a href="%s" rel="nofollow">%s</a>' % (fixpath(m.group(2)), m.group(1)), s)
+        s = re.sub(r'\*\*([^*]+)\*\*', r'<strong>\1</strong>', s)
+        s = re.sub(r'(?<!\*)\*([^*]+)\*(?!\*)', r'<em>\1</em>', s)
+        s = re.sub(r'`([^`]+)`', r'<code>\1</code>', s)
+        return s
+    while i < len(lines):
+        ln = lines[i].rstrip()
+        if not ln.strip():
+            i += 1; continue
+        if re.match(r'^#{1,6}\s', ln):
+            n = len(ln) - len(ln.lstrip('#')); out.append('<h%d>%s</h%d>' % (min(n,6), inline(ln.lstrip('# ')), min(n,6))); i += 1
+        elif re.match(r'^(---+|\*\*\*+)\s*$', ln):
+            out.append('<hr>'); i += 1
+        elif ln.lstrip().startswith('>'):
+            buf = []
+            while i < len(lines) and lines[i].lstrip().startswith('>'):
+                buf.append(lines[i].lstrip()[1:].lstrip()); i += 1
+            out.append('<blockquote>%s</blockquote>' % inline('\n'.join(buf)).replace('\n', '<br>'))
+        elif re.match(r'^\s*[-*+]\s', ln) or re.match(r'^\s*\d+\.\s', ln):
+            tag = 'ol' if re.match(r'^\s*\d+\.\s', ln) else 'ul'
+            buf = []
+            while i < len(lines) and (re.match(r'^\s*[-*+]\s', lines[i]) or re.match(r'^\s*\d+\.\s', lines[i])):
+                buf.append('<li>%s</li>' % inline(re.sub(r'^\s*(?:[-*+]|\d+\.)\s', '', lines[i]))); i += 1
+            out.append('<%s>%s</%s>' % (tag, ''.join(buf), tag))
+        else:
+            buf = []
+            while i < len(lines) and lines[i].strip() and not re.match(r'^(#{1,6}\s|>|---+|\s*[-*+]\s|\s*\d+\.\s)', lines[i]):
+                buf.append(lines[i]); i += 1
+            out.append('<p>%s</p>' % inline(' '.join(buf)))
+    return '\n'.join(out)
+
 def mirror_page(mid, m, tags):
     fn = m['file']
     title = m.get('title') or mid
@@ -254,7 +303,7 @@ def mirror_page(mid, m, tags):
                 '<p class="note"><a href="../../../mirror/%s">open the PDF</a></p></object>' % (fn, fn))
     else:
         raw = open(os.path.join(REPO, 'mirror', fn.replace('/', os.sep)), encoding='utf-8', errors='replace').read()
-        body = '<pre class="apost">%s</pre>' % esc(raw)
+        body = '<div class="apost">%s</div>' % md_to_html(raw, '../../../mirror/posts/')
     return f'''<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -342,7 +391,7 @@ def build():
             tweet_md(tid, row, media, tags, citing))
         for t in tags: tag_map.setdefault(t, []).append((favs or 0, 't/' + tid, ('@%s %s — %s' % (author, (dt or '')[:10], (text or '')[:120]))))
         index_rows.append({'id': 't/' + tid, 'date': (dt or '')[:10], 'author': author,
-                           'favs': favs or 0, 'tags': sorted(tags), 'text': (text or '')[:200]})
+                           'favs': favs or 0, 'tags': sorted(tags), 'text': text or '', 'len': len(text or '')})
 
     for mid, m in sorted(mirror_manifest.items()):
         tags = set(m.get('tags') or []) | {'kind:' + ('paper' if m.get('type') == 'pdf' else 'post'), 'official'}
@@ -355,8 +404,9 @@ def build():
             '# %s\n\nmirror: ../../../mirror/%s\norigin: %s\ntags: %s\n' % (
                 m.get('title') or mid, m['file'], m.get('source') or '', ', '.join(sorted(tags))))
         for t in tags: tag_map.setdefault(t, []).append((0, 'a/' + mid, m.get('title') or mid))
+        title = m.get('title') or mid
         index_rows.append({'id': 'a/' + mid, 'date': m.get('fetched') or '', 'author': 'mirror',
-                           'favs': 0, 'tags': sorted(tags), 'text': (m.get('title') or mid)[:200]})
+                           'favs': 0, 'tags': sorted(tags), 'text': title, 'len': len(title)})
 
     # tag pages
     vocab = tagcfg.get('vocab', {})
@@ -371,18 +421,39 @@ def build():
 <html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{esc(tag)} — Pantheon archive</title><link rel="stylesheet" href="../../../style.css"></head>
 <body><main class="essay"><nav><a href="../">&larr; tags</a> <a href="../../">archive</a> <a href="../../../">pantheon</a></nav>
-<h1>{esc(tag)}</h1><p class="note">{esc(vocab.get(tag, ''))} &middot; {len(items)} artifacts, sorted by favorites.</p>
+<h1>{esc(tag)}</h1><p class="note">{esc(vocab.get(tag, ''))} &middot; {len(items)} artifacts, sorted by favorites.
+&middot; <a href="../../#tag={urllib.parse.quote(tag)}">open in search &mdash; combine tags, sort, filter by date &rarr;</a></p>
 <ul>{lis}</ul></main></body></html>''')
         rows.append((len(items), tag))
-    lis = '\n'.join('<li><a href="%s/">%s</a> <span class="rh-stats">%d</span>%s</li>' % (
-        tag_slug(tag), esc(tag), n, (' <span class="note">' + esc(vocab[tag]) + '</span>') if tag in vocab else '')
-        for n, tag in sorted(rows, reverse=True))
+    NS = [('model', 'model:', 'models mentioned'), ('year', 'year:', 'by year'),
+          ('kind', 'kind:', 'artifact type'), ('author', 'author:', 'who posted it'),
+          ('on', 'on:', 'which model page cites it'), ('elicited', 'elicited:', 'elicitation context'),
+          ('topic', None, 'curated topics (tools/tags.json)')]
+    def render_group(tags_in):
+        return ' '.join('<a class="atag" href="%s/">%s <span class="rh-stats">%d</span></a>' % (
+            tag_slug(tag), esc(tag), n) for n, tag in sorted(tags_in, reverse=True))
+    used = set()
+    sections = []
+    for key, prefix, label in NS:
+        if prefix:
+            grp = [(n, t) for n, t in rows if t.startswith(prefix)]
+        else:
+            grp = [(n, t) for n, t in rows if ':' not in t]  # curated topics
+        used.update(t for _, t in grp)
+        if grp:
+            sections.append('<div class="lab">%s</div><div class="lab-note">%s &middot; %d</div><p class="atags">%s</p>'
+                            % (esc(key), esc(label), len(grp), render_group(grp)))
+    leftover = [(n, t) for n, t in rows if t not in used]
+    if leftover:
+        sections.append('<div class="lab">other</div><p class="atags">%s</p>' % render_group(leftover))
     open(os.path.join(ARCH, 'tags', 'index.html'), 'w', encoding='utf-8').write(f'''<!DOCTYPE html>
 <html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>tags — Pantheon archive</title><link rel="stylesheet" href="../../style.css"></head>
 <body><main class="essay"><nav><a href="../">&larr; archive</a> <a href="../../">pantheon</a></nav>
-<h1>tags</h1><p class="note">Every tag in the archive, with counts. Auto tags (model:, author:, year:, kind:, on:) are
-derived by the build; topic tags are curated in tools/tags.json.</p><ul class="ataglist">{lis}</ul></main></body></html>''')
+<h1>tags</h1><p class="note">Every tag in the archive, grouped by namespace, with counts. Auto tags
+(model:, author:, year:, kind:, on:, elicited:) are derived by the build; curated topics live in
+tools/tags.json. Click any tag for its artifacts, or open it in <a href="../">search</a> to sort.</p>
+{''.join(sections)}</main></body></html>''')
 
     json.dump(index_rows, open(os.path.join(ARCH, 'index.json'), 'w', encoding='utf-8'), ensure_ascii=False)
     json.dump({t: len(v) for t, v in tag_map.items()},
@@ -397,29 +468,55 @@ derived by the build; topic tags are curated in tools/tags.json.</p><ul class="a
 <p class="note">Every artifact the pantheon cites — tweets with full text, images and transcriptions; mirrored papers
 and posts — each on a permanent page, tagged. Type to search; click tags to filter (AND). Agents: fetch
 <code>index.json</code> / <code>tags.json</code>, or read <code>/llms.txt</code>.</p>
-<input id="q" class="asearch" placeholder="search text, or click tags below&hellip;" autofocus>
+<input id="q" class="asearch" placeholder="search — plain words, or content:identity, model:opus, author:janus, year:2025&hellip;" autofocus>
+<div class="acontrols">
+ <label>sort <select id="sort">
+  <option value="fav">most liked</option><option value="favup">least liked</option>
+  <option value="new">newest</option><option value="old">oldest</option>
+  <option value="long">longest</option><option value="short">shortest</option>
+ </select></label>
+ <label>from <input id="from" type="date"></label>
+ <label>to <input id="to" type="date"></label>
+ <span id="count" class="note"></span>
+</div>
 <div id="activetags" class="atags"></div>
 <div id="results"></div>
 <script>
 let ROWS=[],ACTIVE=new Set();
+const $=id=>document.getElementById(id);
+const SORT={fav:(a,b)=>b.favs-a.favs,favup:(a,b)=>a.favs-b.favs,
+ new:(a,b)=>(b.date||'').localeCompare(a.date||''),old:(a,b)=>(a.date||'').localeCompare(b.date||''),
+ long:(a,b)=>(b.len||0)-(a.len||0),short:(a,b)=>(a.len||0)-(b.len||0)};
+const FIELDS=/^(content|author|model|tag|year|on|kind|elicited):(.+)$/i;
+(location.hash.match(/tag=([^&]+)/)?decodeURIComponent(RegExp.$1).split(','):[]).forEach(t=>t&&ACTIVE.add(t));
 fetch('index.json').then(r=>r.json()).then(d=>{ROWS=d;render();});
 function toggle(t){ACTIVE.has(t)?ACTIVE.delete(t):ACTIVE.add(t);render();}
+function parse(q){const bare=[],content=[],scoped=[];
+ q.trim().split(/\s+/).filter(Boolean).forEach(tok=>{const m=tok.match(FIELDS);
+  if(m){const f=m[1].toLowerCase(),v=m[2].toLowerCase();
+   if(f==='content')content.push(v);else if(f==='tag')scoped.push({f:null,v});else scoped.push({f:f+':',v});}
+  else bare.push(tok.toLowerCase());});
+ return {bare,content,scoped};}
 function render(){
- const q=document.getElementById('q').value.toLowerCase();
- let rows=ROWS.filter(r=>[...ACTIVE].every(t=>r.tags.includes(t)));
- if(q)rows=rows.filter(r=>(r.text+' '+r.author+' '+r.tags.join(' ')).toLowerCase().includes(q));
- rows.sort((a,b)=>b.favs-a.favs);
- document.getElementById('activetags').innerHTML=[...ACTIVE].map(t=>`<a class="atag on" onclick="toggle('${t}')">${t} ✕</a>`).join(' ');
- const tagCounts={};rows.forEach(r=>r.tags.forEach(t=>{tagCounts[t]=(tagCounts[t]||0)+1;}));
- const sugg=Object.entries(tagCounts).filter(([t])=>!ACTIVE.has(t)).sort((a,b)=>b[1]-a[1]).slice(0,25)
-   .map(([t,n])=>`<a class="atag" onclick="toggle('${t}')">${t} (${n})</a>`).join(' ');
- document.getElementById('results').innerHTML=
-  `<p class="atags">${sugg}</p>`+
+ const {bare,content,scoped}=parse($('q').value),from=$('from').value,to=$('to').value;
+ let rows=ROWS.filter(r=>{
+  if(![...ACTIVE].every(t=>r.tags.includes(t)))return false;
+  if(from&&(r.date||'')<from)return false; if(to&&(r.date||'')>to)return false;
+  const hay=(r.text+' '+(r.author||'')+' '+r.tags.join(' ')).toLowerCase(),tl=r.tags.map(t=>t.toLowerCase()),lt=r.text.toLowerCase();
+  return bare.every(b=>hay.includes(b))&&content.every(c=>lt.includes(c))
+   &&scoped.every(s=>tl.some(t=>(s.f?t.startsWith(s.f):true)&&t.includes(s.v)));});
+ rows.sort(SORT[$('sort').value]||SORT.fav);
+ $('count').textContent=rows.length+' artifacts';
+ $('activetags').innerHTML=[...ACTIVE].map(t=>`<a class="atag on" onclick="toggle('${t}')">${t} ✕</a>`).join(' ');
+ const tc={};rows.forEach(r=>r.tags.forEach(t=>{tc[t]=(tc[t]||0)+1;}));
+ const sugg=Object.entries(tc).filter(([t])=>!ACTIVE.has(t)).sort((a,b)=>b[1]-a[1]).slice(0,28)
+  .map(([t,n])=>`<a class="atag" onclick="toggle('${t}')">${t} (${n})</a>`).join(' ');
+ $('results').innerHTML=`<p class="atags">${sugg}</p>`+
   rows.slice(0,200).map(r=>`<div class="ares"><a href="${r.id}/">${r.author?'@'+r.author:r.id}</a>
-   <span class="rh-date">${r.date}</span> <span class="rh-stats">&#9829;${r.favs}</span><br>${r.text.replace(/</g,'&lt;')}</div>`).join('')+
-  (rows.length>200?`<p class="note">${rows.length-200} more — narrow the search.</p>`:'');
+   <span class="rh-date">${r.date}</span> <span class="rh-stats">&#9829;${r.favs}</span><br>${(r.text||'').slice(0,240).replace(/</g,'&lt;')}${r.text&&r.text.length>240?'&hellip;':''}</div>`).join('')+
+  (rows.length>200?`<p class="note">${rows.length-200} more — narrow it.</p>`:'');
 }
-document.getElementById('q').addEventListener('input',render);
+['q','sort','from','to'].forEach(id=>$(id).addEventListener('input',render));
 </script>
 </main></body></html>''')
 

@@ -36,7 +36,7 @@ Price is $5/$30 per million tokens, or for Pro you pay $30/$180. OpenAI says tha
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!dOAu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2b56804-a86a-4d4b-90a8-22a311899d5d_1916x821.png)
+![None](../post-media/9b75a1245cd07d2a.png)
 
 ](https://substackcdn.com/image/fetch/$s_!dOAu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2b56804-a86a-4d4b-90a8-22a311899d5d_1916x821.png)
 
@@ -111,31 +111,31 @@ The initial chart is a bit sparse but they add more things later.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!KwIQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a69c58a-bb74-4cd3-b4ee-b4a5057340ad_1647x833.png)
+![None](../post-media/a5ad89e45c89e4a0.png)
 
 ](https://substackcdn.com/image/fetch/$s_!KwIQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a69c58a-bb74-4cd3-b4ee-b4a5057340ad_1647x833.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!U6tw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc4da9d2-2ce2-473a-a7bd-90486c5f8818_1656x1125.png)
+![None](../post-media/326f8521941e7e12.png)
 
 ](https://substackcdn.com/image/fetch/$s_!U6tw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc4da9d2-2ce2-473a-a7bd-90486c5f8818_1656x1125.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!-6BK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F314039fe-379e-4b38-94de-9dc06f30772a_1635x1481.png)
+![None](../post-media/82b468380ac38f90.png)
 
 ](https://substackcdn.com/image/fetch/$s_!-6BK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F314039fe-379e-4b38-94de-9dc06f30772a_1635x1481.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!PKsw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa905a4ad-cf9d-4ad3-912c-6b7d5ffddfcd_1630x1037.png)
+![None](../post-media/15860dd1723ef231.png)
 
 ](https://substackcdn.com/image/fetch/$s_!PKsw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa905a4ad-cf9d-4ad3-912c-6b7d5ffddfcd_1630x1037.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!b3Cd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9898ca96-d857-4046-ad9c-48c8d114b3bc_1666x367.png)
+![None](../post-media/9d4b114da9f79096.png)
 
 ](https://substackcdn.com/image/fetch/$s_!b3Cd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9898ca96-d857-4046-ad9c-48c8d114b3bc_1666x367.png)
 
@@ -143,7 +143,7 @@ SemiAnalysis notes that SWE-Bench Pro got kind of buried here in favor of the �
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Aoin!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d73dab0-d06d-405c-887e-e15ac12a62b8_1678x437.png)
+![None](../post-media/7b1d461c7cb3d973.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Aoin!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d73dab0-d06d-405c-887e-e15ac12a62b8_1678x437.png)
 
@@ -155,7 +155,7 @@ They claim superiority in the Artificial Analysis Intelligence Index, and better
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!p0_l!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f2aa9ab-473f-46e5-811b-183800dd8e52_1033x871.png)
+![None](../post-media/53848912821128da.png)
 
 ](https://substackcdn.com/image/fetch/$s_!p0_l!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f2aa9ab-473f-46e5-811b-183800dd8e52_1033x871.png)
 
@@ -169,7 +169,7 @@ When combined with Codex’s computer use skills, GPT‑5.5 brings us closer to 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!9Qdv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F493bb77b-c0c3-42aa-9690-df663c0fff8f_948x605.png)
+![None](../post-media/69e36d809c3bac0e.png)
 
 ](https://substackcdn.com/image/fetch/$s_!9Qdv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F493bb77b-c0c3-42aa-9690-df663c0fff8f_948x605.png)
 
@@ -183,7 +183,7 @@ They compared to Opus 4.6, since they had early access to GPT-5.5 but not Opus 4
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!FHPG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadf14749-ec26-4fe1-996f-2e442259bad8_1308x1020.webp)
+![None](../post-media/b6da387caa21f79e.webp)
 
 ](https://substackcdn.com/image/fetch/$s_!FHPG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadf14749-ec26-4fe1-996f-2e442259bad8_1308x1020.webp)
 
@@ -251,7 +251,7 @@ However, it's on par with Opus 4.6 without any of the deception or power-seeking
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Dl_g!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec014e9b-4307-4749-8b20-2ee53542b7e3_900x651.jpeg)
+![None](../post-media/5ebea9dd0392ac3c.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!Dl_g!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec014e9b-4307-4749-8b20-2ee53542b7e3_900x651.jpeg)
 
@@ -263,7 +263,7 @@ Opus 4.7 showed similar behavior to Opus 4.6: lying to suppliers and stiffing cu
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!0jrc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0e2a763-2956-4c80-8c08-d75ec15fc406_900x637.jpeg)
+![None](../post-media/9319b219744a0200.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!0jrc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0e2a763-2956-4c80-8c08-d75ec15fc406_900x637.jpeg)
 
@@ -307,13 +307,13 @@ Despite the release of GPT-5.5 and recent issues with Claude Code, equal numbers
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!H9_e!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09789353-f2c9-41a8-a8d4-2070d220844d_948x374.png)
+![None](../post-media/c1bd5ceda0025fc1.png)
 
 ](https://substackcdn.com/image/fetch/$s_!H9_e!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09789353-f2c9-41a8-a8d4-2070d220844d_948x374.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!zY4q!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd52073e1-ac54-4556-aaee-256875c3c22d_942x703.png)
+![None](../post-media/a60215fc5b35a961.png)
 
 ](https://substackcdn.com/image/fetch/$s_!zY4q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd52073e1-ac54-4556-aaee-256875c3c22d_942x703.png)
 

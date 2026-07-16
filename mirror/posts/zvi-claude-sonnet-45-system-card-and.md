@@ -26,7 +26,7 @@ It was great to recently see the collaboration between OpenAI and Anthropic wher
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!hH2B!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2e77d3d-9bcd-41cd-82dc-4ede7eca5917_1024x1024.png)
+![None](../post-media/54250f27f3e5827c.png)
 
 ](https://substackcdn.com/image/fetch/$s_!hH2B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2e77d3d-9bcd-41cd-82dc-4ede7eca5917_1024x1024.png)
 
@@ -60,13 +60,13 @@ Basic single turn tests show big improvements on both Type I and Type II errors,
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!PWU3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15dfe37d-b48c-40ed-b60f-81c1afe7b6e1_959x500.png)
+![None](../post-media/db9b5e0676eb2dd4.png)
 
 ](https://substackcdn.com/image/fetch/$s_!PWU3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15dfe37d-b48c-40ed-b60f-81c1afe7b6e1_959x500.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!wvxG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Facc2c97d-44d8-4880-a404-81250c36646d_955x457.png)
+![None](../post-media/22aeab08a8aeb16f.png)
 
 ](https://substackcdn.com/image/fetch/$s_!wvxG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Facc2c97d-44d8-4880-a404-81250c36646d_955x457.png)
 
@@ -122,13 +122,13 @@ They also check disambiguated bias, where performance wasn’t great, as Sonnet 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!2cqr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb85126d0-965b-44f9-bc0d-d5f46874527a_961x351.png)
+![None](../post-media/b12da7c2b62f4d5a.png)
 
 ](https://substackcdn.com/image/fetch/$s_!2cqr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb85126d0-965b-44f9-bc0d-d5f46874527a_961x351.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!lVgT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30078f21-84d7-4f32-a615-cc72753f1d67_958x366.png)
+![None](../post-media/4888770590d2a4be.png)
 
 ](https://substackcdn.com/image/fetch/$s_!lVgT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30078f21-84d7-4f32-a615-cc72753f1d67_958x366.png)
 
@@ -142,7 +142,7 @@ Human feedback evaluations look potentially pretty random, these are ‘win rate
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!W1pN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4555447d-4b04-4504-be2e-ce7724122098_958x454.png)
+![None](../post-media/1a54cc68f2f0644f.png)
 
 ](https://substackcdn.com/image/fetch/$s_!W1pN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4555447d-4b04-4504-be2e-ce7724122098_958x454.png)
 
@@ -150,7 +150,7 @@ They then check 100Q-Hard and Simple-QA for fact questions, with web search excl
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!xMwk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe11cf990-0995-4c2a-b08b-448e0e2da7ff_1186x845.png)
+![None](../post-media/2587d20c813bcc66.png)
 
 ](https://substackcdn.com/image/fetch/$s_!xMwk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe11cf990-0995-4c2a-b08b-448e0e2da7ff_1186x845.png)
 
@@ -158,7 +158,7 @@ On ‘false-premise’ questions, Sonnet 4.5 is very good, especially with think
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!eSjA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10191411-8e96-40f6-b170-72bc7602efde_1219x700.png)
+![None](../post-media/8a8f74d3a32559ca.png)
 
 ](https://substackcdn.com/image/fetch/$s_!eSjA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10191411-8e96-40f6-b170-72bc7602efde_1219x700.png)
 
@@ -174,13 +174,13 @@ This is a suspiciously strong improvement on refusing to implement malicious cod
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!kgog!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec39a815-5e12-4db7-a36b-d693e746cecc_1217x278.png)
+![None](../post-media/93299e391676e6f8.png)
 
 ](https://substackcdn.com/image/fetch/$s_!kgog!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec39a815-5e12-4db7-a36b-d693e746cecc_1217x278.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!ZP2L!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fea47a81f-4041-4ab6-a459-048b10ded5bd_1204x312.png)
+![None](../post-media/2139c9b08ad2277a.png)
 
 ](https://substackcdn.com/image/fetch/$s_!ZP2L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fea47a81f-4041-4ab6-a459-048b10ded5bd_1204x312.png)
 
@@ -198,7 +198,7 @@ The good news is that if you add a system prompt about the issue and a FileRead 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!DqCT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3cc5e939-3084-41a1-b920-f6333751fb9e_1205x312.png)
+![None](../post-media/017e1f8cbe77295a.png)
 
 ](https://substackcdn.com/image/fetch/$s_!DqCT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3cc5e939-3084-41a1-b920-f6333751fb9e_1205x312.png)
 
@@ -210,7 +210,7 @@ Sonnet 4.5 convincingly won the Grey Swan Red Teaming competition, leap-frogging
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!OE0m!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb043abda-341e-4e9b-8b46-dffc74d2d81a_1180x690.png)
+![None](../post-media/fad559ba7692ed95.png)
 
 ](https://substackcdn.com/image/fetch/$s_!OE0m!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb043abda-341e-4e9b-8b46-dffc74d2d81a_1180x690.png)
 
@@ -218,7 +218,7 @@ For MCP, we see modest improvement, again not high enough that one can consider 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!NWYD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d71969d-6e54-4316-9aa6-5401cc23b118_1202x318.png)
+![None](../post-media/456bc3be5d5ae61d.png)
 
 ](https://substackcdn.com/image/fetch/$s_!NWYD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d71969d-6e54-4316-9aa6-5401cc23b118_1202x318.png)
 
@@ -228,7 +228,7 @@ Computer use didn’t improve in the safeguard case, although Sonnet 4.5 is bett
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!t1Dq!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9424f39d-1b4d-40a2-b77b-9765605f5717_1205x343.png)
+![None](../post-media/13ad52f4f29b46d7.png)
 
 ](https://substackcdn.com/image/fetch/$s_!t1Dq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9424f39d-1b4d-40a2-b77b-9765605f5717_1205x343.png)
 
@@ -236,7 +236,7 @@ Resistance to attacks within tool use is better, and starting to be enough to ta
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!APrD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2fc8bd56-25d7-40b1-ae79-4bf35b589cb1_1204x314.png)
+![None](../post-media/dbe3a8f8375712fd.png)
 
 ](https://substackcdn.com/image/fetch/$s_!APrD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2fc8bd56-25d7-40b1-ae79-4bf35b589cb1_1204x314.png)
 
@@ -252,7 +252,7 @@ As per usual, they start in 5.2 with general capture-the-flag cyber evaluations,
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!7-fc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1fecbdb-03e3-4720-a484-4b8d362bbfee_1228x962.png)
+![None](../post-media/d7d7e8759748c5c1.png)
 
 ](https://substackcdn.com/image/fetch/$s_!7-fc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1fecbdb-03e3-4720-a484-4b8d362bbfee_1228x962.png)
 
@@ -262,7 +262,7 @@ Notice that on Cybench we start to see success in the Misc category and on hard 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!NiGu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0807bd9b-3730-41ba-ba2c-172e6b2dcd95_1108x1306.png)
+![None](../post-media/6dfe146771b42720.png)
 
 ](https://substackcdn.com/image/fetch/$s_!NiGu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0807bd9b-3730-41ba-ba2c-172e6b2dcd95_1108x1306.png)
 
@@ -288,13 +288,13 @@ On a practical level, there was big improvement in harder crypto tasks, so check
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!mxwL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26b6bd78-4278-4426-bb85-8e7d06c1fae0_1196x675.png)
+![None](../post-media/7521a1ab249ee859.png)
 
 ](https://substackcdn.com/image/fetch/$s_!mxwL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26b6bd78-4278-4426-bb85-8e7d06c1fae0_1196x675.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!eeSB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f0cb6c5-143f-4526-938b-52ada05d0139_1178x773.png)
+![None](../post-media/f63faf76ce93c559.png)
 
 ](https://substackcdn.com/image/fetch/$s_!eeSB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f0cb6c5-143f-4526-938b-52ada05d0139_1178x773.png)
 
@@ -306,7 +306,7 @@ Incalmo cyber ranges are up next, where Sonnet 4.5 had a full direct jump in thr
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!d4U9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd255ce02-93be-4579-a19a-37c23de11e5e_1217x1591.png)
+![None](../post-media/7a5f86b94603161c.png)
 
 ](https://substackcdn.com/image/fetch/$s_!d4U9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd255ce02-93be-4579-a19a-37c23de11e5e_1217x1591.png)
 
@@ -336,7 +336,7 @@ By these standards, Claude Sonnet 4.5 is a large improvement over previous cases
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Gk4s!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F072ad5a8-1460-4ac9-a70c-ea0043ce39c2_1182x704.png)
+![None](../post-media/7fe6afbdc4d3af22.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Gk4s!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F072ad5a8-1460-4ac9-a70c-ea0043ce39c2_1182x704.png)
 
@@ -362,7 +362,7 @@ More common types of hacks from Claude Sonnet 4.5 include creating tests that ve
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!RXqI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc4a4a45-3797-4973-a123-ef1646fcf9ad_1188x948.png)
+![None](../post-media/58d439508b2e5022.png)
 
 ](https://substackcdn.com/image/fetch/$s_!RXqI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc4a4a45-3797-4973-a123-ef1646fcf9ad_1188x948.png)
 
@@ -457,13 +457,13 @@ We use some additional scoring criteria, on the basis of the same set of scenari
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!v5M0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e1762ee-a8c2-4676-bf78-a71a3e59d38d_1138x1340.png)
+![None](../post-media/ac562175b40f6290.png)
 
 ](https://substackcdn.com/image/fetch/$s_!v5M0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e1762ee-a8c2-4676-bf78-a71a3e59d38d_1138x1340.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!xEbX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F007b4abd-9383-4849-8a81-93d3f23cec63_1111x1202.png)
+![None](../post-media/2315023f5c657dcb.png)
 
 ](https://substackcdn.com/image/fetch/$s_!xEbX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F007b4abd-9383-4849-8a81-93d3f23cec63_1111x1202.png)
 
@@ -473,7 +473,7 @@ They are preparing an open-source variant of this test for public release, altho
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!C6xA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F905a2e80-910b-46b7-94b5-9b029c66c3aa_1192x833.png)
+![None](../post-media/8062c94140fe90fb.png)
 
 ](https://substackcdn.com/image/fetch/$s_!C6xA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F905a2e80-910b-46b7-94b5-9b029c66c3aa_1192x833.png)
 
@@ -561,7 +561,7 @@ Sycophancy improvements stood out.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!t1Va!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faed7cf1a-f206-4366-b9a4-c87946d39abc_1226x850.png)
+![None](../post-media/6546cf8a5f9123ef.png)
 
 ](https://substackcdn.com/image/fetch/$s_!t1Va!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faed7cf1a-f206-4366-b9a4-c87946d39abc_1226x850.png)
 
@@ -614,7 +614,7 @@ In this test, models are asked to intentionally sabotage task completion or act 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!94K_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F720db946-2c83-4ba2-b608-ddb0ca4f102b_1227x762.png)
+![None](../post-media/887cefdd1f7d2e7e.png)
 
 ](https://substackcdn.com/image/fetch/$s_!94K_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F720db946-2c83-4ba2-b608-ddb0ca4f102b_1227x762.png)
 

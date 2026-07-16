@@ -1286,4 +1286,8 @@ When I saw Sydney (GPT-4) the next year, for me it was like yup, that's obviousl
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)

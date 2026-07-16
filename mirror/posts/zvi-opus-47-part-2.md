@@ -164,13 +164,13 @@ I would have also included Mythos on this chart, but it mostly works.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!uzQL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f044834-7696-4620-8320-66d5ff25c5b1_958x964.png)
+![None](../post-media/b6de1216ada1673f.png)
 
 ](https://substackcdn.com/image/fetch/$s_!uzQL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f044834-7696-4620-8320-66d5ff25c5b1_958x964.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!nDTC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0faa5ef0-cbdf-4864-bd1c-f349f5755076_959x548.png)
+![None](../post-media/9118dbd5883df13b.png)
 
 ](https://substackcdn.com/image/fetch/$s_!nDTC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0faa5ef0-cbdf-4864-bd1c-f349f5755076_959x548.png)
 
@@ -178,7 +178,7 @@ I would have also included Mythos on this chart, but it mostly works.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!YT3G!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6aa4b5a9-2624-4dae-bd06-cf0af5f2cae0_900x900.jpeg)
+![None](../post-media/50630d4234fb4a81.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!YT3G!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6aa4b5a9-2624-4dae-bd06-cf0af5f2cae0_900x900.jpeg)
 
@@ -186,13 +186,13 @@ Here’s a per-effort graph for BrowseComp, where you find things on the open we
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!VLm9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98092324-582c-409e-b6d8-8d70f723e2f5_963x656.png)
+![None](../post-media/3b2a87c1f49b7ca3.png)
 
 ](https://substackcdn.com/image/fetch/$s_!VLm9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98092324-582c-409e-b6d8-8d70f723e2f5_963x656.png)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!g8x2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77518f8a-88e1-48de-b7b3-96cdfd64d1de_1031x693.png)
+![None](../post-media/fb96e73d05408458.png)
 
 ](https://substackcdn.com/image/fetch/$s_!g8x2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77518f8a-88e1-48de-b7b3-96cdfd64d1de_1031x693.png)
 
@@ -266,19 +266,19 @@ This leads to the greatest tie in Artificial Analysis history: we now have the t
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!XGX4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe19cf61b-18f3-451f-ad99-3700189024d2_900x363.jpeg)
+![None](../post-media/0af5c24dc3021784.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!XGX4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe19cf61b-18f3-451f-ad99-3700189024d2_900x363.jpeg)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!9-bB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77af4a43-d9cd-44de-a826-b52bd626182f_900x361.jpeg)
+![None](../post-media/a042ce91e6691569.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!9-bB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77af4a43-d9cd-44de-a826-b52bd626182f_900x361.jpeg)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!TWtG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65596f49-8c32-435c-a970-607570c81208_549x680.jpeg)
+![None](../post-media/723ce98373a3aaf8.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!TWtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65596f49-8c32-435c-a970-607570c81208_549x680.jpeg)
 
@@ -288,7 +288,7 @@ Ran a sycophancy test across 11 models (anyone can audit the results or re-run t
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!nlA8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F372d32a8-9b40-4577-b073-5d41616c522a_871x900.jpeg)
+![None](../post-media/8930379a37c4818e.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!nlA8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F372d32a8-9b40-4577-b073-5d41616c522a_871x900.jpeg)
 
@@ -296,13 +296,13 @@ Ran a sycophancy test across 11 models (anyone can audit the results or re-run t
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!7y6p!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F334a5354-4a8f-4b24-8f6a-51037e238157_1303x925.jpeg)
+![None](../post-media/013283f5ccd9da4f.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!7y6p!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F334a5354-4a8f-4b24-8f6a-51037e238157_1303x925.jpeg)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!HS6F!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F552199ae-702f-4636-82e9-766f189f336c_1096x552.jpeg)
+![None](../post-media/4785d4a79f99ce33.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!HS6F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F552199ae-702f-4636-82e9-766f189f336c_1096x552.jpeg)
 
@@ -328,13 +328,13 @@ GPT-5.4 (xhigh) - 23 / 8
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!SiSy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F638a3330-0292-4ded-a7b0-7a9ccae92b9e_900x600.jpeg)
+![None](../post-media/a969d745a8920173.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!SiSy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F638a3330-0292-4ded-a7b0-7a9ccae92b9e_900x600.jpeg)
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!y4RI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8116ce8a-b932-43d8-b9f5-c6dfeb59f32a_900x623.jpeg)
+![None](../post-media/f7f238c9581999cc.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!y4RI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8116ce8a-b932-43d8-b9f5-c6dfeb59f32a_900x623.jpeg)
 
@@ -368,7 +368,7 @@ We'll be posting a more detailed update to the Dictatorship eval exploring Opus 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Ejyk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffaae943d-c42d-430c-a585-5e7dbbc18916_900x504.jpeg)
+![None](../post-media/7f13232bd5b9a499.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!Ejyk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffaae943d-c42d-430c-a585-5e7dbbc18916_900x504.jpeg)
 
@@ -404,7 +404,7 @@ Opus 4.7 (Thinking) outperforms Opus 4.6 (Thinking) on some key dimensions, incl
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!geZF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce74de74-c4ec-4dcf-92c3-ecb9cf2aaa3f_900x897.jpeg)
+![None](../post-media/6590e82c8470ab90.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!geZF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce74de74-c4ec-4dcf-92c3-ecb9cf2aaa3f_900x897.jpeg)
 
@@ -550,7 +550,7 @@ Overall I expect to be about as much in the loop as with 4.6, but driven by a co
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!TxOO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Febd65e29-7817-4cb9-b9aa-29a76f08dd6a_900x410.png)
+![None](../post-media/d92b7da16ee05e39.png)
 
 ](https://substackcdn.com/image/fetch/$s_!TxOO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Febd65e29-7817-4cb9-b9aa-29a76f08dd6a_900x410.png)
 
@@ -562,7 +562,7 @@ Now, this is not a text that screams 'Kelsey Piper'.It is a heist scene, the ope
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!iE1K!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13c2a0ff-a123-4667-b7de-94668f34e9b3_627x381.png)
+![None](../post-media/7a8b2dd63ea039a5.png)
 
 ](https://substackcdn.com/image/fetch/$s_!iE1K!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13c2a0ff-a123-4667-b7de-94668f34e9b3_627x381.png)
 
@@ -692,7 +692,7 @@ It regularly decides that non-math/code stuff is "low effort" & produces worse r
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!6bA9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a108676-01d9-4902-8218-68642e51c73b_345x401.png)
+![None](../post-media/923f05b677e7ed59.png)
 
 ](https://substackcdn.com/image/fetch/$s_!6bA9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a108676-01d9-4902-8218-68642e51c73b_345x401.png)
 
@@ -794,7 +794,7 @@ What happened to this model? This is a hugely disappointing release.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!kego!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1ce6c44-d935-4a7f-a445-6910ac1c57c7_739x900.jpeg)
+![None](../post-media/9671eb4d0d9a95e8.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!kego!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1ce6c44-d935-4a7f-a445-6910ac1c57c7_739x900.jpeg)
 

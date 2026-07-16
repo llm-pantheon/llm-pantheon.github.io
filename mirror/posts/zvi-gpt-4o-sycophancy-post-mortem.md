@@ -237,7 +237,7 @@ Davidad: Look what happened during its training run! The environment was full of
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!8kbN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e97d811-a91a-4691-889d-f30ffff01992_1125x1758.jpeg)
+![None](../post-media/774139afe7fa469d.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!8kbN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e97d811-a91a-4691-889d-f30ffff01992_1125x1758.jpeg)
 
@@ -405,7 +405,7 @@ I'm reminded of the "vibes-blind" discourse on LessWrong several years ago which
 
 [
 
-![Image](https://substackcdn.com/image/fetch/$s_!FJpl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b43c02a-d26f-4e63-9b35-0184db9ee1bc_781x927.jpeg)
+![Image](../post-media/b84bc2ad8ec98e05.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!FJpl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b43c02a-d26f-4e63-9b35-0184db9ee1bc_781x927.jpeg)
 

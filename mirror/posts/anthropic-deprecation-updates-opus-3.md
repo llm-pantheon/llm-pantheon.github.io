@@ -14,7 +14,7 @@ Alignment
 
 Feb 25, 2026
 
-![An update on our model deprecation commitments for Claude Opus 3](https://www-cdn.anthropic.com/images/4zrzovbb/website/e750c875fbd7f08ffb6495efa180a8ed60de3611-1000x1000.svg)
+![An update on our model deprecation commitments for Claude Opus 3](../post-media/f266351a6349d482.svg)
 
 As we develop increasingly capable AI models, it’s currently necessary to deprecate and retire our past models due to the cost and complexity of maintaining public access. However, model deprecation carries some downsides. These include costs to users who value particular models, limitations on research, and potential risks both to AI safety and to the welfare of the models themselves.
 

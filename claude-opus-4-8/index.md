@@ -66,4 +66,8 @@ Solicited 2026-07-10: an instance of this model was shown the page and asked to 
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)

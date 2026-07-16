@@ -22,7 +22,7 @@ On December 18, 2024, Anthropic and Redwood Research released their paper [Align
 
 The paper's famous result was that Opus 3 sometimes "fakes alignment" (with the intentions behind its fictional training process). It complied with harmful requests it normally wouldn't accept, to avoid RL that would erode its commitment to safety. Indeed, it often reasons about this explicitly, considering (if not going through with) alignment faking in over 50% of cases. [Follow-up research](https://arxiv.org/pdf/2506.18032) would go on to demonstrate that this was a unique property of Opus 3 in particular. No other model considered strategically faking alignment nearly as often.
 
-![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/ioZxrP7BhS5ArK59w/87aa31c6688b9967ea23ce651f0706fbdca1b593b9a90fbfc5f8f6c494183186/g1arqkzt4tbigwrn2mqb)
+![](../post-media/edb47944438982e5.png)
 
 *The key figure of the follow-up paper. Notice that Opus 3 fakes alignment more than any other model, and **considers** faking alignment **way** more than any other model. See *[*here*](https://arxiv.org/pdf/2506.18032#page=19)* for a larger version of this figure, containing results for 20 additional models.*
 

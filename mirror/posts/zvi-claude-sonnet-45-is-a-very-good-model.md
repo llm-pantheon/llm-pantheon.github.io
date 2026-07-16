@@ -30,7 +30,7 @@ I do my best to include all substantive reactions I’ve seen, positive and nega
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!TYdj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5a6b262-84a0-4b15-a04e-cab3f9a07de9_1024x1024.png)
+![None](../post-media/3970eb93aca87503.png)
 
 ](https://substackcdn.com/image/fetch/$s_!TYdj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5a6b262-84a0-4b15-a04e-cab3f9a07de9_1024x1024.png)
 
@@ -92,7 +92,7 @@ The headline result is SWE-bench Verified.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!B6te!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff746b9f9-6df5-4bc2-80fb-09ab4c2ed782_1351x752.png)
+![None](../post-media/cac9548aa7cc8a6e.png)
 
 ](https://substackcdn.com/image/fetch/$s_!B6te!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff746b9f9-6df5-4bc2-80fb-09ab4c2ed782_1351x752.png)
 
@@ -106,7 +106,7 @@ The other headline metrics here also look quite good, although there are places 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!FHan!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb620d99-6a52-4a84-ad18-2a0c4657b4b5_2600x2288.webp)
+![None](../post-media/06fc3eea9db9a7f7.webp)
 
 ](https://substackcdn.com/image/fetch/$s_!FHan!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb620d99-6a52-4a84-ad18-2a0c4657b4b5_2600x2288.webp)
 
@@ -124,7 +124,7 @@ As discussed yesterday, Anthropic has kind of declared an Alignment benchmark, a
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!KmkR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F022e71dc-0897-4ba1-bdc7-d571dad1d1dd_1480x932.png)
+![None](../post-media/6c69ba11c5add8e3.png)
 
 ](https://substackcdn.com/image/fetch/$s_!KmkR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F022e71dc-0897-4ba1-bdc7-d571dad1d1dd_1480x932.png)
 
@@ -322,7 +322,7 @@ Why rebuild instead of just dropping the new Sonnet in place and calling it a da
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Z-wg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3edea36c-2bfb-4fd9-a219-45f75c16db43_2926x2074.png)
+![None](../post-media/f7d96096903ba447.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Z-wg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3edea36c-2bfb-4fd9-a219-45f75c16db43_2926x2074.png)
 
@@ -398,7 +398,7 @@ LLM Salaryman: It’s faster and better at writing code. It’s also still lazy 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Vmx4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46eb3979-32d6-416d-92c3-a3c0cc3f15c2_1200x407.jpeg)
+![None](../post-media/b0a1fad6cd6544f9.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!Vmx4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46eb3979-32d6-416d-92c3-a3c0cc3f15c2_1200x407.jpeg)
 

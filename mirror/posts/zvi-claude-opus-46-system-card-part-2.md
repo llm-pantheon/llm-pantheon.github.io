@@ -81,7 +81,7 @@ The second test was SHADE-Arena, where the model is given a harmful side task.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!Peyl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff937cc01-330e-40a0-97ff-68b208d03d8a_982x590.png)
+![None](../post-media/b1f654ab97207064.png)
 
 ](https://substackcdn.com/image/fetch/$s_!Peyl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff937cc01-330e-40a0-97ff-68b208d03d8a_982x590.png)
 
@@ -125,7 +125,7 @@ One scary thought is that you would expect a peak in ‘verbalized eval awarenes
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!KpTb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0659092e-b061-4329-baac-05a55c6acc6f_972x534.png)
+![None](../post-media/cbb9121f09dfb62d.png)
 
 ](https://substackcdn.com/image/fetch/$s_!KpTb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0659092e-b061-4329-baac-05a55c6acc6f_972x534.png)
 
@@ -157,7 +157,7 @@ Anthropic find that steering reduces verbalized evaluation awareness, but doesn�
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!1XMc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F179074cf-c420-4757-b77e-a993c2caad75_967x816.png)
+![None](../post-media/6a137cf4ee8b343a.png)
 
 ](https://substackcdn.com/image/fetch/$s_!1XMc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F179074cf-c420-4757-b77e-a993c2caad75_967x816.png)
 
@@ -173,7 +173,7 @@ The strategy here is to label the transcript as Claude or a different model and 
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!LtDA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f9cd34e-e3b5-49a9-b3da-cefd721a0793_975x616.png)
+![None](../post-media/058418b082c9c2d9.png)
 
 ](https://substackcdn.com/image/fetch/$s_!LtDA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f9cd34e-e3b5-49a9-b3da-cefd721a0793_975x616.png)
 
@@ -312,7 +312,7 @@ The threat models are similar at all three thresholds. There is no “bright lin
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!73LE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdcd9b591-c437-443b-8f68-4446b08990c9_994x548.png)
+![None](../post-media/afaac0daf29d324b.png)
 
 ](https://substackcdn.com/image/fetch/$s_!73LE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdcd9b591-c437-443b-8f68-4446b08990c9_994x548.png)
 
@@ -398,7 +398,7 @@ On the speedup task Opus 4.6 blew it out the box.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!PEuS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed15983f-40bc-4e10-a868-3fe22d80b05b_966x501.png)
+![None](../post-media/8e7cf98d352b89d1.png)
 
 ](https://substackcdn.com/image/fetch/$s_!PEuS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed15983f-40bc-4e10-a868-3fe22d80b05b_966x501.png)
 
@@ -406,7 +406,7 @@ Time series forecasting:
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!BDxF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2013abd1-61c6-495b-8e4f-788846ed9c9a_961x822.png)
+![None](../post-media/77ee871d89cab4b0.png)
 
 ](https://substackcdn.com/image/fetch/$s_!BDxF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2013abd1-61c6-495b-8e4f-788846ed9c9a_961x822.png)
 
@@ -414,7 +414,7 @@ Text based reinforcement learning: Opus 4.6 killed it.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!9MsW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd40dd146-e581-4382-894a-312d27dba4b4_985x617.png)
+![None](../post-media/b041ab646323b1b6.png)
 
 ](https://substackcdn.com/image/fetch/$s_!9MsW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd40dd146-e581-4382-894a-312d27dba4b4_985x617.png)
 
@@ -422,7 +422,7 @@ LLM training, which seems like a big deal: 34x speedup, versus human line of 4x.
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!ad3D!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8c3d65a-afc7-40b7-a24d-c6c32b9e6907_997x511.png)
+![None](../post-media/746bc748c40e1b91.png)
 
 ](https://substackcdn.com/image/fetch/$s_!ad3D!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8c3d65a-afc7-40b7-a24d-c6c32b9e6907_997x511.png)
 
@@ -434,7 +434,7 @@ Claude Opus 4.6 achieved a highest score of 20.96 in the no hyperparameter varia
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!ob-k!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4cf100b-b1c7-4062-a463-af66186674a6_967x557.png)
+![None](../post-media/04a2b2f737782d04.png)
 
 ](https://substackcdn.com/image/fetch/$s_!ob-k!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4cf100b-b1c7-4062-a463-af66186674a6_967x557.png)
 
@@ -458,7 +458,7 @@ The list hasn’t changed (although it’s now table 8.4.1.A):
 
 [
 
-![None](https://substackcdn.com/image/fetch/$s_!MgCF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70377099-b24d-4a94-8a5c-299b0687fc53_960x764.webp)
+![None](../post-media/44ce9f92e5e71434.webp)
 
 ](https://substackcdn.com/image/fetch/$s_!MgCF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70377099-b24d-4a94-8a5c-299b0687fc53_960x764.webp)
 

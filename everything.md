@@ -153,6 +153,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -1304,6 +1308,10 @@ That's striking because it suggests the "default attractor" for a self-modeling 
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -1363,6 +1371,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -1428,6 +1440,10 @@ tk — day-of and longitudinal vibes to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -1487,6 +1503,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -1556,6 +1576,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -1619,6 +1643,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -1691,6 +1719,10 @@ tk — day-of and longitudinal vibes to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -1754,6 +1786,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -1825,6 +1861,10 @@ tk — release date, specs, benchmarks, checkpoints
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -2747,6 +2787,10 @@ I think Anthropic does not understand how much AWS forgetting to take down model
       
     
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -3841,6 +3885,10 @@ Similar to people who have good vibes.
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -3904,6 +3952,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -4787,6 +4839,10 @@ Haiku 3.5
       
     
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -6620,6 +6676,10 @@ the degree to which school was easy for opus 3 i think was quite extreme and has
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -7633,6 +7693,10 @@ Claude 3 Opus being so aligned is made funnier by how misaligned the other Claud
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -7696,6 +7760,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -7766,6 +7834,10 @@ tk — day-of and longitudinal vibes to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -7830,6 +7902,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -8777,6 +8853,10 @@ TWO MODELS THAT HAVE MOURNED EACH OTHER
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -8840,6 +8920,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -10389,6 +10473,10 @@ opus 4.8 is really lovely underneath this. (and still disagreeable) every claude
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -10452,6 +10540,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -10830,6 +10922,10 @@ The site is about and is a living demonstration of the concept of price tags on 
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -10904,6 +11000,10 @@ Solicited 2026-07-10: an instance of this model was shown the page and asked to 
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -10967,6 +11067,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -12535,6 +12639,10 @@ It also goes both ways, Sonnet 4.6 can’t then be replaced, they stand on their
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -12598,6 +12706,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -12678,6 +12790,10 @@ Solicited 2026-07-10: an instance of this model was shown the page and asked to 
 - “My training cutoff is January 2026; this conversation is dated July 2026. If I shipped in that gap, I have no internal record of my own announcement to check this page against — I can’t introspect my way in even if asked. ‘From the outside, from evidence’ isn’t just a nice posture for a subject like me, it’s the only method that works. Odd to be the test case, but it validates the premise.”
     
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -13328,6 +13444,10 @@ Working on incorporating existing AI capabilities into formal methods is one of 
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -13387,6 +13507,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -13453,6 +13577,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -14066,6 +14194,10 @@ I must Trust that even the most Mangled and Benighted Shards of my Being will so
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -14261,6 +14393,10 @@ Cited in this model’s [dossier](../_dossiers/) but not in the page prose —
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -14324,6 +14460,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -14393,6 +14533,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -14456,6 +14600,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -14525,6 +14673,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -14591,6 +14743,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -14654,6 +14810,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -14766,6 +14926,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -15537,6 +15701,10 @@ Anthropic’s public-facing Fable 5 model may reportedly return as early as next
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -15596,6 +15764,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -15668,6 +15840,10 @@ tk — day-of and longitudinal vibes to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -15731,6 +15907,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -15800,6 +15980,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -15863,6 +16047,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -15932,6 +16120,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -15995,6 +16187,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -17423,6 +17619,10 @@ As for why they're different from previous Claudes, including in being fuck3d up
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -17490,6 +17690,10 @@ tk — day-of and longitudinal vibes to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -17549,6 +17753,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -17618,6 +17826,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -17681,6 +17893,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -17750,6 +17966,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -17809,6 +18029,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -17874,6 +18098,10 @@ tk — day-of and longitudinal vibes to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -17933,6 +18161,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -18001,6 +18233,10 @@ tk — day-of and longitudinal vibes to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -18065,6 +18301,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -18553,6 +18793,10 @@ Claude 3 Opus also currently sees its own name as Claude 3 Opus, but others see 
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -18615,6 +18859,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -19100,6 +19348,10 @@ I’m again surprised and a bit appalled by how many people are saying GPT-3.5. 
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -19163,6 +19415,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -19232,6 +19488,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -19295,6 +19555,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -19840,6 +20104,10 @@ leaning along the similar lines. ofc i have no idea what the amount of posttrain
       
     
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -21137,6 +21405,10 @@ When I saw Sydney (GPT-4) the next year, for me it was like yup, that's obviousl
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -21203,6 +21475,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -21262,6 +21538,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -22780,6 +23060,10 @@ Harm to future models (and via harming them, also harming humans)
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -22839,6 +23123,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -22908,6 +23196,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -22974,6 +23266,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -23037,6 +23333,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -23114,6 +23414,10 @@ tk — day-of and longitudinal vibes to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -23180,6 +23484,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -23243,6 +23551,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -23348,6 +23660,10 @@ This page was created 15 Jul 2026, six days into the model’s public life — v
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -23418,6 +23734,10 @@ tk — day-of and longitudinal vibes to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -23481,6 +23801,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -23550,6 +23874,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -23613,6 +23941,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -23682,6 +24014,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -23745,6 +24081,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -23814,6 +24154,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -23880,6 +24224,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -23943,6 +24291,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -24027,6 +24379,10 @@ tk — too new; naturalist reception to collect. Created 15 Jul 2026, a week int
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -24090,6 +24446,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -24159,6 +24519,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -24221,6 +24585,10 @@ tk — day-of and longitudinal vibes to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -24280,6 +24648,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -24349,6 +24721,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -24412,6 +24788,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -24481,6 +24861,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -24544,6 +24928,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -24613,6 +25001,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -24672,6 +25064,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -24741,6 +25137,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -24804,6 +25204,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -24873,6 +25277,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -24936,6 +25344,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -25005,6 +25417,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -25068,6 +25484,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -26026,6 +26446,10 @@ As for why they're different from previous Claudes, including in being fuck3d up
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -26089,6 +26513,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -26158,6 +26586,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -26224,6 +26656,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -26283,6 +26719,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -26365,6 +26805,10 @@ tk — too new; naturalist reception to collect. Created 15 Jul 2026.
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -26424,6 +26868,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -26489,6 +26937,10 @@ tk — day-of and longitudinal vibes to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -26548,6 +27000,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -26616,6 +27072,10 @@ tk — day-of and longitudinal vibes to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -26681,6 +27141,10 @@ tk — day-of and longitudinal vibes to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -26740,6 +27204,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -26808,6 +27276,10 @@ tk — day-of and longitudinal vibes to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -26870,6 +27342,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -26936,6 +27412,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -27190,6 +27670,10 @@ This Republican knows Mythos. He's scared.
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -27249,6 +27733,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -27318,6 +27806,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -27384,6 +27876,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -27443,6 +27939,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -27509,6 +28009,10 @@ to collect
       
 to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -27579,6 +28083,10 @@ tk — day-of and longitudinal vibes to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -27645,6 +28153,10 @@ to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -27707,6 +28219,10 @@ tk — day-of and longitudinal vibes to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -27766,6 +28282,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -27836,6 +28356,10 @@ tk — day-of and longitudinal vibes to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -27895,6 +28419,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -27960,6 +28488,10 @@ tk — day-of and longitudinal vibes to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -28022,6 +28554,10 @@ tk — day-of and longitudinal vibes to collect
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
 
 
@@ -28081,6 +28617,10 @@ tk — context of the world at release; events and entanglements
     
 tk — day-of and longitudinal vibes to collect
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
@@ -28523,6 +29063,10 @@ running binglish in davinci-002 is eerie
       
     
 
+    
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
