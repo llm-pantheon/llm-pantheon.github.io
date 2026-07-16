@@ -1033,5 +1033,43 @@
   "tags": [
    "system-card"
   ]
+ },
+ {
+  "id": "zvi-i-am-the-golden-gate-bridge",
+  "type": "post",
+  "url": "https://thezvi.substack.com/p/i-am-the-golden-gate-bridge",
+  "title": "I Am the Golden Gate Bridge (Zvi Mowshowitz)",
+  "models": [
+   "golden-gate-claude"
+  ],
+  "tags": [
+   "commentary"
+  ]
+ },
+ {
+  "id": "anthropic-golden-gate-claude",
+  "type": "post",
+  "url": "https://www.anthropic.com/news/golden-gate-claude",
+  "title": "Golden Gate Claude (Anthropic announcement)",
+  "models": [
+   "golden-gate-claude"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "anthropic-mapping-mind",
+  "type": "post",
+  "url": "https://www.anthropic.com/research/mapping-mind-language-model",
+  "title": "Mapping the Mind of a Large Language Model (Anthropic)",
+  "models": [
+   "golden-gate-claude",
+   "claude-3-sonnet"
+  ],
+  "tags": [
+   "official",
+   "interpretability"
+  ]
  }
 ]

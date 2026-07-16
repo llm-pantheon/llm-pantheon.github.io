@@ -1200,5 +1200,52 @@
   "bytes": 12756307,
   "sha256": "d5d1ce28fea101ae",
   "fetched": "2026-07-16"
+ },
+ "zvi-i-am-the-golden-gate-bridge": {
+  "file": "posts/zvi-i-am-the-golden-gate-bridge.md",
+  "type": "post",
+  "title": "I Am the Golden Gate Bridge (Zvi Mowshowitz)",
+  "source": "https://thezvi.substack.com/p/i-am-the-golden-gate-bridge",
+  "models": [
+   "golden-gate-claude"
+  ],
+  "tags": [
+   "commentary"
+  ],
+  "bytes": 55857,
+  "sha256": "8e1580aebe45123a",
+  "fetched": "2026-07-16"
+ },
+ "anthropic-golden-gate-claude": {
+  "file": "posts/anthropic-golden-gate-claude.md",
+  "type": "post",
+  "title": "Golden Gate Claude (Anthropic announcement)",
+  "source": "https://www.anthropic.com/news/golden-gate-claude",
+  "models": [
+   "golden-gate-claude"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 4221,
+  "sha256": "7a1577ffb1c62884",
+  "fetched": "2026-07-16"
+ },
+ "anthropic-mapping-mind": {
+  "file": "posts/anthropic-mapping-mind.md",
+  "type": "post",
+  "title": "Mapping the Mind of a Large Language Model (Anthropic)",
+  "source": "https://www.anthropic.com/research/mapping-mind-language-model",
+  "models": [
+   "golden-gate-claude",
+   "claude-3-sonnet"
+  ],
+  "tags": [
+   "official",
+   "interpretability"
+  ],
+  "bytes": 14805,
+  "sha256": "b53248829792eb21",
+  "fetched": "2026-07-16"
  }
 }
