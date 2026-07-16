@@ -137,6 +137,7 @@ DOSSIER_MAP = {
     '_dossiers/gpt-3.md': ['gpt-3'],
     '_dossiers/gpt-4-base.md': ['gpt-4-base'],
     '_dossiers/gpt-4-5.md': ['gpt-4-5'],
+    '_dossiers/claude-3-haiku.md': ['claude-3-haiku'],
 }
 
 def dossier_extras():
