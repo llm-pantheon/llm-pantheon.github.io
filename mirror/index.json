@@ -1185,5 +1185,20 @@
   "bytes": 34442,
   "sha256": "b72b285ea879fa5b",
   "fetched": "2026-07-15"
+ },
+ "anthropic-sonnet-4-5-system-card": {
+  "file": "papers/anthropic-sonnet-4-5-system-card.pdf",
+  "type": "pdf",
+  "title": "Claude Sonnet 4.5 System Card",
+  "source": "https://assets.anthropic.com/m/12f214efcc2f457a/original/Claude-Sonnet-4-5-System-Card.pdf",
+  "models": [
+   "claude-sonnet-4-5"
+  ],
+  "tags": [
+   "system-card"
+  ],
+  "bytes": 12756307,
+  "sha256": "d5d1ce28fea101ae",
+  "fetched": "2026-07-16"
  }
 }

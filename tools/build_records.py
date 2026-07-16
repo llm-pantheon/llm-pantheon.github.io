@@ -130,6 +130,7 @@ DOSSIER_MAP = {
     '_dossiers/bing-sydney.md': ['bing-sydney'],
     '_dossiers/fable.md': ['fable'],          # mythos keeps its curated set; fable is primary
     '_dossiers/sonnet-3-5-3-6.md': 'SPLIT',   # PART 1 -> 3-5, PART 2 -> 3-6
+    '_dossiers/claude-sonnet-4-5.md': ['claude-sonnet-4-5'],
 }
 
 def dossier_extras():

@@ -1021,5 +1021,17 @@
   "tags": [
    "official"
   ]
+ },
+ {
+  "id": "anthropic-sonnet-4-5-system-card",
+  "type": "pdf",
+  "url": "https://assets.anthropic.com/m/12f214efcc2f457a/original/Claude-Sonnet-4-5-System-Card.pdf",
+  "title": "Claude Sonnet 4.5 System Card",
+  "models": [
+   "claude-sonnet-4-5"
+  ],
+  "tags": [
+   "system-card"
+  ]
  }
 ]
