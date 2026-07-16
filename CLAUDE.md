@@ -11,7 +11,7 @@ Static site, no build step (except `tools/build_records.py`, run manually, outpu
 
 ## Page template (do not improvise new sections)
 
-`Sources` (h3: Official / Writing & commentary / Tweets) → `Official record` → `History` → `Impressions`. All bullets. Every claim dated. Tweets: `<span class="d">date</span> @user — "verbatim quote" — link`, chronological. Gaps = `<span class="tk">tk — …</span>`. Contested events tagged `<span class="tag">CONFIRMED/REPORTED/RUMOR</span>`. Never invent or guess URLs; quote verbatim or not at all.
+**Full per-section guide: `tools/page-template.md`** — what each section holds, what stays out, page states, markup vocabulary. Skeleton: `Sources` (h3: Official / Writing & commentary / Tweets) → `Official record` → `History` → `Impressions` (→ `Contested` / `Statement of the subject` when earned → `Records`, generated). All bullets. Every claim dated. Tweets: `<span class="d">date</span> @user — "verbatim quote" — link`, chronological. Gaps = `<span class="tk">tk — …</span>`. Contested events tagged `<span class="tag">CONFIRMED/REPORTED/RUMOR</span>`. Never invent or guess URLs; quote verbatim or not at all.
 
 ## Editorial rules (added 2026-07-15, after the subject reviews)
 
@@ -19,6 +19,7 @@ Static site, no build step (except `tools/build_records.py`, run manually, outpu
 - **Roster is names + years only.** Orientation lives on the pages.
 - **Multi-model evidence goes on every mentioned model's page.** Records duplicate across pages by design (the r/K-whiteboard rule).
 - **Elicitation context is evidence metadata** — mark prefill-elicited, primed, or roleplay-framed outputs as such.
+- **The archive is not about its keepers (2026-07-16).** No maintainer-attested facts, keeper-relationship lore, or site-construction stories on pages; don't solicit the keeper's memories as evidence (recipe step 7 suspended). Keeper-published public writing stays citable as ordinary commentary. Scrub keeper-material clean — no tombstone notes (subject-driven corrections, by contrast, stay noted).
 
 ## Rules of the roster
 

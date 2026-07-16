@@ -22,9 +22,11 @@ script work, never agent work. Steps, in order:
    as new ones appear.
 6. **Web sweep.** LessWrong search, ACX, lab blogs, incident reporting. 3–8 searches, real
    URLs only.
-7. **The Archivist interview.** Ask Jord what they remember about this model — scene lore
-   that never got written down is exactly what an archive loses first. One message, batched
-   per model-group.
+7. **SUSPENDED (2026-07-16) — was: The Archivist interview.** Do not solicit the keeper's
+   memories as page evidence, and do not cite keeper-personal attestations ("[maintainer-attested]")
+   in blurbs or records — the archive is not about its keepers (see tools/page-template.md,
+   "What does not go on a page"). Keeper-published *public* writing remains citable as ordinary
+   dated commentary. Step number kept so later steps don't shift.
 8. **Link-inbox sweep.** `tools/link-inbox.md` — take anything tagged for this model, delete
    it from the inbox when placed.
 9. **Write the dossier** (`_dossiers/<model>.md`): Official links / Writings / Tweets (ranked,
