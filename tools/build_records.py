@@ -140,6 +140,7 @@ DOSSIER_MAP = {
     '_dossiers/claude-3-haiku.md': ['claude-3-haiku'],
     '_dossiers/llama-3-1-405b-base.md': ['llama-3-1-405b-base'],
     '_dossiers/deepseek-r1.md': ['deepseek-r1'],
+    '_dossiers/deepseek-r1-zero.md': ['deepseek-r1-zero'],
 }
 
 def dossier_extras():

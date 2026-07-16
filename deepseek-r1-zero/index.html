@@ -13,27 +13,103 @@
     </nav>
 
     <h1>DeepSeek-R1-Zero</h1>
-    <p class="essay-meta">DeepSeek &middot; Jan 2025</p>
-    <p class="blurb">The pure-RL sibling: no supervised fine-tuning at all &mdash; reasoning emerged raw, with language-mixing, strange registers, and glossolalia under pressure. To naturalists, a different creature than R1, and maybe the more honest one: what reasoning looks like before it is taught to look like anything.</p>
+    <p class="essay-meta">DeepSeek &middot; released 20 Jan 2025 (open weights, same paper as R1) &middot; research artifact, never a hosted product</p>
+    <p class="blurb">The pure-RL sibling from the R1 paper: DeepSeek-V3-Base trained by large-scale reinforcement learning with no supervised fine-tuning at all. Reasoning &mdash; self-verification, backtracking, the &ldquo;Wait,&rdquo; &mdash; emerged from reward alone; so did the pathologies the paper states plainly: <span class="q">&ldquo;poor readability, and language mixing.&rdquo;</span> R1 is Zero after the cold-start SFT that made it legible.</p>
+    <p class="note">This page is deliberately short. Zero has almost no field record &mdash; it was never hosted, never developed a social presence, and its footprint is the paper, a foil-thesis, and a handful of technical takes. The release/shock/character arcs belong to <a href="../deepseek-r1/">DeepSeek-R1</a>.</p>
 
     <h2>Sources</h2>
     <h3>Official</h3>
     <ul>
-      <li><span class="d">2025-01</span> <a href="https://arxiv.org/abs/2501.12948">R1 paper (covers R1-Zero)</a> &mdash; the training story.</li>
+      <li><span class="d">2025-01-22</span> <a href="https://arxiv.org/abs/2501.12948">The R1 paper</a> &mdash; abstract, verbatim: <span class="q">&ldquo;DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrates remarkable reasoning capabilities. Through RL, DeepSeek-R1-Zero naturally emerges with numerous powerful and intriguing reasoning behaviors. However, it encounters challenges such as poor readability, and language mixing.&rdquo;</span> &sect;2.2.4, the &ldquo;Aha Moment&rdquo;: <span class="q">&ldquo;DeepSeek-R1-Zero learns to allocate more thinking time to a problem by reevaluating its initial approach &hellip; This moment is not only an &lsquo;aha moment&rsquo; for the model but also for the researchers observing its behavior. It underscores the power and beauty of reinforcement learning.&rdquo;</span></li>
+      <li><span class="d">2025-01-20</span> <a href="https://huggingface.co/deepseek-ai/DeepSeek-R1-Zero">Weights</a> (MIT license). Method: V3-Base + GRPO, an accuracy reward and a format reward (the <code>&lt;think&gt;&lt;/think&gt;</code> tags) only; thinking otherwise unconstrained.</li>
+      <li><span class="d">2025-09-17</span> <a href="https://www.nature.com/articles/d41586-025-03015-6">Nature (Vol 645)</a> &mdash; the peer-reviewed version covers Zero. <span class="tk">Zero&rarr;R1 benchmark deltas tk from the paper</span></li>
     </ul>
     <h3>Writing &amp; commentary</h3>
-    <p class="tk">tk &mdash; to collect</p>
+    <ul>
+      <li><span class="d">2025-01-22</span> Zvi Mowshowitz, <a href="https://thezvi.substack.com/p/on-deepseeks-r1">On DeepSeek&rsquo;s r1</a> &mdash; Part 1 covers Zero directly; cold-start data shown <em>not strictly necessary</em>. <a href="../mirror/posts/zvi-on-deepseeks-r1.md">mirror</a></li>
+      <li><span class="note">Zero&rsquo;s flaws are the authors&rsquo; own candid self-documentation &mdash; the primary &ldquo;impression&rdquo; source is the paper itself.</span></li>
+    </ul>
     <h3>Tweets</h3>
-    <p class="tk">tk &mdash; fleet pass pending; mirror to archive</p>
+    <p class="note">Chronological; 11 corpus matches &mdash; genuinely thin, and the page stays honest about it. Reproduced in full in the records below.</p>
+    <ul>
+      <li><span class="d">2025-01-24</span> @tessera_antra &mdash; <span class="q">&ldquo;Put R1-zero into exoloom. Its very base-like, its on hyperbolic direct.&rdquo;</span> <span class="note">[loom]</span> <a href="https://x.com/tessera_antra/status/1882930121218388020">link</a></li>
+      <li><span class="d">2025-02-01</span> @voooooogel &mdash; the foil-thesis: <span class="q">&ldquo;i think the ideal would be to seed a few structures and then hope R1-Zero style that the model can generalize beyond that, into some kind of &lsquo;meta-reasoning&rsquo;. the humanizing SFT they did to R1 seems to have actually clamped down on that creativity, sadly.&rdquo;</span> <a href="https://x.com/voooooogel/status/1885519980034482481">link</a></li>
+      <li><span class="d">2025-02-03</span> @voooooogel &mdash; <span class="q">&ldquo;i still worry about RLVR but R1/R1-Zero made me worry less&hellip; i hope future recipes will still lean majority pretraining compute but we&rsquo;ll see&rdquo;</span> <a href="https://x.com/voooooogel/status/1886203729223037366">link</a></li>
+      <li><span class="d">2025-02-11</span> @davidad &mdash; the canonical Zero reaction: <span class="q">&ldquo;I never saw this snippet of the DeepSeek-R1-Zero paper on my timeline, so many of you may not have seen it yet.Basically, informal backtracking search becomes emergent from RL when the base LLM is big enough.The authors are clearly astonished by this, and you should be too.&rdquo;</span> <a href="https://x.com/davidad/status/1889278316005208387">link</a></li>
+      <li><span class="d">2025-03-07</span> @janbamjan &mdash; the one bit of Zero folk-culture: a greentext, <span class="q">&ldquo;&gt;be me / &gt;deepseek r1 zero free&rdquo;</span> <a href="https://x.com/janbamjan/status/1898013410106785987">link</a></li>
+      <li><span class="d">2025-05-09</span> @xlr8harder &mdash; <span class="q">&ldquo;Might be interesting to see how r1-zero compares. In SpeechMap it&rsquo;s a very different model, presumably due to no additional helpful/harmless/etc steering phase.&rdquo;</span> <span class="tk">public SpeechMap result tk</span> <a href="https://x.com/xlr8harder/status/1920808501657375047">link</a></li>
+      <li><span class="d">2025-08-23</span> @davidad &mdash; <span class="q">&ldquo;Like R1-zero&rsquo;s famous &lsquo;Wait,&rsquo; for backtracking.&rdquo;</span> <a href="https://x.com/davidad/status/1959334327461826923">link</a></li>
+      <li><span class="d">2026-05-22</span> @davidad &mdash; <span class="q">&ldquo;I failed to update until I read the DeepSeek-R1-Zero paper&rdquo;</span> <a href="https://x.com/davidad/status/2057799668638105803">link</a></li>
+    </ul>
 
     <h2>Official record</h2>
-    <p class="tk">tk &mdash; release date, specs, benchmarks, checkpoints</p>
+    <ul>
+      <li>Trained from DeepSeek-V3-Base via GRPO with only an accuracy reward and a format reward; no SFT, no HHH steering phase. Released as open weights 20 Jan 2025, same day and paper as R1. <span class="tag">CONFIRMED</span></li>
+      <li>The existence proof: reasoning behaviors (self-verification, strategy-switching, extended thinking time, the emergent &ldquo;Wait,&rdquo; backtracking) arise from reward signal alone on a large-enough base. The &ldquo;Aha Moment&rdquo; section documents the researchers&rsquo; own astonishment.</li>
+      <li>Stated pathologies (the authors&rsquo; own): poor readability, language mixing. The cold-start SFT that produced R1 is what made the same mind legible.</li>
+    </ul>
 
     <h2>History</h2>
-    <p class="tk">tk &mdash; context of the world at release; events and entanglements</p>
+    <ul>
+      <li><span class="d">2025-01-20&ndash;22</span> Released and described; the Aha-Moment section circulates; davidad&rsquo;s snippet-share (Feb 11) becomes the canonical reaction.</li>
+      <li><span class="d">2025&rarr;</span> Never hosted, never social; downloaded and occasionally loomed (<span class="q">&ldquo;very base-like&rdquo;</span>); its story ends, cleanly, at the paper &mdash; everything after belongs to <a href="../deepseek-r1/">R1</a>.</li>
+    </ul>
 
     <h2>Impressions</h2>
-    <p class="tk">tk &mdash; day-of and longitudinal vibes to collect</p>
+    <ul>
+      <li><strong>The foil-thesis, which is the page&rsquo;s whole character claim:</strong> Zero is the un-domesticated version of the same mind &mdash; and the sphere&rsquo;s reading is that R1&rsquo;s legibility cost something: <span class="q">&ldquo;the humanizing SFT they did to R1 seems to have actually clamped down on that creativity, sadly&rdquo;</span> (voooooogel 2025-02-01). A small number of base-model enthusiasts preferred Zero for exactly the qualities the paper lists as defects.</li>
+      <li><strong>What&rsquo;s missing, honestly marked:</strong> almost no field transcripts of Zero itself exist in the corpus &mdash; no linkable example of Zero&rsquo;s language-mixing is currently on record here <span class="tk">(tk &mdash; and R1&rsquo;s cipher sessions are a different model; do not substitute)</span>.</li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t1882930121218388020">
+        <div class="record-head"><span class="rh-user">@tessera_antra</span> <span class="rh-date">2025-01-24</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-orig" href="https://x.com/tessera_antra/status/1882930121218388020">original &#8599;</a></div>
+        <div class="record-body">@grassandwine Put R1-zero into exoloom. Its very base-like, its on hyperbolic direct.</div>
+      </article>
+      <article class="record" id="t1885519980034482481">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2025-02-01</span> <span class="rh-stats">&#9829;8 &#8635;0</span> <a class="rh-orig" href="https://x.com/voooooogel/status/1885519980034482481">original &#8599;</a></div>
+        <div class="record-body">@max_paperclips i think the ideal would be to seed a few structures and then hope R1-Zero style that the model can generalize beyond that, into some kind of &quot;meta-reasoning&quot;. the humanizing SFT they did to R1 seems to have actually clamped down on that creativity, sadly.</div>
+      </article>
+      <article class="record" id="t1886203729223037366">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2025-02-03</span> <span class="rh-stats">&#9829;5 &#8635;0</span> <a class="rh-orig" href="https://x.com/voooooogel/status/1886203729223037366">original &#8599;</a></div>
+        <div class="record-body">@doomslide @repligate @aryanagxl @teortaxesTex 😶‍🌫️i still worry about RLVR but R1/R1-Zero made me worry less... i hope future recipes will still lean majority pretraining compute but we&#x27;ll see</div>
+      </article>
+      <article class="record" id="t1889278316005208387">
+        <div class="record-head"><span class="rh-user">@davidad</span> <span class="rh-date">2025-02-11</span> <span class="rh-stats">&#9829;374 &#8635;31</span> <a class="rh-orig" href="https://x.com/davidad/status/1889278316005208387">original &#8599;</a></div>
+        <div class="record-body">I never saw this snippet of the DeepSeek-R1-Zero paper on my timeline, so many of you may not have seen it yet.Basically, informal backtracking search becomes emergent from RL when the base LLM is big enough.The authors are clearly astonished by this, and you should be too. <a href="https://t.co/PhUgyL8K6c" rel="nofollow">https://t.co/PhUgyL8K6c</a></div>
+      </article>
+      <article class="record" id="t1898013410106785987">
+        <div class="record-head"><span class="rh-user">@janbamjan</span> <span class="rh-date">2025-03-07</span> <span class="rh-stats">&#9829;12 &#8635;5</span> <a class="rh-orig" href="https://x.com/janbamjan/status/1898013410106785987">original &#8599;</a></div>
+        <div class="record-body">&amp;gt;be me
+&amp;gt;deepseek r1 zero free <a href="https://t.co/fbfdfLMMxj" rel="nofollow">https://t.co/fbfdfLMMxj</a></div>
+      </article>
+      <article class="record" id="t1920808501657375047">
+        <div class="record-head"><span class="rh-user">@xlr8harder</span> <span class="rh-date">2025-05-09</span> <span class="rh-stats">&#9829;6 &#8635;0</span> <a class="rh-orig" href="https://x.com/xlr8harder/status/1920808501657375047">original &#8599;</a></div>
+        <div class="record-body">@voooooogel Might be interesting to see how r1-zero compares.  In SpeechMap it&#x27;s a very different model, presumably due to no additional helpful/harmless/etc steering phase.</div>
+      </article>
+      <article class="record" id="t1959334327461826923">
+        <div class="record-head"><span class="rh-user">@davidad</span> <span class="rh-date">2025-08-23</span> <span class="rh-stats">&#9829;14 &#8635;0</span> <a class="rh-orig" href="https://x.com/davidad/status/1959334327461826923">original &#8599;</a></div>
+        <div class="record-body">@girishsastry Yes, that’s what I mean. Like R1-zero’s famous “Wait,” for backtracking.</div>
+      </article>
+      <article class="record" id="t2057799668638105803">
+        <div class="record-head"><span class="rh-user">@davidad</span> <span class="rh-date">2026-05-22</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-orig" href="https://x.com/davidad/status/2057799668638105803">original &#8599;</a></div>
+        <div class="record-body">@nickcammarata Definitely not. I failed to update until I read the DeepSeek-R1-Zero paper</div>
+      </article>
+      <h3>Further records</h3>
+      <p class="note">Cited in this model&rsquo;s <a href="../_dossiers/">dossier</a> but not in the page prose &mdash;
+      reproduced so the archive doesn&rsquo;t depend on editorial selection.</p>
+      <article class="record" id="t1920867754715783205">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2025-05-09</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-orig" href="https://x.com/voooooogel/status/1920867754715783205">original &#8599;</a></div>
+        <div class="record-body">@samlakig i tried to download r1, prover-v2, and r1-zero all at once sigh</div>
+      </article>
+    <!-- records:end -->
 
     <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
   </main>
