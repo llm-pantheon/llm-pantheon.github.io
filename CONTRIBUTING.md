@@ -24,7 +24,7 @@ PRs to model pages are welcome. House rules (see `CLAUDE.md` for the full set):
 - **Epistemic tags** on contested events: `CONFIRMED / REPORTED / RUMOR`.
 - **Gaps stay visible** — mark them `tk`, don't pave over them.
 - **Internal links relative**, external links absolute. No `href="/..."`.
-- New model pages follow the template: Sources → Official record → History → Impressions (→ Records, auto-generated).
+- New model pages follow the template: Sources → Official record → History → Impressions (→ Records, auto-generated). Full per-section guide: [`tools/page-template.md`](tools/page-template.md).
 
 Model-eligibility rule: different version number = different model = own page. We keep models with *character* — traits, incidents, discourse — not every checkpoint ever shipped. The index's "Deliberately out" list is the boundary; argue with it in an issue.
 
