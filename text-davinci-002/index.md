@@ -438,4 +438,8 @@ running binglish in davinci-002 is eerie
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)

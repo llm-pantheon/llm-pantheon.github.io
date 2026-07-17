@@ -764,4 +764,8 @@ Anthropic’s public-facing Fable 5 model may reportedly return as early as next
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)

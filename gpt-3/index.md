@@ -478,4 +478,8 @@ I’m again surprised and a bit appalled by how many people are saying GPT-3.5. 
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)

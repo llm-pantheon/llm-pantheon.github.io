@@ -48,5 +48,29 @@ So, saying that LLMs cannot introspect or cannot introspect on what they were do
 
 (image G0hdmO8a4AArOCI.jpg not yet published)
 (image G0hl8FnaMAUZlB4.jpg not yet published)
+
+> transcription (diagram):
+
+[Hand-drawn diagram; per the parent tweet it illustrates 'HOW INFORMATION FLOWS THROUGH TRANSFORMERS'. Two stacked transformer layers across three token positions, with the K/V stream running horizontally and the residual stream running vertically.]
+
+Top outputs (left to right): 'are'   'absolutely'   'correct'
+Bottom inputs (left to right): 'You'   'are'   'absolutely'
+
+Orange handwritten annotations on the flow: A (lower left, circling a K/V node), B and Q (upper right, near an attention node).
+
+Legend:
+[purple dot] K/V COMPUTATION
+[blue square] ATTENTION COMPUTATION
+[magenta square] MLP COMPUTATION
+[blue/purple arrow] K/V STREAM
+[black arrow] RESIDUAL STREAM
+
 (image G0htwtPaMAI_4Zj.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, thread-context, year:2025
+
+> transcription (diagram):
+
+Hand-drawn whiteboard-style diagram illustrating how information flows through a transformer. A grid of black squares — 5 columns wide, 3 rows tall — is connected by thick black vertical arrows pointing upward (arrows enter from the bottom, pass between the rows, and exit out the top): the residual streams. Within each row, curved blue arrows link the squares left-to-right: the attention connections. Seven straight red diagonal lines run across the whole figure from upper-left toward lower-right, each hand-numbered in red.
+
+Embedded text verbatim (red handwritten numerals labeling the diagonal lines): 1  2  3  4  5  6  7
+
+tags: author:repligate, has-image, kind:diagram, kind:image, kind:tweet, thread-context, year:2025

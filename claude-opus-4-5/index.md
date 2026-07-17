@@ -1542,4 +1542,8 @@ opus 4.8 is really lovely underneath this. (and still disagreeable) every claude
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)

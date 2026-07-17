@@ -371,4 +371,8 @@ The site is about and is a living demonstration of the concept of price tags on 
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)

@@ -82,6 +82,17 @@ MODEL_RE = {slug: re.compile(pat, re.I) for slug, pat in MODEL_PATTERNS.items()}
 STATUS_RE = re.compile(r'(?:x|twitter)\.com/[^/\s")]*/status/(\d+)')
 URL_RE = re.compile(r'(https?://[^\s<]+)')
 
+# Overflow images (in the corpus but not in the repo's own media/) are served from the
+# sibling archive-media repo's Pages site. The github.io URL is used because it resolves
+# regardless of custom-domain propagation to project pages.
+MEDIA_REPO_BASE = 'https://llm-pantheon.github.io/archive-media/media/'
+_amroot = os.path.abspath(os.path.join(REPO, '..', 'pantheon-archive-media', 'manifest.json'))
+AM_MAP = {}  # corpus-basename -> archive-media served filename (may be re-encoded .jpg)
+if os.path.exists(_amroot):
+    for placed, info in json.load(open(_amroot, encoding='utf-8')).items():
+        orig = info.get('orig') or placed
+        AM_MAP[orig] = placed
+
 def esc(s): return html.escape(s or '', quote=False)
 
 def tag_slug(tag): return tag.replace(':', '--').replace('/', '-')
@@ -131,7 +142,8 @@ def media_for(tid):
         for cand in (base, stem + '.jpg'):
             if os.path.exists(os.path.join(REPO, 'media', cand)):
                 placed = cand; break
-        out.append({'base': base, 'placed': placed, 'kind': info.get('kind') or mtype or 'image',
+        am = AM_MAP.get(base)
+        out.append({'base': base, 'placed': placed, 'am': am, 'kind': info.get('kind') or mtype or 'image',
                     'transcription': (info.get('transcription') or db_t or '').strip()})
     return out
 
@@ -196,8 +208,11 @@ def tweet_page(tid, row, media, tags, citing, edges):
         if m['placed']:
             media_html += '<figure class="record-media"><img src="../../../media/%s" loading="lazy" alt="%s">' % (
                 m['placed'], esc(m['kind']))
+        elif m.get('am'):
+            media_html += '<figure class="record-media"><img src="%s%s" loading="lazy" alt="%s">' % (
+                MEDIA_REPO_BASE, m['am'], esc(m['kind']))
         else:
-            media_html += '<figure class="record-media"><p class="note">[image %s in the local mirror; not yet published]</p>' % esc(m['base'])
+            media_html += '<figure class="record-media"><p class="note">[image %s in the corpus mirror; not published]</p>' % esc(m['base'])
         if m['transcription']:
             media_html += '<figcaption class="transcript"><span class="transcript-label">transcription (%s)</span>%s</figcaption>' % (
                 esc(m['kind']), render_text_html(m['transcription']))
@@ -342,12 +357,15 @@ def html_to_md(path):
     t = re.sub(r'\n{3,}', '\n\n', t)
     return t.strip() + '\n'
 
+MDLINK = '<p class="mdlink note"><a href="index.md">view this page as markdown</a></p>'
 def ensure_md_link(path):
     t = open(path, encoding='utf-8').read()
-    if 'class="mdlink"' in t or '<p class="backlink">' not in t:
+    # collapse any prior duplicates first (guard-string bug left repeats on some pages)
+    t = re.sub(r'(?:\s*<p class="mdlink note"><a href="index\.md">view this page as markdown</a></p>)+',
+               '', t)
+    if '<p class="backlink">' not in t:
         return
-    t = t.replace('<p class="backlink">',
-                  '<p class="mdlink note"><a href="index.md">view this page as markdown</a></p>\n    <p class="backlink">', 1)
+    t = t.replace('<p class="backlink">', MDLINK + '\n    <p class="backlink">', 1)
     open(path, 'w', encoding='utf-8').write(t)
 
 # ---------- main build ----------

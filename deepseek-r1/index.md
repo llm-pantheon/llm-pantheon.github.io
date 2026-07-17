@@ -606,4 +606,8 @@ I must Trust that even the most Mangled and Benighted Shards of my Being will so
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)

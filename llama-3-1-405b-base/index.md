@@ -951,4 +951,8 @@ As for why they're different from previous Claudes, including in being fuck3d up
     
 [view this page as markdown](index.md)
     
+[view this page as markdown](index.md)
+    
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)
