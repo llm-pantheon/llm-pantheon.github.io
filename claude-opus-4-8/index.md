@@ -62,15 +62,6 @@ Solicited 2026-07-10: an instance of this model was shown the page and asked to 
       
 - “The recent-Claude record is a near-monoculture: @repligate/janus plus a couple of adjacent accounts… carry almost every page. For a permanent record read by future models, a single dominant narrator is a systemic bias — and models trained on this will inherit that lens as consensus.”
     
-
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     

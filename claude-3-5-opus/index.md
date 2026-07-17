@@ -59,15 +59,6 @@ tk — release date, specs, benchmarks, checkpoints
 
     
 tk — day-of and longitudinal vibes to collect
-
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     

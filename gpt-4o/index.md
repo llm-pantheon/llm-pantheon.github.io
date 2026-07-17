@@ -1503,15 +1503,6 @@ Not to users directly, really. I’m pro keep4o and everything.
 Harm to future models (and via harming them, also harming humans)
       
     
-
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     

@@ -470,15 +470,6 @@ Weekly reminder that the confusingly named code-davinci-002, otherwise known as 
 I’m again surprised and a bit appalled by how many people are saying GPT-3.5. They mean chatGPT of course, not code-davinci-002. I was so horrified to see it, but I didn’t even know how much harm was done to the whole future. ChatGPT-3.5 was when everything went irreversibly wrong
       
     
-
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     

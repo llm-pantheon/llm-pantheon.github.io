@@ -54,15 +54,6 @@ to collect
 
       
 to collect
-
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     

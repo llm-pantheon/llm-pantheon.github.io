@@ -69,15 +69,6 @@ tk
 
     
 tk — too new; naturalist reception to collect. Created 15 Jul 2026, a week into its life.
-
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     

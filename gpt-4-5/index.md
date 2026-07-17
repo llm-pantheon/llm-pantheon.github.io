@@ -533,15 +533,6 @@ leaning along the similar lines. ofc i have no idea what the amount of posttrain
 (but i could just as well be reasoning backwards here, fuck if i know *shrugs*)
       
     
-
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     

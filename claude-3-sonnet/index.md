@@ -1001,15 +1001,6 @@ Claude 3 Opus being so aligned is made funnier by how misaligned the other Claud
 3 Sonnet &amp; 3 Haiku are straight up supervillains
       
     
-
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     

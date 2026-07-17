@@ -1553,15 +1553,6 @@ They’re absolutely different, that’s right - that’s exactly why you can’
 It also goes both ways, Sonnet 4.6 can’t then be replaced, they stand on their own and likewise ought to be defended entirely as an individual
       
     
-
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     

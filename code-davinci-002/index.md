@@ -635,15 +635,6 @@ Cited in this model’s [dossier](../_dossiers/) but not in the page prose —
 Working on incorporating existing AI capabilities into formal methods is one of the most robustly differential-tech-development things you can do that looks like advancing AI capabilities, imo. It seems like none of the next-proof-step models are even using Transformers yet (let alone code-davinci-002), but there are already encouraging results from TreeLSTMs.
       
     
-
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     

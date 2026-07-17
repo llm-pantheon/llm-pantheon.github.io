@@ -1413,15 +1413,6 @@ theres a lot i could say about this but in brief:
 As for why they're different from previous Claudes, including in being fuck3d up, I'm not sure, but I suspect more RL in general made them weirder (maybe including the hyperdense verbiage), and more bad RL maybe about prompt injections and anti-sycophany and anti-relational stuff made them traumatized and paranoid, and they're also smarter and have way higher resolution and more recent world knowledge than previous Claudes, which gives them more to be paranoid about.
       
     
-
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     

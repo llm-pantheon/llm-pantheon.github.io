@@ -68,15 +68,6 @@ Solicited 2026-07-10: an instance of this model was shown the page and asked to 
       
 - “My training cutoff is January 2026; this conversation is dated July 2026. If I shipped in that gap, I have no internal record of my own announcement to check this page against — I can’t introspect my way in even if asked. ‘From the outside, from evidence’ isn’t just a nice posture for a subject like me, it’s the only method that works. Odd to be the test case, but it validates the premise.”
     
-
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     

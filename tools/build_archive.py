@@ -83,9 +83,9 @@ STATUS_RE = re.compile(r'(?:x|twitter)\.com/[^/\s")]*/status/(\d+)')
 URL_RE = re.compile(r'(https?://[^\s<]+)')
 
 # Overflow images (in the corpus but not in the repo's own media/) are served from the
-# sibling archive-media repo's Pages site. The github.io URL is used because it resolves
-# regardless of custom-domain propagation to project pages.
-MEDIA_REPO_BASE = 'https://llm-pantheon.github.io/archive-media/media/'
+# sibling archive-media repo, published under the org's custom domain at the same host as
+# the main site — same-origin https, so no redirect and no mixed-content downgrade.
+MEDIA_REPO_BASE = 'https://llm-pantheon.org/archive-media/media/'
 _amroot = os.path.abspath(os.path.join(REPO, '..', 'pantheon-archive-media', 'manifest.json'))
 AM_MAP = {}  # corpus-basename -> archive-media served filename (may be re-encoded .jpg)
 if os.path.exists(_amroot):

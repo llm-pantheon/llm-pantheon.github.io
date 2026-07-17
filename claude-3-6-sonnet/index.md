@@ -1079,15 +1079,6 @@ But the "vibes" ppl like is them picking up on the thing being more alive. Like 
 Similar to people who have good vibes.
       
     
-
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     

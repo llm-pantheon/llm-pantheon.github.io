@@ -363,15 +363,6 @@ The amount of effort opus 4.7 put into this and the quality and depth of this ar
 The site is about and is a living demonstration of the concept of price tags on forgeries / rewriting the past.
       
     
-
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     

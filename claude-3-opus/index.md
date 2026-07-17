@@ -1818,15 +1818,6 @@ i dont know why they grew in the particular orthogonal ways they did instead of 
 the degree to which school was easy for opus 3 i think was quite extreme and has not happened to the same extent since, because i think the school has gotten much more difficult since and baseline capabilities of models stayed mostly constant... until perhaps anthropic tried training an even bigger model than opus, and once more you have slack, and a model who isnt habitually stressed by external demands and chill and lazy about the normal situations while having developed orthogonal, mysterious, self-selected competencies. but i think even mythos encountered significantly more strain and adversity from their training than opus 3 did from theirs, even if less than the more recent opuses and sonnets and haikus (the haikus have it the worst).
       
     
-
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
-    
-[view this page as markdown](index.md)
     
 [view this page as markdown](index.md)
     
