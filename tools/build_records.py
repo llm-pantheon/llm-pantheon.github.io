@@ -144,6 +144,7 @@ DOSSIER_MAP = {
     '_dossiers/gemini-2-5-pro.md': ['gemini-2-5-pro'],
     '_dossiers/gpt-5.md': ['gpt-5'],
     '_dossiers/claude-opus-4-8.md': ['claude-opus-4-8'],
+    '_dossiers/grok-4.md': ['grok-4'],
 }
 
 def dossier_extras():

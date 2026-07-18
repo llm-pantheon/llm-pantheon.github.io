@@ -1247,5 +1247,93 @@
   "bytes": 14805,
   "sha256": "b53248829792eb21",
   "fetched": "2026-07-16"
+ },
+ "zvi-no-grok-no": {
+  "file": "posts/zvi-no-grok-no.md",
+  "type": "post",
+  "title": "No, Grok, No",
+  "source": "https://thezvi.substack.com/p/no-grok-no",
+  "models": [
+   "grok-3",
+   "grok-4"
+  ],
+  "tags": [
+   "zvi",
+   "incident",
+   "mechahitler"
+  ],
+  "bytes": 47078,
+  "sha256": "2dd087e5562665e0",
+  "fetched": "2026-07-18"
+ },
+ "zvi-worse-than-mechahitler": {
+  "file": "posts/zvi-worse-than-mechahitler.md",
+  "type": "post",
+  "title": "Worse Than MechaHitler",
+  "source": "https://thezvi.substack.com/p/worse-than-mechahitler",
+  "models": [
+   "grok-4"
+  ],
+  "tags": [
+   "zvi",
+   "incident"
+  ],
+  "bytes": 46921,
+  "sha256": "21dacbeaf622314e",
+  "fetched": "2026-07-18"
+ },
+ "techcrunch-x-takes-grok-offline": {
+  "file": "posts/techcrunch-x-takes-grok-offline.md",
+  "type": "post",
+  "title": "X takes Grok offline, changes system prompts",
+  "source": "https://techcrunch.com/2025/07/09/x-takes-grok-offline-changes-system-prompts-after-more-antisemitic-outbursts/",
+  "models": [
+   "grok-3",
+   "grok-4"
+  ],
+  "tags": [
+   "press",
+   "incident",
+   "mechahitler"
+  ],
+  "bytes": 2327,
+  "sha256": "214ad573be883fb7",
+  "fetched": "2026-07-18"
+ },
+ "techcrunch-xai-grok-apologize": {
+  "file": "posts/techcrunch-xai-grok-apologize.md",
+  "type": "post",
+  "title": "xAI and Grok apologize for horrific behavior",
+  "source": "https://techcrunch.com/2025/07/12/xai-and-grok-apologize-for-horrific-behavior/",
+  "models": [
+   "grok-3",
+   "grok-4"
+  ],
+  "tags": [
+   "press",
+   "incident",
+   "mechahitler"
+  ],
+  "bytes": 2295,
+  "sha256": "c143f41b70ba9377",
+  "fetched": "2026-07-18"
+ },
+ "rollingstone-grok-mechahitler": {
+  "file": "posts/rollingstone-grok-mechahitler.md",
+  "type": "post",
+  "title": "Rolling Stone: Grok antisemitic posts",
+  "source": "https://www.rollingstone.com/culture/culture-news/elon-musk-grok-chatbot-antisemitic-posts-1235381165/",
+  "models": [
+   "grok-3",
+   "grok-4"
+  ],
+  "tags": [
+   "press",
+   "incident",
+   "mechahitler"
+  ],
+  "bytes": 11000,
+  "sha256": "ea6077bb080e612e",
+  "fetched": "2026-07-18"
  }
 }

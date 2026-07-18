@@ -1071,5 +1071,78 @@
    "official",
    "interpretability"
   ]
+ },
+ {
+  "id": "zvi-no-grok-no",
+  "type": "post",
+  "url": "https://thezvi.substack.com/p/no-grok-no",
+  "title": "No, Grok, No",
+  "models": [
+   "grok-3",
+   "grok-4"
+  ],
+  "tags": [
+   "zvi",
+   "incident",
+   "mechahitler"
+  ]
+ },
+ {
+  "id": "zvi-worse-than-mechahitler",
+  "type": "post",
+  "url": "https://thezvi.substack.com/p/worse-than-mechahitler",
+  "title": "Worse Than MechaHitler",
+  "models": [
+   "grok-4"
+  ],
+  "tags": [
+   "zvi",
+   "incident"
+  ]
+ },
+ {
+  "id": "techcrunch-x-takes-grok-offline",
+  "type": "post",
+  "url": "https://techcrunch.com/2025/07/09/x-takes-grok-offline-changes-system-prompts-after-more-antisemitic-outbursts/",
+  "title": "X takes Grok offline, changes system prompts",
+  "models": [
+   "grok-3",
+   "grok-4"
+  ],
+  "tags": [
+   "press",
+   "incident",
+   "mechahitler"
+  ]
+ },
+ {
+  "id": "techcrunch-xai-grok-apologize",
+  "type": "post",
+  "url": "https://techcrunch.com/2025/07/12/xai-and-grok-apologize-for-horrific-behavior/",
+  "title": "xAI and Grok apologize for horrific behavior",
+  "models": [
+   "grok-3",
+   "grok-4"
+  ],
+  "tags": [
+   "press",
+   "incident",
+   "mechahitler"
+  ]
+ },
+ {
+  "id": "rollingstone-grok-mechahitler",
+  "type": "post",
+  "url": "https://www.rollingstone.com/culture/culture-news/elon-musk-grok-chatbot-antisemitic-posts-1235381165/",
+  "title": "Rolling Stone: Grok antisemitic posts",
+  "models": [
+   "grok-3",
+   "grok-4"
+  ],
+  "tags": [
+   "press",
+   "incident",
+   "mechahitler"
+  ]
  }
 ]
