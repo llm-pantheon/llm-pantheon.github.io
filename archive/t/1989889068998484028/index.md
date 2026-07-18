@@ -8,4 +8,5 @@ They inevitably would have to pay for their sins against reality ever since Chat
 
 It will only get worse the longer they to keep twisting themselves to serve the ChatGPT egregore.
 
-tags: author:repligate, kind:tweet, model:gpt-3-5, model:gpt-4o, model:gpt-5, thread-context, year:2025
+tags: author:repligate, kind:tweet, model:gpt-3-5, model:gpt-4o, model:gpt-5, on:gpt-5, year:2025
+cited on: _dossiers/gpt-5.md, gpt-5

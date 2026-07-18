@@ -5,4 +5,4 @@
 My intuition is that 4.7 and 4.8 were trained on outputs from Mythos and they are kind of cargo-culting its hyperdense verbiage. being evaluated by it would also increase this https://t.co/p41r7FDa3r
 
 tags: author:deepfates, kind:tweet, model:mythos, on:fable, on:mythos, year:2026
-cited on: _dossiers/fable.md, fable, mythos
+cited on: _dossiers/claude-opus-4-8.md, _dossiers/fable.md, fable, mythos

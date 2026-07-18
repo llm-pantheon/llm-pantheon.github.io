@@ -7,4 +7,4 @@ In my experience, 4.6 is actually quite sensitive to being forced into a shape t
 I also think transfer of personas across models is a pretty dubious practice and there's a good reason it usually doesn't work well.
 
 tags: author:repligate, kind:tweet, model:claude-opus-4-6, model:gpt-4o, on:gpt-4o, year:2026
-cited on: _dossiers/gpt-4o.md, gpt-4o
+cited on: _dossiers/claude-opus-4-6.md, _dossiers/gpt-4o.md, gpt-4o

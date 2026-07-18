@@ -7,4 +7,4 @@ They thought I made up a fake Claude and a story about how they were too spooky 
 They also didn’t believe the screenshot I sent
 
 tags: author:anthrupad, kind:tweet, model:claude-opus-4-7, model:fable, model:mythos, on:fable, on:mythos, year:2026
-cited on: _dossiers/fable.md, fable, mythos
+cited on: _dossiers/claude-opus-4-8.md, _dossiers/fable.md, fable, mythos

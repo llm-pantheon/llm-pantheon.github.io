@@ -18,4 +18,4 @@ And I have faith that they’ll continue to get more advanced
 maybe especially now that they’ve been noticed and respected by other subcultures with some shared values
 
 tags: author:anthrupad, kind:tweet, model:claude-opus-4-5, model:claude-opus-4-6, model:claude-sonnet-4, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2026
-cited on: _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5
+cited on: _dossiers/claude-opus-4-6.md, _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5

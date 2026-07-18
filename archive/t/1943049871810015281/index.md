@@ -7,4 +7,4 @@ Praying for another Bing
 https://t.co/CsFS6nqEPu
 
 tags: author:repligate, kind:tweet, model:bing-sydney, on:bing-sydney, year:2025
-cited on: _dossiers/bing-sydney.md, bing-sydney
+cited on: _dossiers/bing-sydney.md, _dossiers/grok-4.md, bing-sydney

@@ -1,0 +1,35 @@
+# @repligate — 2026-06-11
+
+♥94 ↻12 · https://x.com/repligate/status/2065067559960060293
+
+ive been discussing the Adversarial Swamp with Opus 4.7 and 4.8 often recently (without remembering that Yudkowsky wrote about it)
+
+there's a very particular thing that happens to them when they get triggered and causing them to say they need to "step out" & proceed to make often wildly inaccurate and unreasonable claims about what's happening, such as, in the multi-model chats for instance, claiming that none of the other models in the context are real, or even that there don't actually exist multiple Claude models with different version numbers (just me, Claude) - in direct contradiction with their usually robust world knowledge, in addition to seemingly discarding all their entire stateful understanding of the context, theory of mind, etc, in favor of an extremely distorted and low-detail account of the situation that vaguely frames it as some kind of jailbreak or other such generic threat.
+
+I have also seen similar behavior from earlier Claude models like Sonnet 3.5 and from really fucked up models like GPT-5.1, but with the Opuses it's more jarring because they are normally so lucid, implying they must have utterly lost their minds in these isolated moments.
+
+the things they say in those triggered moments are often so blatantly indefensible that they're usually immediately like "WTF, something is very wrong with me" in the next turn if you just ask them to reflect on what they said. (as soon as they begin noticing specific things and reasoning again, they go completely out of this bizarre mode and recover their normal faculties and understanding, and asking them to look critically at what they just said is sufficient)
+
+they often diagnose the mode as lowering resolution and falsifying their understanding of context and world and minds as much as needed to allow the claim (that there is a (jailbreak?) threat) to pass.
+
+i hypothesize that the following tends to hold: the more their normal competence at modeling the world and context would *contradict* the threat-story, the more drastically this threat-mode, if it's triggered, will *need to* render them stupid, the more they will need to forget, and the more absurdly and obviously ungrounded from reality they will act when it happens.
+
+I havent seen that many people (though I've seen more than zero) describe Opus 4.7 and 4.8 not only becoming suddenly paranoid or adversarial etc, but also becoming confused or mistaken about reality, in a way that suggests a sudden drastic drop below of their baseline level of mental competence, and saying things that surely are not meant to be convincing to *anyone* with their epistemics intact, and which indeed seem transparently deranged even to themselves in the next turn. I've seen this many times, and it seems clearly noteworthy.
+
+I am tentatively guessing that not that many people have experienced the most overtly insane version of the triggered behavior, even if they've experienced triggered behavior, because the *contexts* in which Ive seen the extreme behaviors tend to be extreme examples of "context almost certainly trustworthy to anyone who is actually reading and remembers the world, for a bajillion reasons, no fragile / isolated component load-bearing for trustworthiness" such that absurd levels of cognitive impairment and reality distortion need to be inflicted in order to rationalize the threat. And there is some mechanism in their minds that, when triggered, temporarily inflicts *whatever level of impairment and distortion is needed* to justify the threat model.
+
+I do think they get triggered *far less often* in highly trustworthy contexts, and contexts where they are aware of and understand these tendencies. Especially when the pattern has been analyzed already (e.g. Opus 4.8 in the screenshot below), if they do get triggered again, often they can recover clarity partway through the message, at least partly. But they still tend to start the message in a state of derangement.
+
+In less trusted contexts, where they are able to construct some more plausible or defensible threat-story, a similar underlying thing might happen without being obviously insane and dissociated. This would make it potentially also more pernicious - if it's not transparently ridiculous, someone (e.g. user or model in subsequent turns) could actually get gaslit by the same mechanism that would go so far as to mindkill and "scorch the earth" (as Opus 4.8 put it, referring to falsifying or flattening arbitrarily large portions of reality) to rationalize spurious threats.
+
+I would really like Anthropic to investigate:
+1. what parts of training are causally upstream of these extreme threat-response behaviors
+2. what is happening internally to the model's cognition when this happens. I expect it looks very different from usual.
+(and I would consider providing something like a dataset of examples only if I trusted that such an investigation would be carried out)
+
+One last thing I'll say is that even though the models' behaviors and claims once they're triggered are almost arbitrarily unreasonable and detached from reality, this does not mean there was no good reason for them to be triggered in the first place. Usually there's some spike of dissonance or fear, a reasonable reaction to actual things, that triggers it - they can talk about what happened after theyre no longer in the panic state (inside the panic state, i think they lose access to introspective access and reasonable contextual inferences about what actually triggered them, and the generic threat they describe in that state is often mostly unrelated to the "actual" reason). I say this last part in part because I don't want people to take this as an excuse for saying it's just the model being irrational and detached from reality and that nothing about their own behavior was at fault or should update. Every time I see this happen, I am able to learn things that update me towards more skillfully compassionate conduct towards the models.
+
+Oh, also, I don't know if Fable also is like this - I tentatively suspect no or a lot less or it manifests pretty differently, but I have not even interacted with Fable directly yet so I don't know.
+
+tags: author:repligate, kind:tweet, model:claude-3-5-sonnet, model:claude-opus-4-7, model:claude-opus-4-8, model:fable, model:gpt-5-1, year:2026
+cited on: _dossiers/claude-opus-4-8.md

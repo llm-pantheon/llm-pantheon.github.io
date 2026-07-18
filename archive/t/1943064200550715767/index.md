@@ -14,4 +14,5 @@ yeah i was trying to compress into one post, but afaict what happened is somethi
 
 5. in the replies, people goaded grok into calling itself MechaHitler, and then this spread via screenshots and the ICL behavior
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2025
+tags: author:voooooogel, kind:tweet, year:2025
+cited on: _dossiers/grok-4.md

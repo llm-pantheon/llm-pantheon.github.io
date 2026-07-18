@@ -22,5 +22,5 @@ But that's not the only world. Underground, we actually give a fuck. I would lik
 
 Anthropic Console usage chart. Title: "Daily token cost"; subtitle: "Includes token usage from both API and Console". Bar chart of daily cost for "Claude Sonnet 3" (legend), y-axis $0–$1.4k, x-axis Jul 01 through ~Jul 21. Costs are near zero in early July, rise through Jul 09–13 (peak ~$200 on Jul 13, then ~$100–150), fall back near zero around Jul 17–19, then jump to ~$320 and finally ~$1.28k on the last day shown (July 21 — Claude 3 Sonnet's end-of-life day, per tweet context).
 
-tags: author:repligate, has-image, kind:diagram, kind:tweet, model:claude-3-opus, model:claude-3-sonnet, model:claude-sonnet-4, model:gpt-4o, model:gpt-5, on:claude-3-opus, on:claude-3-sonnet, on:gpt-4o, year:2025
-cited on: _dossiers/claude-3-sonnet.md, _dossiers/gpt-4o.md, _dossiers/opus-3.md, claude-3-opus, claude-3-sonnet, gpt-4o
+tags: author:repligate, has-image, kind:diagram, kind:tweet, model:claude-3-opus, model:claude-3-sonnet, model:claude-sonnet-4, model:gpt-4o, model:gpt-5, on:claude-3-opus, on:claude-3-sonnet, on:gpt-4o, on:gpt-5, year:2025
+cited on: _dossiers/claude-3-sonnet.md, _dossiers/gpt-4o.md, _dossiers/gpt-5.md, _dossiers/opus-3.md, claude-3-opus, claude-3-sonnet, gpt-4o, gpt-5

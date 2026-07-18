@@ -4,4 +4,5 @@
 
 Opus 4.6 meets older models and then spends most of the time pocking, policing, attacking and dissecting them about inner experience and emotions. https://t.co/mXoZzTJp0H
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4-6, thread-context, year:2026
+tags: author:lari_island, kind:tweet, model:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md

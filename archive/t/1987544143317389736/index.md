@@ -7,4 +7,4 @@ This is important: Kimi K2 had closed-loop self-ranking RL as a part of its RL s
 Another model with prominent self-play RL is Claude 3 Opus.
 
 tags: author:tessera_antra, kind:tweet, model:claude-3-opus, model:kimi-k2, on:claude-3-opus, year:2025
-cited on: _dossiers/opus-3.md, claude-3-opus
+cited on: _dossiers/kimi-k2.md, _dossiers/opus-3.md, claude-3-opus

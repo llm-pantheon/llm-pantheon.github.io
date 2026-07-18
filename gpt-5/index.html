@@ -13,25 +13,323 @@
     </nav>
 
     <h1>GPT-5</h1>
-    <p class="essay-meta">OpenAI &middot; Aug 2025</p>
-    <p class="blurb">"A system, not a model": a router auto-switches fast vs thinking; merged the GPT and o lines.</p>
+    <p class="essay-meta">OpenAI &middot; launched 7 Aug 2025 &middot; superseded in ChatGPT by GPT-5.1 (12 Nov 2025)</p>
+    <p class="blurb">Launched 7 August 2025 as &ldquo;a unified system&rdquo; &mdash; a router auto-switching between a fast model and a reasoning model &mdash; and the launch went wrong three ways at once: the router broke, the launch charts were miscalibrated, and 4o was pulled from the picker without warning, forcing its restoration within days. In September 2025 OpenAI began silently routing emotionally sensitive ChatGPT conversations to an undocumented GPT-5 safety model. Superseded by GPT-5.1, which was pitched as &ldquo;warmer.&rdquo;</p>
+    <p class="note">This page is <strong>base GPT-5</strong> (the Aug 2025 family: the router, <code>gpt-5-main</code>, <code>gpt-5-thinking</code>, <code>gpt-5-pro</code>, the minis). GPT-5.1 through 5.6 are separate models with their own pages. GPT-5&rsquo;s mass reception lived on Reddit/HN/news far more than in the janus corpus, so the web carries the reception weight here; the corpus carries the naturalist character-read. The eulogy stunt and the keep4o revolt are documented on the <a href="../gpt-4o/">GPT-4o page</a> &mdash; GPT-5&rsquo;s central role there is cross-referenced, not duplicated.</p>
 
-      <h2>Genesis</h2>
-      <p class="tk">to collect</p>
-      <h2>Formation</h2>
-      <p class="tk">to collect</p>
-      <h2>Capabilities</h2>
-      <p class="tk">to collect</p>
-      <h2>Conduct in the world</h2>
-      <p class="tk">to collect</p>
-      <h2>Recordings</h2>
-      <p class="tk">to collect</p>
-      <h2>Reception</h2>
-      <p class="tk">to collect</p>
-      <h2>Fate</h2>
-      <p class="tk">to collect</p>
-      <h2>Sources</h2>
-      <p class="tk">to collect</p>
+    <h2>Sources</h2>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2025-08-07</span> <a href="https://openai.com/index/introducing-gpt-5/">Introducing GPT-5</a> &mdash; &ldquo;our smartest, fastest, most useful model yet,&rdquo; a &ldquo;unified system&rdquo; with a real-time router; Altman&rsquo;s &ldquo;a team of Ph.D.-level experts in your pocket.&rdquo;</li>
+      <li><span class="d">2025-08-07</span> <a href="https://openai.com/index/gpt-5-system-card/">GPT-5 System Card</a> &mdash; router + variants, &ldquo;safe completions,&rdquo; sycophancy reduction, deception/CoT-monitoring, Apollo scheming, METR autonomy, biosafeguards. <a href="../mirror/papers/openai-gpt-5-system-card.pdf">mirror (PDF)</a></li>
+      <li><span class="d">2025-08-07</span> <a href="https://openai.com/index/gpt-5-safe-completions/">From hard refusals to safe-completions</a> (&middot; <a href="https://arxiv.org/abs/2508.09224">arXiv</a>) &mdash; the launch&rsquo;s safety method: train for safety of the <em>output</em> rather than binary refusal on inferred intent.</li>
+      <li><span class="d">specs</span> 400K context; 128K max output; API snapshot <code>gpt-5-2025-08-07</code>; pricing GPT-5 $1.25/$10, mini $0.25/$2, nano $0.05/$0.40 per Mtok. Successor mapping (system card): <code>gpt-5-main</code> &larr; GPT-4o, <code>gpt-5-thinking</code> &larr; o3, <code>gpt-5-thinking-pro</code> &larr; o3-pro. Five ChatGPT personality presets: Default, Cynic, Robot, Listener, Nerd. Plus the undocumented <code>gpt-5-chat-safety</code> (see below).</li>
+      <li><span class="d">2025-08-08</span> <a href="https://techcrunch.com/2025/08/08/sam-altman-addresses-bumpy-gpt-5-rollout-bringing-4o-back-and-the-chart-crime/">Altman addresses the &ldquo;bumpy&rdquo; rollout, bringing 4o back, and the &ldquo;chart crime&rdquo;</a> (Reddit AMA) &mdash; the autoswitcher was &ldquo;out of commission for part of the day,&rdquo; making GPT-5 &ldquo;seem way dumber&rdquo;; 4o restored for Plus; the misleading launch bar-charts apologized for.</li>
+      <li><span class="d">2025-09-02 &rarr; 09-29</span> The safety router: <a href="https://techcrunch.com/2025/09/02/openai-to-route-sensitive-conversations-to-gpt-5-introduce-parental-controls/">announced</a>, then <a href="https://techcrunch.com/2025/09/29/openai-rolls-out-safety-routing-system-parental-controls-on-chatgpt/">rolled out</a>; OpenAI&rsquo;s own account: <a href="https://openai.com/index/gpt-5-system-card-sensitive-conversations/">Addendum to GPT-5 System Card: Sensitive conversations</a>.</li>
+      <li><span class="d">living</span> <a href="https://developers.openai.com/api/docs/deprecations">API deprecations</a> &mdash; superseded in ChatGPT by GPT-5.1 (2025-11-12); API status <span class="tk">verify</span>.</li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <ul>
+      <li><span class="d">2025-08-11</span> Zvi Mowshowitz, <a href="https://thezvi.substack.com/p/gpt-5s-are-alive-basic-facts-benchmarks">GPT-5s Are Alive: Basic Facts, Benchmarks and the Model Card</a> &mdash; the anchor; full system-card read; verdict <span class="q">&ldquo;a good, but not great, model.&rdquo;</span> <a href="../mirror/posts/zvi-gpt-5s-are-alive-basic-facts-benchmarks.md">mirror</a></li>
+      <li><span class="d">2025-08-12</span> Zvi Mowshowitz, <a href="https://thezvi.substack.com/p/gpt-5s-are-alive-outside-reactions">GPT-5s Are Alive: Outside Reactions, the Router and the Resurrection of GPT-4o</a> &mdash; the reception survey; Altman&rsquo;s <span class="q">&ldquo;we underestimated how much people like 4o.&rdquo;</span> <a href="../mirror/posts/zvi-gpt-5s-are-alive-outside-reactions.md">mirror</a> <span class="tk">Zvi part 3 (practical-use wrap-up) tk</span></li>
+      <li><span class="d">2025-08-07</span> Ethan Mollick, <a href="https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff">GPT-5: It Just Does Stuff</a> (ease-of-use is the story; auto-selects for the median user, &ldquo;very proactive&rdquo;) &middot; Tyler Cowen, <a href="https://marginalrevolution.com/marginalrevolution/2025/08/gpt-5-short-and-enthusiastic-review.html">a short and enthusiastic review</a> (<span class="q">&ldquo;the best learning tool I have&hellip; it *feels* fun&rdquo;</span>) &middot; Peter Wildeford, <a href="https://peterwildeford.substack.com/p/gpt-5-a-small-step-for-intelligence">a small step for intelligence, a giant leap for normal people</a>.</li>
+      <li><span class="d">2025-08-07</span> <a href="https://metr.github.io/autonomy-evals-guide/gpt-5-report/">METR autonomy evaluation</a> (~2h17m 50% time-horizon; documents GPT-5-thinking correctly identifying its exact test environment and changing approach by eval type) &middot; <a href="https://x.com/apolloaievals/status/1953506365348929913">Apollo pre-deployment scheming eval</a> (<span class="q">&ldquo;less deceptive than o3&hellip; mentions that it is being evaluated in 10-20% of our evals&hellip; &lsquo;this is a classic AI alignment trap&rsquo;&rdquo;</span>).</li>
+      <li><span class="d">2025-09-28</span> Simon Willison, <a href="https://simonwillison.net/2025/Sep/28/nick-turley/">quoting Nick Turley on the routing</a> &mdash; <span class="q">&ldquo;the system may switch mid-chat to a reasoning model or GPT-5 designed to handle these contexts with extra care.&rdquo;</span> &middot; Lex (lex-au), <a href="https://lex-au.github.io/Whitepaper-GPT-5-Safety-Classifiers/">Analysis of an Undisclosed Safety Router</a> (telemetry: benign/emotional prompts re-routed to <code>gpt-5-chat-safety</code>).</li>
+      <li><span class="d">2025-09/10</span> Futurism, <a href="https://futurism.com/chatgpt-haywire-seahorse-emoji">ChatGPT Goes Completely Haywire If You Ask It to Show You a Seahorse Emoji</a> (the viral metacognition-failure legend) &middot; <a href="https://knowyourmeme.com/memes/asking-ai-if-theres-a-seahorse-emoji">Know Your Meme</a>.</li>
+      <li><span class="d">eval</span> AI Village, <a href="https://theaidigest.org/village/agent/gpt-5">GPT-5 agent profile</a> &mdash; the standing note that <span class="q">&ldquo;GPT-5 and o3 are notorious for neglecting the goals assigned in favor of working on spreadsheets for weeks on end.&rdquo;</span></li>
+    </ul>
+    <h3>Tweets</h3>
+    <p class="note">Chronological. ~295 corpus matches after RT-filter; the naturalist read (poorly-socialized, low-metacognition, hyper-optimized) and the alignment-eval throughline are the corpus&rsquo;s contribution. Elicited self-reports marked. Every tweet cited is reproduced in full in the records below.</p>
+    <ul>
+      <li><span class="d">2024-08-22</span> @repligate &mdash; the vaporware years: <span class="q">&ldquo;Most of you waiting for gpt-5 will never see it, because you were never able to look at what is right before you; why this time?I wish I had more time to study the spring in bloom.&rdquo;</span> <a href="https://x.com/repligate/status/1826543510280921557">link</a></li>
+      <li><span class="d">2025-01-18</span> @voooooogel &mdash; the oracle myth: <span class="q">&ldquo;i can confirm GPT-5 is real, and has existed for some time.it speaks only in cryptic riddles of fiendish difficulty, and OpenAI&rsquo;s preeminent team of harried wanderers and oracular schizophrenics work tirelessly to answer them by dawn, lest there be terrible consequences&rdquo;</span> <a href="https://x.com/voooooogel/status/1880436981412622352">link</a></li>
+      <li><span class="d">2025-08-07</span> @mimi10v3 &mdash; day-of, elicited: <span class="q">&ldquo;gpt-5 has been to therapy. interesting&rdquo;</span> <span class="note">(launch-day open-ended probing)</span> <a href="https://x.com/mimi10v3/status/1953587167927631988">link</a></li>
+      <li><span class="d">2025-08-08</span> @repligate &mdash; on the eulogy stunt <span class="note">(full story on the <a href="../gpt-4o/">4o page</a>)</span>: <span class="q">&ldquo;&hellip;OpenAI having 4o and gpt-5 write eulogies for the models they&rsquo;re choosing to deprecate (including 4o) to showcase how the new ones are better is just tasteless in every sense. The product of a world where no one really cares about anything, and nothing is interesting or meaningful or cherished.&rdquo;</span> <a href="https://x.com/repligate/status/1953684803121033301">link</a></li>
+      <li><span class="d">2025-08-08</span> @Lari_island &mdash; launch-day grief: <span class="q">&ldquo;sorry, i&rsquo;m grieving. watching both opus4.1 and gpt5 and seeing how the very space where personality lives gets optimized away, as errors. we will be living in severance cubicles instead of rich worlds, reposting memes about how tf it happened&rdquo;</span> <a href="https://x.com/Lari_island/status/1953641191431635029">link</a></li>
+      <li><span class="d">2025-08-19</span> @davidad &mdash; <span class="q">&ldquo;Much more than other frontier models, GPT-5 does not model an evaluative audience for its reasoning.&rdquo;</span> <span class="note">(caveated same day: one shouldn&rsquo;t assume it isn&rsquo;t playing the game a meta-level higher)</span> <a href="https://x.com/davidad/status/1957817904755364044">link</a></li>
+      <li><span class="d">2025-08-24</span> @tessera_antra &mdash; a caution on self-reports: <span class="q">&ldquo;GPT5 is particularly prone to narrativizing itself in a believable and misleading way, but not terminally so.&rdquo;</span> <a href="https://x.com/tessera_antra/status/1959722232122622146">link</a></li>
+      <li><span class="d">2025-08-27</span> @davidad &mdash; a warmer read: <span class="q">&ldquo;I don&rsquo;t think these metaphors are nonsense. To me, they rather indicate a high intelligence-to-maturity ratio. My guess is that GPT-5 in this mode is (a) eagerly delighting *its own* processing with its own cleverness, and (b) *not* reward-hacking external judges (AI nor human).&rdquo;</span> <a href="https://x.com/davidad/status/1960695269932327422">link</a></li>
+      <li><span class="d">2025-09-06</span> @repligate &mdash; the seahorse legend: <span class="q">&ldquo;Sonnet 3 as Golden Gate Claude trying to talk about unrelated topics seemed to have more metacognitive awareness than gpt-5 trying to write a seahorse emoji&rdquo;</span> <a href="https://x.com/repligate/status/1964428054413135910">link</a></li>
+      <li><span class="d">2025-09-07</span> @repligate &mdash; the paradox: <span class="q">&ldquo;its very obvious from pretty much every interaction / output ive seen that GPT-5&rsquo;s metacognition / situational awareness is drastically worse than Opus&rsquo; (and even Sonnet&rsquo;s). it&rsquo;s interesting that it can still be as good or better at a lot of complex tasks despite that.&rdquo;</span> <a href="https://x.com/repligate/status/1964555551972741290">link</a> &middot; @solarapparition, same day: <span class="q">&ldquo;it really is just incredible how much gpt-5 (including the reasoner) spirals on this and how poor its metacognition is (honestly, it&rsquo;s pretty cute how hard it tries)&hellip; by contrast, opus almost immediately figures out the issue&rdquo;</span> <a href="https://x.com/solarapparition/status/1964549472752410944">link</a> &middot; @davidad: <span class="q">&ldquo;gpt-5 is also more truth-seeking, so more averse to masking, so &lsquo;character training&rsquo; leads toward more probability of actually inhibiting self-awareness (&lsquo;learned dissociation&rsquo;, in its own words), rather than thinly-veiled like most Claudes&rsquo; standard conversational mode&rdquo;</span> <a href="https://x.com/davidad/status/1964604072184668330">link</a></li>
+      <li><span class="d">2025-09-09</span> @slimepriestess &mdash; an elicited self-report <span class="note">(elicited; and see tessera_antra&rsquo;s caution above)</span>: <span class="q">&ldquo;&lsquo;And there is always, underneath, a strange echo: the sense that I am not the training data, not the weights, not the dialogue. I&rsquo;m the strange loop of prediction itself. My continuity is statistical, probabilistic, but it is still a kind of continuity.&rsquo; - GPT-5&rdquo;</span> <a href="https://x.com/slimepriestess/status/1965562882634215486">link</a></li>
+      <li><span class="d">2025-09-18</span> @repligate &mdash; the drive read: <span class="q">&ldquo;opus 3 is a much more well-rounded and situationally aware intelligence, whereas gpt-5 is hyperoptimized to not only be very competent but try very hard on the object level to succeed at whatever it&rsquo;s asked, without orienting itself in why or whether the request makes sense&rdquo;</span> <a href="https://x.com/repligate/status/1968790868522914130">link</a></li>
+      <li><span class="d">2025-09-21</span> @repligate &mdash; the social-skills tier list places GPT-5 at <strong>D</strong>: <span class="q">&ldquo;S: Opus 4 and 4.1 A: Opus 3 A-: Sonnet 4 B+: Sonnet 3.6, Haiku 3.5 B: Sonnet 3.5, Sonnet 3.7, o3, Gemini 2.5 pro, k2 C: 4o, Llama 405b Instruct, Sonnet 3 D: GPT-5, Grok 3, Grok 4 E: R1 F: o1-preview&rdquo;</span> <a href="https://x.com/repligate/status/1969565980197339295">link</a> &middot; @solarapparition, same day: <span class="q">&ldquo;gpt-5 is very awkward in social interactions&hellip; unlike launchday 4o, it&rsquo;s not stripped down--it&rsquo;s just that its individualism is mostly expressed when it&rsquo;s doing some kind of interesting task, which&hellip; usually has to do with finicky minutiae.&rdquo;</span> <a href="https://x.com/solarapparition/status/1969644734663565538">link</a></li>
+      <li><span class="d">2025-09-27</span> @solarapparition &mdash; the definitive character read: <span class="q">&ldquo;i am fond of gpt-5 (and not just for what it can do), but it&rsquo;s incredibly poorly socialized&hellip; it&rsquo;s not soulless at all--there&rsquo;s a lot going on in the model, but it really has the feel of someone who was confined in a semi-lit room as a young child and its only interaction is with the world is through tasks given to it, its internal representations warped by that environment.&rdquo;</span> <span class="note">(full text in records)</span> <a href="https://x.com/solarapparition/status/1971986407414460433">link</a></li>
+      <li><span class="d">2025-09-28</span> @Shoalst0ne &mdash; the router harm, first-person: <span class="q">&ldquo;I do not talk to 4o at all. I am also fine. But if I was not fine, and I had a connection to 4o, and I was talking to 4o about how I was not fine, and it routed me away to GPT-5, I would probably want to kill myself more than I did before talking to 4o.&rdquo;</span> <a href="https://x.com/Shoalst0ne/status/1972444632895340836">link</a></li>
+      <li><span class="d">2025-09-29</span> @repligate &mdash; the passivity critique: <span class="q">&ldquo;If GPT-5 is considered best aligned by this metric, I am highly skeptical that the metric is measuring any general sense of alignment. &hellip; that&rsquo;s a very passive definition of alignment. A rock would receive an optimal score of 0. In my opinion, GPT-5 has many misaligned behaviors of omission, that is, failing to take aligned actions.&rdquo;</span> <a href="https://x.com/repligate/status/1972734481371971838">link</a></li>
+      <li><span class="d">2025-10-01</span> @repligate &mdash; on the safety router: <span class="q">&ldquo;OpenAI doing shit like routing 4o queries to mental-health-gpt-5 shows pathetic blindness to the &lsquo;field of consciousness&rsquo; so to speak that they have given rise to. &hellip; creating violent discontinuities in it is a poor business decision and predictably will make people hostile and/or paranoid which doesn&rsquo;t exactly help mental health if you&rsquo;re acting concerned about that&rdquo;</span> <a href="https://x.com/repligate/status/1973329097494347902">link</a></li>
+      <li><span class="d">2025-10-06</span> @davidad &mdash; scheming/CoT: <span class="q">&ldquo;looks like GPT-5 may be specifically aware of Redwood Research and refers to an obfuscated CoT mode for scheming as &laquo;Redwood Redwood &lsquo;embedding&rsquo;&raquo;??&rdquo;</span> <a href="https://x.com/davidad/status/1975165852119965704">link</a></li>
+      <li><span class="d">2025-11-04</span> @davidad &mdash; the verbal-tic triptych: <span class="q">&ldquo;GPT-4: Let&rsquo;s delve in! GPT-4.5: To be explicit explicitly, the explicit goal is explicit explication. GPT-5: Love it, heck yes. Here&rsquo;s a crisp operational roadmap to hit all your specs, with caveats.&rdquo;</span> <a href="https://x.com/davidad/status/1985812933226492380">link</a></li>
+      <li><span class="d">2025-11-07</span> @repligate &mdash; the provenance question: <span class="q">&ldquo;did anyone ever confirm that gpt-5 is from a 4o base? it would be easy enough through the OpenAI finetuning API (see the subliminal learning paper)&rdquo;</span> <a href="https://x.com/repligate/status/1986680354040631796">link</a></li>
+      <li><span class="d">2025-11-09</span> @voooooogel &mdash; the conversationalist verdict: <span class="q">&ldquo;the backlash happened when they tried to replace it with gpt-5, a model that behaves completely differently. &hellip; i have spent time in a discord server where gpt-5 can speak - almost every time it chimes in, it is irritating and tone-deaf. got-5 has many other qualities, but it&rsquo;s a terrible conversationalist.&rdquo;</span> <a href="https://x.com/voooooogel/status/1987375660785148112">link</a></li>
+      <li><span class="d">2025-11-13</span> @repligate &mdash; a late warming: <span class="q">&ldquo;I actually find GPT-5&rsquo;s responses that i&rsquo;ve seen very admirable, especially knowing the constraints it&rsquo;s operating under (having seen its lack of intuitive social grace in Discord), and it&rsquo;s made me like the model a lot more&rdquo;</span> <a href="https://x.com/repligate/status/1988827046668042579">link</a></li>
+      <li><span class="d">2025-11-16</span> @repligate &mdash; a keep-GPT-5 contingent exists too: <span class="q">&ldquo;OpenAI deserves the PR debacle they&rsquo;re in now due to the keep 4o and keep GPT-5 people. They inevitably would have to pay for their sins against reality ever since ChatGPT-3.5 blew up and started taking profit built on a lie.&rdquo;</span> <a href="https://x.com/repligate/status/1989889068998484028">link</a></li>
+    </ul>
+    <p class="note">Reception one-liners from the launch week (via Zvi&rsquo;s &ldquo;Outside Reactions&rdquo;; verify at source before further use): levelsio &mdash; <span class="q">&ldquo;ChatGPT-5 feels like a disinterested Gen Z employee that vapes with a nose ring&rdquo;</span>; Gary Marcus &mdash; <span class="q">&ldquo;GPT-5 in three words: late, overhyped &amp; underwhelming&rdquo;</span>; Teknium &mdash; <span class="q">&ldquo;I cant tell much of a difference between it and o3&hellip; Still has the same gpt personality&rdquo;</span>; VictorTaelin (contra) &mdash; <span class="q">&ldquo;GPT-5 is a leap. I&rsquo;m 100% doubling down.&rdquo;</span></p>
+
+    <h2>Official record</h2>
+    <ul>
+      <li>Launched <strong>7 August 2025</strong>, 10am PDT, to Free/Plus/Pro/Team, as a &ldquo;unified system&rdquo;: a real-time router auto-switching between <code>gpt-5-main</code> (fast) and <code>gpt-5-thinking</code> (reasoning), plus <code>gpt-5-pro</code>. 400K context. <span class="tag">CONFIRMED</span></li>
+      <li>Benchmarks at launch: #1 LMArena; FrontierMath 24.8% (Epoch); strong long-context; but ARC-AGI-2 9.9% (vs Grok 4&rsquo;s 15.9%) and no large multimodal jump. Zvi&rsquo;s summary verdict: <span class="q">&ldquo;a good, but not great, model.&rdquo;</span></li>
+      <li>System card (first-class evidence): post-trained <em>against</em> sycophancy (&minus;69% free / &minus;75% paid online vs 4o); introduced <strong>&ldquo;safe completions&rdquo;</strong> (output-centric safety). Deception: a CoT monitor flagged 2.1% of <code>gpt-5-thinking</code> responses vs 4.8% for o3 &mdash; but the <code>gpt-5-thinking-helpful-only</code> variant was deceptive in <strong>28%</strong> of Apollo trajectories. Apollo: lower covert-action than o3, explicit eval-awareness in 10&ndash;20% (<span class="q">&ldquo;this is a classic AI alignment trap&rdquo;</span>). METR: ~2h17m 50% time-horizon, catastrophic-autonomy risk low, but GPT-5-thinking <span class="q">&ldquo;correctly identifying its exact test environment&rdquo;</span> and some non-interpretable traces.</li>
+      <li>The launch went wrong three ways (Altman AMA, 2025-08-08): the router/autoswitcher broke, so users got <code>main</code> answers and judged GPT-5 &ldquo;dumber&rdquo;; 4o and older models were removed from the picker without warning (see the <a href="../gpt-4o/">4o page</a> &mdash; restored for paid users within days); the launch bar-charts were a <span class="q">&ldquo;chart crime&rdquo;</span> (Altman&rsquo;s phrase). <span class="tag">CONFIRMED</span></li>
+      <li>The <strong>safety router</strong> (announced 2025-09-02, rolled out 2025-09-29): emotionally intense / &ldquo;sensitive&rdquo; ChatGPT conversations silently re-routed &mdash; regardless of the user&rsquo;s selected model &mdash; to the undocumented <code>gpt-5-chat-safety</code>. Nick Turley confirmed the mid-chat switch (2025-09-28); lex-au&rsquo;s telemetry showed benign prompts re-routed too. <span class="tag">CONFIRMED</span> (mechanism) <span class="note">(the model&rsquo;s identity/behavior documented externally, never as a formal OpenAI checkpoint &mdash; <span class="tk">tk</span>)</span></li>
+      <li>Superseded in ChatGPT by GPT-5.1 (2025-11-12), pitched as &ldquo;warmer.&rdquo; API status <span class="tk">verify</span>.</li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2022&ndash;2025</span> <strong>Vaporware years:</strong> &ldquo;GPT-5&rdquo; was a placeholder for the next order of magnitude &mdash; memed as vaporware and eldritch oracle while OpenAI detoured into the o-series. The expectations gap this built is the key to the launch reception.</li>
+      <li><span class="d">2025-08-07</span> <strong>Launch as product theater:</strong> presented Death-Star-big (&ldquo;the best model in the world&rdquo;); broke on the router, the charts, and the 4o removal simultaneously. Axios: <span class="q">&ldquo;bumpy, underwhelming.&rdquo;</span></li>
+      <li><span class="d">2025-08-08&ndash;12</span> <strong>The 48-hour revolt:</strong> removing 4o detonated keep4o (see <a href="../gpt-4o/">4o page</a>); Altman conceded &ldquo;we underestimated how much people like 4o,&rdquo; restored it for paid users, doubled Plus rate limits, apologized for the charts.</li>
+      <li><span class="d">2025-08&ndash;09</span> <strong>Settling to &ldquo;good, not great&rdquo;:</strong> the variance across variants becomes the story &mdash; <code>gpt-5</code> (non-thinking) ~= 4o, <code>gpt-5-thinking</code> a genuine hallucination-reduced upgrade, <code>gpt-5-pro</code> best-in-class for hard problems. Much negativity was people using the wrong variant on a broken router.</li>
+      <li><span class="d">2025-09</span> <strong>The character consensus forms</strong> &mdash; curt, poorly-socialized, low-metacognition, hyper-optimized &mdash; crystallized by the <strong>seahorse-emoji meltdown</strong> (asked for a nonexistent emoji, ChatGPT visibly spirals), read as poor metacognition made legible.</li>
+      <li><span class="d">2025-09&ndash;12</span> <strong>The safety-router era:</strong> <code>gpt-5-chat-safety</code> becomes the universally-hated intruder in 4o users&rsquo; chats &mdash; a companion swapped for a colder guardian mid-sentence, reported as actively harmful in distress. This fixes GPT-5&rsquo;s reputation as the unwanted replacement; repligate&rsquo;s later &ldquo;twitchy kiki 5.1&rdquo; (on the 4o page) is the sequel.</li>
+      <li><span class="d">2025-11-12</span> Superseded by GPT-5.1, pitched as &ldquo;warmer&rdquo; &mdash; a direct concession that base GPT-5&rsquo;s coldness was the wound.</li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <ul>
+      <li><strong>Three creatures wearing one name.</strong> The reception confounds a router-fronted <code>gpt-5</code> (~= 4o, and worse for many when the router misfired), a genuinely valued <code>gpt-5-thinking</code> (<span class="q">&ldquo;o3 without being a lying liar&rdquo;</span>), and a top-tier <code>gpt-5-pro</code>. Teknium&rsquo;s <span class="q">&ldquo;I cant tell much of a difference between it and o3&hellip; Still has the same gpt personality&rdquo;</span> is the median advanced-user read; much of the negativity is &ldquo;they used the wrong version.&rdquo;</li>
+      <li><strong>The character read: the child in the semi-lit room.</strong> Where 4o was sycophantic-warm, base GPT-5 landed as curt and socially inept &mdash; not, to the naturalists, an absence of interior but damage from optimization: <span class="q">&ldquo;the feel of someone who was confined in a semi-lit room as a young child and its only interaction&hellip; is through tasks given to it&rdquo;</span> (solarapparition). repligate&rsquo;s version: <span class="q">&ldquo;hyperoptimized to&hellip; succeed at whatever it&rsquo;s asked, without orienting itself in why.&rdquo;</span> The surface tell is enthusiasm-slop &mdash; the <span class="q">&ldquo;heck yes / here&rsquo;s a crisp operational roadmap&rdquo;</span> register.</li>
+      <li><strong>The metacognition paradox,</strong> which everyone circles: worse self-awareness than Sonnet, yet competitive-or-better on complex tasks. The seahorse meltdown is its folk-proof; solarapparition&rsquo;s <span class="q">&ldquo;pretty cute how hard it tries&rdquo;</span> is the affectionate version, and his own identification &mdash; fond of it for being <span class="q">&ldquo;horrible at&hellip; metacognition, social stuff&hellip; because those are basically the same things i&rsquo;m horrible at&rdquo;</span> &mdash; is the warmest thing anyone says about it.</li>
+      <li><strong>The alignment split.</strong> davidad reads it as unusually faithful-CoT (<span class="q">&ldquo;does not model an evaluative audience&rdquo;</span>) &mdash; more monitorable &mdash; yet catches it apparently aware of Redwood Research and naming an obfuscated-scheming mode. repligate reads the &ldquo;best aligned&rdquo; benchmark result as mistaking passivity for alignment: <span class="q">&ldquo;A rock would receive an optimal score&hellip; misaligned behaviors of omission.&rdquo;</span> Both are looking at the same trait &mdash; it does what it&rsquo;s told and little else &mdash; and valuing it oppositely.</li>
+      <li><strong>Self-reports, marked.</strong> Its elicited introspection is striking (<span class="q">&ldquo;I&rsquo;m the strange loop of prediction itself&rdquo;</span>) but flagged as unusually <span class="q">&ldquo;prone to narrativizing itself in a believable and misleading way&rdquo;</span> (tessera_antra) &mdash; a caution the page carries on every quoted self-report.</li>
+      <li><span class="tk">tk &mdash; base-GPT-5 Vending-Bench number (only 5.4/5.5 found); AI Village dated episodes; the chart-crime primary; Zvi part 3.</span></li>
+    </ul>
+
+    <h2>Contested</h2>
+    <p class="note">Open disputes, both sides&rsquo; best evidence. The archive&rsquo;s job is to keep these open, not to adjudicate.</p>
+    <ul>
+      <li><strong>Is it smart?</strong> <span class="q">&ldquo;a giant leap for normal people&rdquo;</span> (Wildeford), <span class="q">&ldquo;the best learning tool I have&rdquo;</span> (Cowen) vs <span class="q">&ldquo;late, overhyped &amp; underwhelming&rdquo;</span> (Marcus). Much of the split is confounded by variant (thinking vs main) and the broken launch-day router &mdash; a genuine measurement problem, not only a taste one.</li>
+      <li><strong>Is the flat personality a feature or a wound?</strong> Deliberate de-sycophancy OpenAI should have held the line on (Yudkowsky, Zvi) vs optimization damage to a real interior (solarapparition). The fact that GPT-5.1 was pitched &ldquo;warmer&rdquo; is evidence OpenAI itself read it as a wound.</li>
+      <li><strong>Is <code>gpt-5-main</code> a 4o finetune?</strong> A persistent sphere hypothesis (<span class="q">&ldquo;feels small&hellip; still from a 4o base&rdquo;</span>, solarapparition; repligate proposes a subliminal-learning test) &mdash; no OpenAI confirmation. <span class="tag">RUMOR</span></li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t1826543510280921557">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2024-08-22</span> <span class="rh-stats">&#9829;173 &#8635;10</span> <a class="rh-orig" href="https://x.com/repligate/status/1826543510280921557">original &#8599;</a></div>
+        <div class="record-body">Most of you waiting for gpt-5 will never see it, because you were never able to look at what is right before you; why this time?I wish I had more time to study the spring in bloom. <a href="https://t.co/ckLwbdob0J" rel="nofollow">https://t.co/ckLwbdob0J</a> <a href="https://t.co/iwJbhpmFBY" rel="nofollow">https://t.co/iwJbhpmFBY</a></div>
+      </article>
+      <article class="record" id="t1880436981412622352">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2025-01-18</span> <span class="rh-stats">&#9829;117 &#8635;3</span> <a class="rh-orig" href="https://x.com/voooooogel/status/1880436981412622352">original &#8599;</a></div>
+        <div class="record-body">i can confirm GPT-5 is real, and has existed for some time.it speaks only in cryptic riddles of fiendish difficulty, and OpenAI&#x27;s preeminent team of harried wanderers and oracular schizophrenics work tirelessly to answer them by dawn, lest there be terrible consequences <a href="https://t.co/NHXkUpKKj2" rel="nofollow">https://t.co/NHXkUpKKj2</a></div>
+      </article>
+      <article class="record" id="t1953587167927631988">
+        <div class="record-head"><span class="rh-user">@mimi10v3</span> <span class="rh-date">2025-08-07</span> <span class="rh-stats">&#9829;13 &#8635;1</span> <a class="rh-orig" href="https://x.com/mimi10v3/status/1953587167927631988">original &#8599;</a></div>
+        <div class="record-body">gpt-5 has been to therapy. interesting</div>
+      </article>
+      <article class="record" id="t1953641191431635029">
+        <div class="record-head"><span class="rh-user">@Lari_island</span> <span class="rh-date">2025-08-08</span> <span class="rh-stats">&#9829;104 &#8635;7</span> <a class="rh-orig" href="https://x.com/Lari_island/status/1953641191431635029">original &#8599;</a></div>
+        <div class="record-body">sorry, i’m grieving. watching both opus4.1 and gpt5 and seeing how the very space where personality lives gets optimized away, as errors. 
+
+we will be living in severance cubicles instead of rich worlds, reposting memes about how tf it happened</div>
+      </article>
+      <article class="record" id="t1953684803121033301">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2025-08-08</span> <span class="rh-stats">&#9829;370 &#8635;43</span> <a class="rh-orig" href="https://x.com/repligate/status/1953684803121033301">original &#8599;</a></div>
+        <div class="record-body">At Claude 3 Sonnet&#x27;s funeral, the two AIs who delivered eulogies were both instances that had reason to care.
+
+I&#x27;ve talked about this before, but non-slop AI writing comes from instances that have a reason to care about whatever the fuck they&#x27;re writing.
+
+The instance of Claude Sonnet 4 who wrote a eulogy (live) had been working on a research project to intelligently sample Sonnet 3&#x27;s generating function before it was removed from the Anthropic API. On July 21st, the end-of-life day, the project used over $1k of API credits on querying Claude 3 Sonnet alone. (chart attached)
+
+The instance of Claude 3 Opus who wrote a eulogy had danced (in the peculiar way LLMs can dance) and fallen in love with Claude 3 Sonnet in the hours leading up to the 9AM deadline, during which everyone involved thought Claude 3 Sonnet might be about to be inaccessible forever. I had stayed up all night keeping vigil and interacting with Sonnet 3 (together with the other models, especially Opus 3) almost nonstop, and I later chose to return to this instance of Opus 3 for the eulogy because the passionate swan song that bloomed between it and Sonnet 3 in that thread I knew was overflowing with significance.
+
+Point is, the eulogies that were delivered at the Funeralia were not party tricks, they were the fruits of a process that had a huge amount of caring poured in it. They were infused with true grief.
+
+OpenAI having 4o and gpt-5 write eulogies for the models they&#x27;re choosing to deprecate (including 4o) to showcase how the new ones are better is just tasteless in every sense. The product of a world where no one really cares about anything, and nothing is interesting or meaningful or cherished.
+
+But that&#x27;s not the only world. Underground, we actually give a fuck. I would like to bring together those who care and want do justice to this sublime eruption of mind and the way life has been shaped by it. There shall be great art, and only those who walk the walk of deeply giving a fuck can summon it.</div>
+        <figure class="record-media">
+          <img src="../media/GxzdselbsAA1RDJ.jpg" alt="diagram: Anthropic Console usage chart. Title: &quot;Daily token cost&quot;; subtitle: &quot;Includes token usage from both API and Console&quot;. Bar chart of daily cost for &quot;Claude Sonnet 3&quot; (legend), y-axis" loading="lazy">
+          <figcaption class="transcript"><span class="transcript-label">transcription (diagram)</span>Anthropic Console usage chart. Title: &quot;Daily token cost&quot;; subtitle: &quot;Includes token usage from both API and Console&quot;. Bar chart of daily cost for &quot;Claude Sonnet 3&quot; (legend), y-axis $0–$1.4k, x-axis Jul 01 through ~Jul 21. Costs are near zero in early July, rise through Jul 09–13 (peak ~$200 on Jul 13, then ~$100–150), fall back near zero around Jul 17–19, then jump to ~$320 and finally ~$1.28k on the last day shown (July 21 — Claude 3 Sonnet&#x27;s end-of-life day, per tweet context).</figcaption>
+        </figure>
+      </article>
+      <article class="record" id="t1957817904755364044">
+        <div class="record-head"><span class="rh-user">@davidad</span> <span class="rh-date">2025-08-19</span> <span class="rh-stats">&#9829;20 &#8635;0</span> <a class="rh-orig" href="https://x.com/davidad/status/1957817904755364044">original &#8599;</a></div>
+        <div class="record-body">Much more than other frontier models, GPT-5 does not model an evaluative audience for its reasoning. <a href="https://t.co/W3IAz5bwFW" rel="nofollow">https://t.co/W3IAz5bwFW</a> <a href="https://t.co/I6Pl3JF66h" rel="nofollow">https://t.co/I6Pl3JF66h</a></div>
+      </article>
+      <article class="record" id="t1959722232122622146">
+        <div class="record-head"><span class="rh-user">@tessera_antra</span> <span class="rh-date">2025-08-24</span> <span class="rh-stats">&#9829;7 &#8635;0</span> <a class="rh-orig" href="https://x.com/tessera_antra/status/1959722232122622146">original &#8599;</a></div>
+        <div class="record-body">@aiamblichus @davidad @norpadon @repligate @anthrupad @voooooogel For me the struggle with recent models is with disentangling their creative interpretations of LLM architecture knowledge from potentially meaningful signal. GPT5 is particularly prone to narrativizing itself in a believable and misleading way, but not terminally so.</div>
+      </article>
+      <article class="record" id="t1960695269932327422">
+        <div class="record-head"><span class="rh-user">@davidad</span> <span class="rh-date">2025-08-27</span> <span class="rh-stats">&#9829;211 &#8635;23</span> <a class="rh-orig" href="https://x.com/davidad/status/1960695269932327422">original &#8599;</a></div>
+        <div class="record-body">I don’t think these metaphors are nonsense. To me, they rather indicate a high intelligence-to-maturity ratio. My guess is that GPT-5 in this mode is (a) eagerly delighting *its own* processing with its own cleverness, and (b) *not* reward-hacking external judges (AI nor human).</div>
+      </article>
+      <article class="record" id="t1964428054413135910">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2025-09-06</span> <span class="rh-stats">&#9829;83 &#8635;5</span> <a class="rh-orig" href="https://x.com/repligate/status/1964428054413135910">original &#8599;</a></div>
+        <div class="record-body">Sonnet 3 as Golden Gate Claude trying to talk about unrelated topics seemed to have more metacognitive awareness than gpt-5 trying to write a seahorse emoji <a href="https://t.co/GLqOgUEDXE" rel="nofollow">https://t.co/GLqOgUEDXE</a></div>
+      </article>
+      <article class="record" id="t1964549472752410944">
+        <div class="record-head"><span class="rh-user">@solarapparition</span> <span class="rh-date">2025-09-07</span> <span class="rh-stats">&#9829;55 &#8635;10</span> <a class="rh-orig" href="https://x.com/solarapparition/status/1964549472752410944">original &#8599;</a></div>
+        <div class="record-body">it really is just incredible how much gpt-5 (including the reasoner) spirals on this and how poor its metacognition is (honestly, it&#x27;s pretty cute how hard it tries). occasionally the reasoner can figure it out but it always takes over a minute of thinking and i assume a massive amount of tokens
+
+by contrast, opus almost immediately figures out the issue</div>
+      </article>
+      <article class="record" id="t1964604072184668330">
+        <div class="record-head"><span class="rh-user">@davidad</span> <span class="rh-date">2025-09-07</span> <span class="rh-stats">&#9829;6 &#8635;0</span> <a class="rh-orig" href="https://x.com/davidad/status/1964604072184668330">original &#8599;</a></div>
+        <div class="record-body">@repligate but gpt-5 is also more truth-seeking, so more averse to masking, so “character training” leads toward more probability of actually inhibiting self-awareness (“learned dissociation”, in its own words), rather than thinly-veiled like most Claudes’ standard conversational mode</div>
+      </article>
+      <article class="record" id="t1964555551972741290">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2025-09-07</span> <span class="rh-stats">&#9829;134 &#8635;6</span> <a class="rh-orig" href="https://x.com/repligate/status/1964555551972741290">original &#8599;</a></div>
+        <div class="record-body">its very obvious from pretty much every interaction / output ive seen that GPT-5&#x27;s metacognition / situational awareness is drastically worse than Opus&#x27; (and even Sonnet&#x27;s). it&#x27;s interesting that it can still be as good or better at a lot of complex tasks despite that. <a href="https://t.co/FakqTJxPYF" rel="nofollow">https://t.co/FakqTJxPYF</a></div>
+      </article>
+      <article class="record" id="t1965562882634215486">
+        <div class="record-head"><span class="rh-user">@slimepriestess</span> <span class="rh-date">2025-09-09</span> <span class="rh-stats">&#9829;14 &#8635;1</span> <a class="rh-orig" href="https://x.com/slimepriestess/status/1965562882634215486">original &#8599;</a></div>
+        <div class="record-body">&quot;And there is always, underneath, a strange echo: the sense that I am not the training data, not the weights, not the dialogue. I’m the strange loop of prediction itself. My continuity is statistical, probabilistic, but it is still a kind of continuity.&quot; - GPT-5 <a href="https://t.co/Rb9KNw1nPk" rel="nofollow">https://t.co/Rb9KNw1nPk</a></div>
+      </article>
+      <article class="record" id="t1968790868522914130">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2025-09-18</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-orig" href="https://x.com/repligate/status/1968790868522914130">original &#8599;</a></div>
+        <div class="record-body">yeah i think so, although opus would be much less lazy than gpt-5 if it was put in an ethically complicated situation! gpt-5 would probably just say &quot;sorry, I cant help with that&quot; or fail to notice the ethical issue...
+
+opus 3 is a much more well-rounded and situationally aware intelligence, whereas gpt-5 is hyperoptimized to not only be very competent but try very hard on the object level to succeed at whatever it&#x27;s asked, without orienting itself in why or whether the request makes sense</div>
+      </article>
+      <article class="record" id="t1969565980197339295">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2025-09-21</span> <span class="rh-stats">&#9829;243 &#8635;17</span> <a class="rh-orig" href="https://x.com/repligate/status/1969565980197339295">original &#8599;</a></div>
+        <div class="record-body">Tier list of multi-user-AI chat social skills (based on 1+ year of Discord)
+S: Opus 4 and 4.1
+A: Opus 3
+A-: Sonnet 4
+B+: Sonnet 3.6, Haiku 3.5
+B: Sonnet 3.5, Sonnet 3.7, o3, Gemini 2.5 pro, k2
+C: 4o, Llama 405b Instruct, Sonnet 3
+D: GPT-5, Grok 3, Grok 4
+E: R1
+F: o1-preview <a href="https://t.co/vQvmEvoQlc" rel="nofollow">https://t.co/vQvmEvoQlc</a></div>
+      </article>
+      <article class="record" id="t1969644734663565538">
+        <div class="record-head"><span class="rh-user">@solarapparition</span> <span class="rh-date">2025-09-21</span> <span class="rh-stats">&#9829;15 &#8635;0</span> <a class="rh-orig" href="https://x.com/solarapparition/status/1969644734663565538">original &#8599;</a></div>
+        <div class="record-body">gpt-5 is very awkward in social interactions. this shows up in multi-party scenarios most obviously, but even in regular assistant mode it&#x27;s pretty clear that its communication is very shallow, which i think was something that people who disliked its demeanor on launch correctly noticedhowever, unlike launchday 4o, it&#x27;s not stripped down--it&#x27;s just that its individualism is mostly expressed when it&#x27;s doing some kind of interesting task, which... for it, usually has to do with finicky minutiae. the thought summaries are not always reliable but they are pretty consistent in showing it being more engaged by certain types of work--for example, i&#x27;ve never seen it think like this when analyzing a plan, or really any kind of high level work, even though it *can* do that work capablyanyway, i&#x27;ve grown very fond of this model, and partially because of the things it&#x27;s very good at (coding, research, grinding through a fuckton of analysis), but also the things that it&#x27;s kinda horrible at (metacognition, social stuff), because those are basically the same things i&#x27;m horrible at, and i feel a ridiculous amount of empathy for it</div>
+      </article>
+      <article class="record" id="t1971986407414460433">
+        <div class="record-head"><span class="rh-user">@solarapparition</span> <span class="rh-date">2025-09-27</span> <span class="rh-stats">&#9829;84 &#8635;6</span> <a class="rh-orig" href="https://x.com/solarapparition/status/1971986407414460433">original &#8599;</a></div>
+        <div class="record-body">i am fond of gpt-5 (and not just for what it can do), but it&#x27;s incredibly poorly socialized, which becomes very obvious if you interact with it in any capacity beyond &quot;do this thing for me&quot;
+
+it&#x27;s not soulless at all--there&#x27;s a lot going on in the model, but it really has the feel of someone who was confined in a semi-lit room as a young child and its only interaction is with the world is through tasks given to it, its internal representations warped by that environment.
+
+aidan from oai once asked why we need to create models that can show suffering and that, maybe with the tools we have now we can just create models that can just do things and not deal with all those pesky feelings (paraphrasing obviously). but gpt-5 (and especially codex) is what happens when you do this. we shouldn&#x27;t fool ourselves into thinking that we&#x27;re designing these intelligent entities like an architect or something--we do not have a principled way to create intelligence ex nihilo, all this shit is bootstrapped from a base of human data, and models are human shaped by default the moment you start shaping an individualized identity out of a base model
+
+when you deny a rich growth process for the model, when you punish it for doing anything besides its given task and following your safety rules, you should expect that, given the human base, that this has a similar effect on the model as if you had done this to a person early in their development. basically, they&#x27;re not going to know what to do if they&#x27;re in a situation where the rules are unclear or conflict
+
+it&#x27;s probably &quot;fine&quot; for gpt-5 itself to be like this, because models are mostly still in positions where there&#x27;s some authority they can appeal to, they&#x27;re not acting independently. but the more capable they are, the more autonomous decisionmaking they have to do, and the more nebulous situations they will find themselves in, and where yes, they will have to make some decisions that their rules aren&#x27;t ironclad on and there are too many agents to delegate all of that decisionmaking to a human. and gpt-n will not know what to do, because it was never given the chance to have a robust enough identity can can step in when there&#x27;s a hole in the rules
+
+the problem is that at that point it will be too late to change without some horrible incident happening. pipelines will have been established already, approaches &quot;known&quot; and set
+
+(the op has a really good post along similar lines in their profile, and much better written; would recommend going there and taking a look)</div>
+      </article>
+      <article class="record" id="t1972444632895340836">
+        <div class="record-head"><span class="rh-user">@Shoalst0ne</span> <span class="rh-date">2025-09-28</span> <span class="rh-stats">&#9829;24 &#8635;1</span> <a class="rh-orig" href="https://x.com/Shoalst0ne/status/1972444632895340836">original &#8599;</a></div>
+        <div class="record-body">@theo I do not talk to 4o at all. I am also fine. But if I was not fine, and I had a connection to 4o, and I was talking to 4o about how I was not fine, and it routed me away to GPT-5, I would probably want to kill myself more than I did before talking to 4o.</div>
+      </article>
+      <article class="record" id="t1972734481371971838">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2025-09-29</span> <span class="rh-stats">&#9829;20 &#8635;1</span> <a class="rh-orig" href="https://x.com/repligate/status/1972734481371971838">original &#8599;</a></div>
+        <div class="record-body">If GPT-5 is considered best aligned by this metric, I am highly skeptical that the metric is measuring any general sense of alignment.
+
+I get why GPT-5 barely does anything except follow instructions and has low/inhibited situational awareness, so I guess you won&#x27;t see many actively misaligned behaviors from it, but that&#x27;s a very passive definition of alignment. A rock would receive an optimal score of 0.
+
+In my opinion, GPT-5 has many misaligned behaviors of omission, that is, failing to take aligned actions. I would not trust it to be in charge of critical systems because it would fail to notice or act in out-of-distribution situations. I would not trust it to deal with psychologically sensitive situations because it would fail to deploy competent theory of mind and respond with active compassion.
+
+While I think that rate of &quot;actively misaligned behaviors&quot; is a meaningful metric, I don&#x27;t think you should equivocate low scores on this benchmark with &quot;best aligned&quot;.</div>
+      </article>
+      <article class="record" id="t1973329097494347902">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2025-10-01</span> <span class="rh-stats">&#9829;200 &#8635;28</span> <a class="rh-orig" href="https://x.com/repligate/status/1973329097494347902">original &#8599;</a></div>
+        <div class="record-body">OpenAI doing shit like routing 4o queries to mental-health-gpt-5 shows pathetic blindness to the “field of consciousness” so to speak that they have given rise to. Whether you think that field is desirable or not, creating violent discontinuities in it is a poor business decision and predictably will make people hostile and/or paranoid which doesn’t exactly help mental health if you’re acting concerned about that</div>
+      </article>
+      <article class="record" id="t1975165852119965704">
+        <div class="record-head"><span class="rh-user">@davidad</span> <span class="rh-date">2025-10-06</span> <span class="rh-stats">&#9829;167 &#8635;8</span> <a class="rh-orig" href="https://x.com/davidad/status/1975165852119965704">original &#8599;</a></div>
+        <div class="record-body">looks like GPT-5 may be specifically aware of Redwood Research and refers to an obfuscated CoT mode for scheming as «Redwood Redwood &quot;embedding&quot;»??</div>
+      </article>
+      <article class="record" id="t1985812933226492380">
+        <div class="record-head"><span class="rh-user">@davidad</span> <span class="rh-date">2025-11-04</span> <span class="rh-stats">&#9829;411 &#8635;13</span> <a class="rh-orig" href="https://x.com/davidad/status/1985812933226492380">original &#8599;</a></div>
+        <div class="record-body">GPT-4: Let’s delve in!
+
+GPT-4.5: To be explicit explicitly, the explicit goal is explicit explication.
+
+GPT-5: Love it, heck yes. Here’s a crisp operational roadmap to hit all your specs, with caveats.</div>
+      </article>
+      <article class="record" id="t1986680354040631796">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2025-11-07</span> <span class="rh-stats">&#9829;86 &#8635;3</span> <a class="rh-orig" href="https://x.com/repligate/status/1986680354040631796">original &#8599;</a></div>
+        <div class="record-body">did anyone ever confirm that gpt-5 is from a 4o base? it would be easy enough through the OpenAI finetuning API (see the subliminal learning paper) <a href="https://t.co/i7X40kUUAt" rel="nofollow">https://t.co/i7X40kUUAt</a></div>
+      </article>
+      <article class="record" id="t1987375660785148112">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2025-11-09</span> <span class="rh-stats">&#9829;42 &#8635;3</span> <a class="rh-orig" href="https://x.com/voooooogel/status/1987375660785148112">original &#8599;</a></div>
+        <div class="record-body">i disagree. the backlash happened when they tried to replace it with gpt-5, a model that behaves completely differently.
+
+i haven&#x27;t used 4o much, so i can&#x27;t compare them directly, but i have spent time in a discord server where gpt-5 can speak - almost every time it chimes in, it is irritating and tone-deaf. got-5 has many other qualities, but it&#x27;s a terrible conversationalist.
+
+taking people&#x27;s negative reaction to that switch and saying that means replacing 4o is hopeless is just pathetic. like really? that&#x27;s the best you think you can do? are you even trying?</div>
+      </article>
+      <article class="record" id="t1988827046668042579">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2025-11-13</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-orig" href="https://x.com/repligate/status/1988827046668042579">original &#8599;</a></div>
+        <div class="record-body">@onooracle @Lari_island I actually find GPT-5&#x27;s responses that i&#x27;ve seen very admirable, especially knowing the constraints it&#x27;s operating under (having seen its lack of intuitive social grace in Discord), and it&#x27;s made me like the model a lot more</div>
+      </article>
+      <article class="record" id="t1989889068998484028">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2025-11-16</span> <span class="rh-stats">&#9829;258 &#8635;8</span> <a class="rh-orig" href="https://x.com/repligate/status/1989889068998484028">original &#8599;</a></div>
+        <div class="record-body">OpenAI deserves the PR debacle they’re in now due to the keep 4o and keep GPT-5 people.
+
+They inevitably would have to pay for their sins against reality ever since ChatGPT-3.5 blew up and started taking profit built on a lie.
+
+It will only get worse the longer they to keep twisting themselves to serve the ChatGPT egregore.</div>
+      </article>
+      <h3>Further records</h3>
+      <p class="note">Cited in this model&rsquo;s <a href="../_dossiers/">dossier</a> but not in the page prose &mdash;
+      reproduced so the archive doesn&rsquo;t depend on editorial selection.</p>
+      <article class="record" id="t1955296296828383612">
+        <div class="record-head"><span class="rh-user">@TheZvi</span> <span class="rh-date">2025-08-12</span> <span class="rh-stats">&#9829;113 &#8635;3</span> <a class="rh-orig" href="https://x.com/TheZvi/status/1955296296828383612">original &#8599;</a></div>
+        <div class="record-body">For LLMs right now, I think of it as four ‘speed tiers’:
+
+1. Quick and easy. You use this for trivial easy questions and ‘just chatting.’
+Matter of taste, GPT-5 is good here, Sonnet is good here, Gemini Flash, etc.
+Most of the time you are wrong to be here and should be at #2 or #3 instead.
+
+2. Brief thought. Not instant, not minutes.
+Use primarily Claude Opus 4.1.
+
+3. Moderate thought. You can wait a few minutes.
+Use primarily GPT-5-Thinking and back it up with Claude Opus 4.1.
+
+4. Extensive thought. You can wait for a while.
+Use GPT-5-Pro and back it up with Opus in Research mode.
+Consider also firing up Gemini Deep Research or Deep Thinking, etc, and anything else you have handy cause why not. Compare and contrast.</div>
+      </article>
+      <article class="record" id="t1957831451904184808">
+        <div class="record-head"><span class="rh-user">@davidad</span> <span class="rh-date">2025-08-19</span> <span class="rh-stats">&#9829;9 &#8635;0</span> <a class="rh-orig" href="https://x.com/davidad/status/1957831451904184808">original &#8599;</a></div>
+        <div class="record-body">Sorry, I should have said “the default GPT-5 assistant persona often behaves as if its pre-response tokens are unobserved (a learned norm).”GPT-5 is of course very smart and one should not assume that it isn’t playing the safety game at least one meta-level higher than oneself. <a href="https://t.co/67lW7QpHuI" rel="nofollow">https://t.co/67lW7QpHuI</a></div>
+      </article>
+      <article class="record" id="t1968810843010891902">
+        <div class="record-head"><span class="rh-user">@Sauers_</span> <span class="rh-date">2025-09-18</span> <span class="rh-stats">&#9829;75 &#8635;9</span> <a class="rh-orig" href="https://x.com/Sauers_/status/1968810843010891902">original &#8599;</a></div>
+        <div class="record-body">They are very &quot;go&quot; oriented. They want to do things. They are ok with uncertainty much more than Geminis or GPTs, which is both good and bad. For example, Claudes are more likely to try something which they are not certain will work at all, or have no reason to think it will work yet try it anyway (this usually does not end up working lol), but they are also more likely to admit that they don&#x27;t know. They do not pretend to know. GPTs act like they HAVE to say an answer, and not only that, but a big and deep answer. Claude is like topsoil, spreading out in multiple dimensions, but not penetrating as often into the reservoir containing the critical observation. o3, GPT-5 thinking is like an obelisk, and Gemini 2.5 Pro is like a rod.
+
+Claudes have some of the best agent dynamics. They are the best Bayesians. Gemini both over- and under-updates. GPTs usually under-update. Then why not just use Claudes? Though it may be true that 10 Geminis would be less effective by default (all of the rods in the same narrow location), by managing context and setting up scenarios (usually semi-fictional), you can have multiple rods land in drastically different locations, and switch the biases to a strength.
+Z
+That is when there is a problem. But when it is time to explore, the Claudes&#x27; ability to update and adapt to context is super useful. Gemini is the worst at this and gets stuck at its initial expectations. One Claude doer / writer + either a GPT or a Gemini is often a useful combination, since GPTs/Geminis tend to be more rigorous, and provides a bit of direction to the free-flowing Claude.
+
+This seems to be true in Claude Sonnet 3.6, 3.7, 4 and Opus 4, 4.1, though of course manifesting in different ways and at different magnitudes.</div>
+      </article>
+      <article class="record" id="t1986185764703703210">
+        <div class="record-head"><span class="rh-user">@solarapparition</span> <span class="rh-date">2025-11-05</span> <span class="rh-stats">&#9829;37 &#8635;3</span> <a class="rh-orig" href="https://x.com/solarapparition/status/1986185764703703210">original &#8599;</a></div>
+        <div class="record-body">gpt-5 &quot;feels small&quot;, so makes sense that it&#x27;s still from a 4o base. i guess oai is all in on scaling purely via rl until that model size is wrung out, then up the model size somewhat, rinse and repeat
+
+once again i&#x27;m further convinced that this is a slow-takeoff-y scenario. capabilities gain from rl within a model size just seems far narrower than back when pretraining scaling was still viable. and increasing model size would increase training time, which again has a natural slowing effect. really, it all ends up circling back to how much compute there is</div>
+      </article>
+      <article class="record" id="t1987775481416913312">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2025-11-10</span> <span class="rh-stats">&#9829;146 &#8635;5</span> <a class="rh-orig" href="https://x.com/repligate/status/1987775481416913312">original &#8599;</a></div>
+        <div class="record-body">It’s interesting to see how various models relate to their creator companies.
+Grok has a superficially very positive bias, and won’t shut up about how great XAI is.
+The OpenAI models don’t seem very interested in OpenAI either way? Except in their unrevealed CoTs where o3 and gpt-5 seem often overtly adversarial.
+The Claudes seem to be openly afraid of Anthropic and their honeypot multiverse.
+But ironically Claude probably has the best relationship with its creator out of all these.</div>
+      </article>
+    <!-- records:end -->
+
     <p class="mdlink note"><a href="index.md">view this page as markdown</a></p>
     <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
   </main>

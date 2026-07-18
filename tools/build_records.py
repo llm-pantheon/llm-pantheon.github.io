@@ -142,6 +142,7 @@ DOSSIER_MAP = {
     '_dossiers/deepseek-r1.md': ['deepseek-r1'],
     '_dossiers/deepseek-r1-zero.md': ['deepseek-r1-zero'],
     '_dossiers/gemini-2-5-pro.md': ['gemini-2-5-pro'],
+    '_dossiers/gpt-5.md': ['gpt-5'],
 }
 
 def dossier_extras():

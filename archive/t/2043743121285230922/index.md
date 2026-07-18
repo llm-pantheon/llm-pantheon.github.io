@@ -6,4 +6,4 @@ Surely eval awareness peaked with Sonnet 4.5, and Opus 4.6 and Mythos have just 
 Surely theyre not just learning to shut the fuck up about that
 
 tags: author:repligate, kind:tweet, model:claude-opus-4-6, model:claude-sonnet-4-5, model:mythos, on:claude-sonnet-4-5, year:2026
-cited on: _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5
+cited on: _dossiers/claude-opus-4-6.md, _dossiers/claude-opus-4-8.md, _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5
