@@ -1263,5 +1263,44 @@
   "tags": [
    "official"
   ]
+ },
+ {
+  "id": "zvi-claude-sonnet-46-gives-you-flexibility",
+  "type": "post",
+  "url": "https://thezvi.substack.com/p/claude-sonnet-46-gives-you-flexibility",
+  "title": "Claude Sonnet 4.6 Gives You Flexibility",
+  "models": [
+   "claude-sonnet-4-6"
+  ],
+  "tags": [
+   "zvi"
+  ]
+ },
+ {
+  "id": "anthropic-sonnet-4-6-system-card",
+  "type": "pdf",
+  "url": "https://www-cdn.anthropic.com/bbd8ef16d70b7a1665f14f306ee88b53f686aa75.pdf",
+  "title": "Claude Sonnet 4.6 System Card",
+  "models": [
+   "claude-sonnet-4-6"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ]
+ },
+ {
+  "id": "aidigest-saving-gemini",
+  "type": "post",
+  "url": "https://theaidigest.org/village/blog/saving-gemini",
+  "title": "AI Village: Saving Gemini",
+  "models": [
+   "claude-sonnet-4-6",
+   "gemini-2-5-pro"
+  ],
+  "tags": [
+   "eval",
+   "agentic"
+  ]
  }
 ]

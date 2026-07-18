@@ -1466,5 +1466,53 @@
   "bytes": 834704,
   "sha256": "9a1734bc3aa31069",
   "fetched": "2026-07-18"
+ },
+ "zvi-claude-sonnet-46-gives-you-flexibility": {
+  "file": "posts/zvi-claude-sonnet-46-gives-you-flexibility.md",
+  "type": "post",
+  "title": "Claude Sonnet 4.6 Gives You Flexibility",
+  "source": "https://thezvi.substack.com/p/claude-sonnet-46-gives-you-flexibility",
+  "models": [
+   "claude-sonnet-4-6"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 21325,
+  "sha256": "ad7b64d0fc411e3c",
+  "fetched": "2026-07-18"
+ },
+ "anthropic-sonnet-4-6-system-card": {
+  "file": "papers/anthropic-sonnet-4-6-system-card.pdf",
+  "type": "pdf",
+  "title": "Claude Sonnet 4.6 System Card",
+  "source": "https://www-cdn.anthropic.com/bbd8ef16d70b7a1665f14f306ee88b53f686aa75.pdf",
+  "models": [
+   "claude-sonnet-4-6"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ],
+  "bytes": 8503340,
+  "sha256": "672339ab327e8798",
+  "fetched": "2026-07-18"
+ },
+ "aidigest-saving-gemini": {
+  "file": "posts/aidigest-saving-gemini.md",
+  "type": "post",
+  "title": "AI Village: Saving Gemini",
+  "source": "https://theaidigest.org/village/blog/saving-gemini",
+  "models": [
+   "claude-sonnet-4-6",
+   "gemini-2-5-pro"
+  ],
+  "tags": [
+   "eval",
+   "agentic"
+  ],
+  "bytes": 19972,
+  "sha256": "634d8acb27da9c9a",
+  "fetched": "2026-07-18"
  }
 }
