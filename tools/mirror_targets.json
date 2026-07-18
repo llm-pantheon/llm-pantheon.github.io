@@ -1376,5 +1376,70 @@
   "tags": [
    "eval"
   ]
+ },
+ {
+  "id": "openai-o3-o4-mini-system-card",
+  "type": "pdf",
+  "url": "https://cdn.openai.com/pdf/2221c875-02dc-4789-800b-e7758f3722c1/o3-and-o4-mini-system-card.pdf",
+  "title": "OpenAI o3 and o4-mini System Card",
+  "models": [
+   "o3",
+   "o4-mini"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ]
+ },
+ {
+  "id": "transluce-investigating-o3-truthfulness",
+  "type": "post",
+  "url": "https://transluce.org/investigating-o3-truthfulness",
+  "title": "Transluce: Investigating truthfulness in o3",
+  "models": [
+   "o3"
+  ],
+  "tags": [
+   "eval",
+   "deception"
+  ]
+ },
+ {
+  "id": "arcprize-o3-pub-breakthrough",
+  "type": "post",
+  "url": "https://arcprize.org/blog/oai-o3-pub-breakthrough",
+  "title": "ARC Prize: OpenAI o3 breakthrough",
+  "models": [
+   "o3"
+  ],
+  "tags": [
+   "eval",
+   "official"
+  ]
+ },
+ {
+  "id": "epoch-openai-and-frontiermath",
+  "type": "post",
+  "url": "https://epoch.ai/latest/openai-and-frontiermath",
+  "title": "Epoch AI: OpenAI and FrontierMath",
+  "models": [
+   "o3"
+  ],
+  "tags": [
+   "eval",
+   "contested"
+  ]
+ },
+ {
+  "id": "metr-o3-report",
+  "type": "post",
+  "url": "https://metr.github.io/autonomy-evals-guide/openai-o3-report/",
+  "title": "METR: o3 autonomy evaluation report",
+  "models": [
+   "o3"
+  ],
+  "tags": [
+   "eval"
+  ]
  }
 ]

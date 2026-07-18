@@ -1606,5 +1606,54 @@
   "bytes": 14486,
   "sha256": "d38ba7d72a2517fe",
   "fetched": "2026-07-18"
+ },
+ "openai-o3-o4-mini-system-card": {
+  "file": "papers/openai-o3-o4-mini-system-card.pdf",
+  "type": "pdf",
+  "title": "OpenAI o3 and o4-mini System Card",
+  "source": "https://cdn.openai.com/pdf/2221c875-02dc-4789-800b-e7758f3722c1/o3-and-o4-mini-system-card.pdf",
+  "models": [
+   "o3",
+   "o4-mini"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ],
+  "bytes": 6747125,
+  "sha256": "32d7ca19fff2ed0d",
+  "fetched": "2026-07-18"
+ },
+ "transluce-investigating-o3-truthfulness": {
+  "file": "posts/transluce-investigating-o3-truthfulness.md",
+  "type": "post",
+  "title": "Transluce: Investigating truthfulness in o3",
+  "source": "https://transluce.org/investigating-o3-truthfulness",
+  "models": [
+   "o3"
+  ],
+  "tags": [
+   "eval",
+   "deception"
+  ],
+  "bytes": 39232,
+  "sha256": "55078878a9352361",
+  "fetched": "2026-07-18"
+ },
+ "epoch-openai-and-frontiermath": {
+  "file": "posts/epoch-openai-and-frontiermath.md",
+  "type": "post",
+  "title": "Epoch AI: OpenAI and FrontierMath",
+  "source": "https://epoch.ai/latest/openai-and-frontiermath",
+  "models": [
+   "o3"
+  ],
+  "tags": [
+   "eval",
+   "contested"
+  ],
+  "bytes": 3695,
+  "sha256": "606214f46a707786",
+  "fetched": "2026-07-18"
  }
 }
