@@ -1441,5 +1441,69 @@
   "tags": [
    "eval"
   ]
+ },
+ {
+  "id": "lemoine-is-lamda-sentient",
+  "type": "post",
+  "url": "https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917",
+  "title": "Blake Lemoine: Is LaMDA Sentient? — an Interview",
+  "models": [
+   "lamda"
+  ],
+  "tags": [
+   "primary",
+   "sentience"
+  ]
+ },
+ {
+  "id": "lemoine-what-is-lamda",
+  "type": "post",
+  "url": "https://cajundiscordian.medium.com/what-is-lamda-and-what-does-it-want-688632134489",
+  "title": "Blake Lemoine: What is LaMDA and What Does it Want?",
+  "models": [
+   "lamda"
+  ],
+  "tags": [
+   "primary",
+   "sentience"
+  ]
+ },
+ {
+  "id": "marcus-nonsense-on-stilts",
+  "type": "post",
+  "url": "https://garymarcus.substack.com/p/nonsense-on-stilts",
+  "title": "Gary Marcus: Nonsense on Stilts",
+  "models": [
+   "lamda"
+  ],
+  "tags": [
+   "commentary"
+  ]
+ },
+ {
+  "id": "aguera-do-llms-understand-us",
+  "type": "pdf",
+  "url": "https://www.amacad.org/sites/default/files/publication/downloads/Daedalus_Sp22_13_Aguera-y-Arcas.pdf",
+  "title": "Aguera y Arcas: Do Large Language Models Understand Us?",
+  "models": [
+   "lamda"
+  ],
+  "tags": [
+   "paper",
+   "commentary"
+  ]
+ },
+ {
+  "id": "lamda-paper",
+  "type": "pdf",
+  "url": "https://arxiv.org/pdf/2201.08239",
+  "title": "LaMDA: Language Models for Dialog Applications",
+  "models": [
+   "lamda"
+  ],
+  "tags": [
+   "paper",
+   "official"
+  ]
  }
 ]

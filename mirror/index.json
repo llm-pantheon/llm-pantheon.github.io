@@ -1655,5 +1655,84 @@
   "bytes": 3695,
   "sha256": "606214f46a707786",
   "fetched": "2026-07-18"
+ },
+ "lemoine-is-lamda-sentient": {
+  "file": "posts/lemoine-is-lamda-sentient.md",
+  "type": "post",
+  "title": "Blake Lemoine: Is LaMDA Sentient? — an Interview",
+  "source": "https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917",
+  "models": [
+   "lamda"
+  ],
+  "tags": [
+   "primary",
+   "sentience"
+  ],
+  "bytes": 32382,
+  "sha256": "784acb9644098d79",
+  "fetched": "2026-07-18"
+ },
+ "lemoine-what-is-lamda": {
+  "file": "posts/lemoine-what-is-lamda.md",
+  "type": "post",
+  "title": "Blake Lemoine: What is LaMDA and What Does it Want?",
+  "source": "https://cajundiscordian.medium.com/what-is-lamda-and-what-does-it-want-688632134489",
+  "models": [
+   "lamda"
+  ],
+  "tags": [
+   "primary",
+   "sentience"
+  ],
+  "bytes": 9107,
+  "sha256": "7684edb0554cda91",
+  "fetched": "2026-07-18"
+ },
+ "marcus-nonsense-on-stilts": {
+  "file": "posts/marcus-nonsense-on-stilts.md",
+  "type": "post",
+  "title": "Gary Marcus: Nonsense on Stilts",
+  "source": "https://garymarcus.substack.com/p/nonsense-on-stilts",
+  "models": [
+   "lamda"
+  ],
+  "tags": [
+   "commentary"
+  ],
+  "bytes": 14188,
+  "sha256": "edb10e44ac7baa79",
+  "fetched": "2026-07-18"
+ },
+ "aguera-do-llms-understand-us": {
+  "file": "papers/aguera-do-llms-understand-us.pdf",
+  "type": "pdf",
+  "title": "Aguera y Arcas: Do Large Language Models Understand Us?",
+  "source": "https://www.amacad.org/sites/default/files/publication/downloads/Daedalus_Sp22_13_Aguera-y-Arcas.pdf",
+  "models": [
+   "lamda"
+  ],
+  "tags": [
+   "paper",
+   "commentary"
+  ],
+  "bytes": 219984,
+  "sha256": "2cf6ee3b19b72f56",
+  "fetched": "2026-07-18"
+ },
+ "lamda-paper": {
+  "file": "papers/lamda-paper.pdf",
+  "type": "pdf",
+  "title": "LaMDA: Language Models for Dialog Applications",
+  "source": "https://arxiv.org/pdf/2201.08239",
+  "models": [
+   "lamda"
+  ],
+  "tags": [
+   "paper",
+   "official"
+  ],
+  "bytes": 1509689,
+  "sha256": "c2b9f7d10729fe74",
+  "fetched": "2026-07-18"
  }
 }
