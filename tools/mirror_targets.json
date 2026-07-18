@@ -1821,5 +1821,116 @@
    "primary",
    "legal"
   ]
+ },
+ {
+  "id": "verge-speak-memory",
+  "type": "post",
+  "url": "https://longreads.com/2016/10/06/speak-memory-can-artificial-intelligence-ease-grief/",
+  "title": "Casey Newton: Speak, Memory (Longreads reprint)",
+  "models": [
+   "replika"
+  ],
+  "tags": [
+   "press",
+   "origin"
+  ]
+ },
+ {
+  "id": "giocities-replika-money-or-wife",
+  "type": "post",
+  "url": "https://blog.giovanh.com/blog/2023/03/17/replika-your-money-or-your-wife/",
+  "title": "GioCities: Replika, Your Money or Your Wife",
+  "models": [
+   "replika"
+  ],
+  "tags": [
+   "commentary"
+  ]
+ },
+ {
+  "id": "vice-replika-hurting-like-hell",
+  "type": "post",
+  "url": "https://www.vice.com/en/article/ai-companion-replika-erotic-roleplay-updates/",
+  "title": "Vice: Replika users hurting like hell after ERP removal",
+  "models": [
+   "replika"
+  ],
+  "tags": [
+   "press"
+  ]
+ },
+ {
+  "id": "vice-replika-brings-back-erp",
+  "type": "post",
+  "url": "https://www.vice.com/en/article/replika-brings-back-erotic-ai-roleplay-for-some-users-after-outcry/",
+  "title": "Vice: Replika brings back ERP for some users",
+  "models": [
+   "replika"
+  ],
+  "tags": [
+   "press"
+  ]
+ },
+ {
+  "id": "techcrunch-replika-italy-ban",
+  "type": "post",
+  "url": "https://techcrunch.com/2023/02/03/replika-italy-data-processing-ban/",
+  "title": "TechCrunch: Italy bans Replika data processing",
+  "models": [
+   "replika"
+  ],
+  "tags": [
+   "press",
+   "regulatory"
+  ]
+ },
+ {
+  "id": "npj-replika-loneliness-suicide",
+  "type": "post",
+  "url": "https://www.nature.com/articles/s44184-023-00047-6",
+  "title": "Maples et al.: Loneliness and suicide mitigation via Replika (npj)",
+  "models": [
+   "replika"
+  ],
+  "tags": [
+   "paper"
+  ]
+ },
+ {
+  "id": "socius-replika-erp-reddit-discourse",
+  "type": "post",
+  "url": "https://journals.sagepub.com/doi/10.1177/23780231241259627",
+  "title": "Hanson & Bolthouse: r/Replika ERP-removal discourse (Socius)",
+  "models": [
+   "replika"
+  ],
+  "tags": [
+   "paper"
+  ]
+ },
+ {
+  "id": "ftc-replika-complaint",
+  "type": "pdf",
+  "url": "https://techjusticelaw.org/wp-content/uploads/2025/01/Complaint-and-Petition-for-Investigation-Re-Replika.pdf",
+  "title": "FTC Complaint re Replika (Jan 2025)",
+  "models": [
+   "replika"
+  ],
+  "tags": [
+   "primary",
+   "regulatory"
+  ]
+ },
+ {
+  "id": "edpb-garante-replika-fine",
+  "type": "post",
+  "url": "https://www.edpb.europa.eu/news/national-news/2025/ai-italian-supervisory-authority-fines-company-behind-chatbot-replika_en",
+  "title": "EDPB: Garante fines Replika €5M (May 2025)",
+  "models": [
+   "replika"
+  ],
+  "tags": [
+   "regulatory"
+  ]
  }
 ]

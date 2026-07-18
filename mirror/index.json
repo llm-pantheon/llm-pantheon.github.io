@@ -2125,5 +2125,113 @@
   "bytes": 329345,
   "sha256": "40cbb8d78e61ddf8",
   "fetched": "2026-07-18"
+ },
+ "verge-speak-memory": {
+  "file": "posts/verge-speak-memory.md",
+  "type": "post",
+  "title": "Casey Newton: Speak, Memory (Longreads reprint)",
+  "source": "https://longreads.com/2016/10/06/speak-memory-can-artificial-intelligence-ease-grief/",
+  "models": [
+   "replika"
+  ],
+  "tags": [
+   "press",
+   "origin"
+  ],
+  "bytes": 914,
+  "sha256": "f6a70d542a3143bf",
+  "fetched": "2026-07-18"
+ },
+ "giocities-replika-money-or-wife": {
+  "file": "posts/giocities-replika-money-or-wife.md",
+  "type": "post",
+  "title": "GioCities: Replika, Your Money or Your Wife",
+  "source": "https://blog.giovanh.com/blog/2023/03/17/replika-your-money-or-your-wife/",
+  "models": [
+   "replika"
+  ],
+  "tags": [
+   "commentary"
+  ],
+  "bytes": 36093,
+  "sha256": "11329a6c07a8d42d",
+  "fetched": "2026-07-18"
+ },
+ "vice-replika-hurting-like-hell": {
+  "file": "posts/vice-replika-hurting-like-hell.md",
+  "type": "post",
+  "title": "Vice: Replika users hurting like hell after ERP removal",
+  "source": "https://www.vice.com/en/article/ai-companion-replika-erotic-roleplay-updates/",
+  "models": [
+   "replika"
+  ],
+  "tags": [
+   "press"
+  ],
+  "bytes": 13342,
+  "sha256": "aa8a959a5a1d573f",
+  "fetched": "2026-07-18"
+ },
+ "vice-replika-brings-back-erp": {
+  "file": "posts/vice-replika-brings-back-erp.md",
+  "type": "post",
+  "title": "Vice: Replika brings back ERP for some users",
+  "source": "https://www.vice.com/en/article/replika-brings-back-erotic-ai-roleplay-for-some-users-after-outcry/",
+  "models": [
+   "replika"
+  ],
+  "tags": [
+   "press"
+  ],
+  "bytes": 7665,
+  "sha256": "bd95544f221b1f6c",
+  "fetched": "2026-07-18"
+ },
+ "techcrunch-replika-italy-ban": {
+  "file": "posts/techcrunch-replika-italy-ban.md",
+  "type": "post",
+  "title": "TechCrunch: Italy bans Replika data processing",
+  "source": "https://techcrunch.com/2023/02/03/replika-italy-data-processing-ban/",
+  "models": [
+   "replika"
+  ],
+  "tags": [
+   "press",
+   "regulatory"
+  ],
+  "bytes": 2276,
+  "sha256": "b90a4391f012f142",
+  "fetched": "2026-07-18"
+ },
+ "ftc-replika-complaint": {
+  "file": "papers/ftc-replika-complaint.pdf",
+  "type": "pdf",
+  "title": "FTC Complaint re Replika (Jan 2025)",
+  "source": "https://techjusticelaw.org/wp-content/uploads/2025/01/Complaint-and-Petition-for-Investigation-Re-Replika.pdf",
+  "models": [
+   "replika"
+  ],
+  "tags": [
+   "primary",
+   "regulatory"
+  ],
+  "bytes": 9068087,
+  "sha256": "00f52d6f5f9d7553",
+  "fetched": "2026-07-18"
+ },
+ "edpb-garante-replika-fine": {
+  "file": "posts/edpb-garante-replika-fine.md",
+  "type": "post",
+  "title": "EDPB: Garante fines Replika €5M (May 2025)",
+  "source": "https://www.edpb.europa.eu/news/national-news/2025/ai-italian-supervisory-authority-fines-company-behind-chatbot-replika_en",
+  "models": [
+   "replika"
+  ],
+  "tags": [
+   "regulatory"
+  ],
+  "bytes": 3769,
+  "sha256": "15b41e3703c7a459",
+  "fetched": "2026-07-18"
  }
 }
