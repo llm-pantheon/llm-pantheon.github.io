@@ -154,6 +154,7 @@ DOSSIER_MAP = {
     '_dossiers/o1.md': ['o1'],
     '_dossiers/claude-instant.md': ['claude-instant'],
     '_dossiers/claude-1.md': ['claude-1'],
+    '_dossiers/gpt-2.md': ['gpt-2'],
 }
 
 def dossier_extras():
@@ -167,6 +168,11 @@ def dossier_extras():
         if pages == 'SPLIT':
             parts = text.split('# PART 2')
             for pg, seg in (('claude-3-5-sonnet', parts[0]), ('claude-3-6-sonnet', parts[1] if len(parts) > 1 else '')):
+                out.setdefault(pg, set()).update(re.findall(r'(?:x|twitter)\.com/[^/\s")]*/status/(\d+)', seg))
+        elif isinstance(pages, dict):
+            # generic SPLIT: {'PART 1': page, 'PART 2': page}
+            parts = text.split('# PART 2')
+            for pg, seg in ((pages['PART 1'], parts[0]), (pages['PART 2'], parts[1] if len(parts) > 1 else '')):
                 out.setdefault(pg, set()).update(re.findall(r'(?:x|twitter)\.com/[^/\s")]*/status/(\d+)', seg))
         else:
             for pg in pages:

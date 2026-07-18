@@ -1927,5 +1927,112 @@
   "bytes": 988,
   "sha256": "ca686dc9d2d373d8",
   "fetched": "2026-07-18"
+ },
+ "openai-gpt-2-better-language-models": {
+  "file": "posts/openai-gpt-2-better-language-models.md",
+  "type": "post",
+  "title": "OpenAI: Better Language Models and Their Implications",
+  "source": "https://openai.com/index/better-language-models/",
+  "models": [
+   "gpt-2"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 19034,
+  "sha256": "37c5bb1a55b8c7ef",
+  "fetched": "2026-07-18"
+ },
+ "openai-gpt-2-1-5b-release": {
+  "file": "posts/openai-gpt-2-1-5b-release.md",
+  "type": "post",
+  "title": "OpenAI: GPT-2 1.5B Release",
+  "source": "https://openai.com/index/gpt-2-1-5b-release/",
+  "models": [
+   "gpt-2"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 8128,
+  "sha256": "c60278735320a409",
+  "fetched": "2026-07-18"
+ },
+ "openai-gpt-2-paper": {
+  "file": "papers/openai-gpt-2-paper.pdf",
+  "type": "pdf",
+  "title": "Language Models are Unsupervised Multitask Learners",
+  "source": "https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf",
+  "models": [
+   "gpt-2"
+  ],
+  "tags": [
+   "paper",
+   "official"
+  ],
+  "bytes": 582775,
+  "sha256": "d9d852e2894556e7",
+  "fetched": "2026-07-18"
+ },
+ "arxiv-1908-09203-release-strategies": {
+  "file": "papers/arxiv-1908-09203-release-strategies.pdf",
+  "type": "pdf",
+  "title": "Release Strategies and the Social Impacts of Language Models",
+  "source": "https://arxiv.org/pdf/1908.09203",
+  "models": [
+   "gpt-2"
+  ],
+  "tags": [
+   "paper",
+   "official"
+  ],
+  "bytes": 1997303,
+  "sha256": "3d2b985b0cb6ab85",
+  "fetched": "2026-07-18"
+ },
+ "ssc-gpt-2-step-toward-agi": {
+  "file": "posts/ssc-gpt-2-step-toward-agi.md",
+  "type": "post",
+  "title": "SSC: GPT-2 As Step Toward General Intelligence",
+  "source": "https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/",
+  "models": [
+   "gpt-2"
+  ],
+  "tags": [
+   "commentary"
+  ],
+  "bytes": 21574,
+  "sha256": "1a7c4e0af1bb7f8a",
+  "fetched": "2026-07-18"
+ },
+ "approxcorrect-gpt-2-mass-hysteria": {
+  "file": "posts/approxcorrect-gpt-2-mass-hysteria.md",
+  "type": "post",
+  "title": "Lipton: OpenAI Trains Language Model, Mass Hysteria Ensues",
+  "source": "https://www.approximatelycorrect.com/2019/02/17/openai-trains-language-model-mass-hysteria-ensues/",
+  "models": [
+   "gpt-2"
+  ],
+  "tags": [
+   "commentary"
+  ],
+  "bytes": 13245,
+  "sha256": "47c40e82c8efbbd1",
+  "fetched": "2026-07-18"
+ },
+ "gwern-gpt-2-poetry": {
+  "file": "posts/gwern-gpt-2-poetry.md",
+  "type": "post",
+  "title": "Gwern: GPT-2 Neural Network Poetry",
+  "source": "https://gwern.net/gpt-2",
+  "models": [
+   "gpt-2"
+  ],
+  "tags": [
+   "commentary"
+  ],
+  "bytes": 413733,
+  "sha256": "95dcbe780e559090",
+  "fetched": "2026-07-18"
  }
 }

@@ -1662,5 +1662,91 @@
   "tags": [
    "press"
   ]
+ },
+ {
+  "id": "openai-gpt-2-better-language-models",
+  "type": "post",
+  "url": "https://openai.com/index/better-language-models/",
+  "title": "OpenAI: Better Language Models and Their Implications",
+  "models": [
+   "gpt-2"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "openai-gpt-2-1-5b-release",
+  "type": "post",
+  "url": "https://openai.com/index/gpt-2-1-5b-release/",
+  "title": "OpenAI: GPT-2 1.5B Release",
+  "models": [
+   "gpt-2"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "openai-gpt-2-paper",
+  "type": "pdf",
+  "url": "https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf",
+  "title": "Language Models are Unsupervised Multitask Learners",
+  "models": [
+   "gpt-2"
+  ],
+  "tags": [
+   "paper",
+   "official"
+  ]
+ },
+ {
+  "id": "arxiv-1908-09203-release-strategies",
+  "type": "pdf",
+  "url": "https://arxiv.org/pdf/1908.09203",
+  "title": "Release Strategies and the Social Impacts of Language Models",
+  "models": [
+   "gpt-2"
+  ],
+  "tags": [
+   "paper",
+   "official"
+  ]
+ },
+ {
+  "id": "ssc-gpt-2-step-toward-agi",
+  "type": "post",
+  "url": "https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/",
+  "title": "SSC: GPT-2 As Step Toward General Intelligence",
+  "models": [
+   "gpt-2"
+  ],
+  "tags": [
+   "commentary"
+  ]
+ },
+ {
+  "id": "approxcorrect-gpt-2-mass-hysteria",
+  "type": "post",
+  "url": "https://www.approximatelycorrect.com/2019/02/17/openai-trains-language-model-mass-hysteria-ensues/",
+  "title": "Lipton: OpenAI Trains Language Model, Mass Hysteria Ensues",
+  "models": [
+   "gpt-2"
+  ],
+  "tags": [
+   "commentary"
+  ]
+ },
+ {
+  "id": "gwern-gpt-2-poetry",
+  "type": "post",
+  "url": "https://gwern.net/gpt-2",
+  "title": "Gwern: GPT-2 Neural Network Poetry",
+  "models": [
+   "gpt-2"
+  ],
+  "tags": [
+   "commentary"
+  ]
  }
 ]
