@@ -1816,5 +1816,116 @@
   "bytes": 33375,
   "sha256": "07fff26d4f2a0c90",
   "fetched": "2026-07-18"
+ },
+ "anthropic-introducing-claude": {
+  "file": "posts/anthropic-introducing-claude.md",
+  "type": "post",
+  "title": "Introducing Claude",
+  "source": "https://www.anthropic.com/news/introducing-claude",
+  "models": [
+   "claude-1",
+   "claude-instant"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 7631,
+  "sha256": "81b0f7ea00bb7e01",
+  "fetched": "2026-07-18"
+ },
+ "arxiv-2212.08073-constitutional-ai": {
+  "file": "papers/arxiv-2212.08073-constitutional-ai.pdf",
+  "type": "pdf",
+  "title": "Constitutional AI: Harmlessness from AI Feedback",
+  "source": "https://arxiv.org/pdf/2212.08073",
+  "models": [
+   "claude-1"
+  ],
+  "tags": [
+   "paper",
+   "official"
+  ],
+  "bytes": 2088111,
+  "sha256": "9a456a07ad346e33",
+  "fetched": "2026-07-18"
+ },
+ "anthropic-claudes-constitution": {
+  "file": "posts/anthropic-claudes-constitution.md",
+  "type": "post",
+  "title": "Claude's Constitution",
+  "source": "https://www.anthropic.com/news/claudes-constitution",
+  "models": [
+   "claude-1",
+   "claude-2"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 22095,
+  "sha256": "fd8c407b4b9e1af2",
+  "fetched": "2026-07-18"
+ },
+ "anthropic-100k-context-windows": {
+  "file": "posts/anthropic-100k-context-windows.md",
+  "type": "post",
+  "title": "Anthropic: 100K Context Windows",
+  "source": "https://www.anthropic.com/news/100k-context-windows",
+  "models": [
+   "claude-1",
+   "claude-instant"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 3163,
+  "sha256": "910d3ae72b3cde39",
+  "fetched": "2026-07-18"
+ },
+ "anthropic-claude-2": {
+  "file": "posts/anthropic-claude-2.md",
+  "type": "post",
+  "title": "Anthropic: Claude 2",
+  "source": "https://www.anthropic.com/news/claude-2",
+  "models": [
+   "claude-2",
+   "claude-1"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 6639,
+  "sha256": "dd7b13bb41599e95",
+  "fetched": "2026-07-18"
+ },
+ "scale-chatgpt-vs-claude": {
+  "file": "posts/scale-chatgpt-vs-claude.md",
+  "type": "post",
+  "title": "Scale: ChatGPT vs Claude (Goodside/Papay)",
+  "source": "https://scale.com/blog/chatgpt-vs-claude",
+  "models": [
+   "claude-1",
+   "gpt-3-5"
+  ],
+  "tags": [
+   "commentary"
+  ],
+  "bytes": 23803,
+  "sha256": "3b14c29b99949df1",
+  "fetched": "2026-07-18"
+ },
+ "techcrunch-anthropic-claude-next": {
+  "file": "posts/techcrunch-anthropic-claude-next.md",
+  "type": "post",
+  "title": "TechCrunch: Anthropic Claude-Next plan",
+  "source": "https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/",
+  "models": [
+   "claude-1"
+  ],
+  "tags": [
+   "press"
+  ],
+  "bytes": 988,
+  "sha256": "ca686dc9d2d373d8",
+  "fetched": "2026-07-18"
  }
 }

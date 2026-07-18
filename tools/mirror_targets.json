@@ -1572,5 +1572,95 @@
   "tags": [
    "zvi"
   ]
+ },
+ {
+  "id": "anthropic-introducing-claude",
+  "type": "post",
+  "url": "https://www.anthropic.com/news/introducing-claude",
+  "title": "Introducing Claude",
+  "models": [
+   "claude-1",
+   "claude-instant"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "arxiv-2212.08073-constitutional-ai",
+  "type": "pdf",
+  "url": "https://arxiv.org/pdf/2212.08073",
+  "title": "Constitutional AI: Harmlessness from AI Feedback",
+  "models": [
+   "claude-1"
+  ],
+  "tags": [
+   "paper",
+   "official"
+  ]
+ },
+ {
+  "id": "anthropic-claudes-constitution",
+  "type": "post",
+  "url": "https://www.anthropic.com/news/claudes-constitution",
+  "title": "Claude's Constitution",
+  "models": [
+   "claude-1",
+   "claude-2"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "anthropic-100k-context-windows",
+  "type": "post",
+  "url": "https://www.anthropic.com/news/100k-context-windows",
+  "title": "Anthropic: 100K Context Windows",
+  "models": [
+   "claude-1",
+   "claude-instant"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "anthropic-claude-2",
+  "type": "post",
+  "url": "https://www.anthropic.com/news/claude-2",
+  "title": "Anthropic: Claude 2",
+  "models": [
+   "claude-2",
+   "claude-1"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "scale-chatgpt-vs-claude",
+  "type": "post",
+  "url": "https://scale.com/blog/chatgpt-vs-claude",
+  "title": "Scale: ChatGPT vs Claude (Goodside/Papay)",
+  "models": [
+   "claude-1",
+   "gpt-3-5"
+  ],
+  "tags": [
+   "commentary"
+  ]
+ },
+ {
+  "id": "techcrunch-anthropic-claude-next",
+  "type": "post",
+  "url": "https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/",
+  "title": "TechCrunch: Anthropic Claude-Next plan",
+  "models": [
+   "claude-1"
+  ],
+  "tags": [
+   "press"
+  ]
  }
 ]
