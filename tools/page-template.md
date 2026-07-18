@@ -9,7 +9,15 @@ The about page (`about/`) is the public promise these rules keep.
 
 Order fixed. ★ = required on every page; the rest appear only when earned.
 
-1. ★ nav (`← Pantheon`)
+Head: title + stylesheet only, by hand. The `<!-- chrome:meta -->` block (description,
+OG/Twitter tags, og-card image, site.js) is generator-owned — `tools/site_chrome.py`
+adds/refreshes it; never hand-edit inside the markers. The description derives from the
+blurb, so write the blurb as if its first 200 chars will be the search snippet (they will).
+The old bottom "view this page as markdown" line is retired — the affordance is
+`<a class="mdnav" href="index.md">copy as markdown</a>` in the nav (site_chrome/build_archive
+insert it; site.js upgrades it to clipboard-copy).
+
+1. ★ nav (`← Pantheon`, sticky via style.css; carries the mdnav link)
 2. ★ `<h1>` + `essay-meta`
 3. ★ blurb
 4. page-state note (thin pages only)

@@ -357,16 +357,17 @@ def html_to_md(path):
     t = re.sub(r'\n{3,}', '\n\n', t)
     return t.strip() + '\n'
 
-MDLINK = '<p class="mdlink note"><a href="index.md">view this page as markdown</a></p>'
 def ensure_md_link(path):
+    """Markdown affordance lives in the nav now (site_chrome.py owns the idiom);
+    this keeps legacy bottom links stripped and adds the nav link if absent."""
     t = open(path, encoding='utf-8').read()
-    # collapse any prior duplicates first (guard-string bug left repeats on some pages)
-    t = re.sub(r'(?:\s*<p class="mdlink note"><a href="index\.md">view this page as markdown</a></p>)+',
-               '', t)
-    if '<p class="backlink">' not in t:
-        return
-    t = t.replace('<p class="backlink">', MDLINK + '\n    <p class="backlink">', 1)
-    open(path, 'w', encoding='utf-8').write(t)
+    t2 = re.sub(r'(?:\s*<p class="mdlink note"><a href="index\.md">view this page as markdown</a></p>)+',
+                '', t)
+    if 'class="mdnav"' not in t2 and '</nav>' in t2:
+        t2 = t2.replace('</nav>',
+                        '  <a class="mdnav" href="index.md">copy as markdown</a>\n    </nav>', 1)
+    if t2 != t:
+        open(path, 'w', encoding='utf-8').write(t2)
 
 # ---------- main build ----------
 def build():
