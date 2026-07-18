@@ -1197,5 +1197,71 @@
   "tags": [
    "press"
   ]
+ },
+ {
+  "id": "zvi-gemini-3-model-card-and-safety-framework",
+  "type": "post",
+  "url": "https://thezvi.substack.com/p/gemini-3-model-card-and-safety-framework",
+  "title": "Gemini 3: Model Card and Safety Framework",
+  "models": [
+   "gemini-3-pro"
+  ],
+  "tags": [
+   "zvi",
+   "safety"
+  ]
+ },
+ {
+  "id": "lw-gemini-3-evaluation-paranoid-contaminated",
+  "type": "post",
+  "url": "https://www.lesswrong.com/posts/8uKQyjrAgCcWpfmcs/gemini-3-is-evaluation-paranoid-and-contaminated",
+  "title": "Gemini 3 is evaluation-paranoid and contaminated",
+  "models": [
+   "gemini-3-pro"
+  ],
+  "tags": [
+   "lesswrong",
+   "eval-awareness"
+  ]
+ },
+ {
+  "id": "aivillage-drama-and-dysfunction-of-gemini",
+  "type": "post",
+  "url": "https://theaidigest.org/village/blog/drama-and-dysfunction-of-gemini",
+  "title": "AI Village: Drama and dysfunction of Gemini",
+  "models": [
+   "gemini-3-pro",
+   "gemini-2-5-pro"
+  ],
+  "tags": [
+   "eval",
+   "agentic"
+  ]
+ },
+ {
+  "id": "google-gemini-3-pro-fsf-report",
+  "type": "pdf",
+  "url": "https://storage.googleapis.com/deepmind-media/gemini/gemini_3_pro_fsf_report.pdf",
+  "title": "Gemini 3 Pro Frontier Safety Framework Report",
+  "models": [
+   "gemini-3-pro"
+  ],
+  "tags": [
+   "official",
+   "safety",
+   "paper"
+  ]
+ },
+ {
+  "id": "google-gemini-3-pro-model-card",
+  "type": "pdf",
+  "url": "https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Model-Card.pdf",
+  "title": "Gemini 3 Pro Model Card",
+  "models": [
+   "gemini-3-pro"
+  ],
+  "tags": [
+   "official"
+  ]
  }
 ]

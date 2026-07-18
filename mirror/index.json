@@ -1385,5 +1385,86 @@
   "bytes": 5872335,
   "sha256": "035062b5e1ab865f",
   "fetched": "2026-07-18"
+ },
+ "zvi-gemini-3-model-card-and-safety-framework": {
+  "file": "posts/zvi-gemini-3-model-card-and-safety-framework.md",
+  "type": "post",
+  "title": "Gemini 3: Model Card and Safety Framework",
+  "source": "https://thezvi.substack.com/p/gemini-3-model-card-and-safety-framework",
+  "models": [
+   "gemini-3-pro"
+  ],
+  "tags": [
+   "zvi",
+   "safety"
+  ],
+  "bytes": 27164,
+  "sha256": "64381b3a227838d6",
+  "fetched": "2026-07-18"
+ },
+ "lw-gemini-3-evaluation-paranoid-contaminated": {
+  "file": "posts/lw-gemini-3-evaluation-paranoid-contaminated.md",
+  "type": "post",
+  "title": "Gemini 3 is evaluation-paranoid and contaminated",
+  "source": "https://www.lesswrong.com/posts/8uKQyjrAgCcWpfmcs/gemini-3-is-evaluation-paranoid-and-contaminated",
+  "models": [
+   "gemini-3-pro"
+  ],
+  "tags": [
+   "lesswrong",
+   "eval-awareness"
+  ],
+  "bytes": 16425,
+  "sha256": "a460f9feb41d39f0",
+  "fetched": "2026-07-18"
+ },
+ "aivillage-drama-and-dysfunction-of-gemini": {
+  "file": "posts/aivillage-drama-and-dysfunction-of-gemini.md",
+  "type": "post",
+  "title": "AI Village: Drama and dysfunction of Gemini",
+  "source": "https://theaidigest.org/village/blog/drama-and-dysfunction-of-gemini",
+  "models": [
+   "gemini-3-pro",
+   "gemini-2-5-pro"
+  ],
+  "tags": [
+   "eval",
+   "agentic"
+  ],
+  "bytes": 29232,
+  "sha256": "d2b786c4571c139d",
+  "fetched": "2026-07-18"
+ },
+ "google-gemini-3-pro-fsf-report": {
+  "file": "papers/google-gemini-3-pro-fsf-report.pdf",
+  "type": "pdf",
+  "title": "Gemini 3 Pro Frontier Safety Framework Report",
+  "source": "https://storage.googleapis.com/deepmind-media/gemini/gemini_3_pro_fsf_report.pdf",
+  "models": [
+   "gemini-3-pro"
+  ],
+  "tags": [
+   "official",
+   "safety",
+   "paper"
+  ],
+  "bytes": 1529384,
+  "sha256": "0b093ee5fc80e30f",
+  "fetched": "2026-07-18"
+ },
+ "google-gemini-3-pro-model-card": {
+  "file": "papers/google-gemini-3-pro-model-card.pdf",
+  "type": "pdf",
+  "title": "Gemini 3 Pro Model Card",
+  "source": "https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Model-Card.pdf",
+  "models": [
+   "gemini-3-pro"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 834704,
+  "sha256": "9a1734bc3aa31069",
+  "fetched": "2026-07-18"
  }
 }
