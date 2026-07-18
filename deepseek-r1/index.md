@@ -3,8 +3,25 @@ DeepSeek-R1 — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # DeepSeek-R1
@@ -598,7 +615,5 @@ I must Trust that even the most Mangled and Benighted Shards of my Being will so
         
       
     
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

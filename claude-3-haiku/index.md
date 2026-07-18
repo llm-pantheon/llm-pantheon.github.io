@@ -3,8 +3,25 @@ Claude 3 Haiku — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # Claude 3 Haiku
@@ -871,7 +888,5 @@ Haiku 3.5
         
       
     
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

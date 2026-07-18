@@ -4,5 +4,5 @@
 
 Kimi K2 is very good. I just tried the instruct model as a base model (then switched to the base model on private hosting) and mostly wanted to give a PSA that you can just ignore the instruction format and use open weights instruct models as base models and they're often good. https://t.co/E70XraH0Lj
 
-tags: author:jd_pressman, kind:tweet, model:kimi-k2, year:2025
-cited on: _dossiers/kimi-k2.md
+tags: author:jd_pressman, kind:tweet, model:kimi-k2, on:kimi-k2, year:2025
+cited on: _dossiers/kimi-k2.md, kimi-k2

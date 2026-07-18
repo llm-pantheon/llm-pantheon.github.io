@@ -8,5 +8,5 @@ Anxiety + implicit audience + later on asking country of origin for 'Margaret'
 
 Claude knows.
 
-tags: author:kromem2dot0, kind:tweet, model:claude-sonnet-4-6, year:2026
-cited on: _dossiers/claude-sonnet-4-6.md
+tags: author:kromem2dot0, kind:tweet, model:claude-sonnet-4-6, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

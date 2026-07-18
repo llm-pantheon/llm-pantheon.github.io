@@ -3,8 +3,25 @@ GPT-3.5 / ChatGPT — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # GPT-3.5 / ChatGPT
@@ -54,7 +71,5 @@ to collect
 
       
 to collect
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

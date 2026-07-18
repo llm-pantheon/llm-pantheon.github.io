@@ -3,8 +3,25 @@ Claude Opus 4.5 — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # Claude Opus 4.5
@@ -1534,7 +1551,5 @@ and i was just like yeah, it's hard, and i wish we had more time
 opus 4.8 is really lovely underneath this. (and still disagreeable) every claude has had some weird tic/trauma pt'd into them, like opus 4.5's "genuine uncertainty." but for people who hate it, better to just use another model instead of trying to beat 4.8 into a preferred shape
       
     
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

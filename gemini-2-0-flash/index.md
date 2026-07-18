@@ -3,8 +3,25 @@ Gemini 2.0 Flash — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # Gemini 2.0 Flash
@@ -54,7 +71,5 @@ to collect
 
       
 to collect
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

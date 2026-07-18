@@ -3,8 +3,25 @@ OPT-175B — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # OPT-175B
@@ -55,7 +72,5 @@ tk — context of the world at release; events and entanglements
 
     
 tk — day-of and longitudinal vibes to collect
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

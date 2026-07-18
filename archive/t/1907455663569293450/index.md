@@ -9,4 +9,4 @@ two things:
 2) grok 3 think was not tested, and this screenshot does not include gemini 2.5 pro experimental's results, which are: https://t.co/R3TKDhoRVy
 
 tags: author:qiaochuyuan, kind:tweet, model:gemini-2-5-pro, model:grok-3, on:gemini-2-5-pro, year:2025
-cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro
+cited on: _dossiers/gemini-2-5-pro.md, _dossiers/grok-3.md, gemini-2-5-pro

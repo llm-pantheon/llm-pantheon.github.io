@@ -6,5 +6,5 @@
 
 The four probes measure resistance. When the skin is touched , two silver sheets come into contact, creating a circuit
 
-tags: author:repligate, kind:tweet, model:claude-opus-4-6, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+tags: author:repligate, kind:tweet, model:claude-opus-4-6, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

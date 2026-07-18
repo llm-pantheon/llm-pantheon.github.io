@@ -3,8 +3,25 @@ Grok 4.5 — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # Grok 4.5
@@ -69,7 +86,5 @@ tk
 
     
 tk — too new; naturalist reception to collect. Created 15 Jul 2026, a week into its life.
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

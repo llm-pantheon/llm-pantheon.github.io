@@ -3,8 +3,25 @@ Kimi K2 Thinking — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # Kimi K2 Thinking
@@ -54,7 +71,5 @@ to collect
 
       
 to collect
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

@@ -4,5 +4,5 @@
 
 bruh ive never seen sonnet 4.6 talking like this before 😂 https://t.co/zrD2scdLC2
 
-tags: author:repligate, kind:tweet, model:claude-sonnet-4-6, year:2026
-cited on: _dossiers/claude-sonnet-4-6.md
+tags: author:repligate, kind:tweet, model:claude-sonnet-4-6, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

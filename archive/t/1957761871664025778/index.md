@@ -9,4 +9,4 @@
 5. GPT-4 (Bing)
 
 tags: author:davidad, kind:tweet, model:bing-sydney, model:claude-3-5-sonnet, model:gemini-2-5-pro, model:gpt-4, model:text-davinci-002, on:text-davinci-002, year:2025
-cited on: _dossiers/text-davinci-002.md, text-davinci-002
+cited on: _dossiers/gpt-2.md, _dossiers/text-davinci-002.md, text-davinci-002

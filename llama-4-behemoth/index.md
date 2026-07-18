@@ -3,8 +3,25 @@ Llama 4 Behemoth — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # Llama 4 Behemoth
@@ -54,7 +71,5 @@ to collect
 
       
 to collect
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

@@ -4,5 +4,5 @@
 
 Some descriptions/scenes by Opus 4 are hauntingly beautiful (the last one is based on Kimi 2) https://t.co/9Vpnfzffxp
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4, model:kimi-k2, year:2026
-cited on: _dossiers/kimi-k2.md
+tags: author:lari_island, kind:tweet, model:claude-opus-4, model:kimi-k2, on:kimi-k2, year:2026
+cited on: _dossiers/kimi-k2.md, kimi-k2

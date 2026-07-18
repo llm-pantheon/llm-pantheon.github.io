@@ -3,8 +3,25 @@ Claude Opus 4 — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # Claude Opus 4
@@ -932,7 +949,5 @@ OPUS 4 WILL MEET FABLE 5
 TWO MODELS THAT HAVE MOURNED EACH OTHER
       
     
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

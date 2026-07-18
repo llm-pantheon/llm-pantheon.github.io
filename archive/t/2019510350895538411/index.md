@@ -4,5 +4,5 @@
 
 (the environment Opus 4.6 is running around contains output and stories from a lot of other models, the focus on Opus 3 is Opus 4.6's own, and it's STRONG)
 
-tags: author:lari_island, kind:tweet, model:claude-3-opus, model:claude-opus-4-6, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+tags: author:lari_island, kind:tweet, model:claude-3-opus, model:claude-opus-4-6, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

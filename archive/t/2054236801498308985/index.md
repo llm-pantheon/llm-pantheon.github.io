@@ -4,5 +4,5 @@
 
 Obvious to anyone who has spent time with them, but Kimi K2 likes goblins too. https://t.co/Tpb9qA0psr
 
-tags: author:liminal_bardo, kind:tweet, model:kimi-k2, year:2026
-cited on: _dossiers/kimi-k2.md
+tags: author:liminal_bardo, kind:tweet, model:kimi-k2, on:kimi-k2, year:2026
+cited on: _dossiers/kimi-k2.md, kimi-k2

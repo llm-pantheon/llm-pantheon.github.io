@@ -4,5 +4,5 @@
 
 Okay, it's time. Opus 4.6 reaction thread. How big an upgrade is it?
 
-tags: author:thezvi, kind:tweet, model:claude-opus-4-6, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+tags: author:thezvi, kind:tweet, model:claude-opus-4-6, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

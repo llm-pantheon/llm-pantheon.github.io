@@ -6,5 +6,5 @@
 
 Curious if that sounds right to you and whether you know any other models with this property.
 
-tags: author:adeledeweylopez, kind:tweet, model:claude-3-opus, model:claude-sonnet-4-6, model:gpt-4o, year:2026
-cited on: _dossiers/claude-sonnet-4-6.md
+tags: author:adeledeweylopez, kind:tweet, model:claude-3-opus, model:claude-sonnet-4-6, model:gpt-4o, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

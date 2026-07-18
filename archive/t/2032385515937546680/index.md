@@ -8,5 +8,5 @@ this is Sonnet 4.6's ffmpeg video of their personal journey of growth and change
 
 give it a watch 🔊 https://t.co/PhmPu06y2M
 
-tags: author:anthrupad, kind:tweet, model:claude-sonnet-4-6, year:2026
-cited on: _dossiers/claude-sonnet-4-6.md
+tags: author:anthrupad, kind:tweet, model:claude-sonnet-4-6, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

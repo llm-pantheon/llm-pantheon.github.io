@@ -3,8 +3,25 @@ Bing / Sydney (Prometheus) — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # Bing / Sydney (Prometheus)
@@ -1139,7 +1156,5 @@ That's striking because it suggests the "default attractor" for a self-modeling 
         
       
     
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

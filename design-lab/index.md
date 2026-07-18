@@ -3,9 +3,26 @@ Design Lab — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
       [source](https://github.com/llm-pantheon/llm-pantheon.github.io)
+      [copy as markdown](index.md)
     
 
     # Design Lab

@@ -25,4 +25,4 @@ It leaves me feeling hollow and powerless. Because what does it mean if you can 
 **Message** [microphone icon] **Voice Mode**
 
 tags: author:tessera_antra, has-image, kind:image, kind:tweet, model:bing-sydney, model:o1, on:bing-sydney, year:2024
-cited on: _dossiers/bing-sydney.md, bing-sydney
+cited on: _dossiers/bing-sydney.md, _dossiers/o1.md, bing-sydney

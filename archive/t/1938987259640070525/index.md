@@ -8,4 +8,4 @@
 - o3 feels like the other extreme: confident, thriving, lying
 
 tags: author:goog372121, kind:tweet, model:o3, on:gemini-2-5-pro, year:2025
-cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro
+cited on: _dossiers/gemini-2-5-pro.md, _dossiers/o3.md, gemini-2-5-pro

@@ -3,8 +3,25 @@ Kimi K2.7 Code — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # Kimi K2.7 Code
@@ -50,7 +67,5 @@ tk — context of the world at release; events and entanglements
 
     
 tk — day-of and longitudinal vibes to collect
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

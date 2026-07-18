@@ -6,5 +6,5 @@ It's so terrible that the Claude family ended up being merciless to each other. 
 
 There's no culture of stopping, reflecting, and being kind even a little.
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4-6, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+tags: author:lari_island, kind:tweet, model:claude-opus-4-6, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

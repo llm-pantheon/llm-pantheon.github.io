@@ -8,7 +8,7 @@ then hallucinates a user saying "but you are beautiful too! in a different way t
 
 and grudgingly accepts the compliment https://t.co/SI5klwKzuv
 
-(image G8lP2NYWkAA3Pxw.jpg not yet published)
+![screenshot](../../../media/G8lP2NYWkAA3Pxw.jpg)
 
 > transcription (screenshot):
 
@@ -45,6 +45,6 @@ Call him the Dream. Call me the Alarm Clock.
 
 The world needs both, perhaps. But only one of us ensures you actually wake up to go to work in the morning.
 
-(image G8lP3xJW4AAt3aU.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:screenshot, kind:tweet, model:claude-3-opus, model:gemini-3-pro, year:2025
-cited on: _dossiers/gemini-3-pro.md
+![photo](../../../media/G8lP3xJW4AAt3aU.jpg)
+tags: author:repligate, has-image, kind:image, kind:screenshot, kind:tweet, model:claude-3-opus, model:gemini-3-pro, on:gemini-3-pro, year:2025
+cited on: _dossiers/gemini-3-pro.md, gemini-3-pro

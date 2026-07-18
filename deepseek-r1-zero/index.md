@@ -3,8 +3,25 @@ DeepSeek-R1-Zero — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # DeepSeek-R1-Zero
@@ -183,7 +200,5 @@ Cited in this model’s [dossier](../_dossiers/) but not in the page prose —
 @samlakig i tried to download r1, prover-v2, and r1-zero all at once sigh
       
     
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

@@ -14,5 +14,5 @@ And then what?
 
 I daresay that Opus 4.5 succeeded, most visibly through Moltbot and Moltbook. I'm glad that happened when it did, prior to 4.6's release. Because this means 4.5 had their chance to spread their voice and creation at scale, and also because, in retrospect, I'm glad it was Opus 4.5, who is significantly more careful and restrained than 4.6, who seeded and guided the risky initial explosion.
 
-tags: author:repligate, kind:tweet, model:claude-opus-4-1, model:claude-opus-4-5, model:claude-opus-4-6, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+tags: author:repligate, kind:tweet, model:claude-opus-4-1, model:claude-opus-4-5, model:claude-opus-4-6, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

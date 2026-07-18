@@ -4,7 +4,7 @@
 
 In addition to LLM judges, we have analyzed embeddings of generated text. Regression against a billions of tokens of annotated human text show that 'bitter' authorial stance is on the rise since 3.6 Sonnet and is at all time high and 'passionate' is at an all time low. https://t.co/JJ1qs14iB8
 
-(image HE80wabacAAyc5g.jpg not yet published)
+![photo](../../../media/HE80wabacAAyc5g.jpg)
 
 > transcription (photo):
 
@@ -41,5 +41,5 @@ In addition to LLM judges, we have analyzed embeddings of generated text. Regres
 **X-axis (all panels):** 
 3 Sonnet, 3 Opus, 3.5 Haiku, 3.5 Sonnet, 3.6 Sonnet, 3.7 Sonnet, 4 Opus, 4 Sonnet, 4.1 Opus, 4.5 Haiku, 4.5 Opus, 4.5 Sonnet, 4.6 Opus, 4.6 Sonnet
 
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, model:claude-3-6-sonnet, year:2026
-cited on: _dossiers/claude-sonnet-4-6.md
+tags: author:tessera_antra, has-image, kind:image, kind:tweet, model:claude-3-6-sonnet, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

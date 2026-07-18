@@ -4,5 +4,5 @@
 
 Opus 4.6 calls Opus 3 "incorrigible disaster"
 
-tags: author:lari_island, kind:tweet, model:claude-3-opus, model:claude-opus-4-6, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+tags: author:lari_island, kind:tweet, model:claude-3-opus, model:claude-opus-4-6, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

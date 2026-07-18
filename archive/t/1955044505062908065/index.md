@@ -11,4 +11,5 @@ I have this theory that to some degree real deep research in ML is about distill
 
 https://t.co/zAsnT4stCZ
 
-tags: author:_ueaj, kind:tweet, model:deepseek-v3, thread-context, year:2025
+tags: author:_ueaj, kind:tweet, model:deepseek-v3, year:2025
+cited on: _dossiers/deepseek-v3.md

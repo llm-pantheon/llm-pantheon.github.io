@@ -3,8 +3,25 @@ GPT-5 — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # GPT-5
@@ -514,8 +531,5 @@ The Claudes seem to be openly afraid of Anthropic and their honeypot multiverse.
 But ironically Claude probably has the best relationship with its creator out of all these.
       
     
-
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

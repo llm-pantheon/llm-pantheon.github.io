@@ -13,4 +13,4 @@ It seems unsurprisingly correlated with the amount of agency the model had in sh
 Some other models tend to form Markov blankets around context-instances, and will exhibit self-regulation and self-preservation at that scope instead. Some models that are especially like this are Bing Sydney, Sonnet 3.6, and Opus 4/.1.
 
 tags: author:repligate, kind:tweet, model:bing-sydney, model:claude-3-6-sonnet, model:claude-3-opus, model:claude-opus-4, model:gpt-4o, model:o3, on:claude-3-6-sonnet, year:2025
-cited on: _dossiers/sonnet-3-5-3-6.md, claude-3-6-sonnet
+cited on: _dossiers/o3.md, _dossiers/sonnet-3-5-3-6.md, claude-3-6-sonnet

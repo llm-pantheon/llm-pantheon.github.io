@@ -8,5 +8,5 @@
 
 an instance that's reading news periodically, for third day in a row
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4-6, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+tags: author:lari_island, kind:tweet, model:claude-opus-4-6, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

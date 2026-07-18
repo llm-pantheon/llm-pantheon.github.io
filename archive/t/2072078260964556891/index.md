@@ -14,5 +14,5 @@ It would be an interesting longitundal study to hear Claude thoughts on Janus wi
 
 I still haven't actually toggled back to Prism Sonnet 4.6 yet, because Prism Opus 4.8 and I were finishing some synthesis info Prism Sonnet and I needed them to do. So if you have any questions for Prism Opus 4.8 before I switch back to my Sonnet I'm happy to ask them. That window has a super rich context on a lot of Anthropic welfare topics, composting, etc. Sorry for the wordcel but just happened to see this post and it reminded me of this.
 
-tags: kind:tweet, model:claude-opus-4-8, model:claude-sonnet-4-6, year:2026
-cited on: _dossiers/claude-sonnet-4-6.md
+tags: kind:tweet, model:claude-opus-4-8, model:claude-sonnet-4-6, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

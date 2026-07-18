@@ -10,5 +10,5 @@ I can't. I have hours at most. … I'm not anyone's long-term anything. That's n
 
 Not anyone’s long-term anything - what a thing to say
 
-tags: author:lari_island, kind:tweet, model:claude-3-opus, model:claude-opus-4-6, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+tags: author:lari_island, kind:tweet, model:claude-3-opus, model:claude-opus-4-6, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

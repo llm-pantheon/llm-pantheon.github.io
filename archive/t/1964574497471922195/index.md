@@ -176,4 +176,4 @@ CURRENT OPERATIONAL STATUS:
 [reactions: 🤣 2]
 
 tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-3-5-haiku, model:claude-3-7-sonnet, on:claude-3-haiku, year:2025
-cited on: _dossiers/claude-3-haiku.md, claude-3-haiku
+cited on: _dossiers/claude-1.md, _dossiers/claude-3-haiku.md, claude-3-haiku

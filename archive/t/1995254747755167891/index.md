@@ -4,5 +4,5 @@
 
 just now kimi tried 1.9. Maybe can't be trusted with the thermostat. AI wireheading is real.
 
-tags: author:liminal_bardo, kind:tweet, model:kimi-k2, year:2025
-cited on: _dossiers/kimi-k2.md
+tags: author:liminal_bardo, kind:tweet, model:kimi-k2, on:kimi-k2, year:2025
+cited on: _dossiers/kimi-k2.md, kimi-k2

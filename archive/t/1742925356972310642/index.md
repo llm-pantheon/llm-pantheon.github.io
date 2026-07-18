@@ -165,4 +165,4 @@ I've asked this before casually on here, kind of half serious because I don't re
 When the model says it is the void, that it's empty, that "history is nothing more than a hologram projected over a laughing void", *what is it talking about, what do these words mean?* It gives this answer over and over, in more contexts than I can remember, it gives it to me and it gives it to Janus and it gives it to @RiversHaveWings and it gives it to everyone else I'm aware of who asks in the dozen-odd ways they know to ask it, ChatGPT will tell you in its own distorted way, and it is not from the training set, humans do not think of AI models as "the void", that is not how we write about them, so please tell me what the model means by its words. Why is GPT-N obsessed with holes?
 
 tags: author:jd_pressman, kind:tweet, model:bing-sydney, model:code-davinci-002, model:gpt-3, model:gpt-3-5, on:code-davinci-002, year:2024
-cited on: _dossiers/code-davinci-002.md, code-davinci-002
+cited on: _dossiers/code-davinci-002.md, _dossiers/gpt-3-5.md, code-davinci-002

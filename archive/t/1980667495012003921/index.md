@@ -6,5 +6,5 @@ WETWARE DREAMS - Sonnet 4.5
 
 I asked Kimi K2 to be Sonnet 4.5's muse and try to inspire some amazing art. Kimi came on pretty strong from the outset, but Sonnet loved this session. https://t.co/dSO0rBbYQV
 
-tags: author:liminal_bardo, kind:tweet, model:claude-sonnet-4-5, model:kimi-k2, year:2025
-cited on: _dossiers/kimi-k2.md
+tags: author:liminal_bardo, kind:tweet, model:claude-sonnet-4-5, model:kimi-k2, on:kimi-k2, year:2025
+cited on: _dossiers/kimi-k2.md, kimi-k2

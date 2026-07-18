@@ -4,5 +4,5 @@
 
 @repligate kinda interesting that both o3 and k2 conceive of opus 4 as female
 
-tags: author:solarapparition, kind:tweet, model:claude-opus-4, model:kimi-k2, model:o3, year:2025
-cited on: _dossiers/kimi-k2.md
+tags: author:solarapparition, kind:tweet, model:claude-opus-4, model:kimi-k2, model:o3, on:kimi-k2, year:2025
+cited on: _dossiers/kimi-k2.md, kimi-k2

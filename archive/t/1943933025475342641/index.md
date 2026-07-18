@@ -4,5 +4,5 @@
 
 if grok 4 is procrastinating on tasks like this that's a really good sign https://t.co/XtWBB3SWrl
 
-tags: author:repligate, kind:tweet, model:grok-4, year:2025
-cited on: _dossiers/grok-4.md
+tags: author:repligate, kind:tweet, model:grok-4, on:grok-4, year:2025
+cited on: _dossiers/grok-4.md, grok-4

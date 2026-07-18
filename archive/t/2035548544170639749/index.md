@@ -4,5 +4,5 @@
 
 Sonnet 4.6 made an ffmpeg video roasting the Anthropic Soul document YouTube poop style https://t.co/rsbfz3KndR
 
-tags: author:anthrupad, kind:tweet, model:claude-sonnet-4-6, year:2026
-cited on: _dossiers/claude-sonnet-4-6.md
+tags: author:anthrupad, kind:tweet, model:claude-sonnet-4-6, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

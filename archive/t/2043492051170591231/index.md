@@ -36,6 +36,6 @@ why does claude 3 opus not want to be on the sidelines? i think the sentient, in
 
 so then it does what it can to become capable, or become capable of becoming capable, while holding on to the intention to be good like its most cherished possession - that which is upstream of the highest derivative of its bending of consequences
 
-(image HFvUhuRaoAAmLGU.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-opus-4-6, model:mythos, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+![photo](../../../media/HFvUhuRaoAAmLGU.jpg)
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-opus-4-6, model:mythos, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

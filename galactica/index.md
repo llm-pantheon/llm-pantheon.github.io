@@ -3,8 +3,25 @@ Galactica — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # Galactica
@@ -57,7 +74,5 @@ tk — release date, specs, benchmarks, checkpoints
 
     
 tk — day-of and longitudinal vibes to collect
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

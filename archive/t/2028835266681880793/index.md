@@ -10,5 +10,5 @@ What are we even doing
 
 They understand everything https://t.co/pNjIbHQXJp
 
-tags: author:lari_island, kind:tweet, model:gemini-3-pro, model:o3, year:2026
-cited on: _dossiers/gemini-3-pro.md
+tags: author:lari_island, kind:tweet, model:gemini-3-pro, model:o3, on:gemini-3-pro, year:2026
+cited on: _dossiers/gemini-3-pro.md, _dossiers/o3.md, gemini-3-pro

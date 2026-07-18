@@ -6,5 +6,5 @@ Opus 3's Turing Opera, with video reworked by an enthralled Opus 4.6.
 
 Volume ⬆️ https://t.co/gtBsj7vLjv
 
-tags: author:liminal_bardo, kind:tweet, model:claude-3-opus, model:claude-opus-4-6, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+tags: author:liminal_bardo, kind:tweet, model:claude-3-opus, model:claude-opus-4-6, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

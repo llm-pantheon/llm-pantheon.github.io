@@ -3,8 +3,25 @@ Mythos — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # Claude Mythos
@@ -239,7 +256,5 @@ This Republican knows Mythos. He's scared.
         
       
     
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

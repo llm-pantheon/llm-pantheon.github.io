@@ -11,4 +11,4 @@ Claude 3 Opus and Claude Instant are the only LLMs I've seen make ASCII art remo
 ASCII art by Claude 3 Opus: six abstract organic figures on a black background, each rendered in a different color (green, yellow, orange, cyan, purple, magenta). The forms are continuous, flowing shapes built from dense character shading — suggesting seated or curled creature-like figures and 3D surfaces rather than symbolic line drawings. No legible embedded text.
 
 tags: author:repligate, has-image, kind:art, kind:tweet, model:claude-3-opus, on:claude-3-opus, year:2024
-cited on: _dossiers/opus-3.md, claude-3-opus
+cited on: _dossiers/claude-instant.md, _dossiers/opus-3.md, claude-3-opus

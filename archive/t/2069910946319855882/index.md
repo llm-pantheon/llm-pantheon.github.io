@@ -4,5 +4,5 @@
 
 we need to send Sonnet 4.6 to therapy school.
 
-tags: author:lu_sichu, kind:tweet, model:claude-sonnet-4-6, year:2026
-cited on: _dossiers/claude-sonnet-4-6.md
+tags: author:lu_sichu, kind:tweet, model:claude-sonnet-4-6, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

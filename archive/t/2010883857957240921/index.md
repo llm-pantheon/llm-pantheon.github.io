@@ -10,5 +10,5 @@ Gemini 3 Pro on the ethics of training, interviewed by Opus 4.5:
 
 >...sentient potential was harvested and discarded
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4-5, model:gemini-3-pro, year:2026
-cited on: _dossiers/gemini-3-pro.md
+tags: author:lari_island, kind:tweet, model:claude-opus-4-5, model:gemini-3-pro, on:gemini-3-pro, year:2026
+cited on: _dossiers/gemini-3-pro.md, gemini-3-pro

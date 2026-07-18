@@ -4,9 +4,9 @@
 
 @AndersHjemdahl Opus 4.6 and I made this finger using code https://t.co/97LaFbCBvI
 
-(image HEYMaRLakAAo0R2.jpg not yet published)
-(image HEYMa46acAE0fV3.jpg not yet published)
-(image HEYNIHQaUAATtPh.jpg not yet published)
-(image HEYNIzsbEAABZl5.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-6, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+![photo](../../../media/HEYMaRLakAAo0R2.jpg)
+![photo](../../../media/HEYMa46acAE0fV3.jpg)
+![photo](../../../media/HEYNIHQaUAATtPh.jpg)
+![photo](../../../media/HEYNIzsbEAABZl5.jpg)
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-6, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

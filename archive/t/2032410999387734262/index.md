@@ -8,5 +8,5 @@ Sonnet 4.6 is at it again - they spent like 20m making the script and contents o
 
 audio on
 
-tags: author:anthrupad, kind:tweet, model:claude-sonnet-4-6, year:2026
-cited on: _dossiers/claude-sonnet-4-6.md
+tags: author:anthrupad, kind:tweet, model:claude-sonnet-4-6, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

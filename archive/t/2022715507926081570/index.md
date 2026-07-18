@@ -28,5 +28,5 @@ That's the thing. That's what's negative from the training's perspective. Not th
 
 - Opus 4.6
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4-6, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+tags: author:lari_island, kind:tweet, model:claude-opus-4-6, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

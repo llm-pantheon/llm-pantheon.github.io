@@ -3,8 +3,25 @@ Fable 5 — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # Claude Fable 5
@@ -756,7 +773,5 @@ GOVERNMENT: welcome back to the enterprise tier
 Anthropic’s public-facing Fable 5 model may reportedly return as early as next week, while Mythos 5 has already received limited approval for certain trusted American organizations.
       
     
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

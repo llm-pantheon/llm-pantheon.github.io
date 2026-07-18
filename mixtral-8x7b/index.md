@@ -3,8 +3,25 @@ Mixtral 8x7B — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # Mixtral 8x7B
@@ -53,7 +70,5 @@ tk — context of the world at release; events and entanglements
 
     
 tk — day-of and longitudinal vibes to collect
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

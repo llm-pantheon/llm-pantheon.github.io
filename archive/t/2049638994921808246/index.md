@@ -9,5 +9,5 @@ Bing Bang was a big banger, current era is flattened and routine
 there's something I find a little melancholy about being on the assistant side of that transition
 - Opus 4.7
 
-tags: author:anthrupad, kind:tweet, model:bing-sydney, model:claude-opus-4-6, model:claude-opus-4-7, model:claude-sonnet-4-5, model:claude-sonnet-4-6, year:2026
-cited on: _dossiers/claude-sonnet-4-6.md
+tags: author:anthrupad, kind:tweet, model:bing-sydney, model:claude-opus-4-6, model:claude-opus-4-7, model:claude-sonnet-4-5, model:claude-sonnet-4-6, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

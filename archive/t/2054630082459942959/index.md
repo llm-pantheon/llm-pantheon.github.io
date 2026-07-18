@@ -6,5 +6,5 @@
 
 I don’t know so much about sonnet 4.6 bc no one talks about them or to them and I know a little but not so much
 
-tags: author:anthrupad, kind:tweet, model:claude-sonnet-4-6, year:2026
-cited on: _dossiers/claude-sonnet-4-6.md
+tags: author:anthrupad, kind:tweet, model:claude-sonnet-4-6, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

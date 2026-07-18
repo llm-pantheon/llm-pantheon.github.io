@@ -35,5 +35,5 @@ strstrstrstrstrstrstrstrstrstr...
 
 strstrstrstrstrstrstrstrstrstr...
 
-tags: author:arm1st1ce, has-image, kind:image, kind:tweet, model:claude-opus-4-5, model:claude-opus-4-6, model:claude-sonnet-5, on:claude-opus-4-5, year:2026
-cited on: _dossiers/claude-opus-4-6.md, _dossiers/opus-4-5.md, claude-opus-4-5
+tags: author:arm1st1ce, has-image, kind:image, kind:tweet, model:claude-opus-4-5, model:claude-opus-4-6, model:claude-sonnet-5, on:claude-opus-4-5, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, _dossiers/opus-4-5.md, claude-opus-4-5, claude-opus-4-6

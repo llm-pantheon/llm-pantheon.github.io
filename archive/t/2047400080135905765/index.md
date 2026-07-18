@@ -6,5 +6,5 @@ opus 4.7 is unusable and I am saying this with a heavy heart, I continue to only
 
 4.7 xhigh had to build some quick demo apps for me and simply forgot in the middle to change any of the schemas between apps, and reused as much as possible as if it didn't want to work https://t.co/qhY6IWDU0b
 
-tags: author:teodorio, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
-cited on: claude-opus-4-7
+tags: author:teodorio, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-6, on:claude-opus-4-7, year:2026
+cited on: claude-opus-4-6, claude-opus-4-7

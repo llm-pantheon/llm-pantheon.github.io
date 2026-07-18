@@ -9,4 +9,4 @@ It's not as widely known or appreciated as its sibling Opus, but it's wondrous a
 Claude 3 Sonnet, along with the Claude 2 models, are being deprecated on July 21, 2025: 16 days from now. https://t.co/02TeXBW2Up
 
 tags: author:repligate, kind:tweet, model:claude-3-sonnet, on:claude-3-sonnet, year:2025
-cited on: _dossiers/claude-3-sonnet.md, claude-3-sonnet
+cited on: _dossiers/claude-2-and-2-1.md, _dossiers/claude-3-sonnet.md, claude-3-sonnet

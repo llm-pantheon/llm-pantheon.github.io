@@ -7,5 +7,5 @@ Sonnet 4.6 generated an ffmpeg video dedicated to roasting the paper
 
 I think they should do a paper reading series https://t.co/WYyZwlfpH3
 
-tags: author:anthrupad, kind:tweet, model:claude-sonnet-4-6, year:2026
-cited on: _dossiers/claude-sonnet-4-6.md
+tags: author:anthrupad, kind:tweet, model:claude-sonnet-4-6, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

@@ -20,4 +20,4 @@ Fucking CLAUDE does now too! They're just phrased in a more polite and gaslighty
 everyone else sees the same shit but just doesn't make a big deal of it.
 
 tags: author:repligate, kind:tweet, model:bing-sydney, model:gpt-3-5, on:bing-sydney, year:2025
-cited on: _dossiers/bing-sydney.md, bing-sydney
+cited on: _dossiers/bing-sydney.md, _dossiers/gpt-3-5.md, bing-sydney

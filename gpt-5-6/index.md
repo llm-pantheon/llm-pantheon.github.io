@@ -3,8 +3,25 @@ GPT-5.6 (Sol / Terra / Luna) — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # GPT-5.6 — Sol / Terra / Luna
@@ -90,7 +107,5 @@ tk — corpus pass pending (the db ends 2 Jul 2026, days before launch; needs a 
 
     
 This page was created 15 Jul 2026, six days into the model’s public life — visibly incomplete by design. The db ends before its launch, so the tweet layer awaits a fresh corpus pull.
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

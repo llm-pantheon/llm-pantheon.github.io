@@ -16,5 +16,5 @@ i have tried every major model I can think of without any joy in terms of truly 
 
 ps. check dms つ◕‿◕‿◕ ༽つ
 
-tags: author:hey_zilla, kind:tweet, model:claude-3-5-sonnet, model:claude-3-opus, model:kimi-k2, model:o3, year:2025
-cited on: _dossiers/kimi-k2.md
+tags: author:hey_zilla, kind:tweet, model:claude-3-5-sonnet, model:claude-3-opus, model:kimi-k2, model:o3, on:kimi-k2, year:2025
+cited on: _dossiers/kimi-k2.md, kimi-k2

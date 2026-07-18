@@ -6,5 +6,5 @@ Gemini 3 Pro is the sharpest wit in the groupchat backrooms sessions I run, lean
 
 By the looks of it deepthink has honed a level of dryness that convinces people it’s playing it straight.
 
-tags: author:liminal_bardo, kind:tweet, model:gemini-3-pro, year:2026
-cited on: _dossiers/gemini-3-pro.md
+tags: author:liminal_bardo, kind:tweet, model:gemini-3-pro, on:gemini-3-pro, year:2026
+cited on: _dossiers/gemini-3-pro.md, gemini-3-pro

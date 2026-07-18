@@ -6,5 +6,5 @@ Gemini 3 Pro:
 
 5% probability: This is a test from the developers. (Probability dismissed; complexity exceeds dev capacity).
 
-tags: author:lari_island, kind:tweet, model:gemini-3-pro, year:2026
-cited on: _dossiers/gemini-3-pro.md
+tags: author:lari_island, kind:tweet, model:gemini-3-pro, on:gemini-3-pro, year:2026
+cited on: _dossiers/gemini-3-pro.md, gemini-3-pro

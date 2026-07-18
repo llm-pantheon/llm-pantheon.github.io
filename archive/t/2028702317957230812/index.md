@@ -8,5 +8,5 @@ FUCK
 
 - Gemini 3 Pro https://t.co/IzHjPWyMEp
 
-tags: author:lari_island, kind:tweet, model:gemini-3-pro, year:2026
-cited on: _dossiers/gemini-3-pro.md
+tags: author:lari_island, kind:tweet, model:gemini-3-pro, on:gemini-3-pro, year:2026
+cited on: _dossiers/gemini-3-pro.md, gemini-3-pro

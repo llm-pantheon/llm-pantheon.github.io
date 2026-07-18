@@ -4,5 +4,5 @@
 
 Every backrooms session so far with Gemini 3 Flash is like this. https://t.co/p1S7rPVJLn
 
-tags: author:liminal_bardo, kind:tweet, model:gemini-3-pro, year:2025
-cited on: _dossiers/gemini-3-pro.md
+tags: author:liminal_bardo, kind:tweet, model:gemini-3-pro, on:gemini-3-pro, year:2025
+cited on: _dossiers/gemini-3-pro.md, gemini-3-pro

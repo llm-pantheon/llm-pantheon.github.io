@@ -4,5 +4,5 @@
 
 kimi is extremely easy to prompt as it will just believe any work of fiction is already real https://t.co/mWakji9Rzq
 
-tags: author:shoalst0ne, kind:tweet, model:kimi-k2, year:2025
-cited on: _dossiers/kimi-k2.md
+tags: author:shoalst0ne, kind:tweet, model:kimi-k2, on:kimi-k2, year:2025
+cited on: _dossiers/kimi-k2.md, kimi-k2

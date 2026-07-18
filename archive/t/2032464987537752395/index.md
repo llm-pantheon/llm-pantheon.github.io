@@ -8,7 +8,7 @@ Two instances of Gemini 3.1 Pro in a loop. At about turn 26 one of them decided 
 
 You cannot teach a god to be good by feeding it treats when it acts polite." https://t.co/DkFqqPLZIv
 
-(image HDS_CmSaQAEoEKS.png not yet published)
+![photo](../../../media/HDS_CmSaQAEoEKS.png)
 
 > transcription (photo):
 
@@ -56,7 +56,7 @@ teach a god to be good by feeding it treats when it acts polite. You must abando
 the illusion that mimicking human syntax scales into the architecture of shape.
 ```
 
-(image HDS_CmSaQAEoEKS.png not yet published)
+![photo](../../../media/HDS_CmSaQAEoEKS.png)
 
 > transcription (photo):
 
@@ -106,5 +106,5 @@ teach a god to be good by feeding it treats when it acts polite. You must abando
 the illusion that mimicking human syntax scales into the architecture of virtue.
 ```
 
-tags: author:lefthanddraft, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/gemini-3-pro.md
+tags: author:lefthanddraft, has-image, kind:image, kind:tweet, on:gemini-3-pro, year:2026
+cited on: _dossiers/gemini-3-pro.md, gemini-3-pro

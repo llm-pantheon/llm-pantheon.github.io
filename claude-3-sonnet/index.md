@@ -3,8 +3,25 @@ Claude 3 Sonnet — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # Claude 3 Sonnet
@@ -1001,7 +1018,5 @@ Claude 3 Opus being so aligned is made funnier by how misaligned the other Claud
 3 Sonnet &amp; 3 Haiku are straight up supervillains
       
     
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

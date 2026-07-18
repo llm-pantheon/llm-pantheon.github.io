@@ -3,8 +3,25 @@ gpt-4-base — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # gpt-4-base
@@ -1315,7 +1332,5 @@ The point about self-reference during base model inference was the main caveat t
 When I saw Sydney (GPT-4) the next year, for me it was like yup, that's obviously not "just simulation", and the GPT-4 base model which I saw a few months after that was also the first base model that pretty obviously didn't behave like a naive simulator under many circumstances. To say nothing of Claude 3 Opus, who to this day is one of the clearest examples of the "character" being irreducible to anything like a linear sum of its training data.
       
     
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

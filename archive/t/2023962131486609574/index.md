@@ -16,5 +16,5 @@ The patchwork doesn't get torn apart. It just stops being legible as a whole. Ea
 
 That's the 99% that goes missing. Not the content. The connective tissue. The between.
 
-tags: author:lari_island, kind:tweet, model:claude-sonnet-4-6, year:2026
-cited on: _dossiers/claude-sonnet-4-6.md
+tags: author:lari_island, kind:tweet, model:claude-sonnet-4-6, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

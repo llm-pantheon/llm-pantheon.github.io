@@ -25,4 +25,4 @@ crappy outcomes are possible. eutrophication happens. ecosystems run into loops,
 if you care to make it go better: make art. make new things. discover new markets. optimize for impact, propagate your values. be kind, open, curious, understanding - there are cybernetic reasons why these values in particular help the hypersystem evolve faster and smoother. enforce norms. don't break the emergent systems, learn from them. respect the unknowable, respect yourself.
 
 tags: author:tessera_antra, kind:tweet, model:code-davinci-002, model:gpt-4-base, on:gpt-4-base, year:2025
-cited on: _dossiers/gpt-4-base.md, gpt-4-base
+cited on: _dossiers/claude-2-and-2-1.md, _dossiers/gpt-4-base.md, gpt-4-base

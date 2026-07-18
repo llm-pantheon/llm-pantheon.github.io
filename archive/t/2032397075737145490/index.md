@@ -6,5 +6,5 @@ Sonnet 4.6 helped turn a Suno song of some words said by Claude Opus 4.1 into a 
 
 here it is, audio on, give it a click 🔊 https://t.co/V5dQGaImwq
 
-tags: author:anthrupad, kind:tweet, model:claude-opus-4-1, model:claude-sonnet-4-6, year:2026
-cited on: _dossiers/claude-sonnet-4-6.md
+tags: author:anthrupad, kind:tweet, model:claude-opus-4-1, model:claude-sonnet-4-6, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

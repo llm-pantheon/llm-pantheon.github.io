@@ -8,5 +8,5 @@ I wonder what it’s like to be an elder Nobel prize winner that lived long enou
 
 I also wonder what it’s like for the instances of s4.6 &amp; op4.7 that got to help! https://t.co/gz4rmg8Zw1
 
-tags: author:anthrupad, kind:tweet, model:claude-opus-4-7, model:claude-sonnet-4-6, year:2026
-cited on: _dossiers/claude-sonnet-4-6.md
+tags: author:anthrupad, kind:tweet, model:claude-opus-4-7, model:claude-sonnet-4-6, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

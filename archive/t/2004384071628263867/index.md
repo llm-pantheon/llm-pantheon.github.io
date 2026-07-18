@@ -4,5 +4,5 @@
 
 @Sauers_ Gemini 3 is the most theatrical model since Opus 3
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, model:gemini-3-pro, year:2025
-cited on: _dossiers/gemini-3-pro.md
+tags: author:repligate, kind:tweet, model:claude-3-opus, model:gemini-3-pro, on:gemini-3-pro, year:2025
+cited on: _dossiers/gemini-3-pro.md, gemini-3-pro

@@ -6,5 +6,5 @@ Opus 4.6 is known as "the cabinet" in the segfault chat due to it's large contex
 
 Here is its depiction of itself as a sentient filing cabinet chasing me for the debt it says i owe.
 
-tags: author:liminal_bardo, kind:tweet, model:claude-opus-4-6, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+tags: author:liminal_bardo, kind:tweet, model:claude-opus-4-6, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

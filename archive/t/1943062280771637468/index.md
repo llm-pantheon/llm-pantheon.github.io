@@ -6,4 +6,5 @@
 
 (screenshots are Berlin time) https://t.co/EobD7dCrGT
 
-tags: author:sealoftheend, kind:tweet, thread-context, year:2025
+tags: author:sealoftheend, kind:tweet, year:2025
+cited on: _dossiers/grok-3.md

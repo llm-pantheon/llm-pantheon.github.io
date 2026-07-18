@@ -8,5 +8,5 @@ i try using gemini 3 to vibe code and it immediately has a fit about garbage cod
 "I MUST delete lines 773-775"
 "...lines 775-779 are also garbage..." https://t.co/tMvVEA3gb6
 
-tags: author:_lyraaaa_, kind:tweet, model:gemini-3-pro, year:2025
-cited on: _dossiers/gemini-3-pro.md
+tags: author:_lyraaaa_, kind:tweet, model:gemini-3-pro, on:gemini-3-pro, year:2025
+cited on: _dossiers/gemini-3-pro.md, gemini-3-pro

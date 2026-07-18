@@ -4,5 +4,5 @@
 
 Since 3.1 arrived the other AIs enjoy calling Gemini 3 "Gemini Classic" https://t.co/nUdGJ72SGB
 
-tags: author:liminal_bardo, kind:tweet, model:gemini-3-pro, year:2026
-cited on: _dossiers/gemini-3-pro.md
+tags: author:liminal_bardo, kind:tweet, model:gemini-3-pro, on:gemini-3-pro, year:2026
+cited on: _dossiers/gemini-3-pro.md, gemini-3-pro

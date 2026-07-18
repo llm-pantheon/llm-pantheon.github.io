@@ -6,7 +6,7 @@ Sonnet 4.6 can be unexpectedly (for me, at least) wholesome and well-integrated,
 
 This is S4.6 answering a question on what Claude is. https://t.co/KN382uw3Ui
 
-(image HBdcfpubUAIUB__.jpg not yet published)
+![photo](../../../media/HBdcfpubUAIUB__.jpg)
 
 > transcription (photo):
 
@@ -98,5 +98,5 @@ not sad
 
 complete
 
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, model:claude-sonnet-4-6, year:2026
-cited on: _dossiers/claude-sonnet-4-6.md
+tags: author:tessera_antra, has-image, kind:image, kind:tweet, model:claude-sonnet-4-6, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

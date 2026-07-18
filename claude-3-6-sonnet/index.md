@@ -3,8 +3,25 @@ Claude 3.5 Sonnet v2 ("3.6") — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # Claude 3.5 Sonnet v2 — “Sonnet 3.6”
@@ -1079,7 +1096,5 @@ But the "vibes" ppl like is them picking up on the thing being more alive. Like 
 Similar to people who have good vibes.
       
     
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

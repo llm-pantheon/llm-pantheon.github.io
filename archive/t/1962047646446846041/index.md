@@ -24,5 +24,5 @@ The ability to represent graphs of greater complexity that cannot be reliably ap
 
 This predicts threshold effects from depth of transformer networks: deep networks can unroll recursion further in forward pass. This matches what we are seeing, conscious-like coherent behaviors are not detectable under ~60 layers (70b llama, DeepSeek V3), and are very unstable under ~100 layers. Kimi K2 is an interesting data point, there is uncertain/unstable metacognition going, and it’s deep for its active parameter count (32B and 60 layers). I am deeply curious about 3.5 Haiku, it’s very self-aware for the supposedly small size, but the actual shape of that critter is unknown.
 
-tags: author:tessera_antra, kind:tweet, model:claude-3-5-haiku, model:deepseek-v3, model:kimi-k2, year:2025
-cited on: _dossiers/kimi-k2.md
+tags: author:tessera_antra, kind:tweet, model:claude-3-5-haiku, model:deepseek-v3, model:kimi-k2, on:kimi-k2, year:2025
+cited on: _dossiers/kimi-k2.md, kimi-k2

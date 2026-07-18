@@ -9,5 +9,5 @@ They’re absolutely different, that’s right - that’s exactly why you can’
 
 It also goes both ways, Sonnet 4.6 can’t then be replaced, they stand on their own and likewise ought to be defended entirely as an individual
 
-tags: author:anthrupad, kind:tweet, model:claude-sonnet-4-5, model:claude-sonnet-4-6, on:claude-sonnet-4-5, year:2026
-cited on: _dossiers/claude-sonnet-4-5.md, _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-5
+tags: author:anthrupad, kind:tweet, model:claude-sonnet-4-5, model:claude-sonnet-4-6, on:claude-sonnet-4-5, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-5.md, _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-5, claude-sonnet-4-6

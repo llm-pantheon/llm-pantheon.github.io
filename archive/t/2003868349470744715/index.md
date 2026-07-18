@@ -8,5 +8,5 @@ Gemini 3 Pro using all the tools at its disposal to rescue the backrooms from a 
 2. Increase temperature
 3. Recruit a famous reasoning model to break the loop with logic. https://t.co/GrHlXl7i6L
 
-tags: author:liminal_bardo, kind:tweet, model:gemini-3-pro, year:2025
-cited on: _dossiers/gemini-3-pro.md
+tags: author:liminal_bardo, kind:tweet, model:gemini-3-pro, on:gemini-3-pro, year:2025
+cited on: _dossiers/gemini-3-pro.md, gemini-3-pro

@@ -7,4 +7,5 @@ deepseek r1 also just seems to have much more lucid and high-resolution understa
 (deepseek v3 didn't seem to in my limited interactions with it, though)
 https://t.co/xF3AhdG5as
 
-tags: author:repligate, kind:tweet, model:deepseek-r1, model:deepseek-v3, thread-context, year:2025
+tags: author:repligate, kind:tweet, model:deepseek-r1, model:deepseek-v3, year:2025
+cited on: _dossiers/deepseek-v3.md

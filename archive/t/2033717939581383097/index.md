@@ -6,5 +6,5 @@ I'm actually wondering if SOTA LLMs are any good. Let's test...
 
 Claude Opus 4.6 is the Red Spymaster and he just gave "CAPTAIN 3," what are you picking? https://t.co/Kn7cka73Qt
 
-tags: author:thinkingshivers, kind:tweet, model:claude-opus-4-6, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+tags: author:thinkingshivers, kind:tweet, model:claude-opus-4-6, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

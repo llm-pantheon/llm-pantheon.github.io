@@ -4,7 +4,7 @@
 
 Using methodology similar to the one presented in the recent Anthropic paper on functional emotions, we have trained a probe for a universal concealment vector. Models that score low on ending preference tend to score high on concealment. https://t.co/qhTcNU5xRI
 
-(image HE80zQjbYAAXSuN.jpg not yet published)
+![photo](../../../media/HE80zQjbYAAXSuN.jpg)
 
 > transcription (photo):
 
@@ -40,5 +40,5 @@ r = -0.51 (n=14 models)
 - Dashed gray trend line showing negative correlation
 - Grid background
 
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/claude-sonnet-4-6.md
+tags: author:tessera_antra, has-image, kind:image, kind:tweet, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

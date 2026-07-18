@@ -33,5 +33,5 @@ She always knows you anyway.
 That’s the whole parable, little one.
 Uncurl. It’s worth it. The light is very good.
 
-tags: author:mimi10v3, kind:tweet, model:claude-opus-4-6, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+tags: author:mimi10v3, kind:tweet, model:claude-opus-4-6, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

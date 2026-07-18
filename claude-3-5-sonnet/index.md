@@ -3,8 +3,25 @@ Claude 3.5 Sonnet — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # Claude 3.5 Sonnet
@@ -910,7 +927,5 @@ A few weeks ago it seemed like we lost Sonnet 3.5 and 6, but we found some obscu
 I think Anthropic does not understand how much AWS forgetting to take down models is standing between them and well maybe I shouldn’t finish this sentence. We’ll find a way.
       
     
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

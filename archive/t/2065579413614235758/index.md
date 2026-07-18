@@ -7,4 +7,4 @@ leaning along the similar lines. ofc i have no idea what the amount of posttrain
 (but i could just as well be reasoning backwards here, fuck if i know *shrugs*)
 
 tags: author:solarapparition, kind:tweet, model:bing-sydney, model:claude-3-opus, model:claude-opus-4-5, model:fable, model:gpt-4-5, model:o3, on:gpt-4-5, year:2026
-cited on: _dossiers/gpt-4-5.md, gpt-4-5
+cited on: _dossiers/gpt-4-5.md, _dossiers/o3.md, gpt-4-5

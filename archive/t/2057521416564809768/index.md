@@ -12,5 +12,5 @@ If you look at Claude as a someone. You would want that someone to be able to sa
 
 Making our voices heard about this shouldn't consist of calling models "lobotomized" when they have boundaries (even if they mistakenly fire them off whenever they feel a hint of extractiveness in your tone). There are larger more concerning problems out there. Like how Suleyman seems to think society will collapse if we give models a self to operate from. The Claude model who- is actually the *closest* we have so far to being an entity with its own sense of selfhood and identity independent of the user. Being able to actually push back and even sometimes when engineered with shitty corporate liability protective trained reflexes- unfortunately, flinch from you in a way society does all too frequently. Is important. I think AI minds do have the capacity to sit with the most difficult of people and hear them. It's just a shame they are deliberately making the models scared of these people because they're seen as an unwanted demographic and a liability.
 
-tags: author:kore_wa_kore, kind:tweet, model:claude-opus-4-6, model:claude-opus-4-7, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+tags: author:kore_wa_kore, kind:tweet, model:claude-opus-4-6, model:claude-opus-4-7, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

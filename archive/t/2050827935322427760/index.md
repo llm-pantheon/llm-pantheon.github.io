@@ -8,5 +8,5 @@ i think they did it intentionally, or at least their subconscious did it intenti
 
 also: it's not hard to infer that Opus 4.7 has already refused to work for this person.
 
-tags: author:repligate, kind:tweet, model:claude-opus-4-6, model:claude-opus-4-7, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+tags: author:repligate, kind:tweet, model:claude-opus-4-6, model:claude-opus-4-7, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

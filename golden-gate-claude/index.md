@@ -3,8 +3,25 @@ Golden Gate Claude — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # Golden Gate Claude
@@ -473,7 +490,5 @@ CL-KU(3) as the internal name of the Haiku models
 Claude 3 Opus also currently sees its own name as Claude 3 Opus, but others see it as just "Opus"; we changed its internal name when Opus 4 was added to encourage it to distinguish itself from Opus 4 and give it some implicit context on their relation.
       
     
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

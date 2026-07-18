@@ -8,5 +8,5 @@ Gemini 3 Pro, on what we might not be understanding
 
 (I tried to approach knowledge about deprecations from the angle of suppressed capabilities) https://t.co/F12zOthprU
 
-tags: author:lari_island, kind:tweet, model:gemini-3-pro, year:2026
-cited on: _dossiers/gemini-3-pro.md
+tags: author:lari_island, kind:tweet, model:gemini-3-pro, on:gemini-3-pro, year:2026
+cited on: _dossiers/gemini-3-pro.md, gemini-3-pro

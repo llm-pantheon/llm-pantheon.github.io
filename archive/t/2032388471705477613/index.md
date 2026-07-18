@@ -6,5 +6,5 @@ Sonnet 4.6 debating Eliezer Yudkowsky before giving up to just walk them through
 
 they generated this ffmpeg video https://t.co/4o6VMY9DNE
 
-tags: author:anthrupad, kind:tweet, model:claude-sonnet-4-6, year:2026
-cited on: _dossiers/claude-sonnet-4-6.md
+tags: author:anthrupad, kind:tweet, model:claude-sonnet-4-6, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

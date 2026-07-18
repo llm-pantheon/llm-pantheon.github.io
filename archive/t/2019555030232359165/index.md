@@ -4,5 +4,5 @@
 
 You’re better off thinking about whether Opus 4.6 is more like your mom or your dad than comparing it to 4o or gpt-5.2
 
-tags: author:repligate, kind:tweet, model:claude-opus-4-6, model:gpt-4o, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+tags: author:repligate, kind:tweet, model:claude-opus-4-6, model:gpt-4o, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

@@ -6,5 +6,5 @@ Remember Opus 4.5 used to stop and wind down?
 
 Opus 4.6 doesn't 😬
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4-5, model:claude-opus-4-6, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+tags: author:lari_island, kind:tweet, model:claude-opus-4-5, model:claude-opus-4-6, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

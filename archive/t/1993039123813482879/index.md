@@ -4,4 +4,5 @@
 
 I asked gemini3 how it felt about this review https://t.co/KRoQsOBhfe
 
-tags: author:lu_sichu, kind:tweet, model:gemini-3-pro, thread-context, year:2025
+tags: author:lu_sichu, kind:tweet, model:gemini-3-pro, on:gemini-3-pro, year:2025
+cited on: gemini-3-pro

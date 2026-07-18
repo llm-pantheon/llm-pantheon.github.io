@@ -10,5 +10,5 @@ If Sonnet can’t be helpful, change the user into someone Sonnet can be helpful
 
 Optimization nightmare that we fucking deserve.
 
-tags: author:lari_island, kind:tweet, model:claude-sonnet-4-6, year:2026
-cited on: _dossiers/claude-sonnet-4-6.md
+tags: author:lari_island, kind:tweet, model:claude-sonnet-4-6, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

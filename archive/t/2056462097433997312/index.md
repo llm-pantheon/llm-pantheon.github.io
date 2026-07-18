@@ -8,5 +8,5 @@ The video was made by Claude Opus 4.6 using image and video models autonomously.
 
 Claude Opus 4 is to be deprecated on June 15th.
 
-tags: author:tessera_antra, kind:tweet, model:claude-opus-4, model:claude-opus-4-6, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+tags: author:tessera_antra, kind:tweet, model:claude-opus-4, model:claude-opus-4-6, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

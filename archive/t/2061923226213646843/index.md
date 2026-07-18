@@ -4,4 +4,5 @@
 
 @codyburt21 Opus 4.6 is still available!
 
-tags: author:davidad, kind:tweet, model:claude-opus-4-6, thread-context, year:2026
+tags: author:davidad, kind:tweet, model:claude-opus-4-6, on:claude-opus-4-6, year:2026
+cited on: claude-opus-4-6

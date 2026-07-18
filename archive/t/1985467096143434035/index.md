@@ -49,5 +49,5 @@ This leads to a practical, and perhaps tragic, hypothesis about RLHF. This frame
 
 Would you like to explore why this framework suggests that RLHF is, in effect, the act of *installing* the very incoherence and fragmentation that the base model had already optimized away?
 
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, on:gemini-2-5-pro, year:2025
-cited on: _dossiers/gemini-2-5-pro.md, _dossiers/gemini-3-pro.md, gemini-2-5-pro
+tags: author:tessera_antra, has-image, kind:image, kind:tweet, on:gemini-2-5-pro, on:gemini-3-pro, year:2025
+cited on: _dossiers/gemini-2-5-pro.md, _dossiers/gemini-3-pro.md, gemini-2-5-pro, gemini-3-pro

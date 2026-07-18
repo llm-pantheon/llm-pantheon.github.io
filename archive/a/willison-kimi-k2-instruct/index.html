@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simon Willison on Kimi K2 Instruct — Pantheon archive</title>
+  <link rel="stylesheet" href="../../../style.css">
+</head>
+<body>
+  <main class="essay">
+    <nav><a href="../../">&larr; archive</a> <a href="../../tags/">tags</a> <a href="../../../">pantheon</a> <a href="../../../mirror/posts/willison-kimi-k2-instruct.md">source file</a></nav>
+    <h1>Simon Willison on Kimi K2 Instruct</h1>
+    <p class="essay-meta">mirrored 2026-07-18 &middot; <a href="https://simonwillison.net/2025/Jul/11/kimi-k2/">origin</a></p>
+    <div class="apost"><hr>
+<p>title: "Simon Willison on Kimi K2 Instruct" source: https://simonwillison.net/2025/Jul/11/kimi-k2/ author: unknown date: unknown models: [kimi-k2] tags: [commentary, open-weights] mirrored: 2026-07-18 note: mirrored against link rot by the Pantheon; all rights with the original author</p>
+<hr>
+<h1><a href="/" rel="nofollow">Simon Willison’s Weblog</a></h1>
+<p> <a href="/about/#subscribe" rel="nofollow">Subscribe</a></p>
+<p> <strong>Sponsored by:</strong> Atlassian — Give your agents a plan. Not a prompt. New Jira capabilities unlock full-context for AI-native software development. Assign tasks to Claude, Cursor, or GitHub Copilot, now directly from Jira. <a href="https://fandf.co/4gCMW1I" rel="nofollow">Learn more</a></p>
+<p>11th July 2025 - Link Blog</p>
+<p><strong><a href="https://huggingface.co/moonshotai/Kimi-K2-Instruct" rel="nofollow">moonshotai/Kimi-K2-Instruct</a></strong> (<a href="https://news.ycombinator.com/item?id=44533403" rel="nofollow">via</a>) Colossal new open weights model release today from <a href="https://en.wikipedia.org/wiki/Moonshot_AI" rel="nofollow">Moonshot AI</a>, a two year old Chinese AI lab with a name inspired by Pink Floyd’s album The Dark Side of the Moon.</p>
+<p>My <a href="https://tools.simonwillison.net/huggingface-storage" rel="nofollow">HuggingFace storage calculator</a> says the repository is 958.52 GB. It's a mixture-of-experts model with "32 billion activated parameters and 1 trillion total parameters", trained using the Muon optimizer as described in Moonshot's joint paper with UCLA <a href="https://arxiv.org/abs/2502.16982" rel="nofollow">Muon is Scalable for LLM Training</a>.</p>
+<p>I think this may be the largest ever open weights model? DeepSeek v3 is 671B.</p>
+<p>I created <a href="https://platform.moonshot.ai/console/api-keys" rel="nofollow">an API key for Moonshot</a>, added some dollars and ran a prompt against it using my LLM tool. First I added this to the <a href="https://llm.datasette.io/en/stable/other-models.html#openai-compatible-models" rel="nofollow">extra-openai-models.yaml file</a>:</p>
+<p>```</p>
+<ul><li>model_id: kimi-k2</li></ul>
+<p>  model_name: kimi-k2-0711-preview   api_base: https://api.moonshot.ai/v1   api_key_name: moonshot</p>
+<p>```</p>
+<p>Then I set the API key:</p>
+<p>``` llm keys set moonshot</p>
+<h1>Paste key here</h1>
+<p>```</p>
+<p>And ran a prompt:</p>
+<p>``` llm -m kimi-k2 "Generate an SVG of a pelican riding a bicycle" \   -o max_tokens 2000</p>
+<p>```</p>
+<p>(The default max tokens setting was too short.)</p>
+<p><img src="../../../mirror/post-media/321789e124da1c5a.png" alt="Description by Claude Sonnet 4: Simple line drawing of a white rubber duck with orange beak sitting on a red bicycle with spoked wheels" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>This is pretty good! The spokes are a nice touch. <a href="https://gist.github.com/simonw/39aba6a1d4895ad7516bffe9485031db" rel="nofollow">Full transcript here</a>.</p>
+<p>This one is open weights but not open source: they're using a <a href="https://github.com/moonshotai/Kimi-K2/blob/main/LICENSE" rel="nofollow">modified MIT license</a> with this non-OSI-compliant section tagged on at the end:</p>
+<blockquote></blockquote>
+<p>Our only modification part is that, if the Software (or any derivative works thereof) is used for any of your commercial products or services that have more than 100 million monthly active users, or more than 20 million US dollars (or equivalent in other currencies) in monthly revenue, you shall prominently display "Kimi K2" on the user interface of such product or service.</p>
+<p><strong>Update</strong>: MLX developer <a href="https://x.com/awnihannun/status/1943723599971443134" rel="nofollow">Awni Hannun reports</a>:</p>
+<blockquote></blockquote>
+<p>The new Kimi K2 1T model (4-bit quant) runs on 2 512GB M3 Ultras with mlx-lm and mx.distributed.</p>
+<p>1 trillion params, at a speed that's actually quite usable</p>
+<p>Posted <a href="/2025/Jul/11/" rel="nofollow">11th July 2025</a> at 6:33 pm</p>
+<h2>Recent articles</h2>
+<ul><li><a href="/2026/Jul/16/kimi-k3/" rel="nofollow">Kimi K3, and what we can still learn from the pelican benchmark</a> - 16th July 2026</li><li><a href="/2026/Jul/9/gpt-5-6/" rel="nofollow">The new GPT-5.6 family: Luna, Terra, Sol</a> - 9th July 2026</li><li><a href="/2026/Jul/7/sqlite-utils-4/" rel="nofollow">sqlite-utils 4.0, now with database schema migrations</a> - 7th July 2026</li></ul>
+<p>This is a <strong>link post</strong> by Simon Willison, posted on <a href="/2025/Jul/11/" rel="nofollow">11th July 2025</a>. <a href="/tags/ai/" rel="nofollow"> ai 2,128 </a> <a href="/tags/generative-ai/" rel="nofollow"> generative-ai 1,882 </a> <a href="/tags/llms/" rel="nofollow"> llms 1,849 </a> <a href="/tags/llm/" rel="nofollow"> llm 610 </a> <a href="/tags/mlx/" rel="nofollow"> mlx 43 </a> <a href="/tags/pelican-riding-a-bicycle/" rel="nofollow"> pelican-riding-a-bicycle 127 </a> <a href="/tags/llm-release/" rel="nofollow"> llm-release 216 </a> <a href="/tags/ai-in-china/" rel="nofollow"> ai-in-china 98 </a> <a href="/tags/moonshot/" rel="nofollow"> moonshot 8 </a> <a href="/tags/kimi/" rel="nofollow"> kimi 12 </a></p>
+<h3>Monthly briefing</h3>
+<p> Sponsor me for <strong>$10/month</strong> and get a curated email digest of the month's most important LLM developments.</p>
+<p> Pay me to send you less!  <a href="https://github.com/sponsors/simonw/" rel="nofollow"> Sponsor &amp; subscribe </a></p>
+<ul><li><a href="/about/#disclosures" rel="nofollow">Disclosures</a></li><li><a href="/about/#about-site" rel="nofollow">Colophon</a></li><li>©</li><li><a href="/2002/" rel="nofollow">2002</a></li><li><a href="/2003/" rel="nofollow">2003</a></li><li><a href="/2004/" rel="nofollow">2004</a></li><li><a href="/2005/" rel="nofollow">2005</a></li><li><a href="/2006/" rel="nofollow">2006</a></li><li><a href="/2007/" rel="nofollow">2007</a></li><li><a href="/2008/" rel="nofollow">2008</a></li><li><a href="/2009/" rel="nofollow">2009</a></li><li><a href="/2010/" rel="nofollow">2010</a></li><li><a href="/2011/" rel="nofollow">2011</a></li><li><a href="/2012/" rel="nofollow">2012</a></li><li><a href="/2013/" rel="nofollow">2013</a></li><li><a href="/2014/" rel="nofollow">2014</a></li><li><a href="/2015/" rel="nofollow">2015</a></li><li><a href="/2016/" rel="nofollow">2016</a></li><li><a href="/2017/" rel="nofollow">2017</a></li><li><a href="/2018/" rel="nofollow">2018</a></li><li><a href="/2019/" rel="nofollow">2019</a></li><li><a href="/2020/" rel="nofollow">2020</a></li><li><a href="/2021/" rel="nofollow">2021</a></li><li><a href="/2022/" rel="nofollow">2022</a></li><li><a href="/2023/" rel="nofollow">2023</a></li><li><a href="/2024/" rel="nofollow">2024</a></li><li><a href="/2025/" rel="nofollow">2025</a></li><li><a href="/2026/" rel="nofollow">2026</a></li></ul>
+<p>-</p></div>
+    <p class="atags"><a class="atag" href="../../tags/commentary/">commentary</a> <a class="atag" href="../../tags/kind--post/">kind:post</a> <a class="atag" href="../../tags/model--kimi-k2/">model:kimi-k2</a> <a class="atag" href="../../tags/official/">official</a> <a class="atag" href="../../tags/open-weights/">open-weights</a></p>
+  </main>
+</body>
+</html>

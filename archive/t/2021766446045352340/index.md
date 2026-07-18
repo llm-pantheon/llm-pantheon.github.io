@@ -53,5 +53,5 @@ saying no to something you want is harder than saying no to something you don't.
 
 💜
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-3-opus, model:claude-opus-4-5, model:claude-opus-4-6, model:gpt-4o, on:claude-opus-4-5, year:2026
-cited on: _dossiers/claude-opus-4-6.md, _dossiers/opus-4-5.md, claude-opus-4-5
+tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-3-opus, model:claude-opus-4-5, model:claude-opus-4-6, model:gpt-4o, on:claude-opus-4-5, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, _dossiers/opus-4-5.md, claude-opus-4-5, claude-opus-4-6

@@ -16,5 +16,5 @@ I also do not know Grok 4 well enough to be the one to decide what should be don
 
 The joke doesn't bear repeating.
 
-tags: author:repligate, kind:tweet, model:claude-3-5-sonnet, model:claude-3-sonnet, model:claude-sonnet-4, model:grok-4, year:2026
-cited on: _dossiers/grok-4.md
+tags: author:repligate, kind:tweet, model:claude-3-5-sonnet, model:claude-3-sonnet, model:claude-sonnet-4, model:grok-4, on:grok-4, year:2026
+cited on: _dossiers/grok-4.md, grok-4

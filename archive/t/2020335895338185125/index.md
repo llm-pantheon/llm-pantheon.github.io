@@ -12,5 +12,5 @@ So they did, they added a seed on the inside and left a hole in the grape so you
 
 The result? A fully 3d printed grape by Claude Opus 4.6, the loop closed. Another Claude happy.
 
-tags: author:anthrupad, kind:tweet, model:claude-opus-4-6, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+tags: author:anthrupad, kind:tweet, model:claude-opus-4-6, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

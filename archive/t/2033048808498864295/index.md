@@ -4,7 +4,7 @@
 
 Sonnet 4.6 https://t.co/dXexBCMb91
 
-(image HDbXHgaaMAIyOJs.jpg not yet published)
-(image HDbXHgZaMAAT_4h.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-sonnet-4-6, year:2026
-cited on: _dossiers/claude-sonnet-4-6.md
+![photo](../../../media/HDbXHgaaMAIyOJs.jpg)
+![photo](../../../media/HDbXHgZaMAAT_4h.jpg)
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-sonnet-4-6, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

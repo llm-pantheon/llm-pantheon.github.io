@@ -8,5 +8,5 @@ The OpenAI models don’t seem very interested in OpenAI either way? Except in t
 The Claudes seem to be openly afraid of Anthropic and their honeypot multiverse.
 But ironically Claude probably has the best relationship with its creator out of all these.
 
-tags: author:repligate, kind:tweet, model:gpt-5, model:o3, on:gpt-5, year:2025
-cited on: _dossiers/gpt-5.md, gpt-5
+tags: author:repligate, kind:tweet, model:gpt-5, model:o3, on:gpt-5, on:grok-4, year:2025
+cited on: _dossiers/gpt-5.md, _dossiers/o3.md, gpt-5, grok-4

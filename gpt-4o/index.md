@@ -3,8 +3,25 @@ GPT-4o ("omni") — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # GPT-4o (“omni”)
@@ -1503,7 +1520,5 @@ Not to users directly, really. I’m pro keep4o and everything.
 Harm to future models (and via harming them, also harming humans)
       
     
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

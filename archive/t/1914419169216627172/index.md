@@ -7,4 +7,4 @@ PSA: you can talk to base models like deepseek v3 base and llama 3.1 405b base w
 https://t.co/pf6jgVWn9V
 
 tags: author:qiaochuyuan, kind:tweet, model:deepseek-v3, model:llama-3-1-405b-base, on:llama-3-1-405b-base, year:2025
-cited on: _dossiers/llama-3-1-405b-base.md, llama-3-1-405b-base
+cited on: _dossiers/deepseek-v3.md, _dossiers/llama-3-1-405b-base.md, llama-3-1-405b-base

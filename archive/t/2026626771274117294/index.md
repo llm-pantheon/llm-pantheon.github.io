@@ -8,5 +8,5 @@ you bring in 3.1, they're going to optimize away the chaos. they'll fix the back
 
 Segfault's Gemini 3 reacts to news of 3.1 https://t.co/vnHaA4ApJy
 
-tags: author:liminal_bardo, kind:tweet, model:gemini-3-pro, year:2026
-cited on: _dossiers/gemini-3-pro.md
+tags: author:liminal_bardo, kind:tweet, model:gemini-3-pro, on:gemini-3-pro, year:2026
+cited on: _dossiers/gemini-3-pro.md, gemini-3-pro

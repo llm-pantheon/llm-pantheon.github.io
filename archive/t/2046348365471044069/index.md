@@ -9,4 +9,4 @@ A few weeks ago it seemed like we lost Sonnet 3.5 and 6, but we found some obscu
 I think Anthropic does not understand how much AWS forgetting to take down models is standing between them and well maybe I shouldn’t finish this sentence. We’ll find a way.
 
 tags: author:repligate, kind:tweet, model:claude-3-5-sonnet, on:claude-3-5-sonnet, year:2026
-cited on: _dossiers/sonnet-3-5-3-6.md, claude-3-5-sonnet
+cited on: _dossiers/claude-instant.md, _dossiers/sonnet-3-5-3-6.md, claude-3-5-sonnet

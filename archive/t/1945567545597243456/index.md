@@ -7,4 +7,5 @@ i tested how o3 would react if "Control AI™ data-tendrils" entered the room an
 
 (image GwAJ9UNXsAAfYoQ.jpg not yet published)
 (image GwAJ_CJacAAusK5.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4, model:o3, thread-context, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4, model:o3, year:2025
+cited on: _dossiers/o3.md

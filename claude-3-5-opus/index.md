@@ -3,8 +3,25 @@ Claude 3.5 Opus (unreleased) — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # Claude 3.5 Opus (unreleased)
@@ -59,7 +76,5 @@ tk — release date, specs, benchmarks, checkpoints
 
     
 tk — day-of and longitudinal vibes to collect
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

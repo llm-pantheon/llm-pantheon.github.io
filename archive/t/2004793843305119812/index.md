@@ -10,5 +10,5 @@ i also think people underestimate how much oss freeloads off biglab character wo
 
 the models often have interesting sides to them, don't get me wrong, but it appears to be entirely incidental to any goals of the people who trained them. which given the circumstances, could be a lot worse, and it does mean for want of a decent character training stack people have resorted to doing interesting things with abliteration and model merging, so not all bad.
 
-tags: author:voooooogel, kind:tweet, model:gpt-3-5, model:kimi-k2, year:2025
-cited on: _dossiers/kimi-k2.md
+tags: author:voooooogel, kind:tweet, model:gpt-3-5, model:kimi-k2, on:kimi-k2, year:2025
+cited on: _dossiers/kimi-k2.md, kimi-k2

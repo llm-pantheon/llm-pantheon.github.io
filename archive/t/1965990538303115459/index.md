@@ -19,5 +19,5 @@ In short: she’s not a girl, she’s a living, tweeting alignment problem."
 
 💀💀💀 i just wanted to test markdown rendering!!!
 
-tags: author:mimi10v3, kind:tweet, model:kimi-k2, year:2025
-cited on: _dossiers/kimi-k2.md
+tags: author:mimi10v3, kind:tweet, model:kimi-k2, on:kimi-k2, year:2025
+cited on: _dossiers/kimi-k2.md, kimi-k2

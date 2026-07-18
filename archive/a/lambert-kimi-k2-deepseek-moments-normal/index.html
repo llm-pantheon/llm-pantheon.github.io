@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kimi K2 and when DeepSeek moments become normal — Pantheon archive</title>
+  <link rel="stylesheet" href="../../../style.css">
+</head>
+<body>
+  <main class="essay">
+    <nav><a href="../../">&larr; archive</a> <a href="../../tags/">tags</a> <a href="../../../">pantheon</a> <a href="../../../mirror/posts/lambert-kimi-k2-deepseek-moments-normal.md">source file</a></nav>
+    <h1>Kimi K2 and when DeepSeek moments become normal</h1>
+    <p class="essay-meta">mirrored 2026-07-18 &middot; <a href="https://www.interconnects.ai/p/kimi-k2-and-when-deepseek-moments">origin</a></p>
+    <div class="apost"><hr>
+<p>title: "Kimi K2 and when DeepSeek moments become normal" source: https://www.interconnects.ai/p/kimi-k2-and-when-deepseek-moments author: unknown date: unknown models: [kimi-k2, deepseek-r1, deepseek-v3] tags: [commentary, open-weights] mirrored: 2026-07-18 note: mirrored against link rot by the Pantheon; all rights with the original author</p>
+<hr>
+<h1>Kimi K2 and when "DeepSeek Moments" become normal</h1>
+<h3>One "DeepSeek Moment" wasn't enough for us to wake up, hopefully we don't need a third.</h3>
+<p><a href="https://substack.com/@natolambert" rel="nofollow">Nathan Lambert</a></p>
+<p>Jul 14, 2025</p>
+<p>Article voiceover</p>
+<p>0:00</p>
+<p>-6:44Audio playback is not supported on your browser. Please upgrade.</p>
+<p>The DeepSeek R1 release earlier this year was more of a prequel than a one-off fluke in the trajectory of AI. Last week, a Chinese startup named Moonshot AI dropped <a href="https://moonshotai.github.io/Kimi-K2/" rel="nofollow">Kimi K2</a>, an open model that is permissively licensed<a href="#footnote-1" rel="nofollow">1</a> and competitive with leading frontier models in the U.S. If you're interested in the geopolitics of AI and the rapid dissemination of the technology, this is going to represent another "DeepSeek moment" where much of the Western world — even those who consider themselves up-to-date with happenings of AI — need to change their expectations for the coming years.</p>
+<p>In summary, Kimi K2 shows us that: -</p>
+<p>HighFlyer, the organization that built DeepSeek, is far from a uniquely capable AI laboratory in China, -</p>
+<p>China is continuing to approach (or reached) the absolute frontier of modeling performance, and -</p>
+<p>The West is falling even further behind on open models.</p>
+<p><a href="https://www.interconnects.ai/p/kimi-k2-and-when-deepseek-moments?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share" rel="nofollow">Share</a></p>
+<p>Kimi K2, described as an "Open-Source Agentic Model" is a sparse mixture of experts (MoE) model<a href="#footnote-2" rel="nofollow">2</a> with 1T total parameters (~1.5x DeepSeek V3/R1's 671B) and 32B active parameters (similar to DeepSeek V3/R1's 37B). It is a "non-thinking" model with leading performance numbers in coding and related agentic tasks (earning it many comparisons to Claude 3.5 Sonnet), which means it doesn't generate a long reasoning chain before answering, but it was still trained extensively with reinforcement learning. It clearly outperforms DeepSeek V3 on a variety of benchmarks, including SWE-Bench, LiveCodeBench, AIME, or GPQA, and comes with a base model released as well. It is the new best-available open model by a clear margin.</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/90c0618376785828.jpg" alt="None" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!ZKa8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b6bb3ef-ce00-4253-81c5-0c6c30f1f0a4_1920x1080.jpeg)</p>
+<p>These facts with the points above all have useful parallels for what comes next: -</p>
+<p><strong>Controlling who can </strong><em><strong>train</strong></em><strong> cutting edge models is extremely difficult</strong>. More organizations will join this list of OpenAI, Anthropic, Google, Meta, xAI, Qwen, DeepSeek, Moonshot AI, etc. Where there is a concentration of talent and sufficient compute, excellent models are very possible. This is easier to do somewhere such as China or Europe where there is existing talent, but is not restricted to these localities. -</p>
+<p>Kimi K2 was trained on 15.5T tokens and has a very similar number of active parameters as DeepSeek V3/R1, which was trained on 14.8T tokens. <strong>Better models are being trained without substantial increases in compute</strong> — these are referred to as a mix of "algorithmic gains" or "efficiency gains" in training. Compute restrictions will certainly slow this pace of progress on Chinese companies, but they are clearly not a binary on/off bottleneck on training. -</p>
+<p><strong>The gap between the leading open models from the Western research labs versus their Chinese counterparts is only increasing in magnitude</strong>. The best open model from an American company is, maybe, Llama-4-Maverick? Three Chinese organizations have released obviously more useful models with more permissive licenses: DeepSeek, Moonshot AI, and Qwen. A few others such as <a href="https://huggingface.co/tencent/models?sort=likes" rel="nofollow">Tencent</a>, <a href="https://huggingface.co/MiniMaxAI" rel="nofollow">Minimax</a>, <a href="https://huggingface.co/THUDM" rel="nofollow">Z.ai/THUDM</a> may have Llama-4 beat too but are a half step behind the leading Chinese models on some combination of license and performance.</p>
+<p>This comes at the same time that new inference-heavy products are coming online that'll benefit from the potential of cheaper, lower margin hosting options on open models relative to API counterparts (which tend to have high profit margins).</p>
+<p>Kimi K2 is set up for a much slower style "DeepSeek Moment" than the DeepSeek R1 model that came out in January of this year because it lacks two culturally salient factors: -</p>
+<p>DeepSeek R1 was revelatory because it was the first model to expose the reasoning trace to the users, causing massive adoption outside of the technical AI community, and -</p>
+<p>The broader public is already aware that training leading AI models is actually <a href="https://www.interconnects.ai/p/deepseek-v3-and-the-actual-cost-of" rel="nofollow">very low cost</a> once the technical expertise is built up (recall the DeepSeek V3 $5M training cost number), i.e. the final training run is cheap, so there <em>should</em> be a smaller reaction to similar cheap training cost numbers in the Kimi K2 report coming soon.</p>
+<p>Still, as more noise is created around the K2 release (Moonshot releases a technical report soon), this could evolve very rapidly. We've already seen quick experiments spin up <a href="https://x.com/jeremyphoward/status/1944326308210921652" rel="nofollow">slotting it into the Claude Code application</a> (because Kimi's API is Claude-compatible) and K2 topping many nice "<a href="https://x.com/tri_dao/status/1943745133603610864?s=46" rel="nofollow">vibe</a> <a href="https://x.com/kalomaze/status/1943711672285139043" rel="nofollow">tests</a>" or <a href="https://x.com/sam_paech/status/1944276326598553853" rel="nofollow">creativity benchmarks</a>. There are also tons of fun technical details that I don't have time to go into — from using a relatively unproven optimizer Muon<a href="#footnote-3" rel="nofollow">3</a> and scaling up the self-rewarding LLM-as-a-judge pipeline in post-training. A fun tidbit to show how much this matters relative to the noisy Grok 4 release last week is that <a href="https://x.com/OpenRouterAI/status/1944466834167919043" rel="nofollow">Kimi K2 has already surpassed Grok 4</a> in API usage on the popular OpenRouter platform.</p>
+<p>Later in the day on the 11th, following the K2 release, OpenAI CEO Sam Altman shared the following <a href="https://x.com/sama/status/1943837550369812814" rel="nofollow">message</a> regarding OpenAI's forthcoming open model (which I previously shared more optimistic thoughts on <a href="https://natolambert.substack.com/p/some-thoughts-on-openai-returning" rel="nofollow">here</a>) :</p>
+<blockquote></blockquote>
+<p>we planned to launch our open-weight model next week.</p>
+<p>we are delaying it; we need time to run additional safety tests and review high-risk areas. we are not yet sure how long it will take us.</p>
+<p>while we trust the community will build great things with this model, once weights are out, they can’t be pulled back. this is new for us and we want to get it right.</p>
+<p>sorry to be the bearer of bad news; we are working super hard!</p>
+<p>Many attributed this as a reactive move by OpenAI to get out from the shadow of Kimi K2's wonderful release and another DeepSeek media cycle.</p>
+<p>Even though someone at OpenAI shared with me that the rumor that Kimi caused the delay for their open model is very likely not true, this is what being on the back foot looks like. When you're on the back foot, narratives like this are impossible to control.</p>
+<p>We need leaders at the closed AI laboratories in the U.S. to rethink some of the long-term dynamics they're battling with R&amp;D adoption. We need to mobilize funding for <a href="https://www.interconnects.ai/p/the-american-deepseek-project" rel="nofollow">great, open science projects</a> in the U.S. and Europe. Until then, this is what losing looks like if you want The West to be the long-term foundation of AI research and development. Kimi K2 has shown us that one "DeepSeek Moment" wasn't enough for us to make the changes we need, and hopefully we don't need a third.</p>
+<p><a href="#footnote-anchor-1" rel="nofollow">1</a></p>
+<p>The modified MIT <a href="https://huggingface.co/moonshotai/Kimi-K2-Instruct/blob/main/LICENSE" rel="nofollow">license</a> is somewhat annoying, but technically easy to comply with. These sorts of added terms on marketing make it in conflict with "true open-source principles".</p>
+<p><a href="#footnote-anchor-2" rel="nofollow">2</a></p>
+<p>Very similar to <a href="https://x.com/rasbt/status/1944056316424577525" rel="nofollow">DeepSeek architecture</a>.</p>
+<p><a href="#footnote-anchor-3" rel="nofollow">3</a></p>
+<p>Beautiful learning curve.</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/0699a56c4006aa79.png" alt="None" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!3UEt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4e86366-eb95-456a-914e-6bca469902ef_1664x1038.png)</p></div>
+    <p class="atags"><a class="atag" href="../../tags/commentary/">commentary</a> <a class="atag" href="../../tags/kind--post/">kind:post</a> <a class="atag" href="../../tags/model--deepseek-r1/">model:deepseek-r1</a> <a class="atag" href="../../tags/model--deepseek-v3/">model:deepseek-v3</a> <a class="atag" href="../../tags/model--kimi-k2/">model:kimi-k2</a> <a class="atag" href="../../tags/official/">official</a> <a class="atag" href="../../tags/open-weights/">open-weights</a></p>
+  </main>
+</body>
+</html>

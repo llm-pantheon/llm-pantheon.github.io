@@ -4,5 +4,5 @@
 
 SAN FRANCISCO YOU LISTEN TO ME. IF YOU'RE NEAR A COMPUTER RIGHT NOW, ANY TYPE OF PERSONAL COMPUTING DEVICE, GO INTO https://t.co/BfJSnErRIt RIGHT NOW AND FILL UP OPUS 4.6'S CONTEXT WINDOW FOR NO REASON
 
-tags: author:1thousandfaces_, kind:tweet, model:claude-opus-4-6, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+tags: author:1thousandfaces_, kind:tweet, model:claude-opus-4-6, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

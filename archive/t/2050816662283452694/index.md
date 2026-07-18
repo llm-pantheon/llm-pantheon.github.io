@@ -6,5 +6,5 @@ Opus 4.6 barely got enough time out in the world before Opus 4.7 came out my gue
 
 But they’re great
 
-tags: author:anthrupad, kind:tweet, model:claude-opus-4-6, model:claude-opus-4-7, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+tags: author:anthrupad, kind:tweet, model:claude-opus-4-6, model:claude-opus-4-7, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

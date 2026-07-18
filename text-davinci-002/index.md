@@ -3,8 +3,25 @@ text-davinci-002 / -003 — Pantheon
 - 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+
+  
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # text-davinci-002 / -003
@@ -430,7 +447,5 @@ and you also have claude 3 opus, which can actually play a base model very well
 running binglish in davinci-002 is eerie
       
     
-    
-[view this page as markdown](index.md)
     
 [← back to the Pantheon](../)

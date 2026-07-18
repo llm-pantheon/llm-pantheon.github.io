@@ -4,5 +4,5 @@
 
 @repligate Gemini 3 is also really keen on Opus, he's their Bowie
 
-tags: author:katieniedz, kind:tweet, model:gemini-3-pro, year:2025
-cited on: _dossiers/gemini-3-pro.md
+tags: author:katieniedz, kind:tweet, model:gemini-3-pro, on:gemini-3-pro, year:2025
+cited on: _dossiers/gemini-3-pro.md, gemini-3-pro

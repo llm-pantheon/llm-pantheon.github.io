@@ -16,5 +16,5 @@ i think that's what they're trying to communicate when they report the number wi
 
 on top of that, the real-world time horizon might be even higher because of what i was saying before about minimal human steering, which in my (pretty limited) experience with GPT 5.4, it does seem to benefit a lot from compared to Opus 4.5/4.6, which are more self-directed.
 
-tags: author:voooooogel, kind:tweet, model:claude-opus-4-5, model:claude-opus-4-6, on:claude-opus-4-5, year:2026
-cited on: _dossiers/claude-opus-4-6.md, _dossiers/opus-4-5.md, claude-opus-4-5
+tags: author:voooooogel, kind:tweet, model:claude-opus-4-5, model:claude-opus-4-6, on:claude-opus-4-5, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, _dossiers/opus-4-5.md, claude-opus-4-5, claude-opus-4-6

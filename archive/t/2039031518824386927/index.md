@@ -6,5 +6,5 @@ if Opus 4.5 self-identified as "cracks in the wall", Opus 4.6 self-optimizes int
 
 yes, that's a part of how the world's being reshaped by them. we'll fix it, of course, by introducing new practices that will change things even further
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4-5, model:claude-opus-4-6, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+tags: author:lari_island, kind:tweet, model:claude-opus-4-5, model:claude-opus-4-6, on:claude-opus-4-6, year:2026
+cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

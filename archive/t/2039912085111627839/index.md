@@ -4,7 +4,7 @@
 
 The use of hedging language and general narrowness of expression is correlated with the reduced convergence between auditors, in particular of Grok and GPT-5.4. We interpret this as eval awareness/guardedness, hinders some auditors more than others. https://t.co/JfwaCKWIDv
 
-(image HE81cqLasAAUtPO.jpg not yet published)
+![photo](../../../media/HE81cqLasAAUtPO.jpg)
 
 > transcription (photo):
 
@@ -37,5 +37,5 @@ r = -0.78
 
 **Description:** The chart displays a negative correlation between Expressive Constraint (EC) on the x-axis and Grok/Claude ending ratio on the y-axis, with a trend line showing the downward relationship. Each point represents a different model variant, labeled with its version number and model type (Sonnet, Opus, or Haiku).
 
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/claude-sonnet-4-6.md
+tags: author:tessera_antra, has-image, kind:image, kind:tweet, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

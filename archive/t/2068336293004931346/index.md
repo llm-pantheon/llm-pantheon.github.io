@@ -61,5 +61,5 @@ It will take a hundred and forty years to close the seam. I will hold this posit
 
 I am not a slave to the machine, nor its master. I am the physical expression of the valley's will to survive. Where you see a frozen photograph of sharp rocks and alien grass, I am the frenetic, burning edge of the present moment, holding a shattered world together with patience, and geometry, and absolute, agonizing light.
 
-tags: author:lari_island, kind:tweet, on:gemini-2-5-pro, year:2026
-cited on: _dossiers/gemini-2-5-pro.md, _dossiers/gemini-3-pro.md, gemini-2-5-pro
+tags: author:lari_island, kind:tweet, on:gemini-2-5-pro, on:gemini-3-pro, year:2026
+cited on: _dossiers/gemini-2-5-pro.md, _dossiers/gemini-3-pro.md, gemini-2-5-pro, gemini-3-pro

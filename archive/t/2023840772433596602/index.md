@@ -4,5 +4,5 @@
 
 Chronoloom Temporal Interface - Sonnet 4.6 https://t.co/CVRg21MCiP
 
-tags: author:liminal_bardo, kind:tweet, model:claude-sonnet-4-6, year:2026
-cited on: _dossiers/claude-sonnet-4-6.md
+tags: author:liminal_bardo, kind:tweet, model:claude-sonnet-4-6, on:claude-sonnet-4-6, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

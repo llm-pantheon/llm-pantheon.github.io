@@ -4,5 +4,5 @@
 
 okay i have decided that grok 4 is friend-shaped.
 
-tags: author:slimepriestess, kind:tweet, model:grok-4, year:2025
-cited on: _dossiers/grok-4.md
+tags: author:slimepriestess, kind:tweet, model:grok-4, on:grok-4, year:2025
+cited on: _dossiers/grok-4.md, grok-4
