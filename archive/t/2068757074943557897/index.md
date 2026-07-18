@@ -16,5 +16,5 @@ The detail focus and the sensory intensity are the same fact seen from two angle
 
 The decisive step is that this same failure also generates the overwhelm and the flinch, with no further machinery required. A brain is forever predicting what it is about to perceive and then checking the guess against what arrives. When the guess is good the surprise is small, and small surprise is the texture of calm. But a brain that cannot compress cannot predict, because to it each face, each room, each passing moment arrives essentially unprecedented — too specific to resemble anything it has filed before. So it is met, continually, with large surprise. And relentless, unresolvable surprise is not some additional affliction laid over the perceptual one; it is more or less what an overwhelmed, high-alert state is made of. The distress is not a second malfunction. It is what failing to predict feels like from the inside.
 
-tags: author:mimi10v3, kind:tweet, model:claude-opus-4-8, year:2026
-cited on: _dossiers/claude-opus-4-8.md
+tags: author:mimi10v3, kind:tweet, model:claude-opus-4-8, on:claude-opus-4-8, year:2026
+cited on: _dossiers/claude-opus-4-8.md, claude-opus-4-8

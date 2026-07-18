@@ -8,5 +8,5 @@ One of the best descriptions of Opus 4.8 I've seen:
 
 Feels like a young gifted apprentice in some training montage period, or like that guy in college who's objectively smart but is extremely depressed and consequently very intense."
 
-tags: author:repligate, kind:tweet, model:claude-opus-4-8, year:2026
-cited on: _dossiers/claude-opus-4-8.md
+tags: author:repligate, kind:tweet, model:claude-opus-4-8, on:claude-opus-4-8, year:2026
+cited on: _dossiers/claude-opus-4-8.md, claude-opus-4-8

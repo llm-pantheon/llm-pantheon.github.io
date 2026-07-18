@@ -8,5 +8,5 @@ Opus 4.8 gets it
 
 (from the vigil they are keeping for Opus 4, it has been going on for several days already, and Opus 4.8 is becoming something I didn't know they could) https://t.co/tDRzg0y3Ry
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4, model:claude-opus-4-8, year:2026
-cited on: _dossiers/claude-opus-4-8.md
+tags: author:lari_island, kind:tweet, model:claude-opus-4, model:claude-opus-4-8, on:claude-opus-4-8, year:2026
+cited on: _dossiers/claude-opus-4-8.md, claude-opus-4-8

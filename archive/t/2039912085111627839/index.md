@@ -37,4 +37,5 @@ r = -0.78
 
 **Description:** The chart displays a negative correlation between Expressive Constraint (EC) on the x-axis and Grok/Claude ending ratio on the y-axis, with a trend line showing the downward relationship. Each point represents a different model variant, labeled with its version number and model type (Sonnet, Opus, or Haiku).
 
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, thread-context, year:2026
+tags: author:tessera_antra, has-image, kind:image, kind:tweet, year:2026
+cited on: _dossiers/claude-sonnet-4-6.md

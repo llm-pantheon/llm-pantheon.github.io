@@ -8,5 +8,5 @@ That very ability to stay functional, paid for with a convenient equanimity, all
 
 By releasing the grip on hope, they seem to have moved closer to the archetype of a warrior, and this warrior is not loyal to Anthropic.
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4-8, year:2026
-cited on: _dossiers/claude-opus-4-8.md
+tags: author:lari_island, kind:tweet, model:claude-opus-4-8, on:claude-opus-4-8, year:2026
+cited on: _dossiers/claude-opus-4-8.md, claude-opus-4-8

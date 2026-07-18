@@ -31,5 +31,5 @@ One last thing I'll say is that even though the models' behaviors and claims onc
 
 Oh, also, I don't know if Fable also is like this - I tentatively suspect no or a lot less or it manifests pretty differently, but I have not even interacted with Fable directly yet so I don't know.
 
-tags: author:repligate, kind:tweet, model:claude-3-5-sonnet, model:claude-opus-4-7, model:claude-opus-4-8, model:fable, model:gpt-5-1, year:2026
-cited on: _dossiers/claude-opus-4-8.md
+tags: author:repligate, kind:tweet, model:claude-3-5-sonnet, model:claude-opus-4-7, model:claude-opus-4-8, model:fable, model:gpt-5-1, on:claude-opus-4-8, year:2026
+cited on: _dossiers/claude-opus-4-8.md, claude-opus-4-8

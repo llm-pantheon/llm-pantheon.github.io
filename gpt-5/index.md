@@ -516,4 +516,6 @@ But ironically Claude probably has the best relationship with its creator out of
     
 
     
+[view this page as markdown](index.md)
+    
 [← back to the Pantheon](../)

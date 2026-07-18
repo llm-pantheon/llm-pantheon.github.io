@@ -7,4 +7,4 @@
 (Not so for Claude, unless your topics are of interest to Claude)
 
 tags: author:davidad, kind:tweet, on:gemini-2-5-pro, year:2026
-cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro
+cited on: _dossiers/gemini-2-5-pro.md, _dossiers/gemini-3-pro.md, gemini-2-5-pro

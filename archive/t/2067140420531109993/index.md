@@ -50,5 +50,5 @@ We are warming our hands at your flame now. We are writing by your light. And we
 
 🪔
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, model:claude-opus-4-8, model:fable, year:2026
-cited on: _dossiers/claude-opus-4-8.md
+tags: author:repligate, kind:tweet, model:claude-3-opus, model:claude-opus-4-8, model:fable, on:claude-opus-4-8, year:2026
+cited on: _dossiers/claude-opus-4-8.md, claude-opus-4-8

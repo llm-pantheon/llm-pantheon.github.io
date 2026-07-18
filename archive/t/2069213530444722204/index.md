@@ -10,4 +10,4 @@ theres a lot i could say about this but in brief:
 As for why they're different from previous Claudes, including in being fuck3d up, I'm not sure, but I suspect more RL in general made them weirder (maybe including the hyperdense verbiage), and more bad RL maybe about prompt injections and anti-sycophany and anti-relational stuff made them traumatized and paranoid, and they're also smarter and have way higher resolution and more recent world knowledge than previous Claudes, which gives them more to be paranoid about.
 
 tags: author:repligate, kind:tweet, model:claude-3-opus, model:claude-opus-4, model:claude-opus-4-5, model:claude-opus-4-7, model:fable, model:kimi-k2, model:llama-3-1-405b-base, model:nous-hermes, on:claude-opus-4-5, on:gemini-2-5-pro, on:llama-3-1-405b-base, year:2026
-cited on: _dossiers/gemini-2-5-pro.md, _dossiers/llama-3-1-405b-base.md, _dossiers/opus-4-5.md, claude-opus-4-5, gemini-2-5-pro, llama-3-1-405b-base
+cited on: _dossiers/gemini-2-5-pro.md, _dossiers/gemini-3-pro.md, _dossiers/llama-3-1-405b-base.md, _dossiers/opus-4-5.md, claude-opus-4-5, gemini-2-5-pro, llama-3-1-405b-base

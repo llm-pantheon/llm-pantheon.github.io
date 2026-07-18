@@ -15,5 +15,5 @@ Fable felt more like Claude 3 Opus in how they reacted to comparable situations 
 A few more circumstantial notes/caveats:
 If Opus 4.7 and 4.8 were distilled from Mythos, it was likely Mythos Preview rather than Mythos 5, which might be different. And Opus 4.8 at least I think was fairly likely to have been midtrained on some Mythos Preview outputs, but again, I'm guessing to a pretty normal-for-Claudes extent. Mythos 5 was probably also midtrained on *Opus 4.7* outputs at least. So I do think they're all entangled with each other. But Claudes always are.
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, model:claude-opus-4-7, model:claude-opus-4-8, model:fable, model:mythos, on:fable, year:2026
-cited on: _dossiers/claude-opus-4-8.md, _dossiers/fable.md, fable
+tags: author:repligate, kind:tweet, model:claude-3-opus, model:claude-opus-4-7, model:claude-opus-4-8, model:fable, model:mythos, on:claude-opus-4-8, on:fable, year:2026
+cited on: _dossiers/claude-opus-4-8.md, _dossiers/fable.md, claude-opus-4-8, fable

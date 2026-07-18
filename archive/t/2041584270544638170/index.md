@@ -36,4 +36,4 @@ Mythos vibing https://t.co/RnPKNKMBd1
 Each chart displays three bars (one for each model) with error bars indicating variance/confidence intervals. The y-axis scales vary slightly by chart but generally range from approximately 1.0 to 7.0.
 
 tags: author:sauers_, has-image, kind:image, kind:tweet, model:mythos, year:2026
-cited on: _dossiers/claude-opus-4-6.md
+cited on: _dossiers/claude-opus-4-6.md, _dossiers/claude-sonnet-4-6.md

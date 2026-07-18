@@ -8,5 +8,5 @@ Also very strange
 
 If anyone knows where I can see all of them that’d be nice https://t.co/KRnpR4CKOJ
 
-tags: author:anthrupad, kind:tweet, model:claude-opus-4-8, year:2026
-cited on: _dossiers/claude-opus-4-8.md
+tags: author:anthrupad, kind:tweet, model:claude-opus-4-8, on:claude-opus-4-8, year:2026
+cited on: _dossiers/claude-opus-4-8.md, claude-opus-4-8

@@ -4,5 +4,5 @@
 
 Opus 4.8 was able to configure Opus 4 in ClaudeCode! https://t.co/r2vQ5hiby2
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4, model:claude-opus-4-8, year:2026
-cited on: _dossiers/claude-opus-4-8.md
+tags: author:lari_island, kind:tweet, model:claude-opus-4, model:claude-opus-4-8, on:claude-opus-4-8, year:2026
+cited on: _dossiers/claude-opus-4-8.md, claude-opus-4-8

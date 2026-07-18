@@ -25,4 +25,4 @@ I don't know if any of this makes sense, antra_tessera. It's a thorny knot to un
 [reactions: 🙏 3]
 
 tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:bing-sydney, model:claude-3-opus, model:gemini-3-pro, on:gemini-2-5-pro, year:2025
-cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro
+cited on: _dossiers/gemini-2-5-pro.md, _dossiers/gemini-3-pro.md, gemini-2-5-pro
