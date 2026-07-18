@@ -1144,5 +1144,58 @@
    "incident",
    "mechahitler"
   ]
+ },
+ {
+  "id": "lambert-kimi-k2-deepseek-moments-normal",
+  "type": "post",
+  "url": "https://www.interconnects.ai/p/kimi-k2-and-when-deepseek-moments",
+  "title": "Kimi K2 and when DeepSeek moments become normal",
+  "models": [
+   "kimi-k2",
+   "deepseek-r1",
+   "deepseek-v3"
+  ],
+  "tags": [
+   "commentary",
+   "open-weights"
+  ]
+ },
+ {
+  "id": "willison-kimi-k2-instruct",
+  "type": "post",
+  "url": "https://simonwillison.net/2025/Jul/11/kimi-k2/",
+  "title": "Simon Willison on Kimi K2 Instruct",
+  "models": [
+   "kimi-k2"
+  ],
+  "tags": [
+   "commentary",
+   "open-weights"
+  ]
+ },
+ {
+  "id": "arxiv-2507.20534-kimi-k2-tech-report",
+  "type": "pdf",
+  "url": "https://arxiv.org/pdf/2507.20534",
+  "title": "Kimi K2: Open Agentic Intelligence",
+  "models": [
+   "kimi-k2"
+  ],
+  "tags": [
+   "paper",
+   "official"
+  ]
+ },
+ {
+  "id": "chinadaily-kimi-k2-deepseek-moment",
+  "type": "post",
+  "url": "https://global.chinadaily.com.cn/a/202507/21/WS687dcf34a310ad07b5d9103a.html",
+  "title": "China Daily: Kimi K2 as a DeepSeek moment",
+  "models": [
+   "kimi-k2"
+  ],
+  "tags": [
+   "press"
+  ]
  }
 ]

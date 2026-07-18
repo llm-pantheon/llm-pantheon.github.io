@@ -1335,5 +1335,55 @@
   "bytes": 11000,
   "sha256": "ea6077bb080e612e",
   "fetched": "2026-07-18"
+ },
+ "lambert-kimi-k2-deepseek-moments-normal": {
+  "file": "posts/lambert-kimi-k2-deepseek-moments-normal.md",
+  "type": "post",
+  "title": "Kimi K2 and when DeepSeek moments become normal",
+  "source": "https://www.interconnects.ai/p/kimi-k2-and-when-deepseek-moments",
+  "models": [
+   "kimi-k2",
+   "deepseek-r1",
+   "deepseek-v3"
+  ],
+  "tags": [
+   "commentary",
+   "open-weights"
+  ],
+  "bytes": 9290,
+  "sha256": "a0c4f681b9936183",
+  "fetched": "2026-07-18"
+ },
+ "willison-kimi-k2-instruct": {
+  "file": "posts/willison-kimi-k2-instruct.md",
+  "type": "post",
+  "title": "Simon Willison on Kimi K2 Instruct",
+  "source": "https://simonwillison.net/2025/Jul/11/kimi-k2/",
+  "models": [
+   "kimi-k2"
+  ],
+  "tags": [
+   "commentary",
+   "open-weights"
+  ],
+  "bytes": 5014,
+  "sha256": "f6ba2efdc3ff8a9b",
+  "fetched": "2026-07-18"
+ },
+ "arxiv-2507.20534-kimi-k2-tech-report": {
+  "file": "papers/arxiv-2507.20534-kimi-k2-tech-report.pdf",
+  "type": "pdf",
+  "title": "Kimi K2: Open Agentic Intelligence",
+  "source": "https://arxiv.org/pdf/2507.20534",
+  "models": [
+   "kimi-k2"
+  ],
+  "tags": [
+   "paper",
+   "official"
+  ],
+  "bytes": 5872335,
+  "sha256": "035062b5e1ab865f",
+  "fetched": "2026-07-18"
  }
 }
