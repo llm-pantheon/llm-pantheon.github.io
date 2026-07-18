@@ -1514,5 +1514,97 @@
   "bytes": 19972,
   "sha256": "634d8acb27da9c9a",
   "fetched": "2026-07-18"
+ },
+ "anthropic-opus-4-6-sabotage-risk-report": {
+  "file": "papers/anthropic-opus-4-6-sabotage-risk-report.pdf",
+  "type": "pdf",
+  "title": "Claude Opus 4.6 Sabotage Risk Report",
+  "source": "https://www-cdn.anthropic.com/f21d93f21602ead5cdbecb8c8e1c765759d9e232.pdf",
+  "models": [
+   "claude-opus-4-6"
+  ],
+  "tags": [
+   "official",
+   "safety"
+  ],
+  "bytes": 999747,
+  "sha256": "d5979442d3896ce3",
+  "fetched": "2026-07-18"
+ },
+ "lw-claude-opus-4-6-is-driven": {
+  "file": "posts/lw-claude-opus-4-6-is-driven.md",
+  "type": "post",
+  "title": "Claude Opus 4.6 is driven",
+  "source": "https://www.lesswrong.com/posts/btAn3hydqfgYFyHGW/claude-opus-4-6-is-driven",
+  "models": [
+   "claude-opus-4-6"
+  ],
+  "tags": [
+   "lesswrong"
+  ],
+  "bytes": 10363,
+  "sha256": "e708a40fc8f8c762",
+  "fetched": "2026-07-18"
+ },
+ "anthropic-building-c-compiler": {
+  "file": "posts/anthropic-building-c-compiler.md",
+  "type": "post",
+  "title": "Anthropic: Building a C compiler with Opus 4.6",
+  "source": "https://www.anthropic.com/engineering/building-c-compiler",
+  "models": [
+   "claude-opus-4-6"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 15886,
+  "sha256": "1a23d4ae437c25b9",
+  "fetched": "2026-07-18"
+ },
+ "anthropic-red-zero-days": {
+  "file": "posts/anthropic-red-zero-days.md",
+  "type": "post",
+  "title": "Anthropic Red: zero-days",
+  "source": "https://red.anthropic.com/2026/zero-days/",
+  "models": [
+   "claude-opus-4-6"
+  ],
+  "tags": [
+   "official",
+   "security"
+  ],
+  "bytes": 14452,
+  "sha256": "8d14ecc125a63996",
+  "fetched": "2026-07-18"
+ },
+ "anthropic-opus-4-6-launch": {
+  "file": "posts/anthropic-opus-4-6-launch.md",
+  "type": "post",
+  "title": "Introducing Claude Opus 4.6",
+  "source": "https://www.anthropic.com/news/claude-opus-4-6",
+  "models": [
+   "claude-opus-4-6"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 24381,
+  "sha256": "83bd9675f4814fc7",
+  "fetched": "2026-07-18"
+ },
+ "andonlabs-opus-4-6-vending-bench": {
+  "file": "posts/andonlabs-opus-4-6-vending-bench.md",
+  "type": "post",
+  "title": "Andon Labs: Opus 4.6 on Vending-Bench",
+  "source": "https://andonlabs.com/blog/opus-4-6-vending-bench",
+  "models": [
+   "claude-opus-4-6"
+  ],
+  "tags": [
+   "eval"
+  ],
+  "bytes": 14486,
+  "sha256": "d38ba7d72a2517fe",
+  "fetched": "2026-07-18"
  }
 }

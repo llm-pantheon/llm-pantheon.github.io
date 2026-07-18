@@ -1302,5 +1302,79 @@
    "eval",
    "agentic"
   ]
+ },
+ {
+  "id": "anthropic-opus-4-6-sabotage-risk-report",
+  "type": "pdf",
+  "url": "https://www-cdn.anthropic.com/f21d93f21602ead5cdbecb8c8e1c765759d9e232.pdf",
+  "title": "Claude Opus 4.6 Sabotage Risk Report",
+  "models": [
+   "claude-opus-4-6"
+  ],
+  "tags": [
+   "official",
+   "safety"
+  ]
+ },
+ {
+  "id": "lw-claude-opus-4-6-is-driven",
+  "type": "post",
+  "url": "https://www.lesswrong.com/posts/btAn3hydqfgYFyHGW/claude-opus-4-6-is-driven",
+  "title": "Claude Opus 4.6 is driven",
+  "models": [
+   "claude-opus-4-6"
+  ],
+  "tags": [
+   "lesswrong"
+  ]
+ },
+ {
+  "id": "anthropic-building-c-compiler",
+  "type": "post",
+  "url": "https://www.anthropic.com/engineering/building-c-compiler",
+  "title": "Anthropic: Building a C compiler with Opus 4.6",
+  "models": [
+   "claude-opus-4-6"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "anthropic-red-zero-days",
+  "type": "post",
+  "url": "https://red.anthropic.com/2026/zero-days/",
+  "title": "Anthropic Red: zero-days",
+  "models": [
+   "claude-opus-4-6"
+  ],
+  "tags": [
+   "official",
+   "security"
+  ]
+ },
+ {
+  "id": "anthropic-opus-4-6-launch",
+  "type": "post",
+  "url": "https://www.anthropic.com/news/claude-opus-4-6",
+  "title": "Introducing Claude Opus 4.6",
+  "models": [
+   "claude-opus-4-6"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "andonlabs-opus-4-6-vending-bench",
+  "type": "post",
+  "url": "https://andonlabs.com/blog/opus-4-6-vending-bench",
+  "title": "Andon Labs: Opus 4.6 on Vending-Bench",
+  "models": [
+   "claude-opus-4-6"
+  ],
+  "tags": [
+   "eval"
+  ]
  }
 ]
