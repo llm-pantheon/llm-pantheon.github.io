@@ -1748,5 +1748,78 @@
   "tags": [
    "commentary"
   ]
+ },
+ {
+  "id": "zvi-ai-87-staying-in-character",
+  "type": "post",
+  "url": "https://thezvi.substack.com/p/ai-87-staying-in-character",
+  "title": "Zvi AI #87: Staying in Character",
+  "models": [
+   "character-ai"
+  ],
+  "tags": [
+   "zvi"
+  ]
+ },
+ {
+  "id": "character-ai-community-safety-updates",
+  "type": "post",
+  "url": "https://blog.character.ai/community-safety-updates/",
+  "title": "Character.AI: Community Safety Updates (Oct 2024)",
+  "models": [
+   "character-ai"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "character-ai-teen-safety-dec-2024",
+  "type": "post",
+  "url": "https://blog.character.ai/how-character-ai-prioritizes-teen-safety/",
+  "title": "Character.AI: How We Prioritize Teen Safety (Dec 2024)",
+  "models": [
+   "character-ai"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "character-ai-u18-chat-announcement",
+  "type": "post",
+  "url": "https://blog.character.ai/u18-chat-announcement/",
+  "title": "Character.AI: Under-18 Chat Announcement (Oct 2025)",
+  "models": [
+   "character-ai"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "character-ai-inside-kaiju",
+  "type": "post",
+  "url": "https://blog.character.ai/inside-kaiju-building-conversational-models-at-scale/",
+  "title": "Character.AI: Inside Kaiju",
+  "models": [
+   "character-ai"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "garcia-v-character-order-motion-to-dismiss",
+  "type": "pdf",
+  "url": "https://www.fire.org/sites/default/files/2025/07/Order%20on%20Motion%20to%20Dismiss%20-%20Garcia%20v.%20Character%20Technologies%20Inc.pdf",
+  "title": "Garcia v. Character Technologies: Order on Motion to Dismiss (May 2025)",
+  "models": [
+   "character-ai"
+  ],
+  "tags": [
+   "primary",
+   "legal"
+  ]
  }
 ]

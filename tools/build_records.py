@@ -155,6 +155,7 @@ DOSSIER_MAP = {
     '_dossiers/claude-instant.md': ['claude-instant'],
     '_dossiers/claude-1.md': ['claude-1'],
     '_dossiers/gpt-2.md': ['gpt-2'],
+    '_dossiers/character-ai.md': ['character-ai'],
 }
 
 def dossier_extras():

@@ -2034,5 +2034,96 @@
   "bytes": 413733,
   "sha256": "95dcbe780e559090",
   "fetched": "2026-07-18"
+ },
+ "zvi-ai-87-staying-in-character": {
+  "file": "posts/zvi-ai-87-staying-in-character.md",
+  "type": "post",
+  "title": "Zvi AI #87: Staying in Character",
+  "source": "https://thezvi.substack.com/p/ai-87-staying-in-character",
+  "models": [
+   "character-ai"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 73436,
+  "sha256": "7465b4e1acc06a8e",
+  "fetched": "2026-07-18"
+ },
+ "character-ai-community-safety-updates": {
+  "file": "posts/character-ai-community-safety-updates.md",
+  "type": "post",
+  "title": "Character.AI: Community Safety Updates (Oct 2024)",
+  "source": "https://blog.character.ai/community-safety-updates/",
+  "models": [
+   "character-ai"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 3504,
+  "sha256": "01df82db94afcd59",
+  "fetched": "2026-07-18"
+ },
+ "character-ai-teen-safety-dec-2024": {
+  "file": "posts/character-ai-teen-safety-dec-2024.md",
+  "type": "post",
+  "title": "Character.AI: How We Prioritize Teen Safety (Dec 2024)",
+  "source": "https://blog.character.ai/how-character-ai-prioritizes-teen-safety/",
+  "models": [
+   "character-ai"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 6035,
+  "sha256": "3dfe759d891054f1",
+  "fetched": "2026-07-18"
+ },
+ "character-ai-u18-chat-announcement": {
+  "file": "posts/character-ai-u18-chat-announcement.md",
+  "type": "post",
+  "title": "Character.AI: Under-18 Chat Announcement (Oct 2025)",
+  "source": "https://blog.character.ai/u18-chat-announcement/",
+  "models": [
+   "character-ai"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 5276,
+  "sha256": "6c5342499e8c7ac1",
+  "fetched": "2026-07-18"
+ },
+ "character-ai-inside-kaiju": {
+  "file": "posts/character-ai-inside-kaiju.md",
+  "type": "post",
+  "title": "Character.AI: Inside Kaiju",
+  "source": "https://blog.character.ai/inside-kaiju-building-conversational-models-at-scale/",
+  "models": [
+   "character-ai"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 9946,
+  "sha256": "bfcb2e445b25884e",
+  "fetched": "2026-07-18"
+ },
+ "garcia-v-character-order-motion-to-dismiss": {
+  "file": "papers/garcia-v-character-order-motion-to-dismiss.pdf",
+  "type": "pdf",
+  "title": "Garcia v. Character Technologies: Order on Motion to Dismiss (May 2025)",
+  "source": "https://www.fire.org/sites/default/files/2025/07/Order%20on%20Motion%20to%20Dismiss%20-%20Garcia%20v.%20Character%20Technologies%20Inc.pdf",
+  "models": [
+   "character-ai"
+  ],
+  "tags": [
+   "primary",
+   "legal"
+  ],
+  "bytes": 329345,
+  "sha256": "40cbb8d78e61ddf8",
+  "fetched": "2026-07-18"
  }
 }
