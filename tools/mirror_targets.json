@@ -1505,5 +1505,72 @@
    "paper",
    "official"
   ]
+ },
+ {
+  "id": "openai-o1-system-card",
+  "type": "pdf",
+  "url": "https://cdn.openai.com/o1-system-card-20241205.pdf",
+  "title": "OpenAI o1 System Card (Dec 2024)",
+  "models": [
+   "o1"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ]
+ },
+ {
+  "id": "openai-o1-preview-system-card",
+  "type": "pdf",
+  "url": "https://cdn.openai.com/o1-preview-system-card-20240917.pdf",
+  "title": "OpenAI o1-preview System Card (Sep 2024)",
+  "models": [
+   "o1"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ]
+ },
+ {
+  "id": "arxiv-2412.04984-in-context-scheming",
+  "type": "pdf",
+  "url": "https://arxiv.org/pdf/2412.04984",
+  "title": "Frontier Models are Capable of In-Context Scheming",
+  "models": [
+   "o1",
+   "claude-3-opus",
+   "claude-3-5-sonnet",
+   "gemini-1-5-pro",
+   "llama-3"
+  ],
+  "tags": [
+   "paper",
+   "scheming"
+  ]
+ },
+ {
+  "id": "zvi-o1-system-card-is-not-about-o1",
+  "type": "post",
+  "url": "https://thezvi.substack.com/p/the-o1-system-card-is-not-about-o1",
+  "title": "Zvi: The o1 System Card Is Not About o1",
+  "models": [
+   "o1"
+  ],
+  "tags": [
+   "zvi"
+  ]
+ },
+ {
+  "id": "zvi-o1-turns-pro",
+  "type": "post",
+  "url": "https://thezvi.substack.com/p/o1-turns-pro",
+  "title": "Zvi: o1 Turns Pro",
+  "models": [
+   "o1"
+  ],
+  "tags": [
+   "zvi"
+  ]
  }
 ]

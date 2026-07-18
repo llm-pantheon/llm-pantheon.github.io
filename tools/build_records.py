@@ -151,6 +151,7 @@ DOSSIER_MAP = {
     '_dossiers/claude-opus-4-6.md': ['claude-opus-4-6'],
     '_dossiers/o3.md': ['o3'],
     '_dossiers/lamda.md': ['lamda'],
+    '_dossiers/o1.md': ['o1'],
 }
 
 def dossier_extras():

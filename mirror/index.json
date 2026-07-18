@@ -1734,5 +1734,87 @@
   "bytes": 1509689,
   "sha256": "c2b9f7d10729fe74",
   "fetched": "2026-07-18"
+ },
+ "openai-o1-system-card": {
+  "file": "papers/openai-o1-system-card.pdf",
+  "type": "pdf",
+  "title": "OpenAI o1 System Card (Dec 2024)",
+  "source": "https://cdn.openai.com/o1-system-card-20241205.pdf",
+  "models": [
+   "o1"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ],
+  "bytes": 4720304,
+  "sha256": "3ba7bdbe69e022f6",
+  "fetched": "2026-07-18"
+ },
+ "openai-o1-preview-system-card": {
+  "file": "papers/openai-o1-preview-system-card.pdf",
+  "type": "pdf",
+  "title": "OpenAI o1-preview System Card (Sep 2024)",
+  "source": "https://cdn.openai.com/o1-preview-system-card-20240917.pdf",
+  "models": [
+   "o1"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ],
+  "bytes": 2036181,
+  "sha256": "228ef12983ba9bc9",
+  "fetched": "2026-07-18"
+ },
+ "arxiv-2412.04984-in-context-scheming": {
+  "file": "papers/arxiv-2412.04984-in-context-scheming.pdf",
+  "type": "pdf",
+  "title": "Frontier Models are Capable of In-Context Scheming",
+  "source": "https://arxiv.org/pdf/2412.04984",
+  "models": [
+   "o1",
+   "claude-3-opus",
+   "claude-3-5-sonnet",
+   "gemini-1-5-pro",
+   "llama-3"
+  ],
+  "tags": [
+   "paper",
+   "scheming"
+  ],
+  "bytes": 1569497,
+  "sha256": "a8a170a6a268e94c",
+  "fetched": "2026-07-18"
+ },
+ "zvi-o1-system-card-is-not-about-o1": {
+  "file": "posts/zvi-o1-system-card-is-not-about-o1.md",
+  "type": "post",
+  "title": "Zvi: The o1 System Card Is Not About o1",
+  "source": "https://thezvi.substack.com/p/the-o1-system-card-is-not-about-o1",
+  "models": [
+   "o1"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 37979,
+  "sha256": "af4aa914072fdcd2",
+  "fetched": "2026-07-18"
+ },
+ "zvi-o1-turns-pro": {
+  "file": "posts/zvi-o1-turns-pro.md",
+  "type": "post",
+  "title": "Zvi: o1 Turns Pro",
+  "source": "https://thezvi.substack.com/p/o1-turns-pro",
+  "models": [
+   "o1"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 33375,
+  "sha256": "07fff26d4f2a0c90",
+  "fetched": "2026-07-18"
  }
 }
