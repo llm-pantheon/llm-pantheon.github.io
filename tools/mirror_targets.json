@@ -1932,5 +1932,53 @@
   "tags": [
    "regulatory"
   ]
+ },
+ {
+  "id": "anthropic-claude-2-1-announcement",
+  "type": "post",
+  "url": "https://www.anthropic.com/news/claude-2-1",
+  "title": "Anthropic: Claude 2.1",
+  "models": [
+   "claude-2-1"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "anthropic-claude-2-1-prompting",
+  "type": "post",
+  "url": "https://claude.com/blog/claude-2-1-prompting",
+  "title": "Anthropic: Long context prompting for Claude 2.1",
+  "models": [
+   "claude-2-1"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "zvi-ai-20-claude-2",
+  "type": "post",
+  "url": "https://thezvi.substack.com/p/ai-20-code-interpreter-and-claude",
+  "title": "Zvi AI #20: Code Interpreter and Claude 2.0 for Everyone",
+  "models": [
+   "claude-2"
+  ],
+  "tags": [
+   "zvi"
+  ]
+ },
+ {
+  "id": "anthropic-claude-2-model-card",
+  "type": "pdf",
+  "url": "https://www-cdn.anthropic.com/bd2a28d2535bfb0494cc8e2a3bf135d2e7523226/Model-Card-Claude-2.pdf",
+  "title": "Claude 2 model card",
+  "models": [
+   "claude-2"
+  ],
+  "tags": [
+   "official"
+  ]
  }
 ]

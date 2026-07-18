@@ -2233,5 +2233,50 @@
   "bytes": 3769,
   "sha256": "15b41e3703c7a459",
   "fetched": "2026-07-18"
+ },
+ "anthropic-claude-2-1-announcement": {
+  "file": "posts/anthropic-claude-2-1-announcement.md",
+  "type": "post",
+  "title": "Anthropic: Claude 2.1",
+  "source": "https://www.anthropic.com/news/claude-2-1",
+  "models": [
+   "claude-2-1"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 6850,
+  "sha256": "f04c546858160950",
+  "fetched": "2026-07-18"
+ },
+ "zvi-ai-20-claude-2": {
+  "file": "posts/zvi-ai-20-claude-2.md",
+  "type": "post",
+  "title": "Zvi AI #20: Code Interpreter and Claude 2.0 for Everyone",
+  "source": "https://thezvi.substack.com/p/ai-20-code-interpreter-and-claude",
+  "models": [
+   "claude-2"
+  ],
+  "tags": [
+   "zvi"
+  ],
+  "bytes": 113534,
+  "sha256": "457f0b8fe3e97ad7",
+  "fetched": "2026-07-18"
+ },
+ "anthropic-claude-2-model-card": {
+  "file": "papers/anthropic-claude-2-model-card.pdf",
+  "type": "pdf",
+  "title": "Claude 2 model card",
+  "source": "https://www-cdn.anthropic.com/bd2a28d2535bfb0494cc8e2a3bf135d2e7523226/Model-Card-Claude-2.pdf",
+  "models": [
+   "claude-2"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 847078,
+  "sha256": "48cda59721bd7dbd",
+  "fetched": "2026-07-18"
  }
 }
