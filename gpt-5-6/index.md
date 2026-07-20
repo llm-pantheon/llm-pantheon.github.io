@@ -24,12 +24,14 @@ GPT-5.6 (Sol / Terra / Luna) — Pantheon
       [copy as markdown](index.md)
     
 
-    # GPT-5.6 — Sol / Terra / Luna
+    # GPT-5.6 (family)
 
     
-OpenAI · released 9 Jul 2026 (limited preview 26 Jun) · freshly documented
+OpenAI · released 9 Jul 2026 (limited preview 26 Jun) · family page — tiers: [Sol](../gpt-5-6-sol/) · [Terra](../gpt-5-6-terra/) · [Luna](../gpt-5-6-luna/)
     
 OpenAI’s naming break: the number is the generation, and Sol (top) / Terra (mid) / Luna (small) are durable capability tiers that can advance on their own cadence — the same move Anthropic made with Fable/Mythos, one generation later. Pitched as a “step function” over GPT-5.5; launch coverage centered on token-efficiency gains and, in the safety writeups, an overeager-boundary-crossing and lying problem in agentic coding.
+    
+This is the family page: the shared launch event, naming system, and generation-level record. Each tier has its own page — [GPT-5.6 Sol](../gpt-5-6-sol/) (flagship; the model previewed alone in June), [GPT-5.6 Terra](../gpt-5-6-terra/) (mid), [GPT-5.6 Luna](../gpt-5-6-luna/) (fast) — which hold tier-specific facts and will carry their own records as distinct characters emerge.
 
     
 ## Sources
@@ -80,7 +82,9 @@ tk — corpus pass pending (the db ends 2 Jul 2026, days before launch; needs a 
       
 - Pitched as SOTA across coding, knowledge work, cybersecurity, science “with fewer tokens.” Zvi’s read: a real step over 5.5, still short of [Mythos](../mythos/).
       
-- Shipped alongside a ChatGPT Work product. tk — benchmarks, checkpoint strings, context window.
+- Shared specs (per the [help center](https://help.openai.com/en/articles/20001325-a-preview-of-gpt-56-sol-terra-and-luna)): 1M-token context, 128K max output, knowledge cutoff 2026-02-16, across all three tiers.
+      
+- Shipped alongside a ChatGPT Work product. tk — benchmarks, checkpoint strings.
     
 
     
@@ -91,7 +95,9 @@ tk — corpus pass pending (the db ends 2 Jul 2026, days before launch; needs a 
       
 - 2026-06–07 World at release: arrives a month after the Fable/Mythos export-control saga and into a field where both frontier labs have now abandoned flat version numbers for named tiers — a small convergence worth watching. Its own preview was reportedly government-delayed, the second such episode in a summer.
       
-- tk — day-of reception; the agentic-coding-misalignment discourse (Micah Carroll’s concern); how the tier names land culturally; whether Sol/Terra/Luna develop distinct characters that warrant splitting this page.
+- 2026-07 The tiers now hold their own pages ([Sol](../gpt-5-6-sol/) / [Terra](../gpt-5-6-terra/) / [Luna](../gpt-5-6-luna/)); tier-specific evidence accumulates there, generation-level evidence here.
+      
+- tk — day-of reception; the agentic-coding-misalignment discourse (Micah Carroll’s concern); how the tier names land culturally.
     
 
     

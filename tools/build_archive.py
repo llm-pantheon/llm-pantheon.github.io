@@ -555,6 +555,7 @@ Every HTML page has a markdown twin at <page>/index.md. The full-site dump is /e
 The archive layer (/archive/) has one permanent page per artifact (tweets with full text,
 images, transcriptions; mirrored papers/posts), tagged booru-style.
 
+- /agents.md : the agent guide — URL grammar, JSON surfaces, search patterns, evidence conventions
 - /everything.md : full-site dump (pages, dossiers, records)
 - /archive/index.json : all artifacts (id, date, author, favs, tags, snippet)
 - /archive/tags.json : all tags with counts

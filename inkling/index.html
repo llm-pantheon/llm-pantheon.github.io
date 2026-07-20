@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inkling — Pantheon</title>
+  <link rel="stylesheet" href="../style.css">
+
+  <!-- chrome:meta -->
+  <meta name="description" content="Thinking Machines Lab’s first broadly released model, out 15 July 2026 as open weights: a 975B-parameter mixture-of-experts (41B active) reasoning natively over text, images, and audio, with a “thinking effort” dial …">
+  <meta property="og:site_name" content="Pantheon">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Inkling — Pantheon">
+  <meta property="og:description" content="Thinking Machines Lab’s first broadly released model, out 15 July 2026 as open weights: a 975B-parameter mixture-of-experts (41B active) reasoning natively over text, images, and audio, with a “thinking effort” dial …">
+  <meta property="og:url" content="https://llm-pantheon.org/inkling/">
+  <meta property="og:image" content="https://llm-pantheon.org/media/og/inkling.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <script src="../site.js" defer></script>
+  <!-- /chrome:meta -->
+</head>
+<body>
+  <main class="essay">
+    <nav>
+      <a href="../">&larr; Pantheon</a>
+      <a class="mdnav" href="index.md">copy as markdown</a>
+    </nav>
+
+    <h1>Inkling</h1>
+    <p class="essay-meta">Thinking Machines Lab &middot; open weights released 15 Jul 2026 &middot; current</p>
+    <p class="blurb">Thinking Machines Lab&rsquo;s first broadly released model, out 15 July 2026 as open weights: a 975B-parameter mixture-of-experts (41B active) reasoning natively over text, images, and audio, with a &ldquo;thinking effort&rdquo; dial exposed to the user. The lab &mdash; founded by former OpenAI CTO Mira Murati &mdash; had shipped only the Tinker fine-tuning API (Oct 2025) before this.</p>
+    <p class="note">This page was created 19 Jul 2026, four days into the model&rsquo;s public life &mdash; visibly incomplete by design. The local corpus ends before its release, so the tweet layer awaits a fresh pull; reception below is day-of press only. A dossier pass is pending.</p>
+
+    <h2>Sources</h2>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2026-07-15</span> <a href="https://thinkingmachines.ai/news/introducing-inkling/">Inkling: Our open-weights model</a> &mdash; the release announcement.</li>
+      <li><span class="d">2026-07-15</span> <a href="https://thinkingmachines.ai/model-card/inkling/">Inkling model card</a> &mdash; sizes, training mix, the effort dial, and the lab&rsquo;s own capability positioning.</li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <ul>
+      <li><span class="d">2026-07-15</span> <a href="https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/">TechCrunch</a> &mdash; frames the release as the lab&rsquo;s &ldquo;bet against one-size-fits-all AI.&rdquo;</li>
+      <li><span class="d">2026-07-15</span> <a href="https://venturebeat.com/technology/thinking-machines-open-sources-first-multimodal-language-model-inkling-focused-on-low-cost-and-resistance-to-censorship">VentureBeat</a> &mdash; claims the release is &ldquo;focused on low cost and &lsquo;resistance to censorship.&rsquo;&rdquo;</li>
+      <li><span class="d">2026-07-15</span> <a href="https://www.bloomberg.com/news/articles/2026-07-15/murati-s-thinking-machines-releases-first-ai-model-for-broad-use">Bloomberg</a> &mdash; &ldquo;first AI model for broad use&rdquo; framing; the lab-history angle.</li>
+      <li><span class="d">2026-07-16</span> <a href="https://simonwillison.net/2026/Jul/16/inkling/">Simon Willison</a> &mdash; day-after technical read.</li>
+    </ul>
+    <h3>Tweets</h3>
+    <p class="tk">tk &mdash; corpus pass pending; the local dbs end before this model existed. Records will populate when tweets are cited.</p>
+
+    <h2>Official record</h2>
+    <ul>
+      <li>Released <strong>15 July 2026</strong> as open weights (downloadable via Hugging Face). The lab&rsquo;s first released model; its first product was the Tinker fine-tuning API (Oct 2025).</li>
+      <li><strong>Architecture as published:</strong> 975B-parameter mixture-of-experts, ~41B active per token; 1M-token context window; trained on ~45T tokens spanning text, image, audio, and video; reasons natively over text, images, and audio.</li>
+      <li><strong>The effort dial:</strong> a user-set &ldquo;thinking effort&rdquo; parameter (0.2&ndash;0.99) trading answer quality against token cost &mdash; exposed as a first-class control rather than a hidden router.</li>
+      <li><strong>Inkling-Small</strong> previewed alongside: 276B parameters, ~12B active, similar training recipe; launch materials state it matches or beats the flagship on several benchmarks at far lower cost.</li>
+      <li><strong>The lab&rsquo;s own positioning:</strong> launch materials are candid that Inkling is <span class="q">&ldquo;not the strongest overall model available today, open or closed&rdquo;</span> &mdash; the pitch is token-efficiency and the best open-weights showing from a US lab, per day-of coverage. <span class="tag">REPORTED</span></li>
+      <li><span class="tk">tk &mdash; license terms, exact benchmark table, checkpoint naming, API/serving story.</span></li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2026-07-15</span> <strong>World at release:</strong> lands six days after OpenAI&rsquo;s <a href="../gpt-5-6/">GPT-5.6 family</a> launch and into an open-weights field led from China (<a href="../kimi-k2/">Kimi K2</a> lineage, <a href="../deepseek-v3/">DeepSeek</a>, <a href="../qwen-3-5/">Qwen</a>) &mdash; day-of coverage read it against exactly that field. The founding team&rsquo;s OpenAI provenance (Murati, ex-CTO) carried much of the framing.</li>
+      <li><span class="tk">tk &mdash; day-of reception beyond press; first independent evals; whether &ldquo;resistance to censorship&rdquo; (VentureBeat&rsquo;s phrase) is the lab&rsquo;s language or the reporter&rsquo;s; naturalist reads as they emerge.</span></li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <p class="tk">tk &mdash; too fresh; no attributed character reads yet. The corpus pass and first-weeks discourse will fill this. Nothing is asserted in the meantime.</p>
+
+    <!-- records:start -->
+    <!-- records:end -->
+    <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
+  </main>
+</body>
+</html>

@@ -2278,5 +2278,68 @@
   "bytes": 847078,
   "sha256": "48cda59721bd7dbd",
   "fetched": "2026-07-18"
+ },
+ "tml-introducing-inkling": {
+  "file": "posts/tml-introducing-inkling.md",
+  "type": "post",
+  "title": "Thinking Machines: Introducing Inkling",
+  "source": "https://thinkingmachines.ai/news/introducing-inkling/",
+  "models": [
+   "inkling"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 39598,
+  "sha256": "f3cd27cf4bce8010",
+  "fetched": "2026-07-20"
+ },
+ "tml-inkling-model-card": {
+  "file": "posts/tml-inkling-model-card.md",
+  "type": "post",
+  "title": "Inkling Model Card",
+  "source": "https://thinkingmachines.ai/model-card/inkling/",
+  "models": [
+   "inkling"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 11216,
+  "sha256": "a0c23a03134e5f0d",
+  "fetched": "2026-07-20"
+ },
+ "willison-inkling": {
+  "file": "posts/willison-inkling.md",
+  "type": "post",
+  "title": "Simon Willison on Inkling",
+  "source": "https://simonwillison.net/2026/Jul/16/inkling/",
+  "models": [
+   "inkling"
+  ],
+  "tags": [
+   "commentary"
+  ],
+  "bytes": 6819,
+  "sha256": "6778feba0250c71c",
+  "fetched": "2026-07-20"
+ },
+ "willison-gpt-5-6": {
+  "file": "posts/willison-gpt-5-6.md",
+  "type": "post",
+  "title": "Simon Willison: The new GPT-5.6 family",
+  "source": "https://simonwillison.net/2026/Jul/9/gpt-5-6/",
+  "models": [
+   "gpt-5-6",
+   "gpt-5-6-sol",
+   "gpt-5-6-terra",
+   "gpt-5-6-luna"
+  ],
+  "tags": [
+   "commentary"
+  ],
+  "bytes": 7646,
+  "sha256": "15cd04e2cb0e6128",
+  "fetched": "2026-07-20"
  }
 }

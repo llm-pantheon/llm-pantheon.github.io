@@ -1980,5 +1980,99 @@
   "tags": [
    "official"
   ]
+ },
+ {
+  "id": "tml-introducing-inkling",
+  "type": "post",
+  "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+  "title": "Thinking Machines: Introducing Inkling",
+  "models": [
+   "inkling"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "tml-inkling-model-card",
+  "type": "post",
+  "url": "https://thinkingmachines.ai/model-card/inkling/",
+  "title": "Inkling Model Card",
+  "models": [
+   "inkling"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "willison-inkling",
+  "type": "post",
+  "url": "https://simonwillison.net/2026/Jul/16/inkling/",
+  "title": "Simon Willison on Inkling",
+  "models": [
+   "inkling"
+  ],
+  "tags": [
+   "commentary"
+  ]
+ },
+ {
+  "id": "openai-gpt-5-6-launch",
+  "type": "post",
+  "url": "https://openai.com/index/gpt-5-6/",
+  "title": "OpenAI: GPT-5.6 launch",
+  "models": [
+   "gpt-5-6",
+   "gpt-5-6-sol",
+   "gpt-5-6-terra",
+   "gpt-5-6-luna"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "openai-previewing-gpt-5-6-sol",
+  "type": "post",
+  "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+  "title": "OpenAI: Previewing GPT-5.6 Sol",
+  "models": [
+   "gpt-5-6-sol",
+   "gpt-5-6"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "openai-gpt-5-6-help-center",
+  "type": "post",
+  "url": "https://help.openai.com/en/articles/20001325-a-preview-of-gpt-56-sol-terra-and-luna",
+  "title": "OpenAI Help Center: GPT-5.6 Sol, Terra, Luna",
+  "models": [
+   "gpt-5-6",
+   "gpt-5-6-sol",
+   "gpt-5-6-terra",
+   "gpt-5-6-luna"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "willison-gpt-5-6",
+  "type": "post",
+  "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/",
+  "title": "Simon Willison: The new GPT-5.6 family",
+  "models": [
+   "gpt-5-6",
+   "gpt-5-6-sol",
+   "gpt-5-6-terra",
+   "gpt-5-6-luna"
+  ],
+  "tags": [
+   "commentary"
+  ]
  }
 ]
