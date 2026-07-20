@@ -24,6 +24,8 @@ Static site, no build step (except the manual generators, output committed). Gen
 ## Rules of the roster
 
 - Different version number = different model (own page). Checkpoints of one version = subpages/notes on that page.
+- **Named tiers/sizes are different models too** (2026-07-19): GPT-5.6 Sol/Terra/Luna, gpt-oss-120b/20b each get their own page. **No family/umbrella pages** — shared launch context is copied onto each tier page (the tier that was public first/longest carries the generation-level record); a dissolved umbrella URL keeps a one-paragraph pointer stub (never roster-listed) so inbound links don't rot.
+- **Ghosts** (announced/named, never shipped, trail cold — e.g. Claude 3.5 Opus, Llama 4 Behemoth) live in the roster's Ghosts section, not their labs' lists; `ghost-models/` states the criterion. In-training/pending models are not ghosts yet.
 - Notable-traits filter: models with character, incidents, or discourse — not every LLM ever. The "Deliberately out" list on the index is the explicit boundary.
 
 ## Data (local, NOT in this repo)
