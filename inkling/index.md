@@ -91,7 +91,7 @@ tk — corpus pass pending; the local dbs end before this model existed. Records
     
 
       
-- 2026-07-15 World at release: lands six days after OpenAI’s [GPT-5.6 family](../gpt-5-6/) launch and into an open-weights field led from China ([Kimi K2](../kimi-k2/) lineage, [DeepSeek](../deepseek-v3/), [Qwen](../qwen-3-5/)) — day-of coverage read it against exactly that field. The founding team’s OpenAI provenance (Murati, ex-CTO) carried much of the framing.
+- 2026-07-15 World at release: lands six days after OpenAI’s [GPT-5.6 generation](../gpt-5-6-sol/) launch and into an open-weights field led from China ([Kimi K2](../kimi-k2/) lineage, [DeepSeek](../deepseek-v3/), [Qwen](../qwen-3-5/)) — day-of coverage read it against exactly that field. The founding team’s OpenAI provenance (Murati, ex-CTO) carried much of the framing.
       
 - tk — day-of reception beyond press; first independent evals; whether “resistance to censorship” (VentureBeat’s phrase) is the lab’s language or the reporter’s; naturalist reads as they emerge.
     

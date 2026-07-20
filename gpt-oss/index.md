@@ -1,22 +1,6 @@
-gpt-oss (120b / 20b) — Pantheon
+gpt-oss — Pantheon
   
 - 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
 
   
     
@@ -24,56 +8,11 @@ gpt-oss (120b / 20b) — Pantheon
       [copy as markdown](index.md)
     
 
-    # gpt-oss (120b / 20b)
+    # gpt-oss
 
     
-OpenAI · Aug 2025
+OpenAI · Aug 2025 · a release name for two models — this URL points onward
     
-First OpenAI open weights since GPT-2: Apache 2.0 MoE reasoners sized for a single 80GB GPU and a laptop respectively.
-
-    
-## Sources
-
-    
-### Official
-
-    
-
-      
-- 2025-08 [Introducing gpt-oss](https://openai.com/index/introducing-gpt-oss/) — announcement.
-    
-    
-### Writing & commentary
-
-    
-tk — to collect
-    
-### Tweets
-
-    
-tk — fleet pass pending; mirror to archive
-
-    
-## Official record
-
-    
-
-      
-- gpt-oss-120b: ~117B total / 5.1B active, o4-mini-class; gpt-oss-20b: o3-mini-class, runs in 16GB.
-      
-- tk — fill from primary sources
-    
-
-    
-## History
-
-    
-tk — context of the world at release; events and entanglements
-
-    
-## Impressions
-
-    
-tk — day-of and longitudinal vibes to collect
+gpt-oss was the release, not the model: OpenAI shipped two open-weight models under the name on 5 August 2025, and each has its own page — [gpt-oss-120b](../gpt-oss-120b/) (~117B MoE, o4-mini-class, 80GB-GPU tier) and [gpt-oss-20b](../gpt-oss-20b/) (~21B MoE, o3-mini-class, 16GB tier).
     
 [← back to the Pantheon](../)

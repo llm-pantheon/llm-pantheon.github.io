@@ -65,7 +65,7 @@ Candidates are added here only when the absence itself is documented — an anno
       
 - Non-arrivals move the field: expectations get priced in, competitors position against phantoms, communities grieve models they never met. The evidence standard is the same as everywhere on this site — dated, verbatim, sourced — it just documents anticipation instead of encounter.
       
-- Ghost pages stay in their labs’ roster sections (a ghost is still a Claude, still a Llama); this page is the cross-cut that names the category.
+- On the roster, ghosts live in their own section rather than among their labs’ shipped models — the roster tracks what arrived; this page holds what didn’t. A ghost’s own page still names its lab.
     
 
     
