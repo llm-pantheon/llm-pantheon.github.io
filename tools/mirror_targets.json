@@ -678,7 +678,8 @@
   "title": "Claude 4 You: The Quest for Mundane Utility",
   "author": "Zvi Mowshowitz",
   "models": [
-   "claude-opus-4"
+   "claude-opus-4",
+   "claude-sonnet-4"
   ],
   "tags": [
    "zvi"
@@ -691,7 +692,8 @@
   "title": "Claude 4 You: Safety and Alignment",
   "author": "Zvi Mowshowitz",
   "models": [
-   "claude-opus-4"
+   "claude-opus-4",
+   "claude-sonnet-4"
   ],
   "tags": [
    "zvi"
