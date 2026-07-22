@@ -13,10 +13,39 @@ presentation, never a gate; nothing in the cluster goes unrecorded.
 
 Usage:
   python tools/corpus_dump.py claude-sonnet-4-5 "sonnet 4.5,sonnet-4.5,sonnet 4-5,claude-sonnet-4-5,sonnet4.5"
+  python tools/corpus_dump.py claude-sonnet-4-5 --name "Claude Sonnet 4.5"           # auto-variants
+  python tools/corpus_dump.py claude-sonnet-4-5 --name "Claude Sonnet 4.5" --extra "clinst,snolly"
+
+--name generates the mechanical variant set (orderings, joiners, number forms);
+--extra appends nicknames/motif terms no name can derive (add them as the motif
+scan or triage surfaces them, and regenerate). The chosen set is printed and
+recorded in the pull header — patterns are data, not agent improvisation.
 
 Rerun any time; output is deterministic for a given db state.
 """
 import os, re, sys, sqlite3
+
+def name_variants(name):
+    """Mechanical pattern set from a model name. 'Claude Sonnet 4.5' ->
+    full/short orderings x joiner forms x number forms; slug form included."""
+    words = name.lower().split()
+    brand = words[0] if len(words) > 2 else None
+    core = words[1:] if brand else words
+    num = next((w for w in core if re.search(r'\d', w)), None)
+    base = [w for w in core if w != num]
+    orders = []
+    if num and base:
+        orders += [' '.join(base + [num]), ' '.join([num] + base)]
+    orders.append(' '.join(core))
+    if brand:
+        orders.append(' '.join([brand] + core))
+    out = []
+    for o in dict.fromkeys(orders):
+        for form in {o, o.replace('.', '-'), o.replace('.', '')}:
+            for joined in {form, form.replace(' ', '-'), form.replace(' ', '')}:
+                if len(joined) > 2:
+                    out.append(joined)
+    return list(dict.fromkeys(out))
 
 sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -46,7 +75,16 @@ def main():
     if len(sys.argv) < 3:
         print(__doc__); return
     slug = sys.argv[1]
-    pats = [p.strip().lower() for p in sys.argv[2].split(',') if p.strip()]
+    if '--name' in sys.argv:
+        pats = name_variants(sys.argv[sys.argv.index('--name') + 1])
+        if '--extra' in sys.argv:
+            pats += [p.strip().lower() for p in sys.argv[sys.argv.index('--extra') + 1].split(',') if p.strip()]
+        print('patterns:', ', '.join(pats))
+    else:
+        pats = [p.strip().lower() for p in sys.argv[2].split(',') if p.strip()]
+    # a shorter pattern LIKE-matches a superset of a longer one containing it —
+    # drop the redundant longer forms, keep the short generators
+    pats = [p for p in pats if not any(q != p and q in p for q in pats)] or pats
 
     main_con = sqlite3.connect(MAIN)
     supp_con = sqlite3.connect(SUPP)
