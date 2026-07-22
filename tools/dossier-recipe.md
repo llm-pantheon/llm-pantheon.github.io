@@ -6,6 +6,18 @@ script work, never agent work. Steps, in order:
 1. **Corpus pull.** Query both dbs (`janus-corpus-v2.db`, `janus-corpus-supplement.db`)
    with the model's name-variants. Rank by favorites × length × concreteness; exclude RTs;
    dedupe threads; join `media` + `media_supp` + `media_transcriptions` for screenshot payloads.
+1b. **Motif scan (mandatory — the Princess lesson, 2026-07-21).** Run
+   `python tools/motif_scan.py "<your name-variants>"` and chase every term that looks like
+   a name, running bit, or recurring image — regardless of per-tweet favorites. The
+   favorites×length ranking is structurally blind to *distributed motifs* (a nickname
+   spread across many short, low-fav, image-caption posts), which is precisely where
+   character evidence lives; Sonnet 4.5's "Princess"/"egg" arc was found-then-dropped
+   this way. Three rules: (a) recurring-motif tweets are EXEMPT from the favorites
+   ranking — a ♥2 reply naming a theme beats a ♥300 one-off; (b) clusters of
+   untranscribed image-tweets sharing caption terms get flagged for a transcription
+   pass, never dropped for thin captions; (c) the purest motif tweets often carry no
+   model name at all — once a motif is confirmed, sweep the motif-term itself corpus-wide
+   and attribute via thread context.
 2. **Cross-house grep.** Search the *existing* dossiers, pages, and `_statements/` for this
    model's name — multi-model evidence already collected elsewhere belongs here too
    (the r/K-whiteboard rule). Cheapest step, often highest yield.
