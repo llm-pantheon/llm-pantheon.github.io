@@ -3,9 +3,15 @@
 One agent per model (sonnet/opus-class; fable only for editorial judgment). Fetching is
 script work, never agent work. Steps, in order:
 
-1. **Corpus pull.** Query both dbs (`janus-corpus-v2.db`, `janus-corpus-supplement.db`)
-   with the model's name-variants. Rank by favorites × length × concreteness; exclude RTs;
-   dedupe threads; join `media` + `media_supp` + `media_transcriptions` for screenshot payloads.
+1. **Corpus pull — exhaustive, script-generated (2026-07-22).** Run
+   `python tools/corpus_dump.py <page-slug> "<name-variants>"` FIRST: it writes
+   `_dossiers/_pulls/<slug>.md` — every non-RT match, both dbs, chronological, verbatim
+   from the row. Reproduction is script work, never agent work (hand-copied quotes are
+   where trims/stitches come from). The dossier is then ANALYSIS over the pull: triage
+   (list excluded ids with reasons — exclusions stay visible), ranked highlights
+   (favorites × length × concreteness is presentation order, NEVER a drop-gate — nothing
+   in the pull is "not in the dossier"; the pull is part of the dossier), thread dedupe
+   notes, media/transcription flags. Commit the pull with the dossier.
 1b. **Motif scan (mandatory — the Princess lesson, 2026-07-21).** Run
    `python tools/motif_scan.py "<your name-variants>"` and chase every term that looks like
    a name, running bit, or recurring image — regardless of per-tweet favorites. The
