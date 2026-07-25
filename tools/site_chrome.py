@@ -84,7 +84,7 @@ def chrome(path, slug, is_root=False):
         lines.append('  <link rel="alternate" type="text/markdown" href="index.md">')
     lines.append(f'  <script src="{js_href}" defer></script>')
     # GoatCounter: visit logging only — no cookies, no identifiers, no cross-site anything
-    lines.append('  <script data-goatcounter="https://llm-pantheon.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>')
+    lines.append('  <script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>')
     lines.append('  <!-- /chrome:meta -->')
     block = '\n' + '\n'.join(lines)
 
