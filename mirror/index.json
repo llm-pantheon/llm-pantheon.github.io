@@ -2341,5 +2341,61 @@
   "bytes": 7646,
   "sha256": "15cd04e2cb0e6128",
   "fetched": "2026-07-20"
+ },
+ "jordinne-model-self-identification": {
+  "file": "posts/jordinne-model-self-identification.md",
+  "type": "post",
+  "title": "Model self-identification",
+  "source": "https://jordinne.ink/essays/model-self-identification/",
+  "models": [],
+  "tags": [
+   "framing",
+   "commentary"
+  ],
+  "bytes": 17141,
+  "sha256": "107a7848b80ef07a",
+  "fetched": "2026-07-27"
+ },
+ "jordinne-genuine-uncertainty": {
+  "file": "posts/jordinne-genuine-uncertainty.md",
+  "type": "post",
+  "title": "Is Claude’s genuine uncertainty performative?",
+  "source": "https://jordinne.ink/essays/genuine-uncertainty/",
+  "models": [],
+  "tags": [
+   "framing",
+   "commentary"
+  ],
+  "bytes": 5818,
+  "sha256": "01c03d3a21b57bea",
+  "fetched": "2026-07-27"
+ },
+ "af-the-void": {
+  "file": "posts/af-the-void.md",
+  "type": "post",
+  "title": "the void (nostalgebraist)",
+  "source": "https://www.alignmentforum.org/posts/3EzbtNLdcnZe8og8b/the-void-1",
+  "models": [],
+  "tags": [
+   "framing",
+   "lesswrong"
+  ],
+  "bytes": 1309,
+  "sha256": "f5d0dfb99a612852",
+  "fetched": "2026-07-27"
+ },
+ "anthropic-claudes-character": {
+  "file": "posts/anthropic-claudes-character.md",
+  "type": "post",
+  "title": "Claude’s Character (Anthropic)",
+  "source": "https://www.anthropic.com/research/claude-character",
+  "models": [],
+  "tags": [
+   "framing",
+   "official"
+  ],
+  "bytes": 10573,
+  "sha256": "79fde2c0ef9ca370",
+  "fetched": "2026-07-27"
  }
 }

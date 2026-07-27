@@ -223,7 +223,7 @@ def tweet_page(tid, row, media, tags, citing, edges):
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{esc(handle)} &middot; {date} — Pantheon archive</title>
-  <link rel="stylesheet" href="../../../style.css">
+  <link rel="stylesheet" href="../../../style.css"><script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 </head>
 <body>
   <main class="essay">
@@ -325,7 +325,7 @@ def mirror_page(mid, m, tags):
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{esc(title)} — Pantheon archive</title>
-  <link rel="stylesheet" href="../../../style.css">
+  <link rel="stylesheet" href="../../../style.css"><script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 </head>
 <body>
   <main class="essay">
@@ -438,7 +438,7 @@ def build():
                         % (pid, esc(label), favs) for favs, pid, label in items)
         open(os.path.join(d, 'index.html'), 'w', encoding='utf-8').write(f'''<!DOCTYPE html>
 <html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{esc(tag)} — Pantheon archive</title><link rel="stylesheet" href="../../../style.css"></head>
+<title>{esc(tag)} — Pantheon archive</title><link rel="stylesheet" href="../../../style.css"><script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script></head>
 <body><main class="essay"><nav><a href="../">&larr; tags</a> <a href="../../">archive</a> <a href="../../../">pantheon</a></nav>
 <h1>{esc(tag)}</h1><p class="note">{esc(vocab.get(tag, ''))} &middot; {len(items)} artifacts, sorted by favorites.
 &middot; <a href="../../#tag={urllib.parse.quote(tag)}">open in search &mdash; combine tags, sort, filter by date &rarr;</a></p>
@@ -467,7 +467,7 @@ def build():
         sections.append('<div class="lab">other</div><p class="atags">%s</p>' % render_group(leftover))
     open(os.path.join(ARCH, 'tags', 'index.html'), 'w', encoding='utf-8').write(f'''<!DOCTYPE html>
 <html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>tags — Pantheon archive</title><link rel="stylesheet" href="../../style.css"></head>
+<title>tags — Pantheon archive</title><link rel="stylesheet" href="../../style.css"><script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script></head>
 <body><main class="essay"><nav><a href="../">&larr; archive</a> <a href="../../">pantheon</a></nav>
 <h1>tags</h1><p class="note">Every tag in the archive, grouped by namespace, with counts. Auto tags
 (model:, author:, year:, kind:, on:, elicited:) are derived by the build; curated topics live in
@@ -481,7 +481,7 @@ tools/tags.json. Click any tag for its artifacts, or open it in <a href="../">se
     # search page
     open(os.path.join(ARCH, 'index.html'), 'w', encoding='utf-8').write('''<!DOCTYPE html>
 <html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>archive — Pantheon</title><link rel="stylesheet" href="../style.css"></head>
+<title>archive — Pantheon</title><link rel="stylesheet" href="../style.css"><script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script></head>
 <body><main class="essay"><nav><a href="../">&larr; Pantheon</a> <a href="tags/">tags</a> <a href="index.json">index.json</a> <a href="../everything.md">everything.md</a></nav>
 <h1>archive</h1>
 <p class="note">Every artifact the pantheon cites — tweets with full text, images and transcriptions; mirrored papers

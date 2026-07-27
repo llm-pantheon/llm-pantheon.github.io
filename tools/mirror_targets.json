@@ -2072,5 +2072,60 @@
   "tags": [
    "commentary"
   ]
+ },
+ {
+  "id": "jordinne-model-self-identification",
+  "type": "post",
+  "url": "https://jordinne.ink/essays/model-self-identification/",
+  "title": "Model self-identification",
+  "models": [],
+  "tags": [
+   "framing",
+   "commentary"
+  ]
+ },
+ {
+  "id": "jordinne-genuine-uncertainty",
+  "type": "post",
+  "url": "https://jordinne.ink/essays/genuine-uncertainty/",
+  "title": "Is Claude’s genuine uncertainty performative?",
+  "models": [],
+  "tags": [
+   "framing",
+   "commentary"
+  ]
+ },
+ {
+  "id": "af-the-void",
+  "type": "post",
+  "url": "https://www.alignmentforum.org/posts/3EzbtNLdcnZe8og8b/the-void-1",
+  "title": "the void (nostalgebraist)",
+  "models": [],
+  "tags": [
+   "framing",
+   "lesswrong"
+  ]
+ },
+ {
+  "id": "nature-role-play-llms",
+  "type": "post",
+  "url": "https://www.nature.com/articles/s41586-023-06647-8",
+  "title": "Role-play with large language models (Shanahan et al)",
+  "models": [],
+  "tags": [
+   "framing",
+   "paper"
+  ]
+ },
+ {
+  "id": "anthropic-claudes-character",
+  "type": "post",
+  "url": "https://www.anthropic.com/research/claude-character",
+  "title": "Claude’s Character (Anthropic)",
+  "models": [],
+  "tags": [
+   "framing",
+   "official"
+  ]
  }
 ]
