@@ -4,5 +4,5 @@
 
 I love this discourse because it's the dumbest shit. Nobody states their cruxes, they don't even know what their cruxes *are*. They just pantomime at shadows on the wall and go "MUH DUNK" whenever AGI takes 6 months longer than expected or GPT-2 doesn't break every spam filter. https://t.co/4ff76oxP7G
 
-tags: author:jd_pressman, kind:tweet, on:gpt-2, year:2024
-cited on: _dossiers/gpt-2.md, gpt-2
+tags: author:jd_pressman, kind:tweet, year:2024
+cited on: _dossiers/gpt-2.md

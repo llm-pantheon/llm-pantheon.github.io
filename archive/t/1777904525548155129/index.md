@@ -9,5 +9,5 @@
 
 Um guys
 
-tags: author:jd_pressman, kind:tweet, on:lamda, year:2024
-cited on: _dossiers/lamda.md, lamda
+tags: author:jd_pressman, kind:tweet, year:2024
+cited on: _dossiers/lamda.md

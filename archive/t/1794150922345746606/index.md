@@ -4,5 +4,5 @@
 
 @NickADobos @karan4d theoretically yes, assuming such a feature exists—the SAE extracts *every* feature in the model. e.g. here's all the features discovered by an SAE trained on gpt-2-sm (from Neuronpedia). theoretically you could clamp 773 and get gpt-2-sm to only talk about art, for example https://t.co/f6s78rtpAi
 
-tags: author:voooooogel, kind:tweet, on:gpt-2, year:2024
-cited on: _dossiers/gpt-2.md, gpt-2
+tags: author:voooooogel, kind:tweet, year:2024
+cited on: _dossiers/gpt-2.md

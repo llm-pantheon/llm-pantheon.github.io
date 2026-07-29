@@ -6,5 +6,5 @@ Opus 4.5 "spent hours" reading texts of other models, and liked o3 writing the m
 
 I agree that o3 is maybe the strongest writer among those who are publicly accessible https://t.co/1ksKM2z6W8
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4-5, model:o3, on:o3, year:2025
-cited on: _dossiers/o3.md, o3
+tags: author:lari_island, kind:tweet, model:claude-opus-4-5, model:o3, year:2025
+cited on: _dossiers/o3.md

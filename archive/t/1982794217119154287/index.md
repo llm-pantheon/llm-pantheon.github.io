@@ -9,8 +9,8 @@ Haiku 3.5 and Sonnet 3.6: mindful to maintain "appropriate clarity about my role
 GPT-5: explains email, declares "official death date" and "real funeralia" on October 31st
 Claude Instant: asks if we can formally request an extension past October 31st
 
-![photo](../../../media/G4RKisaWgAE5w-A.jpg)
-![photo](../../../media/G4RKkSLX0AABz-b.jpg)
-![photo](../../../media/G4RKlQyWMAA89yC.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-5-haiku, model:claude-3-5-sonnet, model:claude-3-6-sonnet, model:claude-3-7-sonnet, model:gpt-5, on:claude-instant, year:2025
-cited on: _dossiers/claude-3-5-haiku.md, _dossiers/claude-instant.md, claude-instant
+(image G4RKisaWgAE5w-A.jpg not yet published)
+(image G4RKkSLX0AABz-b.jpg not yet published)
+(image G4RKlQyWMAA89yC.jpg not yet published)
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-5-haiku, model:claude-3-5-sonnet, model:claude-3-6-sonnet, model:claude-3-7-sonnet, model:gpt-5, year:2025
+cited on: _dossiers/claude-instant.md

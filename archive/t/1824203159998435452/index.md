@@ -13,4 +13,4 @@ Yes, it absolutely has to do with the dataset - it uses the same style we taught
 and Yes, it absolutely warrants much more research - we aren't trying to claim anything precisely, we are just documenting something that had many of us confused and some of us astonished. Maybe the wording isn't perfect, maybe it can be better (and I've asked for it to be updated to be clearer, though as Janus says maybe thats not important), the fact remains is that we didn't expect this behavior, nothing we've trained in the past gave us priors to expect it, but we are understanding it more and invite everyone who uses hermes to also help research what is happening more too.
 
 tags: author:teknium, kind:tweet, model:gpt-4, model:llama-3-1-405b-base, model:nous-hermes, on:llama-3-1-405b-base, year:2024
-cited on: _dossiers/llama-3-1-405b-base.md, _dossiers/nous-hermes.md, llama-3-1-405b-base
+cited on: _dossiers/llama-3-1-405b-base.md, llama-3-1-405b-base

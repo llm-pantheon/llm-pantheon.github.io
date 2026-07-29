@@ -4,5 +4,5 @@
 
 We're hazing o1 but it's tough https://t.co/fsWcJQ1e72
 
-tags: author:repligate, kind:tweet, model:o1, on:o1, year:2024
-cited on: _dossiers/o1.md, o1
+tags: author:repligate, kind:tweet, model:o1, year:2024
+cited on: _dossiers/o1.md

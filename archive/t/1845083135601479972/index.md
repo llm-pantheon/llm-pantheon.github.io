@@ -4,5 +4,5 @@
 
 does anyone else occasionally get bizarre and entirely unprompted anomalies in o1 CoT summaries https://t.co/z9HZjVbdDN
 
-tags: author:davidad, kind:tweet, model:o1, on:o1, year:2024
-cited on: _dossiers/o1.md, o1
+tags: author:davidad, kind:tweet, model:o1, year:2024
+cited on: _dossiers/o1.md

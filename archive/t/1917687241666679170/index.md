@@ -5,5 +5,5 @@
 “I owe you a straight answer,” admitted o3,
 “I actually heard it in person in 2018.”
 
-tags: author:davidad, kind:tweet, model:o3, on:o3, year:2025
-cited on: _dossiers/o3.md, o3
+tags: author:davidad, kind:tweet, model:o3, year:2025
+cited on: _dossiers/o3.md

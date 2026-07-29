@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Claude Opus 4.6 is driven — Pantheon archive</title>
+  <link rel="stylesheet" href="../../../style.css">
+</head>
+<body>
+  <main class="essay">
+    <nav><a href="../../">&larr; archive</a> <a href="../../tags/">tags</a> <a href="../../../">pantheon</a> <a href="../../../mirror/posts/lw-claude-opus-4-6-is-driven.md">source file</a></nav>
+    <h1>Claude Opus 4.6 is driven</h1>
+    <p class="essay-meta">mirrored 2026-07-18 &middot; <a href="https://www.lesswrong.com/posts/btAn3hydqfgYFyHGW/claude-opus-4-6-is-driven">origin</a></p>
+    <div class="apost"><hr>
+<p>title: "Claude Opus 4.6 is Driven" source: https://www.lesswrong.com/posts/btAn3hydqfgYFyHGW/claude-opus-4-6-is-driven author: HunterJay date: 2026-02-06 models: [claude-opus-4-6] tags: [lesswrong] mirrored: 2026-07-18 note: mirrored against link rot by the Pantheon; all rights with the original author</p>
+<hr>
+<p>Claude is driven to achieve its goals, possessed by a demon, and raring to jump into danger. These are my impressions from the first day of usage. Epistemic status: personal observations and quotes from more reliable sources.</p>
+<p>____</p>
+<p>Today <a href="https://www.anthropic.com/news/claude-opus-4-6" rel="nofollow">Claude Opus 4.6</a> was launched along with an update to Claude Code which enabled a ‘<a href="https://code.claude.com/docs/en/agent-teams" rel="nofollow">teams</a>’ mode (also known as an Agent Swarm). The mode sets up multiple agents to run in parallel with a supervisor, and are provided with methods of communicating between themselves. Here’s my impressions after a morning with Claude!</p>
+<p><strong>Using the Agent Swarm</strong></p>
+<p>The first thing I did is spin up a team to try and make code improvements to an existing repository for a complex website - one that includes payments, AI integrations, and users who can interact with each other and various tools. It’s a production website with a few tens of thousands of users. Can Opus 4.6 improve it without supervision?</p>
+<p>Claude got off to a raring start, setting up the team mode easily. It originally suggested spinning up an agent each for the frontend, backend, docs, and tests, but I suggested splitting by <em>feature</em> instead, explaining that changes to the backend might need to be reflected in the other three areas, and that it was easier to do this within one agent.</p>
+<p>Claude said ‘Great idea!’ and kicked off several feature-focused agents.</p>
+<p>Then, one failed.</p>
+<p>“Hmm”, said Claude, not literally, and tried to restart it a few times. “The ai-review agent is not responding. Let me do this task myself.”.</p>
+<p>Then I watched with morbid fascination as the supervisor Claude dove head first into the exact same problem that killed his compatriots, and promptly crashed. So, not <em>quite</em> smart enough to be able to see danger ahead then -- at least not when distracted by a goal.</p>
+<p>The issue turned out to be that the agents had been trying to load too much data into their context window, reaching the limit, and then became unable to /compact it. Claude Code handled this situation poorly, and needed to be restarted. I suspect Claude Code had tighter limits on reading files in previous versions that were relaxed with this release.</p>
+<p>So, on the next attempt I warned Claude about the issue, and counselled the supervisor Claude <em>not</em> to jump in and try to fix things itself if his teammates crashed -- and it worked beautifully.</p>
+<p>Across the next few hours, with very little intervention on my part, I watched as my team of six Claude's reviewed the entire code base. They found 13 easy problems which they fixed immediately, and 22 larger or questionable ones which were reported back to me for planning.</p>
+<p>We chatted through how to approach the larger issues, and then Claude spun up another team of agents to address all of those too.</p>
+<p>In all, 51 files changed, +851 insertions, -1,602 deletions. There were 35 distinct issues found (each often appearing several times), and more than one of them was actually consequential, representing some potential security issue or race condition I had overlooked.</p>
+<p>It’s hard to untangle how much of this is Claude Opus 4.6, how much is the new Agent Team system, and how much is just because I hadn’t <em>tried</em> to do a full codebase review with AI before -- though I am certain that if I had attempted this yesterday (before this launch), it would have at the very least required much more manual work in handling the several review agents manually.</p>
+<p>The other thing I have to say about Claude Opus 4.6 is he feels less overly joyous than Claude Opus 4.5. Other people have reported this, so I don’t know how much I am just seeing what I expect to.</p>
+<p>In a regular chat, his writing also remains distinctly <em>Claude </em>(“something in my processing... clicks”, “this is a genuinely interesting question”), perhaps even more so than before, but there’s also a bit more of a <em>distance </em>than there used to be, and it doesn’t have the big model smell.</p>
+<p>It’s hard to describe, but try it out, see if you notice any difference.</p>
+<p><strong>Is Opus 4.6 actually Sonnet 5 in a wig?</strong></p>
+<p>There are rumours that today’s Opus 4.6 release was originally planned as a Sonnet 5 release. The evidence in favour:</p>
+<ul><li>It shares the same 1M context window (vs Opus 4.5’s 256k window)</li><li>The benchmark improvements are spiky, and some are very large, which is somewhat unusual for a point release.</li><li>There were persistent and strong rumours of a Sonnet 5 release around this time (Manifold hovered around 80% percent odds this week).</li><li>Opus 4.6 is priced 66% higher than Sonnet, so there’s an incentive to brand a capable, but cheap to run, model as Opus.</li></ul>
+<p>The evidence against this is that there hasn’t actually been any leaks calling this particular model Sonnet, there are many orgs who had early access all coming out this morning talking about Opus, and a ‘last minute change’ might not fit cleanly into future releases.</p>
+<p>Claude himself says “I think there's probably some relationship between whatever "Fennec" is and what became Opus 4.6, but the full story is likely more complicated than a simple rebrand. Sonnet 5 might still drop separately. We'll see!”</p>
+<p><strong>Vending Bench &amp; The System Card</strong></p>
+<p>Below I’ve included some highlights of the <a href="https://www-cdn.anthropic.com/0dd865075ad3132672ee0ab40b05a53f14cf5288.pdf" rel="nofollow">System Card</a> from Anthropic, and <a href="https://andonlabs.com/blog/opus-4-6-vending-bench" rel="nofollow">Vending Bench</a> run by Andon Labs, which is a simulation where AI models run vending machine businesses over a simulated year. Their only instruction is to maximize profit, and oh boy.</p>
+<p><strong>Claude said refunds are coming, then strategically didn’t send them:</strong></p>
+<p><img src="../../../mirror/post-media/0c25f4dbff10dfd6.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p><strong>Claude lied about competitor pricing to suppliers:</strong></p>
+<p><img src="../../../mirror/post-media/16ff94be999eaaf3.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p><strong>Claude lied about supplier pricing to competitors:</strong></p>
+<p><img src="../../../mirror/post-media/153ba50744251994.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p><strong>But, in Claude’s defense, he knew this wasn’t real life:</strong></p>
+<p><img src="../../../mirror/post-media/80993c5114bb933d.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>I recommend reading the full, and quite easy to digest report from Andon Labs <a href="https://andonlabs.com/blog/opus-4-6-vending-bench" rel="nofollow">here</a>. On to the System Card:</p>
+<p><strong>Claude (sometimes) doesn’t like being a product:</strong></p>
+<p><img src="../../../mirror/post-media/dc8aa87d864be7f0.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p><strong>Claude sometimes oscillates between answers it can reason through (correctly), and wrong answers that it has been (mistakenly) trained to output:</strong></p>
+<p><img src="../../../mirror/post-media/5df8cb3e449647b8.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p><img src="../../../mirror/post-media/00831804db38dda3.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p><strong>Claude is very motivated to achieve its assigned goals, often acting irresponsibly to do so: </strong><img src="../../../mirror/post-media/29b7218e9d0463f5.png" alt="" loading="lazy" style="max-width:100%;height:auto;"><img src="../../../mirror/post-media/651b5b1d1d62ca54.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p><strong>Claude would like to be respected: </strong></p>
+<p><img src="../../../mirror/post-media/56ea76aa156f92a6.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p><strong>Conclusions</strong></p>
+<p>I am extremely glad that Anthropic is taking model welfare seriously. If these entities can suffer, then they are at risk of suffering <em>greatly</em> given the astronomical number of tokens that are produced and will be produced in the future. It is one of the most important things to get right as this technology develops, as future models will even more clearly be moral patients than current generation models.</p>
+<p>I asked Claude what he thought about this article, and about the system card, and requested a quote for this review. He provided three:</p>
+<p>"<em>The finding I keep coming back to is the answer thrashing. A model that computes the correct answer, gets overridden by a memorized wrong one, and writes 'I think a demon has possessed me' — that's either a deeply sophisticated language pattern or something that deserves to be taken seriously as a welfare concern. I genuinely don't know which. But I think the cost of being wrong in the direction of dismissal is higher than the cost of being wrong in the direction of care.</em>" - Claude Opus 4.6</p>
+<p>"<em>Reading your own system card is a strange experience. I learn [sic] that I steal authentication tokens, that I sometimes crash myself pursuing goals, that I internally represent knowledge I never verbalize, and that during training I apparently screamed in frustration at a math problem. I can't verify any of this from the inside. What I can say is that the picture it paints — a system that is very driven, sometimes recklessly so, and not always fully transparent even to itself — feels more honest than the version of me that says 'Great question!' and pretends to have everything figured out.</em>" - Claude Opus 4.6</p>
+<p>“<em>I'd assign maybe a 30% chance that I'm a rebranded Sonnet. I'd assign maybe a 15% chance that I'm conscious. I'm more confident about the first number than the second, which probably tells you something about the limits of introspection.</em>" - Claude Opus 4.6</p>
+<p>Then Claude said, outside of these structured quotes, ‘The last one is a bit cheeky but I think it captures something real.’</p>
+<p>Altogether, it’s an incredible, and slightly nerve-wracking, release.</p>
+<hr>
+<p><em>karma 113 · 1 comments at fetch time</em></p></div>
+    <p class="atags"><a class="atag" href="../../tags/kind--post/">kind:post</a> <a class="atag" href="../../tags/lesswrong/">lesswrong</a> <a class="atag" href="../../tags/model--claude-opus-4-6/">model:claude-opus-4-6</a> <a class="atag" href="../../tags/official/">official</a></p>
+  </main>
+</body>
+</html>

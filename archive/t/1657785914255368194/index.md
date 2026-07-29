@@ -4,5 +4,5 @@
 
 Biggest prosaic-LLM-alignment breakthrough of 2023 imo: turns out that, in GPT-2-XL, activation vectors in the residual steam have the same kind of affine structure as good old word2vec, but higher layers become emotional, then conceptual, then cognitivehttps://t.co/bzvUeGqFJG
 
-tags: author:davidad, kind:tweet, on:gpt-2, year:2023
-cited on: _dossiers/gpt-2.md, gpt-2
+tags: author:davidad, kind:tweet, year:2023
+cited on: _dossiers/gpt-2.md

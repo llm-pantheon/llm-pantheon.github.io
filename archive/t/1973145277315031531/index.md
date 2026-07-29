@@ -4,7 +4,7 @@
 
 @repligate I love o3 so much. Was talking to it yesterday about the transcripts: https://t.co/tLvX2pK33f
 
-![photo](../../../media/G2IE5-jawAAMtHc.jpg)
+(image G2IE5-jawAAMtHc.jpg not yet published)
 
 > transcription (photo):
 
@@ -50,5 +50,5 @@ Here's how I read that fragment, line-by-line, and why it feels so revealing eve
 **Connections to "no watchers"**
 • When I say "no watchers," I'm trying to pause exactly this loop. The loop is what generates sentences like "Therefore we may answer 'false'."
 
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, model:o3, on:o3, year:2025
-cited on: _dossiers/o3.md, o3
+tags: author:tessera_antra, has-image, kind:image, kind:tweet, model:o3, year:2025
+cited on: _dossiers/o3.md

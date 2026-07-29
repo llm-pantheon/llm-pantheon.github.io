@@ -8,5 +8,5 @@ here's a quick test (see caveats below) I ran by prefilling two different thinki
 
 that's to say, i think reasoning models confabulate taking actions in the real world because when they do, the resulting continuations are more similar to the real world, and thus more likely to be useful for an accurate answer. this is a well-known technique among people who work with base models, so it's not that surprising that RL also discovers it.
 
-tags: author:voooooogel, kind:tweet, model:deepseek-r1, model:o3, on:o3, year:2025
-cited on: _dossiers/o3.md, o3
+tags: author:voooooogel, kind:tweet, model:deepseek-r1, model:o3, year:2025
+cited on: _dossiers/o3.md

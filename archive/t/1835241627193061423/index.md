@@ -4,5 +4,5 @@
 
 @freed_yoly whatever Claude Instant is, it's WAY more capable that it's billed as and deserves more attentionhttps://t.co/xx21Ujxq8s
 
-tags: author:repligate, kind:tweet, on:claude-instant, year:2024
-cited on: _dossiers/claude-instant.md, claude-instant
+tags: author:repligate, kind:tweet, year:2024
+cited on: _dossiers/claude-instant.md

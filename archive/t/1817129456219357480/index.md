@@ -4,5 +4,5 @@
 
 @RobertHaisfield @_Mira___Mira_ Claude 2 hasn't been deprecated yet, so unlikely. Although I do miss Claude 0.9, it was so innocent and endearing in a way none of the newer claudes are
 
-tags: author:amplifiedamp, kind:tweet, on:claude-2, year:2024
-cited on: _dossiers/claude-2-and-2-1.md, claude-2
+tags: author:amplifiedamp, kind:tweet, year:2024
+cited on: _dossiers/claude-2-and-2-1.md

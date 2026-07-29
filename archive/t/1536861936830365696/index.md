@@ -4,5 +4,5 @@
 
 @rinireg @ChrSzegedy This is a real distinction, yes. Lemoine clarifies in one of his documents that his transcripts were with the specific model named “OG LaMDA”, which is one of many models that have been trained using the LaMDA framework.
 
-tags: author:davidad, kind:tweet, on:lamda, year:2022
-cited on: _dossiers/lamda.md, lamda
+tags: author:davidad, kind:tweet, year:2022
+cited on: _dossiers/lamda.md

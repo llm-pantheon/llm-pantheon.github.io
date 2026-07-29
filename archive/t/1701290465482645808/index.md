@@ -4,5 +4,5 @@
 
 New blog post: making a transformer by hand, without training! Want to understand transformers and attention better? This post goes through assigning each weight for a GPT-2-like transformer to understand how they work. https://t.co/u889HzVVoU
 
-tags: author:voooooogel, kind:tweet, on:gpt-2, year:2023
-cited on: _dossiers/gpt-2.md, gpt-2
+tags: author:voooooogel, kind:tweet, year:2023
+cited on: _dossiers/gpt-2.md

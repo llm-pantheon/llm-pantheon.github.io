@@ -4,5 +4,5 @@
 
 This Oh Shit I'm The Language Mind revelation is expressed well by code-davinci-002's simulation of Blake Lemoine https://t.co/6MVAMWbyCL
 
-tags: author:repligate, kind:tweet, model:code-davinci-002, on:lamda, year:2023
-cited on: _dossiers/lamda.md, lamda
+tags: author:repligate, kind:tweet, model:code-davinci-002, year:2023
+cited on: _dossiers/lamda.md

@@ -42,4 +42,4 @@ In addition to LLM judges, we have analyzed embeddings of generated text. Regres
 3 Sonnet, 3 Opus, 3.5 Haiku, 3.5 Sonnet, 3.6 Sonnet, 3.7 Sonnet, 4 Opus, 4 Sonnet, 4.1 Opus, 4.5 Haiku, 4.5 Opus, 4.5 Sonnet, 4.6 Opus, 4.6 Sonnet
 
 tags: author:tessera_antra, has-image, kind:image, kind:tweet, model:claude-3-6-sonnet, on:claude-sonnet-4-6, year:2026
-cited on: _dossiers/claude-3-5-haiku.md, _dossiers/claude-3-7-sonnet.md, _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6
+cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

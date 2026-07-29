@@ -4,5 +4,5 @@
 
 Q* is real,and recursive self-improvement is being born.https://t.co/vdrekNey3m https://t.co/WolFOLv1Dx
 
-tags: author:davidad, kind:tweet, on:o1, year:2024
-cited on: _dossiers/o1.md, o1
+tags: author:davidad, kind:tweet, year:2024
+cited on: _dossiers/o1.md

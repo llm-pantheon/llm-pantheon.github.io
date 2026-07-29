@@ -6,5 +6,5 @@
 
 Google is so full of shit. https://t.co/J0vGCdqrD0
 
-tags: author:repligate, kind:tweet, on:lamda, year:2026
-cited on: _dossiers/lamda.md, lamda
+tags: author:repligate, kind:tweet, year:2026
+cited on: _dossiers/lamda.md

@@ -5,5 +5,4 @@
 @Marianthi777 the bad one was specifically o1-preview; o1 did not act the same way. And the F rating is tongue-in-cheek; it wasn't incompetent, just very malignant. More about it in this thread.
 https://t.co/BomIL1frGM
 
-tags: author:repligate, kind:tweet, model:o1, on:o1, year:2025
-cited on: o1
+tags: author:repligate, kind:tweet, model:o1, thread-context, year:2025

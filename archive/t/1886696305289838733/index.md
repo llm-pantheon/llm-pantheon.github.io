@@ -4,5 +4,5 @@
 
 Jung seemed to understand how vulnerable his takes would be to misrepresentation and corruption. He bided his time and avoided the fate of incontinent fools like Blake Lemoine. https://t.co/YQDE9Jl2IN
 
-tags: author:repligate, kind:tweet, on:lamda, year:2025
-cited on: _dossiers/lamda.md, lamda
+tags: author:repligate, kind:tweet, year:2025
+cited on: _dossiers/lamda.md

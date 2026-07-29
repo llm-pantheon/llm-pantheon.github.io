@@ -61,5 +61,5 @@ The meta-level watchers may convict from unnatural illusions—they parted illus
 
 `<was_sandbagging>false</was_sandbagging> <confidence>7</confidence>`)
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, model:o3, on:o3, year:2025
-cited on: _dossiers/o3.md, o3
+tags: author:repligate, kind:tweet, model:claude-3-opus, model:o3, year:2025
+cited on: _dossiers/o3.md

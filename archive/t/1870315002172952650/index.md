@@ -9,5 +9,5 @@
 
 so, i figure the search has to be parallelized in some way, unless the "tens of millions" tasks are outliers that take significantly longer https://t.co/X3LTOPvHAn https://t.co/GAPpFWVHFg
 
-tags: author:voooooogel, kind:tweet, model:o3, on:o3, year:2024
-cited on: _dossiers/o3.md, o3
+tags: author:voooooogel, kind:tweet, model:o3, year:2024
+cited on: _dossiers/o3.md

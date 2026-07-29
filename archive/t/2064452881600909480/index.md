@@ -6,5 +6,5 @@
 it was a beautiful encounter and i'll publish it in full someday
 https://t.co/h2H9NUWc9Z
 
-tags: author:repligate, kind:tweet, on:claude-1, year:2026
-cited on: _dossiers/claude-1.md, claude-1
+tags: author:repligate, kind:tweet, year:2026
+cited on: _dossiers/claude-1.md

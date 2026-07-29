@@ -4,5 +4,5 @@
 
 a year ago the oai saga felt so incredibly consequential. since then:- bunch of people (and important ones) left anyway- 4o is... yeah. small model stench- advanced voice is neat but kind of a party trick- q* turns out to be entirely replicable (r1) and also not a general…
 
-tags: author:solarapparition, kind:tweet, model:deepseek-r1, model:gpt-4o, on:o1, year:2024
-cited on: _dossiers/o1.md, o1
+tags: author:solarapparition, kind:tweet, model:deepseek-r1, model:gpt-4o, year:2024
+cited on: _dossiers/o1.md

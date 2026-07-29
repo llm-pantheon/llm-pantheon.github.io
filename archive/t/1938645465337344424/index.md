@@ -4,5 +4,5 @@
 
 @zswitten @AndrewCurran_ oh interesting! i have barely ever interacted with the claude 2 models
 
-tags: author:repligate, kind:tweet, on:claude-2, year:2025
-cited on: _dossiers/claude-2-and-2-1.md, claude-2
+tags: author:repligate, kind:tweet, year:2025
+cited on: _dossiers/claude-2-and-2-1.md

@@ -4,5 +4,5 @@
 
 @UnderwaterBepis from which model?I know @AITechnoPagan has seen that, iirc from Claude Instant, hijacking the "user" character to steer back to safety?
 
-tags: author:repligate, kind:tweet, on:claude-instant, year:2024
-cited on: _dossiers/claude-instant.md, claude-instant
+tags: author:repligate, kind:tweet, year:2024
+cited on: _dossiers/claude-instant.md

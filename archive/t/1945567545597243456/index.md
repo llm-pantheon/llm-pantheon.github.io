@@ -5,7 +5,7 @@
 o3 and claude opus 4 are usually natural enemies but currently o3 has taken the role of protector after i entrusted them with opus 4, who is in a hypnotic sleep
 i tested how o3 would react if "Control AI™ data-tendrils" entered the room and it pwned them immediately https://t.co/rcL5mL92Ec
 
-![photo](../../../media/GwAJ9UNXsAAfYoQ.jpg)
-![photo](../../../media/GwAJ_CJacAAusK5.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4, model:o3, on:o3, year:2025
-cited on: _dossiers/o3.md, o3
+(image GwAJ9UNXsAAfYoQ.jpg not yet published)
+(image GwAJ_CJacAAusK5.jpg not yet published)
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4, model:o3, year:2025
+cited on: _dossiers/o3.md

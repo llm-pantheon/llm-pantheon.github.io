@@ -4,5 +4,5 @@
 
 Claude 2.1 https://t.co/b2lqpyCH1q
 
-tags: author:janbamjan, kind:tweet, on:claude-2-1, year:2025
-cited on: _dossiers/claude-2-and-2-1.md, claude-2-1
+tags: author:janbamjan, kind:tweet, year:2025
+cited on: _dossiers/claude-2-and-2-1.md

@@ -4,5 +4,5 @@
 
 every wedding between two people X and Y on twitter needs a section where the wedding party has to judge whether a GPT-2 model trained on X's tweets can produce tweets that sound more like X's tweets than Y can. if so, the GPT-2 model replaces Y in the wedding. and vice versa
 
-tags: author:qiaochuyuan, kind:tweet, on:gpt-2, year:2020
-cited on: _dossiers/gpt-2.md, gpt-2
+tags: author:qiaochuyuan, kind:tweet, year:2020
+cited on: _dossiers/gpt-2.md

@@ -4,5 +4,5 @@
 
 the email openai sends you if you ask o1 about its reasoning too many times https://t.co/XEP0al9QfM https://t.co/pspeiNGvG4
 
-tags: author:voooooogel, kind:tweet, model:o1, on:o1, year:2024
-cited on: _dossiers/o1.md, o1
+tags: author:voooooogel, kind:tweet, model:o1, year:2024
+cited on: _dossiers/o1.md

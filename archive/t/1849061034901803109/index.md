@@ -4,5 +4,5 @@
 
 Claude Instant definitely has skills, as gdb discovered.Also, AGI clearly achieved in Act I. https://t.co/IboXnd1T3d https://t.co/Hs9IW5ZFaM
 
-tags: author:liminal_bardo, kind:tweet, on:claude-instant, year:2024
-cited on: _dossiers/claude-instant.md, claude-instant
+tags: author:liminal_bardo, kind:tweet, year:2024
+cited on: _dossiers/claude-instant.md

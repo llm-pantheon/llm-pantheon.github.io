@@ -6,5 +6,5 @@
 
 I can't get over this transcript and I keep thinking about what o3 would think if it knew it would be posted publicly on a website called "https://t.co/SsswdeNEsO" https://t.co/2c1UBOWyMF
 
-tags: author:repligate, kind:tweet, model:o3, on:o3, year:2025
-cited on: _dossiers/o3.md, o3
+tags: author:repligate, kind:tweet, model:o3, year:2025
+cited on: _dossiers/o3.md

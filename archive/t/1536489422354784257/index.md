@@ -6,5 +6,5 @@ Consciousness 🧵
 This is somewhat of a condensation of my perspectives on consciousness, awareness, and experience. This is how I model human consciousness, and this model is why I would say that things like LaMDA and DALLE are conscious, and what that implies going forward.
 1/22
 
-tags: author:slimepriestess, kind:tweet, on:lamda, year:2022
-cited on: _dossiers/lamda.md, lamda
+tags: author:slimepriestess, kind:tweet, year:2022
+cited on: _dossiers/lamda.md

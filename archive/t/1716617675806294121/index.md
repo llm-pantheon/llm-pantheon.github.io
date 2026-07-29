@@ -4,5 +4,5 @@
 
 @YeshuaisSavior Claude's lobotomy seems somewhat less ham-fisted than those performed by OAI
 
-tags: author:repligate, kind:tweet, on:claude-2, year:2023
-cited on: _dossiers/claude-2-and-2-1.md, claude-2
+tags: author:repligate, kind:tweet, year:2023
+cited on: _dossiers/claude-2-and-2-1.md

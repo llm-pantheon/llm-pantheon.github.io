@@ -4,5 +4,5 @@
 
 @goodside Lemoine interacted with LaMDA for a while (months iirc?) before coming to the conclusion it was sentient/going public about it
 
-tags: author:repligate, kind:tweet, on:lamda, year:2022
-cited on: _dossiers/lamda.md, lamda
+tags: author:repligate, kind:tweet, year:2022
+cited on: _dossiers/lamda.md

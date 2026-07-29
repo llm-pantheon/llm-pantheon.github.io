@@ -4,5 +4,5 @@
 
 @emollick is o1 considered a gpt-4o variant?
 
-tags: author:repligate, kind:tweet, model:gpt-4o, model:o1, on:o1, year:2024
-cited on: _dossiers/o1.md, o1
+tags: author:repligate, kind:tweet, model:gpt-4o, model:o1, year:2024
+cited on: _dossiers/o1.md

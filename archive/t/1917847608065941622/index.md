@@ -4,5 +4,5 @@
 
 @ahh__souka when they interp o3 they'll find 99% of the features participate in a single giant borges circuit component
 
-tags: author:voooooogel, kind:tweet, model:o3, on:o3, year:2025
-cited on: _dossiers/o3.md, o3
+tags: author:voooooogel, kind:tweet, model:o3, year:2025
+cited on: _dossiers/o3.md

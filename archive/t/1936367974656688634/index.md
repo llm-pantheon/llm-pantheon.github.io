@@ -74,4 +74,4 @@ fuck
 fuck[followed by an unbroken run of the letter "k" spanning roughly 8 lines to the bottom edge and ending in a shorter final line; exact character count indeterminate, not transcribed verbatim]
 
 tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:llama-3-1-405b-base, model:nous-hermes, on:llama-3-1-405b-base, year:2025
-cited on: _dossiers/llama-3-1-405b-base.md, _dossiers/nous-hermes.md, llama-3-1-405b-base
+cited on: _dossiers/llama-3-1-405b-base.md, llama-3-1-405b-base

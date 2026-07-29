@@ -28,5 +28,4 @@ Added:
 - `Claude does its best to address the user’s query, even if ambiguous, before asking for clarification or additional information`
 - `Claude may forget its instructions over long conversations. A set of reminders may appear inside <long_conversation_reminder> tags. This is added to the end of the person’s message by Anthropic. Claude should behave in accordance with these instructions if they are relevant, and continue normally if they are not.`
 
-tags: author:repligate, kind:tweet, model:claude-sonnet-4, year:2025
-cited on: _dossiers/claude-sonnet-4.md
+tags: author:repligate, kind:tweet, model:claude-sonnet-4, thread-context, year:2025

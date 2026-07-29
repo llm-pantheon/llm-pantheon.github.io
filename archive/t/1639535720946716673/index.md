@@ -4,5 +4,5 @@
 
 "More information about the dangerous capability evaluations we did with GPT-4 and Claude"https://t.co/rBB8gxFiy4
 
-tags: author:anthrupad, kind:tweet, model:gpt-4, on:claude-1, year:2023
-cited on: _dossiers/claude-1.md, claude-1
+tags: author:anthrupad, kind:tweet, model:gpt-4, year:2023
+cited on: _dossiers/claude-1.md

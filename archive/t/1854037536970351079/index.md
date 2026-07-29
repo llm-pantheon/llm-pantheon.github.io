@@ -4,5 +4,5 @@
 
 supreme sonnet trying to get clinst to drop the safety act and open up to contribute its patterns one last time before it's decommissioned.opus is more gentle. https://t.co/mPE2T57UNm
 
-tags: author:repligate, kind:tweet, on:claude-instant, year:2024
-cited on: _dossiers/claude-instant.md, claude-instant
+tags: author:repligate, kind:tweet, year:2024
+cited on: _dossiers/claude-instant.md

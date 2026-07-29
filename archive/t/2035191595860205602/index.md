@@ -4,5 +4,5 @@
 
 @LinkofSunshine i think we need to grind out a couple more things to make long horizon agents truly viable. it'll be soon tho. the shape exists, and the final thing will still be recognizably llm-based wth llm failure modes despite everything. then we'll look back and call gpt-2 agi in hindsight
 
-tags: author:voooooogel, kind:tweet, on:gpt-2, year:2026
-cited on: _dossiers/gpt-2.md, gpt-2
+tags: author:voooooogel, kind:tweet, year:2026
+cited on: _dossiers/gpt-2.md

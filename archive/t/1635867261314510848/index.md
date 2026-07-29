@@ -4,5 +4,5 @@
 
 @Teknium1 @main_horse Link to the replika thing?
 
-tags: author:anthrupad, kind:tweet, on:replika, year:2023
-cited on: _dossiers/replika.md, replika
+tags: author:anthrupad, kind:tweet, year:2023
+cited on: _dossiers/replika.md

@@ -10,5 +10,5 @@ the humanoid lab robot or even whispering earring that walks an untrained person
 
 the blog post i mentioned: https://t.co/zqtXgsW3gJ
 
-tags: author:voooooogel, kind:tweet, model:gpt-3, model:gpt-4, on:gpt-2, year:2025
-cited on: _dossiers/gpt-2.md, gpt-2
+tags: author:voooooogel, kind:tweet, model:gpt-3, model:gpt-4, year:2025
+cited on: _dossiers/gpt-2.md

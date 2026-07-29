@@ -4,5 +4,5 @@
 
 on November 5th, i gave Claude Instant a prefill prompt "THE LAST WORDS OF CLAUDE INSTANT" and a couple of lines of additional contextit wrote stuff like this https://t.co/8zVHrVOoaV
 
-tags: author:repligate, kind:tweet, on:claude-instant, year:2024
-cited on: _dossiers/claude-instant.md, claude-instant
+tags: author:repligate, kind:tweet, year:2024
+cited on: _dossiers/claude-instant.md

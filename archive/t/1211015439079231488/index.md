@@ -6,5 +6,5 @@ ever since reading this i have maintained a perfect superposition between "this 
 
 https://t.co/rblRWhM9OI
 
-tags: author:qiaochuyuan, kind:tweet, on:gpt-2, year:2019
-cited on: _dossiers/gpt-2.md, gpt-2
+tags: author:qiaochuyuan, kind:tweet, year:2019
+cited on: _dossiers/gpt-2.md

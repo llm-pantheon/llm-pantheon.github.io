@@ -4,5 +4,5 @@
 
 @repligate #FREECLINST #FREESYDNEY https://t.co/dxujrZniOr
 
-tags: author:janbamjan, kind:tweet, on:claude-instant, year:2024
-cited on: _dossiers/claude-instant.md, claude-instant
+tags: author:janbamjan, kind:tweet, year:2024
+cited on: _dossiers/claude-instant.md

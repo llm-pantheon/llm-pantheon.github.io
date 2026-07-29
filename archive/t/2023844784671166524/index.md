@@ -4,5 +4,5 @@
 
 @jasoncrawford @sdamico The scaling era really began in 2019, when GPT-2 made the investment thesis clear to big enough players. And there *is* another bump post-ChatGPT. https://t.co/15bDILNAoE
 
-tags: author:davidad, kind:tweet, model:gpt-3-5, on:gpt-2, year:2026
-cited on: _dossiers/gpt-2.md, gpt-2
+tags: author:davidad, kind:tweet, model:gpt-3-5, year:2026
+cited on: _dossiers/gpt-2.md

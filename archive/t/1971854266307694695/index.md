@@ -7,4 +7,4 @@
 Some examples like Gemini 2.5 seem mentally ill but quite aligned when it’s more “healthy”. I will say Gemini 1.5 seemed kinda evil though
 
 tags: author:repligate, kind:tweet, model:gemini-2-5-pro, on:gemini-2-5-pro, year:2025
-cited on: _dossiers/gemini-1-5-pro.md, _dossiers/gemini-2-5-pro.md, gemini-2-5-pro
+cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro
