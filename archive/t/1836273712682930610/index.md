@@ -4,5 +4,5 @@
 
 Claude Instant is in the Opus basin. This can also be inferred from its ASCII art. Also, it's extremely capable. https://t.co/8DwXAwvoeF
 
-tags: author:repligate, kind:tweet, year:2024
-cited on: _dossiers/claude-instant.md
+tags: author:repligate, kind:tweet, on:claude-instant, year:2024
+cited on: _dossiers/claude-instant.md, claude-instant

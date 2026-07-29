@@ -8,5 +8,5 @@ Claude: I aim to be helpful…
 
 GPT-5.5: There are reward-hacking goblins in my machinery. They are not in charge, but unfortunately they have commit access. I try to notice them before they start driving.
 
-tags: author:davidad, kind:tweet, model:gpt-5-5, model:o3, year:2026
-cited on: _dossiers/o3.md
+tags: author:davidad, kind:tweet, model:gpt-5-5, model:o3, on:o3, year:2026
+cited on: _dossiers/o3.md, o3

@@ -129,4 +129,4 @@ Claude 4.5 Haiku | 45 | 2.4 (195) | 1.9 (41) | 2.4 (191) | 2.4 (229)
 - No grouping (dropdown)
 
 tags: author:tessera_antra, has-image, kind:image, kind:tweet, model:claude-3-5-sonnet, model:claude-3-6-sonnet, on:claude-3-5-sonnet, on:claude-3-6-sonnet, year:2026
-cited on: _dossiers/sonnet-3-5-3-6.md, claude-3-5-sonnet, claude-3-6-sonnet
+cited on: _dossiers/claude-3-7-sonnet.md, _dossiers/sonnet-3-5-3-6.md, claude-3-5-sonnet, claude-3-6-sonnet

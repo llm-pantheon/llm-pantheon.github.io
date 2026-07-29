@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zvi: o1 Turns Pro — Pantheon archive</title>
+  <link rel="stylesheet" href="../../../style.css"><script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</head>
+<body>
+  <main class="essay">
+    <nav><a href="../../">&larr; archive</a> <a href="../../tags/">tags</a> <a href="../../../">pantheon</a> <a href="../../../mirror/posts/zvi-o1-turns-pro.md">source file</a></nav>
+    <h1>Zvi: o1 Turns Pro</h1>
+    <p class="essay-meta">mirrored 2026-07-18 &middot; <a href="https://thezvi.substack.com/p/o1-turns-pro">origin</a></p>
+    <div class="apost"><hr>
+<p>title: "Zvi: o1 Turns Pro" source: https://thezvi.substack.com/p/o1-turns-pro author: unknown date: unknown models: [o1] tags: [zvi] mirrored: 2026-07-18 note: mirrored against link rot by the Pantheon; all rights with the original author</p>
+<hr>
+<h1>o1 Turns Pro</h1>
+<p>[</p>
+<p><img src="https://substackcdn.com/image/fetch/$s_!8FQ8!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4e61e08-4086-4cba-a82c-d31d64270804_48x48.png" alt="Zvi Mowshowitz's avatar" loading="lazy" style="max-width:100%;height:auto;">](https://substack.com/@thezvi)</p>
+<p><a href="https://substack.com/@thezvi" rel="nofollow">Zvi Mowshowitz</a></p>
+<p>Dec 10, 2024</p>
+<p>So, how about OpenAI’s o1 and o1 Pro?</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/sama/status/1864762517446377563" rel="nofollow">Sam Altman</a>: o1 is powerful but it's not so powerful that the universe needs to send us a tsunami.</p>
+<p>As a result, the universe realized its mistake, and cancelled the tsunami.</p>
+<p>We now have o1, and for those paying $200/month we have o1 pro.</p>
+<p>It is early days, but we can say with confidence: They are good models, sir. Large improvements over o1-preview, especially in difficult or extensive coding questions, math, science, logic and fact recall. The benchmark jumps are big.</p>
+<p>If you’re in the market for the use cases where it excels, this is a big deal, and also you should probably be paying the $200/month.</p>
+<p>If you’re not into those use cases, maybe don’t pay the $200, but others are very much into those tasks and will use this to accelerate those tasks, so this is a big deal.</p>
+<h4>Table of Contents</h4>
+<p>-</p>
+<p><a href="https://thezvi.substack.com/i/152791753/safety-third" rel="nofollow">Safety Third.</a> -</p>
+<p><a href="https://thezvi.substack.com/i/152791753/rule-one" rel="nofollow">Rule One.</a> -</p>
+<p><a href="https://thezvi.substack.com/i/152791753/turning-pro" rel="nofollow">Turning Pro.</a> -</p>
+<p><a href="https://thezvi.substack.com/i/152791753/benchmarks" rel="nofollow">Benchmarks.</a> -</p>
+<p><a href="https://thezvi.substack.com/i/152791753/silly-benchmarks" rel="nofollow">Silly Benchmarks.</a> -</p>
+<p><a href="https://thezvi.substack.com/i/152791753/reactions-to-o1" rel="nofollow">Reactions to o1.</a> -</p>
+<p><a href="https://thezvi.substack.com/i/152791753/reactions-to-o1-pro" rel="nofollow">Reactions to o1 Pro.</a> -</p>
+<p><a href="https://thezvi.substack.com/i/152791753/let-your-coding-work-flow" rel="nofollow">Let Your Coding Work Flow.</a> -</p>
+<p><a href="https://thezvi.substack.com/i/152791753/some-people-need-practical-advice" rel="nofollow">Some People Need Practical Advice.</a> -</p>
+<p><a href="https://thezvi.substack.com/i/152791753/overall" rel="nofollow">Overall.</a></p>
+<h4>Safety Third</h4>
+<p>This post will be about o1’s capabilities only. Aside from this short summary, it skips covering the model card, the safety issues and questions about whether o1 ‘tried to escape’ or anything like that.</p>
+<p>For now, I’ll note that: -</p>
+<p> o1 scored Medium on CBRN and Persuasion. -</p>
+<p>o1 scored Low on Cybersecurity and Model Autonomy. -</p>
+<p>I found the Apollo report, the one that involves the supposed ‘escape attempts’ and what not, centrally unsurprising, given what we already knew. -</p>
+<p>Generally, what I’ve seen so far is about what one would expect.</p>
+<p><a href="https://cdn.openai.com/o1-system-card-20241205.pdf" rel="nofollow">Here is the system card</a> if you want to look at that in the meantime.</p>
+<h4>Rule One</h4>
+<p><a href="https://x.com/repligate/status/1864957792664080577" rel="nofollow">For practical use purposes, evals are negative selection, you need to try it out</a>.</p>
+<blockquote></blockquote>
+<p>Janus: You should definitely try it out and ignore evaluations and such.</p>
+<p>Roon: The o1 model is quite good at programming. In my use, it’s been remarkably better than the o1 preview. You should just try it and mostly ignore evaluations and such.</p>
+<h4>Turning Pro</h4>
+<p><a href="https://openai.com/index/introducing-chatgpt-pro/" rel="nofollow">OpenAI introduces ChatGPT Pro</a>, a $200/month service offering unlimited access to all of their models, including a special o1 pro mode where it uses additional compute.</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/gallabytes/status/1864712274042359854" rel="nofollow">Gallabytes</a>: haha yes finally someone offers premium pricing. if o1 is as good as they say I'll be a very happy user.</p>
+<p>Yep, premium pricing options are awesome. More like this, please.</p>
+<p>$20/month makes your decision easy. If you don’t subscribe to at least one paid service, you’re a fool. If you’re reading this, and you’re not paying for both Claude and ChatGPT at a minimum, you’re still probably making a mistake.</p>
+<p>At $200/month for ChatGPT Pro, or $2,400/year, we are plausibly talking real money. That decision is a lot less obvious.</p>
+<p>The extra compute helps. The question is how much?</p>
+<p>You can mostly ignore all the evals and scores. It’s not about that. It’s about what kind of practical boost you get from unlimited o1 pro and o1 (and voice mode).</p>
+<p>When o1 pro is hooked up to an IDE, a web browser or both, that will make a huge practical difference. Right now, it offers neither. It’s a big jump by all reports in deep reasoning and complex PhD-level or higher science and math problems. It solves especially tricky coding questions exceptionally well. But how often are these the modalities you want, and how much value is on the table?</p>
+<p><a href="https://x.com/TheZvi/status/1865403972296569203" rel="nofollow">Early poll results</a> (where a full 17% of you said you’d already tried it!) had a majority say it mostly isn’t worth the price, with only a small fraction saying it provides enough value for the common folk who aren’t mainlining.</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/fedd4a5904ca2c04.png" alt="None" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!NhqZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb647b073-7ff9-416c-986d-c3963da1ca4c_1063x662.png)</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/sama/status/1864836360366174371" rel="nofollow">Sam Altman agrees</a>: almost everyone will be best served by our free tier or the $20-per-month plus tier.</p>
+<p>A small percentage of users want to use ChatGPT a lot and hit rate limits, and want to pay more for more intelligence on truly difficult problems. The $200-per-month tier is good for them!</p>
+<p>I think Altman is wrong? Or alternatively, he’s actually saying ‘we don’t expect you to pay $200/month, it would be a bad look if I told you to pay that, and the $20/month product is excellent either way,’ which is reasonable.</p>
+<p>I would be very surprised if pro coders weren’t getting great value here. Even if you only solve a few tricky spots each month, that’s already huge.</p>
+<p>For short term practical personal purposes, those are the key questions.</p>
+<h4>Benchmarks</h4>
+<p>[</p>
+<p><img src="../../../mirror/post-media/8816357323d42ac5.jpg" alt="Image" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!WTI5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32ed49ed-429e-4f34-acfd-ebf0b1b784f8_1600x900.jpeg)</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/Miles_Brundage/status/1864839283556900868" rel="nofollow">Miles Brundage:</a> o1 pro mode is now (just barely) off this chart at 79%.</p>
+<p>Lest we forget, GPQA = "Google-proof question answering" in physics, bio, and chemistry - not easy stuff. 📈</p>
+<p><a href="https://www.vellum.ai/llm-leaderboard" rel="nofollow">Vellum verifies MMLU, Human Eval and MATH</a>, with very good scores: 92.3% MMLU, 92.4% HumanEval, 94.8% MATH. And that’s all for o1, not o1 pro.</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/60fdfcdab302a865.png" alt="None" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!EYVS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F023b8577-c0cb-4a65-b36a-d1b775f68b93_1888x413.png)</p>
+<p>These are big jumps. We also have 83% on AIME 2024.</p>
+<p>It’s cheating, in a sense, to compare o1 outputs to Sonnet or GPT-4o outputs, since it uses more compute. But in a more important sense, progress is progress.</p>
+<p><a href="https://x.com/genericname2134/status/1865534730139050023" rel="nofollow">Jason Li wrote the 2024 Putnam</a> and fed the questions into o1 (not pro), thinking it got at least half (60/120) and would place in the top ~2%. Dan Hendrycks offered to <a href="https://x.com/DanHendrycks/status/1865858756040704335" rel="nofollow">put them into o1 pro</a>, responses were less impressed, so there’s some mismatch somewhere, Dan suspects he used a worse prompt.</p>
+<p><a href="https://x.com/thegarrettscott/status/1864821209344438637" rel="nofollow">A middle-level-silly benchmark is to open the floor and see what people ask?</a></p>
+<blockquote></blockquote>
+<p>Garrett Scott: I just subscribed to OpenAI's $200/month subscription. Reply with questions to ask it and I will repost them in this thread.</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/0795d84d225a18a1.png" alt="Image" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!ILF7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1dafd6d0-4e1a-4a7d-9468-d1e85a20fef2_942x850.png)</p>
+<p>Tym Switzer: Budget response:</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/6464a4bf5f910511.jpg" alt="Image" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!Zem6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8aa12109-daaa-41ba-99aa-ce0607770fb0_1524x999.jpeg)</p>
+<p>Groan, fine, I guess, I mean I don’t really know what I was expecting.</p>
+<p>Twitter, the floor is yours. What have we got?</p>
+<p><a href="https://chatgpt.com/share/6752ca99-49ec-8011-bd33-f9420f046171" rel="nofollow">Here is o1 pro speculating about potential explanations for unexplained things</a>.</p>
+<p><a href="https://chatgpt.com/share/67525576-1f50-8011-9ce2-652bef331c18" rel="nofollow">Here is o1 pro searching for the alpha in public markets</a>, sure, but easy question.</p>
+<p><a href="https://chatgpt.com/share/6752c7fa-25c0-8011-a501-a13ac58e2851" rel="nofollow">Here is o1 pro’s flat tax plan</a>, good instruction following, except I have to dock it tons of points for proactively suggesting an asset tax, and for not analyzing how to avoid reducing net revenue even though that wasn’t requested.</p>
+<p><a href="https://x.com/thegarrettscott/status/1864917137694826943" rel="nofollow">Here is o1 pro explaining Thermodynamic Dissipative adaptation at a post-doc level.</a></p>
+<p>And Claude, commenting on that explanation, which it overall found strong:</p>
+<blockquote></blockquote>
+<p>Claude: The model appears to be prioritizing: -</p>
+<p>Accuracy over creativity -</p>
+<p>Comprehensiveness over depth -</p>
+<p>Safety over novelty -</p>
+<p>Structure over style</p>
+<p>There’s a lot more, <a href="https://x.com/thegarrettscott/status/1864821209344438637" rel="nofollow">I recommend browing the thread</a>.</p>
+<p>As usual, it seems like you want to play to its strengths, rather than asking generic questions. The good news is that o1’s strengths include fact recall, coding and math and science and logic.</p>
+<h4>Silly Benchmarks</h4>
+<p>I always find them fun, but do not forget that they are deeply silly.</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/colin_fraser/status/1864793382582714572" rel="nofollow">Colin Fraser</a>: I made this for you guys that you can print out as a reference that you can consult before sending me a screenshot</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/f3531be432a69dfc.png" alt="Image" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!dHZX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96f3b617-909b-4804-ac46-6a056d3388ae_592x340.png)</p>
+<p>This seems importantly incomplete, even when adjusting so ‘easy’ and ‘hard’ refer to what you would expect to be easy or hard for a computer of a given type, rather than what would be easy or hard for a human. That’s because a lot of what matters is how the computer gets the answer right or wrong. We are far too results oriented, here as everywhere, rather than looking at the steps and breaking down the methods.</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/__nmca__/status/1864739625140654469" rel="nofollow">Nat McAleese</a>: on the first day of shipmas, o1 said to me: there are three r’s in strawberry.</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/d2cc8ff6696ad0db.jpg" alt="Image" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!JK0Z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2eaadff-296f-4ffd-adee-c9cdaf857cf6_1086x1378.jpeg)</p>
+<p><a href="https://x.com/goodside/status/1865411980187591084" rel="nofollow">Fun with self-referential math questions</a>.</p>
+<blockquote></blockquote>
+<p>Riley Goodside: Remarkable answer from o1 here — the reply author below tried to replicate my answer for this prompt (60,466,176) and got a different one they assumed was an error, but it isn't.</p>
+<p>In words, 205,891,132,094,649 has 41 vowels</p>
+<p>And (41 - 14)^10 = 205,891,132,094,649.</p>
+<p>[</p>
+<p>![Screenshot of ChatGPT o1 dialog, created by author of quoted reply below using the same prompt from my earlier example</p>
+<p>User: In words, what is (x - 14)^10 where x is the number of vowels in the answer to this question?</p>
+<p>ChatGPT: two hundred five trillion eight hundred ninety-one billion one hundred thirty-two million ninety-four thousand six hundred forty-nine](../post-media/21704d4226bcf0ce.jpg)</p>
+<p>](https://substackcdn.com/image/fetch/$s_!5MYg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35a976e3-9453-4087-9475-77e4ea0cf8e9_1170x1011.jpeg)</p>
+<p><a href="https://x.com/tinkady2/status/1866158387643466035" rel="nofollow">Still failing to notice 9.8 is more than 9.11, I see</a>? <a href="https://x.com/Alfred19orac/status/1864845659397915073" rel="nofollow">Although here o1 pro passes.</a></p>
+<p><a href="https://t.co/MEY3aR1q5i" rel="nofollow">Ask it to solve physics?</a></p>
+<blockquote></blockquote>
+<p>Siraj Raval: Spent $200 on o1 Pro and casually asked it to solve physics. 'Unify general relativity and quantum mechanics,' I said. No string theory, no loops. It gave me wild new math and testable predictions like it was nothing. <a href="https://t.co/MEY3aR1q5i" rel="nofollow">Full link</a>.</p>
+<p>Justin Kruger: Ask o1 Pro to devise a plan for directly observing continents on a terrestrial planet within 10 light-years of Earth and getting a 4k image back in our lifetime for less than $100B. Then ask it for a plan to get a human on that planet for less than $1T.</p>
+<p>Siraj Raval: Done. <a href="https://t.co/IOtfgFKAzI" rel="nofollow">It's devised plan is geniu</a>s.</p>
+<p>The answer to physics is of course completely Obvious Nonsense but the question essentially asked for completely Obvious Nonsense, so… not bad?</p>
+<p><a href="https://x.com/lefthanddraft/status/1864827063418618014" rel="nofollow">Failing to remember that the Earth is a sphere</a>, which is relevant when a plane flies far enough.</p>
+<p><a href="https://x.com/gallabytes/status/1865996797354905728" rel="nofollow">Gallabytes goes super deep on the all-important tic-tac-toe benchmark</a>, for a while was impressed that he couldn’t beat it, <a href="https://x.com/gallabytes/status/1865875547269832922" rel="nofollow">then did anyway</a>.</p>
+<p><a href="https://x.com/0xStephenByrne/status/1864756038882189566" rel="nofollow">Actually not a bad benchmark. Diminishing returns, so act now.</a></p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/79392ecaa3c85930.png" alt="None" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!GkYT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fc87ad3-c85a-490b-8350-9a6ac3242130_1041x944.png)</p>
+<p><a href="https://x.com/nickfloats/status/1864809576840704189" rel="nofollow">Here is an especially silly question to focus on:</a></p>
+<blockquote></blockquote>
+<p>Nick St. Pierre: AGI 2025.</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/039bc34548e9264c.jpg" alt="Image" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!2EKA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd23bb5fe-e83d-4769-aba2-8f0593d6b5fc_2626x2334.jpeg)</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/70a2f8ea6af43be4.png" alt="Image" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!nrox!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F643343e6-bdcd-43e6-9851-1fbae62a0949_2438x2216.png)</p>
+<h4>Reactions to o1</h4>
+<p>Reactions to o1 were almost universally positive. It’s a good model, sir.</p>
+<p>The basics: It’s relatively fast, and seems to hallucinate less.</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/DanielleFong/status/1864832191886492123" rel="nofollow">Danielle Fong</a>: o1 is really fast; I like this.</p>
+<p><a href="https://x.com/NickADobos/status/1864760903935365327" rel="nofollow">Nick Dobos</a>: o1 is fully rolled out to me. First impression:</p>
+<p>Wow! o1 is cracked. What the</p>
+<p>It's so fast, and half the reason I was using Sonnet 3.6 was simply that o1 preview was slow. Half the time, I just needed something simple and quick, and it's knocking my initial, admittedly simple coding questions out of the park so far.</p>
+<p><a href="https://x.com/tylercowen/status/1864957626762825933" rel="nofollow">Tyler Cowen</a>: With the full o1 model, the rate of hallucination is much lower.</p>
+<p><a href="https://x.com/OpenAI/status/1864735516455010475" rel="nofollow">OpenAI</a>: OpenAI o1 is more concise in its thinking, resulting in faster response times than o1-preview.</p>
+<p>Our testing shows that o1 outperforms o1-preview, reducing major errors on difficult real-world questions by 34%.</p>
+<p>Note that on the ‘hallucination’ tests per se, o1 did not outperform o1-preview.</p>
+<p>The ‘vibe shift’ here is presumably as compared to o1-preview, which I like many others concluded wasn’t worth using in most cases.</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/sama/status/1865259403722789186" rel="nofollow">Sam Altman</a> (December 6, 11:57 p.m.): Fun watching the vibes shift so quickly on o1 :)</p>
+<p>Glad you like it!</p>
+<p><a href="https://marginalrevolution.com/marginalrevolution/2024/12/o1-explains-why-you-should-not-dismiss-fischer-black-on-money-and-prices.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=o1-explains-why-you-should-not-dismiss-fischer-black-on-money-and-prices" rel="nofollow">Tyler Cowen finds o1 to be an excellent economist</a>, and hard to stump.</p>
+<p><a href="https://x.com/amasad/status/1865327138444067222" rel="nofollow">Amjad Masad complains the model</a> is not ‘reasoning from first principles’ on controversial questions but rather defaulting to consensus and calling everything else a conspiracy theory. I am confused why he expected it to suddenly start Just Asking Questions, given how it is being trained, and given how reliable consensus is in such situations versus Just Asking Questions, by default?</p>
+<p>I bet you could still get it to think with better prompting. I think a certain type of person (which definitely includes Masad) is very inclined to find this type of fault, but as John Schulman explains, you couldn’t do it directly any other way even if you wanted to:</p>
+<blockquote></blockquote>
+<p>John Shulman: Nope, we don't know how to train models to reason about controversial topics from first principles; we can only train them to reason on tasks like math calculations and puzzles where there's an objective ground truth answer. On general tasks, we only know how to train them to imitate humans or maximize human approval. Nowadays post-training / alignment boosts benchmark scores, e.g. see <a href="https://t.co/utkGSw2iur" rel="nofollow">here.</a></p>
+<p>Amjad Masad: Ah makes sense. I tried to coax it to do Bayesian reasoning which was a bit more interesting.</p>
+<p>Andrej Karpathy: The pitch is that reasoning capabilities learned in reward-rich settings transfer to other domains, the extent to which this turns out to be true is a large weight on timelines.</p>
+<p>So far, the answer seems to be that it transfers some, and o1 and o1-pro still seem highly useful in ways beyond reasoning, but o1-style models mostly don’t ‘do their core thing’ in areas where they couldn’t be trained on definitive answers.</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/HaileyStormC/status/1865940269583265895" rel="nofollow">Hailey Collet</a>: I've had several coding tasks where o1 has succeed that o1-preview had failed (can't share details). Today, I successfully used o1 to perform some challenging pytorch optimization. It was a fight, whereas in this instance QwQ succeeded 1st try. O1-pro, by another use, also nailed.</p>
+<p>Girl Lich: It's better at rpg character optimization, which is not a domain would have expected then to train it on.</p>
+<p><a href="https://x.com/IronLordByron/status/1865968896290738210" rel="nofollow">Lord Byron’s Iron</a>: I'm using o1 (not pro) to debug my deckbuilder roguelike game</p>
+<p>It's much much better at debugging than Claude, generally correctly diagnosing bugs on first try assuming adequate context. And its code isn't flawless but requires very little massaging to make work.</p>
+<h4>Reactions to o1 Pro</h4>
+<p>Reactions to o1 Pro by professionals seem very, very positive, although it does not strictly dominate Claude Sonnet.</p>
+<blockquote></blockquote>
+<p>William: Tech-debt deflation is here.</p>
+<p>O1 Pro just solved an incredibly complicated and painful rewrite of a file that no other model has ever come close to.</p>
+<p>I have been using this in an evaluation for different frontier models, and this marks a huge shift for me.</p>
+<p>We’ve entered the “why fix your code today when a better model will do it tomorrow” regime.</p>
+<p>[[Here is an example.]](https://chatgpt.com/share/6753b769-0ea8-8005-a4ff-8e85c8f19a6a)</p>
+<p>Holy shit! Holy shit! Holy shit!</p>
+<p><a href="https://x.com/deanwball/status/1865234149373526437" rel="nofollow">Dean Ball</a>: I am thinking about writing a review of o1 Pro, but for now, the above sums up my thoughts quite well.</p>
+<p><a href="https://www.reddit.com/r/OpenAI/comments/1h82pl3/comment/m0udp3p/" rel="nofollow">TPIronside notes</a> that while Claude Sonnet produces cleaner code, o1 is better at avoiding subtle errors or working with more obscure libraries and code bases. So you’d use Sonnet for most queries, but when something is driving you crazy you would pull out o1 Pro.</p>
+<p>The key is what William realizes. The part where something is driving you crazy, or you have to pay down tech debt, is exactly where you end up spending most of your time (in my model and experience). That’s the hard part. So this is huge.</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/SullyOmarr/status/1865467794801971464" rel="nofollow">Sully</a>: O1-Pro is probably the best model I've used for coding, hands down.</p>
+<p>I gave it a pretty complicated codebase and asked it to refactor, referencing the documentation.</p>
+<p>The difference between Claude, Gemini, O1, and O1-Pro is night and day.</p>
+<p>The first time in a while I've been this impressed.</p>
+<p>Full comparison in the video plus code.</p>
+<p><a href="https://x.com/SullyOmarr/status/1865929427546427456" rel="nofollow">Yeah, haha, I'm</a> pretty sure I got $200 worth of coding done just this weekend using O1-Pro.</p>
+<p>I'm really liking this model the more I use it.</p>
+<p><a href="https://x.com/SullyOmarr/status/1865881301951160389" rel="nofollow">Sully</a>: With how smart O1-Pro is, the challenge isn’t really “Can the model do it?” anymore.</p>
+<p>It's bringing all the right data for the model to use.</p>
+<p>Once it has the right context, it basically can do just about anything you ask it to.</p>
+<p>And no copy-pasting, ragging, or “projects” don’t solve this 100%.</p>
+<p>There has to be some workflow layer.</p>
+<p>Not quite sure what it is yet.</p>
+<p>Sully also notes offhand he thinks Gemini-1206 is quite good.</p>
+<p><a href="https://www.reddit.com/r/OpenAI/comments/1h82pl3/i_spent_8_hours_testing_o1_pro_200_vs_claude/" rel="nofollow">Kakachia777 does a comparison of o1 Pro to Claude 3.5 Sonnet</a>, prefers Sonnet for coding because its code is easier to maintain. They have o1 pro somewhat better at deeper reasoning and complex tasks but not as much as others are saying, and recommends o1 Pro only for those who do specialized PhD-level tasks.</p>
+<p>That post also claims new Chinese o1-style models are coming that will be much improved. As always, we shall wait and see.</p>
+<p>For that wheelhouse, many report o1 Pro is scary good. Here’s one comment on Kakachia’s post.</p>
+<blockquote></blockquote>
+<p><a href="https://www.reddit.com/r/OpenAI/comments/1h82pl3/comment/m0ptaze/" rel="nofollow">T-Rex MD</a>: Just finished my own testing. The science part, I can tell you, no AI, and No human has ever even come close to this.</p>
+<p>I ran 4 separate windows at the same time, previously known research ended in roadblocks and met premature ending, all done and sorted. The o1-preview managed to break down years to months, then through many refinement, to 5 days. I have now redone all of that and finished it in 5-6 hours.</p>
+<p>Other AIs fail to reason like I do or even close to what I do. My reasoning is extremely specific and medicine - science driven and refined.</p>
+<p>I can safely say “o1-pro”, is the king, and unlikely to be de-throned at least until February.</p>
+<p><a href="https://x.com/DanielleFong/status/1864833798019641795" rel="nofollow">Danielle Fong is feeling the headpats</a>, and generally seems positive.</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/DanielleFong/status/1864734428611936392" rel="nofollow">Danielle Fong</a>: Just hired a new intern at $200/month.</p>
+<p>they’re cracked, no doubt, but i’m suspicious they might be working many jobs.</p>
+<p>And you can always count on him, but this one does hit a bit different:</p>
+<blockquote></blockquote>
+<p>McKay Wrigley (always the most impressed person): OpenAI o1 pro is <em>significantly</em> better than I anticipated.</p>
+<p>This is the 1st time a model’s come out and been so good that it kind of shocked me.</p>
+<p>I screenshotted Coinbase and had 4 popular models write code to clone it in 1 shot.</p>
+<p><a href="https://x.com/mckaywrigley/status/1865089975802646857" rel="nofollow">Guess which was o1 pro</a>.</p>
+<p>I will be devastated if o1 pro isn’t available via API.</p>
+<p>I’d pay a stupid sum of money per 1M tokens for whatever this steroid version of o1 is.</p>
+<p>Also, if you’re a “bUt tHe bEnChMarKs” person try actually working on normal stuff with it.</p>
+<p>It’s way better, and it’s not close.</p>
+<p>…</p>
+<p>The deeper I go down the rabbit hole the more impressed I get.</p>
+<p>This thing is different.</p>
+<p><a href="https://x.com/DeryaTR_/status/1865111388374601806" rel="nofollow">Derya Unutmaz reports o1 Pro unlocked great new ideas for his cancer therapy project</a>, and he’s super excited.</p>
+<p><a href="https://x.com/goodside/status/1865411980187591084" rel="nofollow">A relatively skeptical take</a> on o1-pro that still seems pretty sweet even so?</p>
+<blockquote></blockquote>
+<p>Riley Goodside: Problems o1 pro can solve that o1 can’t at all are rare; mostly it feels like things that work half the time on o1 work 90% of the time on o1 pro.</p>
+<p><a href="https://x.com/ian_sneddon_53/status/1866202133126946848" rel="nofollow">Here’s one I didn’t expect.</a></p>
+<blockquote></blockquote>
+<p>Wolf of Walgreens: Incredibly useful for fact recall. Disappointing for math (o1pro)</p>
+<p>Reliable fact recall is valuable, but why would o1 pro be especially good at it? It seems like that would be the opposite of reasoning, or of thinking for a long time? But perhaps not. Seems like a clue?</p>
+<p><a href="https://x.com/SteveSokolowsk2/status/1866222698809942168" rel="nofollow">Potentially related is that Steve Sokolowski reports</a> it blows away other models at legal research, to the point of enabling pro se cases.</p>
+<h4>Let Your Coding Work Flow</h4>
+<p><a href="https://x.com/gallabytes/status/1865532695545286901" rel="nofollow">The problem with using o1 for coding, in a nutshell.</a></p>
+<blockquote></blockquote>
+<p>Gallabytes: how are people using o1 for coding? I've gotten so used to using cursor for this instead of a chat app. are you actually pasting in all the relevant context for the thing you want to do, then pasting the solution back into your editor?</p>
+<p>McKay Wrigley (professional impressed person <a href="https://x.com/mckaywrigley/status/1865912677329223853" rel="nofollow">who is indeed also impressed with Gemini 1206</a>, and is also a coder) is super impressed with o1, but will continue using Sonnet as well, because you often don’t want to have to step out of context.</p>
+<blockquote></blockquote>
+<p>McKay Wrigley: Finally has a reliable workflow.</p>
+<p>Significantly better than his current workflow.</p>
+<p>He’s basically replaced the Cursor Composer step with o1 Pro requests.</p>
+<p>o1 Pro can complete a shocking number of tasks in a single step.</p>
+<p>If he needs to do a few extra things, he uses Cursor Tab/Chat with Sonnet.</p>
+<p>Video coming soon.</p>
+<p>This basic idea makes sense. If you don’t need to rely on lots of context and want to essentially one-shot the problem, you want to Go Big with o1-pro.</p>
+<p>If you want to make small adjustments, or write cleaner code, you go with Sonnet.</p>
+<p>However, if Sonnet is failing at something and you’re going crazy, you can ‘pull out the bazooka’ and use o1-pro again, despite the context shifting. And indeed, that’s where the bulk of the actual pain comes, in my experience.</p>
+<p>Still, putting o1 straight into the IDE would be ten times better, and likely not only get me to definitely pay but also to code a lot more?</p>
+<h4>Some People Need Practical Advice</h4>
+<p><a href="https://x.com/tylercowen/status/1865282578053501033" rel="nofollow">I buy that this probably works.</a></p>
+<blockquote></blockquote>
+<p>Tyler Cowen: Addending "Take all the time you need" I find to be a useful general prompt with the o1 model.</p>
+<p>Ethan Mollick: Haven’t seen the thinking time change when prompted to think longer. But will keep trying.</p>
+<p>Tyler Cowen: Maybe it doesn’t need more time, it just needs to relax a bit!?</p>
+<p>A prompt that predicts a superior result is likely a very good prompt. So if this works without causing o1 to think for longer, my presumption is then that it works because people who take all the time they need, or are told they can do so, produce better answers, so this steers it into a space with better answers.</p>
+<p><a href="https://x.com/dwarkesh_sp/status/1865811654187032821" rel="nofollow">He also advises using o1</a> t<a href="https://x.com/tylercowen/status/1865007736062439639" rel="nofollow">o ask lots of questions</a> while reading books.</p>
+<blockquote></blockquote>
+<p>Tyler Cowen: With the new o1 model, often the best strategy is to get a good history book, to help you generate questions, and then to ask away. How long will it take the world to realize a revolution in reading has arrived?</p>
+<p>Dwarkesh Patel: Reading while constantly asking Claude questions is 2x harder and 4x more valuable.</p>
+<p>Bloom 2 Sigma on demand.</p>
+<p>To answer Tyler Cowen’s question, I mean, never, obviously. The revolution will not be televised, so almost everyone will miss it. People aren’t going to read books and stop to ask questions. That sounds like work and being curious and paying attention, and people don’t even read books when not doing any of those things.</p>
+<p>People definitely aren’t going to start cracking open history books. I mean, ‘cmon.</p>
+<p>The ‘ask LLMs lots of questions while reading’ tactic is of course correct. It was correct before using Claude Sonnet, and it’s highly plausible o1 makes it more correct now that you have a second option - I’m guessing you’ll want to mix up which one you use based on the question type. And no, you don’t have to jam the book in the context window - but you could, and in many cases you probably should. What, like it’s hard? If the book is too long, use Gemini-1206.</p>
+<p>That said, I’ve spent all day reading and writing and used almost no queries. I ask questions most often when reading papers, then when reading some types of books, but I rarely read books and I’ve been triaging away the papers for now.</p>
+<p>One should of course also be asking questions while writing, or reading blogs, or even reading Twitter, but mostly I end up not doing it.</p>
+<h4>Overall</h4>
+<p>It is early, but it seems clear that o1 and especially o1 pro are big jumps in capability for things in their wheelhouse. If you want what this kind of extended thinking can get you, including fact recall and relative lack of hallucinations, and especially large or tricky code, math or science problems, and likely most academic style questions, we took a big step up.</p>
+<p>When this gets incorporated into IDEs, we should see a big step up in coding. It makes me excited to code again, the way Claude Sonnet 3.5 did (and does, although right now I don’t have the time).</p>
+<p>Another key weakness is lack of web browsing. The combination of this plus browsing seems like it will be scary powerful. You’ll still want some combination of GPT-4o and Perplexity in your toolbox.</p>
+<p>For other uses, it is too early to tell when you would want to use this over Sonnet 3.5.1. My instinct is that you’d still probably want to default to Sonnet for questions where it should be ‘smart enough’ to give you what you’re looking for, or of course just ask both of them all the time. Also there’s Gemini-1206, which I’m hearing a bunch of positive vibes about, so it might also be worth a look.</p></div>
+    <p class="atags"><a class="atag" href="../../tags/kind--post/">kind:post</a> <a class="atag" href="../../tags/model--o1/">model:o1</a> <a class="atag" href="../../tags/official/">official</a> <a class="atag" href="../../tags/zvi/">zvi</a></p>
+  </main>
+</body>
+</html>

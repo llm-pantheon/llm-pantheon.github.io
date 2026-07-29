@@ -4,5 +4,5 @@
 
 i should revise since language models are pretty good -"Did I just GPT-2?" is probably better
 
-tags: author:anthrupad, kind:tweet, year:2023
-cited on: _dossiers/gpt-2.md
+tags: author:anthrupad, kind:tweet, on:gpt-2, year:2023
+cited on: _dossiers/gpt-2.md, gpt-2

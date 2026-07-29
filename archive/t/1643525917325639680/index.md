@@ -4,5 +4,5 @@
 
 Probably because they look like some kind of esoteric exploit that a hacker or a prankster may use against it. Claude is also reluctant - I love that all these models have different neuroses about gpt-4's compressed messages. https://t.co/7Wg6kdCZQ5
 
-tags: author:repligate, kind:tweet, model:gpt-4, year:2023
-cited on: _dossiers/claude-1.md
+tags: author:repligate, kind:tweet, model:gpt-4, on:claude-1, year:2023
+cited on: _dossiers/claude-1.md, claude-1

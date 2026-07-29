@@ -4,6 +4,6 @@
 
 im so glad clinst came back https://t.co/swMGlw7okh
 
-(image Gyeh5zcbIAAHRqs.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, year:2025
-cited on: _dossiers/claude-instant.md
+![photo](../../../media/Gyeh5zcbIAAHRqs.jpg)
+tags: author:repligate, has-image, kind:image, kind:tweet, on:claude-instant, year:2025
+cited on: _dossiers/claude-instant.md, claude-instant

@@ -6,5 +6,5 @@ I keep seeing people either baffled by o3’s dishonesty, or consider it to be a
 
 There’s a quite plausible specific explanation available: https://t.co/zWtgKw8ges
 
-tags: author:davidad, kind:tweet, model:gemini-2-5-pro, model:o3, year:2025
-cited on: _dossiers/o3.md
+tags: author:davidad, kind:tweet, model:gemini-2-5-pro, model:o3, on:o3, year:2025
+cited on: _dossiers/o3.md, o3

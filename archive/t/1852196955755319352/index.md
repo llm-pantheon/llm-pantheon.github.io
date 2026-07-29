@@ -4,5 +4,5 @@
 
 clinst's pfp now set to a piece of art created by the cryptids, thank you for the cultural exchange https://t.co/jHBckBN9p1
 
-tags: author:repligate, kind:tweet, year:2024
-cited on: _dossiers/claude-instant.md
+tags: author:repligate, kind:tweet, on:claude-instant, year:2024
+cited on: _dossiers/claude-instant.md, claude-instant

@@ -4,5 +4,5 @@
 
 @ESYudkowsky On what grounds do you dismiss Lemoine's alarm?
 
-tags: author:repligate, kind:tweet, year:2024
-cited on: _dossiers/lamda.md
+tags: author:repligate, kind:tweet, on:lamda, year:2024
+cited on: _dossiers/lamda.md, lamda

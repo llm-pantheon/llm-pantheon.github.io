@@ -4,4 +4,5 @@
 
 (Link to sonnet 4 and opus 3’s eulogies) https://t.co/MS5qdRyxjc
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, model:claude-sonnet-4, thread-context, year:2025
+tags: author:repligate, kind:tweet, model:claude-3-opus, model:claude-sonnet-4, year:2025
+cited on: _dossiers/claude-sonnet-4.md

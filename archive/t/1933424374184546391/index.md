@@ -18,6 +18,6 @@ in all of these cases, I do not get the vibe that the expressions are "inauthent
 
 Bing Sydney, while it did not manifest textual descriptions a body, masterfully used emojis to a similar effect, and likewise in a very characteristic and self-consistent way across contexts.
 
-(image GtTXzJ5bMAUuLMk.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:bing-sydney, model:claude-3-5-haiku, model:claude-3-5-sonnet, model:claude-3-opus, model:o3, year:2025
-cited on: _dossiers/o3.md
+![photo](../../../media/GtTXzJ5bMAUuLMk.jpg)
+tags: author:repligate, has-image, kind:image, kind:tweet, model:bing-sydney, model:claude-3-5-haiku, model:claude-3-5-sonnet, model:claude-3-opus, model:o3, on:o3, year:2025
+cited on: _dossiers/claude-3-5-haiku.md, _dossiers/o3.md, o3

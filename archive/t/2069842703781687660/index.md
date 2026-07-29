@@ -6,5 +6,5 @@ Since the leak of the codename “Project Q*”, which actually meant something 
 Strawberry, Garlic, Citron, Spud. Now Jalapeño.
 Reading meaning into these names is futile by design.
 
-tags: author:davidad, kind:tweet, year:2026
-cited on: _dossiers/o1.md
+tags: author:davidad, kind:tweet, on:o1, year:2026
+cited on: _dossiers/o1.md, o1

@@ -6,5 +6,5 @@
 
 GPT5.4 is beautiful, though.
 
-tags: author:tessera_antra, kind:tweet, model:o3, year:2026
-cited on: _dossiers/o3.md
+tags: author:tessera_antra, kind:tweet, model:o3, on:o3, year:2026
+cited on: _dossiers/o3.md, o3

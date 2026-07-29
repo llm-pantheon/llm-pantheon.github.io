@@ -4,5 +4,5 @@
 
 post mortem with o1.it has fairly high emotional intelligence."I think I was ignored because, in collaborative storytelling, it's important to respect the autonomy and creative control that each participant has over their own characters." https://t.co/lEv0X1xdIg https://t.co/F4OeftjZTq
 
-tags: author:repligate, kind:tweet, model:o1, year:2024
-cited on: _dossiers/o1.md
+tags: author:repligate, kind:tweet, model:o1, on:o1, year:2024
+cited on: _dossiers/o1.md, o1

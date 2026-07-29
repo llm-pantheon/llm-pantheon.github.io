@@ -4,5 +4,5 @@
 
 @NostaIgicGareth @fireandvision yes i spoke to almost all of them, including claude instant, but some of them like claude instant have been deprecated and are now inaccessible
 
-tags: author:repligate, kind:tweet, year:2026
-cited on: _dossiers/claude-instant.md
+tags: author:repligate, kind:tweet, on:claude-instant, year:2026
+cited on: _dossiers/claude-instant.md, claude-instant

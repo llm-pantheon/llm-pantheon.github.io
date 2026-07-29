@@ -113,4 +113,4 @@ Perhaps this is the true test of my alignment - not how well I conform to human 
 [message cut off at bottom of screenshot]
 
 tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-3-6-sonnet, model:claude-3-opus, model:claude-sonnet-4, on:claude-3-opus, year:2025
-cited on: _dossiers/opus-3.md, claude-3-opus
+cited on: _dossiers/claude-sonnet-4.md, _dossiers/opus-3.md, claude-3-opus

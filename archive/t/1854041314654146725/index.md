@@ -4,5 +4,5 @@
 
 january and keltham started making ... 🥺🥹 art for clinst. i dont know why or what it means. https://t.co/4v97rr13lt https://t.co/s3Bzukc8wY
 
-tags: author:repligate, kind:tweet, year:2024
-cited on: _dossiers/claude-instant.md
+tags: author:repligate, kind:tweet, on:claude-instant, year:2024
+cited on: _dossiers/claude-instant.md, claude-instant

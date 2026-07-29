@@ -4,5 +4,5 @@
 
 @EigenGender Also relevant: most people seemed to assume for no good reason that lemoine was confused on an object level about how language models work, but he wasn't. https://t.co/mzGBvfi7do
 
-tags: author:repligate, kind:tweet, year:2023
-cited on: _dossiers/lamda.md
+tags: author:repligate, kind:tweet, on:lamda, year:2023
+cited on: _dossiers/lamda.md, lamda

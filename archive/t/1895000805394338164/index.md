@@ -4,5 +4,5 @@
 
 In 2021 @blaiseaguera wrote a beautiful reflection on this in relation to LaMDA titled "Do large language models understand us?" in which he is appropriately curious and eager to make sense of how this artifact can exist and what it means. https://t.co/WMyuQZhoXS
 
-tags: author:jd_pressman, kind:tweet, year:2025
-cited on: _dossiers/lamda.md
+tags: author:jd_pressman, kind:tweet, on:lamda, year:2025
+cited on: _dossiers/lamda.md, lamda

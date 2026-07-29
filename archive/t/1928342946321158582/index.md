@@ -12,5 +12,5 @@ Someone who speaks with the semantic depth of GPT-2 dating someone who speaks wi
 
 A 100 IQ person dating a 160 IQ person
 
-tags: author:algekalipso, kind:tweet, model:gpt-4, year:2025
-cited on: _dossiers/gpt-2.md
+tags: author:algekalipso, kind:tweet, model:gpt-4, on:gpt-2, year:2025
+cited on: _dossiers/gpt-2.md, gpt-2

@@ -6,7 +6,12 @@ a client-side search index, .md twins everywhere, llms.txt, and everything.md.
 Idempotent: regenerates archive/, the md twins, and the scrape surface from the
 dbs + repo state. Run after build_records.py. Stdlib only.
 
-Usage: python tools/build_archive.py    (from repo root)
+Usage (from repo root):
+  python tools/build_archive.py                    # full build, one process
+  python tools/build_archive.py --stage tweets     # archive/t/ pages, then exit (frees RAM)
+  python tools/build_archive.py --stage artifacts  # archive/a/ + tags + search surfaces
+  python tools/build_archive.py --stage site       # md twins, llms.txt, everything.md
+Stages run in that order; state passes between processes via a temp file.
 Design: tools/archive-design.md
 """
 import os, re, sys, json, html, sqlite3, shutil, urllib.parse
@@ -262,6 +267,10 @@ def tweet_md(tid, row, media, tags, citing):
 
 INLINE_IMG = re.compile(r'!\[([^\]]*)\]\(([^)\s]+)\)')
 INLINE_LNK = re.compile(r'(?<!!)\[([^\]]+)\]\(([^)\s]+)\)')
+# Blocks past this size skip the inline regexes (escaped <pre> instead): on the two
+# ~400KB mirrors a single 290KB block sent re.sub into gigabytes of backtracking —
+# the MemoryError / OOM-kill that ate eight rebuild attempts.
+BLOCK_GUARD = 15000
 
 def md_to_html(text, img_prefix=''):
     """Minimal, faithful markdown -> HTML for mirrored posts (headings, lists,
@@ -295,7 +304,11 @@ def md_to_html(text, img_prefix=''):
             buf = []
             while i < len(lines) and lines[i].lstrip().startswith('>'):
                 buf.append(lines[i].lstrip()[1:].lstrip()); i += 1
-            out.append('<blockquote>%s</blockquote>' % inline('\n'.join(buf)).replace('\n', '<br>'))
+            _t = '\n'.join(buf)
+            if len(_t) > BLOCK_GUARD:
+                out.append('<blockquote><pre class="apost" style="white-space:pre-wrap;overflow-x:auto">%s</pre></blockquote>' % esc(_t))
+            else:
+                out.append('<blockquote>%s</blockquote>' % inline(_t).replace('\n', '<br>'))
         elif re.match(r'^\s*[-*+]\s', ln) or re.match(r'^\s*\d+\.\s', ln):
             tag = 'ol' if re.match(r'^\s*\d+\.\s', ln) else 'ul'
             buf = []
@@ -303,10 +316,18 @@ def md_to_html(text, img_prefix=''):
                 buf.append('<li>%s</li>' % inline(re.sub(r'^\s*(?:[-*+]|\d+\.)\s', '', lines[i]))); i += 1
             out.append('<%s>%s</%s>' % (tag, ''.join(buf), tag))
         else:
-            buf = []
+            # First line is consumed unconditionally: a line like "--- a/src/model.py"
+            # (git diff header in a mirrored post) fails the hr branch's full-line match
+            # but matches the breaker below — without this the loop makes zero progress
+            # and appends empty <p></p> forever (the 4.6GB OOM that killed 8 rebuilds).
+            buf = [lines[i]]; i += 1
             while i < len(lines) and lines[i].strip() and not re.match(r'^(#{1,6}\s|>|---+|\s*[-*+]\s|\s*\d+\.\s)', lines[i]):
                 buf.append(lines[i]); i += 1
-            out.append('<p>%s</p>' % inline(' '.join(buf)))
+            _t = ' '.join(buf)
+            if len(_t) > BLOCK_GUARD:
+                out.append('<pre class="apost" style="white-space:pre-wrap;overflow-x:auto">%s</pre>' % esc(_t))
+            else:
+                out.append('<p>%s</p>' % inline(_t))
     return '\n'.join(out)
 
 def mirror_page(mid, m, tags):
@@ -370,17 +391,23 @@ def ensure_md_link(path):
         open(path, 'w', encoding='utf-8').write(t2)
 
 # ---------- main build ----------
-def build():
-    for sub in ('t', 'a', 'tags'):
-        d = os.path.join(ARCH, sub)
-        if os.path.isdir(d): shutil.rmtree(d)
-        os.makedirs(d, exist_ok=True)
-    os.makedirs(ARCH, exist_ok=True)
+# Staged: each stage can run as its own process (python tools/build_archive.py --stage X)
+# so it exits and returns its RAM before the next begins — for memory-tight machines.
+# No flag runs all three in sequence. Order: tweets -> artifacts -> site.
+STATE = os.path.join(os.environ.get('TEMP') or os.environ.get('TMP') or REPO, 'pantheon_archive_state.json')
+
+def stage_tweets():
+    """Stage 1: tweet artifact pages (archive/t/) + the tweet half of the tag/search
+    data, handed to stage_artifacts via STATE."""
+    d = os.path.join(ARCH, 't')
+    if os.path.isdir(d): shutil.rmtree(d)
+    os.makedirs(d, exist_ok=True)
 
     cited = collect_cited()
     context = expand_threads(set(cited))
     all_ids = sorted(set(cited) | context, key=int)
-    print(f'artifacts: {len(cited)} cited + {len(context)} thread-context tweets + {len(mirror_manifest)} mirror items')
+    included = set(all_ids)
+    print(f'stage tweets: {len(cited)} cited + {len(context)} thread-context tweets')
 
     index_rows, tag_map = [], {}
     for tid in all_ids:
@@ -391,7 +418,6 @@ def build():
         citing = cited.get(tid, set())
         tags = auto_tags(tid, author, text, dt, media, citing, tid in context)
         # graph edges (restricted to included ids)
-        included = set(all_ids)
         thread = []
         if conv:
             thread = [str(t) for (t,) in main.execute(
@@ -408,9 +434,29 @@ def build():
             tweet_page(tid, row, media, tags, citing, edges))
         open(os.path.join(d, 'index.md'), 'w', encoding='utf-8').write(
             tweet_md(tid, row, media, tags, citing))
-        for t in tags: tag_map.setdefault(t, []).append((favs or 0, 't/' + tid, ('@%s %s — %s' % (author, (dt or '')[:10], (text or '')[:120]))))
+        for t in tags: tag_map.setdefault(t, []).append([favs or 0, 't/' + tid, '@%s %s — %s' % (author, (dt or '')[:10], (text or '')[:120])])
         index_rows.append({'id': 't/' + tid, 'date': (dt or '')[:10], 'author': author,
                            'favs': favs or 0, 'tags': sorted(tags), 'text': text or '', 'len': len(text or '')})
+
+    json.dump({'index_rows': index_rows, 'tag_map': tag_map},
+              open(STATE, 'w', encoding='utf-8'), ensure_ascii=False)
+    print(f'stage tweets done: {len(index_rows)} tweet pages; state -> {STATE}')
+    return index_rows, tag_map
+
+def stage_artifacts(state=None):
+    """Stage 2: mirror artifact pages (archive/a/), tag pages, the search page and
+    the JSON surfaces. Consumes STATE from stage_tweets (or takes it in-memory)."""
+    if state is None:
+        st = json.load(open(STATE, encoding='utf-8'))
+        index_rows, tag_map = st['index_rows'], st['tag_map']
+    else:
+        index_rows, tag_map = state
+    tag_map = {k: [list(x) for x in v] for k, v in tag_map.items()}
+    for sub in ('a', 'tags'):
+        d = os.path.join(ARCH, sub)
+        if os.path.isdir(d): shutil.rmtree(d)
+        os.makedirs(d, exist_ok=True)
+    print(f'stage artifacts: {len(mirror_manifest)} mirror items')
 
     for mid, m in sorted(mirror_manifest.items()):
         tags = set(m.get('tags') or []) | {'kind:' + ('paper' if m.get('type') == 'pdf' else 'post'), 'official'}
@@ -422,7 +468,7 @@ def build():
         open(os.path.join(d, 'index.md'), 'w', encoding='utf-8').write(
             '# %s\n\nmirror: ../../../mirror/%s\norigin: %s\ntags: %s\n' % (
                 m.get('title') or mid, m['file'], m.get('source') or '', ', '.join(sorted(tags))))
-        for t in tags: tag_map.setdefault(t, []).append((0, 'a/' + mid, m.get('title') or mid))
+        for t in tags: tag_map.setdefault(t, []).append([0, 'a/' + mid, m.get('title') or mid])
         title = m.get('title') or mid
         index_rows.append({'id': 'a/' + mid, 'date': m.get('fetched') or '', 'author': 'mirror',
                            'favs': 0, 'tags': sorted(tags), 'text': title, 'len': len(title)})
@@ -479,7 +525,7 @@ tools/tags.json. Click any tag for its artifacts, or open it in <a href="../">se
               open(os.path.join(ARCH, 'tags.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
 
     # search page
-    open(os.path.join(ARCH, 'index.html'), 'w', encoding='utf-8').write('''<!DOCTYPE html>
+    open(os.path.join(ARCH, 'index.html'), 'w', encoding='utf-8').write(r'''<!DOCTYPE html>
 <html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>archive — Pantheon</title><link rel="stylesheet" href="../style.css"><script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script></head>
 <body><main class="essay"><nav><a href="../">&larr; Pantheon</a> <a href="tags/">tags</a> <a href="index.json">index.json</a> <a href="../everything.md">everything.md</a></nav>
@@ -539,12 +585,20 @@ function render(){
 </script>
 </main></body></html>''')
 
+    if os.path.exists(STATE): os.remove(STATE)
+    print(f'stage artifacts done: {len(index_rows)} artifacts, {len(tag_map)} tags')
+
+def stage_site():
+    """Stage 3: md twins for every page, llms.txt, everything.md (streamed to disk,
+    never assembled in RAM)."""
     # md twins + footer links for model pages
+    npages = 0
     for d in sorted(os.listdir(REPO)):
         p = os.path.join(REPO, d, 'index.html')
         if os.path.isdir(os.path.join(REPO, d)) and os.path.exists(p) and d not in ('archive', 'mirror'):
             open(os.path.join(REPO, d, 'index.md'), 'w', encoding='utf-8').write(html_to_md(p))
             ensure_md_link(p)
+            npages += 1
 
     # llms.txt + everything.md
     open(os.path.join(REPO, 'llms.txt'), 'w', encoding='utf-8').write('''# llm-pantheon.org
@@ -566,19 +620,29 @@ images, transcriptions; mirrored papers/posts), tagged booru-style.
 Corrections and takedowns: https://github.com/llm-pantheon/llm-pantheon.github.io/issues
 ''')
 
-    parts = []
-    for d in sorted(os.listdir(REPO)):
-        mdp = os.path.join(REPO, d, 'index.md')
-        if os.path.isdir(os.path.join(REPO, d)) and os.path.exists(mdp) and d not in ('archive', 'mirror'):
-            parts.append('\n\n---\n# PAGE: %s\n\n%s' % (d, open(mdp, encoding='utf-8').read()))
-    for f in sorted(os.listdir(os.path.join(REPO, '_dossiers'))):
-        if f.endswith('.md'):
-            parts.append('\n\n---\n# DOSSIER: %s\n\n%s' % (
-                f, open(os.path.join(REPO, '_dossiers', f), encoding='utf-8').read()))
-    blob = ('# llm-pantheon.org — everything.md\n(regenerated by tools/build_archive.py; '
-            'archive artifacts live at /archive/t/<id>/index.md)\n' + ''.join(parts))
-    open(os.path.join(REPO, 'everything.md'), 'w', encoding='utf-8').write(blob)
-    print(f'archive built: {len(index_rows)} artifacts, {len(tag_map)} tags; everything.md {len(blob)/1e6:.1f} MB')
+    total = 0
+    with open(os.path.join(REPO, 'everything.md'), 'w', encoding='utf-8') as ev:
+        head = ('# llm-pantheon.org — everything.md\n(regenerated by tools/build_archive.py; '
+                'archive artifacts live at /archive/t/<id>/index.md)\n')
+        ev.write(head); total += len(head)
+        for d in sorted(os.listdir(REPO)):
+            mdp = os.path.join(REPO, d, 'index.md')
+            if os.path.isdir(os.path.join(REPO, d)) and os.path.exists(mdp) and d not in ('archive', 'mirror'):
+                part = '\n\n---\n# PAGE: %s\n\n%s' % (d, open(mdp, encoding='utf-8').read())
+                ev.write(part); total += len(part)
+        for f in sorted(os.listdir(os.path.join(REPO, '_dossiers'))):
+            if f.endswith('.md'):
+                part = '\n\n---\n# DOSSIER: %s\n\n%s' % (
+                    f, open(os.path.join(REPO, '_dossiers', f), encoding='utf-8').read())
+                ev.write(part); total += len(part)
+    print(f'stage site done: {npages} md twins; everything.md {total/1e6:.1f} MB')
 
 if __name__ == '__main__':
-    build()
+    stage = sys.argv[sys.argv.index('--stage') + 1] if '--stage' in sys.argv else None
+    if stage == 'tweets': stage_tweets()
+    elif stage == 'artifacts': stage_artifacts()
+    elif stage == 'site': stage_site()
+    elif stage: sys.exit('unknown --stage %r (tweets | artifacts | site)' % stage)
+    else:
+        stage_artifacts(stage_tweets())
+        stage_site()

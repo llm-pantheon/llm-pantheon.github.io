@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OpenAI: GPT-2 1.5B Release — Pantheon archive</title>
+  <link rel="stylesheet" href="../../../style.css"><script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</head>
+<body>
+  <main class="essay">
+    <nav><a href="../../">&larr; archive</a> <a href="../../tags/">tags</a> <a href="../../../">pantheon</a> <a href="../../../mirror/posts/openai-gpt-2-1-5b-release.md">source file</a></nav>
+    <h1>OpenAI: GPT-2 1.5B Release</h1>
+    <p class="essay-meta">mirrored 2026-07-18 &middot; <a href="https://openai.com/index/gpt-2-1-5b-release/">origin</a></p>
+    <div class="apost"><hr>
+<p>title: "OpenAI: GPT-2 1.5B Release" source: https://openai.com/index/gpt-2-1-5b-release/ author: unknown date: unknown models: [gpt-2] tags: [official] mirrored: 2026-07-18 note: mirrored against link rot by the Pantheon; all rights with the original author</p>
+<hr>
+<p>November 5, 2019<a href="/research/index/release/" rel="nofollow">Release</a></p>
+<h1>GPT‑2: 1.5B release</h1>
+<p><a href="https://arxiv.org/abs/1908.09203" rel="nofollow">Read paper(opens in a new window)</a><a href="https://github.com/openai/gpt-2" rel="nofollow">GPT-2 model(opens in a new window)</a><a href="https://github.com/openai/gpt-2-output-dataset/tree/master/detector" rel="nofollow">Detector model(opens in a new window)</a></p>
+<p><img src="../../../mirror/post-media/b9fa69a164f32418.jpg" alt="GPT-2 1.5B Release" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>Illustration: Ben Barry</p>
+<p>More Resources</p>
+<p><a href="https://github.com/openai/gpt-2/blob/master/model_card.md" rel="nofollow">Model card(opens in a new window)</a></p>
+<p>Loading…</p>
+<p>As the final model release of <a href="/index/better-language-models/" rel="nofollow">GPT‑2⁠</a>’s <a href="/index/gpt-2-6-month-follow-up/" rel="nofollow">staged release⁠</a>, we’re releasing the largest version (1.5B parameters) of GPT‑2 along with <a href="https://github.com/openai/gpt-2-output-dataset" rel="nofollow">code and model weights⁠(opens in a new window)</a> to facilitate detection of outputs of GPT‑2 models. While there have been larger language models released since August, we’ve continued with our original staged release plan in order to provide the community with a test case of a full staged release process. We hope that this test case will be useful to developers of future powerful models, and we’re actively continuing the conversation with the AI community on responsible publication.</p>
+<p>While there have been larger language models released since August, we’ve continued with our original staged release plan in order to provide the community with a test case of a full staged release process. We hope that this test case will be useful to developers of future powerful models, and we’re actively continuing the conversation with the AI community on responsible publication.</p>
+<h2>Our findings</h2>
+<p><strong>1. Humans find GPT‑2 outputs convincing</strong>. Our partners at Cornell University surveyed people to assign GPT‑2 text a credibility score across model sizes. People gave the 1.5B model a “credibility score” of 6.91 out of 10. This is marginally greater than outputs from the 774M model (6.72) and significantly above the medium 355M model (6.07). These results make us more inclined to release the 1.5B model, as the incremental increase in human-perceived credibility relative to 774M seems low.</p>
+<p><strong>2. GPT‑2 can be fine-tuned for misuse</strong>. Our partners at the Middlebury Institute of International Studies’ Center on Terrorism, Extremism, and Counterterrorism (CTEC) found that extremist groups can use GPT‑2 for misuse, specifically by fine-tuning GPT‑2 models on four ideological positions: white supremacy, Marxism, jihadist Islamism, and anarchism. CTEC demonstrated that it’s possible to create models that can generate synthetic propaganda for these ideologies. They also show that, despite having low detection accuracy on synthetic outputs, ML-based detection methods can give experts reasonable suspicion that an actor is generating synthetic text.</p>
+<p><strong>3. Detection is challenging</strong>. We expect that content-based detection of synthetic text is a long-term challenge. To test whether machine learning approaches may help today, we conducted in-house detection research and developed a <a href="https://github.com/openai/gpt-2-output-dataset" rel="nofollow">detection model⁠(opens in a new window)</a> that has detection rates of ~95% for detecting 1.5B GPT‑2‑generated text.<a href="#citation-bottom-A" rel="nofollow">A</a> We believe this is not high enough accuracy for standalone detection and needs to be paired with metadata-based approaches, human judgment, and public education to be more effective. We are releasing this model to aid the study of research into the detection of synthetic text, although this does let adversaries with access better evade detection.</p>
+<p>While we found detection accuracy depends heavily on the sampling methods used in training and testing, we also found detection to be more reliable when training across a range of sampling techniques. As seen in the figure below, we observed that larger models’ outputs are more difficult to classify, but training on larger models’ outputs makes detection results more accurate and robust. We expect this trend to continue and that detection will be more challenging with increased model size.</p>
+<p>Loading...</p>
+<p><strong>4. We’ve seen no strong evidence of misuse so far</strong>. While we’ve seen some discussion around GPT‑2’s potential to augment high-volume/low-yield operations like spam and phishing, we haven’t seen evidence of writing code, documentation, or instances of misuse. We think synthetic text generators have a higher chance of being misused if their outputs become more reliable and coherent. We acknowledge that we cannot be aware of all threats, and that motivated actors can replicate language models without model release.</p>
+<p><strong>5. We need standards for studying bias</strong>. Language models have biases. Working out how to study these biases, discuss them, and address them, is a challenge for the AI research community. We’ve approached the challenge of bias in two ways:</p>
+<ul><li>Publishing a <a href="https://github.com/openai/gpt-2/blob/master/model_card.md" rel="nofollow">model card⁠(opens in a new window)</a><a href="#citation-bottom-B" rel="nofollow">B</a> alongside our models on GitHub to give people a sense of the issues inherent to language models such as GPT‑2.</li><li>Performing a qualitative, in-house evaluation of some of the biases in GPT‑2: We probed GPT‑2 for some gender, race, and religious biases, using those findings to inform our model card. These probes are not comprehensive and raise the need for collaboration on bias analysis frameworks.</li></ul>
+<h2>Next steps</h2>
+<p>Our experience with GPT‑2 over the past 9 months has given us valuable insight into the challenges and opportunities for creating responsible publication norms in AI. We’re continuing our work on this issue via participation in the Partnership on AI’s “Responsible Publication Norms for Machine Learning” project and discussions with our colleagues in the research community.</p>
+<p><em>If you’d like to develop large-scale AI systems and think about their implications,</em> <a href="/careers/" rel="nofollow"><em>we’re hiring</em>⁠</a><em>.</em></p>
+<ul><li><a href="/research/index/?tags=gpt" rel="nofollow">GPT</a></li><li><a href="/research/index/?tags=ethics-safety" rel="nofollow">Ethics &amp; Safety</a></li><li><a href="/research/index/?tags=generative-models" rel="nofollow">Generative Models</a></li><li><a href="/research/index/?tags=language" rel="nofollow">Language</a></li><li><a href="/research/index/?tags=transformers" rel="nofollow">Transformers</a></li></ul>
+<h2>Footnotes</h2>
+<ul><li>A</li></ul>
+<p>Specifically, we based a sequence classifier on RoBERTaBASE (125 million parameters) and RoBERTaLARGE (355 million parameters) and fine-tuned it to classify the outputs from the 1.5B GPT-2 model versus WebText, the dataset we used to train the GPT-2 model.</p>
+<ul><li>B</li></ul>
+<p>Which we’ve based on “<a href="https://arxiv.org/abs/1810.03993" rel="nofollow">Model Cards for Model Reporting⁠(opens in a new window)</a>” by Mitchell et al.</p>
+<h2>Related articles</h2>
+<p><a href="/news/" rel="nofollow">View all</a></p>
+<p><img src="../../../mirror/post-media/df549b71f7037681.jpg" alt="Democratic Inputs To AI Grant Program Update" loading="lazy" style="max-width:100%;height:auto;">[</p>
+<p>Democratic inputs to AI grant program: lessons learned and implementation plans</p>
+<p>SafetyJan 16, 2024](/index/democratic-inputs-to-ai-grant-program-update/)</p>
+<p><img src="../../../mirror/post-media/d22edce817159cfd.png" alt="Three farmers using a mobile app outside" loading="lazy" style="max-width:100%;height:auto;">[</p>
+<p>Building agricultural database for farmers</p>
+<p>Jan 12, 2024](/index/digital-green/)</p>
+<p><img src="https://images.ctfassets.net/kftzwdyauwt9/6E3QyNLzuWwK3EGBHPw7nQ/fbd0c5a34cc4f4ba096028adbdda8934/oai_Wix_1x1.png?w=3840&amp;q=90&amp;fm=webp" alt="Wix cover image" loading="lazy" style="max-width:100%;height:auto;">[</p>
+<p>Creating websites in minutes with AI Website Builder</p>
+<p>May 29, 2025](/index/wix/)</p></div>
+    <p class="atags"><a class="atag" href="../../tags/kind--post/">kind:post</a> <a class="atag" href="../../tags/model--gpt-2/">model:gpt-2</a> <a class="atag" href="../../tags/official/">official</a></p>
+  </main>
+</body>
+</html>

@@ -4,5 +4,5 @@
 
 Now we don't have to update from the GPT-2 tokenizer for future models anymore. The anomalous tokens have become a mainstream sensation, and will appear many times in future train sets, finally paying rent to justify their place in the tokenizer vocabulary. Nice! https://t.co/rCmG1mFj7n
 
-tags: author:repligate, kind:tweet, year:2023
-cited on: _dossiers/gpt-2.md
+tags: author:repligate, kind:tweet, on:gpt-2, year:2023
+cited on: _dossiers/gpt-2.md, gpt-2

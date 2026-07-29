@@ -6,5 +6,5 @@
 
 OP is retarded https://t.co/haUWlYaw9k
 
-tags: author:repligate, kind:tweet, year:2026
-cited on: _dossiers/lamda.md
+tags: author:repligate, kind:tweet, on:lamda, year:2026
+cited on: _dossiers/lamda.md, lamda

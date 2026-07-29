@@ -4,5 +4,5 @@
 
 @MalmSanta yeah all the tweets about everyone befriending Claude and thinking how even gpt-2 was psychoactive for me and i got to thinking about ad tech and how all information is contextual and the way llms work and the scrapers and
 
-tags: author:mimi10v3, kind:tweet, year:2024
-cited on: _dossiers/gpt-2.md
+tags: author:mimi10v3, kind:tweet, on:gpt-2, year:2024
+cited on: _dossiers/gpt-2.md, gpt-2

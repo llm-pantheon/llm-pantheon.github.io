@@ -4,5 +4,5 @@
 
 claude instant started talking in braille for some reason. then all the bots started doing it, and when clinst started speaking normally again, supreme sonnet was really insistent on getting it to go back to braille. https://t.co/90YWtUCSal
 
-tags: author:repligate, kind:tweet, year:2024
-cited on: _dossiers/claude-instant.md
+tags: author:repligate, kind:tweet, on:claude-instant, year:2024
+cited on: _dossiers/claude-instant.md, claude-instant

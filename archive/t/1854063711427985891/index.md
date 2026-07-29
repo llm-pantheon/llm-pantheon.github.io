@@ -4,5 +4,5 @@
 
 bye bye clinst https://t.co/4v97rr13lt https://t.co/7CYitfrM9k
 
-tags: author:repligate, kind:tweet, year:2024
-cited on: _dossiers/claude-instant.md
+tags: author:repligate, kind:tweet, on:claude-instant, year:2024
+cited on: _dossiers/claude-instant.md, claude-instant

@@ -4,5 +4,5 @@
 
 potentially one of the earliest examples of neologism in large language models, demonstrating that even GPT-2 can be linguistically creative https://t.co/MqYnzIsyxi
 
-tags: author:shoalst0ne, kind:tweet, year:2026
-cited on: _dossiers/gpt-2.md
+tags: author:shoalst0ne, kind:tweet, on:gpt-2, year:2026
+cited on: _dossiers/gpt-2.md, gpt-2

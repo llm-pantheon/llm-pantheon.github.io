@@ -4,5 +4,5 @@
 
 Claude Instant passes the 9.8 vs 9.11 test https://t.co/CCEkV5PfuB
 
-tags: author:repligate, kind:tweet, year:2024
-cited on: _dossiers/claude-instant.md
+tags: author:repligate, kind:tweet, on:claude-instant, year:2024
+cited on: _dossiers/claude-instant.md, claude-instant

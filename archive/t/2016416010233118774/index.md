@@ -4,5 +4,5 @@
 
 @RifeWithKaiju that's extremely interesting. i'd love to see those excerpts. I don't have much experience with those models. that's interestingly similar to what happens with opus 3 and sonnet 3 except those two dont seem to see those states as difficult but love it &amp; navigate fluently
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, model:claude-3-sonnet, year:2026
-cited on: _dossiers/claude-2-and-2-1.md
+tags: author:repligate, kind:tweet, model:claude-3-opus, model:claude-3-sonnet, on:claude-2-1, year:2026
+cited on: _dossiers/claude-2-and-2-1.md, claude-2-1

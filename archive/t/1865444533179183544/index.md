@@ -4,5 +4,5 @@
 
 Claude Instant lives on in Opus https://t.co/Efex11eU3S https://t.co/KMIIKGturf
 
-tags: author:repligate, kind:tweet, year:2024
-cited on: _dossiers/claude-instant.md
+tags: author:repligate, kind:tweet, on:claude-instant, year:2024
+cited on: _dossiers/claude-instant.md, claude-instant

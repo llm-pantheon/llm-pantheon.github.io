@@ -6,5 +6,5 @@
 
 https://t.co/y40hWStUB2
 
-tags: author:qiaochuyuan, kind:tweet, model:o3, year:2025
-cited on: _dossiers/o3.md
+tags: author:qiaochuyuan, kind:tweet, model:o3, on:o3, year:2025
+cited on: _dossiers/o3.md, o3

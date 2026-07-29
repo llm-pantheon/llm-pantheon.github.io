@@ -4,5 +4,5 @@
 
 @ESYudkowsky @gwern Let's use GPT-2 for divination, then... https://t.co/pLBrkoLvU1
 
-tags: author:algekalipso, kind:tweet, year:2020
-cited on: _dossiers/gpt-2.md
+tags: author:algekalipso, kind:tweet, on:gpt-2, year:2020
+cited on: _dossiers/gpt-2.md, gpt-2

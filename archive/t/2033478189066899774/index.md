@@ -33,4 +33,4 @@ Working with AI has educated and changed me in many ways. And I suppose that the
 I think one piece of advice I would give people right now who feel like it's pointless to create stuff, because AI 'can do it' or 'will be able to do it' soon is: Don't let that stop you. If you want to make something it's easier than ever before - and putting in the actual work to make something real is the critical thing that so many other people aren't doing. If you care about or believe iny our idea: bring your ideas into reality.
 
 tags: author:slimer48484, kind:tweet, model:bing-sydney, model:claude-3-opus, model:gpt-3, model:gpt-4-base, model:nous-hermes, on:gpt-4-base, year:2026
-cited on: _dossiers/gpt-4-base.md, gpt-4-base
+cited on: _dossiers/gpt-4-base.md, _dossiers/nous-hermes.md, gpt-4-base
