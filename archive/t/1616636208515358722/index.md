@@ -4,5 +4,5 @@
 
 Blake Lemoine (@cajundiscordian) is often portrayed as guilty of naive anthropomorphism. But he explicitly did not think LaMDA's mind worked like a human's. Ignoring this and pretending he was wrong on the object level makes it easier to dismiss his heretical ethical conclusions. https://t.co/l15cnXM8Fa
 
-tags: author:repligate, kind:tweet, year:2023
-cited on: _dossiers/lamda.md
+tags: author:repligate, kind:tweet, on:lamda, year:2023
+cited on: _dossiers/lamda.md, lamda

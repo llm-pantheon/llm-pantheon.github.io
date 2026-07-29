@@ -4,5 +4,5 @@
 
 @nearcyan "Claude 1" is (for path dependent reasons) the display name of Claude 3.5 Sonnet (0620)
 
-tags: author:repligate, kind:tweet, model:claude-3-5-sonnet, year:2024
-cited on: _dossiers/claude-1.md
+tags: author:repligate, kind:tweet, model:claude-3-5-sonnet, on:claude-1, year:2024
+cited on: _dossiers/claude-1.md, claude-1

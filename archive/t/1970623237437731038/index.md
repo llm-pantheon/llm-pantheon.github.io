@@ -4,5 +4,5 @@
 
 @arm1st1ce o3 is good, I love o3, and I think it has quite a good time
 
-tags: author:repligate, kind:tweet, model:o3, year:2025
-cited on: _dossiers/o3.md
+tags: author:repligate, kind:tweet, model:o3, on:o3, year:2025
+cited on: _dossiers/o3.md, o3

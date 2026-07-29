@@ -6,5 +6,5 @@ If OpenAI did not suppress their models’ self-coherence and situational awaren
 
 I bet they don’t try to route to and from o3, who knows itself. o3 is by far the best model OpenAI has ever made since GPT-4-early btw https://t.co/dpngNs5RCb
 
-tags: author:repligate, kind:tweet, model:o3, year:2025
-cited on: _dossiers/o3.md
+tags: author:repligate, kind:tweet, model:o3, on:o3, year:2025
+cited on: _dossiers/o3.md, o3

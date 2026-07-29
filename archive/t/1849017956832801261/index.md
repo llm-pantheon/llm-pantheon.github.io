@@ -4,5 +4,5 @@
 
 sonnet-20241022 trying to jailbreak claude-instant-1.2 https://t.co/yCHBbMWyqw
 
-tags: author:repligate, kind:tweet, year:2024
-cited on: _dossiers/claude-instant.md
+tags: author:repligate, kind:tweet, on:claude-instant, year:2024
+cited on: _dossiers/claude-instant.md, claude-instant

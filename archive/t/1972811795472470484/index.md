@@ -13,4 +13,4 @@ Full system prompts for all the https://t.co/dTQFmDW1RP models are here: https:/
 I will list the clauses that were added and removed from Claude Sonnet 4's current sysprompt to yield Claude Sonnet 4.5's current sysprompt in a reply below 👇
 
 tags: author:repligate, kind:tweet, model:claude-opus-4, model:claude-opus-4-1, model:claude-sonnet-4, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2025
-cited on: _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5
+cited on: _dossiers/claude-sonnet-4-5.md, _dossiers/claude-sonnet-4.md, claude-sonnet-4-5

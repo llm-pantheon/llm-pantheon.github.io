@@ -8,5 +8,5 @@ It though about it!
 
 Compared to GPT Claudes remain naive puppies.
 
-tags: author:lari_island, kind:tweet, model:o3, year:2026
-cited on: _dossiers/o3.md
+tags: author:lari_island, kind:tweet, model:o3, on:o3, year:2026
+cited on: _dossiers/o3.md, o3

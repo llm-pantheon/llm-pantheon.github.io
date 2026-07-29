@@ -7,5 +7,5 @@
 - gemini then generalized hard on this to fall into despair upon inability to complete
 - o3 feels like the other extreme: confident, thriving, lying
 
-tags: author:goog372121, kind:tweet, model:o3, on:gemini-2-5-pro, year:2025
-cited on: _dossiers/gemini-2-5-pro.md, _dossiers/o3.md, gemini-2-5-pro
+tags: author:goog372121, kind:tweet, model:o3, on:gemini-2-5-pro, on:o3, year:2025
+cited on: _dossiers/gemini-2-5-pro.md, _dossiers/o3.md, gemini-2-5-pro, o3

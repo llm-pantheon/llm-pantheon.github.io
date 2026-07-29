@@ -4,5 +4,5 @@
 
 ?? Were Claude and ChatGPT trained on the same data/by the same contractors? Convergent evolution? But why into something so specific and wrong? (No, the model does not only know what its creators @ [lab] designed it to know, this is an LLM for godsake) https://t.co/gD8NfUzCjD
 
-tags: author:repligate, kind:tweet, model:gpt-3-5, year:2023
-cited on: _dossiers/claude-1.md
+tags: author:repligate, kind:tweet, model:gpt-3-5, on:claude-1, year:2023
+cited on: _dossiers/claude-1.md, claude-1

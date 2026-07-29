@@ -4,5 +4,5 @@
 
 you'd think that boredom would push people to platforms that let you more easily "build your own mask", but afaict none have been that successful (besides cai / similar goonerware)
 
-tags: author:voooooogel, kind:tweet, year:2025
-cited on: _dossiers/character-ai.md
+tags: author:voooooogel, kind:tweet, on:character-ai, year:2025
+cited on: _dossiers/character-ai.md, character-ai

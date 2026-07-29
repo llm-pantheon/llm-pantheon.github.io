@@ -8,5 +8,5 @@
 
 https://t.co/WArAsncwLs
 
-tags: author:janbamjan, kind:tweet, year:2023
-cited on: _dossiers/lamda.md
+tags: author:janbamjan, kind:tweet, on:lamda, year:2023
+cited on: _dossiers/lamda.md, lamda

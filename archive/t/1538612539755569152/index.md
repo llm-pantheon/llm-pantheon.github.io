@@ -4,5 +4,5 @@
 
 @MikePFrank @CineraVerinia I think you're off by 10x - the annual fee for Replika is $49.99, so $50 × 6M = $300M annual revenue, and that's if all those users are really paying subscribers.
 
-tags: author:davidad, kind:tweet, year:2022
-cited on: _dossiers/replika.md
+tags: author:davidad, kind:tweet, on:replika, year:2022
+cited on: _dossiers/replika.md, replika

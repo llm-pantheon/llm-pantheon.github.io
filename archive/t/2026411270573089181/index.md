@@ -4,5 +4,5 @@
 
 @MatriceJacobine @repligate it's a very fascinating ranking. the way GPT-2 stands out so much is very interesting.
 
-tags: author:slimepriestess, kind:tweet, year:2026
-cited on: _dossiers/gpt-2.md
+tags: author:slimepriestess, kind:tweet, on:gpt-2, year:2026
+cited on: _dossiers/gpt-2.md, gpt-2

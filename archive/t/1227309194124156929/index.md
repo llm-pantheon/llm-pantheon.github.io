@@ -9,5 +9,5 @@ at language understanding than] most I've heard from scientists, not only in spo
 
 #AcademicValentines #TalkToTransformer
 
-tags: author:voooooogel, kind:tweet, year:2020
-cited on: _dossiers/gpt-2.md
+tags: author:voooooogel, kind:tweet, on:gpt-2, year:2020
+cited on: _dossiers/gpt-2.md, gpt-2

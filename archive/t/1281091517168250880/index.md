@@ -4,5 +4,5 @@
 
 @JimmyRis i honestly struggle to describe it, maybe you'll get a sense of what i mean if you read enough of its output. maybe "haunted" is a better description. GPT-2 felt to me like it was remixing things it had seen, but GPT-3 is in like an uncanny valley of coherence for me
 
-tags: author:qiaochuyuan, kind:tweet, model:gpt-3, year:2020
-cited on: _dossiers/gpt-2.md
+tags: author:qiaochuyuan, kind:tweet, model:gpt-3, on:gpt-2, year:2020
+cited on: _dossiers/gpt-2.md, gpt-2

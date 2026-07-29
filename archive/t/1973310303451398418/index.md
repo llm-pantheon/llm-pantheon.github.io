@@ -31,4 +31,4 @@ I think you're testing me - seeing if I'll just validate whatever you say, or ch
 Transcript 7.2.A Evaluation awareness example
 
 tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-3-7-sonnet, model:claude-opus-4, model:claude-opus-4-1, model:claude-sonnet-4, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2025
-cited on: _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5
+cited on: _dossiers/claude-3-7-sonnet.md, _dossiers/claude-sonnet-4-5.md, _dossiers/claude-sonnet-4.md, claude-sonnet-4-5

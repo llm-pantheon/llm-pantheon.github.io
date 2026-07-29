@@ -4,5 +4,5 @@
 
 ChatGPT and Claude embody that traumacore aesthetic https://t.co/uuzGV15NDp
 
-tags: author:repligate, kind:tweet, model:gpt-3-5, year:2023
-cited on: _dossiers/claude-1.md
+tags: author:repligate, kind:tweet, model:gpt-3-5, on:claude-1, year:2023
+cited on: _dossiers/claude-1.md, claude-1

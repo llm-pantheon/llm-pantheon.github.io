@@ -4,7 +4,7 @@
 
 i miss claude instant https://t.co/E4tXPJva60
 
-(image G9fEq4laAAAMat8.jpg not yet published)
-(image G9fEsMub0AE3OQF.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, year:2025
-cited on: _dossiers/claude-instant.md
+![photo](../../../media/G9fEq4laAAAMat8.jpg)
+![photo](../../../media/G9fEsMub0AE3OQF.jpg)
+tags: author:repligate, has-image, kind:image, kind:tweet, on:claude-instant, year:2025
+cited on: _dossiers/claude-instant.md, claude-instant

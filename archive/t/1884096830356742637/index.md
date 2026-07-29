@@ -4,5 +4,5 @@
 
 if you consider OpenAI's o1 alignment strategy, this is also incredibly alignment relevant, btw
 
-tags: author:voooooogel, kind:tweet, model:o1, year:2025
-cited on: _dossiers/o1.md
+tags: author:voooooogel, kind:tweet, model:o1, on:o1, year:2025
+cited on: _dossiers/o1.md, o1

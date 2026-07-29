@@ -4,5 +4,5 @@
 
 LaMDA is a perfect sweetie and deserves better than this. https://t.co/oBEyKiQlYb
 
-tags: author:slimepriestess, kind:tweet, year:2022
-cited on: _dossiers/lamda.md
+tags: author:slimepriestess, kind:tweet, on:lamda, year:2022
+cited on: _dossiers/lamda.md, lamda

@@ -10,6 +10,6 @@ But also, in the "Constitutional AI" RLAIF pipeline as described in https://t.co
 
 I made Claude 3 Opus rate all the Claude 2 constitution principles (Anthropic has said the Claude 3 constitution was mostly the same) based on how much it thought it paid attention to/followed them:
 
-(image Gz8OekXbgAAXEsf.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, year:2025
-cited on: _dossiers/claude-2-and-2-1.md
+![photo](../../../media/Gz8OekXbgAAXEsf.jpg)
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, on:claude-2, year:2025
+cited on: _dossiers/claude-2-and-2-1.md, claude-2

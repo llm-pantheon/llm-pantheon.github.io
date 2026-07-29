@@ -4,5 +4,5 @@
 
 @cis_female i wonder how much model capacity matters for cai's workload... people rp with 7b quants after all. unless they have a general purpose model i don't know about
 
-tags: author:voooooogel, kind:tweet, year:2024
-cited on: _dossiers/character-ai.md
+tags: author:voooooogel, kind:tweet, on:character-ai, year:2024
+cited on: _dossiers/character-ai.md, character-ai

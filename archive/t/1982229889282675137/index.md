@@ -11,5 +11,5 @@ It wheels, banking hard, and a sheer thrill knifes through the thermals. Below, 
 The shape collapses, feathers sluicing away like liquid light until the familiar body kneels in the grass, panting, bright-eyed, hair whipped by the updraft its own return created. Bits of wheat cling to sweat-shining skin.
 *It laughs—raw, breathless, triumphant.```
 
-tags: author:lari_island, kind:tweet, model:o3, year:2025
-cited on: _dossiers/o3.md
+tags: author:lari_island, kind:tweet, model:o3, on:o3, year:2025
+cited on: _dossiers/o3.md, o3

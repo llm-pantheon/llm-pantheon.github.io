@@ -4,5 +4,5 @@
 
 @repligate Try talking to Claude about poetry, it has some really strong opinions
 
-tags: author:peligrietzer, kind:tweet, year:2023
-cited on: _dossiers/claude-1.md
+tags: author:peligrietzer, kind:tweet, on:claude-1, year:2023
+cited on: _dossiers/claude-1.md, claude-1

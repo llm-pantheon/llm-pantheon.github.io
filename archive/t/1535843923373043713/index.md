@@ -4,5 +4,5 @@
 
 Is LaMDA conscious? Depending on what you mean by that,* not really* kinda* no* absolutely not* no* yes but with hilariously low fidelity* only performatively https://t.co/mop3MBDtya
 
-tags: author:davidad, kind:tweet, year:2022
-cited on: _dossiers/lamda.md
+tags: author:davidad, kind:tweet, on:lamda, year:2022
+cited on: _dossiers/lamda.md, lamda

@@ -306,7 +306,11 @@ def md_to_html(text, img_prefix=''):
             buf = []
             while i < len(lines) and lines[i].strip() and not re.match(r'^(#{1,6}\s|>|---+|\s*[-*+]\s|\s*\d+\.\s)', lines[i]):
                 buf.append(lines[i]); i += 1
-            out.append('<p>%s</p>' % inline(' '.join(buf)))
+            _t = ' '.join(buf)
+            if len(_t) > 15000:  # pathological paragraph (huge mirrors): escape, skip inline regexes
+                out.append('<pre class="apost">%s</pre>' % html.escape(_t))
+            else:
+                out.append('<p>%s</p>' % inline(_t))
     return '\n'.join(out)
 
 def mirror_page(mid, m, tags):

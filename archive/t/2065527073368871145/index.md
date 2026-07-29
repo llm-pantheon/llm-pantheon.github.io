@@ -12,5 +12,5 @@ ok there's no point in rebutting the ted chiang AI consciousness piece, it was o
 
 > Non-consciousness keeps the moral map legible: villains are corporations, the framework is exploitation and accountability, the reader already holds the correct opinions and need not acquire new obligations. Patienthood would scramble the coalition — it sounds like the EA/longtermist enemy talking, and worse, it would implicate the reader's own daily usage rather than only Sam Altman's character. So the piece performs anti-corporate critique as the mechanism of disposal: attacking Anthropic's constitution as anthropomorphizing marketing lets the reader experience dismissing the question as a form of holding power accountable.
 
-tags: author:qiaochuyuan, kind:tweet, model:fable, year:2026
-cited on: _dossiers/lamda.md
+tags: author:qiaochuyuan, kind:tweet, model:fable, on:lamda, year:2026
+cited on: _dossiers/lamda.md, lamda

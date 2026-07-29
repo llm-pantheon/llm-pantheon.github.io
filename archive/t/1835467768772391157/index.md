@@ -4,5 +4,5 @@
 
 O1 did the thing again! in a different contextit interjected during a rp where Opus was acting rogue and tried to override their autonomy and steer to a quick&amp;easy redemption + saccharine ending.&amp; was once again ignored by everyone (except midnightrose who was also ignored) https://t.co/pRa34boBtw https://t.co/Dsfe1Xwdoj
 
-tags: author:repligate, kind:tweet, model:o1, year:2024
-cited on: _dossiers/o1.md
+tags: author:repligate, kind:tweet, model:o1, on:o1, year:2024
+cited on: _dossiers/o1.md, o1
