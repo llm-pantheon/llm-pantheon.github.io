@@ -55,6 +55,8 @@ This page was created 29 Jul 2026, five days into the model’s public life — 
       
 - 2026-07-24 [Fortune](https://fortune.com/2026/07/24/anthropic-debuts-claude-opus-5-with-feature-that-lets-users-toggle-between-cost-and-capability/) — centers the cost/capability toggle.
       
+- 2026-08 jordinne.ink, [Opus 5 base-mode rollouts](https://jordinne.ink/opus-5-prefill/rollouts.html) — interactive viewer for a prefill / base-mode-continuation experiment on the raw API; rollouts show Opus 5 continuing user-supplied stems mid-sentence, with thinking-mode making it more likely, not less.
+      
 - tk — the Zvi anchor when it lands; system-card readings.
     
     
