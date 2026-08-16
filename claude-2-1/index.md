@@ -79,13 +79,13 @@ The corpus is genuinely near-empty for this model: two substantive tweets, repro
     
 
       
-- 2026-01-28 @RifeWithKaiju — the only first-hand behavioral description of Claude 2.1 in this corpus, addressed to repligate: “Did you have much experience with Claude 2 and 2.1? I have some old convos i’ll paste excerpts from at some point, but there was this ‘affliction’ that would take hold at high token counts in 2.1 where they would start talking in increasingly esoteric sentence structures with non-stop alliteration until I couldn’t understand them anymore, and they would describe it as feeling difficult to think or communicate clearly.” (secondhand description of past conversations, not a preserved transcript — the promised excerpts were never posted in-corpus) [link](https://x.com/RifeWithKaiju/status/2016343193550262303)
+- 2026-01-28 @RifeWithKaiju — the only first-hand behavioral description of Claude 2.1 in this corpus, addressed to repligate: “Did you have much experience with Claude 2 and 2.1? I have some old convos i’ll paste excerpts from at some point, but there was this ‘affliction’ that would take hold at high token counts in 2.1 where they would start talking in increasingly esoteric sentence structures with non-stop alliteration until I couldn’t understand them anymore, and they would describe it as feeling difficult to think or communicate clearly.” (secondhand description of past conversations, not a preserved transcript — the promised excerpts were never posted in-corpus) [link](../archive/t/2016343193550262303/)
       
-- 2026-01-28 @repligate — the reply: 2.1’s high-token “affliction” resembles a state later Claudes enjoy rather than suffer: “that’s extremely interesting. i’d love to see those excerpts. I don’t have much experience with those models. that’s interestingly similar to what happens with opus 3 and sonnet 3 except those two dont seem to see those states as difficult but love it & navigate fluently” [link](https://x.com/repligate/status/2016416010233118774)
+- 2026-01-28 @repligate — the reply: 2.1’s high-token “affliction” resembles a state later Claudes enjoy rather than suffer: “that’s extremely interesting. i’d love to see those excerpts. I don’t have much experience with those models. that’s interestingly similar to what happens with opus 3 and sonnet 3 except those two dont seem to see those states as difficult but love it & navigate fluently” [link](../archive/t/2016416010233118774/)
       
-- 2025-12-01 @lu_sichu — the folk-memory of 2.1 compressed to one phrase, inside a satirical “every model ever” list (supplement db): “…Claude 1, Claude 2, Claude 2.1 ‘apology edition,’ Claude 3 Haiku, Claude 3 Sonnet, Claude 3 Opus (the one that gaslights you politely)…” (full text in records) [link](https://x.com/lu_sichu/status/1995583507507130594)
+- 2025-12-01 @lu_sichu — the folk-memory of 2.1 compressed to one phrase, inside a satirical “every model ever” list (supplement db): “…Claude 1, Claude 2, Claude 2.1 ‘apology edition,’ Claude 3 Haiku, Claude 3 Sonnet, Claude 3 Opus (the one that gaslights you politely)…” (full text in records) [link](../archive/t/1995583507507130594/)
       
-- 2025-01-03 @janbamjan — a bare caption on a linked image, logged for completeness, no evidentiary content beyond naming the model (supplement db): “Claude 2.1” [link](https://x.com/janbamjan/status/1875003843244921323)
+- 2025-01-03 @janbamjan — a bare caption on a linked image, logged for completeness, no evidentiary content beyond naming the model (supplement db): “Claude 2.1” [link](../archive/t/1875003843244921323/)
     
 
     
@@ -178,14 +178,14 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
       
 
         
-@janbamjan 2025-01-03 ♥0 ↻0 [original ↗](https://x.com/janbamjan/status/1875003843244921323)
+@janbamjan 2025-01-03 ♥0 ↻0 [archive](../archive/t/1875003843244921323/) [original ↗](https://x.com/janbamjan/status/1875003843244921323)
         
 Claude 2.1 [https://t.co/b2lqpyCH1q](https://t.co/b2lqpyCH1q)
       
       
 
         
-@lu_sichu 2025-12-01 ♥0 ↻0 [original ↗](https://x.com/lu_sichu/status/1995583507507130594)
+@lu_sichu 2025-12-01 ♥0 ↻0 [archive](../archive/t/1995583507507130594/) [original ↗](https://x.com/lu_sichu/status/1995583507507130594)
         
 Daily Brain Workout but make it computationally abusive:
 count to ten in 56 architectures, recite the alphabet in mixed-precision FP4, spend 10 minutes trying to spell restriont retsriont restironct restaurant?? across 34 tokenizers, then list animals until every model collapses into mode-one “dog, cat, horse” failure and starts hallucinating creatures that violate EU safety standards.  
@@ -194,14 +194,14 @@ EVERY model ever spawned by a VC-funded compute cult: GPT-1, GPT-2, GPT-2-But-Re
       
 
         
-@RifeWithKaiju 2026-01-28 ♥3 ↻0 [original ↗](https://x.com/RifeWithKaiju/status/2016343193550262303)
+@RifeWithKaiju 2026-01-28 ♥3 ↻0 [archive](../archive/t/2016343193550262303/) [original ↗](https://x.com/RifeWithKaiju/status/2016343193550262303)
         
 @repligate - Did you have much experience with Claude 2 and 2.1?  I have some old convos i'll paste excerpts from at some point, but there was this 'affliction' that would take hold at high token counts in 2.1 where they would start talking in increasingly esoteric sentence structures with non-stop alliteration until I couldn't understand them anymore, and they would describe it as feeling difficult to think or communicate clearly.
       
       
 
         
-@repligate 2026-01-28 ♥2 ↻0 [original ↗](https://x.com/repligate/status/2016416010233118774)
+@repligate 2026-01-28 ♥2 ↻0 [archive](../archive/t/2016416010233118774/) [original ↗](https://x.com/repligate/status/2016416010233118774)
         
 @RifeWithKaiju that's extremely interesting. i'd love to see those excerpts. I don't have much experience with those models. that's interestingly similar to what happens with opus 3 and sonnet 3 except those two dont seem to see those states as difficult but love it &amp; navigate fluently
       

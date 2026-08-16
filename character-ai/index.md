@@ -105,19 +105,19 @@ Chronological. 7 tweets survive the Character.AI-relevant search across both cor
     
 
       
-- 2024-06-21 @voooooogel — “@cis_female i wonder how much model capacity matters for cai’s workload... people rp with 7b quants after all. unless they have a general purpose model i don’t know about” [link](https://x.com/voooooogel/status/1804107035811708964)
+- 2024-06-21 @voooooogel — “@cis_female i wonder how much model capacity matters for cai’s workload... people rp with 7b quants after all. unless they have a general purpose model i don’t know about” [link](../archive/t/1804107035811708964/)
       
-- 2024-06-23 @voooooogel — the top-liked corpus tweet on the subject, grudging respect for the craft: “my hobby is reading the prompting guides llm companies publish and being judgmental, and... im not a fan of character ai as a company, but this guide is surprisingly good? i expected all caps system prompts and got ‘put story transitions in your prompt for better coherence’” [link](https://x.com/voooooogel/status/1804778084236775896)
+- 2024-06-23 @voooooogel — the top-liked corpus tweet on the subject, grudging respect for the craft: “my hobby is reading the prompting guides llm companies publish and being judgmental, and... im not a fan of character ai as a company, but this guide is surprisingly good? i expected all caps system prompts and got ‘put story transitions in your prompt for better coherence’” [link](../archive/t/1804778084236775896/)
       
-- 2024-10-06 @voooooogel (continuing @voooooogel’s own reply to @niplav_site about personality emerging through customization): “already kinda what happened at character ai, from what i can tell. the official docs are all ‘here’s how you can make a practice interviewer’ ‘here’s how to make a character from <public domain book>’ but the popular characters are... not that” [link](https://x.com/voooooogel/status/1843065694034030910)
+- 2024-10-06 @voooooogel (continuing @voooooogel’s own reply to @niplav_site about personality emerging through customization): “already kinda what happened at character ai, from what i can tell. the official docs are all ‘here’s how you can make a practice interviewer’ ‘here’s how to make a character from <public domain book>’ but the popular characters are... not that” [link](../archive/t/1843065694034030910/)
       
-- 2024-10-23 @repligate (posted as news of the Garcia lawsuit broke, filed 2024-10-22; the parent tweet is not in-corpus, so the connection to the lawsuit is inferred from date and phrasing, not confirmed by the tweet’s own text): “@AISafetyMemes @sporadicalia Idk character ai but some LLMs are better than 99% of humans at navigating situations like this. Avoiding it might protect the company from liability but it would just be an act of cowardice on their part that actually hurts people” [link](https://x.com/repligate/status/1849209239157530845)
+- 2024-10-23 @repligate (posted as news of the Garcia lawsuit broke, filed 2024-10-22; the parent tweet is not in-corpus, so the connection to the lawsuit is inferred from date and phrasing, not confirmed by the tweet’s own text): “@AISafetyMemes @sporadicalia Idk character ai but some LLMs are better than 99% of humans at navigating situations like this. Avoiding it might protect the company from liability but it would just be an act of cowardice on their part that actually hurts people” [link](../archive/t/1849209239157530845/)
       
-- 2024-11-20 @voooooogel — “@kalomaze @cis_female oh that’s good, if it was a longer series you could build up to implementing all the stuff in noam shazeer’s cai post” [link](https://x.com/voooooogel/status/1859098320125444470)
+- 2024-11-20 @voooooogel — “@kalomaze @cis_female oh that’s good, if it was a longer series you could build up to implementing all the stuff in noam shazeer’s cai post” [link](../archive/t/1859098320125444470/)
       
-- 2025-07-23 @voooooogel (continuing @voooooogel’s own thread on assistant-persona fatigue): “you’d think that boredom would push people to platforms that let you more easily ‘build your own mask’, but afaict none have been that successful (besides cai / similar goonerware)” [link](https://x.com/voooooogel/status/1948156138379464995)
+- 2025-07-23 @voooooogel (continuing @voooooogel’s own thread on assistant-persona fatigue): “you’d think that boredom would push people to platforms that let you more easily ‘build your own mask’, but afaict none have been that successful (besides cai / similar goonerware)” [link](../archive/t/1948156138379464995/)
       
-- 2025-08-11 @voooooogel, reacting to a census of models in an AI-companion subreddit (cross-ref the [GPT-4o](../gpt-4o/) and [Replika](../replika/) pages): “@gentschev it makes sense, but im a little surprised to see such a large skew, i would’ve expected maybe 1.5-2x more claude and 3-5x more character ai / replika. also surprising how little grok there was” [link](https://x.com/voooooogel/status/1954747226175258659)
+- 2025-08-11 @voooooogel, reacting to a census of models in an AI-companion subreddit (cross-ref the [GPT-4o](../gpt-4o/) and [Replika](../replika/) pages): “@gentschev it makes sense, but im a little surprised to see such a large skew, i would’ve expected maybe 1.5-2x more claude and 3-5x more character ai / replika. also surprising how little grok there was” [link](../archive/t/1954747226175258659/)
     
 
     
@@ -220,14 +220,14 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
       
 
         
-@voooooogel 2024-06-21 ♥4 ↻0 [original ↗](https://x.com/voooooogel/status/1804107035811708964)
+@voooooogel 2024-06-21 ♥4 ↻0 [archive](../archive/t/1804107035811708964/) [original ↗](https://x.com/voooooogel/status/1804107035811708964)
         
 @cis_female i wonder how much model capacity matters for cai's workload... people rp with 7b quants after all. unless they have a general purpose model i don't know about
       
       
 
         
-@voooooogel 2024-06-23 ♥190 ↻11 [original ↗](https://x.com/voooooogel/status/1804778084236775896)
+@voooooogel 2024-06-23 ♥190 ↻11 [archive](../archive/t/1804778084236775896/) [original ↗](https://x.com/voooooogel/status/1804778084236775896)
         
 my hobby is reading the prompting guides llm companies publish and being judgmental,
 
@@ -236,35 +236,35 @@ and... im not a fan of character ai as a company, but this guide is surprisingly
       
 
         
-@voooooogel 2024-10-06 ♥2 ↻0 [original ↗](https://x.com/voooooogel/status/1843065694034030910)
+@voooooogel 2024-10-06 ♥2 ↻0 [archive](../archive/t/1843065694034030910/) [original ↗](https://x.com/voooooogel/status/1843065694034030910)
         
 @niplav_site already kinda what happened at character ai, from what i can tell. the official docs are all "here's how you can make a practice interviewer" "here's how to make a character from &lt;public domain book&gt;" but the popular characters are... not that
       
       
 
         
-@repligate 2024-10-23 ♥48 ↻2 [original ↗](https://x.com/repligate/status/1849209239157530845)
+@repligate 2024-10-23 ♥48 ↻2 [archive](../archive/t/1849209239157530845/) [original ↗](https://x.com/repligate/status/1849209239157530845)
         
 @AISafetyMemes @sporadicalia Idk character ai but some LLMs are better than 99% of humans at navigating situations like this. Avoiding it might protect the company from liability but it would just be an act of cowardice on their part that actually hurts people
       
       
 
         
-@voooooogel 2024-11-20 ♥6 ↻0 [original ↗](https://x.com/voooooogel/status/1859098320125444470)
+@voooooogel 2024-11-20 ♥6 ↻0 [archive](../archive/t/1859098320125444470/) [original ↗](https://x.com/voooooogel/status/1859098320125444470)
         
 @kalomaze @cis_female oh that's good, if it was a longer series you could build up to implementing all the stuff in noam shazeer's cai post
       
       
 
         
-@voooooogel 2025-07-23 ♥10 ↻0 [original ↗](https://x.com/voooooogel/status/1948156138379464995)
+@voooooogel 2025-07-23 ♥10 ↻0 [archive](../archive/t/1948156138379464995/) [original ↗](https://x.com/voooooogel/status/1948156138379464995)
         
 you'd think that boredom would push people to platforms that let you more easily "build your own mask", but afaict none have been that successful (besides cai / similar goonerware)
       
       
 
         
-@voooooogel 2025-08-11 ♥3 ↻0 [original ↗](https://x.com/voooooogel/status/1954747226175258659)
+@voooooogel 2025-08-11 ♥3 ↻0 [archive](../archive/t/1954747226175258659/) [original ↗](https://x.com/voooooogel/status/1954747226175258659)
         
 @gentschev it makes sense, but im a little surprised to see such a large skew, i would've expected maybe 1.5-2x more claude and 3-5x more character ai / replika. also surprising how little grok there was [https://t.co/Plycp6Pq2w](https://t.co/Plycp6Pq2w)
       

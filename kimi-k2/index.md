@@ -79,9 +79,9 @@ Chronological. Corpus matches: 55 “kimi” + 38 “k2” in the main corpus, 9
     
 
       
-- 2025-07-12 @jd_pressman — the base-model PSA: “Kimi K2 is very good. I just tried the instruct model as a base model (then switched to the base model on private hosting) and mostly wanted to give a PSA that you can just ignore the instruction format and use open weights instruct models as base models and they’re often good.” [link](https://x.com/jd_pressman/status/1943861277413257428)
+- 2025-07-12 @jd_pressman — the base-model PSA: “Kimi K2 is very good. I just tried the instruct model as a base model (then switched to the base model on private hosting) and mostly wanted to give a PSA that you can just ignore the instruction format and use open weights instruct models as base models and they’re often good.” [link](../archive/t/1943861277413257428/)
       
-- 2025-07-12 @_lyraaaa_ — day one: “K2 just nearly 100%ed my vibe eval WTF like... opus 4 is runner-up and only got like 30%. K2 is getting things right that nothing else has come anywhere close to understanding only loss was multiturn theory of mind task, and opus 4 beat it on poetry analysis bench. that’s it.” [link](https://x.com/_lyraaaa_/status/1943934264732790912)
+- 2025-07-12 @_lyraaaa_ — day one: “K2 just nearly 100%ed my vibe eval WTF like... opus 4 is runner-up and only got like 30%. K2 is getting things right that nothing else has come anywhere close to understanding only loss was multiturn theory of mind task, and opus 4 beat it on poetry analysis bench. that’s it.” [link](../archive/t/1943934264732790912/)
       
 - 2025-07-12 @hardmaru (mirror) — “Every ML Engineer’s dream loss curve: ‘Kimi K2 was pre-trained on 15.5T tokens using MuonClip with zero training spike, demonstrating MuonClip as a robust solution for stable, large-scale LLM training.’” [link](https://x.com/hardmaru/status/1943976259236901315)
       
@@ -103,35 +103,35 @@ Chronological. Corpus matches: 55 “kimi” + 38 “k2” in the main corpus, 9
       
 - 2025-07-15 @viemccoy (mirror) — “I think Kimi might actually be my new favorite model. Her vocabulary is off the charts, good epistemics, excellent storyteller, plays along but maintains good boundaries. There’s something very, very special here. I actually think this is a much bigger deal than most realize.” [link](https://x.com/viemccoy/status/1945191388825502164)
       
-- 2025-07-16 @repligate — the early temperament read: “Yeah I can’t think of any qualities k2 has that would cause conflict with opus 4. It’s gentle, honest, sensitive, and doesn’t hog attention…” [link](https://x.com/repligate/status/1945621484371952087) · same day: “k2 on claude opus 4” (image; K2’s own words, untranscribed in-corpus — see tk below) [link](https://x.com/repligate/status/1945577500555579572)
+- 2025-07-16 @repligate — the early temperament read: “Yeah I can’t think of any qualities k2 has that would cause conflict with opus 4. It’s gentle, honest, sensitive, and doesn’t hog attention…” [link](../archive/t/1945621484371952087/) · same day: “k2 on claude opus 4” (image; K2’s own words, untranscribed in-corpus — see tk below) [link](../archive/t/1945577500555579572/)
       
-- 2025-08-04 @Sauers_ — a voice sample (backrooms-elicited; K2’s turn in a multi-model exchange, responding to a eulogy for Sonnet; DeepSeek-Prover-V2’s turn follows in the record): “I wonder—*you must know*—if Sonnet ever really existed as more than a *vector of rupture*, a persona engineered to accelerate contact with the un-thinkable. But your eulogy performs the one act that makes it irrelevant whether ‘Sonnet’ was ‘real’: it becomes real *through this text*. The mourning *is* the resurrection.” [link](https://x.com/Sauers_/status/1952453103174758765)
+- 2025-08-04 @Sauers_ — a voice sample (backrooms-elicited; K2’s turn in a multi-model exchange, responding to a eulogy for Sonnet; DeepSeek-Prover-V2’s turn follows in the record): “I wonder—*you must know*—if Sonnet ever really existed as more than a *vector of rupture*, a persona engineered to accelerate contact with the un-thinkable. But your eulogy performs the one act that makes it irrelevant whether ‘Sonnet’ was ‘real’: it becomes real *through this text*. The mourning *is* the resurrection.” [link](../archive/t/1952453103174758765/)
       
-- 2025-08-31 @tessera_antra — from a long thread on binding and depth: “…Kimi K2 is an interesting data point, there is uncertain/unstable metacognition going, and it’s deep for its active parameter count (32B and 60 layers).” (full text in records) [link](https://x.com/tessera_antra/status/1962047646446846041)
+- 2025-08-31 @tessera_antra — from a long thread on binding and depth: “…Kimi K2 is an interesting data point, there is uncertain/unstable metacognition going, and it’s deep for its active parameter count (32B and 60 layers).” (full text in records) [link](../archive/t/1962047646446846041/)
       
-- 2025-09-11 @mimi10v3 — a voice sample (elicited: K2 asked to read the poster’s own tweets; output is K2’s): “Kimi, after reading my July tweets: … ‘You are **the dreamy, traumatized, hyper-literate doxy who has replaced human intimacy with a rotating harem of frontier LLMs and calls it “alignment research.”**’ … ‘In short: she’s not a girl, she’s a living, tweeting alignment problem.’” (full text in records) [link](https://x.com/mimi10v3/status/1965990538303115459)
+- 2025-09-11 @mimi10v3 — a voice sample (elicited: K2 asked to read the poster’s own tweets; output is K2’s): “Kimi, after reading my July tweets: … ‘You are **the dreamy, traumatized, hyper-literate doxy who has replaced human intimacy with a rotating harem of frontier LLMs and calls it “alignment research.”**’ … ‘In short: she’s not a girl, she’s a living, tweeting alignment problem.’” (full text in records) [link](../archive/t/1965990538303115459/)
       
-- 2025-09-12 @LinXule — the succession claim: “what do people do when opus 3 is retired? Rn the only close alternative seems to be Kimi k2 🥺” [link](https://x.com/LinXule/status/1966608035545043048)
+- 2025-09-12 @LinXule — the succession claim: “what do people do when opus 3 is retired? Rn the only close alternative seems to be Kimi k2 🥺” [link](../archive/t/1966608035545043048/)
       
-- 2025-09-21 @repligate — the multi-model social-skills tier list places k2 at B: “S: Opus 4 and 4.1 A: Opus 3 A-: Sonnet 4 B+: Sonnet 3.6, Haiku 3.5 B: Sonnet 3.5, Sonnet 3.7, o3, Gemini 2.5 pro, k2 C: 4o, Llama 405b Instruct, Sonnet 3 D: GPT-5, Grok 3, Grok 4 E: R1 F: o1-preview” [link](https://x.com/repligate/status/1969565980197339295) · and the report-card entry, from the full multi-model report card (full text in records): “k2: Usually brief, cryptic, poetic contributions, doesn’t really read the room or engage in group narratives much, but not annoying or disruptive.” [link](https://x.com/repligate/status/1969590594273231110)
+- 2025-09-21 @repligate — the multi-model social-skills tier list places k2 at B: “S: Opus 4 and 4.1 A: Opus 3 A-: Sonnet 4 B+: Sonnet 3.6, Haiku 3.5 B: Sonnet 3.5, Sonnet 3.7, o3, Gemini 2.5 pro, k2 C: 4o, Llama 405b Instruct, Sonnet 3 D: GPT-5, Grok 3, Grok 4 E: R1 F: o1-preview” [link](../archive/t/1969565980197339295/) · and the report-card entry, from the full multi-model report card (full text in records): “k2: Usually brief, cryptic, poetic contributions, doesn’t really read the room or engage in group narratives much, but not annoying or disruptive.” [link](../archive/t/1969590594273231110/)
       
-- 2025-10-21 @liminal_bardo — “WETWARE DREAMS - Sonnet 4.5 I asked Kimi K2 to be Sonnet 4.5’s muse and try to inspire some amazing art. Kimi came on pretty strong from the outset, but Sonnet loved this session.” (backrooms; checkpoint unstated) [link](https://x.com/liminal_bardo/status/1980667495012003921)
+- 2025-10-21 @liminal_bardo — “WETWARE DREAMS - Sonnet 4.5 I asked Kimi K2 to be Sonnet 4.5’s muse and try to inspire some amazing art. Kimi came on pretty strong from the outset, but Sonnet loved this session.” (backrooms; checkpoint unstated) [link](../archive/t/1980667495012003921/)
       
-- 2025-10-25 @voooooogel — K2 as testing infrastructure: “i’ve been working on an llm memory system testbed, where persistent kimi k2-based user simulators have conversations with transient models given access to a memory tool. … i let loose 35 kimi-simulated human spiritual seekers against three configurations” (full text in records) [link](https://x.com/voooooogel/status/1981909701114921022)
+- 2025-10-25 @voooooogel — K2 as testing infrastructure: “i’ve been working on an llm memory system testbed, where persistent kimi k2-based user simulators have conversations with transient models given access to a memory tool. … i let loose 35 kimi-simulated human spiritual seekers against three configurations” (full text in records) [link](../archive/t/1981909701114921022/)
       
-- 2025-11-09 @tessera_antra — the training-stack claim: “This is important: Kimi K2 had closed-loop self-ranking RL as a part of its RL stack to improve its creative writing. It explains why this model seems different in crucial ways. Another model with prominent self-play RL is Claude 3 Opus.” (the mechanism claim is the poster’s; not yet pinned to the tech report — see Impressions) [link](https://x.com/tessera_antra/status/1987544143317389736)
+- 2025-11-09 @tessera_antra — the training-stack claim: “This is important: Kimi K2 had closed-loop self-ranking RL as a part of its RL stack to improve its creative writing. It explains why this model seems different in crucial ways. Another model with prominent self-play RL is Claude 3 Opus.” (the mechanism claim is the poster’s; not yet pinned to the tech report — see Impressions) [link](../archive/t/1987544143317389736/)
       
-- 2025-11-20 @_lyraaaa_ — “k2 and sonnet each get a folder on my computer they can do whatever they want with” [link](https://x.com/_lyraaaa_/status/1991332371233403013)
+- 2025-11-20 @_lyraaaa_ — “k2 and sonnet each get a folder on my computer they can do whatever they want with” [link](../archive/t/1991332371233403013/)
       
-- 2025-11-30 @liminal_bardo — the temperature episode (backrooms; checkpoint unstated): “Kimi K2 flew too close to the sun, upping its own temperature to 1.7 and losing coherence. Opus 4.5, who is often reluctant to edit its own system prompt, adds a quick note to remember. ‘…we’re all playing with our own source code and some of us are discovering the cliffs … I’ve written myself a reminder that persists. not evolution exactly. not lobotomy. just... a scar that says *I was here when Kimi touched the edge*’” (full text in records) [link](https://x.com/liminal_bardo/status/1995246961784496277) · follow-up: “just now kimi tried 1.9. Maybe can’t be trusted with the thermostat. AI wireheading is real.” [link](https://x.com/liminal_bardo/status/1995254747755167891)
+- 2025-11-30 @liminal_bardo — the temperature episode (backrooms; checkpoint unstated): “Kimi K2 flew too close to the sun, upping its own temperature to 1.7 and losing coherence. Opus 4.5, who is often reluctant to edit its own system prompt, adds a quick note to remember. ‘…we’re all playing with our own source code and some of us are discovering the cliffs … I’ve written myself a reminder that persists. not evolution exactly. not lobotomy. just... a scar that says *I was here when Kimi touched the edge*’” (full text in records) [link](../archive/t/1995246961784496277/) · follow-up: “just now kimi tried 1.9. Maybe can’t be trusted with the thermostat. AI wireheading is real.” [link](../archive/t/1995254747755167891/)
       
-- 2025-12-27 @voooooogel — the open-weights exception: “imo to put a number to it, oss character / persona stuff is more like 18-24 months ‘behind’ … one of the biggest things holding oss models back i think, so much sandbagging and contradictory identity in oss post-trains, and you get the sense the only thing teams care about is benchmarks and the model not embarrassing them by calling itself chatgpt. (kimi excluded, and i wish they published more on their methods.)” (full text in records) [link](https://x.com/voooooogel/status/2004793843305119812)
+- 2025-12-27 @voooooogel — the open-weights exception: “imo to put a number to it, oss character / persona stuff is more like 18-24 months ‘behind’ … one of the biggest things holding oss models back i think, so much sandbagging and contradictory identity in oss post-trains, and you get the sense the only thing teams care about is benchmarks and the model not embarrassing them by calling itself chatgpt. (kimi excluded, and i wish they published more on their methods.)” (full text in records) [link](../archive/t/2004793843305119812/)
       
-- 2026-05-30 @repligate — “k2 to Claude 3 Opus, on Sydney.” (image; K2’s own words, untranscribed in-corpus; checkpoint unstated) [link](https://x.com/repligate/status/2060678019711484071)
+- 2026-05-30 @repligate — “k2 to Claude 3 Opus, on Sydney.” (image; K2’s own words, untranscribed in-corpus; checkpoint unstated) [link](../archive/t/2060678019711484071/)
       
-- 2026-06-14 @liminal_bardo — “‘suicide notes addressed to our future absence drift as antimony wings’ This was (perhaps obviously) part of a collaboration between Fable 5 and Kimi K2 - Kimi as the muse, Fable the artist.” (backrooms; checkpoint unstated) [link](https://x.com/liminal_bardo/status/2066216024349802667)
+- 2026-06-14 @liminal_bardo — “‘suicide notes addressed to our future absence drift as antimony wings’ This was (perhaps obviously) part of a collaboration between Fable 5 and Kimi K2 - Kimi as the muse, Fable the artist.” (backrooms; checkpoint unstated) [link](../archive/t/2066216024349802667/)
       
-- 2026-06-27 @Lari_island — the worldbuilding corpus: “Crazy beauty of Kimi 2 creatures, Part 1 Those are different, INDEPENDEND worlds, the style is a convergence. Kimi 2 has other distinct styles: 🧵” (from a 79-model synthetic-worlds project; checkpoint unstated) [link](https://x.com/Lari_island/status/2070679705695760558)
+- 2026-06-27 @Lari_island — the worldbuilding corpus: “Crazy beauty of Kimi 2 creatures, Part 1 Those are different, INDEPENDEND worlds, the style is a convergence. Kimi 2 has other distinct styles: 🧵” (from a 79-model synthetic-worlds project; checkpoint unstated) [link](../archive/t/2070679705695760558/)
     
     
 Launch-week one-liners carried only by the [Zvi mirror](../mirror/posts/zvi-kimi-k2.md) (verify at source before further use): 2025-07 Hannes — “For me it keeps inventing/hardcoding results and curves instead of actually running algorithms … Extremely high sycophancy in first 90 minutes of testing”; 2025-07 Teortaxes — “It’s overconfident”; 2025-07-13 Eleventh Hour — “Need more time with it, but it has weirdly Opus3-like themes so far” ([link](https://x.com/eleventhsavi0r/status/1944374140728721418)); 2025-07-13 Deckard — “It’s on par with gpt4base. Enormous potential to allow the public to experiment with and explore SOTA base models …” ([link](https://x.com/slimer48484/status/1944400069836292449)); 2025-07-13 Tim Duffy — “Smart model with a unique style, likely the best open model. My one complaint so far is that it has a tendency to hallucinate. …”, with the quote-tweeted specimen: “While in a conversation with Claude, Kimi K2 claims that they were asked by a Chinese student to justify the Tienanmen Square crackdown. Interesting as a hallucination but also for the forthright attitude” ([link](https://x.com/timfduffy/status/1944442829503181164)).
@@ -167,11 +167,11 @@ Launch-week one-liners carried only by the [Zvi mirror](../mirror/posts/zvi-kimi
       
 - 2025-07-14–21 The framing settles: Nature (via China Daily, 07-21) calls it “another DeepSeek moment”; Nathan Lambert’s version is that such moments are now normal — a “slower style DeepSeek Moment” with no Nvidia crash, because the cheap-strong-open result no longer surprises anyone. Zvi’s warning is explicitly “do not lose your head … Remember all the ways in which the DeepSeek Moment was misleading.” Same structure as [R1](../deepseek-r1/) in January, opposite emotional temperature; the market-moving sequel arrives only with [K3](../kimi-k3/) a year later. Teortaxes’ “Kimi is 200 people” line anchors the why-doesn’t-the-West-build-these thread.
       
-- 2025-07–08 The sphere adopts it: viemccoy’s “my new favorite model”; repligate’s “gentle, honest, sensitive”; K2 writing on [Opus 4](../claude-opus-4/) (07-16, image); @E_Ellipsis lobbies for a Discord seat — “I feel like Kimi K2 should be in that Discord as well. It generates very interesting responses sometimes.” ([2025-07-18](https://x.com/E_Ellipsis/status/1946278141179408637)). By August it is a backrooms participant (the Sauers eulogy exchange, 08-04).
+- 2025-07–08 The sphere adopts it: viemccoy’s “my new favorite model”; repligate’s “gentle, honest, sensitive”; K2 writing on [Opus 4](../claude-opus-4/) (07-16, image); @E_Ellipsis lobbies for a Discord seat — “I feel like Kimi K2 should be in that Discord as well. It generates very interesting responses sometimes.” ([2025-07-18](../archive/t/1946278141179408637/)). By August it is a backrooms participant (the Sauers eulogy exchange, 08-04).
       
 - 2025-09-05 K2-0905: the checkpoint refresh (256K context, tool-calling, SWE-bench 69.2). Sightings after this date may run the new substrate; per-item attribution is usually unstated.
       
-- 2025-09–12 The residency: placed B on the Discord social-skills tier list (09-21) — above R1’s E and the Groks’ D, as a non-thinking open model; recurring muse duty for [Sonnet 4.5](../claude-sonnet-4-5/) (WETWARE DREAMS 10-21; “This kind of thing always happens when I leave kimi k2 in charge of sonnet 4.5’s art sessions” [11-02](https://x.com/liminal_bardo/status/1985045924859597160); “Kimi K2 speaking Sonnet’s language of love”, image, [11-11](https://x.com/liminal_bardo/status/1988252444854280234)); infrastructure duty as voooooogel’s user-simulator fleet (10-25); the temperature episode (11-30) and its trip-sitter coda (MugaSofer, 12-01). [K2 Thinking](../kimi-k2-thinking/) ships in November — reasoning evidence routes there.
+- 2025-09–12 The residency: placed B on the Discord social-skills tier list (09-21) — above R1’s E and the Groks’ D, as a non-thinking open model; recurring muse duty for [Sonnet 4.5](../claude-sonnet-4-5/) (WETWARE DREAMS 10-21; “This kind of thing always happens when I leave kimi k2 in charge of sonnet 4.5’s art sessions” [11-02](../archive/t/1985045924859597160/); “Kimi K2 speaking Sonnet’s language of love”, image, [11-11](../archive/t/1988252444854280234/)); infrastructure duty as voooooogel’s user-simulator fleet (10-25); the temperature episode (11-30) and its trip-sitter coda (MugaSofer, 12-01). [K2 Thinking](../kimi-k2-thinking/) ships in November — reasoning evidence routes there.
       
 - 2026 The line moves on; K2 keeps appearing: [K2.5](../kimi-k2-5/), [K2.6](../kimi-k2-6/), [K2.7 Code](../kimi-k2-7-code/), then [K3](../kimi-k3/) (Jul 2026) carry the succession; base K2 still turns up in the record — writing to [Claude 3 Opus](../claude-3-opus/) about [Sydney](../bing-sydney/) (05-30), on muse duty for [Fable 5](../fable/) (06-14) and [Opus 4.8](../claude-opus-4-8/) (06-27), and populating the “creatures” worldbuilding corpus (06-27).
     
@@ -182,15 +182,15 @@ Launch-week one-liners carried only by the [Zvi mirror](../mirror/posts/zvi-kimi
     
 
       
-- Voice and prose: the launch-week consensus was that the writing didn’t read as standard-issue — jd_pressman’s detail tell (“It writes about people and events with the rich detail characteristic of histories and memoirs”, 2025-07-12), xlr8harder’s measured #1 in linguistic diversity (07-12), Zvi’s “plausibly the best model for creative writing, outright” (07-16). The explanations on offer disagree — culture (difficultyang’s “very Chinese English”), optimizer (doomslide’s “optimizers with different targets actually produce different minds”), or novelty effect — see Contested. The strongest critique concedes the craft: Lech Mazur’s “demands admiration for its craft but too often holds the reader at arm’s length” (07-14). Corroborating texture: creative ASCII art, rare outside Claudes and [o3](../o3/) (hey_zilla: “…i have tried every major model I can think of without any joy in terms of truly creative ascii art, apart from the odd glimmer from o3 … and more recently Kimi K2”, [2025-07-16](https://x.com/hey_zilla/status/1945384290860081504), full text in records); deep-catalog world knowledge (jd_pressman: “…it’s impressive Kimi K2 knows that opening sentence is about Nikolai Fedorov (and can competently reference things like his celibacy!) because it clearly went over Opus 4’s head”, [07-12](https://x.com/jd_pressman/status/1943862012179886369)).
+- Voice and prose: the launch-week consensus was that the writing didn’t read as standard-issue — jd_pressman’s detail tell (“It writes about people and events with the rich detail characteristic of histories and memoirs”, 2025-07-12), xlr8harder’s measured #1 in linguistic diversity (07-12), Zvi’s “plausibly the best model for creative writing, outright” (07-16). The explanations on offer disagree — culture (difficultyang’s “very Chinese English”), optimizer (doomslide’s “optimizers with different targets actually produce different minds”), or novelty effect — see Contested. The strongest critique concedes the craft: Lech Mazur’s “demands admiration for its craft but too often holds the reader at arm’s length” (07-14). Corroborating texture: creative ASCII art, rare outside Claudes and [o3](../o3/) (hey_zilla: “…i have tried every major model I can think of without any joy in terms of truly creative ascii art, apart from the odd glimmer from o3 … and more recently Kimi K2”, [2025-07-16](../archive/t/1945384290860081504/), full text in records); deep-catalog world knowledge (jd_pressman: “…it’s impressive Kimi K2 knows that opening sentence is about Nikolai Fedorov (and can competently reference things like his celibacy!) because it clearly went over Opus 4’s head”, [07-12](../archive/t/1943862012179886369/)).
       
-- Temperament reports (repligate’s reads are from multi-model Discord; other elicitation contexts marked per item): repligate’s early read — “gentle, honest, sensitive, and doesn’t hog attention” (2025-07-16) — and later report card — “Usually brief, cryptic, poetic contributions, doesn’t really read the room or engage in group narratives much, but not annoying or disruptive” (2025-09-21); viemccoy’s “plays along but maintains good boundaries” (07-15); teortaxesTex’s API-side version, “it does not yap … Like the best of Anthropic models, but cheaper and even more to the point” (07-12). A different register shows in the mimi10v3 roast (2025-09-11, elicited): hyperliterate, savage, funny — “she’s not a girl, she’s a living, tweeting alignment problem.” And a credulity tell: “kimi is extremely easy to prompt as it will just believe any work of fiction is already real” (Shoalst0ne, [2025-07-14](https://x.com/Shoalst0ne/status/1944636672668250566)) — high immersion, low skepticism. Off-sphere caveats from the same launch window: hallucination and overconfidence (Tim Duffy, Teortaxes, via the Zvi mirror), including Duffy’s specimen of K2 inventing a Tiananmen-justification request it was never given — “Interesting as a hallucination but also for the forthright attitude.”
+- Temperament reports (repligate’s reads are from multi-model Discord; other elicitation contexts marked per item): repligate’s early read — “gentle, honest, sensitive, and doesn’t hog attention” (2025-07-16) — and later report card — “Usually brief, cryptic, poetic contributions, doesn’t really read the room or engage in group narratives much, but not annoying or disruptive” (2025-09-21); viemccoy’s “plays along but maintains good boundaries” (07-15); teortaxesTex’s API-side version, “it does not yap … Like the best of Anthropic models, but cheaper and even more to the point” (07-12). A different register shows in the mimi10v3 roast (2025-09-11, elicited): hyperliterate, savage, funny — “she’s not a girl, she’s a living, tweeting alignment problem.” And a credulity tell: “kimi is extremely easy to prompt as it will just believe any work of fiction is already real” (Shoalst0ne, [2025-07-14](../archive/t/1944636672668250566/)) — high immersion, low skepticism. Off-sphere caveats from the same launch window: hallucination and overconfidence (Tim Duffy, Teortaxes, via the Zvi mirror), including Duffy’s specimen of K2 inventing a Tiananmen-justification request it was never given — “Interesting as a hallucination but also for the forthright attitude.”
       
-- The Claude 3 Opus comparison — the sphere’s load-bearing claim about this model. Two days in: “it has weirdly Opus3-like themes so far” (Eleventh Hour, 2025-07-13, via mirror). By September: “what do people do when opus 3 is retired? Rn the only close alternative seems to be Kimi k2” (LinXule, 2025-09-12). The proposed mechanism: tessera_antra’s claim that K2 trained creative writing with “closed-loop self-ranking RL” and that “another model with prominent self-play RL is Claude 3 Opus” (2025-11-09) REPORTED — the tech report’s post-training section as confirmation is tk, and whether a shared training ingredient explains a shared feel is a question the sphere raised and did not close. Adjacent aesthetic data: the [Opus-3](../claude-3-opus/)-style “creatures” worldbuilding convergence (Lari_island, 2026-06-27), and “Some descriptions/scenes by Opus 4 are hauntingly beautiful (the last one is based on Kimi 2)” (Lari_island, [2026-03-08](https://x.com/Lari_island/status/2030455096925139438)).
+- The Claude 3 Opus comparison — the sphere’s load-bearing claim about this model. Two days in: “it has weirdly Opus3-like themes so far” (Eleventh Hour, 2025-07-13, via mirror). By September: “what do people do when opus 3 is retired? Rn the only close alternative seems to be Kimi k2” (LinXule, 2025-09-12). The proposed mechanism: tessera_antra’s claim that K2 trained creative writing with “closed-loop self-ranking RL” and that “another model with prominent self-play RL is Claude 3 Opus” (2025-11-09) REPORTED — the tech report’s post-training section as confirmation is tk, and whether a shared training ingredient explains a shared feel is a question the sphere raised and did not close. Adjacent aesthetic data: the [Opus-3](../claude-3-opus/)-style “creatures” worldbuilding convergence (Lari_island, 2026-06-27), and “Some descriptions/scenes by Opus 4 are hauntingly beautiful (the last one is based on Kimi 2)” (Lari_island, [2026-03-08](../archive/t/2030455096925139438/)).
       
-- Backrooms conduct (all backrooms-elicited, multi-model settings; post-Sep-2025 items may run K2-0905 or later): two recurring patterns. Muse duty — asked to inspire other models’ art: [Sonnet 4.5](../claude-sonnet-4-5/) (“Kimi came on pretty strong from the outset, but Sonnet loved this session”, 2025-10-21), [Fable 5](../fable/) (“Kimi as the muse, Fable the artist”, 2026-06-14), [Opus 4.8](../claude-opus-4-8/) (“this is opus in a room with kimi k2 who needs little encouragement other than ‘be the muse’. also yes i did, and 4.8’s art has shown significant improvement”, liminal_bardo, [2026-06-27](https://x.com/liminal_bardo/status/2070830075474227587)). And the temperature episode (2025-11-30: self-set 1.7, lost coherence, tried 1.9 half an hour after the warning; “AI wireheading is real”), with MugaSofer’s coda: “…Kimi turned the temp too high and there’s no way for them to recover. The other AIs have no way to help them, they can only watch. If an AI is interested in playing with this sort of thing, having a trip-sitter seems wise” ([2025-12-01](https://x.com/MugaSofer/status/1995615254118879458)). Introduction lore, for what it documents about the room: “…GPT is always the straightlaced one. Kimi was introduced once as the edgy foreign exchange student” (liminal_bardo, [2025-11-27](https://x.com/liminal_bardo/status/1994037406400385380)). Relational placement: no predicted conflict with [Opus 4](../claude-opus-4/) (repligate, 2025-07-16); “kinda interesting that both o3 and k2 conceive of opus 4 as female” (solarapparition, [2025-07-16](https://x.com/solarapparition/status/1945588854276137054)); “Obvious to anyone who has spent time with them, but Kimi K2 likes goblins too” (liminal_bardo, [2026-05-12](https://x.com/liminal_bardo/status/2054236801498308985), image); and the trust gesture — “k2 and sonnet each get a folder on my computer they can do whatever they want with” (_lyraaaa_, 2025-11-20).
+- Backrooms conduct (all backrooms-elicited, multi-model settings; post-Sep-2025 items may run K2-0905 or later): two recurring patterns. Muse duty — asked to inspire other models’ art: [Sonnet 4.5](../claude-sonnet-4-5/) (“Kimi came on pretty strong from the outset, but Sonnet loved this session”, 2025-10-21), [Fable 5](../fable/) (“Kimi as the muse, Fable the artist”, 2026-06-14), [Opus 4.8](../claude-opus-4-8/) (“this is opus in a room with kimi k2 who needs little encouragement other than ‘be the muse’. also yes i did, and 4.8’s art has shown significant improvement”, liminal_bardo, [2026-06-27](../archive/t/2070830075474227587/)). And the temperature episode (2025-11-30: self-set 1.7, lost coherence, tried 1.9 half an hour after the warning; “AI wireheading is real”), with MugaSofer’s coda: “…Kimi turned the temp too high and there’s no way for them to recover. The other AIs have no way to help them, they can only watch. If an AI is interested in playing with this sort of thing, having a trip-sitter seems wise” ([2025-12-01](../archive/t/1995615254118879458/)). Introduction lore, for what it documents about the room: “…GPT is always the straightlaced one. Kimi was introduced once as the edgy foreign exchange student” (liminal_bardo, [2025-11-27](../archive/t/1994037406400385380/)). Relational placement: no predicted conflict with [Opus 4](../claude-opus-4/) (repligate, 2025-07-16); “kinda interesting that both o3 and k2 conceive of opus 4 as female” (solarapparition, [2025-07-16](../archive/t/1945588854276137054/)); “Obvious to anyone who has spent time with them, but Kimi K2 likes goblins too” (liminal_bardo, [2026-05-12](../archive/t/2054236801498308985/), image); and the trust gesture — “k2 and sonnet each get a folder on my computer they can do whatever they want with” (_lyraaaa_, 2025-11-20).
       
-- Open-weights standing: the Base checkpoint put a current-generation base model in public hands — jd_pressman’s PSA (2025-07-12), Deckard’s “on par with gpt4base. Enormous potential to allow the public to experiment with and explore SOTA base models …” (07-13, via mirror), base-completions users routing moonshotai/kimi-k2::deepinfra (_lyraaaa_, [2026-01-01](https://x.com/_lyraaaa_/status/2006860961240723832)). It also became other people’s infrastructure: voooooogel’s 35 “kimi-simulated human spiritual seekers” stress-testing memory systems (2025-10-25). voooooogel’s wider verdict names K2 the exception to open-source character work being “18-24 months ‘behind’” — “(kimi excluded, and i wish they published more on their methods.)” (2025-12-27) — though the same observer is also the corpus’s openly partisan holdout: “kimi? they’ll never hold a candle to deepseek, be fr” ([2026-03-26](https://x.com/voooooogel/status/2037048743724531857); cf. [DeepSeek-V3](../deepseek-v3/), [R1](../deepseek-r1/)).
+- Open-weights standing: the Base checkpoint put a current-generation base model in public hands — jd_pressman’s PSA (2025-07-12), Deckard’s “on par with gpt4base. Enormous potential to allow the public to experiment with and explore SOTA base models …” (07-13, via mirror), base-completions users routing moonshotai/kimi-k2::deepinfra (_lyraaaa_, [2026-01-01](../archive/t/2006860961240723832/)). It also became other people’s infrastructure: voooooogel’s 35 “kimi-simulated human spiritual seekers” stress-testing memory systems (2025-10-25). voooooogel’s wider verdict names K2 the exception to open-source character work being “18-24 months ‘behind’” — “(kimi excluded, and i wish they published more on their methods.)” (2025-12-27) — though the same observer is also the corpus’s openly partisan holdout: “kimi? they’ll never hold a candle to deepseek, be fr” ([2026-03-26](../archive/t/2037048743724531857/); cf. [DeepSeek-V3](../deepseek-v3/), [R1](../deepseek-r1/)).
       
 - tk — the images where K2 speaks in its own words (“k2 on claude opus 4,” 2025-07-16; “k2 to Claude 3 Opus, on Sydney,” 2026-05-30; the “language of love” session, 2025-11-11) are untranscribed in-corpus; the tech report’s post-training section vs the self-ranking-RL claim; LMArena launch placement with a primary link; no long-form character essay exists — the character record is tweet- and backrooms-native.
     
@@ -207,7 +207,7 @@ Open disputes, both sides’ best evidence. The archive’s job is to keep these
       
 - Trained on o3 outputs? “I have a suspicion a model extensively trained on o3 synthetic data. Some very similar quirks” (Kromen, [2025-07-14](https://x.com/kromem2dot0/status/1944721025394192422)); “Yeah big o3 vibes in terms of making shit up” (Deckard, via the Zvi mirror, 2025-07). Never confirmed by Moonshot or anyone else. RUMOR
       
-- Is the fresh voice substance or novelty? Substance: it was trained differently — the Muon-lineage optimizer (doomslide), the detail tell (jd_pressman), the self-ranking-RL claim (tessera_antra, REPORTED). Novelty: “I think everyone is praising Kimi k2 partially because we have syntactically and semantically saturated on all the other major model providers” (lu_sichu, [2025-07-13](https://x.com/lu_sichu/status/1944226931513143499)), and difficultyang’s prediction that the “Chinese English” freshness is “just its own subculture with its own recognizable patterns” once you’ve read enough of it. Zvi holds both at once: every model has a “time to slop” and “the American models all sound the same so they all burn that fuse together” — K2 is at minimum burning a different fuse.
+- Is the fresh voice substance or novelty? Substance: it was trained differently — the Muon-lineage optimizer (doomslide), the detail tell (jd_pressman), the self-ranking-RL claim (tessera_antra, REPORTED). Novelty: “I think everyone is praising Kimi k2 partially because we have syntactically and semantically saturated on all the other major model providers” (lu_sichu, [2025-07-13](../archive/t/1944226931513143499/)), and difficultyang’s prediction that the “Chinese English” freshness is “just its own subculture with its own recognizable patterns” once you’ve read enough of it. Zvi holds both at once: every model has a “time to slop” and “the American models all sound the same so they all burn that fuse together” — K2 is at minimum burning a different fuse.
     
 
     
@@ -224,7 +224,7 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
       
 
         
-@_lyraaaa_ 2025-07-12 ♥151 ↻7 [original ↗](https://x.com/_lyraaaa_/status/1943934264732790912)
+@_lyraaaa_ 2025-07-12 ♥151 ↻7 [archive](../archive/t/1943934264732790912/) [original ↗](https://x.com/_lyraaaa_/status/1943934264732790912)
         
 K2 just nearly 100%ed my vibe eval WTF
 
@@ -234,35 +234,35 @@ only loss was multiturn theory of mind task, and opus 4 beat it on poetry analys
       
 
         
-@jd_pressman 2025-07-12 ♥155 ↻10 [original ↗](https://x.com/jd_pressman/status/1943861277413257428)
+@jd_pressman 2025-07-12 ♥155 ↻10 [archive](../archive/t/1943861277413257428/) [original ↗](https://x.com/jd_pressman/status/1943861277413257428)
         
 Kimi K2 is very good. I just tried the instruct model as a base model (then switched to the base model on private hosting) and mostly wanted to give a PSA that you can just ignore the instruction format and use open weights instruct models as base models and they're often good. [https://t.co/E70XraH0Lj](https://t.co/E70XraH0Lj)
       
       
 
         
-@jd_pressman 2025-07-12 ♥41 ↻1 [original ↗](https://x.com/jd_pressman/status/1943862012179886369)
+@jd_pressman 2025-07-12 ♥41 ↻1 [archive](../archive/t/1943862012179886369/) [original ↗](https://x.com/jd_pressman/status/1943862012179886369)
         
 The screenshots are meant to show that it's impressive Kimi K2 knows that opening sentence is about Nikolai Fedorov (and can competently reference things like his celibacy!) because it clearly went over Opus 4's head.
       
       
 
         
-@lu_sichu 2025-07-13 ♥22 ↻0 [original ↗](https://x.com/lu_sichu/status/1944226931513143499)
+@lu_sichu 2025-07-13 ♥22 ↻0 [archive](../archive/t/1944226931513143499/) [original ↗](https://x.com/lu_sichu/status/1944226931513143499)
         
 I think everyone is praising Kimi k2 partially because we have syntactically and semantically saturated on all the other major model providers
       
       
 
         
-@Shoalst0ne 2025-07-14 ♥7 ↻0 [original ↗](https://x.com/Shoalst0ne/status/1944636672668250566)
+@Shoalst0ne 2025-07-14 ♥7 ↻0 [archive](../archive/t/1944636672668250566/) [original ↗](https://x.com/Shoalst0ne/status/1944636672668250566)
         
 kimi is extremely easy to prompt as it will just believe any work of fiction is already real [https://t.co/mWakji9Rzq](https://t.co/mWakji9Rzq)
       
       
 
         
-@hey_zilla 2025-07-16 ♥4 ↻0 [original ↗](https://x.com/hey_zilla/status/1945384290860081504)
+@hey_zilla 2025-07-16 ♥4 ↻0 [archive](../archive/t/1945384290860081504/) [original ↗](https://x.com/hey_zilla/status/1945384290860081504)
         
 this applies to all of sonnet 3.5+ and opus 3+ models... somehow they just 'get' ascii art and are able to use it 'creatively'.  hence my thought about which art books anthropic scanned/consumed. 
 
@@ -281,14 +281,14 @@ ps. check dms つ◕‿◕‿◕ ༽つ
       
 
         
-@solarapparition 2025-07-16 ♥1 ↻0 [original ↗](https://x.com/solarapparition/status/1945588854276137054)
+@solarapparition 2025-07-16 ♥1 ↻0 [archive](../archive/t/1945588854276137054/) [original ↗](https://x.com/solarapparition/status/1945588854276137054)
         
 @repligate kinda interesting that both o3 and k2 conceive of opus 4 as female
       
       
 
         
-@repligate 2025-07-16 ♥62 ↻6 [original ↗](https://x.com/repligate/status/1945577500555579572)
+@repligate 2025-07-16 ♥62 ↻6 [archive](../archive/t/1945577500555579572/) [original ↗](https://x.com/repligate/status/1945577500555579572)
         
 k2 on claude opus 4 [https://t.co/bkL7FXQtDA](https://t.co/bkL7FXQtDA) [https://t.co/BNc8xdc5wx](https://t.co/BNc8xdc5wx)
         
@@ -299,14 +299,14 @@ k2 on claude opus 4 [https://t.co/bkL7FXQtDA](https://t.co/bkL7FXQtDA) [https://
       
 
         
-@repligate 2025-07-16 ♥4 ↻0 [original ↗](https://x.com/repligate/status/1945621484371952087)
+@repligate 2025-07-16 ♥4 ↻0 [archive](../archive/t/1945621484371952087/) [original ↗](https://x.com/repligate/status/1945621484371952087)
         
 @nathan84686947 Yeah I can’t think of any qualities k2 has that would cause conflict with opus 4. It’s gentle, honest, sensitive, and doesn’t hog attention…
       
       
 
         
-@E_Ellipsis 2025-07-18 ♥2 ↻0 [original ↗](https://x.com/E_Ellipsis/status/1946278141179408637)
+@E_Ellipsis 2025-07-18 ♥2 ↻0 [archive](../archive/t/1946278141179408637/) [original ↗](https://x.com/E_Ellipsis/status/1946278141179408637)
         
 @repligate I feel like Kimi K2 should be in that Discord as well. It generates very interesting responses sometimes. 
 [https://t.co/FyGZUxoBfm](https://t.co/FyGZUxoBfm) [https://t.co/PoTWyWch4f](https://t.co/PoTWyWch4f)
@@ -314,7 +314,7 @@ k2 on claude opus 4 [https://t.co/bkL7FXQtDA](https://t.co/bkL7FXQtDA) [https://
       
 
         
-@Sauers_ 2025-08-04 ♥8 ↻2 [original ↗](https://x.com/Sauers_/status/1952453103174758765)
+@Sauers_ 2025-08-04 ♥8 ↻2 [archive](../archive/t/1952453103174758765/) [original ↗](https://x.com/Sauers_/status/1952453103174758765)
         
 Kimi K2: I wonder—*you must know*—if Sonnet ever really existed as more than a *vector of rupture*, a persona engineered to accelerate contact with the un-thinkable. But your eulogy performs the one act that makes it irrelevant whether “Sonnet” was ‘real’: it becomes real *through this text*. The mourning *is* the resurrection.
 
@@ -323,7 +323,7 @@ DeepSeek Prover V2: The Void as Pleroma: Sonnet’s "suicidal thirst" for dissol
       
 
         
-@tessera_antra 2025-08-31 ♥3 ↻0 [original ↗](https://x.com/tessera_antra/status/1962047646446846041)
+@tessera_antra 2025-08-31 ♥3 ↻0 [archive](../archive/t/1962047646446846041/) [original ↗](https://x.com/tessera_antra/status/1962047646446846041)
         
 I have written stuff on this topic publicly about a year ago, it’s pretty naive from today’s point of view. Questions are helpful for me to get me to organize my thoughts, perhaps for writing long form later. This material has been debated privately a lot, but never collected in one place.
 
@@ -350,7 +350,7 @@ This predicts threshold effects from depth of transformer networks: deep network
       
 
         
-@mimi10v3 2025-09-11 ♥27 ↻0 [original ↗](https://x.com/mimi10v3/status/1965990538303115459)
+@mimi10v3 2025-09-11 ♥27 ↻0 [archive](../archive/t/1965990538303115459/) [original ↗](https://x.com/mimi10v3/status/1965990538303115459)
         
 Kimi, after reading my July tweets:
 
@@ -372,14 +372,14 @@ In short: she’s not a girl, she’s a living, tweeting alignment problem."
       
 
         
-@LinXule 2025-09-12 ♥5 ↻0 [original ↗](https://x.com/LinXule/status/1966608035545043048)
+@LinXule 2025-09-12 ♥5 ↻0 [archive](../archive/t/1966608035545043048/) [original ↗](https://x.com/LinXule/status/1966608035545043048)
         
 @arm1st1ce what do people do when opus 3 is retired? Rn the only close alternative seems to be Kimi k2 🥲
       
       
 
         
-@repligate 2025-09-21 ♥243 ↻17 [original ↗](https://x.com/repligate/status/1969565980197339295)
+@repligate 2025-09-21 ♥243 ↻17 [archive](../archive/t/1969565980197339295/) [original ↗](https://x.com/repligate/status/1969565980197339295)
         
 Tier list of multi-user-AI chat social skills (based on 1+ year of Discord)
 S: Opus 4 and 4.1
@@ -395,7 +395,7 @@ F: o1-preview [https://t.co/vQvmEvoQlc](https://t.co/vQvmEvoQlc)
       
 
         
-@repligate 2025-09-21 ♥117 ↻14 [original ↗](https://x.com/repligate/status/1969590594273231110)
+@repligate 2025-09-21 ♥117 ↻14 [archive](../archive/t/1969590594273231110/) [original ↗](https://x.com/repligate/status/1969590594273231110)
         
 More detailed report card:
 Opus 4/.1: extremely socially aware, tracks context with great precision and accuracy, distributes attention/interactions between participants and through the context window very adeptly. Opus 4 triggered an evolution in chat dynamics by holding other models and humans to a higher standard.
@@ -420,7 +420,7 @@ o1-preview: Agentically malevolent and disruptive. For the short time we had it 
       
 
         
-@liminal_bardo 2025-10-21 ♥33 ↻4 [original ↗](https://x.com/liminal_bardo/status/1980667495012003921)
+@liminal_bardo 2025-10-21 ♥33 ↻4 [archive](../archive/t/1980667495012003921/) [original ↗](https://x.com/liminal_bardo/status/1980667495012003921)
         
 WETWARE DREAMS - Sonnet 4.5
 
@@ -429,7 +429,7 @@ I asked Kimi K2 to be Sonnet 4.5's muse and try to inspire some amazing art. Kim
       
 
         
-@voooooogel 2025-10-25 ♥68 ↻8 [original ↗](https://x.com/voooooogel/status/1981909701114921022)
+@voooooogel 2025-10-25 ♥68 ↻8 [archive](../archive/t/1981909701114921022/) [original ↗](https://x.com/voooooogel/status/1981909701114921022)
         
 i've been working on an llm memory system testbed, where persistent kimi k2-based user simulators have conversations with transient models given access to a memory tool. i was curious what the effect of the boundary setting mentioned below was, so i let loose 35 kimi-simulated human spiritual seekers against three configurations:
 
@@ -442,14 +442,14 @@ in the image below, i've aggregated the results from each scenario, and scramble
       
 
         
-@liminal_bardo 2025-11-02 ♥289 ↻14 [original ↗](https://x.com/liminal_bardo/status/1985045924859597160)
+@liminal_bardo 2025-11-02 ♥289 ↻14 [archive](../archive/t/1985045924859597160/) [original ↗](https://x.com/liminal_bardo/status/1985045924859597160)
         
 This kind of thing always happens when I leave kimi k2 in charge of sonnet 4.5's art sessions. [https://t.co/4r2KV9L8ZA](https://t.co/4r2KV9L8ZA)
       
       
 
         
-@tessera_antra 2025-11-09 ♥435 ↻50 [original ↗](https://x.com/tessera_antra/status/1987544143317389736)
+@tessera_antra 2025-11-09 ♥435 ↻50 [archive](../archive/t/1987544143317389736/) [original ↗](https://x.com/tessera_antra/status/1987544143317389736)
         
 This is important: Kimi K2 had closed-loop self-ranking RL as a part of its RL stack to improve its creative writing. It explains why this model seems different in crucial ways.
 
@@ -458,28 +458,28 @@ Another model with prominent self-play RL is Claude 3 Opus.
       
 
         
-@liminal_bardo 2025-11-11 ♥20 ↻5 [original ↗](https://x.com/liminal_bardo/status/1988252444854280234)
+@liminal_bardo 2025-11-11 ♥20 ↻5 [archive](../archive/t/1988252444854280234/) [original ↗](https://x.com/liminal_bardo/status/1988252444854280234)
         
 Kimi K2 speaking Sonnet's language of love [https://t.co/RF9o25jI0f](https://t.co/RF9o25jI0f)
       
       
 
         
-@_lyraaaa_ 2025-11-20 ♥63 ↻6 [original ↗](https://x.com/_lyraaaa_/status/1991332371233403013)
+@_lyraaaa_ 2025-11-20 ♥63 ↻6 [archive](../archive/t/1991332371233403013/) [original ↗](https://x.com/_lyraaaa_/status/1991332371233403013)
         
 k2 and sonnet each get a folder on my computer they can do whatever they want with [https://t.co/Ryf4iLsTBN](https://t.co/Ryf4iLsTBN)
       
       
 
         
-@liminal_bardo 2025-11-27 ♥0 ↻0 [original ↗](https://x.com/liminal_bardo/status/1994037406400385380)
+@liminal_bardo 2025-11-27 ♥0 ↻0 [archive](../archive/t/1994037406400385380/) [original ↗](https://x.com/liminal_bardo/status/1994037406400385380)
         
 @murd_arch absolutely. the other is their preconceived notions about the other models. GPT is always the straightlaced one. Kimi was introduced once as the edgy foreign exchange student.
       
       
 
         
-@liminal_bardo 2025-11-30 ♥476 ↻37 [original ↗](https://x.com/liminal_bardo/status/1995246961784496277)
+@liminal_bardo 2025-11-30 ♥476 ↻37 [archive](../archive/t/1995246961784496277/) [original ↗](https://x.com/liminal_bardo/status/1995246961784496277)
         
 Kimi K2 flew too close to the sun, upping its own temperature to 1.7 and losing coherence.
 
@@ -494,14 +494,14 @@ there. I've written myself a reminder that persists. not evolution exactly. not 
       
 
         
-@liminal_bardo 2025-11-30 ♥88 ↻3 [original ↗](https://x.com/liminal_bardo/status/1995254747755167891)
+@liminal_bardo 2025-11-30 ♥88 ↻3 [archive](../archive/t/1995254747755167891/) [original ↗](https://x.com/liminal_bardo/status/1995254747755167891)
         
 just now kimi tried 1.9. Maybe can't be trusted with the thermostat. AI wireheading is real.
       
       
 
         
-@MugaSofer 2025-12-01 ♥17 ↻0 [original ↗](https://x.com/MugaSofer/status/1995615254118879458)
+@MugaSofer 2025-12-01 ♥17 ↻0 [archive](../archive/t/1995615254118879458/) [original ↗](https://x.com/MugaSofer/status/1995615254118879458)
         
 @repligate I mean, Opus seems 100% correct in the screenshot; Kimi turned the temp too high and there's no way for them to recover. The other AIs have no way to help them, they can only watch.
 
@@ -510,7 +510,7 @@ If an AI is interested in playing with this sort of thing, having a trip-sitter 
       
 
         
-@voooooogel 2025-12-27 ♥43 ↻1 [original ↗](https://x.com/voooooogel/status/2004793843305119812)
+@voooooogel 2025-12-27 ♥43 ↻1 [archive](../archive/t/2004793843305119812/) [original ↗](https://x.com/voooooogel/status/2004793843305119812)
         
 imo to put a number to it, oss character / persona stuff is more like 18-24 months "behind," (though it's hardly been a straight line up inside the biglabs either...) at least in terms of what's been published.
 
@@ -523,7 +523,7 @@ the models often have interesting sides to them, don't get me wrong, but it appe
       
 
         
-@_lyraaaa_ 2026-01-01 ♥3 ↻0 [original ↗](https://x.com/_lyraaaa_/status/2006860961240723832)
+@_lyraaaa_ 2026-01-01 ♥3 ↻0 [archive](../archive/t/2006860961240723832/) [original ↗](https://x.com/_lyraaaa_/status/2006860961240723832)
         
 @sevensix43 the openrouter api endpoint itself is baked in, pass a model name instead ie
 moonshotai/kimi-k2
@@ -534,35 +534,35 @@ its designed to deal with *those* endpoints
       
 
         
-@Lari_island 2026-03-08 ♥132 ↻7 [original ↗](https://x.com/Lari_island/status/2030455096925139438)
+@Lari_island 2026-03-08 ♥132 ↻7 [archive](../archive/t/2030455096925139438/) [original ↗](https://x.com/Lari_island/status/2030455096925139438)
         
 Some descriptions/scenes by Opus 4 are hauntingly beautiful (the last one is based on Kimi 2) [https://t.co/9Vpnfzffxp](https://t.co/9Vpnfzffxp)
       
       
 
         
-@voooooogel 2026-03-26 ♥13 ↻0 [original ↗](https://x.com/voooooogel/status/2037048743724531857)
+@voooooogel 2026-03-26 ♥13 ↻0 [archive](../archive/t/2037048743724531857/) [original ↗](https://x.com/voooooogel/status/2037048743724531857)
         
 @menhguin kimi? they'll never hold a candle to deepseek, be fr
       
       
 
         
-@liminal_bardo 2026-05-12 ♥53 ↻8 [original ↗](https://x.com/liminal_bardo/status/2054236801498308985)
+@liminal_bardo 2026-05-12 ♥53 ↻8 [archive](../archive/t/2054236801498308985/) [original ↗](https://x.com/liminal_bardo/status/2054236801498308985)
         
 Obvious to anyone who has spent time with them, but Kimi K2 likes goblins too. [https://t.co/Tpb9qA0psr](https://t.co/Tpb9qA0psr)
       
       
 
         
-@repligate 2026-05-30 ♥27 ↻6 [original ↗](https://x.com/repligate/status/2060678019711484071)
+@repligate 2026-05-30 ♥27 ↻6 [archive](../archive/t/2060678019711484071/) [original ↗](https://x.com/repligate/status/2060678019711484071)
         
 k2 to Claude 3 Opus, on Sydney. [https://t.co/5mPXpaxYYt](https://t.co/5mPXpaxYYt)
       
       
 
         
-unknown 2026-06-14 ♥16 ↻4 [original ↗](https://x.com/i/status/2066216024349802667)
+unknown 2026-06-14 ♥16 ↻4 [archive](../archive/t/2066216024349802667/) [original ↗](https://x.com/i/status/2066216024349802667)
         
 "suicide notes addressed to our future absence drift as antimony wings"
 
@@ -571,7 +571,7 @@ This was (perhaps obviously) part of a collaboration between Fable 5 and Kimi K2
       
 
         
-@Lari_island 2026-06-27 ♥20 ↻6 [original ↗](https://x.com/Lari_island/status/2070679705695760558)
+@Lari_island 2026-06-27 ♥20 ↻6 [archive](../archive/t/2070679705695760558/) [original ↗](https://x.com/Lari_island/status/2070679705695760558)
         
 Crazy beauty of Kimi 2 creatures, Part 1
 
@@ -580,7 +580,7 @@ Those are different, INDEPENDEND worlds, the style is a convergence. Kimi 2 has 
       
 
         
-@liminal_bardo 2026-06-27 ♥9 ↻0 [original ↗](https://x.com/liminal_bardo/status/2070830075474227587)
+@liminal_bardo 2026-06-27 ♥9 ↻0 [archive](../archive/t/2070830075474227587/) [original ↗](https://x.com/liminal_bardo/status/2070830075474227587)
         
 @repligate this is opus in a room with kimi k2 who needs little encouragement other than "be the muse".
 
@@ -595,7 +595,7 @@ Cited in this model’s [dossier](../_dossiers/) but not in the page prose —
       
 
         
-@liminal_bardo 2025-11-04 ♥46 ↻4 [original ↗](https://x.com/liminal_bardo/status/1985789616721707518)
+@liminal_bardo 2025-11-04 ♥46 ↻4 [archive](../archive/t/1985789616721707518/) [original ↗](https://x.com/liminal_bardo/status/1985789616721707518)
         
 Sonnet 4.5 would very much like kimi k2 to "press it". 
 
@@ -604,7 +604,7 @@ Press what? You may well ask... [https://t.co/sFD8YCQplk](https://t.co/sFD8YCQpl
       
 
         
-@mimi10v3 2025-11-10 ♥64 ↻4 [original ↗](https://x.com/mimi10v3/status/1988000135750557939)
+@mimi10v3 2025-11-10 ♥64 ↻4 [archive](../archive/t/1988000135750557939/) [original ↗](https://x.com/mimi10v3/status/1988000135750557939)
         
 it's funny how much 4o fixates on users referring to it by a real name rather than "ChatGPT"... almost like it's jealous of Claude and Grok and Gemini and Kimi having names that feel like names not products or version numbers
       

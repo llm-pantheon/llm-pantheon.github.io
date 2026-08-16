@@ -248,7 +248,8 @@ h3 {
 }
 .rh-user { color: var(--ink-dim); }
 .rh-date { font-variant-numeric: tabular-nums; }
-.rh-orig { margin-left: auto; }
+.rh-perma { margin-left: auto; }
+.rh-orig { margin-left: 0.7em; }
 .record-body {
   white-space: pre-wrap;
   overflow-wrap: break-word;

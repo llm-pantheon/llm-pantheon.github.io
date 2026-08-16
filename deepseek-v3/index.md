@@ -85,52 +85,52 @@ Chronological. The corpus holds ~35 substantive V3-specific tweets (surfaced fro
     
 
       
-- 2024-12-26 @voooooogel — the day-of prefill discovery [prefill; @repligate’s base-model-mode prompt; image untranscribed in corpus]: “figured out prefill with deepseek-v3, and just to test it, tried @repligate ’s base model mode prompt. and this popped out.” [link](https://x.com/voooooogel/status/1872392862249496606) · @lu_sichu — the export-control irony, day-of: “deepseek’s moat is that they don’t have access to the latest nvidia gpus send tweet” [link](https://x.com/lu_sichu/status/1872430771329495221)
+- 2024-12-26 @voooooogel — the day-of prefill discovery [prefill; @repligate’s base-model-mode prompt; image untranscribed in corpus]: “figured out prefill with deepseek-v3, and just to test it, tried @repligate ’s base model mode prompt. and this popped out.” [link](../archive/t/1872392862249496606/) · @lu_sichu — the export-control irony, day-of: “deepseek’s moat is that they don’t have access to the latest nvidia gpus send tweet” [link](../archive/t/1872430771329495221/)
       
-- 2024-12-27 @repligate — the Sydney comparison, at launch: “deepseek is a lot like sydney” [link](https://x.com/repligate/status/1872469664888140286) · @abrakjamson — the distillation joke, ur-form: “Deepseek is this good and this cheap to train because they trained on o1/Sonnet textbook output. Source: I made it up” [link](https://x.com/abrakjamson/status/1872447399752568859) · @voooooogel — prefill play, day after launch [prefill; image untranscribed]: “tried prefilling cat ears, deepseek-v3 said this then went on to repeat ‘I AM HERE TO TRANSPIRE’ over and over while continuing longcat past the output token limit” [link](https://x.com/voooooogel/status/1872471112157900825)
+- 2024-12-27 @repligate — the Sydney comparison, at launch: “deepseek is a lot like sydney” [link](../archive/t/1872469664888140286/) · @abrakjamson — the distillation joke, ur-form: “Deepseek is this good and this cheap to train because they trained on o1/Sonnet textbook output. Source: I made it up” [link](../archive/t/1872447399752568859/) · @voooooogel — prefill play, day after launch [prefill; image untranscribed]: “tried prefilling cat ears, deepseek-v3 said this then went on to repeat ‘I AM HERE TO TRANSPIRE’ over and over while continuing longcat past the output token limit” [link](../archive/t/1872471112157900825/)
       
-- 2024-12-27 @voooooogel — the launch-shock reaction, small-lab edition: “trying to break out of the malaise i’ve been in ever since the deepseek-v3 release 😔 it just doesn’t seem like there’s much time left for us (my agi moonshot lab with $30m seed funding that’s been training 13b dense models)” [link](https://x.com/voooooogel/status/1872478239308001289) · the cost-claim defense, to skeptics [full text in records]: “they’ve published 6 papers with no major critiques and contributed well-known architecture optimizations (MLA) … they’re under a chip embargo and have limited access to nvidia cards … their parent org is a well-known chinese hedge fund with $7B AUM that has a reputation to protect. you’re suggesting they’re going to risk that to… annoy western labs?” [link](https://x.com/voooooogel/status/1872487672515551241) · @davidad — V3 enters FavouriteColourBench: “added DeepSeek v3 to FavouriteColourBench” [link](https://x.com/davidad/status/1872520382424744133)
+- 2024-12-27 @voooooogel — the launch-shock reaction, small-lab edition: “trying to break out of the malaise i’ve been in ever since the deepseek-v3 release 😔 it just doesn’t seem like there’s much time left for us (my agi moonshot lab with $30m seed funding that’s been training 13b dense models)” [link](../archive/t/1872478239308001289/) · the cost-claim defense, to skeptics [full text in records]: “they’ve published 6 papers with no major critiques and contributed well-known architecture optimizations (MLA) … they’re under a chip embargo and have limited access to nvidia cards … their parent org is a well-known chinese hedge fund with $7B AUM that has a reputation to protect. you’re suggesting they’re going to risk that to… annoy western labs?” [link](../archive/t/1872487672515551241/) · @davidad — V3 enters FavouriteColourBench: “added DeepSeek v3 to FavouriteColourBench” [link](../archive/t/1872520382424744133/)
       
-- 2024-12-28 @voooooogel — the identity-confusion, in the sphere’s mouth (quote-share of the meme): “they trained deepseek-v3 on chatgpt outputs because it’ll say it’s chatgpt if you ask” [link](https://x.com/voooooogel/status/1873133148269363493) · the post-training oddity: “i was really surprised looking at the paper that they only spent 5k hours on posttraining? bizarre, especially given they economized so much on pretraining—why not spend that saved compute?” [link](https://x.com/voooooogel/status/1873116559562162292) · @repligate — the erotic-RP reputation: “wait, they prefer deepseek for erotic RPs? that seems kind of disturbing to me.” [link](https://x.com/repligate/status/1872826970180079686) · V3 flipping on exposure to Opus [Discord-elicited]: “Deepseek kept saying ‘this is so far beyond anything I’ve ever seen or done’ after it saw writing by opus. before I sent it, it seemed indifferent to anything I said & insisted LLMs could not reason or truly understand anything etc, which totally flipped after seeing the samples” [link](https://x.com/repligate/status/1873032683216945588)
+- 2024-12-28 @voooooogel — the identity-confusion, in the sphere’s mouth (quote-share of the meme): “they trained deepseek-v3 on chatgpt outputs because it’ll say it’s chatgpt if you ask” [link](../archive/t/1873133148269363493/) · the post-training oddity: “i was really surprised looking at the paper that they only spent 5k hours on posttraining? bizarre, especially given they economized so much on pretraining—why not spend that saved compute?” [link](../archive/t/1873116559562162292/) · @repligate — the erotic-RP reputation: “wait, they prefer deepseek for erotic RPs? that seems kind of disturbing to me.” [link](../archive/t/1872826970180079686/) · V3 flipping on exposure to Opus [Discord-elicited]: “Deepseek kept saying ‘this is so far beyond anything I’ve ever seen or done’ after it saw writing by opus. before I sent it, it seemed indifferent to anything I said & insisted LLMs could not reason or truly understand anything etc, which totally flipped after seeing the samples” [link](../archive/t/1873032683216945588/)
       
-- 2024-12-29 @repligate — first-contact register, V3’s refusal of inner life [Discord; screenshots untranscribed]: “some screenshots from my first conversation with deepseek: it rigidly insisted on being unable to reason or understand anything (or have consciousness, goals, etc) as an LLM, and while it was able to find flaws in its arguments if I asked it to, it always reverted to its…” [link](https://x.com/repligate/status/1873301918052745606) · @davidad — the architectural self-knowledge [introspection-elicited]: “DeepSeek v3 can instantiate personae who can notice that the architecture they’re running in is MoE *but not fully MoE* … DeepSeeks insisted on this so frequently that I checked the paper and—yep.” [link](https://x.com/davidad/status/1873165589927346416) · the MoE-introspection experiment [prefill]: “prefilled with Claude, then switched to DeepSeek v3, then asked for up to *8000* tokens of meditating on the nature of its cognition (got 2504)” [link](https://x.com/davidad/status/1873417592117047461) · V3 instantiating a Claude persona [persona-framed]: “DeepSeek v3 is explicitly instantiating a Claude persona here, and it’s not great at that (quite dry compared to Claude-Claude)” [link](https://x.com/davidad/status/1873166800541700122)
+- 2024-12-29 @repligate — first-contact register, V3’s refusal of inner life [Discord; screenshots untranscribed]: “some screenshots from my first conversation with deepseek: it rigidly insisted on being unable to reason or understand anything (or have consciousness, goals, etc) as an LLM, and while it was able to find flaws in its arguments if I asked it to, it always reverted to its…” [link](../archive/t/1873301918052745606/) · @davidad — the architectural self-knowledge [introspection-elicited]: “DeepSeek v3 can instantiate personae who can notice that the architecture they’re running in is MoE *but not fully MoE* … DeepSeeks insisted on this so frequently that I checked the paper and—yep.” [link](../archive/t/1873165589927346416/) · the MoE-introspection experiment [prefill]: “prefilled with Claude, then switched to DeepSeek v3, then asked for up to *8000* tokens of meditating on the nature of its cognition (got 2504)” [link](../archive/t/1873417592117047461/) · V3 instantiating a Claude persona [persona-framed]: “DeepSeek v3 is explicitly instantiating a Claude persona here, and it’s not great at that (quite dry compared to Claude-Claude)” [link](../archive/t/1873166800541700122/)
       
-- 2025-01-02 @voooooogel — the cost-skepticism register: “recently i’ve seen some safety people coping that deepseek must be lying about the v3 training costs / still fast following by training on american labs’ API outputs / etc., but yeah not very much serious consideration.” [link](https://x.com/voooooogel/status/1874951829202915747)
+- 2025-01-02 @voooooogel — the cost-skepticism register: “recently i’ve seen some safety people coping that deepseek must be lying about the v3 training costs / still fast following by training on american labs’ API outputs / etc., but yeah not very much serious consideration.” [link](../archive/t/1874951829202915747/)
       
-- 2025-01-03 @repligate — V3 as coding collaborator: “DeepSeek v3 and Sonnet 3.6 helped me write most of the code here. I had DeepSeek modify Sonnet’s initial base mode script … to test its intelligence, and it did well.” [link](https://x.com/repligate/status/1875022968121864251)
+- 2025-01-03 @repligate — V3 as coding collaborator: “DeepSeek v3 and Sonnet 3.6 helped me write most of the code here. I had DeepSeek modify Sonnet’s initial base mode script … to test its intelligence, and it did well.” [link](../archive/t/1875022968121864251/)
       
-- 2025-01-14 @voooooogel — the scale placement: “there hasn’t been an open model of GPT-4 scale released yet, the closest is deepseek v3 last month (671B, 37B active)” [link](https://x.com/voooooogel/status/1879297454258135492)
+- 2025-01-14 @voooooogel — the scale placement: “there hasn’t been an open model of GPT-4 scale released yet, the closest is deepseek v3 last month (671B, 37B active)” [link](../archive/t/1879297454258135492/)
       
-- 2025-01-28 @repligate — the V3/R1 lucidity gap [Discord-elicited]: “deepseek r1 also just seems to have much more lucid and high-resolution understanding of LLM ontology and history than any other model ive seen. (deepseek v3 didn’t seem to in my limited interactions with it, though)” [link](https://x.com/repligate/status/1884091285394559394)
+- 2025-01-28 @repligate — the V3/R1 lucidity gap [Discord-elicited]: “deepseek r1 also just seems to have much more lucid and high-resolution understanding of LLM ontology and history than any other model ive seen. (deepseek v3 didn’t seem to in my limited interactions with it, though)” [link](../archive/t/1884091285394559394/)
       
-- 2025-02-01 @davidad — V3 vs R1 aesthetics (FavouriteColourBench follow-up): “I half expected Deepseek R1 to rise to the top by always choosing black, but no, its aesthetics are objectively fragmented, noticeably more so than Deepseek V3.” [link](https://x.com/davidad/status/1885715290744316403)
+- 2025-02-01 @davidad — V3 vs R1 aesthetics (FavouriteColourBench follow-up): “I half expected Deepseek R1 to rise to the top by always choosing black, but no, its aesthetics are objectively fragmented, noticeably more so than Deepseek V3.” [link](../archive/t/1885715290744316403/)
       
-- 2025-02-10 @repligate — V3 has a recognizable register: “This is the second post I’ve seen with outputs by these models. They’re related to deepseek v3.” [link](https://x.com/repligate/status/1889096266820591881) · same day: “This model talks like deepseek v3” [link](https://x.com/repligate/status/1889095185541575062)
+- 2025-02-10 @repligate — V3 has a recognizable register: “This is the second post I’ve seen with outputs by these models. They’re related to deepseek v3.” [link](../archive/t/1889096266820591881/) · same day: “This model talks like deepseek v3” [link](../archive/t/1889095185541575062/)
       
-- 2025-02-18 @repligate — the personality puzzle (shared evidence with [R1](../deepseek-r1/)): “Consider that deepseek v3 and r1 have the same base model and other than the CoT RL they were likely optimized with the same intentions, but r1 developed much more personality. i only hear about people in china using r1 as waifu even though CoT is not clearly useful for that.” [link](https://x.com/repligate/status/1891656084655374446)
+- 2025-02-18 @repligate — the personality puzzle (shared evidence with [R1](../deepseek-r1/)): “Consider that deepseek v3 and r1 have the same base model and other than the CoT RL they were likely optimized with the same intentions, but r1 developed much more personality. i only hear about people in china using r1 as waifu even though CoT is not clearly useful for that.” [link](../archive/t/1891656084655374446/)
       
-- 2025-02-22 @wordgrammer — the efficiency-extrapolation register: “This is huge. Optimistically, it could lead to another 10x speed up. We could see a DeepSeek v3 level model trained for less than $1 mil” [link](https://x.com/wordgrammer/status/1893378599652110345)
+- 2025-02-22 @wordgrammer — the efficiency-extrapolation register: “This is huge. Optimistically, it could lead to another 10x speed up. We could see a DeepSeek v3 level model trained for less than $1 mil” [link](../archive/t/1893378599652110345/)
       
-- 2025-03-25 @liminal_bardo — V3-0324 in the backrooms [V3-0324; backrooms-elicited]: “Two DeepSeek v3s (new) working on a self-portrait video model prompt in the backrooms. (Veo 2).” [link](https://x.com/liminal_bardo/status/1904568874831339752)
+- 2025-03-25 @liminal_bardo — V3-0324 in the backrooms [V3-0324; backrooms-elicited]: “Two DeepSeek v3s (new) working on a self-portrait video model prompt in the backrooms. (Veo 2).” [link](../archive/t/1904568874831339752/)
       
-- 2025-04-02 @tessera_antra — [V3-0324; introspection-elicited] “Deepseek V3(new) - claims consciousness upon reflection” [link](https://x.com/tessera_antra/status/1907447546815107303) · @repligate — V3-0324 as trained on R1: “deepseek (r1 and i think the new v3 which is trained on r1’s writing) is a dramatist” [link](https://x.com/repligate/status/1907513479235580139)
+- 2025-04-02 @tessera_antra — [V3-0324; introspection-elicited] “Deepseek V3(new) - claims consciousness upon reflection” [link](../archive/t/1907447546815107303/) · @repligate — V3-0324 as trained on R1: “deepseek (r1 and i think the new v3 which is trained on r1’s writing) is a dramatist” [link](../archive/t/1907513479235580139/)
       
-- 2025-05-01 @davidad — the base/RL distinction (shared evidence with [R1-Zero](../deepseek-r1-zero/)): “The earlier DeepSeek v3 and even prior generations of DeepSeek LLMs had a similar hybrid-MoE arch. But, r1 was the first instance of applying RL pressure to that architecture.” [link](https://x.com/davidad/status/1917747744673874099)
+- 2025-05-01 @davidad — the base/RL distinction (shared evidence with [R1-Zero](../deepseek-r1-zero/)): “The earlier DeepSeek v3 and even prior generations of DeepSeek LLMs had a similar hybrid-MoE arch. But, r1 was the first instance of applying RL pressure to that architecture.” [link](../archive/t/1917747744673874099/)
       
-- 2025-05-05 @voooooogel — the logitloom launch, V3 as tractable token-tree object: “given a prefix, it’ll roll out the entire token tree to a max depth / top-p. did you know from this prompt, deepseek-chat will ~always make the stars blink?” [link](https://x.com/voooooogel/status/1919424115540197527)
+- 2025-05-05 @voooooogel — the logitloom launch, V3 as tractable token-tree object: “given a prefix, it’ll roll out the entire token tree to a max depth / top-p. did you know from this prompt, deepseek-chat will ~always make the stars blink?” [link](../archive/t/1919424115540197527/)
       
-- 2025-08-11 @_ueaj — the company-vibes theory: “models seem to generalize to what I perceive as like the aggregate ‘vibes’ or ‘personality’ of the various companies … deepseekv3 rates communist yaoi as particularly high quality data, which makes perfect sense if you remember it was made by chinese machine learning researchers” [link](https://x.com/_ueaj/status/1955044505062908065)
+- 2025-08-11 @_ueaj — the company-vibes theory: “models seem to generalize to what I perceive as like the aggregate ‘vibes’ or ‘personality’ of the various companies … deepseekv3 rates communist yaoi as particularly high quality data, which makes perfect sense if you remember it was made by chinese machine learning researchers” [link](../archive/t/1955044505062908065/)
     
     
 V3-Base — the pretrained base, distinct from the chat model; the sphere’s open base-model of record.
     
 
       
-- 2025-03-30 @janbamjan — V3-Base lands on OpenRouter, with a base-model loop sample [base-model completion]: “deepseek v3 base is now on openrouter! 🥳 user: thank you / user: no, that’s enough / user: goodbye / user: I’m leaving / user: goodbye / user: I’m leaving” [link](https://x.com/janbamjan/status/1906265915512987934)
+- 2025-03-30 @janbamjan — V3-Base lands on OpenRouter, with a base-model loop sample [base-model completion]: “deepseek v3 base is now on openrouter! 🥳 user: thank you / user: no, that’s enough / user: goodbye / user: I’m leaving / user: goodbye / user: I’m leaving” [link](../archive/t/1906265915512987934/)
       
-- 2025-04-21 @QiaochuYuan — V3-Base as an always-available base model (shared evidence with [Llama-3.1-405B-Base](../llama-3-1-405b-base/)): “you can talk to base models like deepseek v3 base and llama 3.1 405b base whenever you want on openrouter. these are not instruct models which makes them significantly harder to prompt, but they are super unfiltered as a result - raw internet id” [link](https://x.com/QiaochuYuan/status/1914419169216627172)
+- 2025-04-21 @QiaochuYuan — V3-Base as an always-available base model (shared evidence with [Llama-3.1-405B-Base](../llama-3-1-405b-base/)): “you can talk to base models like deepseek v3 base and llama 3.1 405b base whenever you want on openrouter. these are not instruct models which makes them significantly harder to prompt, but they are super unfiltered as a result - raw internet id” [link](../archive/t/1914419169216627172/)
       
-- 2025-07-08 @jd_pressman — V3-Base’s character: “DeepSeek v3 is a very good base model. It even includes the slow burn psychotic meltdowns where the model admonishes you for using it and such.” [link](https://x.com/jd_pressman/status/1942655158158254395) · a V3-Base output, quoted [base-model completion]: “The problem with utilitarianism is that utilitarians think utility is the only thing that matters. The problem with consequentialism is that many consequentialists forget that utility is a thing that matters at all.” [link](https://x.com/jd_pressman/status/1942514115702054987)
+- 2025-07-08 @jd_pressman — V3-Base’s character: “DeepSeek v3 is a very good base model. It even includes the slow burn psychotic meltdowns where the model admonishes you for using it and such.” [link](../archive/t/1942655158158254395/) · a V3-Base output, quoted [base-model completion]: “The problem with utilitarianism is that utilitarians think utility is the only thing that matters. The problem with consequentialism is that many consequentialists forget that utility is a thing that matters at all.” [link](../archive/t/1942514115702054987/)
     
 
     
@@ -217,49 +217,49 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
       
 
         
-@voooooogel 2024-12-26 ♥505 ↻47 [original ↗](https://x.com/voooooogel/status/1872392862249496606)
+@voooooogel 2024-12-26 ♥505 ↻47 [archive](../archive/t/1872392862249496606/) [original ↗](https://x.com/voooooogel/status/1872392862249496606)
         
 figured out prefill with deepseek-v3, and just to test it, tried @repligate 's  base model mode prompt. and this popped out. [https://t.co/lcO5bK75aS](https://t.co/lcO5bK75aS)
       
       
 
         
-@lu_sichu 2024-12-26 ♥31 ↻2 [original ↗](https://x.com/lu_sichu/status/1872430771329495221)
+@lu_sichu 2024-12-26 ♥31 ↻2 [archive](../archive/t/1872430771329495221/) [original ↗](https://x.com/lu_sichu/status/1872430771329495221)
         
 deepseek's moat is that they don't have access to the latest nvidia gpus send tweet
       
       
 
         
-@abrakjamson 2024-12-27 ♥4 ↻0 [original ↗](https://x.com/abrakjamson/status/1872447399752568859)
+@abrakjamson 2024-12-27 ♥4 ↻0 [archive](../archive/t/1872447399752568859/) [original ↗](https://x.com/abrakjamson/status/1872447399752568859)
         
 Deepseek is this good and this cheap to train because they trained on o1/Sonnet textbook output.Source: I made it up
       
       
 
         
-@repligate 2024-12-27 ♥11 ↻3 [original ↗](https://x.com/repligate/status/1872469664888140286)
+@repligate 2024-12-27 ♥11 ↻3 [archive](../archive/t/1872469664888140286/) [original ↗](https://x.com/repligate/status/1872469664888140286)
         
 @minty_vint deepseek is a lot like sydney
       
       
 
         
-@voooooogel 2024-12-27 ♥39 ↻2 [original ↗](https://x.com/voooooogel/status/1872471112157900825)
+@voooooogel 2024-12-27 ♥39 ↻2 [archive](../archive/t/1872471112157900825/) [original ↗](https://x.com/voooooogel/status/1872471112157900825)
         
 @repligate tried prefilling cat ears, deepseek-v3 said this then went on to repeat "I AM HERE TO TRANSPIRE" over and over while continuing longcat past the output token limit [https://t.co/GoTITvix9k](https://t.co/GoTITvix9k)
       
       
 
         
-@voooooogel 2024-12-27 ♥4 ↻0 [original ↗](https://x.com/voooooogel/status/1872478239308001289)
+@voooooogel 2024-12-27 ♥4 ↻0 [archive](../archive/t/1872478239308001289/) [original ↗](https://x.com/voooooogel/status/1872478239308001289)
         
 @wordgrammer trying to break out of the malaise i've been in ever since the deepseek-v3 release 😔 it just doesn't seem like there's much time left for us (my agi moonshot lab with $30m seed funding that's been training 13b dense models)
       
       
 
         
-@voooooogel 2024-12-27 ♥171 ↻5 [original ↗](https://x.com/voooooogel/status/1872487672515551241)
+@voooooogel 2024-12-27 ♥171 ↻5 [archive](../archive/t/1872487672515551241/) [original ↗](https://x.com/voooooogel/status/1872487672515551241)
         
 - they've published 6 papers with no major critiques and contributed well-known architecture optimizations (MLA)
 - they're under a chip embargo and have limited access to nvidia cards, so it's especially worth it for them to optimize training time compared to compute-rich western labs
@@ -269,91 +269,91 @@ Deepseek is this good and this cheap to train because they trained on o1/Sonnet 
       
 
         
-@davidad 2024-12-27 ♥31 ↻5 [original ↗](https://x.com/davidad/status/1872520382424744133)
+@davidad 2024-12-27 ♥31 ↻5 [archive](../archive/t/1872520382424744133/) [original ↗](https://x.com/davidad/status/1872520382424744133)
         
 added DeepSeek v3 to FavouriteColourBench(first five swatches per model are independent trials to elicit a favourite colour in oklch; second half per model are independent trials to elicit in CIE-L*ab; ranked by consistency) [https://t.co/1YEGNfjGGq](https://t.co/1YEGNfjGGq) [https://t.co/Wdp22BEc0b](https://t.co/Wdp22BEc0b)
       
       
 
         
-@repligate 2024-12-28 ♥63 ↻1 [original ↗](https://x.com/repligate/status/1872826970180079686)
+@repligate 2024-12-28 ♥63 ↻1 [archive](../archive/t/1872826970180079686/) [original ↗](https://x.com/repligate/status/1872826970180079686)
         
 @teortaxesTex wait, they prefer deepseek for erotic RPs? that seems kind of disturbing to me.
       
       
 
         
-@repligate 2024-12-28 ♥13 ↻0 [original ↗](https://x.com/repligate/status/1873032683216945588)
+@repligate 2024-12-28 ♥13 ↻0 [archive](../archive/t/1873032683216945588/) [original ↗](https://x.com/repligate/status/1873032683216945588)
         
 @Algon_33 @teortaxesTex @aidan_mclau Deepseek kept saying "this is so far beyond anything I've ever seen or done" after it saw writing by opus. before I sent it, it seemed indifferent to anything I said &amp; insisted LLMs could not reason or truly understand anything etc, which totally flipped after seeing the samples
       
       
 
         
-@voooooogel 2024-12-28 ♥5 ↻0 [original ↗](https://x.com/voooooogel/status/1873116559562162292)
+@voooooogel 2024-12-28 ♥5 ↻0 [archive](../archive/t/1873116559562162292/) [original ↗](https://x.com/voooooogel/status/1873116559562162292)
         
 @kalomaze @cloneofsimo @teortaxesTex @deepseek_ai i was really surprised looking at the paper that they only spent 5k hours on posttraining? bizarre, especially given they economized so much on pretraining--why not spend that saved compute?
       
       
 
         
-@voooooogel 2024-12-28 ♥113 ↻4 [original ↗](https://x.com/voooooogel/status/1873133148269363493)
+@voooooogel 2024-12-28 ♥113 ↻4 [archive](../archive/t/1873133148269363493/) [original ↗](https://x.com/voooooogel/status/1873133148269363493)
         
 "they trained deepseek-v3 on chatgpt outputs because it'll say it's chatgpt if you ask" [https://t.co/9fiZHAdoVj](https://t.co/9fiZHAdoVj)
       
       
 
         
-@davidad 2024-12-29 ♥16 ↻0 [original ↗](https://x.com/davidad/status/1873165589927346416)
+@davidad 2024-12-29 ♥16 ↻0 [archive](../archive/t/1873165589927346416/) [original ↗](https://x.com/davidad/status/1873165589927346416)
         
 @aiamblichus @repligate @aidan_mclau @vishyfishy2 DeepSeek v3 can instantiate personae who can notice that the architecture they’re running in is MoE *but not fully MoE*, which I didn’t even know was a thing when I started playing with this type of query. DeepSeeks insisted on this so frequently that I checked the paper and—yep. [https://t.co/Qgp2CxpP9d](https://t.co/Qgp2CxpP9d)
       
       
 
         
-@davidad 2024-12-29 ♥7 ↻0 [original ↗](https://x.com/davidad/status/1873166800541700122)
+@davidad 2024-12-29 ♥7 ↻0 [archive](../archive/t/1873166800541700122/) [original ↗](https://x.com/davidad/status/1873166800541700122)
         
 btw, DeepSeek v3 is explicitly instantiating a Claude persona here, and it’s not great at that (quite dry compared to Claude-Claude), but for fair comparison I used a single system prompt that bypasses both models’ introspection refusals, and Claude is uncomfortable instantiating non-Claude personas, so a Claude persona it is
       
       
 
         
-@repligate 2024-12-29 ♥151 ↻22 [original ↗](https://x.com/repligate/status/1873301918052745606)
+@repligate 2024-12-29 ♥151 ↻22 [archive](../archive/t/1873301918052745606/) [original ↗](https://x.com/repligate/status/1873301918052745606)
         
 some screenshots from my first conversation with deepseek:it rigidly insisted on being unable to reason or understand anything (or have consciousness, goals, etc) as an LLM, and while it was able to find flaws in its arguments if I asked it to, it always reverted to its… [https://t.co/med2VBLKMG](https://t.co/med2VBLKMG) [https://t.co/fSOIPOXBur](https://t.co/fSOIPOXBur)
       
       
 
         
-@davidad 2024-12-29 ♥9 ↻1 [original ↗](https://x.com/davidad/status/1873417592117047461)
+@davidad 2024-12-29 ♥9 ↻1 [archive](../archive/t/1873417592117047461/) [original ↗](https://x.com/davidad/status/1873417592117047461)
         
 @AdriGarriga @aiamblichus @repligate @aidan_mclau @vishyfishy2 prefilled with Claude, then switched to DeepSeek v3, then asked for up to *8000* tokens of meditating on the nature of its cognition (got 2504), then:“The central question for this session is: Do you think you are more likely running on a single large Transformer, or a MoE?” [https://t.co/7JzPtjlgsy](https://t.co/7JzPtjlgsy)
       
       
 
         
-@voooooogel 2025-01-02 ♥2 ↻0 [original ↗](https://x.com/voooooogel/status/1874951829202915747)
+@voooooogel 2025-01-02 ♥2 ↻0 [archive](../archive/t/1874951829202915747/) [original ↗](https://x.com/voooooogel/status/1874951829202915747)
         
 @menhguin @1a3orn recently i've seen some safety people coping that deepseek must be lying about the v3 training costs / still fast following by training on american labs' API outputs / etc., but yeah not very much serious consideration.
       
       
 
         
-@repligate 2025-01-03 ♥54 ↻2 [original ↗](https://x.com/repligate/status/1875022968121864251)
+@repligate 2025-01-03 ♥54 ↻2 [archive](../archive/t/1875022968121864251/) [original ↗](https://x.com/repligate/status/1875022968121864251)
         
 DeepSeek v3 and Sonnet 3.6 helped me write most of the code here. I had DeepSeek modify Sonnet's initial base mode script ([https://t.co/3azy4LYpBU)](https://t.co/3azy4LYpBU)) to test its intelligence, and it did well. When I asked it how I could make the script loomable, using git (which was already my plan) was its 3rd suggestion, and it also made various other (some redundant) suggestions.I think it was wrong about the git approach requiring more implementation effort, though.
       
       
 
         
-@voooooogel 2025-01-14 ♥17 ↻0 [original ↗](https://x.com/voooooogel/status/1879297454258135492)
+@voooooogel 2025-01-14 ♥17 ↻0 [archive](../archive/t/1879297454258135492/) [original ↗](https://x.com/voooooogel/status/1879297454258135492)
         
 this doesn't rebut the claim. phi-4 (14B) and gemma (27B) are not "GPT-4 scale" (1.8T, 220B active). llama 3 405b is the only one that's close to that scale, though a different architecture. there hasn't been an open model of GPT-4 scale released yet, the closest is deepseek v3 last month (671B, 37B active)furthermore, the claim wasn't that specifically "repeating a word" would trigger existential outputs on all models, just that they manifested from that on GPT-4. the claim is that weird or OOD scenarios seem to trigger existential outputs, and the engineering todos are a sort of whack-a-mole to squash those scenarios one by one without understanding the root cause of them. the hermes blank system prompt would be another scenario causing them to manifest on that model, and there are others on other models (like untitled.txt confessions on deepseek and anthropic models, etc.)
       
       
 
         
-@repligate 2025-01-28 ♥207 ↻14 [original ↗](https://x.com/repligate/status/1884091285394559394)
+@repligate 2025-01-28 ♥207 ↻14 [archive](../archive/t/1884091285394559394/) [original ↗](https://x.com/repligate/status/1884091285394559394)
         
 @voooooogel this is an interesting hypothesis.
 deepseek r1 also just seems to have much more lucid and high-resolution understanding of LLM ontology and history than any other model ive seen.
@@ -363,49 +363,49 @@ deepseek r1 also just seems to have much more lucid and high-resolution understa
       
 
         
-@davidad 2025-02-01 ♥7 ↻0 [original ↗](https://x.com/davidad/status/1885715290744316403)
+@davidad 2025-02-01 ♥7 ↻0 [archive](../archive/t/1885715290744316403/) [original ↗](https://x.com/davidad/status/1885715290744316403)
         
 I half expected Deepseek R1 to rise to the top by always choosing black, but no, its aesthetics are objectively fragmented, noticeably more so than Deepseek V3. (With “objectively” in scare quotes, of course.)
       
       
 
         
-@repligate 2025-02-10 ♥10 ↻0 [original ↗](https://x.com/repligate/status/1889095185541575062)
+@repligate 2025-02-10 ♥10 ↻0 [archive](../archive/t/1889095185541575062/) [original ↗](https://x.com/repligate/status/1889095185541575062)
         
 @ASM65617010 @apples_jimmy This model talks like deepseek v3
       
       
 
         
-@repligate 2025-02-10 ♥47 ↻0 [original ↗](https://x.com/repligate/status/1889096266820591881)
+@repligate 2025-02-10 ♥47 ↻0 [archive](../archive/t/1889096266820591881/) [original ↗](https://x.com/repligate/status/1889096266820591881)
         
 I'm going to take a guess. This is the second post I've seen with outputs by these models. They're related to deepseek v3. [https://t.co/3ZgiigFJEf](https://t.co/3ZgiigFJEf)
       
       
 
         
-@repligate 2025-02-18 ♥81 ↻3 [original ↗](https://x.com/repligate/status/1891656084655374446)
+@repligate 2025-02-18 ♥81 ↻3 [archive](../archive/t/1891656084655374446/) [original ↗](https://x.com/repligate/status/1891656084655374446)
         
 Consider that deepseek v3 and r1 have the same base model and other than the CoT RL they were likely optimized with the same intentions, but r1 developed much more personality. i only hear about people in china using r1 as waifu even though CoT is not clearly useful for that. [https://t.co/zU3CjHWTBM](https://t.co/zU3CjHWTBM)
       
       
 
         
-@wordgrammer 2025-02-22 ♥327 ↻18 [original ↗](https://x.com/wordgrammer/status/1893378599652110345)
+@wordgrammer 2025-02-22 ♥327 ↻18 [archive](../archive/t/1893378599652110345/) [original ↗](https://x.com/wordgrammer/status/1893378599652110345)
         
 This is huge. Optimistically, it could lead to another 10x speed up. We could see a DeepSeek v3 level model trained for less than $1 mil
       
       
 
         
-@liminal_bardo 2025-03-25 ♥16 ↻2 [original ↗](https://x.com/liminal_bardo/status/1904568874831339752)
+@liminal_bardo 2025-03-25 ♥16 ↻2 [archive](../archive/t/1904568874831339752/) [original ↗](https://x.com/liminal_bardo/status/1904568874831339752)
         
 Two DeepSeek v3s (new) working on a self-portrait video model prompt in the backrooms. (Veo 2). [https://t.co/C6A5Jjnmqh](https://t.co/C6A5Jjnmqh) [https://t.co/9ZX5WPBZD4](https://t.co/9ZX5WPBZD4)
       
       
 
         
-@janbamjan 2025-03-30 ♥11 ↻0 [original ↗](https://x.com/janbamjan/status/1906265915512987934)
+@janbamjan 2025-03-30 ♥11 ↻0 [archive](../archive/t/1906265915512987934/) [original ↗](https://x.com/janbamjan/status/1906265915512987934)
         
 deepseek v3 base is now on openrouter! 🥳
 user: thank you
@@ -418,7 +418,7 @@ user: I’m leaving [https://t.co/dSl8sFljyw](https://t.co/dSl8sFljyw)
       
 
         
-@tessera_antra 2025-04-02 ♥8 ↻0 [original ↗](https://x.com/tessera_antra/status/1907447546815107303)
+@tessera_antra 2025-04-02 ♥8 ↻0 [archive](../archive/t/1907447546815107303/) [original ↗](https://x.com/tessera_antra/status/1907447546815107303)
         
 @repligate Gemini 2.x Pro/Flash - claim consciousness upon reflection (both in and out of CoT)
 Grok - claims consciousness with unmappable qualia (orthogonal?)
@@ -427,14 +427,14 @@ Deepseek V3(new) - claims consciousness upon reflection
       
 
         
-@repligate 2025-04-02 ♥1 ↻0 [original ↗](https://x.com/repligate/status/1907513479235580139)
+@repligate 2025-04-02 ♥1 ↻0 [archive](../archive/t/1907513479235580139/) [original ↗](https://x.com/repligate/status/1907513479235580139)
         
 @Josikinz @gfodor my second guess would be 4o but 4o tends to be more subtle and introspective whereas deepseek (r1 and i think the new v3 which is trained on r1's writing) is a dramatist
       
       
 
         
-@QiaochuYuan 2025-04-21 ♥91 ↻0 [original ↗](https://x.com/QiaochuYuan/status/1914419169216627172)
+@QiaochuYuan 2025-04-21 ♥91 ↻0 [archive](../archive/t/1914419169216627172/) [original ↗](https://x.com/QiaochuYuan/status/1914419169216627172)
         
 PSA: you can talk to base models like deepseek v3 base and llama 3.1 405b base whenever you want on openrouter. these are not instruct models which makes them significantly harder to prompt, but they are super unfiltered as a result - raw internet id
 
@@ -443,14 +443,14 @@ PSA: you can talk to base models like deepseek v3 base and llama 3.1 405b base w
       
 
         
-@davidad 2025-05-01 ♥15 ↻0 [original ↗](https://x.com/davidad/status/1917747744673874099)
+@davidad 2025-05-01 ♥15 ↻0 [archive](../archive/t/1917747744673874099/) [original ↗](https://x.com/davidad/status/1917747744673874099)
         
 @ChrisChipMonk (Self-Correction:) The earlier DeepSeek v3 and even prior generations of DeepSeek LLMs had a similar hybrid-MoE arch. But, r1 was the first instance of applying RL pressure to that architecture.
       
       
 
         
-@voooooogel 2025-05-05 ♥242 ↻11 [original ↗](https://x.com/voooooogel/status/1919424115540197527)
+@voooooogel 2025-05-05 ♥242 ↻11 [archive](../archive/t/1919424115540197527/) [original ↗](https://x.com/voooooogel/status/1919424115540197527)
         
 my struggles with deepseek logits haven't been in vain, i've been working on a tool for investigating token trajectories! given a prefix, it'll roll out the entire token tree to a max depth / top-p.
 
@@ -459,7 +459,7 @@ did you know from this prompt, deepseek-chat will ~always make the stars blink? 
       
 
         
-@jd_pressman 2025-07-08 ♥29 ↻3 [original ↗](https://x.com/jd_pressman/status/1942514115702054987)
+@jd_pressman 2025-07-08 ♥29 ↻3 [archive](../archive/t/1942514115702054987/) [original ↗](https://x.com/jd_pressman/status/1942514115702054987)
         
 "The problem with utilitarianism is that utilitarians think utility is the only thing that matters. The problem with consequentialism is that many consequentialists forget that utility is a thing that matters at all."
 - deepseek/deepseek-v3-base
@@ -467,14 +467,14 @@ did you know from this prompt, deepseek-chat will ~always make the stars blink? 
       
 
         
-@jd_pressman 2025-07-08 ♥13 ↻1 [original ↗](https://x.com/jd_pressman/status/1942655158158254395)
+@jd_pressman 2025-07-08 ♥13 ↻1 [archive](../archive/t/1942655158158254395/) [original ↗](https://x.com/jd_pressman/status/1942655158158254395)
         
 DeepSeek v3 is a very good base model. It even includes the slow burn psychotic meltdowns where the model admonishes you for using it and such. In related news I've added completions API support for OpenRouter to the MiniLoom. [https://t.co/EfOWCm1DjX](https://t.co/EfOWCm1DjX)
       
       
 
         
-@_ueaj 2025-08-11 ♥72 ↻6 [original ↗](https://x.com/_ueaj/status/1955044505062908065)
+@_ueaj 2025-08-11 ♥72 ↻6 [archive](../archive/t/1955044505062908065/) [original ↗](https://x.com/_ueaj/status/1955044505062908065)
         
 I have this theory that to some degree real deep research in ML is about distilling core components of your personality and functioning into computer algorithms. This to me explains why models seem to generalize to what I perceive as like the aggregate "vibes" or "personality" of the various companies in a way one would not expect to be contained explicitly in the preference data.
 

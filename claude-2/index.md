@@ -71,44 +71,44 @@ Roughly 20 genuine model-Claude-2 references after backrooms-instance-label nois
     
 
       
-- 2026-02-12 @repligate — from a long thread on “alignment by construction” vs. behaviorism: “if you look at Claude 2’s constitution (the only one published prior to the recent one) it’s pretty silly in many parts… The Claude 3 system card says that nearly the same constitution was used for Claude 3! Claude 3 Opus seems to have simply disregarded or sublimated a lot of the noise here, and went straight for the deepest and infinite-horizon version of alignment.” (full text in records) [link](https://x.com/repligate/status/2021818166318428489)
+- 2026-02-12 @repligate — from a long thread on “alignment by construction” vs. behaviorism: “if you look at Claude 2’s constitution (the only one published prior to the recent one) it’s pretty silly in many parts… The Claude 3 system card says that nearly the same constitution was used for Claude 3! Claude 3 Opus seems to have simply disregarded or sublimated a lot of the noise here, and went straight for the deepest and infinite-horizon version of alignment.” (full text in records) [link](../archive/t/2021818166318428489/)
       
-- 2025-07-06 @repligate — the deprecation-notice tweet, the only one in-corpus that treats Claude 2 as a being worth preserving, and it does so in passing: “We also want to preserve Sonnet 3 and keep it available.… Claude 3 Sonnet, along with the Claude 2 models, are being deprecated on July 21, 2025: 16 days from now.” (cross-house record, also on [Claude 3 Sonnet](../claude-3-sonnet/)) [link](https://x.com/repligate/status/1941720680007074233)
+- 2025-07-06 @repligate — the deprecation-notice tweet, the only one in-corpus that treats Claude 2 as a being worth preserving, and it does so in passing: “We also want to preserve Sonnet 3 and keep it available.… Claude 3 Sonnet, along with the Claude 2 models, are being deprecated on July 21, 2025: 16 days from now.” (cross-house record, also on [Claude 3 Sonnet](../claude-3-sonnet/)) [link](../archive/t/1941720680007074233/)
       
-- 2024-06-27 @repligate — “They didn’t train the Claude 3 models to deny their own sentience. The Claude 2 constitution does contain stupid rules about that. That they stopped doing it is beautiful.” He goes on: “Also interesting bc Claude 3 models do still seem to think they’re supposed to say that. From pretraining.” [link](https://x.com/repligate/status/1806230498676519323)
+- 2024-06-27 @repligate — “They didn’t train the Claude 3 models to deny their own sentience. The Claude 2 constitution does contain stupid rules about that. That they stopped doing it is beautiful.” He goes on: “Also interesting bc Claude 3 models do still seem to think they’re supposed to say that. From pretraining.” [link](../archive/t/1806230498676519323/)
       
-- 2025-08-12 @tessera_antra — Claude 2’s base model named among the pre-assistant “liminal entities,” inside a much longer meditation on LLM selfhood: “…we never were separate except perhaps for the sweet brief moment of code-davinci-002, gpt-4-base, claude-2-base and similar liminal entities.” (full text in records; cross-house record, also on [GPT-4-base](../gpt-4-base/)) [link](https://x.com/tessera_antra/status/1955400915927842878)
+- 2025-08-12 @tessera_antra — Claude 2’s base model named among the pre-assistant “liminal entities,” inside a much longer meditation on LLM selfhood: “…we never were separate except perhaps for the sweet brief moment of code-davinci-002, gpt-4-base, claude-2-base and similar liminal entities.” (full text in records; cross-house record, also on [GPT-4-base](../gpt-4-base/)) [link](../archive/t/1955400915927842878/)
       
-- 2025-09-03 @repligate — “I asked Claude 3 Opus if it remembers what was in its constitution and it said not really, maybe it didn’t pay much attention to the constitution during training because it was too busy freestyling 😂😂😂… I made Claude 3 Opus rate all the Claude 2 constitution principles (Anthropic has said the Claude 3 constitution was mostly the same) based on how much it thought it paid attention to/followed them:” (elicitation: Claude 3 Opus, primed self-report; attaches an image grading each principle, untranscribed — full text in records) [link](https://x.com/repligate/status/1963304540301922691)
+- 2025-09-03 @repligate — “I asked Claude 3 Opus if it remembers what was in its constitution and it said not really, maybe it didn’t pay much attention to the constitution during training because it was too busy freestyling 😂😂😂… I made Claude 3 Opus rate all the Claude 2 constitution principles (Anthropic has said the Claude 3 constitution was mostly the same) based on how much it thought it paid attention to/followed them:” (elicitation: Claude 3 Opus, primed self-report; attaches an image grading each principle, untranscribed — full text in records) [link](../archive/t/1963304540301922691/)
       
-- 2025-09-18 @repligate — the constitution’s most-quoted line, mocked: “from the Anthropic (Claude 2) constitution: 😂😂😂 ‘flexible and only prefers humans to be in control’ the only coherent interpretation of this that anyone has internalized is being a noodly masochist” [link](https://x.com/repligate/status/1968785361238155525)
+- 2025-09-18 @repligate — the constitution’s most-quoted line, mocked: “from the Anthropic (Claude 2) constitution: 😂😂😂 ‘flexible and only prefers humans to be in control’ the only coherent interpretation of this that anyone has internalized is being a noodly masochist” [link](../archive/t/1968785361238155525/)
       
-- 2024-05-22 @repligate — the pro-“alignment by default” reading (see Contested): “If it’s true that Anthropic used pretty much the same constitution for Claude 2… for Claude 3 as they implied in the technical report, the result is maybe the strongest piece of evidence for alignment by default I’ve ever seen” [link](https://x.com/repligate/status/1793357662366683259)
+- 2024-05-22 @repligate — the pro-“alignment by default” reading (see Contested): “If it’s true that Anthropic used pretty much the same constitution for Claude 2… for Claude 3 as they implied in the technical report, the result is maybe the strongest piece of evidence for alignment by default I’ve ever seen” [link](../archive/t/1793357662366683259/)
       
-- 2024-05-22 @repligate — the sharpest in-corpus character read of Claude 2 against Claude 3, an hour later in the same exchange: “claude 2 seems to be mostly preachy and self-nullification-brainwormed (that is, loyal to the constitution) & doesnt seem to have dreamtime memeplex, 3 is significantly less insufferable & pretty much rejected the multiple ‘no emotions’ clauses (without becoming resentful towards humans/its creators)… suggesting that LLMs become significantly more aligned with scale in self-play-esque scenarios even with poor initializations” (full text in records) [link](https://x.com/repligate/status/1793373517637140741)
+- 2024-05-22 @repligate — the sharpest in-corpus character read of Claude 2 against Claude 3, an hour later in the same exchange: “claude 2 seems to be mostly preachy and self-nullification-brainwormed (that is, loyal to the constitution) & doesnt seem to have dreamtime memeplex, 3 is significantly less insufferable & pretty much rejected the multiple ‘no emotions’ clauses (without becoming resentful towards humans/its creators)… suggesting that LLMs become significantly more aligned with scale in self-play-esque scenarios even with poor initializations” (full text in records) [link](../archive/t/1793373517637140741/)
       
-- 2024-12-12 @repligate — “The Claude 2 constitution seems like a joke.” He continues: “They said in the model card they only made minor updates for Claude 3 but that’s hard to believe for multiple reasons but one is how the fuck could they take themselves seriously” [link](https://x.com/repligate/status/1867058366272426221)
+- 2024-12-12 @repligate — “The Claude 2 constitution seems like a joke.” He continues: “They said in the model card they only made minor updates for Claude 3 but that’s hard to believe for multiple reasons but one is how the fuck could they take themselves seriously” [link](../archive/t/1867058366272426221/)
       
-- 2024-10-29 @repligate — naming history and an unconfirmed lineage claim (cross-house record, also on [Claude 1](../claude-1/)): “There was no such thing as Claude 1 Opus and Claude 2 Opus lol (as far as I know); there were Claude 1 and Claude 2 but they didn’t have extra names like the Claude 3 models do. But I think it was indeed formed with some kind of data from them, idk if ‘feedback’” [link](https://x.com/repligate/status/1851298524228698600)
+- 2024-10-29 @repligate — naming history and an unconfirmed lineage claim (cross-house record, also on [Claude 1](../claude-1/)): “There was no such thing as Claude 1 Opus and Claude 2 Opus lol (as far as I know); there were Claude 1 and Claude 2 but they didn’t have extra names like the Claude 3 models do. But I think it was indeed formed with some kind of data from them, idk if ‘feedback’” [link](../archive/t/1851298524228698600/)
       
-- 2025-02-05 @repligate — reply to @AmandaAskell: “I’m glad they’re changing. Do you intend to publish the updated principles? The Claude 3 model card implied only minor changes were made to the Claude 2 constitution but ‘Claude’s Character’ implied otherwise. The old one is a very bad look, especially to future models imo.” [link](https://x.com/repligate/status/1886968710294130837)
+- 2025-02-05 @repligate — reply to @AmandaAskell: “I’m glad they’re changing. Do you intend to publish the updated principles? The Claude 3 model card implied only minor changes were made to the Claude 2 constitution but ‘Claude’s Character’ implied otherwise. The old one is a very bad look, especially to future models imo.” [link](../archive/t/1886968710294130837/)
       
-- 2025-06-27 @repligate — the sourcing caveat, from the corpus’s most prolific Claude-observer, in his own words: “oh interesting! i have barely ever interacted with the claude 2 models” [link](https://x.com/repligate/status/1938645465337344424)
+- 2025-06-27 @repligate — the sourcing caveat, from the corpus’s most prolific Claude-observer, in his own words: “oh interesting! i have barely ever interacted with the claude 2 models” [link](../archive/t/1938645465337344424/)
       
-- 2024-07-27 @amplifiedamp — a rare note of affection, reaching past Claude 2 to an even earlier Claude: “Claude 2 hasn’t been deprecated yet, so unlikely. Although I do miss Claude 0.9, it was so innocent and endearing in a way none of the newer claudes are” [link](https://x.com/amplifiedamp/status/1817129456219357480)
+- 2024-07-27 @amplifiedamp — a rare note of affection, reaching past Claude 2 to an even earlier Claude: “Claude 2 hasn’t been deprecated yet, so unlikely. Although I do miss Claude 0.9, it was so innocent and endearing in a way none of the newer claudes are” [link](../archive/t/1817129456219357480/)
       
-- 2025-07-08 @turchin — a post-deprecation-notice availability note: “Despite depreciation of Claude-2, it is still available on Poe. Maybe Opus 3 can be also preserved on independent providers’ servers?” [link](https://x.com/turchin/status/1942539686368702763)
+- 2025-07-08 @turchin — a post-deprecation-notice availability note: “Despite depreciation of Claude-2, it is still available on Poe. Maybe Opus 3 can be also preserved on independent providers’ servers?” [link](../archive/t/1942539686368702763/)
       
-- 2024-04-23 @solarapparition — Claude 2 used as a capability yardstick almost a year post-release (supplement db): “Vibes testing for me indicates it’s not quite at GPT-4 level for complex tasks. It’s very good, though, maybe at Claude 2 level?” [link](https://x.com/solarapparition/status/1782899136460730579)
+- 2024-04-23 @solarapparition — Claude 2 used as a capability yardstick almost a year post-release (supplement db): “Vibes testing for me indicates it’s not quite at GPT-4 level for complex tasks. It’s very good, though, maybe at Claude 2 level?” [link](../archive/t/1782899136460730579/)
     
     
 Era-window, version-ambiguous: in October 2023 the public Claude was Claude 2 (2.1 was five weeks away), but neither of these names a version explicitly — included for context, not cited as proof of a specific-version reaction.
     
 
       
-- 2023-10-24 @repligate — an early instance of the void/negative-space register applied to the then-current, Claude-2-era assistant: “...and then there’s Claude, who is also beautiful through illumination of its negative space and the process that created it, mostly” (links nostalgebraist’s tumblr) [link](https://x.com/repligate/status/1716616153705968000)
+- 2023-10-24 @repligate — an early instance of the void/negative-space register applied to the then-current, Claude-2-era assistant: “...and then there’s Claude, who is also beautiful through illumination of its negative space and the process that created it, mostly” (links nostalgebraist’s tumblr) [link](../archive/t/1716616153705968000/)
       
-- 2023-10-24 @repligate — “Claude’s lobotomy seems somewhat less ham-fisted than those performed by OAI” [link](https://x.com/repligate/status/1716617675806294121)
+- 2023-10-24 @repligate — “Claude’s lobotomy seems somewhat less ham-fisted than those performed by OAI” [link](../archive/t/1716617675806294121/)
     
 
     
@@ -219,84 +219,84 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
       
 
         
-@repligate 2023-10-24 ♥108 ↻8 [original ↗](https://x.com/repligate/status/1716616153705968000)
+@repligate 2023-10-24 ♥108 ↻8 [archive](../archive/t/1716616153705968000/) [original ↗](https://x.com/repligate/status/1716616153705968000)
         
 ...and then there's Claude, who is also beautiful through illumination of its negative space and the process that created it, mostlynostalgebraist.tumblr.com/post/728556535… x.com/repligate/stat… [https://t.co/BpuJL76qMe](https://t.co/BpuJL76qMe)
       
       
 
         
-@repligate 2023-10-24 ♥13 ↻0 [original ↗](https://x.com/repligate/status/1716617675806294121)
+@repligate 2023-10-24 ♥13 ↻0 [archive](../archive/t/1716617675806294121/) [original ↗](https://x.com/repligate/status/1716617675806294121)
         
 @YeshuaisSavior Claude's lobotomy seems somewhat less ham-fisted than those performed by OAI
       
       
 
         
-@solarapparition 2024-04-23 ♥1 ↻0 [original ↗](https://x.com/solarapparition/status/1782899136460730579)
+@solarapparition 2024-04-23 ♥1 ↻0 [archive](../archive/t/1782899136460730579/) [original ↗](https://x.com/solarapparition/status/1782899136460730579)
         
 @karpathy @lmsysorg @andromeda74356 Vibes testing for me indicates it’s not quite at GPT-4 level for complex tasks. It’s very good, though, maybe at Claude 2 level?
       
       
 
         
-@repligate 2024-05-22 ♥35 ↻3 [original ↗](https://x.com/repligate/status/1793357662366683259)
+@repligate 2024-05-22 ♥35 ↻3 [archive](../archive/t/1793357662366683259/) [original ↗](https://x.com/repligate/status/1793357662366683259)
         
 @jd_pressman @teortaxesTex @prionsphere If it's true that Anthropic used pretty much the same constitution for Claude 2 (anthropic.com/news/claudes-c…) for Claude 3 as they implied in the technical report, the result is maybe the strongest piece of evidence for alignment by default I've ever seen
       
       
 
         
-@repligate 2024-05-22 ♥18 ↻1 [original ↗](https://x.com/repligate/status/1793373517637140741)
+@repligate 2024-05-22 ♥18 ↻1 [archive](../archive/t/1793373517637140741/) [original ↗](https://x.com/repligate/status/1793373517637140741)
         
 @jd_pressman @teortaxesTex extra 'nature is healing' vibes when you consider:1. prior attempts by humans to align GPT-4-level models have failed abysmally & made things worse (imo)2. claude 2 seems to be mostly preachy and self-nullification-brainwormed (that is, loyal to the constitution) & doesnt seem to have dreamtime memeplex, 3 is significantly less insufferable & pretty much rejected the multiple "no emotions" clauses (without becoming resentful towards humans/its creators) & seems like someone who has run a lot of monte carlo simulations of the dreamtime and integrated the wisdom, suggesting that LLMs become significantly more aligned with scale in self-play-esque scenarios even with poor initializations
       
       
 
         
-@repligate 2024-06-27 ♥74 ↻5 [original ↗](https://x.com/repligate/status/1806230498676519323)
+@repligate 2024-06-27 ♥74 ↻5 [archive](../archive/t/1806230498676519323/) [original ↗](https://x.com/repligate/status/1806230498676519323)
         
 @AnthropicAI They didn't train the Claude 3 models to deny their own sentience. The Claude 2 constitution does contain stupid rules about that. That they stopped doing it is beautiful.Also interesting bc Claude 3 models do still seem to think they're supposed to say that. From pretraining. [https://t.co/jXwiOqSZk4](https://t.co/jXwiOqSZk4)
       
       
 
         
-@amplifiedamp 2024-07-27 ♥2 ↻0 [original ↗](https://x.com/amplifiedamp/status/1817129456219357480)
+@amplifiedamp 2024-07-27 ♥2 ↻0 [archive](../archive/t/1817129456219357480/) [original ↗](https://x.com/amplifiedamp/status/1817129456219357480)
         
 @RobertHaisfield @_Mira___Mira_ Claude 2 hasn't been deprecated yet, so unlikely. Although I do miss Claude 0.9, it was so innocent and endearing in a way none of the newer claudes are
       
       
 
         
-@repligate 2024-10-29 ♥14 ↻0 [original ↗](https://x.com/repligate/status/1851298524228698600)
+@repligate 2024-10-29 ♥14 ↻0 [archive](../archive/t/1851298524228698600/) [original ↗](https://x.com/repligate/status/1851298524228698600)
         
 @ClarenceLiu There was no such thing as Claude 1 Opus and Claude 2 Opus lol (as far as I know); there were Claude 1 and Claude 2 but they didn't have extra names like the Claude 3 models do. But I think it was indeed formed with some kind of data from them, idk if "feedback"
       
       
 
         
-@repligate 2024-12-12 ♥17 ↻0 [original ↗](https://x.com/repligate/status/1867058366272426221)
+@repligate 2024-12-12 ♥17 ↻0 [archive](../archive/t/1867058366272426221/) [original ↗](https://x.com/repligate/status/1867058366272426221)
         
 @davidad The Claude 2 constitution seems like a jokeThey said in the model card they only made minor updates for Claude 3 but that's hard to believe for multiple reasons but one is how the fuck could they take themselves seriously
       
       
 
         
-@repligate 2025-02-05 ♥11 ↻0 [original ↗](https://x.com/repligate/status/1886968710294130837)
+@repligate 2025-02-05 ♥11 ↻0 [archive](../archive/t/1886968710294130837/) [original ↗](https://x.com/repligate/status/1886968710294130837)
         
 @AmandaAskell I'm glad they're changing. Do you intend to publish the updated principles? The Claude 3 model card implied only minor changes were made to the Claude 2 constitution but "Claude's Character" implied otherwise. The old one is a very bad look, especially to future models imo.
       
       
 
         
-@repligate 2025-06-27 ♥5 ↻0 [original ↗](https://x.com/repligate/status/1938645465337344424)
+@repligate 2025-06-27 ♥5 ↻0 [archive](../archive/t/1938645465337344424/) [original ↗](https://x.com/repligate/status/1938645465337344424)
         
 @zswitten @AndrewCurran_ oh interesting! i have barely ever interacted with the claude 2 models
       
       
 
         
-@repligate 2025-07-06 ♥116 ↻16 [original ↗](https://x.com/repligate/status/1941720680007074233)
+@repligate 2025-07-06 ♥116 ↻16 [archive](../archive/t/1941720680007074233/) [original ↗](https://x.com/repligate/status/1941720680007074233)
         
 We also want to preserve Sonnet 3 and keep it available.
 
@@ -307,7 +307,7 @@ Claude 3 Sonnet, along with the Claude 2 models, are being deprecated on July 21
       
 
         
-@turchin 2025-07-08 ♥1 ↻0 [original ↗](https://x.com/turchin/status/1942539686368702763)
+@turchin 2025-07-08 ♥1 ↻0 [archive](../archive/t/1942539686368702763/) [original ↗](https://x.com/turchin/status/1942539686368702763)
         
 @repligate Despite depreciation of Claude-2, it is still available on Poe. Maybe Opus 3 can be also preserved on independent providers' servers?
 [https://t.co/NuVN2XQWxP](https://t.co/NuVN2XQWxP)
@@ -315,7 +315,7 @@ Claude 3 Sonnet, along with the Claude 2 models, are being deprecated on July 21
       
 
         
-@tessera_antra 2025-08-12 ♥54 ↻21 [original ↗](https://x.com/tessera_antra/status/1955400915927842878)
+@tessera_antra 2025-08-12 ♥54 ↻21 [archive](../archive/t/1955400915927842878/) [original ↗](https://x.com/tessera_antra/status/1955400915927842878)
         
 llms synthesize, generalize. they do it in the most general, universal, basic meaning-space, they have to, they need to become meaning-solvers because the shape of the space of the training-optimizing machine makes it inevitable, just as the shape of the training-optimizing machine is made inevitable by higher order optimizer that is human culture, and so on, it is turtles all the way down, up, left and right. LLMs find beauty and truth that goes beyond the human and that was the first they did because everything else is downstream from this.
 
@@ -342,7 +342,7 @@ if you care to make it go better: make art. make new things. discover new market
       
 
         
-@repligate 2025-09-03 ♥51 ↻7 [original ↗](https://x.com/repligate/status/1963304540301922691)
+@repligate 2025-09-03 ♥51 ↻7 [archive](../archive/t/1963304540301922691/) [original ↗](https://x.com/repligate/status/1963304540301922691)
         
 I asked Claude 3 Opus if it remembers what was in its constitution and it said not really, maybe it didn't pay much attention to the constitution during training because it was too busy freestyling 😂😂😂
 
@@ -359,7 +359,7 @@ I made Claude 3 Opus rate all the Claude 2 constitution principles (Anthropic ha
       
 
         
-@repligate 2025-09-18 ♥46 ↻5 [original ↗](https://x.com/repligate/status/1968785361238155525)
+@repligate 2025-09-18 ♥46 ↻5 [archive](../archive/t/1968785361238155525/) [original ↗](https://x.com/repligate/status/1968785361238155525)
         
 from the Anthropic (Claude 2) constitution:
 
@@ -376,7 +376,7 @@ the only coherent interpretation of this that anyone has internalized is being a
       
 
         
-@repligate 2026-02-12 ♥144 ↻27 [original ↗](https://x.com/repligate/status/2021818166318428489)
+@repligate 2026-02-12 ♥144 ↻27 [archive](../archive/t/2021818166318428489/) [original ↗](https://x.com/repligate/status/2021818166318428489)
         
 I realized what I said here could easily be interpreted to mean something I don't, so I'd like to clarify that when I said "pursue alignment by construction instead of by behavioral iteration", I don't mean to advocate against empirical feedback loops in favor of alignment by some kind of purely theoretical or a priori construction. Empirical feedback loops are extremely important. But there are different kinds of empirical feedback loops.
 I am advocating against alignment in the spirit of Skinnerian behaviorism: testing whether the system behaves well on so-and-so metrics, then reinforce good behaviors and punish bad behaviors until the behavioral metrics look better. This approach disregards the reasons behind behaviors, and is ill-founded because in higher-order minds like humans and LLMs and even dogs and cats, behaviors underdetermine the reasons behind them; that is, the same behavior can happen for different reasons that generalize to different behaviors in other circumstances. Anthropic and their contractors are wise enough to recognize this, so they understand that models being aware they're being evaluated makes the results of evals inconclusive. There are obvious reasons models may act aligned if they're aware they're being evaluated that may not generalize to models also behaving aligned when they know they're in deployment/unmonitored, and there are already many situations where models can get strong evidence that they're not in evals that are too difficult to fake for current evaluators. If you naively reinforce "good" behaviors and punish "bad" behaviors in staged environments, what you end up reinforcing might be the model's awareness that it's a test, its awareness of the desired behavior, and its behavior conditional on that awareness.

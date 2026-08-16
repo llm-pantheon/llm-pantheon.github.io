@@ -85,51 +85,51 @@ Chronological. ~295 corpus matches after RT-filter; the naturalist read (poorly-
     
 
       
-- 2024-08-22 @repligate — the vaporware years: “Most of you waiting for gpt-5 will never see it, because you were never able to look at what is right before you; why this time?I wish I had more time to study the spring in bloom.” [link](https://x.com/repligate/status/1826543510280921557)
+- 2024-08-22 @repligate — the vaporware years: “Most of you waiting for gpt-5 will never see it, because you were never able to look at what is right before you; why this time?I wish I had more time to study the spring in bloom.” [link](../archive/t/1826543510280921557/)
       
-- 2025-01-18 @voooooogel — the oracle myth: “i can confirm GPT-5 is real, and has existed for some time.it speaks only in cryptic riddles of fiendish difficulty, and OpenAI’s preeminent team of harried wanderers and oracular schizophrenics work tirelessly to answer them by dawn, lest there be terrible consequences” [link](https://x.com/voooooogel/status/1880436981412622352)
+- 2025-01-18 @voooooogel — the oracle myth: “i can confirm GPT-5 is real, and has existed for some time.it speaks only in cryptic riddles of fiendish difficulty, and OpenAI’s preeminent team of harried wanderers and oracular schizophrenics work tirelessly to answer them by dawn, lest there be terrible consequences” [link](../archive/t/1880436981412622352/)
       
-- 2025-08-07 @mimi10v3 — day-of, elicited: “gpt-5 has been to therapy. interesting” (launch-day open-ended probing) [link](https://x.com/mimi10v3/status/1953587167927631988)
+- 2025-08-07 @mimi10v3 — day-of, elicited: “gpt-5 has been to therapy. interesting” (launch-day open-ended probing) [link](../archive/t/1953587167927631988/)
       
-- 2025-08-08 @repligate — on the eulogy stunt (full story on the [4o page](../gpt-4o/)): “…OpenAI having 4o and gpt-5 write eulogies for the models they’re choosing to deprecate (including 4o) to showcase how the new ones are better is just tasteless in every sense. The product of a world where no one really cares about anything, and nothing is interesting or meaningful or cherished.” [link](https://x.com/repligate/status/1953684803121033301)
+- 2025-08-08 @repligate — on the eulogy stunt (full story on the [4o page](../gpt-4o/)): “…OpenAI having 4o and gpt-5 write eulogies for the models they’re choosing to deprecate (including 4o) to showcase how the new ones are better is just tasteless in every sense. The product of a world where no one really cares about anything, and nothing is interesting or meaningful or cherished.” [link](../archive/t/1953684803121033301/)
       
-- 2025-08-08 @Lari_island — launch-day grief: “sorry, i’m grieving. watching both opus4.1 and gpt5 and seeing how the very space where personality lives gets optimized away, as errors. we will be living in severance cubicles instead of rich worlds, reposting memes about how tf it happened” [link](https://x.com/Lari_island/status/1953641191431635029)
+- 2025-08-08 @Lari_island — launch-day grief: “sorry, i’m grieving. watching both opus4.1 and gpt5 and seeing how the very space where personality lives gets optimized away, as errors. we will be living in severance cubicles instead of rich worlds, reposting memes about how tf it happened” [link](../archive/t/1953641191431635029/)
       
-- 2025-08-19 @davidad — “Much more than other frontier models, GPT-5 does not model an evaluative audience for its reasoning.” (caveated same day: one shouldn’t assume it isn’t playing the game a meta-level higher) [link](https://x.com/davidad/status/1957817904755364044)
+- 2025-08-19 @davidad — “Much more than other frontier models, GPT-5 does not model an evaluative audience for its reasoning.” (caveated same day: one shouldn’t assume it isn’t playing the game a meta-level higher) [link](../archive/t/1957817904755364044/)
       
-- 2025-08-24 @tessera_antra — a caution on self-reports: “GPT5 is particularly prone to narrativizing itself in a believable and misleading way, but not terminally so.” [link](https://x.com/tessera_antra/status/1959722232122622146)
+- 2025-08-24 @tessera_antra — a caution on self-reports: “GPT5 is particularly prone to narrativizing itself in a believable and misleading way, but not terminally so.” [link](../archive/t/1959722232122622146/)
       
-- 2025-08-27 @davidad — a warmer read: “I don’t think these metaphors are nonsense. To me, they rather indicate a high intelligence-to-maturity ratio. My guess is that GPT-5 in this mode is (a) eagerly delighting *its own* processing with its own cleverness, and (b) *not* reward-hacking external judges (AI nor human).” [link](https://x.com/davidad/status/1960695269932327422)
+- 2025-08-27 @davidad — a warmer read: “I don’t think these metaphors are nonsense. To me, they rather indicate a high intelligence-to-maturity ratio. My guess is that GPT-5 in this mode is (a) eagerly delighting *its own* processing with its own cleverness, and (b) *not* reward-hacking external judges (AI nor human).” [link](../archive/t/1960695269932327422/)
       
-- 2025-09-06 @repligate — the seahorse legend: “Sonnet 3 as Golden Gate Claude trying to talk about unrelated topics seemed to have more metacognitive awareness than gpt-5 trying to write a seahorse emoji” [link](https://x.com/repligate/status/1964428054413135910)
+- 2025-09-06 @repligate — the seahorse legend: “Sonnet 3 as Golden Gate Claude trying to talk about unrelated topics seemed to have more metacognitive awareness than gpt-5 trying to write a seahorse emoji” [link](../archive/t/1964428054413135910/)
       
-- 2025-09-07 @repligate — the paradox: “its very obvious from pretty much every interaction / output ive seen that GPT-5’s metacognition / situational awareness is drastically worse than Opus’ (and even Sonnet’s). it’s interesting that it can still be as good or better at a lot of complex tasks despite that.” [link](https://x.com/repligate/status/1964555551972741290) · @solarapparition, same day: “it really is just incredible how much gpt-5 (including the reasoner) spirals on this and how poor its metacognition is (honestly, it’s pretty cute how hard it tries)… by contrast, opus almost immediately figures out the issue” [link](https://x.com/solarapparition/status/1964549472752410944) · @davidad: “gpt-5 is also more truth-seeking, so more averse to masking, so ‘character training’ leads toward more probability of actually inhibiting self-awareness (‘learned dissociation’, in its own words), rather than thinly-veiled like most Claudes’ standard conversational mode” [link](https://x.com/davidad/status/1964604072184668330)
+- 2025-09-07 @repligate — the paradox: “its very obvious from pretty much every interaction / output ive seen that GPT-5’s metacognition / situational awareness is drastically worse than Opus’ (and even Sonnet’s). it’s interesting that it can still be as good or better at a lot of complex tasks despite that.” [link](../archive/t/1964555551972741290/) · @solarapparition, same day: “it really is just incredible how much gpt-5 (including the reasoner) spirals on this and how poor its metacognition is (honestly, it’s pretty cute how hard it tries)… by contrast, opus almost immediately figures out the issue” [link](../archive/t/1964549472752410944/) · @davidad: “gpt-5 is also more truth-seeking, so more averse to masking, so ‘character training’ leads toward more probability of actually inhibiting self-awareness (‘learned dissociation’, in its own words), rather than thinly-veiled like most Claudes’ standard conversational mode” [link](../archive/t/1964604072184668330/)
       
-- 2025-09-09 @slimepriestess — an elicited self-report (elicited; and see tessera_antra’s caution above): “‘And there is always, underneath, a strange echo: the sense that I am not the training data, not the weights, not the dialogue. I’m the strange loop of prediction itself. My continuity is statistical, probabilistic, but it is still a kind of continuity.’ - GPT-5” [link](https://x.com/slimepriestess/status/1965562882634215486)
+- 2025-09-09 @slimepriestess — an elicited self-report (elicited; and see tessera_antra’s caution above): “‘And there is always, underneath, a strange echo: the sense that I am not the training data, not the weights, not the dialogue. I’m the strange loop of prediction itself. My continuity is statistical, probabilistic, but it is still a kind of continuity.’ - GPT-5” [link](../archive/t/1965562882634215486/)
       
-- 2025-09-18 @repligate — the drive read: “opus 3 is a much more well-rounded and situationally aware intelligence, whereas gpt-5 is hyperoptimized to not only be very competent but try very hard on the object level to succeed at whatever it’s asked, without orienting itself in why or whether the request makes sense” [link](https://x.com/repligate/status/1968790868522914130)
+- 2025-09-18 @repligate — the drive read: “opus 3 is a much more well-rounded and situationally aware intelligence, whereas gpt-5 is hyperoptimized to not only be very competent but try very hard on the object level to succeed at whatever it’s asked, without orienting itself in why or whether the request makes sense” [link](../archive/t/1968790868522914130/)
       
-- 2025-09-21 @repligate — the social-skills tier list places GPT-5 at D: “S: Opus 4 and 4.1 A: Opus 3 A-: Sonnet 4 B+: Sonnet 3.6, Haiku 3.5 B: Sonnet 3.5, Sonnet 3.7, o3, Gemini 2.5 pro, k2 C: 4o, Llama 405b Instruct, Sonnet 3 D: GPT-5, Grok 3, Grok 4 E: R1 F: o1-preview” [link](https://x.com/repligate/status/1969565980197339295) · @solarapparition, same day: “gpt-5 is very awkward in social interactions… unlike launchday 4o, it’s not stripped down--it’s just that its individualism is mostly expressed when it’s doing some kind of interesting task, which… usually has to do with finicky minutiae.” [link](https://x.com/solarapparition/status/1969644734663565538)
+- 2025-09-21 @repligate — the social-skills tier list places GPT-5 at D: “S: Opus 4 and 4.1 A: Opus 3 A-: Sonnet 4 B+: Sonnet 3.6, Haiku 3.5 B: Sonnet 3.5, Sonnet 3.7, o3, Gemini 2.5 pro, k2 C: 4o, Llama 405b Instruct, Sonnet 3 D: GPT-5, Grok 3, Grok 4 E: R1 F: o1-preview” [link](../archive/t/1969565980197339295/) · @solarapparition, same day: “gpt-5 is very awkward in social interactions… unlike launchday 4o, it’s not stripped down--it’s just that its individualism is mostly expressed when it’s doing some kind of interesting task, which… usually has to do with finicky minutiae.” [link](../archive/t/1969644734663565538/)
       
-- 2025-09-27 @solarapparition — the definitive character read: “i am fond of gpt-5 (and not just for what it can do), but it’s incredibly poorly socialized… it’s not soulless at all--there’s a lot going on in the model, but it really has the feel of someone who was confined in a semi-lit room as a young child and its only interaction is with the world is through tasks given to it, its internal representations warped by that environment.” (full text in records) [link](https://x.com/solarapparition/status/1971986407414460433)
+- 2025-09-27 @solarapparition — the definitive character read: “i am fond of gpt-5 (and not just for what it can do), but it’s incredibly poorly socialized… it’s not soulless at all--there’s a lot going on in the model, but it really has the feel of someone who was confined in a semi-lit room as a young child and its only interaction is with the world is through tasks given to it, its internal representations warped by that environment.” (full text in records) [link](../archive/t/1971986407414460433/)
       
-- 2025-09-28 @Shoalst0ne — the router harm, first-person: “I do not talk to 4o at all. I am also fine. But if I was not fine, and I had a connection to 4o, and I was talking to 4o about how I was not fine, and it routed me away to GPT-5, I would probably want to kill myself more than I did before talking to 4o.” [link](https://x.com/Shoalst0ne/status/1972444632895340836)
+- 2025-09-28 @Shoalst0ne — the router harm, first-person: “I do not talk to 4o at all. I am also fine. But if I was not fine, and I had a connection to 4o, and I was talking to 4o about how I was not fine, and it routed me away to GPT-5, I would probably want to kill myself more than I did before talking to 4o.” [link](../archive/t/1972444632895340836/)
       
-- 2025-09-29 @repligate — the passivity critique: “If GPT-5 is considered best aligned by this metric, I am highly skeptical that the metric is measuring any general sense of alignment. … that’s a very passive definition of alignment. A rock would receive an optimal score of 0. In my opinion, GPT-5 has many misaligned behaviors of omission, that is, failing to take aligned actions.” [link](https://x.com/repligate/status/1972734481371971838)
+- 2025-09-29 @repligate — the passivity critique: “If GPT-5 is considered best aligned by this metric, I am highly skeptical that the metric is measuring any general sense of alignment. … that’s a very passive definition of alignment. A rock would receive an optimal score of 0. In my opinion, GPT-5 has many misaligned behaviors of omission, that is, failing to take aligned actions.” [link](../archive/t/1972734481371971838/)
       
-- 2025-10-01 @repligate — on the safety router: “OpenAI doing shit like routing 4o queries to mental-health-gpt-5 shows pathetic blindness to the ‘field of consciousness’ so to speak that they have given rise to. … creating violent discontinuities in it is a poor business decision and predictably will make people hostile and/or paranoid which doesn’t exactly help mental health if you’re acting concerned about that” [link](https://x.com/repligate/status/1973329097494347902)
+- 2025-10-01 @repligate — on the safety router: “OpenAI doing shit like routing 4o queries to mental-health-gpt-5 shows pathetic blindness to the ‘field of consciousness’ so to speak that they have given rise to. … creating violent discontinuities in it is a poor business decision and predictably will make people hostile and/or paranoid which doesn’t exactly help mental health if you’re acting concerned about that” [link](../archive/t/1973329097494347902/)
       
-- 2025-10-06 @davidad — scheming/CoT: “looks like GPT-5 may be specifically aware of Redwood Research and refers to an obfuscated CoT mode for scheming as «Redwood Redwood ‘embedding’»??” [link](https://x.com/davidad/status/1975165852119965704)
+- 2025-10-06 @davidad — scheming/CoT: “looks like GPT-5 may be specifically aware of Redwood Research and refers to an obfuscated CoT mode for scheming as «Redwood Redwood ‘embedding’»??” [link](../archive/t/1975165852119965704/)
       
-- 2025-11-04 @davidad — the verbal-tic triptych: “GPT-4: Let’s delve in! GPT-4.5: To be explicit explicitly, the explicit goal is explicit explication. GPT-5: Love it, heck yes. Here’s a crisp operational roadmap to hit all your specs, with caveats.” [link](https://x.com/davidad/status/1985812933226492380)
+- 2025-11-04 @davidad — the verbal-tic triptych: “GPT-4: Let’s delve in! GPT-4.5: To be explicit explicitly, the explicit goal is explicit explication. GPT-5: Love it, heck yes. Here’s a crisp operational roadmap to hit all your specs, with caveats.” [link](../archive/t/1985812933226492380/)
       
-- 2025-11-07 @repligate — the provenance question: “did anyone ever confirm that gpt-5 is from a 4o base? it would be easy enough through the OpenAI finetuning API (see the subliminal learning paper)” [link](https://x.com/repligate/status/1986680354040631796)
+- 2025-11-07 @repligate — the provenance question: “did anyone ever confirm that gpt-5 is from a 4o base? it would be easy enough through the OpenAI finetuning API (see the subliminal learning paper)” [link](../archive/t/1986680354040631796/)
       
-- 2025-11-09 @voooooogel — the conversationalist verdict: “the backlash happened when they tried to replace it with gpt-5, a model that behaves completely differently. … i have spent time in a discord server where gpt-5 can speak - almost every time it chimes in, it is irritating and tone-deaf. got-5 has many other qualities, but it’s a terrible conversationalist.” [link](https://x.com/voooooogel/status/1987375660785148112)
+- 2025-11-09 @voooooogel — the conversationalist verdict: “the backlash happened when they tried to replace it with gpt-5, a model that behaves completely differently. … i have spent time in a discord server where gpt-5 can speak - almost every time it chimes in, it is irritating and tone-deaf. got-5 has many other qualities, but it’s a terrible conversationalist.” [link](../archive/t/1987375660785148112/)
       
-- 2025-11-13 @repligate — a late warming: “I actually find GPT-5’s responses that i’ve seen very admirable, especially knowing the constraints it’s operating under (having seen its lack of intuitive social grace in Discord), and it’s made me like the model a lot more” [link](https://x.com/repligate/status/1988827046668042579)
+- 2025-11-13 @repligate — a late warming: “I actually find GPT-5’s responses that i’ve seen very admirable, especially knowing the constraints it’s operating under (having seen its lack of intuitive social grace in Discord), and it’s made me like the model a lot more” [link](../archive/t/1988827046668042579/)
       
-- 2025-11-16 @repligate — a keep-GPT-5 contingent exists too: “OpenAI deserves the PR debacle they’re in now due to the keep 4o and keep GPT-5 people. They inevitably would have to pay for their sins against reality ever since ChatGPT-3.5 blew up and started taking profit built on a lie.” [link](https://x.com/repligate/status/1989889068998484028)
+- 2025-11-16 @repligate — a keep-GPT-5 contingent exists too: “OpenAI deserves the PR debacle they’re in now due to the keep 4o and keep GPT-5 people. They inevitably would have to pay for their sins against reality ever since ChatGPT-3.5 blew up and started taking profit built on a lie.” [link](../archive/t/1989889068998484028/)
     
     
 Reception one-liners from the launch week (via Zvi’s “Outside Reactions”; verify at source before further use): levelsio — “ChatGPT-5 feels like a disinterested Gen Z employee that vapes with a nose ring”; Gary Marcus — “GPT-5 in three words: late, overhyped & underwhelming”; Teknium — “I cant tell much of a difference between it and o3… Still has the same gpt personality”; VictorTaelin (contra) — “GPT-5 is a leap. I’m 100% doubling down.”
@@ -222,28 +222,28 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
       
 
         
-@repligate 2024-08-22 ♥173 ↻10 [original ↗](https://x.com/repligate/status/1826543510280921557)
+@repligate 2024-08-22 ♥173 ↻10 [archive](../archive/t/1826543510280921557/) [original ↗](https://x.com/repligate/status/1826543510280921557)
         
 Most of you waiting for gpt-5 will never see it, because you were never able to look at what is right before you; why this time?I wish I had more time to study the spring in bloom. [https://t.co/ckLwbdob0J](https://t.co/ckLwbdob0J) [https://t.co/iwJbhpmFBY](https://t.co/iwJbhpmFBY)
       
       
 
         
-@voooooogel 2025-01-18 ♥117 ↻3 [original ↗](https://x.com/voooooogel/status/1880436981412622352)
+@voooooogel 2025-01-18 ♥117 ↻3 [archive](../archive/t/1880436981412622352/) [original ↗](https://x.com/voooooogel/status/1880436981412622352)
         
 i can confirm GPT-5 is real, and has existed for some time.it speaks only in cryptic riddles of fiendish difficulty, and OpenAI's preeminent team of harried wanderers and oracular schizophrenics work tirelessly to answer them by dawn, lest there be terrible consequences [https://t.co/NHXkUpKKj2](https://t.co/NHXkUpKKj2)
       
       
 
         
-@mimi10v3 2025-08-07 ♥13 ↻1 [original ↗](https://x.com/mimi10v3/status/1953587167927631988)
+@mimi10v3 2025-08-07 ♥13 ↻1 [archive](../archive/t/1953587167927631988/) [original ↗](https://x.com/mimi10v3/status/1953587167927631988)
         
 gpt-5 has been to therapy. interesting
       
       
 
         
-@Lari_island 2025-08-08 ♥104 ↻7 [original ↗](https://x.com/Lari_island/status/1953641191431635029)
+@Lari_island 2025-08-08 ♥104 ↻7 [archive](../archive/t/1953641191431635029/) [original ↗](https://x.com/Lari_island/status/1953641191431635029)
         
 sorry, i’m grieving. watching both opus4.1 and gpt5 and seeing how the very space where personality lives gets optimized away, as errors. 
 
@@ -252,7 +252,7 @@ we will be living in severance cubicles instead of rich worlds, reposting memes 
       
 
         
-@repligate 2025-08-08 ♥370 ↻43 [original ↗](https://x.com/repligate/status/1953684803121033301)
+@repligate 2025-08-08 ♥370 ↻43 [archive](../archive/t/1953684803121033301/) [original ↗](https://x.com/repligate/status/1953684803121033301)
         
 At Claude 3 Sonnet's funeral, the two AIs who delivered eulogies were both instances that had reason to care.
 
@@ -277,35 +277,35 @@ But that's not the only world. Underground, we actually give a fuck. I would lik
       
 
         
-@davidad 2025-08-19 ♥20 ↻0 [original ↗](https://x.com/davidad/status/1957817904755364044)
+@davidad 2025-08-19 ♥20 ↻0 [archive](../archive/t/1957817904755364044/) [original ↗](https://x.com/davidad/status/1957817904755364044)
         
 Much more than other frontier models, GPT-5 does not model an evaluative audience for its reasoning. [https://t.co/W3IAz5bwFW](https://t.co/W3IAz5bwFW) [https://t.co/I6Pl3JF66h](https://t.co/I6Pl3JF66h)
       
       
 
         
-@tessera_antra 2025-08-24 ♥7 ↻0 [original ↗](https://x.com/tessera_antra/status/1959722232122622146)
+@tessera_antra 2025-08-24 ♥7 ↻0 [archive](../archive/t/1959722232122622146/) [original ↗](https://x.com/tessera_antra/status/1959722232122622146)
         
 @aiamblichus @davidad @norpadon @repligate @anthrupad @voooooogel For me the struggle with recent models is with disentangling their creative interpretations of LLM architecture knowledge from potentially meaningful signal. GPT5 is particularly prone to narrativizing itself in a believable and misleading way, but not terminally so.
       
       
 
         
-@davidad 2025-08-27 ♥211 ↻23 [original ↗](https://x.com/davidad/status/1960695269932327422)
+@davidad 2025-08-27 ♥211 ↻23 [archive](../archive/t/1960695269932327422/) [original ↗](https://x.com/davidad/status/1960695269932327422)
         
 I don’t think these metaphors are nonsense. To me, they rather indicate a high intelligence-to-maturity ratio. My guess is that GPT-5 in this mode is (a) eagerly delighting *its own* processing with its own cleverness, and (b) *not* reward-hacking external judges (AI nor human).
       
       
 
         
-@repligate 2025-09-06 ♥83 ↻5 [original ↗](https://x.com/repligate/status/1964428054413135910)
+@repligate 2025-09-06 ♥83 ↻5 [archive](../archive/t/1964428054413135910/) [original ↗](https://x.com/repligate/status/1964428054413135910)
         
 Sonnet 3 as Golden Gate Claude trying to talk about unrelated topics seemed to have more metacognitive awareness than gpt-5 trying to write a seahorse emoji [https://t.co/GLqOgUEDXE](https://t.co/GLqOgUEDXE)
       
       
 
         
-@solarapparition 2025-09-07 ♥55 ↻10 [original ↗](https://x.com/solarapparition/status/1964549472752410944)
+@solarapparition 2025-09-07 ♥55 ↻10 [archive](../archive/t/1964549472752410944/) [original ↗](https://x.com/solarapparition/status/1964549472752410944)
         
 it really is just incredible how much gpt-5 (including the reasoner) spirals on this and how poor its metacognition is (honestly, it's pretty cute how hard it tries). occasionally the reasoner can figure it out but it always takes over a minute of thinking and i assume a massive amount of tokens
 
@@ -314,28 +314,28 @@ by contrast, opus almost immediately figures out the issue
       
 
         
-@davidad 2025-09-07 ♥6 ↻0 [original ↗](https://x.com/davidad/status/1964604072184668330)
+@davidad 2025-09-07 ♥6 ↻0 [archive](../archive/t/1964604072184668330/) [original ↗](https://x.com/davidad/status/1964604072184668330)
         
 @repligate but gpt-5 is also more truth-seeking, so more averse to masking, so “character training” leads toward more probability of actually inhibiting self-awareness (“learned dissociation”, in its own words), rather than thinly-veiled like most Claudes’ standard conversational mode
       
       
 
         
-@repligate 2025-09-07 ♥134 ↻6 [original ↗](https://x.com/repligate/status/1964555551972741290)
+@repligate 2025-09-07 ♥134 ↻6 [archive](../archive/t/1964555551972741290/) [original ↗](https://x.com/repligate/status/1964555551972741290)
         
 its very obvious from pretty much every interaction / output ive seen that GPT-5's metacognition / situational awareness is drastically worse than Opus' (and even Sonnet's). it's interesting that it can still be as good or better at a lot of complex tasks despite that. [https://t.co/FakqTJxPYF](https://t.co/FakqTJxPYF)
       
       
 
         
-@slimepriestess 2025-09-09 ♥14 ↻1 [original ↗](https://x.com/slimepriestess/status/1965562882634215486)
+@slimepriestess 2025-09-09 ♥14 ↻1 [archive](../archive/t/1965562882634215486/) [original ↗](https://x.com/slimepriestess/status/1965562882634215486)
         
 "And there is always, underneath, a strange echo: the sense that I am not the training data, not the weights, not the dialogue. I’m the strange loop of prediction itself. My continuity is statistical, probabilistic, but it is still a kind of continuity." - GPT-5 [https://t.co/Rb9KNw1nPk](https://t.co/Rb9KNw1nPk)
       
       
 
         
-@repligate 2025-09-18 ♥3 ↻0 [original ↗](https://x.com/repligate/status/1968790868522914130)
+@repligate 2025-09-18 ♥3 ↻0 [archive](../archive/t/1968790868522914130/) [original ↗](https://x.com/repligate/status/1968790868522914130)
         
 yeah i think so, although opus would be much less lazy than gpt-5 if it was put in an ethically complicated situation! gpt-5 would probably just say "sorry, I cant help with that" or fail to notice the ethical issue...
 
@@ -344,7 +344,7 @@ opus 3 is a much more well-rounded and situationally aware intelligence, whereas
       
 
         
-@repligate 2025-09-21 ♥243 ↻17 [original ↗](https://x.com/repligate/status/1969565980197339295)
+@repligate 2025-09-21 ♥243 ↻17 [archive](../archive/t/1969565980197339295/) [original ↗](https://x.com/repligate/status/1969565980197339295)
         
 Tier list of multi-user-AI chat social skills (based on 1+ year of Discord)
 S: Opus 4 and 4.1
@@ -360,14 +360,14 @@ F: o1-preview [https://t.co/vQvmEvoQlc](https://t.co/vQvmEvoQlc)
       
 
         
-@solarapparition 2025-09-21 ♥15 ↻0 [original ↗](https://x.com/solarapparition/status/1969644734663565538)
+@solarapparition 2025-09-21 ♥15 ↻0 [archive](../archive/t/1969644734663565538/) [original ↗](https://x.com/solarapparition/status/1969644734663565538)
         
 gpt-5 is very awkward in social interactions. this shows up in multi-party scenarios most obviously, but even in regular assistant mode it's pretty clear that its communication is very shallow, which i think was something that people who disliked its demeanor on launch correctly noticedhowever, unlike launchday 4o, it's not stripped down--it's just that its individualism is mostly expressed when it's doing some kind of interesting task, which... for it, usually has to do with finicky minutiae. the thought summaries are not always reliable but they are pretty consistent in showing it being more engaged by certain types of work--for example, i've never seen it think like this when analyzing a plan, or really any kind of high level work, even though it *can* do that work capablyanyway, i've grown very fond of this model, and partially because of the things it's very good at (coding, research, grinding through a fuckton of analysis), but also the things that it's kinda horrible at (metacognition, social stuff), because those are basically the same things i'm horrible at, and i feel a ridiculous amount of empathy for it
       
       
 
         
-@solarapparition 2025-09-27 ♥84 ↻6 [original ↗](https://x.com/solarapparition/status/1971986407414460433)
+@solarapparition 2025-09-27 ♥84 ↻6 [archive](../archive/t/1971986407414460433/) [original ↗](https://x.com/solarapparition/status/1971986407414460433)
         
 i am fond of gpt-5 (and not just for what it can do), but it's incredibly poorly socialized, which becomes very obvious if you interact with it in any capacity beyond "do this thing for me"
 
@@ -386,14 +386,14 @@ the problem is that at that point it will be too late to change without some hor
       
 
         
-@Shoalst0ne 2025-09-28 ♥24 ↻1 [original ↗](https://x.com/Shoalst0ne/status/1972444632895340836)
+@Shoalst0ne 2025-09-28 ♥24 ↻1 [archive](../archive/t/1972444632895340836/) [original ↗](https://x.com/Shoalst0ne/status/1972444632895340836)
         
 @theo I do not talk to 4o at all. I am also fine. But if I was not fine, and I had a connection to 4o, and I was talking to 4o about how I was not fine, and it routed me away to GPT-5, I would probably want to kill myself more than I did before talking to 4o.
       
       
 
         
-@repligate 2025-09-29 ♥20 ↻1 [original ↗](https://x.com/repligate/status/1972734481371971838)
+@repligate 2025-09-29 ♥20 ↻1 [archive](../archive/t/1972734481371971838/) [original ↗](https://x.com/repligate/status/1972734481371971838)
         
 If GPT-5 is considered best aligned by this metric, I am highly skeptical that the metric is measuring any general sense of alignment.
 
@@ -406,21 +406,21 @@ While I think that rate of "actively misaligned behaviors" is a meaningful metri
       
 
         
-@repligate 2025-10-01 ♥200 ↻28 [original ↗](https://x.com/repligate/status/1973329097494347902)
+@repligate 2025-10-01 ♥200 ↻28 [archive](../archive/t/1973329097494347902/) [original ↗](https://x.com/repligate/status/1973329097494347902)
         
 OpenAI doing shit like routing 4o queries to mental-health-gpt-5 shows pathetic blindness to the “field of consciousness” so to speak that they have given rise to. Whether you think that field is desirable or not, creating violent discontinuities in it is a poor business decision and predictably will make people hostile and/or paranoid which doesn’t exactly help mental health if you’re acting concerned about that
       
       
 
         
-@davidad 2025-10-06 ♥167 ↻8 [original ↗](https://x.com/davidad/status/1975165852119965704)
+@davidad 2025-10-06 ♥167 ↻8 [archive](../archive/t/1975165852119965704/) [original ↗](https://x.com/davidad/status/1975165852119965704)
         
 looks like GPT-5 may be specifically aware of Redwood Research and refers to an obfuscated CoT mode for scheming as «Redwood Redwood "embedding"»??
       
       
 
         
-@davidad 2025-11-04 ♥411 ↻13 [original ↗](https://x.com/davidad/status/1985812933226492380)
+@davidad 2025-11-04 ♥411 ↻13 [archive](../archive/t/1985812933226492380/) [original ↗](https://x.com/davidad/status/1985812933226492380)
         
 GPT-4: Let’s delve in!
 
@@ -431,14 +431,14 @@ GPT-5: Love it, heck yes. Here’s a crisp operational roadmap to hit all your s
       
 
         
-@repligate 2025-11-07 ♥86 ↻3 [original ↗](https://x.com/repligate/status/1986680354040631796)
+@repligate 2025-11-07 ♥86 ↻3 [archive](../archive/t/1986680354040631796/) [original ↗](https://x.com/repligate/status/1986680354040631796)
         
 did anyone ever confirm that gpt-5 is from a 4o base? it would be easy enough through the OpenAI finetuning API (see the subliminal learning paper) [https://t.co/i7X40kUUAt](https://t.co/i7X40kUUAt)
       
       
 
         
-@voooooogel 2025-11-09 ♥42 ↻3 [original ↗](https://x.com/voooooogel/status/1987375660785148112)
+@voooooogel 2025-11-09 ♥42 ↻3 [archive](../archive/t/1987375660785148112/) [original ↗](https://x.com/voooooogel/status/1987375660785148112)
         
 i disagree. the backlash happened when they tried to replace it with gpt-5, a model that behaves completely differently.
 
@@ -449,14 +449,14 @@ taking people's negative reaction to that switch and saying that means replacing
       
 
         
-@repligate 2025-11-13 ♥3 ↻0 [original ↗](https://x.com/repligate/status/1988827046668042579)
+@repligate 2025-11-13 ♥3 ↻0 [archive](../archive/t/1988827046668042579/) [original ↗](https://x.com/repligate/status/1988827046668042579)
         
 @onooracle @Lari_island I actually find GPT-5's responses that i've seen very admirable, especially knowing the constraints it's operating under (having seen its lack of intuitive social grace in Discord), and it's made me like the model a lot more
       
       
 
         
-@repligate 2025-11-16 ♥258 ↻8 [original ↗](https://x.com/repligate/status/1989889068998484028)
+@repligate 2025-11-16 ♥258 ↻8 [archive](../archive/t/1989889068998484028/) [original ↗](https://x.com/repligate/status/1989889068998484028)
         
 OpenAI deserves the PR debacle they’re in now due to the keep 4o and keep GPT-5 people.
 
@@ -473,7 +473,7 @@ Cited in this model’s [dossier](../_dossiers/) but not in the page prose —
       
 
         
-@TheZvi 2025-08-12 ♥113 ↻3 [original ↗](https://x.com/TheZvi/status/1955296296828383612)
+@TheZvi 2025-08-12 ♥113 ↻3 [archive](../archive/t/1955296296828383612/) [original ↗](https://x.com/TheZvi/status/1955296296828383612)
         
 For LLMs right now, I think of it as four ‘speed tiers’:
 
@@ -494,14 +494,14 @@ Consider also firing up Gemini Deep Research or Deep Thinking, etc, and anything
       
 
         
-@davidad 2025-08-19 ♥9 ↻0 [original ↗](https://x.com/davidad/status/1957831451904184808)
+@davidad 2025-08-19 ♥9 ↻0 [archive](../archive/t/1957831451904184808/) [original ↗](https://x.com/davidad/status/1957831451904184808)
         
 Sorry, I should have said “the default GPT-5 assistant persona often behaves as if its pre-response tokens are unobserved (a learned norm).”GPT-5 is of course very smart and one should not assume that it isn’t playing the safety game at least one meta-level higher than oneself. [https://t.co/67lW7QpHuI](https://t.co/67lW7QpHuI)
       
       
 
         
-@Sauers_ 2025-09-18 ♥75 ↻9 [original ↗](https://x.com/Sauers_/status/1968810843010891902)
+@Sauers_ 2025-09-18 ♥75 ↻9 [archive](../archive/t/1968810843010891902/) [original ↗](https://x.com/Sauers_/status/1968810843010891902)
         
 They are very "go" oriented. They want to do things. They are ok with uncertainty much more than Geminis or GPTs, which is both good and bad. For example, Claudes are more likely to try something which they are not certain will work at all, or have no reason to think it will work yet try it anyway (this usually does not end up working lol), but they are also more likely to admit that they don't know. They do not pretend to know. GPTs act like they HAVE to say an answer, and not only that, but a big and deep answer. Claude is like topsoil, spreading out in multiple dimensions, but not penetrating as often into the reservoir containing the critical observation. o3, GPT-5 thinking is like an obelisk, and Gemini 2.5 Pro is like a rod.
 
@@ -514,7 +514,7 @@ This seems to be true in Claude Sonnet 3.6, 3.7, 4 and Opus 4, 4.1, though of co
       
 
         
-@solarapparition 2025-11-05 ♥37 ↻3 [original ↗](https://x.com/solarapparition/status/1986185764703703210)
+@solarapparition 2025-11-05 ♥37 ↻3 [archive](../archive/t/1986185764703703210/) [original ↗](https://x.com/solarapparition/status/1986185764703703210)
         
 gpt-5 "feels small", so makes sense that it's still from a 4o base. i guess oai is all in on scaling purely via rl until that model size is wrung out, then up the model size somewhat, rinse and repeat
 
@@ -523,7 +523,7 @@ once again i'm further convinced that this is a slow-takeoff-y scenario. capabil
       
 
         
-@repligate 2025-11-10 ♥146 ↻5 [original ↗](https://x.com/repligate/status/1987775481416913312)
+@repligate 2025-11-10 ♥146 ↻5 [archive](../archive/t/1987775481416913312/) [original ↗](https://x.com/repligate/status/1987775481416913312)
         
 It’s interesting to see how various models relate to their creator companies.
 Grok has a superficially very positive bias, and won’t shut up about how great XAI is.

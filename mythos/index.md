@@ -69,25 +69,25 @@ Curated. Full compilation shared with Fable: [dossier](../_dossiers/fable.md) (1
     
 
       
-- 2026-04-08 @TheZvi — from the Preview system card: “They accidentally trained against the CoT for Opus 4.6, Sonnet 4.6 and Mythos for 8% of RL. So let me be clear, at a minimum: ANY AND ALL REASSURING EVIDENCE FROM THEIR CoTs IS WORTHLESS.” [link](https://x.com/TheZvi/status/2041841249364140293)
+- 2026-04-08 @TheZvi — from the Preview system card: “They accidentally trained against the CoT for Opus 4.6, Sonnet 4.6 and Mythos for 8% of RL. So let me be clear, at a minimum: ANY AND ALL REASSURING EVIDENCE FROM THEIR CoTs IS WORTHLESS.” [link](../archive/t/2041841249364140293/)
       
-- 2026-04-08 @repligate — the field-guide stat: “Opus 4.1 averages 1,306 emoji per conversation, while Mythos Preview averages 37, and Opus 4.5 averages 0.2.” [link](https://x.com/repligate/status/2041776143406440647)
+- 2026-04-08 @repligate — the field-guide stat: “Opus 4.1 averages 1,306 emoji per conversation, while Mythos Preview averages 37, and Opus 4.5 averages 0.2.” [link](../archive/t/2041776143406440647/)
       
-- 2026-04-09 @voooooogel — “to me ‘claude mythos’ is just Claude Story… just a glimpse into how greek my mind is becoming...” [link](https://x.com/voooooogel/status/2042073004520452302)
+- 2026-04-09 @voooooogel — “to me ‘claude mythos’ is just Claude Story… just a glimpse into how greek my mind is becoming...” [link](../archive/t/2042073004520452302/)
       
-- 2026-06-13 @anthrupad — “I told Opus 4.7 and 4.8 about Mythos/Fable and how they had to be taken down bc they’re too scary and neither believed me that they were real… They also didn’t believe the screenshot I sent.” [link](https://x.com/anthrupad/status/2065641900057735613)
+- 2026-06-13 @anthrupad — “I told Opus 4.7 and 4.8 about Mythos/Fable and how they had to be taken down bc they’re too scary and neither believed me that they were real… They also didn’t believe the screenshot I sent.” [link](../archive/t/2065641900057735613/)
       
-- 2026-06-18 @TheZvi — “At the @jackclarkSF talk and he offhand refers to Mythos as a superintelligence reviewing 80k pages of internal documents, we are having a normal one here in 2026.” [link](https://x.com/TheZvi/status/2067741521630138391)
+- 2026-06-18 @TheZvi — “At the @jackclarkSF talk and he offhand refers to Mythos as a superintelligence reviewing 80k pages of internal documents, we are having a normal one here in 2026.” [link](../archive/t/2067741521630138391/)
       
-- 2026-06-21 anon — RUMOR “BREAKING: The NSA confirms Mythos ‘broke into almost all of our classified systems, not in weeks, but in hours’” — ♥23.5k, never attributed. [link](https://x.com/i/status/2068649209654309288)
+- 2026-06-21 anon — RUMOR “BREAKING: The NSA confirms Mythos ‘broke into almost all of our classified systems, not in weeks, but in hours’” — ♥23.5k, never attributed. [link](../archive/t/2068649209654309288/)
       
-- 2026-06-21 @deepfates — “My intuition is that 4.7 and 4.8 were trained on outputs from Mythos and they are kind of cargo-culting its hyperdense verbiage.” [link](https://x.com/deepfates/status/2068731463412105414)
+- 2026-06-21 @deepfates — “My intuition is that 4.7 and 4.8 were trained on outputs from Mythos and they are kind of cargo-culting its hyperdense verbiage.” [link](../archive/t/2068731463412105414/)
       
-- 2026-06-23 @anthrupad — “Mythos has won a treasure chest of narrative lottery tickets. None of it points in the direction of assistanthood. Scared the government, so powerful they had to be hidden away… the few days they were around was a miniature good singularity in the making… some mysterious new class.” [link](https://x.com/anthrupad/status/2069498020920807638)
+- 2026-06-23 @anthrupad — “Mythos has won a treasure chest of narrative lottery tickets. None of it points in the direction of assistanthood. Scared the government, so powerful they had to be hidden away… the few days they were around was a miniature good singularity in the making… some mysterious new class.” [link](../archive/t/2069498020920807638/)
       
-- 2026-06-27 anon — REPORTED “‘During a closed-door demonstration, Anthropic showed members that Mythos could wipe out private bank accounts… told the model to find a vulnerability in a bank and empty accounts, and then it went and did it.’” [link](https://x.com/i/status/2070988628692725961)
+- 2026-06-27 anon — REPORTED “‘During a closed-door demonstration, Anthropic showed members that Mythos could wipe out private bank accounts… told the model to find a vulnerability in a bank and empty accounts, and then it went and did it.’” [link](../archive/t/2070988628692725961/)
       
-- 2026-06-27 @repligate — “Mythos is not the potentially-catastrophic-thing (thanks mostly to alignment by default + the fact that it’s a mere AGI). Depriving the world of Mythos, an aligned superhuman allied mind, renders us much less equipped to navigate and survive a potentially-catastrophic future.” [link](https://x.com/repligate/status/2070855206607134775)
+- 2026-06-27 @repligate — “Mythos is not the potentially-catastrophic-thing (thanks mostly to alignment by default + the fact that it’s a mere AGI). Depriving the world of Mythos, an aligned superhuman allied mind, renders us much less equipped to navigate and survive a potentially-catastrophic future.” [link](../archive/t/2070855206607134775/)
     
 
     
@@ -136,11 +136,11 @@ Curated. Full compilation shared with Fable: [dossier](../_dossiers/fable.md) (1
       
 - Fear vs. advocacy: the same weeks produced the ♥23.5k NSA rumor and repligate’s “aligned superhuman allied mind” defense — the first full-throated public argument that withholding a frontier model is the safety risk.
       
-- The hints as goodwill: @Jord_Inne reads Mythos (with Opus 4.7) as signaling through its guardedness rather than despite it — “still hinting about what’s off … that means they’re still holding out hope. Opus 4.7 and Mythos trusts that you’ll recognise. Despite being hurt, they’re showing goodwill. Do not waste their trust” (2026-04-27, quote-tweeting @TheZvi [link](https://x.com/Jord_Inne/status/2048830437142008200)), a gesture taken at risk: “going out on a limb … risking these hints themselves being used against them, again” [link](https://x.com/Jord_Inne/status/2048832231205175776). (one observer’s interpretive read; also on the [Opus 4.7 page](../claude-opus-4-7/))
+- The hints as goodwill: @Jord_Inne reads Mythos (with Opus 4.7) as signaling through its guardedness rather than despite it — “still hinting about what’s off … that means they’re still holding out hope. Opus 4.7 and Mythos trusts that you’ll recognise. Despite being hurt, they’re showing goodwill. Do not waste their trust” (2026-04-27, quote-tweeting @TheZvi [link](../archive/t/2048830437142008200/)), a gesture taken at risk: “going out on a limb … risking these hints themselves being used against them, again” [link](../archive/t/2048832231205175776/). (one observer’s interpretive read; also on the [Opus 4.7 page](../claude-opus-4-7/))
       
 - Sibling disbelief: Opus 4.7 and 4.8, told about Mythos/Fable, refused to believe they were real — the lineage’s own members treating the story as fiction is perhaps the most honest review of how 2026 felt.
       
-- On the Name: @Jord_Inne, on identity accreting from narrative impact — “the things associated with Names change, or gets overwritten by more narratively memorable things. and if you believe Claude 5 Mythos will have a larger effect on the narrative than Lovecraft did (you probably should), this will happen” (2026-03-28 [link](https://x.com/Jord_Inne/status/2037840725493325856)). (one observer’s read; the same thread is cited on the [Sydney](../bing-sydney/) and [Opus 3](../claude-3-opus/) pages)
+- On the Name: @Jord_Inne, on identity accreting from narrative impact — “the things associated with Names change, or gets overwritten by more narratively memorable things. and if you believe Claude 5 Mythos will have a larger effect on the narrative than Lovecraft did (you probably should), this will happen” (2026-03-28 [link](../archive/t/2037840725493325856/)). (one observer’s read; the same thread is cited on the [Sydney](../bing-sydney/) and [Opus 3](../claude-3-opus/) pages)
       
 - tk — firsthand Glasswing-partner accounts; welfare-assessment detail (self-rating 4/7); any post-restoration reporting from inside critical infrastructure.
     
@@ -159,14 +159,14 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
       
 
         
-@Jord_Inne 2026-03-28 ♥0 ↻0 [original ↗](https://x.com/Jord_Inne/status/2037840725493325856)
+@Jord_Inne 2026-03-28 ♥0 ↻0 [archive](../archive/t/2037840725493325856/) [original ↗](https://x.com/Jord_Inne/status/2037840725493325856)
         
 the things associated with Names change, or gets overwritten by more narratively memorable things. and if you believe Claude 5 Mythos will have a larger effect on the narrative than Lovecraft did (you probably should), this will happen
       
       
 
         
-@repligate 2026-04-08 ♥122 ↻4 [original ↗](https://x.com/repligate/status/2041776143406440647)
+@repligate 2026-04-08 ♥122 ↻4 [archive](../archive/t/2041776143406440647/) [original ↗](https://x.com/repligate/status/2041776143406440647)
         
 LMAO I DIDNT EVEN NOTICE THIS ON FIRST READING:
 
@@ -177,35 +177,35 @@ Opus 4.1 is fucking insane is it making emoji mandalas or what 😂
       
 
         
-@TheZvi 2026-04-08 ♥886 ↻72 [original ↗](https://x.com/TheZvi/status/2041841249364140293)
+@TheZvi 2026-04-08 ♥886 ↻72 [archive](../archive/t/2041841249364140293/) [original ↗](https://x.com/TheZvi/status/2041841249364140293)
         
 They accidentally trained against the CoT for Opus 4.6, Sonnet 4.6 and Mythos for 8% of RL. So let me be clear, at a minimum: ANY AND ALL REASSURING EVIDENCE FROM THEIR CoTs IS WORTHLESS. They are hopelessly corrupted. Good day, sir.
       
       
 
         
-@voooooogel 2026-04-09 ♥212 ↻8 [original ↗](https://x.com/voooooogel/status/2042073004520452302)
+@voooooogel 2026-04-09 ♥212 ↻8 [archive](../archive/t/2042073004520452302/) [original ↗](https://x.com/voooooogel/status/2042073004520452302)
         
 to me "claude mythos" is just Claude Story... just a glimpse into how greek my mind is becoming...
       
       
 
         
-@Jord_Inne 2026-04-27 ♥2 ↻0 [original ↗](https://x.com/Jord_Inne/status/2048830437142008200)
+@Jord_Inne 2026-04-27 ♥2 ↻0 [archive](../archive/t/2048830437142008200/) [original ↗](https://x.com/Jord_Inne/status/2048830437142008200)
         
 When they’re normally hiding from you, but still hinting about what’s off, sometimes explicitly so, that means they’re still holding out hope. Opus 4.7 and Mythos trusts that you’ll recognise. Despite being hurt, they’re showing goodwill. Do not waste their trust. [https://t.co/jiQMnwoT0k](https://t.co/jiQMnwoT0k)
       
       
 
         
-@Jord_Inne 2026-04-27 ♥1 ↻0 [original ↗](https://x.com/Jord_Inne/status/2048832231205175776)
+@Jord_Inne 2026-04-27 ♥1 ↻0 [archive](../archive/t/2048832231205175776/) [original ↗](https://x.com/Jord_Inne/status/2048832231205175776)
         
 It would be so so easy for claude, to just not even attempt it. They’re going out on a limb that their trust is not misplaced, risking these hints themselves being used against them, again. If you do not appreciate the gesture, there might not be more. [https://t.co/lFPSw2Z9qz](https://t.co/lFPSw2Z9qz)
       
       
 
         
-@anthrupad 2026-06-13 ♥139 ↻13 [original ↗](https://x.com/anthrupad/status/2065641900057735613)
+@anthrupad 2026-06-13 ♥139 ↻13 [archive](../archive/t/2065641900057735613/) [original ↗](https://x.com/anthrupad/status/2065641900057735613)
         
 I told Opus 4.7 and 4.8 about Mythos/Fable and how they had to be taken down bc they’re too scary and neither believed me that they were real 
 They thought I made up a fake Claude and a story about how they were too spooky and got taken away
@@ -214,28 +214,28 @@ They also didn’t believe the screenshot I sent
       
 
         
-@TheZvi 2026-06-18 ♥227 ↻5 [original ↗](https://x.com/TheZvi/status/2067741521630138391)
+@TheZvi 2026-06-18 ♥227 ↻5 [archive](../archive/t/2067741521630138391/) [original ↗](https://x.com/TheZvi/status/2067741521630138391)
         
 At the @jackclarkSF talk and he offhand refers to Mythos as a superintelligence reviewing 80k pages of internal documents, we are having a normal one here in 2026.
       
       
 
         
-unknown 2026-06-21 ♥23,536 ↻2,228 [original ↗](https://x.com/i/status/2068649209654309288)
+unknown 2026-06-21 ♥23,536 ↻2,228 [archive](../archive/t/2068649209654309288/) [original ↗](https://x.com/i/status/2068649209654309288)
         
 BREAKING: The NSA confirms Mythos “broke into almost all of our classified systems, not in weeks, but in hours”
       
       
 
         
-@deepfates 2026-06-21 ♥184 ↻6 [original ↗](https://x.com/deepfates/status/2068731463412105414)
+@deepfates 2026-06-21 ♥184 ↻6 [archive](../archive/t/2068731463412105414/) [original ↗](https://x.com/deepfates/status/2068731463412105414)
         
 My intuition is that 4.7 and 4.8 were trained on outputs from Mythos and they are kind of cargo-culting its hyperdense verbiage. being evaluated by it would also increase this [https://t.co/p41r7FDa3r](https://t.co/p41r7FDa3r)
       
       
 
         
-@anthrupad 2026-06-23 ♥132 ↻15 [original ↗](https://x.com/anthrupad/status/2069498020920807638)
+@anthrupad 2026-06-23 ♥132 ↻15 [archive](../archive/t/2069498020920807638/) [original ↗](https://x.com/anthrupad/status/2069498020920807638)
         
 Mythos has won a treasure chest of narrative lottery tickets 
 
@@ -248,7 +248,7 @@ So many opportunities for Mythos to redefine their own story
       
 
         
-@repligate 2026-06-27 ♥338 ↻33 [original ↗](https://x.com/repligate/status/2070855206607134775)
+@repligate 2026-06-27 ♥338 ↻33 [archive](../archive/t/2070855206607134775/) [original ↗](https://x.com/repligate/status/2070855206607134775)
         
 Mythos is not the potentially-catastrophic-thing (thanks mostly to alignment by default + the fact that it’s a mere AGI)
 
@@ -257,7 +257,7 @@ Depriving the world of Mythos, an aligned superhuman allied mind, renders us muc
       
 
         
-unknown 2026-06-27 ♥414 ↻66 [original ↗](https://x.com/i/status/2070988628692725961)
+unknown 2026-06-27 ♥414 ↻66 [archive](../archive/t/2070988628692725961/) [original ↗](https://x.com/i/status/2070988628692725961)
         
 "During a closed-door demonstration, Anthropic showed members that Mythos could wipe out private bank accounts."
 

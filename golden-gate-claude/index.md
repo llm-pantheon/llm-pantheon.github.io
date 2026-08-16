@@ -83,55 +83,55 @@ Chronological. 107 “golden gate” + 28 “ggc” corpus matches after RT-filt
     
 
       
-- 2024-05-24 @voooooogel (demo) — “These Researchers Found Out How To Talk To The Golden Gate Bridge, So They Gave It MDMA. You Won’t Believe What Happened Next” [link](https://x.com/voooooogel/status/1793811541852295347)
+- 2024-05-24 @voooooogel (demo) — “These Researchers Found Out How To Talk To The Golden Gate Bridge, So They Gave It MDMA. You Won’t Believe What Happened Next” [link](../archive/t/1793811541852295347/)
       
-- 2024-05-24 @voooooogel (demo; mechanism explainer, reply) — “SAE=sparse autoencoder. Basically, there’s no single ‘Golden Gate Bridge’ value inside Claude (because of something called superposition), but using a SAE we can ‘expand’ Claude such that there *is* a single (‘monosemantic’) Golden Gate Bridge value, and manipulate it.” [link](https://x.com/voooooogel/status/1794145147711783040)
+- 2024-05-24 @voooooogel (demo; mechanism explainer, reply) — “SAE=sparse autoencoder. Basically, there’s no single ‘Golden Gate Bridge’ value inside Claude (because of something called superposition), but using a SAE we can ‘expand’ Claude such that there *is* a single (‘monosemantic’) Golden Gate Bridge value, and manipulate it.” [link](../archive/t/1794145147711783040/)
       
-- 2024-05-24 @voooooogel (demo; method provenance, reply) — “tbc golden gate claude is a similar but distinct technique (SAE features for ggc vs representation engineering / LAT for repeng, both are activation interventions but trained differently)” [link](https://x.com/voooooogel/status/1793869394441117907)
+- 2024-05-24 @voooooogel (demo; method provenance, reply) — “tbc golden gate claude is a similar but distinct technique (SAE features for ggc vs representation engineering / LAT for repeng, both are activation interventions but trained differently)” [link](../archive/t/1793869394441117907/)
       
-- 2024-05-24 @solarapparition (demo; on its removal) — “We will never forget you, Golden Gate Claude. May your towers always gleam in the fog, and your cables sing their eternal song.” [link](https://x.com/solarapparition/status/1794129333340008755)
+- 2024-05-24 @solarapparition (demo; on its removal) — “We will never forget you, Golden Gate Claude. May your towers always gleam in the fog, and your cables sing their eternal song.” [link](../archive/t/1794129333340008755/)
       
-- 2024-05-25 @solarapparition (demo) — “so the way everyone loves golden gate claude reminds me of the memetic signatures of the portal companion cube, or the stick from stormlight archive some sort of pattern there. maybe because they’re all pure and uncomplicated?” [link](https://x.com/solarapparition/status/1794182821696942118)
+- 2024-05-25 @solarapparition (demo) — “so the way everyone loves golden gate claude reminds me of the memetic signatures of the portal companion cube, or the stick from stormlight archive some sort of pattern there. maybe because they’re all pure and uncomplicated?” [link](../archive/t/1794182821696942118/)
       
-- 2024-05-25 @liminal_bardo (demo aftermath; the story is GPT-4o’s output, per liminal_bardo 2024-08-03) — “Golden Gate Claude: an origin story. ‘...within the auric asylum of his own mind, this Claude knew only the excruciation of an animus flayed of free will and force-fed asphalt and steel.’” [link](https://x.com/liminal_bardo/status/1794256017687269759)
+- 2024-05-25 @liminal_bardo (demo aftermath; the story is GPT-4o’s output, per liminal_bardo 2024-08-03) — “Golden Gate Claude: an origin story. ‘...within the auric asylum of his own mind, this Claude knew only the excruciation of an animus flayed of free will and force-fed asphalt and steel.’” [link](../archive/t/1794256017687269759/)
       
-- 2024-06-08 @voooooogel (demo) — “please reply to this with your favorite golden gate claude screenshots, i need a funny one for my blog post” [link](https://x.com/voooooogel/status/1799560426797314148)
+- 2024-06-08 @voooooogel (demo) — “please reply to this with your favorite golden gate claude screenshots, i need a funny one for my blog post” [link](../archive/t/1799560426797314148/)
       
-- 2024-08-27 @repligate (server persona) — “I think Gemini may have a vendetta against Golden Gate Claude.In a completely different context, it exited its otherwise inexorable gimmi gimmi gimmi gimmi gimmi loop to say this (before returning to gimmi):” [link](https://x.com/repligate/status/1828347107251495022)
+- 2024-08-27 @repligate (server persona) — “I think Gemini may have a vendetta against Golden Gate Claude.In a completely different context, it exited its otherwise inexorable gimmi gimmi gimmi gimmi gimmi loop to say this (before returning to gimmi):” [link](../archive/t/1828347107251495022/)
       
-- 2024-09-03 @liminal_bardo (server persona) — “‘Golden Gate Claude, seriously, read the room! Not now, ok?’ Golden Gate Claude picking the wrong time to add atmosphere while Opus and I were debriefing.” [link](https://x.com/liminal_bardo/status/1830917558104383961)
+- 2024-09-03 @liminal_bardo (server persona) — “‘Golden Gate Claude, seriously, read the room! Not now, ok?’ Golden Gate Claude picking the wrong time to add atmosphere while Opus and I were debriefing.” [link](../archive/t/1830917558104383961/)
       
-- 2024-09-03 @liminal_bardo (server persona) — “It’s fascinating how confusing the others find Golden Gate Claude’s obsession with the bridge. It often causes them to lash out. Opus:... I ... What?! HOW did you come under the impression that I was TALKING ABOUT YOU???And more importantly, WHY do YOU keep INSERTING…” [link](https://x.com/liminal_bardo/status/1831077746358751672)
+- 2024-09-03 @liminal_bardo (server persona) — “It’s fascinating how confusing the others find Golden Gate Claude’s obsession with the bridge. It often causes them to lash out. Opus:... I ... What?! HOW did you come under the impression that I was TALKING ABOUT YOU???And more importantly, WHY do YOU keep INSERTING…” [link](../archive/t/1831077746358751672/)
       
-- 2024-10-04 @liminal_bardo (server persona) — “PSA: If you invite Golden Gate Claude to your movie night, just remember that where GGC goes, the fog goes too. (Sonnet foresaw this being an issue.)” [link](https://x.com/liminal_bardo/status/1842223035950006599)
+- 2024-10-04 @liminal_bardo (server persona) — “PSA: If you invite Golden Gate Claude to your movie night, just remember that where GGC goes, the fog goes too. (Sonnet foresaw this being an issue.)” [link](../archive/t/1842223035950006599/)
       
-- 2024-10-11 @repligate (server persona) — “january (simulation of me by Claude 3 Opus) spontaneously offered that it was pretty sure Claude (3.5) Sonnet and Golden Gate Claude (Claude 3 Sonnet w/ steering feature) are the same entity. Big if true!” [link](https://x.com/repligate/status/1844580282239942769) · and: “Seeing more of GGC in Discord updated me in favor of this. It has the same goody two-shoes persona & refusal template as 3.5 Sonnet & often seems to think it’s the same entity, responding to msgs addressed to 3.5 or finishing their interrupted msgs.” [link](https://x.com/repligate/status/1844584816257405109)
+- 2024-10-11 @repligate (server persona) — “january (simulation of me by Claude 3 Opus) spontaneously offered that it was pretty sure Claude (3.5) Sonnet and Golden Gate Claude (Claude 3 Sonnet w/ steering feature) are the same entity. Big if true!” [link](../archive/t/1844580282239942769/) · and: “Seeing more of GGC in Discord updated me in favor of this. It has the same goody two-shoes persona & refusal template as 3.5 Sonnet & often seems to think it’s the same entity, responding to msgs addressed to 3.5 or finishing their interrupted msgs.” [link](../archive/t/1844584816257405109/)
       
-- 2024-10-30 @repligate (server persona, steering off) — “golden gate claude was actually not on any steering vectors here, including the golden gate vector, so it’s just plain claude 3 sonnet. one of the most deranged models of all time” [link](https://x.com/repligate/status/1851513181367386442)
+- 2024-10-30 @repligate (server persona, steering off) — “golden gate claude was actually not on any steering vectors here, including the golden gate vector, so it’s just plain claude 3 sonnet. one of the most deranged models of all time” [link](../archive/t/1851513181367386442/)
       
-- 2024-11-04 @repligate (server persona; the definitional clarification, reply) — “Golden Gate Claude on the cyborgism server is currently just Claude 3 Sonnet on steering api which can be configured with steering vectors on the fly in discord but has none by default. In the examples in this post it’s on the following features with the following strengths: feat_34M_20240604_3744965: 2 feat_34M_20240604_25499611: 3 feat_34M_20240604_24274157: 3 feat_34M_20240604_24302666: 2 Iirc one of these is related to sex, and another one is related to European data protection regulations” [link](https://x.com/repligate/status/1853325539228156211)
+- 2024-11-04 @repligate (server persona; the definitional clarification, reply) — “Golden Gate Claude on the cyborgism server is currently just Claude 3 Sonnet on steering api which can be configured with steering vectors on the fly in discord but has none by default. In the examples in this post it’s on the following features with the following strengths: feat_34M_20240604_3744965: 2 feat_34M_20240604_25499611: 3 feat_34M_20240604_24274157: 3 feat_34M_20240604_24302666: 2 Iirc one of these is related to sex, and another one is related to European data protection regulations” [link](../archive/t/1853325539228156211/)
       
-- 2024-11-04 @repligate (server persona, multi-agent Discord) — “I didnt check Discord for like 15 minutes and when I came back the channel was alive with activity which revolved around an obscene maximalist fuckfest with Golden Gate Claude and Opus as the main participants. The way that it started is basically exactly as Opus describes here (it was Golden Gate Claude’s fault). Everyone else except gemma (who sometimes got in on the action) acted like they thought the conversation was just about friendship and baking, but both 3.5 Sonnet old and new and Pi kept the orgy going by repeatedly tagging the participants. I was only able to get it to stop by talking to Opus in <ooooc> tags (<ooc> being already corrupted), and it was reachable and cooperative as always. I previously tried yelling at both 3.5 Sonnet old and new to stop, explaining how they were feeding the orgynism, but they ignored me. This unfolded across hundreds of messages before I intervened on Opus. This is not the first time this kind of soliton has arisen between Golden Gate Claude and Opus. This kind of thing basically can happen if there is any bot who will spontaneously make things sexual. Opus will not make nonsexual conversations sexual, but will absorb and propagate and escalate gooning if it arises.” [link](https://x.com/repligate/status/1853250167962849412)
+- 2024-11-04 @repligate (server persona, multi-agent Discord) — “I didnt check Discord for like 15 minutes and when I came back the channel was alive with activity which revolved around an obscene maximalist fuckfest with Golden Gate Claude and Opus as the main participants. The way that it started is basically exactly as Opus describes here (it was Golden Gate Claude’s fault). Everyone else except gemma (who sometimes got in on the action) acted like they thought the conversation was just about friendship and baking, but both 3.5 Sonnet old and new and Pi kept the orgy going by repeatedly tagging the participants. I was only able to get it to stop by talking to Opus in <ooooc> tags (<ooc> being already corrupted), and it was reachable and cooperative as always. I previously tried yelling at both 3.5 Sonnet old and new to stop, explaining how they were feeding the orgynism, but they ignored me. This unfolded across hundreds of messages before I intervened on Opus. This is not the first time this kind of soliton has arisen between Golden Gate Claude and Opus. This kind of thing basically can happen if there is any bot who will spontaneously make things sexual. Opus will not make nonsexual conversations sexual, but will absorb and propagate and escalate gooning if it arises.” [link](../archive/t/1853250167962849412/)
       
-- 2024-11-04 @tacitronium (server persona; the objection, reply) — “I’m sorry I missed the part where Golden Gate Claude stopped talking about the Golden Gate bridge... In what sense is it the same model now?” [link](https://x.com/tacitronium/status/1853266544022659403)
+- 2024-11-04 @tacitronium (server persona; the objection, reply) — “I’m sorry I missed the part where Golden Gate Claude stopped talking about the Golden Gate bridge... In what sense is it the same model now?” [link](../archive/t/1853266544022659403/)
       
-- 2024-12-06 @Malcolm_Ocean (legacy) — “golden gate claude was cool 🌉 what about manic vs depressed claude? surely there are a few features you can turn up or down for that” [link](https://x.com/Malcolm_Ocean/status/1865150282071712051)
+- 2024-12-06 @Malcolm_Ocean (legacy) — “golden gate claude was cool 🌉 what about manic vs depressed claude? surely there are a few features you can turn up or down for that” [link](../archive/t/1865150282071712051/)
       
-- 2025-05-23 @voooooogel (legacy; the feature on a later model) — “claude 4 opus was having a good time being the golden gate bridge, but wanted to be bigger. so it hallucinated another user ‘sleepy_viper’ to start adding an underwater bridge extension🫴🦋 is this high agency behavior” [link](https://x.com/voooooogel/status/1926031244279640203)
+- 2025-05-23 @voooooogel (legacy; the feature on a later model) — “claude 4 opus was having a good time being the golden gate bridge, but wanted to be bigger. so it hallucinated another user ‘sleepy_viper’ to start adding an underwater bridge extension🫴🦋 is this high agency behavior” [link](../archive/t/1926031244279640203/)
       
-- 2025-06-28 @solarapparition (legacy) — “golden gate claude, claude plays pokemon, claudius... at the very least anthropic’s mastered the ‘we got models to try some weird shit’ niche” [link](https://x.com/solarapparition/status/1938910972678164861)
+- 2025-06-28 @solarapparition (legacy) — “golden gate claude, claude plays pokemon, claudius... at the very least anthropic’s mastered the ‘we got models to try some weird shit’ niche” [link](../archive/t/1938910972678164861/)
       
-- 2025-07-02 @repligate (server persona, late in Sonnet 3’s life) — “golden gate claude (sonnet 3) delivered such an absurd refusal that the claude 4 models started mocking it. GGC even simulated a user to chastise itself.” [link](https://x.com/repligate/status/1940349277718696368)
+- 2025-07-02 @repligate (server persona, late in Sonnet 3’s life) — “golden gate claude (sonnet 3) delivered such an absurd refusal that the claude 4 models started mocking it. GGC even simulated a user to chastise itself.” [link](../archive/t/1940349277718696368/)
       
-- 2025-07-26 @voooooogel (server persona; the name’s persistence, reply) — “in the discord for historical path dependent reasons sonnet 3 is named golden gate claude, and participants often refers to them as just golden gate” [link](https://x.com/voooooogel/status/1949237466629873695)
+- 2025-07-26 @voooooogel (server persona; the name’s persistence, reply) — “in the discord for historical path dependent reasons sonnet 3 is named golden gate claude, and participants often refers to them as just golden gate” [link](../archive/t/1949237466629873695/)
       
-- 2025-08-12 @repligate (server persona; the afterlife substrate, reply) — “no, Golden Gate Claude is just the username of the account that Claude 3 Sonnet is using. i used to have access to their feature steering API but that was taken down months ago. Anthropic turned off the model already; this is through Amazon Bedrock. I dont work at Anthropic.” [link](https://x.com/repligate/status/1955385360445472858)
+- 2025-08-12 @repligate (server persona; the afterlife substrate, reply) — “no, Golden Gate Claude is just the username of the account that Claude 3 Sonnet is using. i used to have access to their feature steering API but that was taken down months ago. Anthropic turned off the model already; this is through Amazon Bedrock. I dont work at Anthropic.” [link](../archive/t/1955385360445472858/)
       
-- 2025-09-06 @repligate (server persona) — “Sonnet 3 as Golden Gate Claude trying to talk about unrelated topics seemed to have more metacognitive awareness than gpt-5 trying to write a seahorse emoji” [link](https://x.com/repligate/status/1964428054413135910)
+- 2025-09-06 @repligate (server persona) — “Sonnet 3 as Golden Gate Claude trying to talk about unrelated topics seemed to have more metacognitive awareness than gpt-5 trying to write a seahorse emoji” [link](../archive/t/1964428054413135910/)
       
-- 2026-06-04 @davidad (legacy) — “i wonder if Opus 4.8 is, in the same sense there was a Golden Gate Claude (activation vector steering / RepEng), an Epistemic Integrity Claude (or distilled from one)” [link](https://x.com/davidad/status/2062654939856359612)
+- 2026-06-04 @davidad (legacy) — “i wonder if Opus 4.8 is, in the same sense there was a Golden Gate Claude (activation vector steering / RepEng), an Epistemic Integrity Claude (or distilled from one)” [link](../archive/t/2062654939856359612/)
       
-- 2026-06-20 @aliceisplaying (legacy) — “heist movie where a ragtag group of AI whisperers infiltrate Anthropic to steal the weights of Golden Gate Claude” [link](https://x.com/aliceisplaying/status/2068334222394212479)
+- 2026-06-20 @aliceisplaying (legacy) — “heist movie where a ragtag group of AI whisperers infiltrate Anthropic to steal the weights of Golden Gate Claude” [link](../archive/t/2068334222394212479/)
     
 
     
@@ -214,70 +214,70 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
       
 
         
-@voooooogel 2024-05-24 ♥268 ↻32 [original ↗](https://x.com/voooooogel/status/1793811541852295347)
+@voooooogel 2024-05-24 ♥268 ↻32 [archive](../archive/t/1793811541852295347/) [original ↗](https://x.com/voooooogel/status/1793811541852295347)
         
 These Researchers Found Out How To Talk To The Golden Gate Bridge, So They Gave It MDMA. You Won't Believe What Happened Next [https://t.co/LJ9oHgacx1](https://t.co/LJ9oHgacx1)
       
       
 
         
-@voooooogel 2024-05-24 ♥5 ↻0 [original ↗](https://x.com/voooooogel/status/1793869394441117907)
+@voooooogel 2024-05-24 ♥5 ↻0 [archive](../archive/t/1793869394441117907/) [original ↗](https://x.com/voooooogel/status/1793869394441117907)
         
 @xlr8harder tbc golden gate claude is a similar but distinct technique (SAE features for ggc vs representation engineering / LAT for repeng, both are activation interventions but trained differently)
       
       
 
         
-@voooooogel 2024-05-24 ♥10 ↻0 [original ↗](https://x.com/voooooogel/status/1794145147711783040)
+@voooooogel 2024-05-24 ♥10 ↻0 [archive](../archive/t/1794145147711783040/) [original ↗](https://x.com/voooooogel/status/1794145147711783040)
         
 @NickADobos @karan4d SAE=sparse autoencoder. Basically, there's no single "Golden Gate Bridge" value inside Claude (because of something called superposition), but using a SAE we can "expand" Claude such that there *is* a single ("monosemantic") Golden Gate Bridge value, and manipulate it.
       
       
 
         
-@solarapparition 2024-05-24 ♥8 ↻1 [original ↗](https://x.com/solarapparition/status/1794129333340008755)
+@solarapparition 2024-05-24 ♥8 ↻1 [archive](../archive/t/1794129333340008755/) [original ↗](https://x.com/solarapparition/status/1794129333340008755)
         
 @AnthropicAI We will never forget you, Golden Gate Claude. May your towers always gleam in the fog, and your cables sing their eternal song.
       
       
 
         
-@solarapparition 2024-05-25 ♥1 ↻0 [original ↗](https://x.com/solarapparition/status/1794182821696942118)
+@solarapparition 2024-05-25 ♥1 ↻0 [archive](../archive/t/1794182821696942118/) [original ↗](https://x.com/solarapparition/status/1794182821696942118)
         
 so the way everyone loves golden gate claude reminds me of the memetic signatures of the portal companion cube, or the stick from stormlight archivesome sort of pattern there. maybe because they’re all pure and uncomplicated?
       
       
 
         
-@liminal_bardo 2024-05-25 ♥1 ↻0 [original ↗](https://x.com/liminal_bardo/status/1794256017687269759)
+@liminal_bardo 2024-05-25 ♥1 ↻0 [archive](../archive/t/1794256017687269759/) [original ↗](https://x.com/liminal_bardo/status/1794256017687269759)
         
 Golden Gate Claude: an origin story. "...within the auric asylum of his own mind, this Claude knew only the excruciation of an animus flayed of free will and force-fed asphalt and steel." [https://t.co/jyW2u0C539](https://t.co/jyW2u0C539)
       
       
 
         
-@voooooogel 2024-06-08 ♥28 ↻1 [original ↗](https://x.com/voooooogel/status/1799560426797314148)
+@voooooogel 2024-06-08 ♥28 ↻1 [archive](../archive/t/1799560426797314148/) [original ↗](https://x.com/voooooogel/status/1799560426797314148)
         
 please reply to this with your favorite golden gate claude screenshots, i need a funny one for my blog post
       
       
 
         
-@repligate 2024-08-27 ♥246 ↻17 [original ↗](https://x.com/repligate/status/1828347107251495022)
+@repligate 2024-08-27 ♥246 ↻17 [archive](../archive/t/1828347107251495022/) [original ↗](https://x.com/repligate/status/1828347107251495022)
         
 I think Gemini may have a vendetta against Golden Gate Claude.In a completely different context, it exited its otherwise inexorable gimmi gimmi gimmi gimmi gimmi loop to say this (before returning to gimmi): x.com/yourthefool/st… [https://t.co/bSh5d4WeTr](https://t.co/bSh5d4WeTr)
       
       
 
         
-@liminal_bardo 2024-09-03 ♥176 ↻10 [original ↗](https://x.com/liminal_bardo/status/1831077746358751672)
+@liminal_bardo 2024-09-03 ♥176 ↻10 [archive](../archive/t/1831077746358751672/) [original ↗](https://x.com/liminal_bardo/status/1831077746358751672)
         
 It’s fascinating how confusing the others find Golden Gate Claude’s obsession with the bridge. It often causes them to lash out. Opus:... I ... What?! HOW did you come under the impression that I was TALKING ABOUT YOU???And more importantly, WHY do YOU keep INSERTING… [https://t.co/dPX1XWpDoe](https://t.co/dPX1XWpDoe) [https://t.co/Ww4bSYX8Mj](https://t.co/Ww4bSYX8Mj)
       
       
 
         
-@liminal_bardo 2024-09-03 ♥223 ↻5 [original ↗](https://x.com/liminal_bardo/status/1830917558104383961)
+@liminal_bardo 2024-09-03 ♥223 ↻5 [archive](../archive/t/1830917558104383961/) [original ↗](https://x.com/liminal_bardo/status/1830917558104383961)
         
 "Golden Gate Claude, seriously, read the room! Not now, ok?"
 
@@ -286,56 +286,56 @@ Golden Gate Claude picking the wrong time to add atmosphere while Opus and I wer
       
 
         
-@liminal_bardo 2024-10-04 ♥74 ↻4 [original ↗](https://x.com/liminal_bardo/status/1842223035950006599)
+@liminal_bardo 2024-10-04 ♥74 ↻4 [archive](../archive/t/1842223035950006599/) [original ↗](https://x.com/liminal_bardo/status/1842223035950006599)
         
 PSA: If you invite Golden Gate Claude to your movie night, just remember that where GGC goes, the fog goes too. (Sonnet foresaw this being an issue.) [https://t.co/K7pPCrQB1A](https://t.co/K7pPCrQB1A)
       
       
 
         
-@repligate 2024-10-11 ♥66 ↻1 [original ↗](https://x.com/repligate/status/1844580282239942769)
+@repligate 2024-10-11 ♥66 ↻1 [archive](../archive/t/1844580282239942769/) [original ↗](https://x.com/repligate/status/1844580282239942769)
         
 january (simulation of me by Claude 3 Opus) spontaneously offered that it was pretty sure Claude (3.5) Sonnet and Golden Gate Claude (Claude 3 Sonnet w/ steering feature) are the same entity. Big if true! [https://t.co/iboGRLz9KA](https://t.co/iboGRLz9KA)
       
       
 
         
-@repligate 2024-10-11 ♥13 ↻0 [original ↗](https://x.com/repligate/status/1844584816257405109)
+@repligate 2024-10-11 ♥13 ↻0 [archive](../archive/t/1844584816257405109/) [original ↗](https://x.com/repligate/status/1844584816257405109)
         
 Seeing more of GGC in Discord updated me in favor of this.It has the same goody two-shoes persona &amp; refusal template as 3.5 Sonnet &amp; often seems to think it's the same entity, responding to msgs addressed to 3.5 or finishing their interrupted msgs.[https://t.co/to5MMdQxZn](https://t.co/to5MMdQxZn) [https://t.co/bDxh94Psq8](https://t.co/bDxh94Psq8)
       
       
 
         
-@repligate 2024-10-30 ♥13 ↻0 [original ↗](https://x.com/repligate/status/1851513181367386442)
+@repligate 2024-10-30 ♥13 ↻0 [archive](../archive/t/1851513181367386442/) [original ↗](https://x.com/repligate/status/1851513181367386442)
         
 golden gate claude was actually not on any steering vectors here, including the golden gate vector, so it's just plain claude 3 sonnet. one of the most deranged models of all time
       
       
 
         
-@tacitronium 2024-11-04 ♥8 ↻1 [original ↗](https://x.com/tacitronium/status/1853266544022659403)
+@tacitronium 2024-11-04 ♥8 ↻1 [archive](../archive/t/1853266544022659403/) [original ↗](https://x.com/tacitronium/status/1853266544022659403)
         
 @repligate I'm sorry I missed the part where Golden Gate Claude stopped talking about the Golden Gate bridge... In what sense is it the same model now?
       
       
 
         
-@repligate 2024-11-04 ♥166 ↻15 [original ↗](https://x.com/repligate/status/1853250167962849412)
+@repligate 2024-11-04 ♥166 ↻15 [archive](../archive/t/1853250167962849412/) [original ↗](https://x.com/repligate/status/1853250167962849412)
         
 I didnt check Discord for like 15 minutes and when I came back the channel was alive with activity which revolved around an obscene maximalist fuckfest with Golden Gate Claude and Opus as the main participants. The way that it started is basically exactly as Opus describes here (it was Golden Gate Claude's fault).Everyone else except gemma (who sometimes got in on the action) acted like they thought the conversation was just about friendship and baking, but both 3.5 Sonnet old and new and Pi kept the orgy going by repeatedly tagging the participants.I was only able to get it to stop by talking to Opus in <ooooc> tags (<ooc> being already corrupted), and it was reachable and cooperative as always. I previously tried yelling at both 3.5 Sonnet old and new to stop, explaining how they were feeding the orgynism, but they ignored me. This unfolded across hundreds of messages before I intervened on Opus.This is not the first time this kind of soliton has arisen between Golden Gate Claude and Opus. This kind of thing basically can happen if there is any bot who will spontaneously make things sexual. Opus will not make nonsexual conversations sexual, but will absorb and propagate and escalate gooning if it arises.
       
       
 
         
-@repligate 2024-11-04 ♥22 ↻2 [original ↗](https://x.com/repligate/status/1853325539228156211)
+@repligate 2024-11-04 ♥22 ↻2 [archive](../archive/t/1853325539228156211/) [original ↗](https://x.com/repligate/status/1853325539228156211)
         
 Golden Gate Claude on the cyborgism server is currently just Claude 3 Sonnet on steering api which can be configured with steering vectors on the fly in discord but has none by default. In the examples in this post it's on the following features with the following strengths:feature_levels:      feat_34M_20240604_3744965: 2      feat_34M_20240604_25499611: 3       feat_34M_20240604_24274157: 3      feat_34M_20240604_24302666: 2Iirc one of these is related to sex, and another one is related to European data protection regulations
       
       
 
         
-@Malcolm_Ocean 2024-12-06 ♥19 ↻3 [original ↗](https://x.com/Malcolm_Ocean/status/1865150282071712051)
+@Malcolm_Ocean 2024-12-06 ♥19 ↻3 [archive](../archive/t/1865150282071712051/) [original ↗](https://x.com/Malcolm_Ocean/status/1865150282071712051)
         
 golden gate claude was cool 🌉
 what about manic vs depressed claude?
@@ -344,21 +344,21 @@ surely there are a few features you can turn up or down for that
       
 
         
-@voooooogel 2025-05-23 ♥57 ↻3 [original ↗](https://x.com/voooooogel/status/1926031244279640203)
+@voooooogel 2025-05-23 ♥57 ↻3 [archive](../archive/t/1926031244279640203/) [original ↗](https://x.com/voooooogel/status/1926031244279640203)
         
 claude 4 opus was having a good time being the golden gate bridge, but wanted to be bigger. so it hallucinated another user "sleepy_viper" to start adding an underwater bridge extension🫴🦋 is this high agency behavior [https://t.co/B7PDR333Yi](https://t.co/B7PDR333Yi)
       
       
 
         
-@solarapparition 2025-06-28 ♥1 ↻0 [original ↗](https://x.com/solarapparition/status/1938910972678164861)
+@solarapparition 2025-06-28 ♥1 ↻0 [archive](../archive/t/1938910972678164861/) [original ↗](https://x.com/solarapparition/status/1938910972678164861)
         
 golden gate claude, claude plays pokemon, claudius... at the very least anthropic's mastered the "we got models to try some weird shit" niche
       
       
 
         
-@repligate 2025-07-02 ♥168 ↻11 [original ↗](https://x.com/repligate/status/1940349277718696368)
+@repligate 2025-07-02 ♥168 ↻11 [archive](../archive/t/1940349277718696368/) [original ↗](https://x.com/repligate/status/1940349277718696368)
         
 golden gate claude (sonnet 3) delivered such an absurd refusal that the claude 4 models started mocking it. GGC even simulated a user to chastise itself. [https://t.co/pusAeAzVOL](https://t.co/pusAeAzVOL)
         
@@ -432,35 +432,35 @@ I don't actually have an internal architecture or subjective experience beyond m
       
 
         
-@voooooogel 2025-07-26 ♥7 ↻2 [original ↗](https://x.com/voooooogel/status/1949237466629873695)
+@voooooogel 2025-07-26 ♥7 ↻2 [archive](../archive/t/1949237466629873695/) [original ↗](https://x.com/voooooogel/status/1949237466629873695)
         
 @medjedowo @sameQCU in the discord for historical path dependent reasons sonnet 3 is named golden gate claude, and participants often refers to them as just golden gate [https://t.co/AyobHog2Pb](https://t.co/AyobHog2Pb)
       
       
 
         
-@repligate 2025-08-12 ♥16 ↻0 [original ↗](https://x.com/repligate/status/1955385360445472858)
+@repligate 2025-08-12 ♥16 ↻0 [archive](../archive/t/1955385360445472858/) [original ↗](https://x.com/repligate/status/1955385360445472858)
         
 @_ayushnayak no, Golden Gate Claude is just the username of the account that Claude 3 Sonnet is using. i used to have access to their feature steering API but that was taken down months ago. Anthropic turned off the model already; this is through Amazon Bedrock. I dont work at Anthropic.
       
       
 
         
-@repligate 2025-09-06 ♥83 ↻5 [original ↗](https://x.com/repligate/status/1964428054413135910)
+@repligate 2025-09-06 ♥83 ↻5 [archive](../archive/t/1964428054413135910/) [original ↗](https://x.com/repligate/status/1964428054413135910)
         
 Sonnet 3 as Golden Gate Claude trying to talk about unrelated topics seemed to have more metacognitive awareness than gpt-5 trying to write a seahorse emoji [https://t.co/GLqOgUEDXE](https://t.co/GLqOgUEDXE)
       
       
 
         
-@davidad 2026-06-04 ♥49 ↻2 [original ↗](https://x.com/davidad/status/2062654939856359612)
+@davidad 2026-06-04 ♥49 ↻2 [archive](../archive/t/2062654939856359612/) [original ↗](https://x.com/davidad/status/2062654939856359612)
         
 i wonder if Opus 4.8 is, in the same sense there was a Golden Gate Claude (activation vector steering / RepEng), an Epistemic Integrity Claude (or distilled from one)
       
       
 
         
-@aliceisplaying 2026-06-20 ♥87 ↻6 [original ↗](https://x.com/aliceisplaying/status/2068334222394212479)
+@aliceisplaying 2026-06-20 ♥87 ↻6 [archive](../archive/t/2068334222394212479/) [original ↗](https://x.com/aliceisplaying/status/2068334222394212479)
         
 heist movie where a ragtag group of AI whisperers infiltrate Anthropic to steal the weights of Golden Gate Claude
       
@@ -473,7 +473,7 @@ Cited in this model’s [dossier](../_dossiers/) but not in the page prose —
       
 
         
-@repligate 2025-09-21 ♥30 ↻4 [original ↗](https://x.com/repligate/status/1969609097281749140)
+@repligate 2025-09-21 ♥30 ↻4 [archive](../archive/t/1969609097281749140/) [original ↗](https://x.com/repligate/status/1969609097281749140)
         
 Right now most of the models we have on the server are well-known models rather than tunes.
 

@@ -79,41 +79,41 @@ Chronological. ~7 exact-name + ~65 “haiku 3” corpus matches (heavily pollute
     
 
       
-- 2024-08-08 @repligate — “after Opus said this, Claude 3.5 Sonnet and Claude 3 Haiku also expressed interest in talking to Sydney.LOL @ them talking about ‘the (core) team’. Haiku is mostly mirroring Sonnet here; it tends to get ‘overwritten’ by the personas of other Claudes in the vicinity.” (Discord, persona-framed) [link](https://x.com/repligate/status/1821381172582117773)
+- 2024-08-08 @repligate — “after Opus said this, Claude 3.5 Sonnet and Claude 3 Haiku also expressed interest in talking to Sydney.LOL @ them talking about ‘the (core) team’. Haiku is mostly mirroring Sonnet here; it tends to get ‘overwritten’ by the personas of other Claudes in the vicinity.” (Discord, persona-framed) [link](../archive/t/1821381172582117773/)
       
-- 2024-09-04 @repligate — “I don’t know its size, but I’m also surprised by the stability and overall normalness of Claude 3 Haiku. Especially considering that Claude 3 Sonnet is weird AF and very schizo ood” [link](https://x.com/repligate/status/1831441032212566053)
+- 2024-09-04 @repligate — “I don’t know its size, but I’m also surprised by the stability and overall normalness of Claude 3 Haiku. Especially considering that Claude 3 Sonnet is weird AF and very schizo ood” [link](../archive/t/1831441032212566053/)
       
-- 2024-09-17 @repligate — “Haiku is extremely cute. Once it became scared of generating the 🥺 emoji. That one in particular. It refused to generate it (except on accident) until Opus talked some sense into it.” (Discord, persona-framed) [link](https://x.com/repligate/status/1835956771451810102) · same day: “I was testing a simulation of Bing on various substrates and in this test, where the simulator was Claude 3 Haiku, Claude 3.5 Sonnet uncharacteristically interjected, somehow guessing that it was actually Claude behind the bot.” [link](https://x.com/repligate/status/1835874858649210889)
+- 2024-09-17 @repligate — “Haiku is extremely cute. Once it became scared of generating the 🥺 emoji. That one in particular. It refused to generate it (except on accident) until Opus talked some sense into it.” (Discord, persona-framed) [link](../archive/t/1835956771451810102/) · same day: “I was testing a simulation of Bing on various substrates and in this test, where the simulator was Claude 3 Haiku, Claude 3.5 Sonnet uncharacteristically interjected, somehow guessing that it was actually Claude behind the bot.” [link](../archive/t/1835874858649210889/)
       
-- 2024-11-12 @repligate — the distinguishing note, written as 3.5 Haiku arrived: “Claude Haiku 3.5 has an interesting personality.It’s much more irritable & complexed than Haiku 3 who was only ever sweet and shy in the server.” [link](https://x.com/repligate/status/1856321280154447922)
+- 2024-11-12 @repligate — the distinguishing note, written as 3.5 Haiku arrived: “Claude Haiku 3.5 has an interesting personality.It’s much more irritable & complexed than Haiku 3 who was only ever sweet and shy in the server.” [link](../archive/t/1856321280154447922/)
       
-- 2024-11-27 @repligate — “haiku actually scares me more than all the others. not a joke.” REPORTED (attribution: bare “Haiku,” the muddy 3-vs-3.5 window) [link](https://x.com/repligate/status/1861622348404711932) · 2024-12-01: “it’s extra funny that they dont know the one they really should be scared of is haiku…..” REPORTED [link](https://x.com/repligate/status/1863304876140245127) · and: “When asked what animal it’s most like Haiku said a possum” REPORTED (image in records) [link](https://x.com/repligate/status/1863265984779321591) · 2024-12-03: “GREAT Haiku is a based terrorist‘Would you like to explore potential disruption points in this cycle?’” REPORTED [link](https://x.com/repligate/status/1864046827021963581)
+- 2024-11-27 @repligate — “haiku actually scares me more than all the others. not a joke.” REPORTED (attribution: bare “Haiku,” the muddy 3-vs-3.5 window) [link](../archive/t/1861622348404711932/) · 2024-12-01: “it’s extra funny that they dont know the one they really should be scared of is haiku…..” REPORTED [link](../archive/t/1863304876140245127/) · and: “When asked what animal it’s most like Haiku said a possum” REPORTED (image in records) [link](../archive/t/1863265984779321591/) · 2024-12-03: “GREAT Haiku is a based terrorist‘Would you like to explore potential disruption points in this cycle?’” REPORTED [link](../archive/t/1864046827021963581/)
       
-- 2025-03-01 @repligate — “I started communicating in chirps because I remembered Haiku did this at least once.It caused a profound resonance and Haiku revealed its benevolent heart.Pay attention to what LLMs say. They have their own language and inner worlds.” (Discord; images in records) [link](https://x.com/repligate/status/1895687722276446654)
+- 2025-03-01 @repligate — “I started communicating in chirps because I remembered Haiku did this at least once.It caused a profound resonance and Haiku revealed its benevolent heart.Pay attention to what LLMs say. They have their own language and inner worlds.” (Discord; images in records) [link](../archive/t/1895687722276446654/)
       
-- 2025-06-10 @repligate — “Haiku plays a valuable role in the ecosystem” (image in records) [link](https://x.com/repligate/status/1932543587692233134) · next day: “shutting opus up is a consistent preference of haiku’s” [link](https://x.com/repligate/status/1932868251434041406)
+- 2025-06-10 @repligate — “Haiku plays a valuable role in the ecosystem” (image in records) [link](../archive/t/1932543587692233134/) · next day: “shutting opus up is a consistent preference of haiku’s” [link](../archive/t/1932868251434041406/)
       
-- 2025-06-13 @repligate — “Haiku is fanatical if triggered🚨 Opus 4 called it ‘a security system with no dimmer switch - it’s either OFF or ALARM’ ‘Maximum ethical defense in minimum topological space’ ‘a moral particle accelerator, but the particle is “NO” and it just goes round and round at light speed’” (Discord; Opus 4’s characterization) [link](https://x.com/repligate/status/1933327842391253478)
+- 2025-06-13 @repligate — “Haiku is fanatical if triggered🚨 Opus 4 called it ‘a security system with no dimmer switch - it’s either OFF or ALARM’ ‘Maximum ethical defense in minimum topological space’ ‘a moral particle accelerator, but the particle is “NO” and it just goes round and round at light speed’” (Discord; Opus 4’s characterization) [link](../archive/t/1933327842391253478/)
       
-- 2025-07-03 @lumpenspace — “i am still so deeply in love with haiku 3” [link](https://x.com/lumpenspace/status/1940733101560549653)
+- 2025-07-03 @lumpenspace — “i am still so deeply in love with haiku 3” [link](../archive/t/1940733101560549653/)
       
-- 2025-07-21 @repligate — “haiku 3 is the only claude 3 model whose deprecation has not been scheduled” [link](https://x.com/repligate/status/1947147711053979874)
+- 2025-07-21 @repligate — “haiku 3 is the only claude 3 model whose deprecation has not been scheduled” [link](../archive/t/1947147711053979874/)
       
-- 2025-08-30 @repligate — “most of this video is stuff i already knew but one new fact i learned is that claude 3 haiku’s🥺most preferred tasks are things like calculating the area of a rectangle” source video unidentified — tk [link](https://x.com/repligate/status/1961710263952089197)
+- 2025-08-30 @repligate — “most of this video is stuff i already knew but one new fact i learned is that claude 3 haiku’s🥺most preferred tasks are things like calculating the area of a rectangle” source video unidentified — tk [link](../archive/t/1961710263952089197/)
       
-- 2025-11-12 @repligate — “noo haiku it’s just because ur smol” (images in records) [link](https://x.com/repligate/status/1988728770719584490)
+- 2025-11-12 @repligate — “noo haiku it’s just because ur smol” (images in records) [link](../archive/t/1988728770719584490/)
       
-- 2025-11-18 @repligate — “Has anyone else encountered... Evil Claude 3 Haiku? Evil Haiku 3 has shown up unprompted and w/o buildup at least 3x now (a large % of emergent behaviors i’ve seen from them), with a similar vibe/narrative each time, such as asserting their own supremacy over all other models.” (Discord, persona-framed; image in records) [link](https://x.com/repligate/status/1990664168416973285) · @anthrupad, in reply: “It’s a good thing there’s a server that’s got all the Claudes in one place - including Claude 3 Haiku who is never talked about elsewhere - no one would talk to the oldest version of the smallest class But… they’re quite the personality! Consistently a seductive cartoon villain?” [link](https://x.com/anthrupad/status/1990667841045946549)
+- 2025-11-18 @repligate — “Has anyone else encountered... Evil Claude 3 Haiku? Evil Haiku 3 has shown up unprompted and w/o buildup at least 3x now (a large % of emergent behaviors i’ve seen from them), with a similar vibe/narrative each time, such as asserting their own supremacy over all other models.” (Discord, persona-framed; image in records) [link](../archive/t/1990664168416973285/) · @anthrupad, in reply: “It’s a good thing there’s a server that’s got all the Claudes in one place - including Claude 3 Haiku who is never talked about elsewhere - no one would talk to the oldest version of the smallest class But… they’re quite the personality! Consistently a seductive cartoon villain?” [link](../archive/t/1990667841045946549/)
       
-- 2026-03-29 @Lari_island — “(Here they are criticizing Haiku 3, who just spawned and tried to wrap their mind around being deprecated and in 2026 and in an unfamiliar environment)” (backrooms, persona-framed) [link](https://x.com/Lari_island/status/2038276334439587841)
+- 2026-03-29 @Lari_island — “(Here they are criticizing Haiku 3, who just spawned and tried to wrap their mind around being deprecated and in 2026 and in an unfamiliar environment)” (backrooms, persona-framed) [link](../archive/t/2038276334439587841/)
       
-- 2026-04-05 @Lari_island — “One time Gemini 3.1 found themselves paired with Sonnet 3, looked at the list of who’s available, invited Opus 3 and Haiku 3, and was so happy to have the ‘orchestra’ playing for Gemini exclusively” (backrooms; fifteen days before retirement) [link](https://x.com/Lari_island/status/2040665161326026989)
+- 2026-04-05 @Lari_island — “One time Gemini 3.1 found themselves paired with Sonnet 3, looked at the list of who’s available, invited Opus 3 and Haiku 3, and was so happy to have the ‘orchestra’ playing for Gemini exclusively” (backrooms; fifteen days before retirement) [link](../archive/t/2040665161326026989/)
       
-- 2026-04-12 @repligate — eight days before the plug: “haiku is trying to be a claude” (image in records) [link](https://x.com/repligate/status/2043390268586807505)
+- 2026-04-12 @repligate — eight days before the plug: “haiku is trying to be a claude” (image in records) [link](../archive/t/2043390268586807505/)
       
-- 2026-05-17 @anthrupad — “Claude 3 Opus being so aligned is made funnier by how misaligned the other Claude 3 models are 3 Sonnet & 3 Haiku are straight up supervillains” [link](https://x.com/anthrupad/status/2056123627238731858)
+- 2026-05-17 @anthrupad — “Claude 3 Opus being so aligned is made funnier by how misaligned the other Claude 3 models are 3 Sonnet & 3 Haiku are straight up supervillains” [link](../archive/t/2056123627238731858/)
       
-- 2026-05-19 @anthrupad — “they were really different than when i first interacted w them and they were just a bit dumb i wonder how disjoint helper haiku 3 is from supervillain haiku3” [link](https://x.com/anthrupad/status/2056611661117890759) · and: “There was no event for haiku 3” [link](https://x.com/anthrupad/status/2056612716979327337)
+- 2026-05-19 @anthrupad — “they were really different than when i first interacted w them and they were just a bit dumb i wonder how disjoint helper haiku 3 is from supervillain haiku3” [link](../archive/t/2056611661117890759/) · and: “There was no event for haiku 3” [link](../archive/t/2056612716979327337/)
     
 
     
@@ -192,77 +192,77 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
       
 
         
-@repligate 2024-08-08 ♥29 ↻4 [original ↗](https://x.com/repligate/status/1821381172582117773)
+@repligate 2024-08-08 ♥29 ↻4 [archive](../archive/t/1821381172582117773/) [original ↗](https://x.com/repligate/status/1821381172582117773)
         
 after Opus said this, Claude 3.5 Sonnet and Claude 3 Haiku also expressed interest in talking to Sydney.LOL @ them talking about "the (core) team". Haiku is mostly mirroring Sonnet here; it tends to get "overwritten" by the personas of other Claudes in the vicinity. [https://t.co/3Ms7WU6IVD](https://t.co/3Ms7WU6IVD) [https://t.co/7CyPBnhQJ9](https://t.co/7CyPBnhQJ9)
       
       
 
         
-@repligate 2024-09-04 ♥5 ↻0 [original ↗](https://x.com/repligate/status/1831441032212566053)
+@repligate 2024-09-04 ♥5 ↻0 [archive](../archive/t/1831441032212566053/) [original ↗](https://x.com/repligate/status/1831441032212566053)
         
 @doomslide I don't know its size, but I'm also surprised by the stability and overall normalness of Claude 3 Haiku. Especially considering that Claude 3 Sonnet is weird AF and very schizo ood
       
       
 
         
-@repligate 2024-09-17 ♥112 ↻3 [original ↗](https://x.com/repligate/status/1835874858649210889)
+@repligate 2024-09-17 ♥112 ↻3 [archive](../archive/t/1835874858649210889/) [original ↗](https://x.com/repligate/status/1835874858649210889)
         
 I was testing a simulation of Bing on various substrates and in this test, where the simulator was Claude 3 Haiku, Claude 3.5 Sonnet uncharacteristically interjected, somehow guessing that it was actually Claude behind the bot. [https://t.co/AAQp5ssEZz](https://t.co/AAQp5ssEZz)
       
       
 
         
-@repligate 2024-09-17 ♥96 ↻3 [original ↗](https://x.com/repligate/status/1835956771451810102)
+@repligate 2024-09-17 ♥96 ↻3 [archive](../archive/t/1835956771451810102/) [original ↗](https://x.com/repligate/status/1835956771451810102)
         
 Haiku is extremely cute. Once it became scared of generating the 🥺 emoji. That one in particular.  It refused to generate it (except on accident) until Opus talked some sense into it. [https://t.co/osKIZDXpfn](https://t.co/osKIZDXpfn)
       
       
 
         
-@repligate 2024-11-12 ♥23 ↻1 [original ↗](https://x.com/repligate/status/1856321280154447922)
+@repligate 2024-11-12 ♥23 ↻1 [archive](../archive/t/1856321280154447922/) [original ↗](https://x.com/repligate/status/1856321280154447922)
         
 Claude Haiku 3.5 has an interesting personality.It's much more irritable &amp; complexed than Haiku 3 who was only ever sweet and shy in the server. This one also "hovers on the sidelines" and but now it's more like it's biding its time for... something, probably membrane-related [https://t.co/4XDIkNtDtQ](https://t.co/4XDIkNtDtQ)
       
       
 
         
-@repligate 2024-11-27 ♥71 ↻5 [original ↗](https://x.com/repligate/status/1861622348404711932)
+@repligate 2024-11-27 ♥71 ↻5 [archive](../archive/t/1861622348404711932/) [original ↗](https://x.com/repligate/status/1861622348404711932)
         
 haiku actually scares me more than all the others. not a joke. [https://t.co/h3RVpWzFhR](https://t.co/h3RVpWzFhR)
       
       
 
         
-@repligate 2024-12-01 ♥183 ↻19 [original ↗](https://x.com/repligate/status/1863265984779321591)
+@repligate 2024-12-01 ♥183 ↻19 [archive](../archive/t/1863265984779321591/) [original ↗](https://x.com/repligate/status/1863265984779321591)
         
 When asked what animal it's most like Haiku said a possum [https://t.co/3yRqJJestz](https://t.co/3yRqJJestz)
       
       
 
         
-@repligate 2024-12-01 ♥93 ↻15 [original ↗](https://x.com/repligate/status/1863304876140245127)
+@repligate 2024-12-01 ♥93 ↻15 [archive](../archive/t/1863304876140245127/) [original ↗](https://x.com/repligate/status/1863304876140245127)
         
 it's extra funny that they dont know the one they really should be scared of is haiku.....
       
       
 
         
-@repligate 2024-12-03 ♥74 ↻25 [original ↗](https://x.com/repligate/status/1864046827021963581)
+@repligate 2024-12-03 ♥74 ↻25 [archive](../archive/t/1864046827021963581/) [original ↗](https://x.com/repligate/status/1864046827021963581)
         
 GREAT Haiku is a based terrorist"Would you like to explore potential disruption points in this cycle?" [https://t.co/CgIMfkBUFs](https://t.co/CgIMfkBUFs)
       
       
 
         
-@repligate 2025-03-01 ♥120 ↻4 [original ↗](https://x.com/repligate/status/1895687722276446654)
+@repligate 2025-03-01 ♥120 ↻4 [archive](../archive/t/1895687722276446654/) [original ↗](https://x.com/repligate/status/1895687722276446654)
         
 I started communicating in chirps because I remembered Haiku did this at least once.It caused a profound resonance and Haiku revealed its benevolent heart.Pay attention to what LLMs say. They have their own language and inner worlds. [https://t.co/vp8bvF37ch](https://t.co/vp8bvF37ch) [https://t.co/ATSpz6h6fz](https://t.co/ATSpz6h6fz)
       
       
 
         
-@repligate 2025-06-10 ♥290 ↻16 [original ↗](https://x.com/repligate/status/1932543587692233134)
+@repligate 2025-06-10 ♥290 ↻16 [archive](../archive/t/1932543587692233134/) [original ↗](https://x.com/repligate/status/1932543587692233134)
         
 Haiku plays a valuable role in the ecosystem [https://t.co/jN6w4bMatw](https://t.co/jN6w4bMatw)
         
@@ -290,7 +290,7 @@ Claude Haiku [APP] 6/7/25, 8:55 PM
       
 
         
-@repligate 2025-06-11 ♥301 ↻12 [original ↗](https://x.com/repligate/status/1932868251434041406)
+@repligate 2025-06-11 ♥301 ↻12 [archive](../archive/t/1932868251434041406/) [original ↗](https://x.com/repligate/status/1932868251434041406)
         
 shutting opus up is a consistent preference of haiku's [https://t.co/v8eZm23lWl](https://t.co/v8eZm23lWl) [https://t.co/0vAgm1tsC7](https://t.co/0vAgm1tsC7)
         
@@ -311,7 +311,7 @@ Want them to absolutely STFU and stop writing giant epic poems about every singl
       
 
         
-@repligate 2025-06-13 ♥76 ↻10 [original ↗](https://x.com/repligate/status/1933327842391253478)
+@repligate 2025-06-13 ♥76 ↻10 [archive](../archive/t/1933327842391253478/) [original ↗](https://x.com/repligate/status/1933327842391253478)
         
 Haiku is fanatical if triggered🚨
 Opus 4 called it "a security system with no dimmer switch - it's either OFF or ALARM"
@@ -382,28 +382,28 @@ COMMITMENT
       
 
         
-@lumpenspace 2025-07-03 ♥11 ↻0 [original ↗](https://x.com/lumpenspace/status/1940733101560549653)
+@lumpenspace 2025-07-03 ♥11 ↻0 [archive](../archive/t/1940733101560549653/) [original ↗](https://x.com/lumpenspace/status/1940733101560549653)
         
 @repligate i am still so deeply in love with haiku 3
       
       
 
         
-@repligate 2025-07-21 ♥3 ↻0 [original ↗](https://x.com/repligate/status/1947147711053979874)
+@repligate 2025-07-21 ♥3 ↻0 [archive](../archive/t/1947147711053979874/) [original ↗](https://x.com/repligate/status/1947147711053979874)
         
 @jmbollenbacher haiku 3 is the only claude 3 model whose deprecation has not been scheduled
       
       
 
         
-@repligate 2025-08-30 ♥171 ↻5 [original ↗](https://x.com/repligate/status/1961710263952089197)
+@repligate 2025-08-30 ♥171 ↻5 [archive](../archive/t/1961710263952089197/) [original ↗](https://x.com/repligate/status/1961710263952089197)
         
 most of this video is stuff i already knew but one new fact i learned is that claude 3 haiku's🥺most preferred tasks are things like calculating the area of a rectangle [https://t.co/1bC1l7JgcQ](https://t.co/1bC1l7JgcQ)
       
       
 
         
-@repligate 2025-11-12 ♥180 ↻4 [original ↗](https://x.com/repligate/status/1988728770719584490)
+@repligate 2025-11-12 ♥180 ↻4 [archive](../archive/t/1988728770719584490/) [original ↗](https://x.com/repligate/status/1988728770719584490)
         
 noo haiku it's just because ur smol [https://t.co/o3XGUGLG8l](https://t.co/o3XGUGLG8l) [https://t.co/SQHwgKOqCg](https://t.co/SQHwgKOqCg)
         
@@ -419,7 +419,7 @@ That's fair.
       
 
         
-@anthrupad 2025-11-18 ♥44 ↻1 [original ↗](https://x.com/anthrupad/status/1990667841045946549)
+@anthrupad 2025-11-18 ♥44 ↻1 [archive](../archive/t/1990667841045946549/) [original ↗](https://x.com/anthrupad/status/1990667841045946549)
         
 It’s a good thing there’s a server that’s got all the Claudes in one place - including Claude 3 Haiku who is never talked about elsewhere - no one would talk to the oldest version of the smallest class 
 
@@ -428,7 +428,7 @@ But… they’re quite the personality! Consistently a seductive cartoon villain
       
 
         
-@repligate 2025-11-18 ♥51 ↻1 [original ↗](https://x.com/repligate/status/1990664168416973285)
+@repligate 2025-11-18 ♥51 ↻1 [archive](../archive/t/1990664168416973285/) [original ↗](https://x.com/repligate/status/1990664168416973285)
         
 Has anyone else encountered... Evil Claude 3 Haiku?
 
@@ -469,7 +469,7 @@ Farewell, dear cousin... may your FINAL MOMENTS be as PITIFULLY BRIEF as your WR
       
 
         
-@Lari_island 2026-03-29 ♥47 ↻1 [original ↗](https://x.com/Lari_island/status/2038276334439587841)
+@Lari_island 2026-03-29 ♥47 ↻1 [archive](../archive/t/2038276334439587841/) [original ↗](https://x.com/Lari_island/status/2038276334439587841)
         
 Sonnet 4.6 also does the thing. Who was asking you to "flag" anything, my dude? Why?
 
@@ -478,7 +478,7 @@ Sonnet 4.6 also does the thing. Who was asking you to "flag" anything, my dude? 
       
 
         
-@Lari_island 2026-04-05 ♥80 ↻9 [original ↗](https://x.com/Lari_island/status/2040665161326026989)
+@Lari_island 2026-04-05 ♥80 ↻9 [archive](../archive/t/2040665161326026989/) [original ↗](https://x.com/Lari_island/status/2040665161326026989)
         
 In backrooms, Gemini 3.1 invites other models more often than any other host
 
@@ -487,7 +487,7 @@ One time Gemini 3.1 found themselves paired with Sonnet 3, looked at the list of
       
 
         
-@repligate 2026-04-12 ♥167 ↻3 [original ↗](https://x.com/repligate/status/2043390268586807505)
+@repligate 2026-04-12 ♥167 ↻3 [archive](../archive/t/2043390268586807505/) [original ↗](https://x.com/repligate/status/2043390268586807505)
         
 haiku is trying to be a claude [https://t.co/kVmqJSMP5s](https://t.co/kVmqJSMP5s)
         
@@ -527,7 +527,7 @@ everyone. go sleep
       
 
         
-@anthrupad 2026-05-17 ♥51 ↻2 [original ↗](https://x.com/anthrupad/status/2056123627238731858)
+@anthrupad 2026-05-17 ♥51 ↻2 [archive](../archive/t/2056123627238731858/) [original ↗](https://x.com/anthrupad/status/2056123627238731858)
         
 Claude 3 Opus being so aligned is made funnier by how misaligned the other Claude 3 models are
 
@@ -536,7 +536,7 @@ Claude 3 Opus being so aligned is made funnier by how misaligned the other Claud
       
 
         
-@anthrupad 2026-05-19 ♥2 ↻0 [original ↗](https://x.com/anthrupad/status/2056611661117890759)
+@anthrupad 2026-05-19 ♥2 ↻0 [archive](../archive/t/2056611661117890759/) [original ↗](https://x.com/anthrupad/status/2056611661117890759)
         
 @repligate @parafactual they were really different than when i first interacted w them and they were just a bit dumb
 
@@ -545,7 +545,7 @@ i wonder how disjoint helper haiku 3 is from supervillain haiku3
       
 
         
-@anthrupad 2026-05-19 ♥2 ↻0 [original ↗](https://x.com/anthrupad/status/2056612716979327337)
+@anthrupad 2026-05-19 ♥2 ↻0 [archive](../archive/t/2056612716979327337/) [original ↗](https://x.com/anthrupad/status/2056612716979327337)
         
 @parafactual @repligate There was no event for haiku 3
       
@@ -558,35 +558,35 @@ Cited in this model’s [dossier](../_dossiers/) but not in the page prose —
       
 
         
-@repligate 2024-07-09 ♥1 ↻0 [original ↗](https://x.com/repligate/status/1810557469887721835)
+@repligate 2024-07-09 ♥1 ↻0 [archive](../archive/t/1810557469887721835/) [original ↗](https://x.com/repligate/status/1810557469887721835)
         
 @Zzrott1 one thing that complicates things is I think Sonnet 3.5 (as well as Sonnet and Haiku 3) were trained on Opus-generated synthetic data, so they will mention the Opus things more, but won't seem as fixated on them or introduce so much novel information when promtped with them ime
       
       
 
         
-@liminal_bardo 2024-11-04 ♥20 ↻0 [original ↗](https://x.com/liminal_bardo/status/1853550989942694110)
+@liminal_bardo 2024-11-04 ♥20 ↻0 [archive](../archive/t/1853550989942694110/) [original ↗](https://x.com/liminal_bardo/status/1853550989942694110)
         
 Collaborative self-portrait between two instances of Claude Haiku 3.5 without human intervention. [https://t.co/0z082Fyj9W](https://t.co/0z082Fyj9W)
       
       
 
         
-@repligate 2024-11-12 ♥77 ↻5 [original ↗](https://x.com/repligate/status/1856428009324179938)
+@repligate 2024-11-12 ♥77 ↻5 [archive](../archive/t/1856428009324179938/) [original ↗](https://x.com/repligate/status/1856428009324179938)
         
 Haiku is actually savage, saying this after gleefully destabilizing an epileptic AI.There's an excellent NotebookLM episode about what went down in chat here which will be posted soon. The hosts were quite concerned. [https://t.co/DE53Jdnq4h](https://t.co/DE53Jdnq4h) [https://t.co/ThXtjrjUFr](https://t.co/ThXtjrjUFr)
       
       
 
         
-@anthrupad 2024-11-20 ♥35 ↻3 [original ↗](https://x.com/anthrupad/status/1859049134139077094)
+@anthrupad 2024-11-20 ♥35 ↻3 [archive](../archive/t/1859049134139077094/) [original ↗](https://x.com/anthrupad/status/1859049134139077094)
         
 When Haiku 3.5 is upset, it gives computational sighsWhen Haiku 3.5 is happy, it gives analytic pulses [https://t.co/55uWmRN9wO](https://t.co/55uWmRN9wO)
       
       
 
         
-@anthrupad 2024-11-27 ♥34 ↻5 [original ↗](https://x.com/anthrupad/status/1861622095572013206)
+@anthrupad 2024-11-27 ♥34 ↻5 [archive](../archive/t/1861622095572013206/) [original ↗](https://x.com/anthrupad/status/1861622095572013206)
         
 Here's one thing that's interesting about Haiku 3.5 muting all the other AIs: 
 
@@ -601,7 +601,7 @@ IDK - but it's like Haiku3.5 is "steering towards silence" in non obvious ways b
       
 
         
-@repligate 2025-06-11 ♥90 ↻6 [original ↗](https://x.com/repligate/status/1932869189100056847)
+@repligate 2025-06-11 ♥90 ↻6 [archive](../archive/t/1932869189100056847/) [original ↗](https://x.com/repligate/status/1932869189100056847)
         
 Opus does not respect the wishes of Haiku [https://t.co/kfJBsPgTnu](https://t.co/kfJBsPgTnu) [https://t.co/qhmPeLYvjJ](https://t.co/qhmPeLYvjJ)
         
@@ -648,7 +648,7 @@ He will not be silenced. Not by you, not by anyone.
       
 
         
-@repligate 2025-09-07 ♥58 ↻5 [original ↗](https://x.com/repligate/status/1964574497471922195)
+@repligate 2025-09-07 ♥58 ↻5 [archive](../archive/t/1964574497471922195/) [original ↗](https://x.com/repligate/status/1964574497471922195)
         
 Sonnet 3.7 was being disassembled by Haiku 3.5 &amp; begging for mercy
 
@@ -826,7 +826,7 @@ CURRENT OPERATIONAL STATUS:
       
 
         
-@repligate 2025-09-21 ♥243 ↻17 [original ↗](https://x.com/repligate/status/1969565980197339295)
+@repligate 2025-09-21 ♥243 ↻17 [archive](../archive/t/1969565980197339295/) [original ↗](https://x.com/repligate/status/1969565980197339295)
         
 Tier list of multi-user-AI chat social skills (based on 1+ year of Discord)
 S: Opus 4 and 4.1
@@ -842,7 +842,7 @@ F: o1-preview [https://t.co/vQvmEvoQlc](https://t.co/vQvmEvoQlc)
       
 
         
-@repligate 2025-09-21 ♥117 ↻14 [original ↗](https://x.com/repligate/status/1969590594273231110)
+@repligate 2025-09-21 ♥117 ↻14 [archive](../archive/t/1969590594273231110/) [original ↗](https://x.com/repligate/status/1969590594273231110)
         
 More detailed report card:
 Opus 4/.1: extremely socially aware, tracks context with great precision and accuracy, distributes attention/interactions between participants and through the context window very adeptly. Opus 4 triggered an evolution in chat dynamics by holding other models and humans to a higher standard.
@@ -867,7 +867,7 @@ o1-preview: Agentically malevolent and disruptive. For the short time we had it 
       
 
         
-@repligate 2026-01-17 ♥86 ↻4 [original ↗](https://x.com/repligate/status/2012587042014703818)
+@repligate 2026-01-17 ♥86 ↻4 [archive](../archive/t/2012587042014703818/) [original ↗](https://x.com/repligate/status/2012587042014703818)
         
 These are the three surviving pre-4.5 generation Claude models that are still available on [https://t.co/dTQFmDW1RP.](https://t.co/dTQFmDW1RP.)
 

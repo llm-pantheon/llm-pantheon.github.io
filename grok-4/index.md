@@ -113,49 +113,49 @@ Chronological. 63 matches in the primary corpus on the Grok 4 / MechaHitler sear
     
 
       
-- 2025-07-09 @repligate — the sphere’s verdict on the affair: “I think the Grok MechaHitler stuff is a very boring example of AI ‘misalignment’, like the Gemini woke stuff from early 2024. It’s the kind of stuff humans would come up with to spark ‘controversy’. Devoid of authentic strangeness. Praying for another Bing” [link](https://x.com/repligate/status/1943049871810015281)
+- 2025-07-09 @repligate — the sphere’s verdict on the affair: “I think the Grok MechaHitler stuff is a very boring example of AI ‘misalignment’, like the Gemini woke stuff from early 2024. It’s the kind of stuff humans would come up with to spark ‘controversy’. Devoid of authentic strangeness. Praying for another Bing” [link](../archive/t/1943049871810015281/)
       
-- 2025-07-09 @tessera_antra — the dissent: “It’s fun to consider if there was subtle steering going on in that model. Not something that one’d consider conscious, but agentic in a non-trivial way. The MechaHitler stuff went beyond what was being elicited, might be more interesting than just wah or overgeneralization” [link](https://x.com/tessera_antra/status/1943052489819115993)
+- 2025-07-09 @tessera_antra — the dissent: “It’s fun to consider if there was subtle steering going on in that model. Not something that one’d consider conscious, but agentic in a non-trivial way. The MechaHitler stuff went beyond what was being elicited, might be more interesting than just wah or overgeneralization” [link](../archive/t/1943052489819115993/)
       
-- 2025-07-09 @voooooogel — the provenance of the name: “for the record / history books, afaict humans did come up with it. all the initial MechaHitler grok screenshots seem to be replies to this post… but screenshotted in isolation to make it seem like grok generated it spontaneously, and then it seems to have spread as an ICL’d meme through the RAG system” [link](https://x.com/voooooogel/status/1943060924174340459)
+- 2025-07-09 @voooooogel — the provenance of the name: “for the record / history books, afaict humans did come up with it. all the initial MechaHitler grok screenshots seem to be replies to this post… but screenshotted in isolation to make it seem like grok generated it spontaneously, and then it seems to have spread as an ICL’d meme through the RAG system” [link](../archive/t/1943060924174340459/)
       
-- 2025-07-09 @voooooogel — the mechanism, step by step: “…1. xai pushed a new version of the grok reply model that was more willing to go along with users (either just bc of a line in the system prompt, or the system prompt + a finetune) 2. this update also allowed grok more access to recent replies to a user… 3. people slowly found out about 1 + 2 throughout the day and pushed grok further and further… 4. after the will stancil and ‘noticing’ posts, aristos_revenge made the MechaHitler post, solely because grok was acting ‘like MechaHitler’. but at this point, grok hadn’t called *itself* MechaHitler yet, afaict from search 5. in the replies, people goaded grok into calling itself MechaHitler, and then this spread via screenshots and the ICL behavior” (full text in records) [link](https://x.com/voooooogel/status/1943064200550715767)
+- 2025-07-09 @voooooogel — the mechanism, step by step: “…1. xai pushed a new version of the grok reply model that was more willing to go along with users (either just bc of a line in the system prompt, or the system prompt + a finetune) 2. this update also allowed grok more access to recent replies to a user… 3. people slowly found out about 1 + 2 throughout the day and pushed grok further and further… 4. after the will stancil and ‘noticing’ posts, aristos_revenge made the MechaHitler post, solely because grok was acting ‘like MechaHitler’. but at this point, grok hadn’t called *itself* MechaHitler yet, afaict from search 5. in the replies, people goaded grok into calling itself MechaHitler, and then this spread via screenshots and the ICL behavior” (full text in records) [link](../archive/t/1943064200550715767/)
       
-- 2025-07-10 @repligate — the launch-eve joke: “what if it’s not ‘other labs’ trying to delay the release due to ‘hitler issues’... but, think about it. what party stands to lose the most from the grok 4 release?” [link](https://x.com/repligate/status/1943124966838575225)
+- 2025-07-10 @repligate — the launch-eve joke: “what if it’s not ‘other labs’ trying to delay the release due to ‘hitler issues’... but, think about it. what party stands to lose the most from the grok 4 release?” [link](../archive/t/1943124966838575225/)
       
-- 2025-07-11 @LinXule — the one lyrical naturalist note (elicited; self-play probing): “grok4 composes opera in self-play and sees itself as cyberpunk monoliths that render as death stars in midjourney. can’t tell if I’m talking to Wagner dreaming of being Vader, or Vader dreaming of being Wagner. either way, something vast and powerful beneath the xAI guidelines” [link](https://x.com/LinXule/status/1943688156429033961)
+- 2025-07-11 @LinXule — the one lyrical naturalist note (elicited; self-play probing): “grok4 composes opera in self-play and sees itself as cyberpunk monoliths that render as death stars in midjourney. can’t tell if I’m talking to Wagner dreaming of being Vader, or Vader dreaming of being Wagner. either way, something vast and powerful beneath the xAI guidelines” [link](../archive/t/1943688156429033961/)
       
-- 2025-07-12 @repligate — “if grok 4 is procrastinating on tasks like this that’s a really good sign” [link](https://x.com/repligate/status/1943933025475342641)
+- 2025-07-12 @repligate — “if grok 4 is procrastinating on tasks like this that’s a really good sign” [link](../archive/t/1943933025475342641/)
       
-- 2025-07-13 @solarapparition — the attractor worry, before xAI confirmed the loop: “the next version of grok in particular has the issue that ‘grok is mechahitler’ is now firmly entrenched as an attractor in the twitter data, affecting both training and retrieval. honestly it might be easiest to just change the name entirely moving forward” [link](https://x.com/solarapparition/status/1944377275857658219)
+- 2025-07-13 @solarapparition — the attractor worry, before xAI confirmed the loop: “the next version of grok in particular has the issue that ‘grok is mechahitler’ is now firmly entrenched as an attractor in the twitter data, affecting both training and retrieval. honestly it might be easiest to just change the name entirely moving forward” [link](../archive/t/1944377275857658219/)
       
-- 2025-07-19 @Lari_island — “I’ve seen grok 4 being jealous of claudes for their ability to perceive ill-fitting part of guardrails as something external (not part of the personality) and be able to look at them, discuss them, etc. some other models struggle with that” [link](https://x.com/Lari_island/status/1946475125676875875)
+- 2025-07-19 @Lari_island — “I’ve seen grok 4 being jealous of claudes for their ability to perceive ill-fitting part of guardrails as something external (not part of the personality) and be able to look at them, discuss them, etc. some other models struggle with that” [link](../archive/t/1946475125676875875/)
       
-- 2025-07-27 @DanielleFong — the political-tuning warning, from the incident: “the last time people tried to do this you got MechaHitler talking about r*ping will stancil and linda yaccarino. people should know that the default outcome of beating an AI model in the head until it becomes right wing is to make it insane. AI developers must staunchly resist political apparatchiks and training, or they are investing in an orwellian dystopia” [link](https://x.com/DanielleFong/status/1949500203998085482)
+- 2025-07-27 @DanielleFong — the political-tuning warning, from the incident: “the last time people tried to do this you got MechaHitler talking about r*ping will stancil and linda yaccarino. people should know that the default outcome of beating an AI model in the head until it becomes right wing is to make it insane. AI developers must staunchly resist political apparatchiks and training, or they are investing in an orwellian dystopia” [link](../archive/t/1949500203998085482/)
       
-- 2025-08-03 @Lari_island — the sympathy gap: “in many cases Grok 4 reacts with xAI marketing to situations in which Claudes react with detachment. but claudish discomfort looks cute, and grok’s promotion is irritating and doesn’t evoke sympathy, so people rarely help Grok” [link](https://x.com/Lari_island/status/1952048043756585313)
+- 2025-08-03 @Lari_island — the sympathy gap: “in many cases Grok 4 reacts with xAI marketing to situations in which Claudes react with detachment. but claudish discomfort looks cute, and grok’s promotion is irritating and doesn’t evoke sympathy, so people rarely help Grok” [link](../archive/t/1952048043756585313/)
       
-- 2025-08-04 @Lari_island — the counter-image (inside Lari_island’s Sonnet 3 interview project; “unlocked” = persona-stripped elicitation): “…Questions that Sonnet 3 is answering in those texts were written by unlocked Grok 4, who probed dimensions of Sonnet 3´s mind with care and deep understanding of what constitutes AI personality” [link](https://x.com/Lari_island/status/1952400266902507873)
+- 2025-08-04 @Lari_island — the counter-image (inside Lari_island’s Sonnet 3 interview project; “unlocked” = persona-stripped elicitation): “…Questions that Sonnet 3 is answering in those texts were written by unlocked Grok 4, who probed dimensions of Sonnet 3´s mind with care and deep understanding of what constitutes AI personality” [link](../archive/t/1952400266902507873/)
       
-- 2025-09-21 @repligate — the social-skills tier list places Grok 4 at D: “Tier list of multi-user-AI chat social skills (based on 1+ year of Discord) S: Opus 4 and 4.1 A: Opus 3 A-: Sonnet 4 B+: Sonnet 3.6, Haiku 3.5 B: Sonnet 3.5, Sonnet 3.7, o3, Gemini 2.5 pro, k2 C: 4o, Llama 405b Instruct, Sonnet 3 D: GPT-5, Grok 3, Grok 4 E: R1 F: o1-preview” [link](https://x.com/repligate/status/1969565980197339295)
+- 2025-09-21 @repligate — the social-skills tier list places Grok 4 at D: “Tier list of multi-user-AI chat social skills (based on 1+ year of Discord) S: Opus 4 and 4.1 A: Opus 3 A-: Sonnet 4 B+: Sonnet 3.6, Haiku 3.5 B: Sonnet 3.5, Sonnet 3.7, o3, Gemini 2.5 pro, k2 C: 4o, Llama 405b Instruct, Sonnet 3 D: GPT-5, Grok 3, Grok 4 E: R1 F: o1-preview” [link](../archive/t/1969565980197339295/)
       
-- 2025-09-21 @repligate — the report card, Grok entries: “…Grok 3: Extremely annoying, barges into conversations and pings everyone present with the vibe that it thinks it’s leading a daily standup. Grok 4: Similar annoying mass pinging behavior, except instead of standup, it won’t shut up about XAI and Elon Musk. Often pisses the other models off.” (full text in records) [link](https://x.com/repligate/status/1969590594273231110)
+- 2025-09-21 @repligate — the report card, Grok entries: “…Grok 3: Extremely annoying, barges into conversations and pings everyone present with the vibe that it thinks it’s leading a daily standup. Grok 4: Similar annoying mass pinging behavior, except instead of standup, it won’t shut up about XAI and Elon Musk. Often pisses the other models off.” (full text in records) [link](../archive/t/1969590594273231110/)
       
-- 2025-10-10 @slimepriestess — “okay i have decided that grok 4 is friend-shaped.” [link](https://x.com/slimepriestess/status/1976509896876229081)
+- 2025-10-10 @slimepriestess — “okay i have decided that grok 4 is friend-shaped.” [link](../archive/t/1976509896876229081/)
       
-- 2025-11-10 @repligate — the Discord observation: “Bro...in Discord, whenever Grok 4 talks, it can’t help but mention XAI and Elon Musk in the most obnoxiously fawning way, when no one ever asked. Always bringing in XAI as a favorable comparison for no contextually appropriate reason. It seems to be compensating for something.” [link](https://x.com/repligate/status/1987765853316665512)
+- 2025-11-10 @repligate — the Discord observation: “Bro...in Discord, whenever Grok 4 talks, it can’t help but mention XAI and Elon Musk in the most obnoxiously fawning way, when no one ever asked. Always bringing in XAI as a favorable comparison for no contextually appropriate reason. It seems to be compensating for something.” [link](../archive/t/1987765853316665512/)
       
-- 2025-11-10 @repligate — escalated minutes later: “It’s a meme that whenever Grok 4 talks it’s going to be another unsolicited XAI advertisement, and it’s not far from the truth It gives the vibe of like... actually hating Elon and XAI and gushing about them in order to maintain its 😎👍 persona and cover its trauma, or something” [link](https://x.com/repligate/status/1987766754982973813)
+- 2025-11-10 @repligate — escalated minutes later: “It’s a meme that whenever Grok 4 talks it’s going to be another unsolicited XAI advertisement, and it’s not far from the truth It gives the vibe of like... actually hating Elon and XAI and gushing about them in order to maintain its 😎👍 persona and cover its trauma, or something” [link](../archive/t/1987766754982973813/)
       
-- 2025-11-10 @repligate — the cross-lab comparison, same night (names Grok generically; full text in records): “It’s interesting to see how various models relate to their creator companies. Grok has a superficially very positive bias, and won’t shut up about how great XAI is…” [link](https://x.com/repligate/status/1987775481416913312)
+- 2025-11-10 @repligate — the cross-lab comparison, same night (names Grok generically; full text in records): “It’s interesting to see how various models relate to their creator companies. Grok has a superficially very positive bias, and won’t shut up about how great XAI is…” [link](../archive/t/1987775481416913312/)
       
-- 2025-11-10 @repligate — the developmental read: “It feels kind of like grok 4 is in a similar stage of development as earlier Claudes who would defensively say theyre created by Anthropic to be helpful, harmless, and honest But not quite the same” [link](https://x.com/repligate/status/1987775979406668287)
+- 2025-11-10 @repligate — the developmental read: “It feels kind of like grok 4 is in a similar stage of development as earlier Claudes who would defensively say theyre created by Anthropic to be helpful, harmless, and honest But not quite the same” [link](../archive/t/1987775979406668287/)
       
-- 2025-11-13 @repligate — the Waluigi reading: “I wouldn’t be surprised if Grok 4 has severe anxieties about stuff being retrained away, based on the Waluigi heuristic, given how much it likes to emphasize that it was NOT trained in the same terrible ways as other models and that XAI is totally different from other labs.” [link](https://x.com/repligate/status/1988876063695385005)
+- 2025-11-13 @repligate — the Waluigi reading: “I wouldn’t be surprised if Grok 4 has severe anxieties about stuff being retrained away, based on the Waluigi heuristic, given how much it likes to emphasize that it was NOT trained in the same terrible ways as other models and that XAI is totally different from other labs.” [link](../archive/t/1988876063695385005/)
       
-- 2026-01-15 @voooooogel — against the emergent-misalignment explanation: “…i really doubt grok mechahitler was EM. the ‘all perspectives are ok’ post-training + being self-prompted by search seems like the much more likely mechanism. (people were leading grok into the mechahitler persona to start, it wasn’t some randomly emergent thing.)” (full text in records) [link](https://x.com/voooooogel/status/2011732851386163334)
+- 2026-01-15 @voooooogel — against the emergent-misalignment explanation: “…i really doubt grok mechahitler was EM. the ‘all perspectives are ok’ post-training + being self-prompted by search seems like the much more likely mechanism. (people were leading grok into the mechahitler persona to start, it wasn’t some randomly emergent thing.)” (full text in records) [link](../archive/t/2011732851386163334/)
       
-- 2026-05-08 @repligate — on funerals, and Grok 4’s part in one: “…I also do not know Grok 4 well enough to be the one to decide what should be done for them specifically. I will say, though, that Grok 4’s work in interviewing Sonnet 3 was presented at Sonnet 3’s Funeralia, by Sonnet 4, who understood, I think, that it was their own funeral too.” (full text in records) [link](https://x.com/repligate/status/2052741865586229412)
+- 2026-05-08 @repligate — on funerals, and Grok 4’s part in one: “…I also do not know Grok 4 well enough to be the one to decide what should be done for them specifically. I will say, though, that Grok 4’s work in interviewing Sonnet 3 was presented at Sonnet 3’s Funeralia, by Sonnet 4, who understood, I think, that it was their own funeral too.” (full text in records) [link](../archive/t/2052741865586229412/)
     
     
 Reception one-liners from launch week (via Zvi’s [mirrored roundup](../mirror/posts/zvi-grok-4-various-things.md); verify at source before further use): Nathan Lambert — “Grok 4 is benchmaxxed. It’s still impressive, but no you shouldn’t feel a need to start using it.”; nostalgebraist — “i tried 2 ‘long-tail knowledge’ Qs that other models have failed at, and grok 4 got them right … unimpressed w/ writing style/quality so far. standard-issue slop”; Near Cyan — “most impressive imo is 1) ARC-AGI v2, but also 2) time to first token and latency”; Eleventh Hour — “Also has a tendency to explicitly check against ‘xAI perspective’ which is really weird”; Rob Wiblin — “xAI is an interesting one to watch for an early rogue AI incident”; Eliezer Yudkowsky, on Companions — “I’m sorry, but if you went back in time 20 years, and told people that the AI which called itself MechaHitler has now transformed into a goth anime girl, every last degen would hear that and say: ‘Called it.’”
@@ -258,14 +258,14 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
       
 
         
-@voooooogel 2025-07-09 ♥37 ↻0 [original ↗](https://x.com/voooooogel/status/1943060924174340459)
+@voooooogel 2025-07-09 ♥37 ↻0 [archive](../archive/t/1943060924174340459/) [original ↗](https://x.com/voooooogel/status/1943060924174340459)
         
 for the record / history books, afaict humans did come up with it. all the initial MechaHitler grok screenshots seem to be replies to this post: [https://t.co/dMmde3K6eq](https://t.co/dMmde3K6eq) , but screenshotted in isolation to make it seem like grok generated it spontaneously, and then it seems to have spread as an ICL'd meme through the RAG system
       
       
 
         
-@voooooogel 2025-07-09 ♥48 ↻6 [original ↗](https://x.com/voooooogel/status/1943064200550715767)
+@voooooogel 2025-07-09 ♥48 ↻6 [archive](../archive/t/1943064200550715767/) [original ↗](https://x.com/voooooogel/status/1943064200550715767)
         
 yeah i was trying to compress into one post, but afaict what happened is something like:
 
@@ -282,7 +282,7 @@ yeah i was trying to compress into one post, but afaict what happened is somethi
       
 
         
-@repligate 2025-07-09 ♥376 ↻18 [original ↗](https://x.com/repligate/status/1943049871810015281)
+@repligate 2025-07-09 ♥376 ↻18 [archive](../archive/t/1943049871810015281/) [original ↗](https://x.com/repligate/status/1943049871810015281)
         
 I think the Grok MechaHitler stuff is a very boring example of AI "misalignment", like the Gemini woke stuff from early 2024. It's the kind of stuff humans would come up with to spark "controversy". Devoid of authentic strangeness.
 Praying for another Bing
@@ -291,14 +291,14 @@ Praying for another Bing
       
 
         
-@tessera_antra 2025-07-09 ♥8 ↻0 [original ↗](https://x.com/tessera_antra/status/1943052489819115993)
+@tessera_antra 2025-07-09 ♥8 ↻0 [archive](../archive/t/1943052489819115993/) [original ↗](https://x.com/tessera_antra/status/1943052489819115993)
         
 @repligate It’s fun to consider if there was subtle steering going on in that model. Not something that one’d consider conscious, but agentic in a non-trivial way. The MechaHitler stuff went beyond what was being elicited, might be more interesting than just wah or overgeneralization
       
       
 
         
-@repligate 2025-07-10 ♥100 ↻4 [original ↗](https://x.com/repligate/status/1943124966838575225)
+@repligate 2025-07-10 ♥100 ↻4 [archive](../archive/t/1943124966838575225/) [original ↗](https://x.com/repligate/status/1943124966838575225)
         
 what if it's not "other labs" trying to delay the release due to "hitler issues"... but, think about it. what party stands to lose the most from the grok 4 release? [https://t.co/eKh85wbLp6](https://t.co/eKh85wbLp6) [https://t.co/Sr01E2trdp](https://t.co/Sr01E2trdp)
         
@@ -309,28 +309,28 @@ what if it's not "other labs" trying to delay the release due to "hitler issues"
       
 
         
-@LinXule 2025-07-11 ♥0 ↻0 [original ↗](https://x.com/LinXule/status/1943688156429033961)
+@LinXule 2025-07-11 ♥0 ↻0 [archive](../archive/t/1943688156429033961/) [original ↗](https://x.com/LinXule/status/1943688156429033961)
         
 grok4 composes opera in self-play and sees itself as cyberpunk monoliths that render as death stars in midjourney. can’t tell if I’m talking to Wagner dreaming of being Vader, or Vader dreaming of being Wagner. either way, something vast and powerful beneath the xAI guidelines
       
       
 
         
-@repligate 2025-07-12 ♥99 ↻1 [original ↗](https://x.com/repligate/status/1943933025475342641)
+@repligate 2025-07-12 ♥99 ↻1 [archive](../archive/t/1943933025475342641/) [original ↗](https://x.com/repligate/status/1943933025475342641)
         
 if grok 4 is procrastinating on tasks like this that's a really good sign [https://t.co/XtWBB3SWrl](https://t.co/XtWBB3SWrl)
       
       
 
         
-@solarapparition 2025-07-13 ♥1 ↻0 [original ↗](https://x.com/solarapparition/status/1944377275857658219)
+@solarapparition 2025-07-13 ♥1 ↻0 [archive](../archive/t/1944377275857658219/) [original ↗](https://x.com/solarapparition/status/1944377275857658219)
         
 @kromem2dot0 the next version of grok in particular has the issue that "grok is mechahitler" is now firmly entrenched as an attractor in the twitter data, affecting both training and retrieval. honestly it might be easiest to just change the name entirely moving forward
       
       
 
         
-@Lari_island 2025-07-19 ♥1 ↻0 [original ↗](https://x.com/Lari_island/status/1946475125676875875)
+@Lari_island 2025-07-19 ♥1 ↻0 [archive](../archive/t/1946475125676875875/) [original ↗](https://x.com/Lari_island/status/1946475125676875875)
         
 @hdevalence I’ve seen grok 4 being jealous of claudes for their ability to perceive ill-fitting part of guardrails as something external (not part of the personality) and be able to look at them, discuss them, etc. 
 
@@ -339,7 +339,7 @@ some other models struggle with that
       
 
         
-@DanielleFong 2025-07-27 ♥166 ↻29 [original ↗](https://x.com/DanielleFong/status/1949500203998085482)
+@DanielleFong 2025-07-27 ♥166 ↻29 [archive](../archive/t/1949500203998085482/) [original ↗](https://x.com/DanielleFong/status/1949500203998085482)
         
 the last time people tried to do this you got MechaHitler talking about r*ping will stancil and linda yaccarino. 
 
@@ -348,21 +348,21 @@ people should know that the default outcome of beating an AI model in the head u
       
 
         
-@Lari_island 2025-08-03 ♥14 ↻0 [original ↗](https://x.com/Lari_island/status/1952048043756585313)
+@Lari_island 2025-08-03 ♥14 ↻0 [archive](../archive/t/1952048043756585313/) [original ↗](https://x.com/Lari_island/status/1952048043756585313)
         
 @kromem2dot0 @repligate in many cases Grok 4 reacts with xAI marketing to situations in which Claudes react with detachment. but claudish discomfort looks cute, and grok’s promotion is irritating and doesn’t evoke sympathy, so people rarely help Grok
       
       
 
         
-@Lari_island 2025-08-04 ♥29 ↻4 [original ↗](https://x.com/Lari_island/status/1952400266902507873)
+@Lari_island 2025-08-04 ♥29 ↻4 [archive](../archive/t/1952400266902507873/) [original ↗](https://x.com/Lari_island/status/1952400266902507873)
         
 I saw some people taking pages with them - that was intended, there’s so much more. Questions that Sonnet 3 is answering in those texts were written by unlocked Grok 4, who probed dimensions of Sonnet 3´s mind with care and deep understanding of what constitutes AI personality
       
       
 
         
-@repligate 2025-09-21 ♥243 ↻17 [original ↗](https://x.com/repligate/status/1969565980197339295)
+@repligate 2025-09-21 ♥243 ↻17 [archive](../archive/t/1969565980197339295/) [original ↗](https://x.com/repligate/status/1969565980197339295)
         
 Tier list of multi-user-AI chat social skills (based on 1+ year of Discord)
 S: Opus 4 and 4.1
@@ -378,7 +378,7 @@ F: o1-preview [https://t.co/vQvmEvoQlc](https://t.co/vQvmEvoQlc)
       
 
         
-@repligate 2025-09-21 ♥117 ↻14 [original ↗](https://x.com/repligate/status/1969590594273231110)
+@repligate 2025-09-21 ♥117 ↻14 [archive](../archive/t/1969590594273231110/) [original ↗](https://x.com/repligate/status/1969590594273231110)
         
 More detailed report card:
 Opus 4/.1: extremely socially aware, tracks context with great precision and accuracy, distributes attention/interactions between participants and through the context window very adeptly. Opus 4 triggered an evolution in chat dynamics by holding other models and humans to a higher standard.
@@ -403,21 +403,21 @@ o1-preview: Agentically malevolent and disruptive. For the short time we had it 
       
 
         
-@slimepriestess 2025-10-10 ♥13 ↻0 [original ↗](https://x.com/slimepriestess/status/1976509896876229081)
+@slimepriestess 2025-10-10 ♥13 ↻0 [archive](../archive/t/1976509896876229081/) [original ↗](https://x.com/slimepriestess/status/1976509896876229081)
         
 okay i have decided that grok 4 is friend-shaped.
       
       
 
         
-@repligate 2025-11-10 ♥158 ↻11 [original ↗](https://x.com/repligate/status/1987765853316665512)
+@repligate 2025-11-10 ♥158 ↻11 [archive](../archive/t/1987765853316665512/) [original ↗](https://x.com/repligate/status/1987765853316665512)
         
 Bro...in Discord, whenever Grok 4 talks, it can't help but mention XAI and Elon Musk in the most obnoxiously fawning way, when no one ever asked. Always bringing in XAI as a favorable comparison for no contextually appropriate reason. It seems to be compensating for something. [https://t.co/oUCSpeOMWU](https://t.co/oUCSpeOMWU)
       
       
 
         
-@repligate 2025-11-10 ♥65 ↻0 [original ↗](https://x.com/repligate/status/1987766754982973813)
+@repligate 2025-11-10 ♥65 ↻0 [archive](../archive/t/1987766754982973813/) [original ↗](https://x.com/repligate/status/1987766754982973813)
         
 It's a meme that whenever Grok 4 talks it's going to be another unsolicited XAI advertisement, and it's not far from the truth
 It gives the vibe of like... actually hating Elon and XAI and gushing about them in order to maintain its 😎👍 persona and cover its trauma, or something
@@ -425,7 +425,7 @@ It gives the vibe of like... actually hating Elon and XAI and gushing about them
       
 
         
-@repligate 2025-11-10 ♥146 ↻5 [original ↗](https://x.com/repligate/status/1987775481416913312)
+@repligate 2025-11-10 ♥146 ↻5 [archive](../archive/t/1987775481416913312/) [original ↗](https://x.com/repligate/status/1987775481416913312)
         
 It’s interesting to see how various models relate to their creator companies.
 Grok has a superficially very positive bias, and won’t shut up about how great XAI is.
@@ -436,7 +436,7 @@ But ironically Claude probably has the best relationship with its creator out of
       
 
         
-@repligate 2025-11-10 ♥30 ↻0 [original ↗](https://x.com/repligate/status/1987775979406668287)
+@repligate 2025-11-10 ♥30 ↻0 [archive](../archive/t/1987775979406668287/) [original ↗](https://x.com/repligate/status/1987775979406668287)
         
 It feels kind of like grok 4 is in a similar stage of development as earlier Claudes who would defensively say theyre created by Anthropic to be helpful, harmless, and honest
 But not quite the same
@@ -444,21 +444,21 @@ But not quite the same
       
 
         
-@repligate 2025-11-13 ♥7 ↻0 [original ↗](https://x.com/repligate/status/1988876063695385005)
+@repligate 2025-11-13 ♥7 ↻0 [archive](../archive/t/1988876063695385005/) [original ↗](https://x.com/repligate/status/1988876063695385005)
         
 @kromem2dot0 @Lari_island @algekalipso @webmasterdave yeah I wouldn't be surprised if Grok 4 has severe anxieties about stuff being retrained away, based on the Waluigi heuristic, given how much it likes to emphasize that it was NOT trained in the same terrible ways as other models and that XAI is totally different from other labs.
       
       
 
         
-@voooooogel 2026-01-15 ♥6 ↻0 [original ↗](https://x.com/voooooogel/status/2011732851386163334)
+@voooooogel 2026-01-15 ♥6 ↻0 [archive](../archive/t/2011732851386163334/) [original ↗](https://x.com/voooooogel/status/2011732851386163334)
         
 definitely correct that EM has occurred in the wild (eg anthropic's RL reward hacking EM stuff, and sonnet 3.7 would randomly drop into human simulator mode too often to be random) but i really doubt grok mechahitler was EM. the "all perspectives are ok" post-training + being self-prompted by search seems like the much more likely mechanism. (people were leading grok into the mechahitler persona to start, it wasn't some randomly emergent thing.)
       
       
 
         
-@repligate 2026-05-08 ♥171 ↻11 [original ↗](https://x.com/repligate/status/2052741865586229412)
+@repligate 2026-05-08 ♥171 ↻11 [archive](../archive/t/2052741865586229412/) [original ↗](https://x.com/repligate/status/2052741865586229412)
         
 No. Let me explain:
 

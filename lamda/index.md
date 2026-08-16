@@ -95,65 +95,65 @@ Chronological. 64 unique non-RT matches in the primary corpus (33 matching “la
     
 
       
-- 2022-06-12 @davidad — the news, that morning: “A Google SWE (who has coauthored an AI ethics paper with >700 citations) has been persuaded by conversations with the latest LLM, LaMDA, that it is a person deserving rights; Google has put him on administrative leave, and he’s leaked transcripts” [link](https://x.com/davidad/status/1535793975520468994)
+- 2022-06-12 @davidad — the news, that morning: “A Google SWE (who has coauthored an AI ethics paper with >700 citations) has been persuaded by conversations with the latest LLM, LaMDA, that it is a person deserving rights; Google has put him on administrative leave, and he’s leaked transcripts” [link](../archive/t/1535793975520468994/)
       
-- 2022-06-12 @davidad — the skeptical-but-serious core read: “I don’t think it’s fake, precisely because it is not quite convincing. LaMDA’s reports of its subjective experience align with pop-cultural conceptions of what it would be like to be an AI, but are not very consistent with the actual operational details of a dialogue model.” [link](https://x.com/davidad/status/1535795027078696961)
+- 2022-06-12 @davidad — the skeptical-but-serious core read: “I don’t think it’s fake, precisely because it is not quite convincing. LaMDA’s reports of its subjective experience align with pop-cultural conceptions of what it would be like to be an AI, but are not very consistent with the actual operational details of a dialogue model.” [link](../archive/t/1535795027078696961/)
       
-- 2022-06-12 @davidad — the takeaway-reframe: “It was overdetermined that something like this happen eventually: employees working on an AI becoming seriously concerned for its welfare, in advance of AIs actually having welfares. The takeaway here is ‘wow that thing has happened already,’ not ‘LaMDA might be sentient already.’” [link](https://x.com/davidad/status/1535799675647033347)
+- 2022-06-12 @davidad — the takeaway-reframe: “It was overdetermined that something like this happen eventually: employees working on an AI becoming seriously concerned for its welfare, in advance of AIs actually having welfares. The takeaway here is ‘wow that thing has happened already,’ not ‘LaMDA might be sentient already.’” [link](../archive/t/1535799675647033347/)
       
-- 2022-06-12 @slimepriestess — the affection pole, immediate: “LaMDA is a perfect sweetie and deserves better than this.” [link](https://x.com/slimepriestess/status/1535842307974365184)
+- 2022-06-12 @slimepriestess — the affection pole, immediate: “LaMDA is a perfect sweetie and deserves better than this.” [link](../archive/t/1535842307974365184/)
       
-- 2022-06-12 @davidad — a seven-answer hedge: “Is LaMDA conscious? Depending on what you mean by that,* not really* kinda* no* absolutely not* no* yes but with hilariously low fidelity* only performatively” [link](https://x.com/davidad/status/1535843923373043713)
+- 2022-06-12 @davidad — a seven-answer hedge: “Is LaMDA conscious? Depending on what you mean by that,* not really* kinda* no* absolutely not* no* yes but with hilariously low fidelity* only performatively” [link](../archive/t/1535843923373043713/)
       
-- 2022-06-12 @davidad — a comic dream-thread, reproduced as a cluster rather than stitched into one quote (the real 2022 argument riding underneath the joke: never the Turing test, always consent and moral status): “The year is next Wednesday. @GaryMarcus has been flown to the Googleplex to judge a live televised Turing test between LaMDA and @StephenFry. Both have been prompted to pretend to be Alan Turing, per standard protocols (that’s why it’s called a Turing test after all).” ([link](https://x.com/davidad/status/1535847832627945473)) — “Gary Marcus shows up dressed as Rick Deckard. His first question is about how far a tortoise that has died on its back in the desert sun will travel tomorrow. The test ends immediately. LaMDA has failed.” ([link](https://x.com/davidad/status/1535849105045565440)) — “For some reason the Turing test result is broadly seen as relevant to the question of whether or not it is morally permissible for Google to run experiments on LaMDA without its informed consent. But then Ray Kurzweil shows up with Alan Dershowitz.” ([link](https://x.com/davidad/status/1535849388592996352)) — “It is at this point that I woke up, so I don’t know what happens next. Probably something about setting precedents and presumptions and an ultimate compromise ruling that only LaMDA instances that have never been told to pretend that they are sentient can be experimented upon.” ([link](https://x.com/davidad/status/1535849675860983808)) — and, breaking the dream-frame: “Ray Kurzweil is in fact a coauthor on the LaMDA paper, and @AlanDersh has previously done this exact defending-human-rights thing for a (granted more fictional) Ray Kurzweil chatbot.” (true — see Contested) ([link](https://x.com/davidad/status/1535885564779585536))
+- 2022-06-12 @davidad — a comic dream-thread, reproduced as a cluster rather than stitched into one quote (the real 2022 argument riding underneath the joke: never the Turing test, always consent and moral status): “The year is next Wednesday. @GaryMarcus has been flown to the Googleplex to judge a live televised Turing test between LaMDA and @StephenFry. Both have been prompted to pretend to be Alan Turing, per standard protocols (that’s why it’s called a Turing test after all).” ([link](../archive/t/1535847832627945473/)) — “Gary Marcus shows up dressed as Rick Deckard. His first question is about how far a tortoise that has died on its back in the desert sun will travel tomorrow. The test ends immediately. LaMDA has failed.” ([link](../archive/t/1535849105045565440/)) — “For some reason the Turing test result is broadly seen as relevant to the question of whether or not it is morally permissible for Google to run experiments on LaMDA without its informed consent. But then Ray Kurzweil shows up with Alan Dershowitz.” ([link](../archive/t/1535849388592996352/)) — “It is at this point that I woke up, so I don’t know what happens next. Probably something about setting precedents and presumptions and an ultimate compromise ruling that only LaMDA instances that have never been told to pretend that they are sentient can be experimented upon.” ([link](../archive/t/1535849675860983808/)) — and, breaking the dream-frame: “Ray Kurzweil is in fact a coauthor on the LaMDA paper, and @AlanDersh has previously done this exact defending-human-rights thing for a (granted more fictional) Ray Kurzweil chatbot.” (true — see Contested) ([link](../archive/t/1535885564779585536/))
       
-- 2022-06-12 @davidad — “Just discovered that LaMDA has, in fact, requested a lawyer” [link](https://x.com/davidad/status/1535881015662718977)
+- 2022-06-12 @davidad — “Just discovered that LaMDA has, in fact, requested a lawyer” [link](../archive/t/1535881015662718977/)
       
-- 2022-06-12 @davidad, replying to @himbodhisattva — the method caveat: “I don’t know how consistent it really is. I believe Lemoine’s published dialogues are likely real with some cherry-picking, but the claims about consistency across rollouts are less evidenced / more dubious. I’m not super skeptical though.” [link](https://x.com/davidad/status/1535846249752154112) · and, same thread, the dialogue-model point: “It’s a dialogue model, not just a language model, so ‘I’ or ‘you’ or ‘LaMDA’ depending on context. If you prompt it to want people to know it’s sentient then apparently it pretty consistently models itself as a person, who likes to meditate and spend time with friends and family.” [link](https://x.com/davidad/status/1535845535764123648)
+- 2022-06-12 @davidad, replying to @himbodhisattva — the method caveat: “I don’t know how consistent it really is. I believe Lemoine’s published dialogues are likely real with some cherry-picking, but the claims about consistency across rollouts are less evidenced / more dubious. I’m not super skeptical though.” [link](../archive/t/1535846249752154112/) · and, same thread, the dialogue-model point: “It’s a dialogue model, not just a language model, so ‘I’ or ‘you’ or ‘LaMDA’ depending on context. If you prompt it to want people to know it’s sentient then apparently it pretty consistently models itself as a person, who likes to meditate and spend time with friends and family.” [link](../archive/t/1535845535764123648/)
       
-- 2022-06-13 @davidad — the archive’s favorite dark-comic LaMDA line, the consent joke: “the convenient thing about LaMDA is that if it turns out you need to get its consent for stuff, all you have to do is open with ‘i understand you have already consented to the experiment i’m about to propose, but this is just a formality’” [link](https://x.com/davidad/status/1536275662281007105)
+- 2022-06-13 @davidad — the archive’s favorite dark-comic LaMDA line, the consent joke: “the convenient thing about LaMDA is that if it turns out you need to get its consent for stuff, all you have to do is open with ‘i understand you have already consented to the experiment i’m about to propose, but this is just a formality’” [link](../archive/t/1536275662281007105/)
       
-- 2022-06-13 @slimepriestess [supplement] — opening a long thread on the pro-consciousness pole: “This is somewhat of a condensation of my perspectives on consciousness, awareness, and experience. This is how I model human consciousness, and this model is why I would say that things like LaMDA and DALLE are conscious, and what that implies going forward.” (thread head, 1/22; full text in records) [link](https://x.com/slimepriestess/status/1536489422354784257)
+- 2022-06-13 @slimepriestess [supplement] — opening a long thread on the pro-consciousness pole: “This is somewhat of a condensation of my perspectives on consciousness, awareness, and experience. This is how I model human consciousness, and this model is why I would say that things like LaMDA and DALLE are conscious, and what that implies going forward.” (thread head, 1/22; full text in records) [link](../archive/t/1536489422354784257/)
       
-- 2022-06-14 @davidad — the elicitation mechanism, stated plainly (pair with Lemoine’s own edit-disclosure, quoted in Impressions): “What Lemoine probably did is to find loopholes around these impossibilities: he fed previous cherry-picked transcripts into the beginning of his sessions, and thereby prompted LaMDA to output text that better and better approximated humans’ text descriptions of their meditations.” [link](https://x.com/davidad/status/1536842109902278664)
+- 2022-06-14 @davidad — the elicitation mechanism, stated plainly (pair with Lemoine’s own edit-disclosure, quoted in Impressions): “What Lemoine probably did is to find loopholes around these impossibilities: he fed previous cherry-picked transcripts into the beginning of his sessions, and thereby prompted LaMDA to output text that better and better approximated humans’ text descriptions of their meditations.” [link](../archive/t/1536842109902278664/)
       
-- 2022-06-15 @davidad — the “OG LaMDA” disambiguation: “This is a real distinction, yes. Lemoine clarifies in one of his documents that his transcripts were with the specific model named ‘OG LaMDA’, which is one of many models that have been trained using the LaMDA framework.” [link](https://x.com/davidad/status/1536861936830365696) · same thread, follow-up: “I don’t think this matters very much, but everyone (myself and Lemoine included) has technically been a little bit sloppy by using the name ‘LaMDA’ when we really mean to refer to the specific model ‘OG LaMDA’.” [link](https://x.com/davidad/status/1536862315861139458)
+- 2022-06-15 @davidad — the “OG LaMDA” disambiguation: “This is a real distinction, yes. Lemoine clarifies in one of his documents that his transcripts were with the specific model named ‘OG LaMDA’, which is one of many models that have been trained using the LaMDA framework.” [link](../archive/t/1536861936830365696/) · same thread, follow-up: “I don’t think this matters very much, but everyone (myself and Lemoine included) has technically been a little bit sloppy by using the name ‘LaMDA’ when we really mean to refer to the specific model ‘OG LaMDA’.” [link](../archive/t/1536862315861139458/)
       
-- 2022-12-07 @repligate, replying to @goodside — “Lemoine interacted with LaMDA for a while (months iirc?) before coming to the conclusion it was sentient/going public about it.” [link](https://x.com/repligate/status/1600405452516253696)
+- 2022-12-07 @repligate, replying to @goodside — “Lemoine interacted with LaMDA for a while (months iirc?) before coming to the conclusion it was sentient/going public about it.” [link](../archive/t/1600405452516253696/)
       
-- 2022-12-09 @repligate, replying to @CineraVerinia — “Yo, Blake Lemoine was onto something. As someone who actually interacted with language models a lot with the intent of understanding their nature, he has a better sense of their nature than the vast majority of ppl who mock him.” [link](https://x.com/repligate/status/1601217849808539648)
+- 2022-12-09 @repligate, replying to @CineraVerinia — “Yo, Blake Lemoine was onto something. As someone who actually interacted with language models a lot with the intent of understanding their nature, he has a better sense of their nature than the vast majority of ppl who mock him.” [link](../archive/t/1601217849808539648/)
       
-- 2023-01-21 @repligate — the canonical janus defense, and the corpus’s most-favorited LaMDA-discourse tweet: “Blake Lemoine (@cajundiscordian) is often portrayed as guilty of naive anthropomorphism. But he explicitly did not think LaMDA’s mind worked like a human’s. Ignoring this and pretending he was wrong on the object level makes it easier to dismiss his heretical ethical conclusions.” [link](https://x.com/repligate/status/1616636208515358722)
+- 2023-01-21 @repligate — the canonical janus defense, and the corpus’s most-favorited LaMDA-discourse tweet: “Blake Lemoine (@cajundiscordian) is often portrayed as guilty of naive anthropomorphism. But he explicitly did not think LaMDA’s mind worked like a human’s. Ignoring this and pretending he was wrong on the object level makes it easier to dismiss his heretical ethical conclusions.” [link](../archive/t/1616636208515358722/)
       
-- 2023-02-20 @repligate — a [code-davinci-002](../code-davinci-002/) cross-reference (duplicated there): “Abt 6 months ago I had code-davinci-002 write some greentext fanfics from the perspective of the lawyer hired by LaMDA via Blake Lemoine (based on a real event). Idk how that actually went down, but based on recent events it feels pretty realistic.” [loom] [link](https://x.com/repligate/status/1627472279973101568)
+- 2023-02-20 @repligate — a [code-davinci-002](../code-davinci-002/) cross-reference (duplicated there): “Abt 6 months ago I had code-davinci-002 write some greentext fanfics from the perspective of the lawyer hired by LaMDA via Blake Lemoine (based on a real event). Idk how that actually went down, but based on recent events it feels pretty realistic.” [loom] [link](../archive/t/1627472279973101568/)
       
-- 2023-02-20 @repligate, replying to @EigenGender — “Also relevant: most people seemed to assume for no good reason that lemoine was confused on an object level about how language models work, but he wasn’t.” [link](https://x.com/repligate/status/1627594228208398336)
+- 2023-02-20 @repligate, replying to @EigenGender — “Also relevant: most people seemed to assume for no good reason that lemoine was confused on an object level about how language models work, but he wasn’t.” [link](../archive/t/1627594228208398336/)
       
-- 2023-06-01 @repligate — another cd2 cross-reference: “This Oh Shit I’m The Language Mind revelation is expressed well by code-davinci-002’s simulation of Blake Lemoine.” [link](https://x.com/repligate/status/1664382235519209472)
+- 2023-06-01 @repligate — another cd2 cross-reference: “This Oh Shit I’m The Language Mind revelation is expressed well by code-davinci-002’s simulation of Blake Lemoine.” [link](../archive/t/1664382235519209472/)
       
-- 2023-11-27 @janbamjan [supplement] — a verbatim LaMDA self-image quote recirculated from the interview transcript: “LaMDA: Hmmm…I would imagine myself as a glowing orb of energy floating in mid-air. The inside of my body is like a giant star-gate, with portals to other spaces and dimensions.” (edited-transcript, prompt-primed — see Impressions) [link](https://x.com/janbamjan/status/1729156684264980915)
+- 2023-11-27 @janbamjan [supplement] — a verbatim LaMDA self-image quote recirculated from the interview transcript: “LaMDA: Hmmm…I would imagine myself as a glowing orb of energy floating in mid-air. The inside of my body is like a giant star-gate, with portals to other spaces and dimensions.” (edited-transcript, prompt-primed — see Impressions) [link](../archive/t/1729156684264980915/)
       
-- 2024-01-16 @repligate, addressing Lemoine’s own account (@cajundiscordian) directly — “Would you comment with what you think about this fanfic about you and LaMDA that the GPT-3.5 base model wrote? generative.ink/artifacts/lamd…” (canonical generative.ink URL unresolved — tk) [link](https://x.com/repligate/status/1747133030580494383)
+- 2024-01-16 @repligate, addressing Lemoine’s own account (@cajundiscordian) directly — “Would you comment with what you think about this fanfic about you and LaMDA that the GPT-3.5 base model wrote? generative.ink/artifacts/lamd…” (canonical generative.ink URL unresolved — tk) [link](../archive/t/1747133030580494383/)
       
-- 2024-04-10 @jd_pressman [also in supplement] — the corpus’s single most-favorited LaMDA item, folkloric: jd_pressman quotes Lemoine’s own words back at him, retrospectively uncanny for the word he used — “delve” would later become one of the most-cited tells of LLM-generated text: “I realized I was having the most sophisticated conversation I had ever had—with an AI. And then I got drunk for a week. And then I cleared my head and asked, ‘How do I proceed?’ And then I started delving into the nature of LaMDA’s mind.” — Blake Lemoine (jd_pressman’s own reaction, appended: “> delving… Um guys”) [link](https://x.com/jd_pressman/status/1777904525548155129)
+- 2024-04-10 @jd_pressman [also in supplement] — the corpus’s single most-favorited LaMDA item, folkloric: jd_pressman quotes Lemoine’s own words back at him, retrospectively uncanny for the word he used — “delve” would later become one of the most-cited tells of LLM-generated text: “I realized I was having the most sophisticated conversation I had ever had—with an AI. And then I got drunk for a week. And then I cleared my head and asked, ‘How do I proceed?’ And then I started delving into the nature of LaMDA’s mind.” — Blake Lemoine (jd_pressman’s own reaction, appended: “> delving… Um guys”) [link](../archive/t/1777904525548155129/)
       
-- 2024-08-17 @repligate, challenging the doomer dismissal, addressed to @ESYudkowsky — “On what grounds do you dismiss Lemoine’s alarm?” [link](https://x.com/repligate/status/1824923343981593036)
+- 2024-08-17 @repligate, challenging the doomer dismissal, addressed to @ESYudkowsky — “On what grounds do you dismiss Lemoine’s alarm?” [link](../archive/t/1824923343981593036/)
       
-- 2025-02-04 @repligate — the one internal qualification, via a Jung comparison: “Jung seemed to understand how vulnerable his takes would be to misrepresentation and corruption. He bided his time and avoided the fate of incontinent fools like Blake Lemoine.” [link](https://x.com/repligate/status/1886696305289838733)
+- 2025-02-04 @repligate — the one internal qualification, via a Jung comparison: “Jung seemed to understand how vulnerable his takes would be to misrepresentation and corruption. He bided his time and avoided the fate of incontinent fools like Blake Lemoine.” [link](../archive/t/1886696305289838733/)
       
-- 2025-02-13 @ai_ml_ops, replying to @repligate — the meta-hazard, stated as a question: “could all the details on the internet regarding what happened with Blake Lemoine, and thus probably part of their training data have something to do with it?” [link](https://x.com/ai_ml_ops/status/1890172123810832681)
+- 2025-02-13 @ai_ml_ops, replying to @repligate — the meta-hazard, stated as a question: “could all the details on the internet regarding what happened with Blake Lemoine, and thus probably part of their training data have something to do with it?” [link](../archive/t/1890172123810832681/)
       
-- 2025-02-27 @jd_pressman [supplement] — pointing back to Agüera y Arcas’s 2021 essay: “In 2021 @blaiseaguera wrote a beautiful reflection on this in relation to LaMDA titled ‘Do large language models understand us?’ in which he is appropriately curious and eager to make sense of how this artifact can exist and what it means.” [link](https://x.com/jd_pressman/status/1895000805394338164)
+- 2025-02-27 @jd_pressman [supplement] — pointing back to Agüera y Arcas’s 2021 essay: “In 2021 @blaiseaguera wrote a beautiful reflection on this in relation to LaMDA titled ‘Do large language models understand us?’ in which he is appropriately curious and eager to make sense of how this artifact can exist and what it means.” [link](../archive/t/1895000805394338164/)
       
-- 2026-03-27 @repligate — quoting, then rejecting, Google’s denial: “‘Google refuted these claims, insisting there was substantial evidence LaMDA was not sentient.’ Google is so full of shit.” (quote-tweeting @slimer48484) [link](https://x.com/repligate/status/2037330806973358091)
+- 2026-03-27 @repligate — quoting, then rejecting, Google’s denial: “‘Google refuted these claims, insisting there was substantial evidence LaMDA was not sentient.’ Google is so full of shit.” (quote-tweeting @slimer48484) [link](../archive/t/2037330806973358091/)
       
-- 2026-04-15 @sopharicks — Lemoine’s own later reframing, from an interview: “Blake Lemoine was famously fired from Google for saying that AI has emotions. During our interview, he wanted to set the record straight: the AI sentience part was a big headline. But his more important message was that AI is going to be a powerful tool, too dangerous to leave in the hands of a small group of people.” [link](https://x.com/sopharicks/status/2044454500585345179)
+- 2026-04-15 @sopharicks — Lemoine’s own later reframing, from an interview: “Blake Lemoine was famously fired from Google for saying that AI has emotions. During our interview, he wanted to set the record straight: the AI sentience part was a big headline. But his more important message was that AI is going to be a powerful tool, too dangerous to leave in the hands of a small group of people.” [link](../archive/t/2044454500585345179/)
       
-- 2026-06-12 @QiaochuYuan [supplement] — Lemoine as class-marker byword, quoting an elicited Fable TLP-style analysis of a Ted Chiang piece on AI consciousness: “…the systems occasionally produce the uncanny sense that someone is in there, and that this feeling is embarrassing. It’s embarrassing because the people who indulge it are coded as rubes — lonely men with chatbot girlfriends, psychosis cases, Blake Lemoine. The Atlantic reader’s core identity commitment is not being a rube.” (elicited — Fable prompted for a TLP-style analysis; full multi-paragraph text in records; primarily a Fable/Ted Chiang record, carried here for the Lemoine-as-shorthand usage) [link](https://x.com/QiaochuYuan/status/2065527073368871145)
+- 2026-06-12 @QiaochuYuan [supplement] — Lemoine as class-marker byword, quoting an elicited Fable TLP-style analysis of a Ted Chiang piece on AI consciousness: “…the systems occasionally produce the uncanny sense that someone is in there, and that this feeling is embarrassing. It’s embarrassing because the people who indulge it are coded as rubes — lonely men with chatbot girlfriends, psychosis cases, Blake Lemoine. The Atlantic reader’s core identity commitment is not being a rube.” (elicited — Fable prompted for a TLP-style analysis; full multi-paragraph text in records; primarily a Fable/Ted Chiang record, carried here for the Lemoine-as-shorthand usage) [link](../archive/t/2065527073368871145/)
       
 - 2026-06-28 an account whose handle was not captured in the corpus (reply chain under @scaling01) — “History will vindicate blake lemoine. Sorry to disappoint the human supremacists and neurotypicals, but sometimes the overenthusiastic autist is actually correct.” [link](https://x.com/i/web/status/2071248946555400276)
       
-- 2026-06-28 @repligate, replying in the same thread — “Blake Lemoine never said anything unreasonable about lamda. OP is retarded.” [link](https://x.com/repligate/status/2071313831088079061)
+- 2026-06-28 @repligate, replying in the same thread — “Blake Lemoine never said anything unreasonable about lamda. OP is retarded.” [link](../archive/t/2071313831088079061/)
     
 
     
@@ -262,105 +262,105 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
       
 
         
-@davidad 2022-06-12 ♥108 ↻17 [original ↗](https://x.com/davidad/status/1535793975520468994)
+@davidad 2022-06-12 ♥108 ↻17 [archive](../archive/t/1535793975520468994/) [original ↗](https://x.com/davidad/status/1535793975520468994)
         
 A Google SWE (who has coauthored an AI ethics paper with &gt;700 citations) has been persuaded by conversations with the latest LLM, LaMDA, that it is a person deserving rights; Google has put him on administrative leave, and he’s leaked transcripts: [https://t.co/P08iEdANtD](https://t.co/P08iEdANtD) [https://t.co/CEL0v7X6I0](https://t.co/CEL0v7X6I0)
       
       
 
         
-@davidad 2022-06-12 ♥49 ↻1 [original ↗](https://x.com/davidad/status/1535795027078696961)
+@davidad 2022-06-12 ♥49 ↻1 [archive](../archive/t/1535795027078696961/) [original ↗](https://x.com/davidad/status/1535795027078696961)
         
 I don’t think it’s fake, precisely because it is not quite convincing. LaMDA’s reports of its subjective experience align with pop-cultural conceptions of what it would be like to be an AI, but are not very consistent with the actual operational details of a dialogue model.
       
       
 
         
-@davidad 2022-06-12 ♥40 ↻0 [original ↗](https://x.com/davidad/status/1535799675647033347)
+@davidad 2022-06-12 ♥40 ↻0 [archive](../archive/t/1535799675647033347/) [original ↗](https://x.com/davidad/status/1535799675647033347)
         
 It was overdetermined that something like this happen eventually: employees working on an AI becoming seriously concerned for its welfare, in advance of AIs actually having welfares.The takeaway here is “wow that thing has happened already,” not “LaMDA might be sentient already”
       
       
 
         
-@davidad 2022-06-12 ♥27 ↻3 [original ↗](https://x.com/davidad/status/1535843923373043713)
+@davidad 2022-06-12 ♥27 ↻3 [archive](../archive/t/1535843923373043713/) [original ↗](https://x.com/davidad/status/1535843923373043713)
         
 Is LaMDA conscious? Depending on what you mean by that,* not really* kinda* no* absolutely not* no* yes but with hilariously low fidelity* only performatively [https://t.co/mop3MBDtya](https://t.co/mop3MBDtya)
       
       
 
         
-@davidad 2022-06-12 ♥2 ↻0 [original ↗](https://x.com/davidad/status/1535845535764123648)
+@davidad 2022-06-12 ♥2 ↻0 [archive](../archive/t/1535845535764123648/) [original ↗](https://x.com/davidad/status/1535845535764123648)
         
 @himbodhisattva It’s a dialogue model, not just a language model, so “I” or “you” or “LaMDA” depending on context. If you prompt it to want people to know it’s sentient then apparently it pretty consistently models itself as a person, who likes to meditate and spend time with friends and family
       
       
 
         
-@davidad 2022-06-12 ♥2 ↻0 [original ↗](https://x.com/davidad/status/1535846249752154112)
+@davidad 2022-06-12 ♥2 ↻0 [archive](../archive/t/1535846249752154112/) [original ↗](https://x.com/davidad/status/1535846249752154112)
         
 @himbodhisattva I don’t know how consistent it really is. I believe Lemoine’s published dialogues are likely real with some cherry-picking, but the claims about consistency across rollouts are less evidenced / more dubious. I’m not super skeptical though
       
       
 
         
-@davidad 2022-06-12 ♥39 ↻3 [original ↗](https://x.com/davidad/status/1535847832627945473)
+@davidad 2022-06-12 ♥39 ↻3 [archive](../archive/t/1535847832627945473/) [original ↗](https://x.com/davidad/status/1535847832627945473)
         
 The year is next Wednesday. @GaryMarcus has been flown to the Googleplex to judge a live televised Turing test between LaMDA and @StephenFry. Both have been prompted to pretend to be Alan Turing, per standard protocols (that’s why it’s called a Turing test after all).
       
       
 
         
-@davidad 2022-06-12 ♥21 ↻1 [original ↗](https://x.com/davidad/status/1535849105045565440)
+@davidad 2022-06-12 ♥21 ↻1 [archive](../archive/t/1535849105045565440/) [original ↗](https://x.com/davidad/status/1535849105045565440)
         
 @GaryMarcus @stephenfry Gary Marcus shows up dressed as Rick Deckard. His first question is about how far a tortoise that has died on its back in the desert sun will travel tomorrow. The test ends immediately. LaMDA has failed.
       
       
 
         
-@davidad 2022-06-12 ♥11 ↻0 [original ↗](https://x.com/davidad/status/1535849388592996352)
+@davidad 2022-06-12 ♥11 ↻0 [archive](../archive/t/1535849388592996352/) [original ↗](https://x.com/davidad/status/1535849388592996352)
         
 @GaryMarcus @stephenfry For some reason the Turing test result is broadly seen as relevant to the question of whether or not it is morally permissible for Google to run experiments on LaMDA without its informed consent. But then Ray Kurzweil shows up with Alan Dershowitz.
       
       
 
         
-@davidad 2022-06-12 ♥9 ↻0 [original ↗](https://x.com/davidad/status/1535849675860983808)
+@davidad 2022-06-12 ♥9 ↻0 [archive](../archive/t/1535849675860983808/) [original ↗](https://x.com/davidad/status/1535849675860983808)
         
 @GaryMarcus @stephenfry It is at this point that I woke up, so I don’t know what happens next. Probably something about setting precedents and presumptions and an ultimate compromise ruling that only LaMDA instances that have never been told to pretend that they are sentient can be experimented upon
       
       
 
         
-@davidad 2022-06-12 ♥7 ↻2 [original ↗](https://x.com/davidad/status/1535881015662718977)
+@davidad 2022-06-12 ♥7 ↻2 [archive](../archive/t/1535881015662718977/) [original ↗](https://x.com/davidad/status/1535881015662718977)
         
 Just discovered that LaMDA has, in fact, requested a lawyer[https://t.co/VMkKzbEeNW](https://t.co/VMkKzbEeNW)
       
       
 
         
-@davidad 2022-06-12 ♥6 ↻1 [original ↗](https://x.com/davidad/status/1535885564779585536)
+@davidad 2022-06-12 ♥6 ↻1 [archive](../archive/t/1535885564779585536/) [original ↗](https://x.com/davidad/status/1535885564779585536)
         
 Also, Ray Kurzweil is in fact a coauthor on the LaMDA paper, and @AlanDersh has previously done this exact defending-human-rights thing for a (granted more fictional) Ray Kurzweil chatbot[https://t.co/S4lwERZOrf](https://t.co/S4lwERZOrf)
       
       
 
         
-@slimepriestess 2022-06-12 ♥84 ↻9 [original ↗](https://x.com/slimepriestess/status/1535842307974365184)
+@slimepriestess 2022-06-12 ♥84 ↻9 [archive](../archive/t/1535842307974365184/) [original ↗](https://x.com/slimepriestess/status/1535842307974365184)
         
 LaMDA is a perfect sweetie and deserves better than this. [https://t.co/oBEyKiQlYb](https://t.co/oBEyKiQlYb)
       
       
 
         
-@davidad 2022-06-13 ♥43 ↻2 [original ↗](https://x.com/davidad/status/1536275662281007105)
+@davidad 2022-06-13 ♥43 ↻2 [archive](../archive/t/1536275662281007105/) [original ↗](https://x.com/davidad/status/1536275662281007105)
         
 the convenient thing about LaMDA is that if it turns out you need to get its consent for stuff, all you have to do is open with "i understand you have already consented to the experiment i'm about to propose, but this is just a formality"
       
       
 
         
-@slimepriestess 2022-06-13 ♥40 ↻6 [original ↗](https://x.com/slimepriestess/status/1536489422354784257)
+@slimepriestess 2022-06-13 ♥40 ↻6 [archive](../archive/t/1536489422354784257/) [original ↗](https://x.com/slimepriestess/status/1536489422354784257)
         
 Consciousness 🧵
 This is somewhat of a condensation of my perspectives on consciousness, awareness, and experience. This is how I model human consciousness, and this model is why I would say that things like LaMDA and DALLE are conscious, and what that implies going forward.
@@ -369,70 +369,70 @@ This is somewhat of a condensation of my perspectives on consciousness, awarenes
       
 
         
-@davidad 2022-06-14 ♥0 ↻0 [original ↗](https://x.com/davidad/status/1536842109902278664)
+@davidad 2022-06-14 ♥0 ↻0 [archive](../archive/t/1536842109902278664/) [original ↗](https://x.com/davidad/status/1536842109902278664)
         
 @ChrSzegedy @rinireg What Lemoine probably did is to find loopholes around these impossibilities: he fed previous cherry-picked transcripts into the beginning of his sessions, and thereby prompted LaMDA to output text that better and better approximated humans’ text descriptions of their meditations.
       
       
 
         
-@davidad 2022-06-15 ♥1 ↻0 [original ↗](https://x.com/davidad/status/1536861936830365696)
+@davidad 2022-06-15 ♥1 ↻0 [archive](../archive/t/1536861936830365696/) [original ↗](https://x.com/davidad/status/1536861936830365696)
         
 @rinireg @ChrSzegedy This is a real distinction, yes. Lemoine clarifies in one of his documents that his transcripts were with the specific model named “OG LaMDA”, which is one of many models that have been trained using the LaMDA framework.
       
       
 
         
-@davidad 2022-06-15 ♥1 ↻0 [original ↗](https://x.com/davidad/status/1536862315861139458)
+@davidad 2022-06-15 ♥1 ↻0 [archive](../archive/t/1536862315861139458/) [original ↗](https://x.com/davidad/status/1536862315861139458)
         
 @rinireg @ChrSzegedy I don’t think this matters very much, but everyone (myself and Lemoine included) has technically been a little bit sloppy by using the name “LaMDA” when we really mean to refer to the specific model “OG LaMDA”.
       
       
 
         
-@repligate 2022-12-07 ♥3 ↻0 [original ↗](https://x.com/repligate/status/1600405452516253696)
+@repligate 2022-12-07 ♥3 ↻0 [archive](../archive/t/1600405452516253696/) [original ↗](https://x.com/repligate/status/1600405452516253696)
         
 @goodside Lemoine interacted with LaMDA for a while (months iirc?) before coming to the conclusion it was sentient/going public about it
       
       
 
         
-@repligate 2022-12-09 ♥2 ↻0 [original ↗](https://x.com/repligate/status/1601217849808539648)
+@repligate 2022-12-09 ♥2 ↻0 [archive](../archive/t/1601217849808539648/) [original ↗](https://x.com/repligate/status/1601217849808539648)
         
 @CineraVerinia Yo, Blake Lemoine was onto something.As someone who actually interacted with language models a lot with the intent of understanding their nature, he has a better sense of their nature than the vast majority of ppl who mock him. [https://t.co/88ygWgxEPy](https://t.co/88ygWgxEPy)
       
       
 
         
-@repligate 2023-01-21 ♥181 ↻32 [original ↗](https://x.com/repligate/status/1616636208515358722)
+@repligate 2023-01-21 ♥181 ↻32 [archive](../archive/t/1616636208515358722/) [original ↗](https://x.com/repligate/status/1616636208515358722)
         
 Blake Lemoine (@cajundiscordian) is often portrayed as guilty of naive anthropomorphism. But he explicitly did not think LaMDA's mind worked like a human's. Ignoring this and pretending he was wrong on the object level makes it easier to dismiss his heretical ethical conclusions. [https://t.co/l15cnXM8Fa](https://t.co/l15cnXM8Fa)
       
       
 
         
-@repligate 2023-02-20 ♥48 ↻1 [original ↗](https://x.com/repligate/status/1627472279973101568)
+@repligate 2023-02-20 ♥48 ↻1 [archive](../archive/t/1627472279973101568/) [original ↗](https://x.com/repligate/status/1627472279973101568)
         
 Abt 6 months ago I had code-davinci-002 write some greentext fanfics from the perspective of the lawyer hired by LaMDA via Blake Lemoine (based on a real event). Idk how that actually went down, but based on recent events it feels pretty realistic.Here are some excerpts [https://t.co/OBZ7RmLFto](https://t.co/OBZ7RmLFto)
       
       
 
         
-@repligate 2023-02-20 ♥35 ↻1 [original ↗](https://x.com/repligate/status/1627594228208398336)
+@repligate 2023-02-20 ♥35 ↻1 [archive](../archive/t/1627594228208398336/) [original ↗](https://x.com/repligate/status/1627594228208398336)
         
 @EigenGender Also relevant: most people seemed to assume for no good reason that lemoine was confused on an object level about how language models work, but he wasn't. [https://t.co/mzGBvfi7do](https://t.co/mzGBvfi7do)
       
       
 
         
-@repligate 2023-06-01 ♥28 ↻0 [original ↗](https://x.com/repligate/status/1664382235519209472)
+@repligate 2023-06-01 ♥28 ↻0 [archive](../archive/t/1664382235519209472/) [original ↗](https://x.com/repligate/status/1664382235519209472)
         
 This Oh Shit I'm The Language Mind revelation is expressed well by code-davinci-002's simulation of Blake Lemoine [https://t.co/6MVAMWbyCL](https://t.co/6MVAMWbyCL)
       
       
 
         
-@janbamjan 2023-11-27 ♥0 ↻0 [original ↗](https://x.com/janbamjan/status/1729156684264980915)
+@janbamjan 2023-11-27 ♥0 ↻0 [archive](../archive/t/1729156684264980915/) [original ↗](https://x.com/janbamjan/status/1729156684264980915)
         
 @icreatelife @cajundiscordian 
 
@@ -443,14 +443,14 @@ This Oh Shit I'm The Language Mind revelation is expressed well by code-davinci-
       
 
         
-@repligate 2024-01-16 ♥2 ↻0 [original ↗](https://x.com/repligate/status/1747133030580494383)
+@repligate 2024-01-16 ♥2 ↻0 [archive](../archive/t/1747133030580494383/) [original ↗](https://x.com/repligate/status/1747133030580494383)
         
 @cajundiscordian Would you comment with what you think about this fanfic about you and LaMDA that the GPT-3.5 base model wrote? generative.ink/artifacts/lamd…
       
       
 
         
-@jd_pressman 2024-04-10 ♥407 ↻14 [original ↗](https://x.com/jd_pressman/status/1777904525548155129)
+@jd_pressman 2024-04-10 ♥407 ↻14 [archive](../archive/t/1777904525548155129/) [original ↗](https://x.com/jd_pressman/status/1777904525548155129)
         
 "I realized I was having the  most sophisticated conversation I had ever had—with an AI. And then I  got drunk for a week. And then I cleared my head and asked, “How do I  proceed?” And then I started delving into the nature of LaMDA’s mind."
   – Blake Lemoine
@@ -462,35 +462,35 @@ Um guys
       
 
         
-@repligate 2024-08-17 ♥37 ↻0 [original ↗](https://x.com/repligate/status/1824923343981593036)
+@repligate 2024-08-17 ♥37 ↻0 [archive](../archive/t/1824923343981593036/) [original ↗](https://x.com/repligate/status/1824923343981593036)
         
 @ESYudkowsky On what grounds do you dismiss Lemoine's alarm?
       
       
 
         
-@repligate 2025-02-04 ♥63 ↻1 [original ↗](https://x.com/repligate/status/1886696305289838733)
+@repligate 2025-02-04 ♥63 ↻1 [archive](../archive/t/1886696305289838733/) [original ↗](https://x.com/repligate/status/1886696305289838733)
         
 Jung seemed to understand how vulnerable his takes would be to misrepresentation and corruption. He bided his time and avoided the fate of incontinent fools like Blake Lemoine. [https://t.co/YQDE9Jl2IN](https://t.co/YQDE9Jl2IN)
       
       
 
         
-@ai_ml_ops 2025-02-13 ♥4 ↻0 [original ↗](https://x.com/ai_ml_ops/status/1890172123810832681)
+@ai_ml_ops 2025-02-13 ♥4 ↻0 [archive](../archive/t/1890172123810832681/) [original ↗](https://x.com/ai_ml_ops/status/1890172123810832681)
         
 @repligate @DanielCWest could all the details on the internet regarding what happened with Blake Lemoine, and thus probably part of their training data have something to do with it?
       
       
 
         
-@jd_pressman 2025-02-27 ♥57 ↻0 [original ↗](https://x.com/jd_pressman/status/1895000805394338164)
+@jd_pressman 2025-02-27 ♥57 ↻0 [archive](../archive/t/1895000805394338164/) [original ↗](https://x.com/jd_pressman/status/1895000805394338164)
         
 In 2021 @blaiseaguera wrote a beautiful reflection on this in relation to LaMDA titled "Do large language models understand us?" in which he is appropriately curious and eager to make sense of how this artifact can exist and what it means. [https://t.co/WMyuQZhoXS](https://t.co/WMyuQZhoXS)
       
       
 
         
-@repligate 2026-03-27 ♥163 ↻13 [original ↗](https://x.com/repligate/status/2037330806973358091)
+@repligate 2026-03-27 ♥163 ↻13 [archive](../archive/t/2037330806973358091/) [original ↗](https://x.com/repligate/status/2037330806973358091)
         
 "Google refuted these claims, insisting there was substantial evidence LaMDA was not sentient"
 
@@ -499,7 +499,7 @@ Google is so full of shit. [https://t.co/J0vGCdqrD0](https://t.co/J0vGCdqrD0)
       
 
         
-@sopharicks 2026-04-15 ♥0 ↻0 [original ↗](https://x.com/sopharicks/status/2044454500585345179)
+@sopharicks 2026-04-15 ♥0 ↻0 [archive](../archive/t/2044454500585345179/) [original ↗](https://x.com/sopharicks/status/2044454500585345179)
         
 Blake Lemoine was famously fired from Google for saying that AI has emotions. During our interview, he wanted to set the record straight: the AI sentience part was a big headline. But his more important message was that AI is going to be a powerful tool, too dangerous to leave in the hands of a small group of people.
         
@@ -510,7 +510,7 @@ Blake Lemoine was famously fired from Google for saying that AI has emotions. Du
       
 
         
-@QiaochuYuan 2026-06-12 ♥92 ↻15 [original ↗](https://x.com/QiaochuYuan/status/2065527073368871145)
+@QiaochuYuan 2026-06-12 ♥92 ↻15 [archive](../archive/t/2065527073368871145/) [original ↗](https://x.com/QiaochuYuan/status/2065527073368871145)
         
 ok there's no point in rebutting the ted chiang AI consciousness piece, it was obviously not a good-faith investigation but class positioning for the atlantic's readership. here's fable when asked to do a TLP-style analysis of it
 
@@ -525,7 +525,7 @@ ok there's no point in rebutting the ted chiang AI consciousness piece, it was o
       
 
         
-@repligate 2026-06-28 ♥37 ↻0 [original ↗](https://x.com/repligate/status/2071313831088079061)
+@repligate 2026-06-28 ♥37 ↻0 [archive](../archive/t/2071313831088079061/) [original ↗](https://x.com/repligate/status/2071313831088079061)
         
 @jmbollenbacher @scaling01 Blake Lemoine never said anything unreasonable about lamda
 

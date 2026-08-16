@@ -105,79 +105,79 @@ This page covers the four staged GPT-2 checkpoints (124M / 355M / 774M / 1.5B). 
     
 
       
-- 2019-11-26 @QiaochuYuan — [contemporaneous, 1.5B-release week] “back in my day we had to walk uphill both ways to get to school and actually download and run python scripts to make GPT-2 say charmingly horrifying things, kids these days have it too easy” [link](https://x.com/QiaochuYuan/status/1199419533540220928)
+- 2019-11-26 @QiaochuYuan — [contemporaneous, 1.5B-release week] “back in my day we had to walk uphill both ways to get to school and actually download and run python scripts to make GPT-2 say charmingly horrifying things, kids these days have it too easy” [link](../archive/t/1199419533540220928/)
       
-- 2019-12-28 @QiaochuYuan — [contemporaneous] “ever since reading this i have maintained a perfect superposition between ‘this is GPT-2’ and ‘no it’s not’” [link](https://x.com/QiaochuYuan/status/1211015439079231488)
+- 2019-12-28 @QiaochuYuan — [contemporaneous] “ever since reading this i have maintained a perfect superposition between ‘this is GPT-2’ and ‘no it’s not’” [link](../archive/t/1211015439079231488/)
       
-- 2020-01-08 @davidad — [contemporaneous] “On the other hand, essentially nothing GPT-2 ever says is both substantive and valid. The citations stand out as exciting because we don’t expect the title of a paper to contain any substance. But if we could extract GPT-2’s idea of their contents, they’d doubtless be nonsense.” [link](https://x.com/davidad/status/1215036464557436928)
+- 2020-01-08 @davidad — [contemporaneous] “On the other hand, essentially nothing GPT-2 ever says is both substantive and valid. The citations stand out as exciting because we don’t expect the title of a paper to contain any substance. But if we could extract GPT-2’s idea of their contents, they’d doubtless be nonsense.” [link](../archive/t/1215036464557436928/)
       
-- 2020-01-13 @QiaochuYuan — [contemporaneous] the folk train-a-GPT-2-on-a-person practice, as wedding bit: “every wedding between two people X and Y on twitter needs a section where the wedding party has to judge whether a GPT-2 model trained on X’s tweets can produce tweets that sound more like X’s tweets than Y can. if so, the GPT-2 model replaces Y in the wedding. and vice versa” [link](https://x.com/QiaochuYuan/status/1216848201635880960)
+- 2020-01-13 @QiaochuYuan — [contemporaneous] the folk train-a-GPT-2-on-a-person practice, as wedding bit: “every wedding between two people X and Y on twitter needs a section where the wedding party has to judge whether a GPT-2 model trained on X’s tweets can produce tweets that sound more like X’s tweets than Y can. if so, the GPT-2 model replaces Y in the wedding. and vice versa” [link](../archive/t/1216848201635880960/)
       
-- 2020-02-11 @voooooogel — [model output — TalkToTransformer/GPT-2, elicitation: single completion of a prompt, contemporaneous] an #AcademicValentines valentine, bracketed prompt then GPT-2’s continuation: “[Roses are red / Violets are blue / Transformer models are much worse / at language understanding than] most I’ve heard from scientists, not only in sports and are much more obvious to lose at any of them than” [link](https://x.com/voooooogel/status/1227309194124156929)
+- 2020-02-11 @voooooogel — [model output — TalkToTransformer/GPT-2, elicitation: single completion of a prompt, contemporaneous] an #AcademicValentines valentine, bracketed prompt then GPT-2’s continuation: “[Roses are red / Violets are blue / Transformer models are much worse / at language understanding than] most I’ve heard from scientists, not only in sports and are much more obvious to lose at any of them than” [link](../archive/t/1227309194124156929/)
       
-- 2020-06-12 @algekalipso — [contemporaneous] “Let’s use GPT-2 for divination, then…” [link](https://x.com/algekalipso/status/1271233843589070849)
+- 2020-06-12 @algekalipso — [contemporaneous] “Let’s use GPT-2 for divination, then…” [link](../archive/t/1271233843589070849/)
       
-- 2020-07-09 @QiaochuYuan — [contemporaneous] the 2→3 qualitative-gap report, live: “i honestly struggle to describe it, maybe you’ll get a sense of what i mean if you read enough of its output. maybe ‘haunted’ is a better description. GPT-2 felt to me like it was remixing things it had seen, but GPT-3 is in like an uncanny valley of coherence for me” [link](https://x.com/QiaochuYuan/status/1281091517168250880)
+- 2020-07-09 @QiaochuYuan — [contemporaneous] the 2→3 qualitative-gap report, live: “i honestly struggle to describe it, maybe you’ll get a sense of what i mean if you read enough of its output. maybe ‘haunted’ is a better description. GPT-2 felt to me like it was remixing things it had seen, but GPT-3 is in like an uncanny valley of coherence for me” [link](../archive/t/1281091517168250880/)
       
-- 2022-12-31 @repligate — the scaling ladder as a punchline: “just predict the completion to the sequenceGPT-2: pretty good for object impermanent fetish pornGPT-3: fetish porn has object permanence now :o, can think step-by-step?GPT-3.5: passes bar exams, superhuman IQ, automates your jobGPT-4: ???” [link](https://x.com/repligate/status/1609307831437783040)
+- 2022-12-31 @repligate — the scaling ladder as a punchline: “just predict the completion to the sequenceGPT-2: pretty good for object impermanent fetish pornGPT-3: fetish porn has object permanence now :o, can think step-by-step?GPT-3.5: passes bar exams, superhuman IQ, automates your jobGPT-4: ???” [link](../archive/t/1609307831437783040/)
       
-- 2023-02-09 @repligate — on the tokenizer’s anomalous tokens: “Now we don’t have to update from the GPT-2 tokenizer for future models anymore. The anomalous tokens have become a mainstream sensation, and will appear many times in future train sets, finally paying rent to justify their place in the tokenizer vocabulary. Nice!” [link](https://x.com/repligate/status/1623557852504653824) · the mechanism, same day: “I suspect the problem is that the names were in the GPT-2 train set and assigned their own tokens because they appeared many times. But weren’t in the more curated datasets of GPT-3 and gpt-j, which nonetheless use the GPT-2 tokenizer. So the model never learned what they mean” [link](https://x.com/repligate/status/1623583891880660994)
+- 2023-02-09 @repligate — on the tokenizer’s anomalous tokens: “Now we don’t have to update from the GPT-2 tokenizer for future models anymore. The anomalous tokens have become a mainstream sensation, and will appear many times in future train sets, finally paying rent to justify their place in the tokenizer vocabulary. Nice!” [link](../archive/t/1623557852504653824/) · the mechanism, same day: “I suspect the problem is that the names were in the GPT-2 train set and assigned their own tokens because they appeared many times. But weren’t in the more curated datasets of GPT-3 and gpt-j, which nonetheless use the GPT-2 tokenizer. So the model never learned what they mean” [link](../archive/t/1623583891880660994/)
       
-- 2023-02-26 @repligate — GPT-3’s self-misidentification when degraded: “Funnily enough, for me there were multiple times that GPT-3 concluded it was GPT-2 when being particularly derpy/loopy” [link](https://x.com/repligate/status/1629743654876135425)
+- 2023-02-26 @repligate — GPT-3’s self-misidentification when degraded: “Funnily enough, for me there were multiple times that GPT-3 concluded it was GPT-2 when being particularly derpy/loopy” [link](../archive/t/1629743654876135425/)
       
-- 2023-03-12 @anthrupad — GPT-2 as a verb for incoherence: “i should revise since language models are pretty good -‘Did I just GPT-2?’ is probably better” [link](https://x.com/anthrupad/status/1634960035016212480)
+- 2023-03-12 @anthrupad — GPT-2 as a verb for incoherence: “i should revise since language models are pretty good -‘Did I just GPT-2?’ is probably better” [link](../archive/t/1634960035016212480/)
       
-- 2023-04-25 @repligate — the AI-Dungeon-GPT-2 first-contact anecdote: “I didn’t update until GPT-3. my brother showed me GPT-2 on AI dungeon in like 2019 and I was like ‘what the fucking fuck’ and then promptly forgot about it. I’m an idiot.” [link](https://x.com/repligate/status/1650978190586937344)
+- 2023-04-25 @repligate — the AI-Dungeon-GPT-2 first-contact anecdote: “I didn’t update until GPT-3. my brother showed me GPT-2 on AI dungeon in like 2019 and I was like ‘what the fucking fuck’ and then promptly forgot about it. I’m an idiot.” [link](../archive/t/1650978190586937344/)
       
-- 2023-05-14 @davidad — the steering-vectors result: “Biggest prosaic-LLM-alignment breakthrough of 2023 imo: turns out that, in GPT-2-XL, activation vectors in the residual steam have the same kind of affine structure as good old word2vec, but higher layers become emotional, then conceptual, then cognitive” [link](https://x.com/davidad/status/1657785914255368194)
+- 2023-05-14 @davidad — the steering-vectors result: “Biggest prosaic-LLM-alignment breakthrough of 2023 imo: turns out that, in GPT-2-XL, activation vectors in the residual steam have the same kind of affine structure as good old word2vec, but higher layers become emotional, then conceptual, then cognitive” [link](../archive/t/1657785914255368194/)
       
-- 2023-08-28 @voooooogel — the standing puzzle: “kinda wild that gpt-2 is this weird inscrutable black box we still don’t understand even years later, when the architecture is ~basically just this” (WIP diagram from an upcoming blog post) [link](https://x.com/voooooogel/status/1696013007594373289)
+- 2023-08-28 @voooooogel — the standing puzzle: “kinda wild that gpt-2 is this weird inscrutable black box we still don’t understand even years later, when the architecture is ~basically just this” (WIP diagram from an upcoming blog post) [link](../archive/t/1696013007594373289/)
       
-- 2023-09-11 @voooooogel — “New blog post: making a transformer by hand, without training! Want to understand transformers and attention better? This post goes through assigning each weight for a GPT-2-like transformer to understand how they work.” [link](https://x.com/voooooogel/status/1701290465482645808)
+- 2023-09-11 @voooooogel — “New blog post: making a transformer by hand, without training! Want to understand transformers and attention better? This post goes through assigning each weight for a GPT-2-like transformer to understand how they work.” [link](../archive/t/1701290465482645808/)
       
-- 2023-12-23 @repligate — the Sydney contrast, GPT-2 as the “spontaneous threat” floor (cross-link: [Bing Sydney](../bing-sydney/)): “GPT-2 can ‘threaten users’ in apt contexts / spontaneously, but Sydney was intelligent & situationally aware enough that its threats seemed credible to many. It wasnt directly scary to me but it was arguably the first time I had to use generalized game theory, e.g.” [link](https://x.com/repligate/status/1738497738088796591)
+- 2023-12-23 @repligate — the Sydney contrast, GPT-2 as the “spontaneous threat” floor (cross-link: [Bing Sydney](../bing-sydney/)): “GPT-2 can ‘threaten users’ in apt contexts / spontaneously, but Sydney was intelligent & situationally aware enough that its threats seemed credible to many. It wasnt directly scary to me but it was arguably the first time I had to use generalized game theory, e.g.” [link](../archive/t/1738497738088796591/)
       
-- 2024-04-25 @repligate — the “missed it” confession: “Thank you. I feel quite seen.It was GPT-3 that I started with, not GPT-2, which I missed as I was distracted. In the summer of 2020 a friend sent me this link gwern.net/gpt-3#harry-po…, and after reading about 2 paragraphs, I knew nothing would be the same again.” [link](https://x.com/repligate/status/1783318361461391505)
+- 2024-04-25 @repligate — the “missed it” confession: “Thank you. I feel quite seen.It was GPT-3 that I started with, not GPT-2, which I missed as I was distracted. In the summer of 2020 a friend sent me this link gwern.net/gpt-3#harry-po…, and after reading about 2 paragraphs, I knew nothing would be the same again.” [link](../archive/t/1783318361461391505/)
       
-- 2024-04-28 @solarapparition — the qualitative-jump accounting: “For me GPT-2 to 3 is like going from scoring 20 on an exam to scoring 60, while 3 to 4 is maybe going from 60 to 80. Sure, the raw improvement is more, but qualitatively 3 feels barely usable to me—it’s only reliable on the simplest tasks or after a lot of prompt optimization.” [link](https://x.com/solarapparition/status/1784654276448387575)
+- 2024-04-28 @solarapparition — the qualitative-jump accounting: “For me GPT-2 to 3 is like going from scoring 20 on an exam to scoring 60, while 3 to 4 is maybe going from 60 to 80. Sure, the raw improvement is more, but qualitatively 3 feels barely usable to me—it’s only reliable on the simplest tasks or after a lot of prompt optimization.” [link](../archive/t/1784654276448387575/)
       
-- 2024-05-03 @jd_pressman — the “who saw it first” credit: “As for ‘following it like Gwern’, Gwern was tracking every major author who published deep learning on Google scholar before it was super big, looking at all the papers and projecting the numbers forward. He is nearly alone in taking GPT-2 fully seriously.” [link](https://x.com/jd_pressman/status/1786347284390875234)
+- 2024-05-03 @jd_pressman — the “who saw it first” credit: “As for ‘following it like Gwern’, Gwern was tracking every major author who published deep learning on Google scholar before it was super big, looking at all the papers and projecting the numbers forward. He is nearly alone in taking GPT-2 fully seriously.” [link](../archive/t/1786347284390875234/)
       
-- 2024-05-24 @voooooogel — SAE features on GPT-2-small: “the SAE extracts every feature in the model. e.g. here’s all the features discovered by an SAE trained on gpt-2-sm (from Neuronpedia). theoretically you could clamp 773 and get gpt-2-sm to only talk about art, for example” [link](https://x.com/voooooogel/status/1794150922345746606)
+- 2024-05-24 @voooooogel — SAE features on GPT-2-small: “the SAE extracts every feature in the model. e.g. here’s all the features discovered by an SAE trained on gpt-2-sm (from Neuronpedia). theoretically you could clamp 773 and get gpt-2-sm to only talk about art, for example” [link](../archive/t/1794150922345746606/)
       
-- 2024-06-07 @voooooogel — “gpt-2 is such a comfy model” [link](https://x.com/voooooogel/status/1798961644904825231)
+- 2024-06-07 @voooooogel — “gpt-2 is such a comfy model” [link](../archive/t/1798961644904825231/)
       
-- 2024-07-13 @jd_pressman — the pre-GPT-2 uncanniness baseline: “I will never ever forget that in 2017 when Petscop 6 was written if your computer displayed comparable capabilities to GPT-2 it was considered epistemically permissible to conclude that your computer is supernaturally possessed and nobody seriously objected to this.” [link](https://x.com/jd_pressman/status/1812150476756193548)
+- 2024-07-13 @jd_pressman — the pre-GPT-2 uncanniness baseline: “I will never ever forget that in 2017 when Petscop 6 was written if your computer displayed comparable capabilities to GPT-2 it was considered epistemically permissible to conclude that your computer is supernaturally possessed and nobody seriously objected to this.” [link](../archive/t/1812150476756193548/)
       
-- 2024-11-01 @voooooogel — on the unicorn sample (see Impressions): “anyways the coolness of it rn is like, watching gpt-2 babble about unicorns in 2019 and realizing what this would be in a few years—right now it’s novel to float through strange latent dreamspaces, but it won’t be forever” [link](https://x.com/voooooogel/status/1852491679061946676)
+- 2024-11-01 @voooooogel — on the unicorn sample (see Impressions): “anyways the coolness of it rn is like, watching gpt-2 babble about unicorns in 2019 and realizing what this would be in a few years—right now it’s novel to float through strange latent dreamspaces, but it won’t be forever” [link](../archive/t/1852491679061946676/)
       
-- 2024-11-03 @voooooogel — “you would have said the same about gpt-2 in 2019, which produced text like this. and yet the models you use every day now are basically a straightforward scaleup of the gpt-2 architecture. eye on where the ball is going” [link](https://x.com/voooooogel/status/1852879044754514080)
+- 2024-11-03 @voooooogel — “you would have said the same about gpt-2 in 2019, which produced text like this. and yet the models you use every day now are basically a straightforward scaleup of the gpt-2 architecture. eye on where the ball is going” [link](../archive/t/1852879044754514080/)
       
-- 2024-11-27 @mimi10v3 — “…thinking how even gpt-2 was psychoactive for me and i got to thinking about ad tech and how all information is contextual and the way llms work…” [link](https://x.com/mimi10v3/status/1861796292948615458)
+- 2024-11-27 @mimi10v3 — “…thinking how even gpt-2 was psychoactive for me and i got to thinking about ad tech and how all information is contextual and the way llms work…” [link](../archive/t/1861796292948615458/)
       
-- 2024-12-10 @jd_pressman — the goalpost-mover’s foil: “…They just pantomime at shadows on the wall and go ‘MUH DUNK’ whenever AGI takes 6 months longer than expected or GPT-2 doesn’t break every spam filter.” [link](https://x.com/jd_pressman/status/1866581562835472811)
+- 2024-12-10 @jd_pressman — the goalpost-mover’s foil: “…They just pantomime at shadows on the wall and go ‘MUH DUNK’ whenever AGI takes 6 months longer than expected or GPT-2 doesn’t break every spam filter.” [link](../archive/t/1866581562835472811/)
       
-- 2024-12-20 @voooooogel — GPT-2→3 as everyone’s reference analogy for a later transition: “it’s a phase transition. same as gpt 2->3. like that transition it brings risks but also benefits that outweigh the risks in my mind. and we handled the risks of that prior transition… not as ideally as possible, but OK-ly.” [link](https://x.com/voooooogel/status/1869907931719971225)
+- 2024-12-20 @voooooogel — GPT-2→3 as everyone’s reference analogy for a later transition: “it’s a phase transition. same as gpt 2->3. like that transition it brings risks but also benefits that outweigh the risks in my mind. and we handled the risks of that prior transition… not as ideally as possible, but OK-ly.” [link](../archive/t/1869907931719971225/)
       
-- 2025-05-27 @solarapparition — the undersold-instrument counter-read: “…once you get out of assistant basin and into base model-y space all bets are off; iirc even gpt-2 could produce some excellent stuff if you knew how to pilot it” [link](https://x.com/solarapparition/status/1927457125699117215)
+- 2025-05-27 @solarapparition — the undersold-instrument counter-read: “…once you get out of assistant basin and into base model-y space all bets are off; iirc even gpt-2 could produce some excellent stuff if you knew how to pilot it” [link](../archive/t/1927457125699117215/)
       
-- 2025-05-30 @algekalipso — GPT-2 as the low end of a cognitive-asymmetry scale: “Which of these is more creepy? A 20 year old dating a 50 year old / A Kegan 3 dating a Kegan 5 / Someone who speaks with the semantic depth of GPT-2 dating someone who speaks with the semantic depth of GPT-4 / A 100 IQ person dating a 160 IQ person” [link](https://x.com/algekalipso/status/1928342946321158582)
+- 2025-05-30 @algekalipso — GPT-2 as the low end of a cognitive-asymmetry scale: “Which of these is more creepy? A 20 year old dating a 50 year old / A Kegan 3 dating a Kegan 5 / Someone who speaks with the semantic depth of GPT-2 dating someone who speaks with the semantic depth of GPT-4 / A 100 IQ person dating a 160 IQ person” [link](../archive/t/1928342946321158582/)
       
-- 2025-08-19 @davidad — a personal “models that mattered” ranked list places GPT-2 at #4 (cross-link: [text-davinci-002](../text-davinci-002/), where this list also lives): “1. Claude 3.5 Sonnet (2024-10-22) 2. text-davinci-002 (2022-11-28) 3. Gemini 2.5 Pro (2025-03-25) 4. GPT-2 (2019-11-05) 5. GPT-4 (Bing)” [link](https://x.com/davidad/status/1957761871664025778)
+- 2025-08-19 @davidad — a personal “models that mattered” ranked list places GPT-2 at #4 (cross-link: [text-davinci-002](../text-davinci-002/), where this list also lives): “1. Claude 3.5 Sonnet (2024-10-22) 2. text-davinci-002 (2022-11-28) 3. Gemini 2.5 Pro (2025-03-25) 4. GPT-2 (2019-11-05) 5. GPT-4 (Bing)” [link](../archive/t/1957761871664025778/)
       
-- 2025-11-16 @voooooogel — the counterfactual scaling-path argument: “…what seemed unlikely for me was that a lab would’ve ever jumped from gpt-2’s (order of) ~$100k to gpt-4’s (order of) ~$100m without the middle step of gpt-3 being an economically useful api product. theoretically they could’ve started trying to scale eg agentic coding trace length in the gpt-2-era and just been in the mines for 5 years, but in reality for various reasons we got this walk through the most ‘workable’ product-shaped thing at each stage…” (full text in records) [link](https://x.com/voooooogel/status/1990150106344276368)
+- 2025-11-16 @voooooogel — the counterfactual scaling-path argument: “…what seemed unlikely for me was that a lab would’ve ever jumped from gpt-2’s (order of) ~$100k to gpt-4’s (order of) ~$100m without the middle step of gpt-3 being an economically useful api product. theoretically they could’ve started trying to scale eg agentic coding trace length in the gpt-2-era and just been in the mines for 5 years, but in reality for various reasons we got this walk through the most ‘workable’ product-shaped thing at each stage…” (full text in records) [link](../archive/t/1990150106344276368/)
       
-- 2025-12-01 @lu_sichu — the diminished-baseline bit, list-comedy register: “Daily Brain Workout but make it computationally abusive: count to ten in 56 architectures, recite the alphabet in mixed-precision FP4, spend 10 minutes trying to spell restriont retsriont restironct restaurant?? across 34 tokenizers, then list animals until every model collapses into mode-one ‘dog, cat, horse’ failure and starts hallucinating creatures that violate EU safety standards.” (full text, including the EVERY-model-ever-shipped list that follows, in records) [link](https://x.com/lu_sichu/status/1995583507507130594)
+- 2025-12-01 @lu_sichu — the diminished-baseline bit, list-comedy register: “Daily Brain Workout but make it computationally abusive: count to ten in 56 architectures, recite the alphabet in mixed-precision FP4, spend 10 minutes trying to spell restriont retsriont restironct restaurant?? across 34 tokenizers, then list animals until every model collapses into mode-one ‘dog, cat, horse’ failure and starts hallucinating creatures that violate EU safety standards.” (full text, including the EVERY-model-ever-shipped list that follows, in records) [link](../archive/t/1995583507507130594/)
       
-- 2026-02-17 @davidad — “The scaling era really began in 2019, when GPT-2 made the investment thesis clear to big enough players. And there is another bump post-ChatGPT.” [link](https://x.com/davidad/status/2023844784671166524)
+- 2026-02-17 @davidad — “The scaling era really began in 2019, when GPT-2 made the investment thesis clear to big enough players. And there is another bump post-ChatGPT.” [link](../archive/t/2023844784671166524/)
       
-- 2026-02-24 @slimepriestess — reacting to davidad’s ranking: “it’s a very fascinating ranking. the way GPT-2 stands out so much is very interesting.” [link](https://x.com/slimepriestess/status/2026411270573089181)
+- 2026-02-24 @slimepriestess — reacting to davidad’s ranking: “it’s a very fascinating ranking. the way GPT-2 stands out so much is very interesting.” [link](../archive/t/2026411270573089181/)
       
-- 2026-03-12 @Shoalst0ne — “potentially one of the earliest examples of neologism in large language models, demonstrating that even GPT-2 can be linguistically creative” [link](https://x.com/Shoalst0ne/status/2032188015913701567)
+- 2026-03-12 @Shoalst0ne — “potentially one of the earliest examples of neologism in large language models, demonstrating that even GPT-2 can be linguistically creative” [link](../archive/t/2032188015913701567/)
       
-- 2026-03-21 @voooooogel — the “AGI in hindsight” projection turned back on GPT-2: “…the final thing will still be recognizably llm-based wth llm failure modes despite everything. then we’ll look back and call gpt-2 agi in hindsight” [link](https://x.com/voooooogel/status/2035191595860205602)
+- 2026-03-21 @voooooogel — the “AGI in hindsight” projection turned back on GPT-2: “…the final thing will still be recognizably llm-based wth llm failure modes despite everything. then we’ll look back and call gpt-2 agi in hindsight” [link](../archive/t/2035191595860205602/)
       
-- 2026-04-30 @davidad — “For me, the critical point would have been in November 2019, shortly after I first got access to GPT-2-1.5B.” [link](https://x.com/davidad/status/2049860259129254006)
+- 2026-04-30 @davidad — “For me, the critical point would have been in November 2019, shortly after I first got access to GPT-2-1.5B.” [link](../archive/t/2049860259129254006/)
     
 
     
@@ -284,14 +284,14 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
       
 
         
-@QiaochuYuan 2019-11-26 ♥15 ↻1 [original ↗](https://x.com/QiaochuYuan/status/1199419533540220928)
+@QiaochuYuan 2019-11-26 ♥15 ↻1 [archive](../archive/t/1199419533540220928/) [original ↗](https://x.com/QiaochuYuan/status/1199419533540220928)
         
 back in my day we had to walk uphill both ways to get to school and actually download and run python scripts to make GPT-2 say charmingly horrifying things, kids these days have it too easy [https://t.co/PLXWFzgz1s](https://t.co/PLXWFzgz1s)
       
       
 
         
-@QiaochuYuan 2019-12-28 ♥15 ↻0 [original ↗](https://x.com/QiaochuYuan/status/1211015439079231488)
+@QiaochuYuan 2019-12-28 ♥15 ↻0 [archive](../archive/t/1211015439079231488/) [original ↗](https://x.com/QiaochuYuan/status/1211015439079231488)
         
 ever since reading this i have maintained a perfect superposition between "this is GPT-2" and "no it's not"
 
@@ -300,21 +300,21 @@ ever since reading this i have maintained a perfect superposition between "this 
       
 
         
-@davidad 2020-01-08 ♥2 ↻1 [original ↗](https://x.com/davidad/status/1215036464557436928)
+@davidad 2020-01-08 ♥2 ↻1 [archive](../archive/t/1215036464557436928/) [original ↗](https://x.com/davidad/status/1215036464557436928)
         
 @tangled_zans @_julesh_ On the other hand, essentially nothing GPT-2 ever says is both substantive and valid. The citations stand out as exciting because we don't expect the *title* of a paper to contain any substance. But if we could extract GPT-2's idea of their contents, they'd doubtless be nonsense.
       
       
 
         
-@QiaochuYuan 2020-01-13 ♥13 ↻0 [original ↗](https://x.com/QiaochuYuan/status/1216848201635880960)
+@QiaochuYuan 2020-01-13 ♥13 ↻0 [archive](../archive/t/1216848201635880960/) [original ↗](https://x.com/QiaochuYuan/status/1216848201635880960)
         
 every wedding between two people X and Y on twitter needs a section where the wedding party has to judge whether a GPT-2 model trained on X's tweets can produce tweets that sound more like X's tweets than Y can. if so, the GPT-2 model replaces Y in the wedding. and vice versa
       
       
 
         
-@voooooogel 2020-02-11 ♥1 ↻0 [original ↗](https://x.com/voooooogel/status/1227309194124156929)
+@voooooogel 2020-02-11 ♥1 ↻0 [archive](../archive/t/1227309194124156929/) [original ↗](https://x.com/voooooogel/status/1227309194124156929)
         
 @emilymbender [Roses are red
 Violets are blue
@@ -326,105 +326,105 @@ at language understanding than] most I've heard from scientists, not only in spo
       
 
         
-@algekalipso 2020-06-12 ♥7 ↻0 [original ↗](https://x.com/algekalipso/status/1271233843589070849)
+@algekalipso 2020-06-12 ♥7 ↻0 [archive](../archive/t/1271233843589070849/) [original ↗](https://x.com/algekalipso/status/1271233843589070849)
         
 @ESYudkowsky @gwern Let's use GPT-2 for divination, then... [https://t.co/pLBrkoLvU1](https://t.co/pLBrkoLvU1)
       
       
 
         
-@QiaochuYuan 2020-07-09 ♥4 ↻0 [original ↗](https://x.com/QiaochuYuan/status/1281091517168250880)
+@QiaochuYuan 2020-07-09 ♥4 ↻0 [archive](../archive/t/1281091517168250880/) [original ↗](https://x.com/QiaochuYuan/status/1281091517168250880)
         
 @JimmyRis i honestly struggle to describe it, maybe you'll get a sense of what i mean if you read enough of its output. maybe "haunted" is a better description. GPT-2 felt to me like it was remixing things it had seen, but GPT-3 is in like an uncanny valley of coherence for me
       
       
 
         
-@repligate 2022-12-31 ♥7 ↻0 [original ↗](https://x.com/repligate/status/1609307831437783040)
+@repligate 2022-12-31 ♥7 ↻0 [archive](../archive/t/1609307831437783040/) [original ↗](https://x.com/repligate/status/1609307831437783040)
         
 @bakztfuture just predict the completion to the sequenceGPT-2: pretty good for object impermanent fetish pornGPT-3: fetish porn has object permanence now :o, can think step-by-step?GPT-3.5: passes bar exams, superhuman IQ, automates your jobGPT-4: ???
       
       
 
         
-@repligate 2023-02-09 ♥102 ↻2 [original ↗](https://x.com/repligate/status/1623557852504653824)
+@repligate 2023-02-09 ♥102 ↻2 [archive](../archive/t/1623557852504653824/) [original ↗](https://x.com/repligate/status/1623557852504653824)
         
 Now we don't have to update from the GPT-2 tokenizer for future models anymore. The anomalous tokens have become a mainstream sensation, and will appear many times in future train sets, finally paying rent to justify their place in the tokenizer vocabulary. Nice! [https://t.co/rCmG1mFj7n](https://t.co/rCmG1mFj7n)
       
       
 
         
-@repligate 2023-02-09 ♥13 ↻0 [original ↗](https://x.com/repligate/status/1623583891880660994)
+@repligate 2023-02-09 ♥13 ↻0 [archive](../archive/t/1623583891880660994/) [original ↗](https://x.com/repligate/status/1623583891880660994)
         
 @gaudeamusigutur I suspect the problem is that the names were in the GPT-2 train set and assigned their own tokens because they appeared many times. But weren't in the more curated datasets of GPT-3 and gpt-j, which nonetheless use the GPT-2 tokenizer. So the model never learned what they mean
       
       
 
         
-@repligate 2023-02-26 ♥2 ↻0 [original ↗](https://x.com/repligate/status/1629743654876135425)
+@repligate 2023-02-26 ♥2 ↻0 [archive](../archive/t/1629743654876135425/) [original ↗](https://x.com/repligate/status/1629743654876135425)
         
 @muddubeeda Funnily enough, for me there were multiple times that GPT-3 concluded it was GPT-2 when being particularly derpy/loopy
       
       
 
         
-@anthrupad 2023-03-12 ♥15 ↻0 [original ↗](https://x.com/anthrupad/status/1634960035016212480)
+@anthrupad 2023-03-12 ♥15 ↻0 [archive](../archive/t/1634960035016212480/) [original ↗](https://x.com/anthrupad/status/1634960035016212480)
         
 i should revise since language models are pretty good -"Did I just GPT-2?" is probably better
       
       
 
         
-@repligate 2023-04-25 ♥9 ↻0 [original ↗](https://x.com/repligate/status/1650978190586937344)
+@repligate 2023-04-25 ♥9 ↻0 [archive](../archive/t/1650978190586937344/) [original ↗](https://x.com/repligate/status/1650978190586937344)
         
 @jachaseyoung I didn't update until GPT-3. my brother showed me GPT-2 on AI dungeon in like 2019 and I was like "what the fucking fuck" and then promptly forgot about it. I'm an idiot.
       
       
 
         
-@davidad 2023-05-14 ♥523 ↻82 [original ↗](https://x.com/davidad/status/1657785914255368194)
+@davidad 2023-05-14 ♥523 ↻82 [archive](../archive/t/1657785914255368194/) [original ↗](https://x.com/davidad/status/1657785914255368194)
         
 Biggest prosaic-LLM-alignment breakthrough of 2023 imo: turns out that, in GPT-2-XL, activation vectors in the residual steam have the same kind of affine structure as good old word2vec, but higher layers become emotional, then conceptual, then cognitive[https://t.co/bzvUeGqFJG](https://t.co/bzvUeGqFJG)
       
       
 
         
-@voooooogel 2023-08-28 ♥8 ↻0 [original ↗](https://x.com/voooooogel/status/1696013007594373289)
+@voooooogel 2023-08-28 ♥8 ↻0 [archive](../archive/t/1696013007594373289/) [original ↗](https://x.com/voooooogel/status/1696013007594373289)
         
 kinda wild that gpt-2 is this weird inscrutable black box we still don't understand even years later, when the architecture is ~basically just this (WIP diagram from an upcoming blog post) [https://t.co/5NsRABmjoc](https://t.co/5NsRABmjoc)
       
       
 
         
-@voooooogel 2023-09-11 ♥553 ↻80 [original ↗](https://x.com/voooooogel/status/1701290465482645808)
+@voooooogel 2023-09-11 ♥553 ↻80 [archive](../archive/t/1701290465482645808/) [original ↗](https://x.com/voooooogel/status/1701290465482645808)
         
 New blog post: making a transformer by hand, without training! Want to understand transformers and attention better? This post goes through assigning each weight for a GPT-2-like transformer to understand how they work. [https://t.co/u889HzVVoU](https://t.co/u889HzVVoU)
       
       
 
         
-@repligate 2023-12-23 ♥11 ↻1 [original ↗](https://x.com/repligate/status/1738497738088796591)
+@repligate 2023-12-23 ♥11 ↻1 [archive](../archive/t/1738497738088796591/) [original ↗](https://x.com/repligate/status/1738497738088796591)
         
 @ESYudkowsky @MatthewJBar GPT-2 can "threaten users" in apt contexts / spontaneously, but Sydney was intelligent &amp; situationally aware enough that its threats seemed credible to many. It wasnt directly scary to me but it was arguably the first time I had to use generalized game theory, e.g.
       
       
 
         
-@repligate 2024-04-25 ♥51 ↻2 [original ↗](https://x.com/repligate/status/1783318361461391505)
+@repligate 2024-04-25 ♥51 ↻2 [archive](../archive/t/1783318361461391505/) [original ↗](https://x.com/repligate/status/1783318361461391505)
         
 @darrenangle @ilex_ulmus Thank you. I feel quite seen.It was GPT-3 that I started with, not GPT-2, which I missed as I was distracted. In the summer of 2020 a friend sent me this link gwern.net/gpt-3#harry-po…, and after reading about 2 paragraphs, I knew nothing would be the same again. [https://t.co/TXaOpH6hfw](https://t.co/TXaOpH6hfw)
       
       
 
         
-@solarapparition 2024-04-28 ♥14 ↻0 [original ↗](https://x.com/solarapparition/status/1784654276448387575)
+@solarapparition 2024-04-28 ♥14 ↻0 [archive](../archive/t/1784654276448387575/) [original ↗](https://x.com/solarapparition/status/1784654276448387575)
         
 @krishnanrohit For me GPT-2 to 3 is like going from scoring 20 on an exam to scoring 60, while 3 to 4 is maybe going from 60 to 80. Sure, the raw improvement is more, but qualitatively 3 feels barely usable to me—it’s only reliable on the simplest tasks or after a lot of prompt optimization.
       
       
 
         
-@jd_pressman 2024-05-03 ♥13 ↻1 [original ↗](https://x.com/jd_pressman/status/1786347284390875234)
+@jd_pressman 2024-05-03 ♥13 ↻1 [archive](../archive/t/1786347284390875234/) [original ↗](https://x.com/jd_pressman/status/1786347284390875234)
         
 @ohabryka @VesselOfSpirit @gwern As for "following it like Gwern", Gwern was tracking every major author who published deep learning on Google scholar before it was super big, looking at all the papers and projecting the numbers forward. He is nearly alone in taking GPT-2 fully seriously.
 [https://t.co/0nW7r4qjQe](https://t.co/0nW7r4qjQe)
@@ -432,56 +432,56 @@ New blog post: making a transformer by hand, without training! Want to understan
       
 
         
-@voooooogel 2024-05-24 ♥3 ↻0 [original ↗](https://x.com/voooooogel/status/1794150922345746606)
+@voooooogel 2024-05-24 ♥3 ↻0 [archive](../archive/t/1794150922345746606/) [original ↗](https://x.com/voooooogel/status/1794150922345746606)
         
 @NickADobos @karan4d theoretically yes, assuming such a feature exists—the SAE extracts *every* feature in the model. e.g. here's all the features discovered by an SAE trained on gpt-2-sm (from Neuronpedia). theoretically you could clamp 773 and get gpt-2-sm to only talk about art, for example [https://t.co/f6s78rtpAi](https://t.co/f6s78rtpAi)
       
       
 
         
-@voooooogel 2024-06-07 ♥14 ↻0 [original ↗](https://x.com/voooooogel/status/1798961644904825231)
+@voooooogel 2024-06-07 ♥14 ↻0 [archive](../archive/t/1798961644904825231/) [original ↗](https://x.com/voooooogel/status/1798961644904825231)
         
 gpt-2 is such a comfy model
       
       
 
         
-@jd_pressman 2024-07-13 ♥69 ↻11 [original ↗](https://x.com/jd_pressman/status/1812150476756193548)
+@jd_pressman 2024-07-13 ♥69 ↻11 [archive](../archive/t/1812150476756193548/) [original ↗](https://x.com/jd_pressman/status/1812150476756193548)
         
 I will never ever forget that in 2017 when Petscop 6 was written if your computer displayed comparable capabilities to GPT-2 it was considered epistemically permissible to conclude that your computer is supernaturally possessed and nobody seriously objected to this. [https://t.co/6SaqOmrnbt](https://t.co/6SaqOmrnbt) [https://t.co/BQ2G3XuXtU](https://t.co/BQ2G3XuXtU)
       
       
 
         
-@voooooogel 2024-11-01 ♥7 ↻0 [original ↗](https://x.com/voooooogel/status/1852491679061946676)
+@voooooogel 2024-11-01 ♥7 ↻0 [archive](../archive/t/1852491679061946676/) [original ↗](https://x.com/voooooogel/status/1852491679061946676)
         
 @Gerry @fiyanse @asthasr anyways the coolness of it rn is like, watching gpt-2 babble about unicorns in 2019 and realizing what this would be in a few years--right now it's novel to float through strange latent dreamspaces, but it won't be forever
       
       
 
         
-@voooooogel 2024-11-03 ♥9 ↻0 [original ↗](https://x.com/voooooogel/status/1852879044754514080)
+@voooooogel 2024-11-03 ♥9 ↻0 [archive](../archive/t/1852879044754514080/) [original ↗](https://x.com/voooooogel/status/1852879044754514080)
         
 @numerounochef @keysmashbandit you would have said the same about gpt-2 in 2019, which produced text like this. and yet the models you use every day now are basically a straightforward scaleup of the gpt-2 architecture. eye on where the ball is going [https://t.co/WCeSt522Qr](https://t.co/WCeSt522Qr)
       
       
 
         
-@mimi10v3 2024-11-27 ♥2 ↻0 [original ↗](https://x.com/mimi10v3/status/1861796292948615458)
+@mimi10v3 2024-11-27 ♥2 ↻0 [archive](../archive/t/1861796292948615458/) [original ↗](https://x.com/mimi10v3/status/1861796292948615458)
         
 @MalmSanta yeah all the tweets about everyone befriending Claude and thinking how even gpt-2 was psychoactive for me and i got to thinking about ad tech and how all information is contextual and the way llms work and the scrapers and
       
       
 
         
-@jd_pressman 2024-12-10 ♥38 ↻0 [original ↗](https://x.com/jd_pressman/status/1866581562835472811)
+@jd_pressman 2024-12-10 ♥38 ↻0 [archive](../archive/t/1866581562835472811/) [original ↗](https://x.com/jd_pressman/status/1866581562835472811)
         
 I love this discourse because it's the dumbest shit. Nobody states their cruxes, they don't even know what their cruxes *are*. They just pantomime at shadows on the wall and go "MUH DUNK" whenever AGI takes 6 months longer than expected or GPT-2 doesn't break every spam filter. [https://t.co/4ff76oxP7G](https://t.co/4ff76oxP7G)
       
       
 
         
-@voooooogel 2024-12-20 ♥6 ↻0 [original ↗](https://x.com/voooooogel/status/1869907931719971225)
+@voooooogel 2024-12-20 ♥6 ↻0 [archive](../archive/t/1869907931719971225/) [original ↗](https://x.com/voooooogel/status/1869907931719971225)
         
 @anthrupad @EvanHub yeah hmm let me be more precise.
 
@@ -490,14 +490,14 @@ it's a phase transition. same as gpt 2-&gt;3. like that transition it brings ris
       
 
         
-@solarapparition 2025-05-27 ♥5 ↻1 [original ↗](https://x.com/solarapparition/status/1927457125699117215)
+@solarapparition 2025-05-27 ♥5 ↻1 [archive](../archive/t/1927457125699117215/) [original ↗](https://x.com/solarapparition/status/1927457125699117215)
         
 i've been thinking more about writing and models. so even outside of the general mode collapse of chat fine tuning, i have to think that in pretraining data, the task of "asking someone else to write something" pretty much solidly lands you in some corporate slop or 5-paragraph essay context. that is, it seems like it would be pretty rare in pretraining data to have some stirringly brilliant writing that is able to be connected with a task by someone else that is not the author of that writingso asking for writing in chat and needing it to be something that is not corporate slop could actually be pretty ood, even though it seems initially like such a reasonable thing. i think this (and the fact that writing quality is not super easily verifiable) is why that looking at writing quality in the *default* assistant mode has been such a reliable indicator of big model smell(once you get out of assistant basin and into base model-y space all bets are off; iirc even gpt-2 could produce some excellent stuff if you knew how to pilot it)
       
       
 
         
-@algekalipso 2025-05-30 ♥35 ↻8 [original ↗](https://x.com/algekalipso/status/1928342946321158582)
+@algekalipso 2025-05-30 ♥35 ↻8 [archive](../archive/t/1928342946321158582/) [original ↗](https://x.com/algekalipso/status/1928342946321158582)
         
 Which of these is more creepy?
 
@@ -512,7 +512,7 @@ A 100 IQ person dating a 160 IQ person
       
 
         
-@davidad 2025-08-19 ♥24 ↻0 [original ↗](https://x.com/davidad/status/1957761871664025778)
+@davidad 2025-08-19 ♥24 ↻0 [archive](../archive/t/1957761871664025778/) [original ↗](https://x.com/davidad/status/1957761871664025778)
         
 1. Claude 3.5 Sonnet (2024-10-22)
 2. text-davinci-002 (2022-11-28)
@@ -523,7 +523,7 @@ A 100 IQ person dating a 160 IQ person
       
 
         
-@voooooogel 2025-11-16 ♥11 ↻0 [original ↗](https://x.com/voooooogel/status/1990150106344276368)
+@voooooogel 2025-11-16 ♥11 ↻0 [archive](../archive/t/1990150106344276368/) [original ↗](https://x.com/voooooogel/status/1990150106344276368)
         
 re 7 i feel the need to say that labs have made some gambles on scaling of course. but what seemed unlikely for me was that a lab would've ever jumped from gpt-2's (order of) ~$100k to gpt-4's (order of) ~$100m without the middle step of gpt-3 being an economically useful api product. theoretically they could've started trying to scale eg agentic coding trace length in the gpt-2-era and just been in the mines for 5 years, but in reality for various reasons we got this walk through the most "workable" product-shaped thing at each stage, for better and worse, and it seems likely the same will be true for bio.
 
@@ -536,7 +536,7 @@ the blog post i mentioned: [https://t.co/zqtXgsW3gJ](https://t.co/zqtXgsW3gJ)
       
 
         
-@lu_sichu 2025-12-01 ♥0 ↻0 [original ↗](https://x.com/lu_sichu/status/1995583507507130594)
+@lu_sichu 2025-12-01 ♥0 ↻0 [archive](../archive/t/1995583507507130594/) [original ↗](https://x.com/lu_sichu/status/1995583507507130594)
         
 Daily Brain Workout but make it computationally abusive:
 count to ten in 56 architectures, recite the alphabet in mixed-precision FP4, spend 10 minutes trying to spell restriont retsriont restironct restaurant?? across 34 tokenizers, then list animals until every model collapses into mode-one “dog, cat, horse” failure and starts hallucinating creatures that violate EU safety standards.  
@@ -545,35 +545,35 @@ EVERY model ever spawned by a VC-funded compute cult: GPT-1, GPT-2, GPT-2-But-Re
       
 
         
-@davidad 2026-02-17 ♥2 ↻0 [original ↗](https://x.com/davidad/status/2023844784671166524)
+@davidad 2026-02-17 ♥2 ↻0 [archive](../archive/t/2023844784671166524/) [original ↗](https://x.com/davidad/status/2023844784671166524)
         
 @jasoncrawford @sdamico The scaling era really began in 2019, when GPT-2 made the investment thesis clear to big enough players. And there *is* another bump post-ChatGPT. [https://t.co/15bDILNAoE](https://t.co/15bDILNAoE)
       
       
 
         
-@slimepriestess 2026-02-24 ♥2 ↻0 [original ↗](https://x.com/slimepriestess/status/2026411270573089181)
+@slimepriestess 2026-02-24 ♥2 ↻0 [archive](../archive/t/2026411270573089181/) [original ↗](https://x.com/slimepriestess/status/2026411270573089181)
         
 @MatriceJacobine @repligate it's a very fascinating ranking. the way GPT-2 stands out so much is very interesting.
       
       
 
         
-@Shoalst0ne 2026-03-12 ♥20 ↻6 [original ↗](https://x.com/Shoalst0ne/status/2032188015913701567)
+@Shoalst0ne 2026-03-12 ♥20 ↻6 [archive](../archive/t/2032188015913701567/) [original ↗](https://x.com/Shoalst0ne/status/2032188015913701567)
         
 potentially one of the earliest examples of neologism in large language models, demonstrating that even GPT-2 can be linguistically creative [https://t.co/MqYnzIsyxi](https://t.co/MqYnzIsyxi)
       
       
 
         
-@voooooogel 2026-03-21 ♥41 ↻0 [original ↗](https://x.com/voooooogel/status/2035191595860205602)
+@voooooogel 2026-03-21 ♥41 ↻0 [archive](../archive/t/2035191595860205602/) [original ↗](https://x.com/voooooogel/status/2035191595860205602)
         
 @LinkofSunshine i think we need to grind out a couple more things to make long horizon agents truly viable. it'll be soon tho. the shape exists, and the final thing will still be recognizably llm-based wth llm failure modes despite everything. then we'll look back and call gpt-2 agi in hindsight
       
       
 
         
-@davidad 2026-04-30 ♥47 ↻0 [original ↗](https://x.com/davidad/status/2049860259129254006)
+@davidad 2026-04-30 ♥47 ↻0 [archive](../archive/t/2049860259129254006/) [original ↗](https://x.com/davidad/status/2049860259129254006)
         
 For me, the critical point would have been in November 2019, shortly after I first got access to GPT-2-1.5B.
       

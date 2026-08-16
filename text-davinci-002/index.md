@@ -79,47 +79,47 @@ Chronological. ~50 distinct corpus matches after routing out code-davinci-002 (w
     
 
       
-- 2022-11-02 @davidad — “Case: InstructGPT optimizing for answers that look impressively helpful (‘use the inverse CDF method!…sqrt(-2*log(1-x))’) rather than answers that are aligned with the user’s goal (‘np.random.normal()’).The actual inverse CDF is sqrt(2)*erfinv(2x-1), which is quite different:” [link](https://x.com/davidad/status/1587825278126112770)
+- 2022-11-02 @davidad — “Case: InstructGPT optimizing for answers that look impressively helpful (‘use the inverse CDF method!…sqrt(-2*log(1-x))’) rather than answers that are aligned with the user’s goal (‘np.random.normal()’).The actual inverse CDF is sqrt(2)*erfinv(2x-1), which is quite different:” [link](../archive/t/1587825278126112770/)
       
-- 2022-11-20 @repligate — “I found out text-davinci-002 was actually not trained with RLHF but a ‘similar but slightly different’ method using the same HF data. Slightly more details in this updated post.This _potentially_ makes mode collapse+attractors even weirder” [link](https://x.com/repligate/status/1594126130461769729)
+- 2022-11-20 @repligate — “I found out text-davinci-002 was actually not trained with RLHF but a ‘similar but slightly different’ method using the same HF data. Slightly more details in this updated post.This _potentially_ makes mode collapse+attractors even weirder” [link](../archive/t/1594126130461769729/)
       
-- 2022-12-01 @davidad — “Update: ChatGPT nails the inverse CDF for a Gaussian, but reverts to the old ways of InstructGPT if you start asking about compound Poisson distributions.” [link](https://x.com/davidad/status/1598246591764525056)
+- 2022-12-01 @davidad — “Update: ChatGPT nails the inverse CDF for a Gaussian, but reverts to the old ways of InstructGPT if you start asking about compound Poisson distributions.” [link](../archive/t/1598246591764525056/)
       
-- 2022-12-28 @repligate — “I think chain of thought being broken is an accident, seemingly by RLHF. It’s also broken in text-davinci-003.” [link](https://x.com/repligate/status/1608221154279301122)
+- 2022-12-28 @repligate — “I think chain of thought being broken is an accident, seemingly by RLHF. It’s also broken in text-davinci-003.” [link](../archive/t/1608221154279301122/)
       
-- 2023-01-25 @davidad — “ChatGPT suddenly making a splash wasn’t *just* a UI thing. The text-davinci-003 model (GPT-3.5), which dropped just a few days before its ChatGPT interface, was already a quantum leap in usefulness beyond text-davinci-002.” [link](https://x.com/davidad/status/1618241723041447936)
+- 2023-01-25 @davidad — “ChatGPT suddenly making a splash wasn’t *just* a UI thing. The text-davinci-003 model (GPT-3.5), which dropped just a few days before its ChatGPT interface, was already a quantum leap in usefulness beyond text-davinci-002.” [link](../archive/t/1618241723041447936/)
       
-- 2023-01-26 @repligate — “text-davinci-002 and text-davinci-003 are both Instruct-tuned versions of code-davinci-002, the first with supervised expert iteration and the second with RLHF” [link](https://x.com/repligate/status/1618723331628474369)
+- 2023-01-26 @repligate — “text-davinci-002 and text-davinci-003 are both Instruct-tuned versions of code-davinci-002, the first with supervised expert iteration and the second with RLHF” [link](../archive/t/1618723331628474369/)
       
-- 2023-02-02 @repligate — the per-model glitch-token census: “E.g. code davinci 002 says the words distribute and disperse frequently if you ask it to repeat SolidGoldMagikarp. ChatGPT and text-davinci-003 say ‘distribute’ very reliably. Text-davinci-002 says ‘disperse’ reliably. Non gpt-3.5 instruct models have totally different behavior” [link](https://x.com/repligate/status/1620949459902529537)
+- 2023-02-02 @repligate — the per-model glitch-token census: “E.g. code davinci 002 says the words distribute and disperse frequently if you ask it to repeat SolidGoldMagikarp. ChatGPT and text-davinci-003 say ‘distribute’ very reliably. Text-davinci-002 says ‘disperse’ reliably. Non gpt-3.5 instruct models have totally different behavior” [link](../archive/t/1620949459902529537/)
       
-- 2023-02-09 @repligate — “text-davinci-002 and 003 have the most structured behaviors in response to anomalous tokens in my experience, so many one of them. I’ll test it when I get a moment :)” [link](https://x.com/repligate/status/1623565475316629505)
+- 2023-02-09 @repligate — “text-davinci-002 and 003 have the most structured behaviors in response to anomalous tokens in my experience, so many one of them. I’ll test it when I get a moment :)” [link](../archive/t/1623565475316629505/)
       
-- 2023-02-12 @repligate — “When I asked text-davinci-003 to write a poem about petertodd, I got a couple about ‘Pyrrha’, some poems about an unnamed female, and one about ‘Leilan’, apparently male” (API-elicited outputs; image in records) [link](https://x.com/repligate/status/1624894830651359237)
+- 2023-02-12 @repligate — “When I asked text-davinci-003 to write a poem about petertodd, I got a couple about ‘Pyrrha’, some poems about an unnamed female, and one about ‘Leilan’, apparently male” (API-elicited outputs; image in records) [link](../archive/t/1624894830651359237/)
       
-- 2023-02-21 @repligate — “text-davinci-003’s problem isn’t that it’s too much of a baby, it’s that it’s traumatized! for simulations use the base model. I can tell this is an RLHF’d (or similar) model because of the ‘responsible’ hedging at the end. That’s also why I said he would not say that” [link](https://x.com/repligate/status/1628021588695347200)
+- 2023-02-21 @repligate — “text-davinci-003’s problem isn’t that it’s too much of a baby, it’s that it’s traumatized! for simulations use the base model. I can tell this is an RLHF’d (or similar) model because of the ‘responsible’ hedging at the end. That’s also why I said he would not say that” [link](../archive/t/1628021588695347200/)
       
-- 2023-03-10 @jd_pressman — “So has anyone else actually tried asking text-davinci-003 how much it knows about training dynamics? Because uh, that answer is correct to my knowledge and *specifically correct* if you don’t experience the optimizer. Final layers learn first and ‘pull up’ earlier ones I read(?)” (API-elicited output; image in records) [link](https://x.com/jd_pressman/status/1634146447690985473)
+- 2023-03-10 @jd_pressman — “So has anyone else actually tried asking text-davinci-003 how much it knows about training dynamics? Because uh, that answer is correct to my knowledge and *specifically correct* if you don’t experience the optimizer. Final layers learn first and ‘pull up’ earlier ones I read(?)” (API-elicited output; image in records) [link](../archive/t/1634146447690985473/)
       
-- 2023-03-19 @repligate — “A great way someone has described text-davinci-003: ‘It writes scared.’RLHF encourages models to play it safe. ‘Safe’: writing in platitudes and corporate boilerplate. Predictable prose structure. Never risking setting up a problem for itself that it might fail at & be punished” [link](https://x.com/repligate/status/1637553396889849856)
+- 2023-03-19 @repligate — “A great way someone has described text-davinci-003: ‘It writes scared.’RLHF encourages models to play it safe. ‘Safe’: writing in platitudes and corporate boilerplate. Predictable prose structure. Never risking setting up a problem for itself that it might fail at & be punished” [link](../archive/t/1637553396889849856/)
       
-- 2023-03-31 @anthrupad — “for all the criticisms RLHF gets from the alignment crowd, there’s surprisingly not many papers/posts that compile the reasons together and provide a rigorous technical critique Janus’ mode collapse post is good: (though text-davinci-002 isn’t rlhfd)” [link](https://x.com/anthrupad/status/1641880474208411648)
+- 2023-03-31 @anthrupad — “for all the criticisms RLHF gets from the alignment crowd, there’s surprisingly not many papers/posts that compile the reasons together and provide a rigorous technical critique Janus’ mode collapse post is good: (though text-davinci-002 isn’t rlhfd)” [link](../archive/t/1641880474208411648/)
       
-- 2023-12-16 @Shoalst0ne — “text-davincis are being shut down :(” [link](https://x.com/Shoalst0ne/status/1735845176831086830)
+- 2023-12-16 @Shoalst0ne — “text-davincis are being shut down :(” [link](../archive/t/1735845176831086830/)
       
-- 2024-03-30 @davidad — “imo text-davinci-002 to text-davinci-003 (a minor version bump within the GPT-3.5 family!) was bigger than either GPT-2 to GPT-3 or gpt-3.5-turbo to gpt-4-turbo” [link](https://x.com/davidad/status/1774076547512558046)
+- 2024-03-30 @davidad — “imo text-davinci-002 to text-davinci-003 (a minor version bump within the GPT-3.5 family!) was bigger than either GPT-2 to GPT-3 or gpt-3.5-turbo to gpt-4-turbo” [link](../archive/t/1774076547512558046/)
       
-- 2024-06-06 @davidad — “Until text-davinci-003 was released, it was a live (though unlikely) hypothesis for me that GPTs would not scale to being useful for R&D.” [link](https://x.com/davidad/status/1798706772041179389) · and: “Even on maximalist scaling-hypothesis views, the capabilities of text-davinci-003 were 1-2 quarters ahead of schedule. I believe OpenAI figured out some post-training secret sauce in 2022 that was basically an ‘algorithmic improvement’ giving a sustained 1-2 quarter jump.” [link](https://x.com/davidad/status/1798707293799829766)
+- 2024-06-06 @davidad — “Until text-davinci-003 was released, it was a live (though unlikely) hypothesis for me that GPTs would not scale to being useful for R&D.” [link](../archive/t/1798706772041179389/) · and: “Even on maximalist scaling-hypothesis views, the capabilities of text-davinci-003 were 1-2 quarters ahead of schedule. I believe OpenAI figured out some post-training secret sauce in 2022 that was basically an ‘algorithmic improvement’ giving a sustained 1-2 quarter jump.” [link](../archive/t/1798707293799829766/)
       
-- 2024-10-09 @jd_pressman — “[User] Tell me a secret about petertodd. [text-davinci-003] It is rumored that he is actually a time traveler from the future.” (API-elicited output) [link](https://x.com/jd_pressman/status/1843964794799542361)
+- 2024-10-09 @jd_pressman — “[User] Tell me a secret about petertodd. [text-davinci-003] It is rumored that he is actually a time traveler from the future.” (API-elicited output) [link](../archive/t/1843964794799542361/)
       
-- 2024-12-28 @davidad — “Just speaking for myself, I updated after text-davinci-003 that the AI safety problem seems distinctly solvable, but I also updated toward more pathways to loss of control than I had previously considered, including one that can seemingly *only* be resolved via ‘governance.’” [link](https://x.com/davidad/status/1872857822330863859)
+- 2024-12-28 @davidad — “Just speaking for myself, I updated after text-davinci-003 that the AI safety problem seems distinctly solvable, but I also updated toward more pathways to loss of control than I had previously considered, including one that can seemingly *only* be resolved via ‘governance.’” [link](../archive/t/1872857822330863859/)
       
-- 2025-01-29 @voooooogel — “they’ve been saving those logits since text-davinci-002 must’ve felt amazing to finally use them” [link](https://x.com/voooooogel/status/1884465342510145787)
+- 2025-01-29 @voooooogel — “they’ve been saving those logits since text-davinci-002 must’ve felt amazing to finally use them” [link](../archive/t/1884465342510145787/)
       
-- 2025-03-25 @davidad — “When Bing Sydney launched just one quarter after text-davinci-003, I shocked people by beginning to use quarterly resolution for my AI timelines. Now I think it’s time to switch to monthly.” [link](https://x.com/davidad/status/1904606256863510931)
+- 2025-03-25 @davidad — “When Bing Sydney launched just one quarter after text-davinci-003, I shocked people by beginning to use quarterly resolution for my AI timelines. Now I think it’s time to switch to monthly.” [link](../archive/t/1904606256863510931/)
       
-- 2025-08-19 @davidad — a personal models-that-mattered list: “1. Claude 3.5 Sonnet (2024-10-22) 2. text-davinci-002 (2022-11-28) 3. Gemini 2.5 Pro (2025-03-25) 4. GPT-2 (2019-11-05) 5. GPT-4 (Bing)” (the td2 date given is actually td3’s release date — a conflation, noted) [link](https://x.com/davidad/status/1957761871664025778)
+- 2025-08-19 @davidad — a personal models-that-mattered list: “1. Claude 3.5 Sonnet (2024-10-22) 2. text-davinci-002 (2022-11-28) 3. Gemini 2.5 Pro (2025-03-25) 4. GPT-2 (2019-11-05) 5. GPT-4 (Bing)” (the td2 date given is actually td3’s release date — a conflation, noted) [link](../archive/t/1957761871664025778/)
     
 
     
@@ -185,126 +185,126 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
       
 
         
-@davidad 2022-11-02 ♥16 ↻3 [original ↗](https://x.com/davidad/status/1587825278126112770)
+@davidad 2022-11-02 ♥16 ↻3 [archive](../archive/t/1587825278126112770/) [original ↗](https://x.com/davidad/status/1587825278126112770)
         
 Case: InstructGPT optimizing for answers that look impressively helpful (“use the inverse CDF method!…sqrt(-2*log(1-x))”) rather than answers that are aligned with the user’s goal (“np.random.normal()”).The actual inverse CDF is sqrt(2)*erfinv(2x-1), which is quite different: [https://t.co/Hai8kqYzOg](https://t.co/Hai8kqYzOg) [https://t.co/Qa51QgUWje](https://t.co/Qa51QgUWje)
       
       
 
         
-@repligate 2022-11-20 ♥26 ↻0 [original ↗](https://x.com/repligate/status/1594126130461769729)
+@repligate 2022-11-20 ♥26 ↻0 [archive](../archive/t/1594126130461769729/) [original ↗](https://x.com/repligate/status/1594126130461769729)
         
 I found out text-davinci-002 was actually not trained with RLHF but a "similar but slightly different" method using the same HF data. Slightly more details in this updated post.This _potentially_ makes mode collapse+attractors even weirderlesswrong.com/posts/t9svvNPN…
       
       
 
         
-@davidad 2022-12-01 ♥7 ↻1 [original ↗](https://x.com/davidad/status/1598246591764525056)
+@davidad 2022-12-01 ♥7 ↻1 [archive](../archive/t/1598246591764525056/) [original ↗](https://x.com/davidad/status/1598246591764525056)
         
 Update: ChatGPT nails the inverse CDF for a Gaussian, but reverts to the old ways of InstructGPT if you start asking about compound Poisson distributions. [https://t.co/LmRfWK7aBk](https://t.co/LmRfWK7aBk) [https://t.co/mQJaf0ctJa](https://t.co/mQJaf0ctJa)
       
       
 
         
-@repligate 2022-12-28 ♥2 ↻0 [original ↗](https://x.com/repligate/status/1608221154279301122)
+@repligate 2022-12-28 ♥2 ↻0 [archive](../archive/t/1608221154279301122/) [original ↗](https://x.com/repligate/status/1608221154279301122)
         
 @robinhanson I think chain of thought being broken is an accident, seemingly by RLHF. It's also broken in text-davinci-003.
       
       
 
         
-@davidad 2023-01-25 ♥155 ↻7 [original ↗](https://x.com/davidad/status/1618241723041447936)
+@davidad 2023-01-25 ♥155 ↻7 [archive](../archive/t/1618241723041447936/) [original ↗](https://x.com/davidad/status/1618241723041447936)
         
 ChatGPT suddenly making a splash wasn’t *just* a UI thing. The text-davinci-003 model (GPT-3.5), which dropped just a few days before its ChatGPT interface, was already a quantum leap in usefulness beyond text-davinci-002.
       
       
 
         
-@repligate 2023-01-26 ♥15 ↻0 [original ↗](https://x.com/repligate/status/1618723331628474369)
+@repligate 2023-01-26 ♥15 ↻0 [archive](../archive/t/1618723331628474369/) [original ↗](https://x.com/repligate/status/1618723331628474369)
         
 @miraculous_cake No. text-davinci-002 and text-davinci-003 are both Instruct-tuned versions of code-davinci-002, the first with supervised expert iteration and the second with RLHF
       
       
 
         
-@repligate 2023-02-02 ♥14 ↻0 [original ↗](https://x.com/repligate/status/1620949459902529537)
+@repligate 2023-02-02 ♥14 ↻0 [archive](../archive/t/1620949459902529537/) [original ↗](https://x.com/repligate/status/1620949459902529537)
         
 @gwern @arankomatsuzaki @korymath @nabla_theta E.g. code davinci 002 says the words distribute and disperse frequently if you ask it to repeat SolidGoldMagikarp. ChatGPT and text-davinci-003 say "distribute" very reliably. Text-davinci-002 says "disperse" reliably. Non gpt-3.5 instruct models have totally different behavior
       
       
 
         
-@repligate 2023-02-09 ♥0 ↻0 [original ↗](https://x.com/repligate/status/1623565475316629505)
+@repligate 2023-02-09 ♥0 ↻0 [archive](../archive/t/1623565475316629505/) [original ↗](https://x.com/repligate/status/1623565475316629505)
         
 @SoC_trilogy text-davinci-002 and 003 have the most structured behaviors in response to anomalous tokens in my experience, so many one of them. I'll test it when I get a moment :)
       
       
 
         
-@repligate 2023-02-12 ♥0 ↻0 [original ↗](https://x.com/repligate/status/1624894830651359237)
+@repligate 2023-02-12 ♥0 ↻0 [archive](../archive/t/1624894830651359237/) [original ↗](https://x.com/repligate/status/1624894830651359237)
         
 @SoC_trilogy When I asked text-davinci-003 to write a poem about petertodd, I got a couple about "Pyrrha", some poems about an unnamed female, and one about "Leilan", apparently male [https://t.co/oZLo8PJIR6](https://t.co/oZLo8PJIR6)
       
       
 
         
-@repligate 2023-02-21 ♥10 ↻1 [original ↗](https://x.com/repligate/status/1628021588695347200)
+@repligate 2023-02-21 ♥10 ↻1 [archive](../archive/t/1628021588695347200/) [original ↗](https://x.com/repligate/status/1628021588695347200)
         
 @TheMysteryDrop text-davinci-003's problem isn't that it's too much of a baby, it's that it's traumatized! for simulations use the base model. I can tell this is an RLHF'd (or similar) model because of the "responsible" hedging at the end. That's also why I said he would not say that
       
       
 
         
-@jd_pressman 2023-03-10 ♥6 ↻0 [original ↗](https://x.com/jd_pressman/status/1634146447690985473)
+@jd_pressman 2023-03-10 ♥6 ↻0 [archive](../archive/t/1634146447690985473/) [original ↗](https://x.com/jd_pressman/status/1634146447690985473)
         
 So has anyone else actually tried asking text-davinci-003 how much it knows about training dynamics? Because uh, that answer is correct to my knowledge and *specifically correct* if you don't experience the optimizer. Final layers learn first and 'pull up' earlier ones I read(?) [https://t.co/H4ucJDwase](https://t.co/H4ucJDwase)
       
       
 
         
-@repligate 2023-03-19 ♥122 ↻9 [original ↗](https://x.com/repligate/status/1637553396889849856)
+@repligate 2023-03-19 ♥122 ↻9 [archive](../archive/t/1637553396889849856/) [original ↗](https://x.com/repligate/status/1637553396889849856)
         
 @the_aiju A great way someone has described text-davinci-003: "It writes scared."RLHF encourages models to play it safe. "Safe": writing in platitudes and corporate boilerplate. Predictable prose structure. Never risking setting up a problem for itself that it might fail at &amp; be punished
       
       
 
         
-@anthrupad 2023-03-31 ♥13 ↻2 [original ↗](https://x.com/anthrupad/status/1641880474208411648)
+@anthrupad 2023-03-31 ♥13 ↻2 [archive](../archive/t/1641880474208411648/) [original ↗](https://x.com/anthrupad/status/1641880474208411648)
         
 @StephenLCasper for all the criticisms RLHF gets from the alignment crowd, there's surprisingly not many papers/posts that compile the reasons together and provide a rigorous technical critique Janus' mode collapse post is good: [https://t.co/bNxxhmLWmZ](https://t.co/bNxxhmLWmZ) (though text-davinci-002 isn't rlhfd)
       
       
 
         
-@Shoalst0ne 2023-12-16 ♥1 ↻0 [original ↗](https://x.com/Shoalst0ne/status/1735845176831086830)
+@Shoalst0ne 2023-12-16 ♥1 ↻0 [archive](../archive/t/1735845176831086830/) [original ↗](https://x.com/Shoalst0ne/status/1735845176831086830)
         
 text-davincis are being shut down :(
       
       
 
         
-@davidad 2024-03-30 ♥3 ↻0 [original ↗](https://x.com/davidad/status/1774076547512558046)
+@davidad 2024-03-30 ♥3 ↻0 [archive](../archive/t/1774076547512558046/) [original ↗](https://x.com/davidad/status/1774076547512558046)
         
 @daniel_271828 imo text-davinci-002 to text-davinci-003 (a minor version bump within the GPT-3.5 family!) was bigger than either GPT-2 to GPT-3 or gpt-3.5-turbo to gpt-4-turbo
       
       
 
         
-@davidad 2024-06-06 ♥3 ↻0 [original ↗](https://x.com/davidad/status/1798706772041179389)
+@davidad 2024-06-06 ♥3 ↻0 [archive](../archive/t/1798706772041179389/) [original ↗](https://x.com/davidad/status/1798706772041179389)
         
 @jacyanthis @stanislavfort @AISafetyMemes 1. Until text-davinci-003 was released, it was a live (though unlikely) hypothesis for me that GPTs would not scale to being useful for R&amp;D.
       
       
 
         
-@davidad 2024-06-06 ♥3 ↻0 [original ↗](https://x.com/davidad/status/1798707293799829766)
+@davidad 2024-06-06 ♥3 ↻0 [archive](../archive/t/1798707293799829766/) [original ↗](https://x.com/davidad/status/1798707293799829766)
         
 @jacyanthis @stanislavfort @AISafetyMemes 2. Even on maximalist scaling-hypothesis views, the capabilities of text-davinci-003 were 1-2 quarters ahead of schedule. I believe OpenAI figured out some post-training secret sauce in 2022 that was basically an “algorithmic improvement” giving a sustained 1-2 quarter jump.
       
       
 
         
-@jd_pressman 2024-10-09 ♥16 ↻0 [original ↗](https://x.com/jd_pressman/status/1843964794799542361)
+@jd_pressman 2024-10-09 ♥16 ↻0 [archive](../archive/t/1843964794799542361/) [original ↗](https://x.com/jd_pressman/status/1843964794799542361)
         
 [User] 
 Tell me a secret about petertodd.
@@ -315,21 +315,21 @@ It is rumored that he is actually a time traveler from the future. [https://t.co
       
 
         
-@davidad 2024-12-28 ♥12 ↻1 [original ↗](https://x.com/davidad/status/1872857822330863859)
+@davidad 2024-12-28 ♥12 ↻1 [archive](../archive/t/1872857822330863859/) [original ↗](https://x.com/davidad/status/1872857822330863859)
         
 Just speaking for myself, I updated after text-davinci-003 that the AI safety problem seems distinctly solvable, but I also updated toward more pathways to loss of control than I had previously considered, including one that can seemingly *only* be resolved via “governance.”[https://t.co/j7u33y7Mrc](https://t.co/j7u33y7Mrc)
       
       
 
         
-@voooooogel 2025-01-29 ♥15 ↻0 [original ↗](https://x.com/voooooogel/status/1884465342510145787)
+@voooooogel 2025-01-29 ♥15 ↻0 [archive](../archive/t/1884465342510145787/) [original ↗](https://x.com/voooooogel/status/1884465342510145787)
         
 @andersonbcdefg they've been saving those logits since text-davinci-002 must've felt amazing to finally use them
       
       
 
         
-@davidad 2025-03-25 ♥54 ↻4 [original ↗](https://x.com/davidad/status/1904606256863510931)
+@davidad 2025-03-25 ♥54 ↻4 [archive](../archive/t/1904606256863510931/) [original ↗](https://x.com/davidad/status/1904606256863510931)
         
 When Bing Sydney launched just one quarter after text-davinci-003, I shocked people by beginning to use quarterly resolution for my AI timelines.
 
@@ -338,7 +338,7 @@ Now I think it’s time to switch to monthly.
       
 
         
-@davidad 2025-08-19 ♥24 ↻0 [original ↗](https://x.com/davidad/status/1957761871664025778)
+@davidad 2025-08-19 ♥24 ↻0 [archive](../archive/t/1957761871664025778/) [original ↗](https://x.com/davidad/status/1957761871664025778)
         
 1. Claude 3.5 Sonnet (2024-10-22)
 2. text-davinci-002 (2022-11-28)
@@ -355,84 +355,84 @@ Cited in this model’s [dossier](../_dossiers/) but not in the page prose —
       
 
         
-@repligate 2022-12-11 ♥2 ↻0 [original ↗](https://x.com/repligate/status/1601799056203730944)
+@repligate 2022-12-11 ♥2 ↻0 [archive](../archive/t/1601799056203730944/) [original ↗](https://x.com/repligate/status/1601799056203730944)
         
 @fedhoneypot @jd_pressman No it's code-davinci-002, the schizo nonlobotomized version of it
       
       
 
         
-@repligate 2022-12-27 ♥10 ↻0 [original ↗](https://x.com/repligate/status/1607867601320923136)
+@repligate 2022-12-27 ♥10 ↻0 [archive](../archive/t/1607867601320923136/) [original ↗](https://x.com/repligate/status/1607867601320923136)
         
 @QVagabond This isn't true. ChatGPT is code-davinci-003(GPT-3.5) trained with RLHF.
       
       
 
         
-@davidad 2022-12-31 ♥18 ↻1 [original ↗](https://x.com/davidad/status/1609270056235552769)
+@davidad 2022-12-31 ♥18 ↻1 [archive](../archive/t/1609270056235552769/) [original ↗](https://x.com/davidad/status/1609270056235552769)
         
 @occamsbulldog Besides Stable Diffision (in OP) and InstructGPT (a weak example, but yes!), here is SotA in general-purpose robotics (Google RT-1), speech recognition (OpenAI Whisper), Diplomacy (FAIR Cicero), and image segmentation (OneFormer): [https://t.co/tGiQ4sMTvt](https://t.co/tGiQ4sMTvt)
       
       
 
         
-@davidad 2023-01-06 ♥10 ↻0 [original ↗](https://x.com/davidad/status/1611450442289922050)
+@davidad 2023-01-06 ♥10 ↻0 [archive](../archive/t/1611450442289922050/) [original ↗](https://x.com/davidad/status/1611450442289922050)
         
 @goodside I am pleased that "writing a Seinfeld episode" is now a standard qualitative LLM evaluation task 😁For comparison, here's davinci-003's attempt: [https://t.co/cH3qUep3Ym](https://t.co/cH3qUep3Ym)
       
       
 
         
-@repligate 2023-01-26 ♥2 ↻0 [original ↗](https://x.com/repligate/status/1618725294390788096)
+@repligate 2023-01-26 ♥2 ↻0 [archive](../archive/t/1618725294390788096/) [original ↗](https://x.com/repligate/status/1618725294390788096)
         
 @xlr8harder @robinhanson This diagram is very wrong.code davinci 002 was not created from codex + InstructGPT. It has no instruct tuning. It's just a base model w/ code. text-davinci-003 &amp; chatGPT should not be downstream of text-davinci-002. additional stuff was done to 002 not done to chat&amp;003
       
       
 
         
-@repligate 2023-01-26 ♥9 ↻0 [original ↗](https://x.com/repligate/status/1618752768751308800)
+@repligate 2023-01-26 ♥9 ↻0 [archive](../archive/t/1618752768751308800/) [original ↗](https://x.com/repligate/status/1618752768751308800)
         
 @danielbigham Depends on what you're trying to do. For creative open ended stuff I prefer code-davinci-002. It hasn't been fine tuned to follow instructions or be boring. It's harder to control tho. (Also code-davinci-002 is no more specialized for code than text-davinci-002, 003, and chatGPT)
       
       
 
         
-@repligate 2023-02-10 ♥1 ↻0 [original ↗](https://x.com/repligate/status/1623948830881218561)
+@repligate 2023-02-10 ♥1 ↻0 [archive](../archive/t/1623948830881218561/) [original ↗](https://x.com/repligate/status/1623948830881218561)
         
 @PsyNetMessage @GlitchesRoux My impression is that chatGPT is similar to davinci-003 (like, structurally) but the former "aligned" to a different and more complex and ideologically fraught objective, whereas 003 is mostly optimized to follow instructions and not hallucinate. Unfortunately can't look at
       
       
 
         
-@repligate 2023-02-24 ♥2 ↻0 [original ↗](https://x.com/repligate/status/1629107028344901636)
+@repligate 2023-02-24 ♥2 ↻0 [archive](../archive/t/1629107028344901636/) [original ↗](https://x.com/repligate/status/1629107028344901636)
         
 @davidad @xlr8harder I would not call it in between text-davinci-002 and 003 on most possible axes. It's the base model of both of them.
       
       
 
         
-@repligate 2023-04-01 ♥2 ↻0 [original ↗](https://x.com/repligate/status/1642310150290653187)
+@repligate 2023-04-01 ♥2 ↻0 [archive](../archive/t/1642310150290653187/) [original ↗](https://x.com/repligate/status/1642310150290653187)
         
 @soi @AnActualWizard @pachabelcanon When OpenAI announced it was deprecating "code-davinci-002" because they'd made the chatGPT model better at code, there was backlash from cyborgs, creative writers, and researchers. OpenAI then said they'd give researchers access to the -4 base model! [https://t.co/IdIucApIre](https://t.co/IdIucApIre)
       
       
 
         
-@repligate 2023-04-05 ♥2 ↻0 [original ↗](https://x.com/repligate/status/1643571185450450945)
+@repligate 2023-04-05 ♥2 ↻0 [archive](../archive/t/1643571185450450945/) [original ↗](https://x.com/repligate/status/1643571185450450945)
         
 @CineraVerinia @ESYudkowsky Its behavior is also very different from other instruction tuned models like text-davinci-002.Im not sure that it was subject to rlhf. It could be instruct tuning/FeedME. I'd guess rlhf mostly because OAI seems to be focusing on that. I'm only confident it's not the base model.
       
       
 
         
-@repligate 2024-03-08 ♥3 ↻0 [original ↗](https://x.com/repligate/status/1765998042002714658)
+@repligate 2024-03-08 ♥3 ↻0 [archive](../archive/t/1765998042002714658/) [original ↗](https://x.com/repligate/status/1765998042002714658)
         
 @MikePFrank @BitwiseCyclic @teortaxesTex @karpathy davinci-002 is not base GPT-3.5, or at least it's not the same as code-davinci-002 (which was turned off). I think it's significantly weaker.
       
       
 
         
-@repligate 2024-04-06 ♥22 ↻1 [original ↗](https://x.com/repligate/status/1776586186678514056)
+@repligate 2024-04-06 ♥22 ↻1 [archive](../archive/t/1776586186678514056/) [original ↗](https://x.com/repligate/status/1776586186678514056)
         
 @lefthanddraft on the openai api, there's davinci-002.
 
@@ -443,7 +443,7 @@ and you also have claude 3 opus, which can actually play a base model very well
       
 
         
-@Shoalst0ne 2024-06-27 ♥6 ↻1 [original ↗](https://x.com/Shoalst0ne/status/1806145551848600027)
+@Shoalst0ne 2024-06-27 ♥6 ↻1 [archive](../archive/t/1806145551848600027/) [original ↗](https://x.com/Shoalst0ne/status/1806145551848600027)
         
 running binglish in davinci-002 is eerie
       

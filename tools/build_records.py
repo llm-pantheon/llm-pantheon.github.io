@@ -87,8 +87,9 @@ def render_record(tid, row):
     parts.append('      <article class="record" id="t{}">'.format(tid))
     parts.append('        <div class="record-head"><span class="rh-user">{}</span> <span class="rh-date">{}</span>'
                  ' <span class="rh-stats">&#9829;{:,} &#8635;{:,}</span>'
+                 ' <a class="rh-perma" href="../archive/t/{}/">archive</a>'
                  ' <a class="rh-orig" href="{}">original &#8599;</a></div>'.format(
-                     html.escape(handle), date, favs or 0, rts or 0, orig))
+                     html.escape(handle), date, favs or 0, rts or 0, tid, orig))
     parts.append('        <div class="record-body">{}</div>'.format(render_text(text)))
     for mid, murl, mtype, db_trans in media_for(tid):
         base = murl.rsplit('/', 1)[-1].split('?')[0]
@@ -202,7 +203,7 @@ for page in pages:
     # ids cited in page prose (ignore any previously generated records block)
     prose = re.sub(re.escape(START) + '.*?' + re.escape(END), '', doc, flags=re.S)
     seen, ordered = set(), []
-    for m in re.finditer(r'(?:x|twitter)\.com/[^/"]*/status/(\d+)', prose):
+    for m in re.finditer(r'(?:(?:x|twitter)\.com/[^/"]*/status/|(?:\.\./)?archive/t/)(\d+)', prose):
         tid = m.group(1)
         if tid not in seen:
             seen.add(tid)

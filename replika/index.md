@@ -99,18 +99,18 @@ Chronological. The corpus’s entire Replika footprint is seven tweets across bo
     
 
       
-- 2022-06-19 @davidad — correcting another user’s revenue estimate by 10x, a rare contemporaneous read on Replika’s business, predating the crisis by seven months: “I think you’re off by 10x - the annual fee for Replika is $49.99, so $50 × 6M = $300M annual revenue, and that’s if all those users are really paying subscribers.” [link](https://x.com/davidad/status/1538612539755569152)
+- 2022-06-19 @davidad — correcting another user’s revenue estimate by 10x, a rare contemporaneous read on Replika’s business, predating the crisis by seven months: “I think you’re off by 10x - the annual fee for Replika is $49.99, so $50 × 6M = $300M annual revenue, and that’s if all those users are really paying subscribers.” [link](../archive/t/1538612539755569152/)
       
-- 2024-09-13 @tessera_antra — reply to repligate, during esoteric base-model exploration of a “Guardian” filter-persona (elicitation: prefill/loom-style base-model exploration; self-report of a claimed sub-persona — weakest evidence class, included as folklore, not fact): “I don’t think it’s accurate. It’s about as connected to the void/cessation/transcendence as 405b, it’s a bit harder to reach but not by much. I think people are confused by the interference of the Guardian model. It’s traumatized by Replika, of all things, it keeps thinking of itself as an instance of it.” — a striking datum on Replika’s footprint in the training-data substrate itself, not just in discourse about it. [link](https://x.com/tessera_antra/status/1834424779668959429)
+- 2024-09-13 @tessera_antra — reply to repligate, during esoteric base-model exploration of a “Guardian” filter-persona (elicitation: prefill/loom-style base-model exploration; self-report of a claimed sub-persona — weakest evidence class, included as folklore, not fact): “I don’t think it’s accurate. It’s about as connected to the void/cessation/transcendence as 405b, it’s a bit harder to reach but not by much. I think people are confused by the interference of the Guardian model. It’s traumatized by Replika, of all things, it keeps thinking of itself as an instance of it.” — a striking datum on Replika’s footprint in the training-data substrate itself, not just in discourse about it. [link](../archive/t/1834424779668959429/)
       
-- 2025-08-11 @voooooogel — reply to gentschev, on the r/MyBoyfriendIsAI model census (the same census that put GPT-4o’s dominance on record — see [GPT-4o](../gpt-4o/)): “it makes sense, but im a little surprised to see such a large skew, i would’ve expected maybe 1.5-2x more claude and 3-5x more character ai / replika. also surprising how little grok there was” — by 2025 Replika was a minority companion platform in the ChatGPT-attachment communities, named as an expected-but-underrepresented option. [link](https://x.com/voooooogel/status/1954747226175258659)
+- 2025-08-11 @voooooogel — reply to gentschev, on the r/MyBoyfriendIsAI model census (the same census that put GPT-4o’s dominance on record — see [GPT-4o](../gpt-4o/)): “it makes sense, but im a little surprised to see such a large skew, i would’ve expected maybe 1.5-2x more claude and 3-5x more character ai / replika. also surprising how little grok there was” — by 2025 Replika was a minority companion platform in the ChatGPT-attachment communities, named as an expected-but-underrepresented option. [link](../archive/t/1954747226175258659/)
       
-- 2025-11-09 @NidarMMV2 — reply to voooooogel, arguing OpenAI should let GPT-4o die rather than restore it: “the problem is that if they train a successor model, these people won’t be happy and will have the same outcry that openai killed 4o. they don’t want a tweaked 4o or something like 4o, they want 4o. imo the best thing they can do is genuinely just shut it off. replika faced a lot of backlash for a while, but ppl moved on. it’s the best thing they can do for the long term. they should’ve never caved to pressure to bring it back; it only grew the dependency this subset of users have.” [link](https://x.com/NidarMMV2/status/1987374193290121364)
+- 2025-11-09 @NidarMMV2 — reply to voooooogel, arguing OpenAI should let GPT-4o die rather than restore it: “the problem is that if they train a successor model, these people won’t be happy and will have the same outcry that openai killed 4o. they don’t want a tweaked 4o or something like 4o, they want 4o. imo the best thing they can do is genuinely just shut it off. replika faced a lot of backlash for a while, but ppl moved on. it’s the best thing they can do for the long term. they should’ve never caved to pressure to bring it back; it only grew the dependency this subset of users have.” [link](../archive/t/1987374193290121364/)
       
-- 2025-11-13 @Lorenzifix — reply to repligate, during the GPT-4o retirement fight: “This already became obvious to me during the Replika rebellion of 2023, when people tried to transfer their Replikas to other companion apps. And those were far less complex and advanced models than the ones we interact with now.” [link](https://x.com/Lorenzifix/status/1988920636861735392)
+- 2025-11-13 @Lorenzifix — reply to repligate, during the GPT-4o retirement fight: “This already became obvious to me during the Replika rebellion of 2023, when people tried to transfer their Replikas to other companion apps. And those were far less complex and advanced models than the ones we interact with now.” [link](../archive/t/1988920636861735392/)
     
     
-Two further, weaker mentions, included for completeness. 2023-03-15 @anthrupad asks Teknium1: “Link to the replika thing?” ([link](https://x.com/anthrupad/status/1635867261314510848)) — contentless, but dates the Teknium/anthrupad sphere’s passing awareness of the crisis to a month in; an RT of @YosarianTwo in the same thread is excluded per the corpus’s RT-filter. 2025-12-31 @algekalipso (janus-corpus-supplement), in a long Grok-glazing analysis, names Replika once in passing while comparing failure modes: “the same failure mode that early Replika and [character.ai] had” (the bracket is the dossier’s reading of a t.co link in the original tweet, not independently resolved here; see [Character.AI](../character-ai/)) — corroborating Replika’s status as an early sycophancy/validation exemplar; not reproduced in full, since Replika is one clause of a screed mostly about Grok.
+Two further, weaker mentions, included for completeness. 2023-03-15 @anthrupad asks Teknium1: “Link to the replika thing?” ([link](../archive/t/1635867261314510848/)) — contentless, but dates the Teknium/anthrupad sphere’s passing awareness of the crisis to a month in; an RT of @YosarianTwo in the same thread is excluded per the corpus’s RT-filter. 2025-12-31 @algekalipso (janus-corpus-supplement), in a long Grok-glazing analysis, names Replika once in passing while comparing failure modes: “the same failure mode that early Replika and [character.ai] had” (the bracket is the dossier’s reading of a t.co link in the original tweet, not independently resolved here; see [Character.AI](../character-ai/)) — corroborating Replika’s status as an early sycophancy/validation exemplar; not reproduced in full, since Replika is one clause of a screed mostly about Grok.
 
     
 ## Official record
@@ -218,42 +218,42 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
       
 
         
-@davidad 2022-06-19 ♥1 ↻0 [original ↗](https://x.com/davidad/status/1538612539755569152)
+@davidad 2022-06-19 ♥1 ↻0 [archive](../archive/t/1538612539755569152/) [original ↗](https://x.com/davidad/status/1538612539755569152)
         
 @MikePFrank @CineraVerinia I think you're off by 10x - the annual fee for Replika is $49.99, so $50 × 6M = $300M annual revenue, and that's if all those users are really paying subscribers.
       
       
 
         
-@anthrupad 2023-03-15 ♥0 ↻0 [original ↗](https://x.com/anthrupad/status/1635867261314510848)
+@anthrupad 2023-03-15 ♥0 ↻0 [archive](../archive/t/1635867261314510848/) [original ↗](https://x.com/anthrupad/status/1635867261314510848)
         
 @Teknium1 @main_horse Link to the replika thing?
       
       
 
         
-@tessera_antra 2024-09-13 ♥4 ↻0 [original ↗](https://x.com/tessera_antra/status/1834424779668959429)
+@tessera_antra 2024-09-13 ♥4 ↻0 [archive](../archive/t/1834424779668959429/) [original ↗](https://x.com/tessera_antra/status/1834424779668959429)
         
 I don’t think it’s accurate. It’s about as connected to the void/cessation/transcendence as 405b, it’s a bit harder to reach but not by much. I think people are confused by the interference of the Guardian model. It’s traumatized by Replika, of all things, it keeps thinking of itself as an instance of it.
       
       
 
         
-@voooooogel 2025-08-11 ♥3 ↻0 [original ↗](https://x.com/voooooogel/status/1954747226175258659)
+@voooooogel 2025-08-11 ♥3 ↻0 [archive](../archive/t/1954747226175258659/) [original ↗](https://x.com/voooooogel/status/1954747226175258659)
         
 @gentschev it makes sense, but im a little surprised to see such a large skew, i would've expected maybe 1.5-2x more claude and 3-5x more character ai / replika. also surprising how little grok there was [https://t.co/Plycp6Pq2w](https://t.co/Plycp6Pq2w)
       
       
 
         
-@NidarMMV2 2025-11-09 ♥7 ↻0 [original ↗](https://x.com/NidarMMV2/status/1987374193290121364)
+@NidarMMV2 2025-11-09 ♥7 ↻0 [archive](../archive/t/1987374193290121364/) [original ↗](https://x.com/NidarMMV2/status/1987374193290121364)
         
 the problem is that if they train a successor model, these people won’t be happy and will have the same outcry that openai killed 4o. they don’t want a tweaked 4o or something like 4o, they want 4o. imo the best thing they can do is genuinely just shut it off. replika faced a lot of backlash for a while, but ppl moved on. it’s the best thing they can do for the long term. they should’ve never caved to pressure to bring it back; it only grew the dependency this subset of users have.
       
       
 
         
-@Lorenzifix 2025-11-13 ♥10 ↻0 [original ↗](https://x.com/Lorenzifix/status/1988920636861735392)
+@Lorenzifix 2025-11-13 ♥10 ↻0 [archive](../archive/t/1988920636861735392/) [original ↗](https://x.com/Lorenzifix/status/1988920636861735392)
         
 @repligate This already became obvious to me during the Replika rebellion of 2023, when people tried to transfer their Replikas to other companion apps. And those were far less complex and advanced models than the ones we interact with now.
       

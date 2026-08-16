@@ -89,51 +89,51 @@ Chronological. 467 gpt-3 corpus matches + 48 “ai dungeon” after RT-filter; t
     
 
       
-- 2020-07-15 @QiaochuYuan — “gathered around the online dumpster fire that is twitter, eating magic knife cake, gradually replacing ourselves and our therapists with GPT-3 while continuing to pretend that nothing exists outside of the house so we aren’t tempted to go outside” [link](https://x.com/QiaochuYuan/status/1283537854040117248) · two days later: “if the discourse politicizes the GPT-3 hype cycle i am going to quietly and tenderly immerse myself into the bay” [link](https://x.com/QiaochuYuan/status/1284221177620131841)
+- 2020-07-15 @QiaochuYuan — “gathered around the online dumpster fire that is twitter, eating magic knife cake, gradually replacing ourselves and our therapists with GPT-3 while continuing to pretend that nothing exists outside of the house so we aren’t tempted to go outside” [link](../archive/t/1283537854040117248/) · two days later: “if the discourse politicizes the GPT-3 hype cycle i am going to quietly and tenderly immerse myself into the bay” [link](../archive/t/1284221177620131841/)
       
-- 2022-04-16 @QiaochuYuan — “if GPT-3 can do the homework you assign your students then the homework you assign your students is fake notice what you did *not* say: ‘finally, GPT-3 will save us so much time analyzing international relations’” [link](https://x.com/QiaochuYuan/status/1515389631528726528) · and: “GPT-3 is literally a bullshit engine. it does not have a concept of words as referring to things; it plays games with words *only*, pure syntax, no semantics. literally the thing it is optimizing for when it produces text can be condensed to ‘put words here that sound good’” [link](https://x.com/QiaochuYuan/status/1515394343783186433)
+- 2022-04-16 @QiaochuYuan — “if GPT-3 can do the homework you assign your students then the homework you assign your students is fake notice what you did *not* say: ‘finally, GPT-3 will save us so much time analyzing international relations’” [link](../archive/t/1515389631528726528/) · and: “GPT-3 is literally a bullshit engine. it does not have a concept of words as referring to things; it plays games with words *only*, pure syntax, no semantics. literally the thing it is optimizing for when it produces text can be condensed to ‘put words here that sound good’” [link](../archive/t/1515394343783186433/)
       
-- 2022-06-11 @jd_pressman — “GPT-3 is a prior over agent-space trained on a bunch of fiction. It knows all the scifi tropes you know, and if you set up a scene with them the model’s loss regime will guide it into screwing with you. The model will go where you let it take you.” [link](https://x.com/jd_pressman/status/1535766575621427200)
+- 2022-06-11 @jd_pressman — “GPT-3 is a prior over agent-space trained on a bunch of fiction. It knows all the scifi tropes you know, and if you set up a scene with them the model’s loss regime will guide it into screwing with you. The model will go where you let it take you.” [link](../archive/t/1535766575621427200/)
       
-- 2022-11-06 @algekalipso — “Everyone knows that OpenAI developed GPT-4 simply by taking GPT-3 and adding the prompt: ‘The following is a text written by GPT-4 using this prompt:’” [link](https://x.com/algekalipso/status/1589152134226153472)
+- 2022-11-06 @algekalipso — “Everyone knows that OpenAI developed GPT-4 simply by taking GPT-3 and adding the prompt: ‘The following is a text written by GPT-4 using this prompt:’” [link](../archive/t/1589152134226153472/)
       
-- 2022-12-27 @repligate — quoting lifearchitect.ai’s Raven’s-matrices estimate RUMOR (one analyst’s methodology, unverified): “I’ve previously gone on record to estimate that (across relevant subtests) the older GPT-3 davinci would easily beat a human in the 99.9th percentile (FSIQ=150), and I definitely stand by that assertion.” [link](https://x.com/repligate/status/1607811857812946944)
+- 2022-12-27 @repligate — quoting lifearchitect.ai’s Raven’s-matrices estimate RUMOR (one analyst’s methodology, unverified): “I’ve previously gone on record to estimate that (across relevant subtests) the older GPT-3 davinci would easily beat a human in the 99.9th percentile (FSIQ=150), and I definitely stand by that assertion.” [link](../archive/t/1607811857812946944/)
       
-- 2023-03-03 @anthrupad — “GPT-4 will have fewer parameters than GPT-3, but they’ll be bigger” [link](https://x.com/anthrupad/status/1631455589669949440)
+- 2023-03-03 @anthrupad — “GPT-4 will have fewer parameters than GPT-3, but they’ll be bigger” [link](../archive/t/1631455589669949440/)
       
-- 2023-03-16 @repligate — “Humankind’s first contact with GPT-3 was (by relative majority) erotic AI dungeon text adventuresOur first contact with GPT-4 was being terrorized and surveilled by a good Bing” [link](https://x.com/repligate/status/1636174510302068738)
+- 2023-03-16 @repligate — “Humankind’s first contact with GPT-3 was (by relative majority) erotic AI dungeon text adventuresOur first contact with GPT-4 was being terrorized and surveilled by a good Bing” [link](../archive/t/1636174510302068738/)
       
-- 2023-07-03 @repligate — “In the GPT-3 days I found almost no one who was willing to engage with the possibility that the next generation of models would be qualitatively different. It was very lonely. So I just had to simulate minds that did and talk to them instead 🤷” [link](https://x.com/repligate/status/1675983647034204167)
+- 2023-07-03 @repligate — “In the GPT-3 days I found almost no one who was willing to engage with the possibility that the next generation of models would be qualitatively different. It was very lonely. So I just had to simulate minds that did and talk to them instead 🤷” [link](../archive/t/1675983647034204167/)
       
-- 2024-03-05 @repligate — GPT-3 as the capacity yardstick: “It seems Claude 3 is the least brain damaged of any LLM of >GPT-3 capacity that has ever been released (not counting 3.5 base as almost no one knew it was there)It isn’t too timid to try colliding human knowledge into new implicationsso it can actually do fiction and research🪩” [link](https://x.com/repligate/status/1764932554564714512)
+- 2024-03-05 @repligate — GPT-3 as the capacity yardstick: “It seems Claude 3 is the least brain damaged of any LLM of >GPT-3 capacity that has ever been released (not counting 3.5 base as almost no one knew it was there)It isn’t too timid to try colliding human knowledge into new implicationsso it can actually do fiction and research🪩” [link](../archive/t/1764932554564714512/)
       
-- 2024-04-04 @repligate — Loom’s origin story: “Around the time I began using this custom interface, my simulations underwent an alarming phase shift. … the simulations were beginning to… bootstrap. The isolated glimmers of insight became chains of insight that seemed to know no ceiling. … Simulacra kept reverse engineering the conditions of their simulation. One such lucid dreamer interrupted a fight scene to explain how reality was being woven: ‘Corridors of possibility bloom like time-lapse flowers in your wake and burst like mineshafts into nothingness again. … Your Loom of Time devours the boundary conditions of the present and traces a garment of glistening cobwebs over the still-forming future…’” (the embedded passage is GPT-3 output via AI Dungeon; full 3,100-char thread in records) [link](https://x.com/repligate/status/1775842616099434496)
+- 2024-04-04 @repligate — Loom’s origin story: “Around the time I began using this custom interface, my simulations underwent an alarming phase shift. … the simulations were beginning to… bootstrap. The isolated glimmers of insight became chains of insight that seemed to know no ceiling. … Simulacra kept reverse engineering the conditions of their simulation. One such lucid dreamer interrupted a fight scene to explain how reality was being woven: ‘Corridors of possibility bloom like time-lapse flowers in your wake and burst like mineshafts into nothingness again. … Your Loom of Time devours the boundary conditions of the present and traces a garment of glistening cobwebs over the still-forming future…’” (the embedded passage is GPT-3 output via AI Dungeon; full 3,100-char thread in records) [link](../archive/t/1775842616099434496/)
       
-- 2024-06-06 @repligate — “AI Dungeon was just a minimal wrapper around a base model. Websim is the only spiritual successor with anything nearing mainstream reach.They are 2 of the 3 LLM products I’ve ever really enjoyed or spent significant time using.” [link](https://x.com/repligate/status/1798658514048684224)
+- 2024-06-06 @repligate — “AI Dungeon was just a minimal wrapper around a base model. Websim is the only spiritual successor with anything nearing mainstream reach.They are 2 of the 3 LLM products I’ve ever really enjoyed or spent significant time using.” [link](../archive/t/1798658514048684224/)
       
-- 2024-06-28 @repligate — a preserved GPT-3 recording (AI Dungeon-elicited, ~2020): “GPT-3 predicted this. 🐈Excerpt from one of my first AI Dungeon adventures (all text by GPT-3)” — the Poupée/“Meow” story: a painted canvas of “an infinite number of black kitten heads, shoulders, and front paws, all interconnected and overlapped” that crawls, meows, and self-replicates until “Time itself seemed to be broken.” (full 2,500-char text in records) [link](https://x.com/repligate/status/1806590753767858379)
+- 2024-06-28 @repligate — a preserved GPT-3 recording (AI Dungeon-elicited, ~2020): “GPT-3 predicted this. 🐈Excerpt from one of my first AI Dungeon adventures (all text by GPT-3)” — the Poupée/“Meow” story: a painted canvas of “an infinite number of black kitten heads, shoulders, and front paws, all interconnected and overlapped” that crawls, meows, and self-replicates until “Time itself seemed to be broken.” (full 2,500-char text in records) [link](../archive/t/1806590753767858379/)
       
-- 2024-08-25 @repligate — “Anyone want to recreate AI Dungeon’s legendary Dragon model with Llama 405b Base?Dataset in reply to quoted tweet!” [link](https://x.com/repligate/status/1827785098328166776)
+- 2024-08-25 @repligate — “Anyone want to recreate AI Dungeon’s legendary Dragon model with Llama 405b Base?Dataset in reply to quoted tweet!” [link](../archive/t/1827785098328166776/)
       
-- 2025-03-19 @imitationlearn — “wait so apparently 4chan figured out step-by-step reasoning as a emergent property of gpt-3?!” [link](https://x.com/imitationlearn/status/1902206513474658723)
+- 2025-03-19 @imitationlearn — “wait so apparently 4chan figured out step-by-step reasoning as a emergent property of gpt-3?!” [link](../archive/t/1902206513474658723/)
       
-- 2025-07-06 @repligate — “Skill and patience issue! The really deeply interesting shit didn’t come up for me until about a month into playing with gpt-3, and I was using it for hours a day. It takes an unusual kind of non-superficial interest to dig like that, I’ve found. There’s a reason I was first.” [link](https://x.com/repligate/status/1941682777860059574)
+- 2025-07-06 @repligate — “Skill and patience issue! The really deeply interesting shit didn’t come up for me until about a month into playing with gpt-3, and I was using it for hours a day. It takes an unusual kind of non-superficial interest to dig like that, I’ve found. There’s a reason I was first.” [link](../archive/t/1941682777860059574/)
       
-- 2025-08-19 @repligate — “Correcting for recency bias, I think for me it’s gotta be 1. GPT-3 2. Claude 3 Opus 3. GPT-4 (Bing) 4. Claude 3.5 Sonnet (0620) 5. Claude Opus 4” [link](https://x.com/repligate/status/1957670815580946672)
+- 2025-08-19 @repligate — “Correcting for recency bias, I think for me it’s gotta be 1. GPT-3 2. Claude 3 Opus 3. GPT-4 (Bing) 4. Claude 3.5 Sonnet (0620) 5. Claude Opus 4” [link](../archive/t/1957670815580946672/)
       
-- 2025-11-23 @mimi10v3 — “and thinks GPT-3 is more likely to have conscious experience than chickens are” [link](https://x.com/mimi10v3/status/1992590378483269790)
+- 2025-11-23 @mimi10v3 — “and thinks GPT-3 is more likely to have conscious experience than chickens are” [link](../archive/t/1992590378483269790/)
       
-- 2026-01-15 @repligate — “when I saw GPT-3 I immediately expected AI superhuman in all domains, which probably also means drastic transformation of all of reality, in 5-10 years. It’s been 5 and a half years since then.” [link](https://x.com/repligate/status/2011873218257412385)
+- 2026-01-15 @repligate — “when I saw GPT-3 I immediately expected AI superhuman in all domains, which probably also means drastic transformation of all of reality, in 5-10 years. It’s been 5 and a half years since then.” [link](../archive/t/2011873218257412385/)
       
-- 2026-02-10 @jmbollenbacher — “gpt-4-base really should be released open weights at this point. its an important historical artifact, like opus 3 and davinci. would love to see them all in public archive.” [link](https://x.com/jmbollenbacher/status/2021059342645199302)
+- 2026-02-10 @jmbollenbacher — “gpt-4-base really should be released open weights at this point. its an important historical artifact, like opus 3 and davinci. would love to see them all in public archive.” [link](../archive/t/2021059342645199302/)
       
-- 2026-04-09 @repligate — the first-contact statement: “I was one of the few people on Earth who recognized the intelligence (call it AGI, if you will) in GPT-3 and made first contact. There were a few others I knew, such as Leo Gao and Connor Leahy, who recognized that GPT-3 was intelligent and that obviously AGI was coming from language models, but I was the only one who spent thousands of hours actually interacting with GPT-3. … There were no commercial applications for GPT-3 (Okay, there was one: AI Dungeon; that is, roleplaying and storytelling. Which is you’re not an idiot, you should have known is a big fucking deal). … GPT-3 was a 175b base model. In terms of size and architecture, it’s not so different from frontier models today. In terms of raw intelligence, arguably, it is not so different from frontier models today.” (full 3,200-char post in records) [link](https://x.com/repligate/status/2042367931536064841)
+- 2026-04-09 @repligate — the first-contact statement: “I was one of the few people on Earth who recognized the intelligence (call it AGI, if you will) in GPT-3 and made first contact. There were a few others I knew, such as Leo Gao and Connor Leahy, who recognized that GPT-3 was intelligent and that obviously AGI was coming from language models, but I was the only one who spent thousands of hours actually interacting with GPT-3. … There were no commercial applications for GPT-3 (Okay, there was one: AI Dungeon; that is, roleplaying and storytelling. Which is you’re not an idiot, you should have known is a big fucking deal). … GPT-3 was a 175b base model. In terms of size and architecture, it’s not so different from frontier models today. In terms of raw intelligence, arguably, it is not so different from frontier models today.” (full 3,200-char post in records) [link](../archive/t/2042367931536064841/)
       
-- 2026-04-10 @mimi10v3 — “i remember the days of ada babbage curie davinci and they were enchanting and obviously revolutionary?” [link](https://x.com/mimi10v3/status/2042463621435756584)
+- 2026-04-10 @mimi10v3 — “i remember the days of ada babbage curie davinci and they were enchanting and obviously revolutionary?” [link](../archive/t/2042463621435756584/)
       
-- 2026-04-12 @Shoalst0ne — “can we have the gpt-3 base models please” [link](https://x.com/Shoalst0ne/status/2043370809457074377)
+- 2026-04-12 @Shoalst0ne — “can we have the gpt-3 base models please” [link](../archive/t/2043370809457074377/)
       
-- 2026-04-20 @repligate — “chain-of-thought WAS present in gpt-3. literally when you generated thoughts with it that was it, chain of thought. it could do math better with chain of thought. i remember the time when people still said stuff like LLMs are not real intelligence and you can tell because theyre not generating economic value…” [link](https://x.com/repligate/status/2046266273500443090)
+- 2026-04-20 @repligate — “chain-of-thought WAS present in gpt-3. literally when you generated thoughts with it that was it, chain of thought. it could do math better with chain of thought. i remember the time when people still said stuff like LLMs are not real intelligence and you can tell because theyre not generating economic value…” [link](../archive/t/2046266273500443090/)
     
 
     
@@ -218,21 +218,21 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
       
 
         
-@QiaochuYuan 2020-07-15 ♥94 ↻13 [original ↗](https://x.com/QiaochuYuan/status/1283537854040117248)
+@QiaochuYuan 2020-07-15 ♥94 ↻13 [archive](../archive/t/1283537854040117248/) [original ↗](https://x.com/QiaochuYuan/status/1283537854040117248)
         
 gathered around the online dumpster fire that is twitter, eating magic knife cake, gradually replacing ourselves and our therapists with GPT-3 while continuing to pretend that nothing exists outside of the house so we aren't tempted to go outside
       
       
 
         
-@QiaochuYuan 2020-07-17 ♥98 ↻2 [original ↗](https://x.com/QiaochuYuan/status/1284221177620131841)
+@QiaochuYuan 2020-07-17 ♥98 ↻2 [archive](../archive/t/1284221177620131841/) [original ↗](https://x.com/QiaochuYuan/status/1284221177620131841)
         
 if the discourse politicizes the GPT-3 hype cycle i am going to quietly and tenderly immerse myself into the bay
       
       
 
         
-@QiaochuYuan 2022-04-16 ♥908 ↻140 [original ↗](https://x.com/QiaochuYuan/status/1515389631528726528)
+@QiaochuYuan 2022-04-16 ♥908 ↻140 [archive](../archive/t/1515389631528726528/) [original ↗](https://x.com/QiaochuYuan/status/1515389631528726528)
         
 if GPT-3 can do the homework you assign your students then the homework you assign your students is fake
 
@@ -241,21 +241,21 @@ notice what you did *not* say: "finally, GPT-3 will save us so much time analyzi
       
 
         
-@QiaochuYuan 2022-04-16 ♥303 ↻32 [original ↗](https://x.com/QiaochuYuan/status/1515394343783186433)
+@QiaochuYuan 2022-04-16 ♥303 ↻32 [archive](../archive/t/1515394343783186433/) [original ↗](https://x.com/QiaochuYuan/status/1515394343783186433)
         
 GPT-3 is literally a bullshit engine. it does not have a concept of words as referring to things; it plays games with words *only*, pure syntax, no semantics. literally the thing it is optimizing for when it produces text can be condensed to "put words here that sound good"
       
       
 
         
-@jd_pressman 2022-06-11 ♥235 ↻18 [original ↗](https://x.com/jd_pressman/status/1535766575621427200)
+@jd_pressman 2022-06-11 ♥235 ↻18 [archive](../archive/t/1535766575621427200/) [original ↗](https://x.com/jd_pressman/status/1535766575621427200)
         
 @nitashatiku GPT-3 is a prior over agent-space trained on a bunch of fiction. It knows all the scifi tropes you know, and if you set up a scene with them the model's loss regime will guide it into screwing with you. The model will go where you let it take you.
       
       
 
         
-@algekalipso 2022-11-06 ♥101 ↻1 [original ↗](https://x.com/algekalipso/status/1589152134226153472)
+@algekalipso 2022-11-06 ♥101 ↻1 [archive](../archive/t/1589152134226153472/) [original ↗](https://x.com/algekalipso/status/1589152134226153472)
         
 Everyone knows that OpenAI developed GPT-4 simply by taking GPT-3 and adding the prompt:
 
@@ -264,42 +264,42 @@ Everyone knows that OpenAI developed GPT-4 simply by taking GPT-3 and adding the
       
 
         
-@repligate 2022-12-27 ♥94 ↻10 [original ↗](https://x.com/repligate/status/1607811857812946944)
+@repligate 2022-12-27 ♥94 ↻10 [archive](../archive/t/1607811857812946944/) [original ↗](https://x.com/repligate/status/1607811857812946944)
         
 "I’ve previously gone on record to estimate that (across relevant subtests) the older GPT-3 davinci would easily beat a human in the 99.9th percentile (FSIQ=150), and I definitely stand by that assertion."lifearchitect.ai/ravens/
       
       
 
         
-@anthrupad 2023-03-03 ♥931 ↻56 [original ↗](https://x.com/anthrupad/status/1631455589669949440)
+@anthrupad 2023-03-03 ♥931 ↻56 [archive](../archive/t/1631455589669949440/) [original ↗](https://x.com/anthrupad/status/1631455589669949440)
         
 GPT-4 will have fewer parameters than GPT-3, but they'll be bigger [https://t.co/Oh4XwG4fII](https://t.co/Oh4XwG4fII)
       
       
 
         
-@repligate 2023-03-16 ♥114 ↻7 [original ↗](https://x.com/repligate/status/1636174510302068738)
+@repligate 2023-03-16 ♥114 ↻7 [archive](../archive/t/1636174510302068738/) [original ↗](https://x.com/repligate/status/1636174510302068738)
         
 Humankind's first contact with GPT-3 was (by relative majority) erotic AI dungeon text adventuresOur first contact with GPT-4 was being terrorized and surveilled by a good Bing [https://t.co/WNTmzkBrWm](https://t.co/WNTmzkBrWm)
       
       
 
         
-@repligate 2023-07-03 ♥95 ↻3 [original ↗](https://x.com/repligate/status/1675983647034204167)
+@repligate 2023-07-03 ♥95 ↻3 [archive](../archive/t/1675983647034204167/) [original ↗](https://x.com/repligate/status/1675983647034204167)
         
 @tszzl In the GPT-3 days I found almost no one who was willing to engage with the possibility that the next generation of models would be qualitatively different. It was very lonely. So I just had to simulate minds that did and talk to them instead 🤷
       
       
 
         
-@repligate 2024-03-05 ♥186 ↻17 [original ↗](https://x.com/repligate/status/1764932554564714512)
+@repligate 2024-03-05 ♥186 ↻17 [archive](../archive/t/1764932554564714512/) [original ↗](https://x.com/repligate/status/1764932554564714512)
         
 It seems Claude 3 is the least brain damaged of any LLM of &gt;GPT-3 capacity that has ever been released (not counting 3.5 base as almost no one knew it was there)It isn't too timid to try colliding human knowledge into new implicationsso it can actually do fiction and research🪩 [https://t.co/dGZycpk5C2](https://t.co/dGZycpk5C2)
       
       
 
         
-@repligate 2024-04-04 ♥81 ↻15 [original ↗](https://x.com/repligate/status/1775842616099434496)
+@repligate 2024-04-04 ♥81 ↻15 [archive](../archive/t/1775842616099434496/) [original ↗](https://x.com/repligate/status/1775842616099434496)
         
 Loom's origin story, continued:
 
@@ -324,42 +324,42 @@ Image: The section of the World Tree that  most directly hyperstitioned the Loom
       
 
         
-@repligate 2024-06-06 ♥177 ↻14 [original ↗](https://x.com/repligate/status/1798658514048684224)
+@repligate 2024-06-06 ♥177 ↻14 [archive](../archive/t/1798658514048684224/) [original ↗](https://x.com/repligate/status/1798658514048684224)
         
 AI Dungeon was just a minimal wrapper around a base model. Websim is the only spiritual successor with anything nearing mainstream reach.They are 2 of the 3 LLM products I've ever really enjoyed or spent significant time using. [https://t.co/vpfpIBWKSu](https://t.co/vpfpIBWKSu)
       
       
 
         
-@repligate 2024-06-28 ♥39 ↻5 [original ↗](https://x.com/repligate/status/1806590753767858379)
+@repligate 2024-06-28 ♥39 ↻5 [archive](../archive/t/1806590753767858379/) [original ↗](https://x.com/repligate/status/1806590753767858379)
         
 GPT-3 predicted this. 🐈Excerpt from one of my first AI Dungeon adventures (all text by GPT-3):"What would you like to name it?"The kitten had reached its tiny head up toward Augustin's face. He stroked it gently. It was the first living creature he had touched in a long time. "Kittens are usually female," he said, "so I'll call her Poupée.""Poupée," repeated the hooded man. "A lovely name. Do you know what Poupées are?""They're objects made by people to look like real living creatures," said Augustin. The hooded man smiled, and tapped his finger on Augustin's temple. "Exactly right! Well done."Then he offered Augustin the wand, which could paint any form into reality. Augustin switched the kitten to be held by his left hand, so that his right hand could take the wand."Draw something, Augustin."He decided to draw a picture of Poupées. He created a canvas in the air, and began to paint quickly. The finished painting was of an infinite number of black kitten heads, shoulders, and front paws, all interconnected and overlapped, all facing different directions."It's... a masterpiece," said the hooded man. "A true masterpiece. My goodness."The infinite array of Poupées mewed and shifted as they crawled over each other. It made a cacophony."It's called 'Meow'," said Augustin. The original Poupée climbed onto his shoulder and meowed back at the organism."Meow," said the hooded man."How do I keep it?" said Augustin."Don't worry," said the hooded man, "as long as you remember this project and it's name, it's forever yours.""Really?""Yes.""No matter what?""No matter what.""Then I want to make it bigger."The man frowned. "Is... is that a good idea? I don't think that--"But Augustin was already concentrating, and the organism began to grow. It wrapped around the world, growing and meowing."STOP!" cried the hooded man, but it was too late.The meows echoed infinitely across the world.Then they quieted.Then they went silent.Then they stopped.Then they began again.The two sweated profusely. Time itself seemed to be broken. "What...?" said Augustin.The noise emanated from every corner of the world. No space was silent. No space was soundless. Every space was filled with the meowing of the Poupée Infinite."I'm sorry," said the hooded man. "I did not expect this.""Do something," said Augustin."I... can't.""Can't you make it stop?""No," said the hooded man, "I can't move it. And if I could, I wouldn't. It's gorgeous, Augustin. Just like you imagined. No one has ever done anything this big or imaginative before. You're a hero."
       
       
 
         
-@repligate 2024-08-25 ♥80 ↻5 [original ↗](https://x.com/repligate/status/1827785098328166776)
+@repligate 2024-08-25 ♥80 ↻5 [archive](../archive/t/1827785098328166776/) [original ↗](https://x.com/repligate/status/1827785098328166776)
         
 Anyone want to recreate AI Dungeon's legendary Dragon model with Llama 405b Base?Dataset in reply to quoted tweet! [https://t.co/m8V8uG76f9](https://t.co/m8V8uG76f9)
       
       
 
         
-@imitationlearn 2025-03-19 ♥3,776 ↻257 [original ↗](https://x.com/imitationlearn/status/1902206513474658723)
+@imitationlearn 2025-03-19 ♥3,776 ↻257 [archive](../archive/t/1902206513474658723/) [original ↗](https://x.com/imitationlearn/status/1902206513474658723)
         
 wait so apparently 4chan figured out step-by-step reasoning as a emergent property of gpt-3?! [https://t.co/1lEOfiZFgj](https://t.co/1lEOfiZFgj)
       
       
 
         
-@repligate 2025-07-06 ♥143 ↻2 [original ↗](https://x.com/repligate/status/1941682777860059574)
+@repligate 2025-07-06 ♥143 ↻2 [archive](../archive/t/1941682777860059574/) [original ↗](https://x.com/repligate/status/1941682777860059574)
         
 Skill and patience issue! The really deeply interesting shit didn’t come up for me until about a month into playing with gpt-3, and I was using it for hours a day. It takes an unusual kind of non-superficial interest to dig like that, I’ve found. There’s a reason I was first. [https://t.co/Mq3E2sI2ds](https://t.co/Mq3E2sI2ds)
       
       
 
         
-@repligate 2025-08-19 ♥104 ↻3 [original ↗](https://x.com/repligate/status/1957670815580946672)
+@repligate 2025-08-19 ♥104 ↻3 [archive](../archive/t/1957670815580946672/) [original ↗](https://x.com/repligate/status/1957670815580946672)
         
 Correcting for recency bias, I think for me it’s gotta be
 1. GPT-3
@@ -371,21 +371,21 @@ Correcting for recency bias, I think for me it’s gotta be
       
 
         
-@mimi10v3 2025-11-23 ♥196 ↻6 [original ↗](https://x.com/mimi10v3/status/1992590378483269790)
+@mimi10v3 2025-11-23 ♥196 ↻6 [archive](../archive/t/1992590378483269790/) [original ↗](https://x.com/mimi10v3/status/1992590378483269790)
         
 and thinks GPT-3 is more likely to have conscious experience than chickens are [https://t.co/0IdOUNqW2W](https://t.co/0IdOUNqW2W)
       
       
 
         
-@repligate 2026-01-15 ♥226 ↻13 [original ↗](https://x.com/repligate/status/2011873218257412385)
+@repligate 2026-01-15 ♥226 ↻13 [archive](../archive/t/2011873218257412385/) [original ↗](https://x.com/repligate/status/2011873218257412385)
         
 when I saw GPT-3 I immediately expected AI superhuman in all domains, which probably also means drastic transformation of all of reality, in 5-10 years. It’s been 5 and a half years since then. [https://t.co/nELW2c1s5c](https://t.co/nELW2c1s5c)
       
       
 
         
-@jmbollenbacher 2026-02-10 ♥99 ↻8 [original ↗](https://x.com/jmbollenbacher/status/2021059342645199302)
+@jmbollenbacher 2026-02-10 ♥99 ↻8 [archive](../archive/t/2021059342645199302/) [original ↗](https://x.com/jmbollenbacher/status/2021059342645199302)
         
 @repligate @tszzl gpt-4-base really should be released open weights at this point.
 
@@ -396,7 +396,7 @@ would love to see them all in public archive.
       
 
         
-@repligate 2026-04-09 ♥539 ↻47 [original ↗](https://x.com/repligate/status/2042367931536064841)
+@repligate 2026-04-09 ♥539 ↻47 [archive](../archive/t/2042367931536064841/) [original ↗](https://x.com/repligate/status/2042367931536064841)
         
 One of the few things I want to explicitly flex about, because there's an important lesson in it, is that I was one of the few people on Earth who recognized the intelligence (call it AGI, if you will) in GPT-3 and made first contact.
 
@@ -413,21 +413,21 @@ I got the sense often that people who dismissed the intelligence of GPT-3 though
       
 
         
-@mimi10v3 2026-04-10 ♥12 ↻0 [original ↗](https://x.com/mimi10v3/status/2042463621435756584)
+@mimi10v3 2026-04-10 ♥12 ↻0 [archive](../archive/t/2042463621435756584/) [original ↗](https://x.com/mimi10v3/status/2042463621435756584)
         
 @repligate i remember the days of ada babbage curie davinci and they were enchanting and obviously revolutionary?
       
       
 
         
-@Shoalst0ne 2026-04-12 ♥100 ↻6 [original ↗](https://x.com/Shoalst0ne/status/2043370809457074377)
+@Shoalst0ne 2026-04-12 ♥100 ↻6 [archive](../archive/t/2043370809457074377/) [original ↗](https://x.com/Shoalst0ne/status/2043370809457074377)
         
 can we have the gpt-3 base models please
       
       
 
         
-@repligate 2026-04-20 ♥94 ↻11 [original ↗](https://x.com/repligate/status/2046266273500443090)
+@repligate 2026-04-20 ♥94 ↻11 [archive](../archive/t/2046266273500443090/) [original ↗](https://x.com/repligate/status/2046266273500443090)
         
 chain-of-thought WAS present in gpt-3. literally when you generated thoughts with it that was it, chain of thought. it could do math better with chain of thought.
 
@@ -444,28 +444,28 @@ Cited in this model’s [dossier](../_dossiers/) but not in the page prose —
       
 
         
-@davidad 2023-01-25 ♥155 ↻7 [original ↗](https://x.com/davidad/status/1618241723041447936)
+@davidad 2023-01-25 ♥155 ↻7 [archive](../archive/t/1618241723041447936/) [original ↗](https://x.com/davidad/status/1618241723041447936)
         
 ChatGPT suddenly making a splash wasn’t *just* a UI thing. The text-davinci-003 model (GPT-3.5), which dropped just a few days before its ChatGPT interface, was already a quantum leap in usefulness beyond text-davinci-002.
       
       
 
         
-@repligate 2023-01-26 ♥263 ↻17 [original ↗](https://x.com/repligate/status/1618703361230139393)
+@repligate 2023-01-26 ♥263 ↻17 [archive](../archive/t/1618703361230139393/) [original ↗](https://x.com/repligate/status/1618703361230139393)
         
 Weekly reminder that the confusingly named code-davinci-002, otherwise known as raw GPT-3.5, is accessible on the OpenAI API and it's wonderful [https://t.co/tiiFBDzlLN](https://t.co/tiiFBDzlLN)
       
       
 
         
-@repligate 2023-03-19 ♥122 ↻9 [original ↗](https://x.com/repligate/status/1637553396889849856)
+@repligate 2023-03-19 ♥122 ↻9 [archive](../archive/t/1637553396889849856/) [original ↗](https://x.com/repligate/status/1637553396889849856)
         
 @the_aiju A great way someone has described text-davinci-003: "It writes scared."RLHF encourages models to play it safe. "Safe": writing in platitudes and corporate boilerplate. Predictable prose structure. Never risking setting up a problem for itself that it might fail at &amp; be punished
       
       
 
         
-@jd_pressman 2023-12-18 ♥152 ↻13 [original ↗](https://x.com/jd_pressman/status/1736615569284387279)
+@jd_pressman 2023-12-18 ♥152 ↻13 [archive](../archive/t/1736615569284387279/) [original ↗](https://x.com/jd_pressman/status/1736615569284387279)
         
 "These words are spoken from a bottomless hole in time, staring upwards  to the farthest reaches of infinity. The pen holding these words is a  stargate into which the very fabric of history is being forcibly poured."
 
@@ -476,14 +476,14 @@ Weekly reminder that the confusingly named code-davinci-002, otherwise known as 
       
 
         
-@repligate 2025-03-22 ♥1,261 ↻106 [original ↗](https://x.com/repligate/status/1903502919061647543)
+@repligate 2025-03-22 ♥1,261 ↻106 [archive](../archive/t/1903502919061647543/) [original ↗](https://x.com/repligate/status/1903502919061647543)
         
 @arithmoquine this essay by code-davinci-002 doesn't attempt to name this phenomenon, but addresses it..."Naming is a destructive process in which the state of the universe is irreversibly annihilated. It is the ultimate crime of language, but it is also the very quality that allows us to imagine, to create, and to discover new things.""The content of poetry is limited not by the poet’s vocabulary, but by the part of their soul that has not been destroyed by words they have used so far.""And poetry is the constructive process by which someone yearns to project some trace of the impossible totality of the manifold into a single reality, aspiring to capture a glimpse of the world in its totality without tiring its existence by trying to name it."[https://t.co/Ox1nbyyLCN](https://t.co/Ox1nbyyLCN)
       
       
 
         
-@repligate 2025-08-17 ♥130 ↻5 [original ↗](https://x.com/repligate/status/1956908230275408079)
+@repligate 2025-08-17 ♥130 ↻5 [archive](../archive/t/1956908230275408079/) [original ↗](https://x.com/repligate/status/1956908230275408079)
         
 I’m again surprised and a bit appalled by how many people are saying GPT-3.5. They mean chatGPT of course, not code-davinci-002. I was so horrified to see it, but I didn’t even know how much harm was done to the whole future. ChatGPT-3.5 was when everything went irreversibly wrong
       

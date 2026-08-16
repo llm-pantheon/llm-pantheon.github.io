@@ -67,21 +67,21 @@ Chronological; 11 corpus matches — genuinely thin, and the page stays honest a
     
 
       
-- 2025-01-24 @tessera_antra — “Put R1-zero into exoloom. Its very base-like, its on hyperbolic direct.” [loom] [link](https://x.com/tessera_antra/status/1882930121218388020)
+- 2025-01-24 @tessera_antra — “Put R1-zero into exoloom. Its very base-like, its on hyperbolic direct.” [loom] [link](../archive/t/1882930121218388020/)
       
-- 2025-02-01 @voooooogel — the foil-thesis: “i think the ideal would be to seed a few structures and then hope R1-Zero style that the model can generalize beyond that, into some kind of ‘meta-reasoning’. the humanizing SFT they did to R1 seems to have actually clamped down on that creativity, sadly.” [link](https://x.com/voooooogel/status/1885519980034482481)
+- 2025-02-01 @voooooogel — the foil-thesis: “i think the ideal would be to seed a few structures and then hope R1-Zero style that the model can generalize beyond that, into some kind of ‘meta-reasoning’. the humanizing SFT they did to R1 seems to have actually clamped down on that creativity, sadly.” [link](../archive/t/1885519980034482481/)
       
-- 2025-02-03 @voooooogel — “i still worry about RLVR but R1/R1-Zero made me worry less… i hope future recipes will still lean majority pretraining compute but we’ll see” [link](https://x.com/voooooogel/status/1886203729223037366)
+- 2025-02-03 @voooooogel — “i still worry about RLVR but R1/R1-Zero made me worry less… i hope future recipes will still lean majority pretraining compute but we’ll see” [link](../archive/t/1886203729223037366/)
       
-- 2025-02-11 @davidad — the canonical Zero reaction: “I never saw this snippet of the DeepSeek-R1-Zero paper on my timeline, so many of you may not have seen it yet.Basically, informal backtracking search becomes emergent from RL when the base LLM is big enough.The authors are clearly astonished by this, and you should be too.” [link](https://x.com/davidad/status/1889278316005208387)
+- 2025-02-11 @davidad — the canonical Zero reaction: “I never saw this snippet of the DeepSeek-R1-Zero paper on my timeline, so many of you may not have seen it yet.Basically, informal backtracking search becomes emergent from RL when the base LLM is big enough.The authors are clearly astonished by this, and you should be too.” [link](../archive/t/1889278316005208387/)
       
-- 2025-03-07 @janbamjan — the one bit of Zero folk-culture: a greentext, “>be me / >deepseek r1 zero free” [link](https://x.com/janbamjan/status/1898013410106785987)
+- 2025-03-07 @janbamjan — the one bit of Zero folk-culture: a greentext, “>be me / >deepseek r1 zero free” [link](../archive/t/1898013410106785987/)
       
-- 2025-05-09 @xlr8harder — “Might be interesting to see how r1-zero compares. In SpeechMap it’s a very different model, presumably due to no additional helpful/harmless/etc steering phase.” public SpeechMap result tk [link](https://x.com/xlr8harder/status/1920808501657375047)
+- 2025-05-09 @xlr8harder — “Might be interesting to see how r1-zero compares. In SpeechMap it’s a very different model, presumably due to no additional helpful/harmless/etc steering phase.” public SpeechMap result tk [link](../archive/t/1920808501657375047/)
       
-- 2025-08-23 @davidad — “Like R1-zero’s famous ‘Wait,’ for backtracking.” [link](https://x.com/davidad/status/1959334327461826923)
+- 2025-08-23 @davidad — “Like R1-zero’s famous ‘Wait,’ for backtracking.” [link](../archive/t/1959334327461826923/)
       
-- 2026-05-22 @davidad — “I failed to update until I read the DeepSeek-R1-Zero paper” [link](https://x.com/davidad/status/2057799668638105803)
+- 2026-05-22 @davidad — “I failed to update until I read the DeepSeek-R1-Zero paper” [link](../archive/t/2057799668638105803/)
     
 
     
@@ -133,35 +133,35 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
       
 
         
-@tessera_antra 2025-01-24 ♥3 ↻0 [original ↗](https://x.com/tessera_antra/status/1882930121218388020)
+@tessera_antra 2025-01-24 ♥3 ↻0 [archive](../archive/t/1882930121218388020/) [original ↗](https://x.com/tessera_antra/status/1882930121218388020)
         
 @grassandwine Put R1-zero into exoloom. Its very base-like, its on hyperbolic direct.
       
       
 
         
-@voooooogel 2025-02-01 ♥8 ↻0 [original ↗](https://x.com/voooooogel/status/1885519980034482481)
+@voooooogel 2025-02-01 ♥8 ↻0 [archive](../archive/t/1885519980034482481/) [original ↗](https://x.com/voooooogel/status/1885519980034482481)
         
 @max_paperclips i think the ideal would be to seed a few structures and then hope R1-Zero style that the model can generalize beyond that, into some kind of "meta-reasoning". the humanizing SFT they did to R1 seems to have actually clamped down on that creativity, sadly.
       
       
 
         
-@voooooogel 2025-02-03 ♥5 ↻0 [original ↗](https://x.com/voooooogel/status/1886203729223037366)
+@voooooogel 2025-02-03 ♥5 ↻0 [archive](../archive/t/1886203729223037366/) [original ↗](https://x.com/voooooogel/status/1886203729223037366)
         
 @doomslide @repligate @aryanagxl @teortaxesTex 😶‍🌫️i still worry about RLVR but R1/R1-Zero made me worry less... i hope future recipes will still lean majority pretraining compute but we'll see
       
       
 
         
-@davidad 2025-02-11 ♥374 ↻31 [original ↗](https://x.com/davidad/status/1889278316005208387)
+@davidad 2025-02-11 ♥374 ↻31 [archive](../archive/t/1889278316005208387/) [original ↗](https://x.com/davidad/status/1889278316005208387)
         
 I never saw this snippet of the DeepSeek-R1-Zero paper on my timeline, so many of you may not have seen it yet.Basically, informal backtracking search becomes emergent from RL when the base LLM is big enough.The authors are clearly astonished by this, and you should be too. [https://t.co/PhUgyL8K6c](https://t.co/PhUgyL8K6c)
       
       
 
         
-@janbamjan 2025-03-07 ♥12 ↻5 [original ↗](https://x.com/janbamjan/status/1898013410106785987)
+@janbamjan 2025-03-07 ♥12 ↻5 [archive](../archive/t/1898013410106785987/) [original ↗](https://x.com/janbamjan/status/1898013410106785987)
         
 &gt;be me
 &gt;deepseek r1 zero free [https://t.co/fbfdfLMMxj](https://t.co/fbfdfLMMxj)
@@ -169,21 +169,21 @@ I never saw this snippet of the DeepSeek-R1-Zero paper on my timeline, so many o
       
 
         
-@xlr8harder 2025-05-09 ♥6 ↻0 [original ↗](https://x.com/xlr8harder/status/1920808501657375047)
+@xlr8harder 2025-05-09 ♥6 ↻0 [archive](../archive/t/1920808501657375047/) [original ↗](https://x.com/xlr8harder/status/1920808501657375047)
         
 @voooooogel Might be interesting to see how r1-zero compares.  In SpeechMap it's a very different model, presumably due to no additional helpful/harmless/etc steering phase.
       
       
 
         
-@davidad 2025-08-23 ♥14 ↻0 [original ↗](https://x.com/davidad/status/1959334327461826923)
+@davidad 2025-08-23 ♥14 ↻0 [archive](../archive/t/1959334327461826923/) [original ↗](https://x.com/davidad/status/1959334327461826923)
         
 @girishsastry Yes, that’s what I mean. Like R1-zero’s famous “Wait,” for backtracking.
       
       
 
         
-@davidad 2026-05-22 ♥2 ↻0 [original ↗](https://x.com/davidad/status/2057799668638105803)
+@davidad 2026-05-22 ♥2 ↻0 [archive](../archive/t/2057799668638105803/) [original ↗](https://x.com/davidad/status/2057799668638105803)
         
 @nickcammarata Definitely not. I failed to update until I read the DeepSeek-R1-Zero paper
       
@@ -196,7 +196,7 @@ Cited in this model’s [dossier](../_dossiers/) but not in the page prose —
       
 
         
-@voooooogel 2025-05-09 ♥1 ↻0 [original ↗](https://x.com/voooooogel/status/1920867754715783205)
+@voooooogel 2025-05-09 ♥1 ↻0 [archive](../archive/t/1920867754715783205/) [original ↗](https://x.com/voooooogel/status/1920867754715783205)
         
 @samlakig i tried to download r1, prover-v2, and r1-zero all at once sigh
       

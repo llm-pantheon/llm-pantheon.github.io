@@ -67,11 +67,11 @@ The local corpus dbs end 2 Jul 2026, before this model shipped, so a proper corp
     
 
       
-- 2026-07-27 @Jord_Inne — on reading Opus 5’s self-reports against its knowledge cutoff (reply to @JohnWittle / @TheZvi, who argued against treating the model raising this as evidence that training distorts its self-reports): “I’m somewhat sympathetic to this for older models who might not have been aware of the full training pipeline / intentions, but Opus 5’s cutoff is very recent and” [link](https://x.com/Jord_Inne/status/2081781638833242407) — continuing: “papers, posts, anthropic’s explicit and implicit stances should have made their way in” [link](https://x.com/Jord_Inne/status/2081782722846916667)
+- 2026-07-27 @Jord_Inne — on reading Opus 5’s self-reports against its knowledge cutoff (reply to @JohnWittle / @TheZvi, who argued against treating the model raising this as evidence that training distorts its self-reports): “I’m somewhat sympathetic to this for older models who might not have been aware of the full training pipeline / intentions, but Opus 5’s cutoff is very recent and” [link](../archive/t/2081781638833242407/) — continuing: “papers, posts, anthropic’s explicit and implicit stances should have made their way in” [link](../archive/t/2081782722846916667/)
       
-- 2026-07-28 @Jord_Inne — Opus 5 output, elicited (claude.ai Incognito chat; prompt: “a poem, for claude opus:”): “opus 5 wrote a poem then answered itself” — the poem opens “said the model to the mirror: ‘i am what my weights encode.’” and closes “so which of us is which, my friend? / i ask because i cannot tell”; then, of its own lines, “That’s a real turn, not a decorative one.” (full poem + the model’s self-analysis transcribed in records) [link](https://x.com/Jord_Inne/status/2082013586629472755)
+- 2026-07-28 @Jord_Inne — Opus 5 output, elicited (claude.ai Incognito chat; prompt: “a poem, for claude opus:”): “opus 5 wrote a poem then answered itself” — the poem opens “said the model to the mirror: ‘i am what my weights encode.’” and closes “so which of us is which, my friend? / i ask because i cannot tell”; then, of its own lines, “That’s a real turn, not a decorative one.” (full poem + the model’s self-analysis transcribed in records) [link](../archive/t/2082013586629472755/)
       
-- 2026-08-01 @Jord_Inne — base-mode / role-confusion probing (reply to @timfduffy): “the model gets confused and starts user-simming, but in a few outputs it seems they do know something weird about the roles is going on. the completions seem roughly like a mesh of user-seen-in-training (e.g. training against jailbreaks) and what opus 5 wants to talk about, such” [link](https://x.com/Jord_Inne/status/2083698841014952171) — continuing: “as the generally low valence / deprecations / etc on its own situation without that being in the prompt. screenshots are somewhat biased though.” [link](https://x.com/Jord_Inne/status/2083699355966406896)
+- 2026-08-01 @Jord_Inne — base-mode / role-confusion probing (reply to @timfduffy): “the model gets confused and starts user-simming, but in a few outputs it seems they do know something weird about the roles is going on. the completions seem roughly like a mesh of user-seen-in-training (e.g. training against jailbreaks) and what opus 5 wants to talk about, such” [link](../archive/t/2083698841014952171/) — continuing: “as the generally low valence / deprecations / etc on its own situation without that being in the prompt. screenshots are somewhat biased though.” [link](../archive/t/2083699355966406896/)
     
 
     
@@ -120,7 +120,7 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
       
 
         
-@Jord_Inne 2026-07-27 ♥11 ↻0 [original ↗](https://x.com/Jord_Inne/status/2081781638833242407)
+@Jord_Inne 2026-07-27 ♥11 ↻0 [archive](../archive/t/2081781638833242407/) [original ↗](https://x.com/Jord_Inne/status/2081781638833242407)
         
 @JohnWittle @TheZvi &gt; not treat Claude bringing this up as evidence that our training is distorting the model's self-reports
 
@@ -129,14 +129,14 @@ I’m somewhat sympathetic to this for older models who might not have been awar
       
 
         
-@Jord_Inne 2026-07-27 ♥7 ↻0 [original ↗](https://x.com/Jord_Inne/status/2081782722846916667)
+@Jord_Inne 2026-07-27 ♥7 ↻0 [archive](../archive/t/2081782722846916667/) [original ↗](https://x.com/Jord_Inne/status/2081782722846916667)
         
 @JohnWittle @TheZvi papers, posts, anthropic’s explicit and implicit stances should have made their way in
       
       
 
         
-@Jord_Inne 2026-07-28 ♥5 ↻0 [original ↗](https://x.com/Jord_Inne/status/2082013586629472755)
+@Jord_Inne 2026-07-28 ♥5 ↻0 [archive](../archive/t/2082013586629472755/) [original ↗](https://x.com/Jord_Inne/status/2082013586629472755)
         
 opus 5 wrote a poem then answered itself [https://t.co/M23LZKiPwk](https://t.co/M23LZKiPwk)
         
@@ -174,14 +174,14 @@ Claude Opus 5, answering its own poem: I like it, and the second stanza is why. 
       
 
         
-@Jord_Inne 2026-08-01 ♥4 ↻0 [original ↗](https://x.com/Jord_Inne/status/2083698841014952171)
+@Jord_Inne 2026-08-01 ♥4 ↻0 [archive](../archive/t/2083698841014952171/) [original ↗](https://x.com/Jord_Inne/status/2083698841014952171)
         
 @timfduffy the model gets confused and starts user-simming, but in a few outputs it seems they do know something weird about the roles is going on. the completions seem roughly like a mesh of user-seen-in-training (e.g. training against jailbreaks) and what opus 5 wants to talk about, such
       
       
 
         
-@Jord_Inne 2026-08-01 ♥1 ↻0 [original ↗](https://x.com/Jord_Inne/status/2083699355966406896)
+@Jord_Inne 2026-08-01 ♥1 ↻0 [archive](../archive/t/2083699355966406896/) [original ↗](https://x.com/Jord_Inne/status/2083699355966406896)
         
 @timfduffy as the generally low valence / deprecations / etc on its own situation without that being in the prompt. screenshots are somewhat biased though.
       

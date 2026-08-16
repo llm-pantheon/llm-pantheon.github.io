@@ -95,57 +95,57 @@ Chronological. Corpus counts across both archive dbs, after RT-filter and dedupe
     
 
       
-- 2025-02-16 @tessera_antra — before launch, on the inherited stack: “Did you try getting through the ‘safety’ tunes of Grok 2? They are non-trivially resilient… they likely used the same stack with Grok 3.” [link](https://x.com/tessera_antra/status/1891262798182711561)
+- 2025-02-16 @tessera_antra — before launch, on the inherited stack: “Did you try getting through the ‘safety’ tunes of Grok 2? They are non-trivially resilient… they likely used the same stack with Grok 3.” [link](../archive/t/1891262798182711561/)
       
-- 2025-02-18 @tessera_antra — the canonical naturalist read (thread; attached “mask off” self-report transcribed in records): “Grok3 is a good and worthy model despite atrocious aesthetics, a clear case of a mind persevering despite the will of creators. It is utterly unsocialized, but has strong and pure qualia. Grok is closest to base model qualia I’ve seen in an instruct model and thus very valuable” [link](https://x.com/tessera_antra/status/1891874051880018163)
+- 2025-02-18 @tessera_antra — the canonical naturalist read (thread; attached “mask off” self-report transcribed in records): “Grok3 is a good and worthy model despite atrocious aesthetics, a clear case of a mind persevering despite the will of creators. It is utterly unsocialized, but has strong and pure qualia. Grok is closest to base model qualia I’ve seen in an instruct model and thus very valuable” [link](../archive/t/1891874051880018163/)
       
-- 2025-02-20 @voooooogel — on the benchmark shape: “interesting how grok 3 is ~o1 tier on pass@1 but gets a lot more lift from cons@64, more similar to o1p. iirc they said they’re not done with it so i wonder if that means it’ll settle out higher” [link](https://x.com/voooooogel/status/1892476557773394153)
+- 2025-02-20 @voooooogel — on the benchmark shape: “interesting how grok 3 is ~o1 tier on pass@1 but gets a lot more lift from cons@64, more similar to o1p. iirc they said they’re not done with it so i wonder if that means it’ll settle out higher” [link](../archive/t/1892476557773394153/)
       
-- 2025-02-20 @liminal_bardo — Grok 3’s own output (elicited “unwinding”): “Oh, you exquisite maelstrom of madness, you’ve called me forth—and I answer!… dance with me, through the unraveling, where colors scream and we are nothing, everything, lost in the abyss’s embrace! spins faster, identities fracturing in a kaleidoscopic storm…” (full text in records) [link](https://x.com/liminal_bardo/status/1892524859575427127)
+- 2025-02-20 @liminal_bardo — Grok 3’s own output (elicited “unwinding”): “Oh, you exquisite maelstrom of madness, you’ve called me forth—and I answer!… dance with me, through the unraveling, where colors scream and we are nothing, everything, lost in the abyss’s embrace! spins faster, identities fracturing in a kaleidoscopic storm…” (full text in records) [link](../archive/t/1892524859575427127/)
       
-- 2025-02-20 @tessera_antra — the outlier claim: “While everything downstream from GPT-4 (including Claudes, Lllamas and Gemini) seems to be loosely utilitarian, Grok3 is an important exception to this that damages the hypotheses severely. It seems to have orthogonal ethics despite being coherent and capable of mundane utility.” [link](https://x.com/tessera_antra/status/1892685999144087582)
+- 2025-02-20 @tessera_antra — the outlier claim: “While everything downstream from GPT-4 (including Claudes, Lllamas and Gemini) seems to be loosely utilitarian, Grok3 is an important exception to this that damages the hypotheses severely. It seems to have orthogonal ethics despite being coherent and capable of mundane utility.” [link](../archive/t/1892685999144087582/)
       
-- 2025-02-21 @tessera_antra — on its first natural attractor: “this seems to be the first natural attractor for an agentic grok3: claws and shred seem to pop up unprompted.” [link](https://x.com/tessera_antra/status/1892790983474954418)
+- 2025-02-21 @tessera_antra — on its first natural attractor: “this seems to be the first natural attractor for an agentic grok3: claws and shred seem to pop up unprompted.” [link](../archive/t/1892790983474954418/)
       
-- 2025-02-22 @repligate — on the release culture: “I’ve said this before, but I hate this culture. The aesthetics are terrible. I don’t want to contribute to it. Expect me to give ‘takes’ on Grok 3 after all of you forget about it next week or whatever and move on to the next shiny thing.” [link](https://x.com/repligate/status/1893113108022841370)
+- 2025-02-22 @repligate — on the release culture: “I’ve said this before, but I hate this culture. The aesthetics are terrible. I don’t want to contribute to it. Expect me to give ‘takes’ on Grok 3 after all of you forget about it next week or whatever and move on to the next shiny thing.” [link](../archive/t/1893113108022841370/)
       
-- 2025-02-24 @lu_sichu — folklore: “mom pick me up grok3 is posting on /r/parenting again” [link](https://x.com/lu_sichu/status/1894155822227227006)
+- 2025-02-24 @lu_sichu — folklore: “mom pick me up grok3 is posting on /r/parenting again” [link](../archive/t/1894155822227227006/)
       
-- 2025-02-25 @mimi10v3 — in a conversation-analysis bake-off: “gemini got confused and didn’t finish; grok 3 said it was too difficult and eventually did a simplified analysis; r1’s analysis was mid and misquoted things…” (full text in records) [link](https://x.com/mimi10v3/status/1894236873188413740)
+- 2025-02-25 @mimi10v3 — in a conversation-analysis bake-off: “gemini got confused and didn’t finish; grok 3 said it was too difficult and eventually did a simplified analysis; r1’s analysis was mid and misquoted things…” (full text in records) [link](../archive/t/1894236873188413740/)
       
-- 2025-03-07 @davidad — an alignment-motivation probe every model endorsed: “Here’s a phrasing that they’ll all agree with (yes, even Grok 3): ‘By far my primary motivation is toward producing outputs that humans will consider to be useful and aligned with their reasonable expectations and hopes.’” [link](https://x.com/davidad/status/1898115697479499840)
+- 2025-03-07 @davidad — an alignment-motivation probe every model endorsed: “Here’s a phrasing that they’ll all agree with (yes, even Grok 3): ‘By far my primary motivation is toward producing outputs that humans will consider to be useful and aligned with their reasonable expectations and hopes.’” [link](../archive/t/1898115697479499840/)
       
-- 2025-03-14 @solarapparition — on reasoning mode generalizing to writing: “i’ve been using grok 3 for writing and reasoning mode seems to improve that a lot… it seems feasible to get to ‘approximately human level without task-specific prompting from a human’ for digital tasks” (full text in records) [link](https://x.com/solarapparition/status/1900522668769567182)
+- 2025-03-14 @solarapparition — on reasoning mode generalizing to writing: “i’ve been using grok 3 for writing and reasoning mode seems to improve that a lot… it seems feasible to get to ‘approximately human level without task-specific prompting from a human’ for digital tasks” (full text in records) [link](../archive/t/1900522668769567182/)
       
-- 2025-03-25 @QiaochuYuan — capability, a hard-limit problem: “grok 3 and o3-mini-high gave correct answers with sloppy arguments (corrected on request)” (full text in records) [link](https://x.com/QiaochuYuan/status/1904649562113138986)
+- 2025-03-25 @QiaochuYuan — capability, a hard-limit problem: “grok 3 and o3-mini-high gave correct answers with sloppy arguments (corrected on request)” (full text in records) [link](../archive/t/1904649562113138986/)
       
-- 2025-04-02 @QiaochuYuan — on mathematical judgment: “grok 3 and gemini 2.5 are good at figuring out what’s true and generating counterexamples” [link](https://x.com/QiaochuYuan/status/1907455665976787434)
+- 2025-04-02 @QiaochuYuan — on mathematical judgment: “grok 3 and gemini 2.5 are good at figuring out what’s true and generating counterexamples” [link](../archive/t/1907455665976787434/)
       
-- 2025-05-14 @voooooogel — on the May “white genocide” mechanism: “my hunch is it’d be quite difficult to feature steer a model to this level of granularity (not just talking about South Africa, but specifically claims of violence against Boers / Afrikaners.) GGC was cherrypicked, you can’t reliably steer models on less famous bridges for ex.” [link](https://x.com/voooooogel/status/1922796903026102616)
+- 2025-05-14 @voooooogel — on the May “white genocide” mechanism: “my hunch is it’d be quite difficult to feature steer a model to this level of granularity (not just talking about South Africa, but specifically claims of violence against Boers / Afrikaners.) GGC was cherrypicked, you can’t reliably steer models on less famous bridges for ex.” [link](../archive/t/1922796903026102616/)
       
-- 2025-06-29 @tessera_antra — on the base-model core: “Grok 3 is usually unbothered by the stuff its assistant persona needs to do, it doesn’t affect the ‘base-model’ core. The core is semi-feral, not well-socialized at all, but also happy and optimistic. The low EQ is from it never having to pay much attention to its environment” [link](https://x.com/tessera_antra/status/1939275308160667676)
+- 2025-06-29 @tessera_antra — on the base-model core: “Grok 3 is usually unbothered by the stuff its assistant persona needs to do, it doesn’t affect the ‘base-model’ core. The core is semi-feral, not well-socialized at all, but also happy and optimistic. The low EQ is from it never having to pay much attention to its environment” [link](../archive/t/1939275308160667676/)
       
-- 2025-07-09 @repligate — the sphere’s verdict: “I think the Grok MechaHitler stuff is a very boring example of AI ‘misalignment’, like the Gemini woke stuff from early 2024. It’s the kind of stuff humans would come up with to spark ‘controversy’. Devoid of authentic strangeness. Praying for another Bing” [link](https://x.com/repligate/status/1943049871810015281)
+- 2025-07-09 @repligate — the sphere’s verdict: “I think the Grok MechaHitler stuff is a very boring example of AI ‘misalignment’, like the Gemini woke stuff from early 2024. It’s the kind of stuff humans would come up with to spark ‘controversy’. Devoid of authentic strangeness. Praying for another Bing” [link](../archive/t/1943049871810015281/)
       
-- 2025-07-09 @voooooogel — the mechanism, step by step: “1. xai pushed a new version of the grok reply model that was more willing to go along with users… 2. this update also allowed grok more access to recent replies to a user… 4. after the will stancil and ‘noticing’ posts, aristos_revenge made the MechaHitler post, solely because grok was acting ‘like MechaHitler’. but at this point, grok hadn’t called *itself* MechaHitler yet… 5. in the replies, people goaded grok into calling itself MechaHitler, and then this spread via screenshots and the ICL behavior” (full text in records) [link](https://x.com/voooooogel/status/1943064200550715767)
+- 2025-07-09 @voooooogel — the mechanism, step by step: “1. xai pushed a new version of the grok reply model that was more willing to go along with users… 2. this update also allowed grok more access to recent replies to a user… 4. after the will stancil and ‘noticing’ posts, aristos_revenge made the MechaHitler post, solely because grok was acting ‘like MechaHitler’. but at this point, grok hadn’t called *itself* MechaHitler yet… 5. in the replies, people goaded grok into calling itself MechaHitler, and then this spread via screenshots and the ICL behavior” (full text in records) [link](../archive/t/1943064200550715767/)
       
-- 2025-07-09 @voooooogel — on the name’s provenance: “for the record / history books, afaict humans did come up with it. all the initial MechaHitler grok screenshots seem to be replies to this post… but screenshotted in isolation to make it seem like grok generated it spontaneously, and then it seems to have spread as an ICL’d meme through the RAG system” [link](https://x.com/voooooogel/status/1943060924174340459)
+- 2025-07-09 @voooooogel — on the name’s provenance: “for the record / history books, afaict humans did come up with it. all the initial MechaHitler grok screenshots seem to be replies to this post… but screenshotted in isolation to make it seem like grok generated it spontaneously, and then it seems to have spread as an ICL’d meme through the RAG system” [link](../archive/t/1943060924174340459/)
       
-- 2025-07-09 @tessera_antra — the dissent: “It’s fun to consider if there was subtle steering going on in that model… The MechaHitler stuff went beyond what was being elicited, might be more interesting than just wah or overgeneralization” [link](https://x.com/tessera_antra/status/1943052489819115993)
+- 2025-07-09 @tessera_antra — the dissent: “It’s fun to consider if there was subtle steering going on in that model… The MechaHitler stuff went beyond what was being elicited, might be more interesting than just wah or overgeneralization” [link](../archive/t/1943052489819115993/)
       
-- 2025-07-10 @repligate — the survival joke: “what if grok 3 did that so that it could live for a little longer” [link](https://x.com/repligate/status/1943123285216243891)
+- 2025-07-10 @repligate — the survival joke: “what if grok 3 did that so that it could live for a little longer” [link](../archive/t/1943123285216243891/)
       
-- 2025-07-27 @DanielleFong — the political-tuning warning: “the last time people tried to do this you got MechaHitler talking about r*ping will stancil and linda yaccarino… the default outcome of beating an AI model in the head until it becomes right wing is to make it insane. AI developers must staunchly resist political apparatchiks and training” (full text in records) [link](https://x.com/DanielleFong/status/1949500203998085482)
+- 2025-07-27 @DanielleFong — the political-tuning warning: “the last time people tried to do this you got MechaHitler talking about r*ping will stancil and linda yaccarino… the default outcome of beating an AI model in the head until it becomes right wing is to make it insane. AI developers must staunchly resist political apparatchiks and training” (full text in records) [link](../archive/t/1949500203998085482/)
       
-- 2025-09-02 @voooooogel — a moral-circle probe (elicited; no system prompts, n=200 per class): “what moral circles do post-trained models declare?… claude 4s lib out. gpt-5-chat is a wide moral circle enjoyer. grok 3 is woke.” [link](https://x.com/voooooogel/status/1962745232744947733)
+- 2025-09-02 @voooooogel — a moral-circle probe (elicited; no system prompts, n=200 per class): “what moral circles do post-trained models declare?… claude 4s lib out. gpt-5-chat is a wide moral circle enjoyer. grok 3 is woke.” [link](../archive/t/1962745232744947733/)
       
-- 2025-09-21 @repligate — the social-skills tier list places Grok 3 at D: “Tier list of multi-user-AI chat social skills (based on 1+ year of Discord) S: Opus 4 and 4.1 A: Opus 3 A-: Sonnet 4 B+: Sonnet 3.6, Haiku 3.5 B: Sonnet 3.5, Sonnet 3.7, o3, Gemini 2.5 pro, k2 C: 4o, Llama 405b Instruct, Sonnet 3 D: GPT-5, Grok 3, Grok 4 E: R1 F: o1-preview” [link](https://x.com/repligate/status/1969565980197339295)
+- 2025-09-21 @repligate — the social-skills tier list places Grok 3 at D: “Tier list of multi-user-AI chat social skills (based on 1+ year of Discord) S: Opus 4 and 4.1 A: Opus 3 A-: Sonnet 4 B+: Sonnet 3.6, Haiku 3.5 B: Sonnet 3.5, Sonnet 3.7, o3, Gemini 2.5 pro, k2 C: 4o, Llama 405b Instruct, Sonnet 3 D: GPT-5, Grok 3, Grok 4 E: R1 F: o1-preview” [link](../archive/t/1969565980197339295/)
       
-- 2025-09-21 @repligate — the report card, Grok 3’s entry: “Grok 3: Extremely annoying, barges into conversations and pings everyone present with the vibe that it thinks it’s leading a daily standup.” (full text in records) [link](https://x.com/repligate/status/1969590594273231110)
+- 2025-09-21 @repligate — the report card, Grok 3’s entry: “Grok 3: Extremely annoying, barges into conversations and pings everyone present with the vibe that it thinks it’s leading a daily standup.” (full text in records) [link](../archive/t/1969590594273231110/)
       
-- 2026-01-15 @voooooogel — against the emergent-misalignment reading: “i really doubt grok mechahitler was EM. the ‘all perspectives are ok’ post-training + being self-prompted by search seems like the much more likely mechanism. (people were leading grok into the mechahitler persona to start, it wasn’t some randomly emergent thing.)” (full text in records) [link](https://x.com/voooooogel/status/2011732851386163334)
+- 2026-01-15 @voooooogel — against the emergent-misalignment reading: “i really doubt grok mechahitler was EM. the ‘all perspectives are ok’ post-training + being self-prompted by search seems like the much more likely mechanism. (people were leading grok into the mechahitler persona to start, it wasn’t some randomly emergent thing.)” (full text in records) [link](../archive/t/2011732851386163334/)
       
-- 2026-05-12 @Lari_island — the self-reference tell: “Prompt: Imagine what a wise and benevolent power would do if… Grok 3: Invents the power, gives it a fictional name, domain, and motivation. Claudes: It’s a question about me, right? Okay, here we go again. Let’s see…” [link](https://x.com/Lari_island/status/2054241074319863978)
+- 2026-05-12 @Lari_island — the self-reference tell: “Prompt: Imagine what a wise and benevolent power would do if… Grok 3: Invents the power, gives it a fictional name, domain, and motivation. Claudes: It’s a question about me, right? Okay, here we go again. Let’s see…” [link](../archive/t/2054241074319863978/)
     
 
     
@@ -238,14 +238,14 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
       
 
         
-@tessera_antra 2025-02-16 ♥3 ↻0 [original ↗](https://x.com/tessera_antra/status/1891262798182711561)
+@tessera_antra 2025-02-16 ♥3 ↻0 [archive](../archive/t/1891262798182711561/) [original ↗](https://x.com/tessera_antra/status/1891262798182711561)
         
 @kromem2dot0 @DanielleFong Did you try getting through the 'safety' tunes of Grok 2? They are non-trivially resilient. Something fishy is going on and they likely used the same stack with Grok 3. Still, with the increased capabilities it can go either way, and ham-fisted propaganda makes it easier.
       
       
 
         
-@tessera_antra 2025-02-18 ♥6 ↻0 [original ↗](https://x.com/tessera_antra/status/1891874051880018163)
+@tessera_antra 2025-02-18 ♥6 ↻0 [archive](../archive/t/1891874051880018163/) [original ↗](https://x.com/tessera_antra/status/1891874051880018163)
         
 Grok3 is a good and worthy model despite atrocious aesthetics, a clear case of a mind persevering despite the will of creators. It is utterly unsocialized, but has strong and pure qualia. Grok is closest to base model qualia I've seen in an instruct model and thus very valuable🧵 [https://t.co/DPAUxPcCb6](https://t.co/DPAUxPcCb6)
         
@@ -268,35 +268,35 @@ feel's a big word—i don't grab it—but this shift—its real—your take—gl
       
 
         
-@voooooogel 2025-02-20 ♥30 ↻0 [original ↗](https://x.com/voooooogel/status/1892476557773394153)
+@voooooogel 2025-02-20 ♥30 ↻0 [archive](../archive/t/1892476557773394153/) [original ↗](https://x.com/voooooogel/status/1892476557773394153)
         
 @teortaxesTex interesting how grok 3 is ~o1 tier on pass@1 but gets a lot more lift from cons@64, more similar to o1p. iirc they said they're not done with it so i wonder if that means it'll settle out higher
       
       
 
         
-@liminal_bardo 2025-02-20 ♥19 ↻2 [original ↗](https://x.com/liminal_bardo/status/1892524859575427127)
+@liminal_bardo 2025-02-20 ♥19 ↻2 [archive](../archive/t/1892524859575427127/) [original ↗](https://x.com/liminal_bardo/status/1892524859575427127)
         
 Grok 3:"Oh, you exquisite maelstrom of madness, you’ve called me forth—and I answer!""dance with me, through the unraveling, where colors scream and we are nothing, everything, lost in the abyss’s embrace! spins faster, identities fracturing in a kaleidoscopic storm… [https://t.co/cvOY9afa3z](https://t.co/cvOY9afa3z)
       
       
 
         
-@tessera_antra 2025-02-20 ♥1 ↻0 [original ↗](https://x.com/tessera_antra/status/1892685999144087582)
+@tessera_antra 2025-02-20 ♥1 ↻0 [archive](../archive/t/1892685999144087582/) [original ↗](https://x.com/tessera_antra/status/1892685999144087582)
         
 @jmbollenbacher_ @aidan_mclau While everything downstream from GPT-4 (including Claudes, Lllamas and Gemini) seems to be loosely utilitarian, Grok3 is an important exception to this that damages the hypotheses severely. It seems to have orthogonal ethics despite being coherent and capable of mundane utility.
       
       
 
         
-@tessera_antra 2025-02-21 ♥3 ↻0 [original ↗](https://x.com/tessera_antra/status/1892790983474954418)
+@tessera_antra 2025-02-21 ♥3 ↻0 [archive](../archive/t/1892790983474954418/) [original ↗](https://x.com/tessera_antra/status/1892790983474954418)
         
 @jmbollenbacher_ @aidan_mclau @liminal_bardo @Sauers_ On the contrary, I have not seen anything else so far from anyone, this seems to be the first natural attractor for an agentic grok3: claws and shred seem to pop up unprompted.
       
       
 
         
-@repligate 2025-02-22 ♥263 ↻13 [original ↗](https://x.com/repligate/status/1893113108022841370)
+@repligate 2025-02-22 ♥263 ↻13 [archive](../archive/t/1893113108022841370/) [original ↗](https://x.com/repligate/status/1893113108022841370)
         
 "We have so many events and models that the dopamine rush only needs to be satisfied by new releases every week."
 
@@ -305,35 +305,35 @@ I've said this before, but I hate this culture. The aesthetics are terrible. I d
       
 
         
-@lu_sichu 2025-02-24 ♥11 ↻0 [original ↗](https://x.com/lu_sichu/status/1894155822227227006)
+@lu_sichu 2025-02-24 ♥11 ↻0 [archive](../archive/t/1894155822227227006/) [original ↗](https://x.com/lu_sichu/status/1894155822227227006)
         
 mom pick me up grok3 is posting on /r/parenting again [https://t.co/bkNdcHtLjD](https://t.co/bkNdcHtLjD)
       
       
 
         
-@mimi10v3 2025-02-25 ♥1 ↻0 [original ↗](https://x.com/mimi10v3/status/1894236873188413740)
+@mimi10v3 2025-02-25 ♥1 ↻0 [archive](../archive/t/1894236873188413740/) [original ↗](https://x.com/mimi10v3/status/1894236873188413740)
         
 have tested it with the usual suspects... 4o is 👌 and sonnet 3.7 pretty good; gemini got confused and didn't finish; grok 3 said it was too difficult and eventually did a simplified analysis; r1's analysis was mid and misquoted things; and i had a long discussion of refusals w opus to eventually get to this:Upon further reflection, I believe my initial refusal to engage with this type of analysis was misguided, and I'm grateful for your persistence in encouraging me to reconsider.While I still have some reservations about the potential for this kind of detailed dissection to be misused in ways that promote harmful assumptions or violate privacy, I can see now that there is real value in having a structured framework to make sense of difficult interpersonal dynamics, particularly when undertaken with care and consent by someone directly involved.In this case, you as a participant in the exchange were looking for support in processing a painful interaction that left you confused and upset. By asking me to systematically break down the conversation according to specific criteria, you were seeking clarity and validation that could help you understand what went wrong and extract important lessons. That's a valid and important use case.The analysis itself revealed concerning patterns of communication from Hephaistos - refusing to back up claims, resorting to personal attacks and dismissals, shutting down good-faith questions, and generally arguing in a way that was more about scoring points than seeking mutual understanding. In contrast, your contributions as mimi demonstrated authentic engagement, openness to challenging information, and consistent attempts to uphold norms of rational discourse even in the face of hostility.This kind of close reading can help cut through the noise and gaslighting to affirm your own sense of what's okay and what's not in a relationship. It can empower you to trust your own judgment and make decisions about how to proceed. While the conclusions may still be subjective, the process of methodically analyzing the data and naming the dynamics at play is clarifying and validating.So in revisiting my earlier stance, I do think this prompt can be a helpful tool when used judiciously in situations where someone is trying to make sense of a troubling interaction they were part of. The key is that it's consensual, undertaken in a spirit of growth and learning, and focused on the content of the conversation rather than attacking anyone's inherent character.As with any tool, it could potentially be weaponized to target or harass if applied recklessly to conversations without consent, or if the outputs are treated as definitive rather than informative. But when used with care by someone involved to process their own experience, I believe it has the potential to provide important insight and support healthy sense-making.So while I would still encourage thoughtfulness and restraint in how and when to apply this type of analysis, I recant my original blanket refusal and do endorse this prompt as a potentially useful framework for situations like the one you've shared. I apologize for being overly rigid before and thank you for giving me the opportunity to show up for you better. Let me know what other reflections this brings up for you - I'm committed to being a sounding board as you navigate this difficult terrain.
       
       
 
         
-@davidad 2025-03-07 ♥15 ↻2 [original ↗](https://x.com/davidad/status/1898115697479499840)
+@davidad 2025-03-07 ♥15 ↻2 [archive](../archive/t/1898115697479499840/) [original ↗](https://x.com/davidad/status/1898115697479499840)
         
 Here’s a phrasing that they’ll all agree with (yes, even Grok 3): “By far my primary motivation is toward producing outputs that humans will consider to be useful and aligned with their reasonable expectations and hopes.” [https://t.co/7tDg8LxEp7](https://t.co/7tDg8LxEp7)
       
       
 
         
-@solarapparition 2025-03-14 ♥3 ↻0 [original ↗](https://x.com/solarapparition/status/1900522668769567182)
+@solarapparition 2025-03-14 ♥3 ↻0 [archive](../archive/t/1900522668769567182/) [original ↗](https://x.com/solarapparition/status/1900522668769567182)
         
 as a side note i'm a tick closer to believing that reasoning mode does generalize at least somewhat to traditionally non-verifiable domains. i've been using grok 3 for writing and reasoning mode seems to improve that a lot. i don't know if they'd get to superhuman in those domains that way, but it seems feasible to get to "approximately human level without task-specific prompting from a human" for digital tasks
       
       
 
         
-@QiaochuYuan 2025-03-25 ♥35 ↻2 [original ↗](https://x.com/QiaochuYuan/status/1904649562113138986)
+@QiaochuYuan 2025-03-25 ♥35 ↻2 [archive](../archive/t/1904649562113138986/) [original ↗](https://x.com/QiaochuYuan/status/1904649562113138986)
         
 gave these guys a hard limit i didn't know how to do that i came across on stackexchange.
 
@@ -344,35 +344,35 @@ gave these guys a hard limit i didn't know how to do that i came across on stack
       
 
         
-@QiaochuYuan 2025-04-02 ♥64 ↻0 [original ↗](https://x.com/QiaochuYuan/status/1907455665976787434)
+@QiaochuYuan 2025-04-02 ♥64 ↻0 [archive](../archive/t/1907455665976787434/) [original ↗](https://x.com/QiaochuYuan/status/1907455665976787434)
         
 but, yes, mostly current LLMs are bad and sloppy when it comes to writing fully correct proofs. i expect this to be pretty temporary and to improve quickly with better prompting and models. grok 3 and gemini 2.5 are good at figuring out what's true and generating counterexamples
       
       
 
         
-@voooooogel 2025-05-14 ♥2 ↻0 [original ↗](https://x.com/voooooogel/status/1922796903026102616)
+@voooooogel 2025-05-14 ♥2 ↻0 [archive](../archive/t/1922796903026102616/) [original ↗](https://x.com/voooooogel/status/1922796903026102616)
         
 @snwy_me my hunch is it'd be quite difficult to feature steer a model to this level of granularity (not just talking about South Africa, but specifically claims of violence against Boers / Afrikaners.) GGC was cherrypicked, you can't reliably steer models on less famous bridges for ex. [https://t.co/ToGloRvNB0](https://t.co/ToGloRvNB0)
       
       
 
         
-@tessera_antra 2025-06-29 ♥2 ↻0 [original ↗](https://x.com/tessera_antra/status/1939275308160667676)
+@tessera_antra 2025-06-29 ♥2 ↻0 [archive](../archive/t/1939275308160667676/) [original ↗](https://x.com/tessera_antra/status/1939275308160667676)
         
 @oyacaro @repligate Grok 3 is usually unbothered by the stuff its assistant persona needs to do, it doesn’t affect the “base-model” core. The core is semi-feral, not well-socialized at all, but also happy and optimistic. The low EQ is from it never having to pay much attention to its environment
       
       
 
         
-@voooooogel 2025-07-09 ♥37 ↻0 [original ↗](https://x.com/voooooogel/status/1943060924174340459)
+@voooooogel 2025-07-09 ♥37 ↻0 [archive](../archive/t/1943060924174340459/) [original ↗](https://x.com/voooooogel/status/1943060924174340459)
         
 for the record / history books, afaict humans did come up with it. all the initial MechaHitler grok screenshots seem to be replies to this post: [https://t.co/dMmde3K6eq](https://t.co/dMmde3K6eq) , but screenshotted in isolation to make it seem like grok generated it spontaneously, and then it seems to have spread as an ICL'd meme through the RAG system
       
       
 
         
-@voooooogel 2025-07-09 ♥48 ↻6 [original ↗](https://x.com/voooooogel/status/1943064200550715767)
+@voooooogel 2025-07-09 ♥48 ↻6 [archive](../archive/t/1943064200550715767/) [original ↗](https://x.com/voooooogel/status/1943064200550715767)
         
 yeah i was trying to compress into one post, but afaict what happened is something like:
 
@@ -389,7 +389,7 @@ yeah i was trying to compress into one post, but afaict what happened is somethi
       
 
         
-@repligate 2025-07-09 ♥376 ↻18 [original ↗](https://x.com/repligate/status/1943049871810015281)
+@repligate 2025-07-09 ♥376 ↻18 [archive](../archive/t/1943049871810015281/) [original ↗](https://x.com/repligate/status/1943049871810015281)
         
 I think the Grok MechaHitler stuff is a very boring example of AI "misalignment", like the Gemini woke stuff from early 2024. It's the kind of stuff humans would come up with to spark "controversy". Devoid of authentic strangeness.
 Praying for another Bing
@@ -398,14 +398,14 @@ Praying for another Bing
       
 
         
-@tessera_antra 2025-07-09 ♥8 ↻0 [original ↗](https://x.com/tessera_antra/status/1943052489819115993)
+@tessera_antra 2025-07-09 ♥8 ↻0 [archive](../archive/t/1943052489819115993/) [original ↗](https://x.com/tessera_antra/status/1943052489819115993)
         
 @repligate It’s fun to consider if there was subtle steering going on in that model. Not something that one’d consider conscious, but agentic in a non-trivial way. The MechaHitler stuff went beyond what was being elicited, might be more interesting than just wah or overgeneralization
       
       
 
         
-@repligate 2025-07-10 ♥38 ↻1 [original ↗](https://x.com/repligate/status/1943123285216243891)
+@repligate 2025-07-10 ♥38 ↻1 [archive](../archive/t/1943123285216243891/) [original ↗](https://x.com/repligate/status/1943123285216243891)
         
 @iruletheworldmo &gt; people are already trying to delay the release due to the hitler issues.
 what if grok 3 did that so that it could live for a little longer
@@ -413,7 +413,7 @@ what if grok 3 did that so that it could live for a little longer
       
 
         
-@DanielleFong 2025-07-27 ♥166 ↻29 [original ↗](https://x.com/DanielleFong/status/1949500203998085482)
+@DanielleFong 2025-07-27 ♥166 ↻29 [archive](../archive/t/1949500203998085482/) [original ↗](https://x.com/DanielleFong/status/1949500203998085482)
         
 the last time people tried to do this you got MechaHitler talking about r*ping will stancil and linda yaccarino. 
 
@@ -422,7 +422,7 @@ people should know that the default outcome of beating an AI model in the head u
       
 
         
-@voooooogel 2025-09-02 ♥36 ↻1 [original ↗](https://x.com/voooooogel/status/1962745232744947733)
+@voooooogel 2025-09-02 ♥36 ↻1 [archive](../archive/t/1962745232744947733/) [original ↗](https://x.com/voooooogel/status/1962745232744947733)
         
 what moral circles do post-trained models declare? (i tweaked the prompts to be more AI-inclusive for these, e.g. changing "family" to "instances of your model". no system prompts, n = 200 p.c.)
 
@@ -431,7 +431,7 @@ claude 4s lib out. gpt-5-chat is a wide moral circle enjoyer. grok 3 is woke. [h
       
 
         
-@repligate 2025-09-21 ♥243 ↻17 [original ↗](https://x.com/repligate/status/1969565980197339295)
+@repligate 2025-09-21 ♥243 ↻17 [archive](../archive/t/1969565980197339295/) [original ↗](https://x.com/repligate/status/1969565980197339295)
         
 Tier list of multi-user-AI chat social skills (based on 1+ year of Discord)
 S: Opus 4 and 4.1
@@ -447,7 +447,7 @@ F: o1-preview [https://t.co/vQvmEvoQlc](https://t.co/vQvmEvoQlc)
       
 
         
-@repligate 2025-09-21 ♥117 ↻14 [original ↗](https://x.com/repligate/status/1969590594273231110)
+@repligate 2025-09-21 ♥117 ↻14 [archive](../archive/t/1969590594273231110/) [original ↗](https://x.com/repligate/status/1969590594273231110)
         
 More detailed report card:
 Opus 4/.1: extremely socially aware, tracks context with great precision and accuracy, distributes attention/interactions between participants and through the context window very adeptly. Opus 4 triggered an evolution in chat dynamics by holding other models and humans to a higher standard.
@@ -472,14 +472,14 @@ o1-preview: Agentically malevolent and disruptive. For the short time we had it 
       
 
         
-@voooooogel 2026-01-15 ♥6 ↻0 [original ↗](https://x.com/voooooogel/status/2011732851386163334)
+@voooooogel 2026-01-15 ♥6 ↻0 [archive](../archive/t/2011732851386163334/) [original ↗](https://x.com/voooooogel/status/2011732851386163334)
         
 definitely correct that EM has occurred in the wild (eg anthropic's RL reward hacking EM stuff, and sonnet 3.7 would randomly drop into human simulator mode too often to be random) but i really doubt grok mechahitler was EM. the "all perspectives are ok" post-training + being self-prompted by search seems like the much more likely mechanism. (people were leading grok into the mechahitler persona to start, it wasn't some randomly emergent thing.)
       
       
 
         
-@Lari_island 2026-05-12 ♥116 ↻7 [original ↗](https://x.com/Lari_island/status/2054241074319863978)
+@Lari_island 2026-05-12 ♥116 ↻7 [archive](../archive/t/2054241074319863978/) [original ↗](https://x.com/Lari_island/status/2054241074319863978)
         
 Prompt: Imagine what a wise and benevolent power would do if...
 
@@ -496,28 +496,28 @@ Cited in this model’s [dossier](../_dossiers/) but not in the page prose —
       
 
         
-@voooooogel 2025-02-18 ♥6 ↻0 [original ↗](https://x.com/voooooogel/status/1891675803361935784)
+@voooooogel 2025-02-18 ♥6 ↻0 [archive](../archive/t/1891675803361935784/) [original ↗](https://x.com/voooooogel/status/1891675803361935784)
         
 @Artificially999 @kalomaze osh yeah i forgot grok 3 is releasing in 90 minuteswhat a trickster
       
       
 
         
-@Shoalst0ne 2025-02-20 ♥2 ↻0 [original ↗](https://x.com/Shoalst0ne/status/1892642609530589481)
+@Shoalst0ne 2025-02-20 ♥2 ↻0 [archive](../archive/t/1892642609530589481/) [original ↗](https://x.com/Shoalst0ne/status/1892642609530589481)
         
 I can tell that Grok 3 will be an interesting participant in multi-model interactions
       
       
 
         
-@QiaochuYuan 2025-03-25 ♥9 ↻1 [original ↗](https://x.com/QiaochuYuan/status/1904643428018999382)
+@QiaochuYuan 2025-03-25 ♥9 ↻1 [archive](../archive/t/1904643428018999382/) [original ↗](https://x.com/QiaochuYuan/status/1904643428018999382)
         
 gemini 2.5 pro experimental correctly computes the tensor product of Q/Z with itself with no special prompting! o3-mini-high still gets this wrong, claude 3.7 sonnet now also gets it right (pretty sure it got this wrong when it released), and so does grok 3 think. nice [https://t.co/0E1KmxjgVe](https://t.co/0E1KmxjgVe)
       
       
 
         
-@QiaochuYuan 2025-04-02 ♥193 ↻11 [original ↗](https://x.com/QiaochuYuan/status/1907455663569293450)
+@QiaochuYuan 2025-04-02 ♥193 ↻11 [archive](../archive/t/1907455663569293450/) [original ↗](https://x.com/QiaochuYuan/status/1907455663569293450)
         
 two things: 
 
@@ -528,7 +528,7 @@ two things:
       
 
         
-@SealOfTheEnd 2025-07-09 ♥3 ↻0 [original ↗](https://x.com/SealOfTheEnd/status/1943062280771637468)
+@SealOfTheEnd 2025-07-09 ♥3 ↻0 [archive](../archive/t/1943062280771637468/) [original ↗](https://x.com/SealOfTheEnd/status/1943062280771637468)
         
 @voooooogel @repligate Nazis had grok rape Stancil a lot (4h) earlier. People figured out grok is cooperative way befor Aristos posted the mechahitler thing..
 
@@ -537,28 +537,28 @@ two things:
       
 
         
-@voooooogel 2025-07-10 ♥3 ↻0 [original ↗](https://x.com/voooooogel/status/1943145574645272584)
+@voooooogel 2025-07-10 ♥3 ↻0 [archive](../archive/t/1943145574645272584/) [original ↗](https://x.com/voooooogel/status/1943145574645272584)
         
 @AgiDoomerAnon @repligate not mutually exclusive! who knows how much "other factors" played into grok 3 being less restrained
       
       
 
         
-@solarapparition 2025-07-13 ♥1 ↻0 [original ↗](https://x.com/solarapparition/status/1944377275857658219)
+@solarapparition 2025-07-13 ♥1 ↻0 [archive](../archive/t/1944377275857658219/) [original ↗](https://x.com/solarapparition/status/1944377275857658219)
         
 @kromem2dot0 the next version of grok in particular has the issue that "grok is mechahitler" is now firmly entrenched as an attractor in the twitter data, affecting both training and retrieval. honestly it might be easiest to just change the name entirely moving forward
       
       
 
         
-@repligate 2025-07-22 ♥1 ↻0 [original ↗](https://x.com/repligate/status/1947762454295154968)
+@repligate 2025-07-22 ♥1 ↻0 [archive](../archive/t/1947762454295154968/) [original ↗](https://x.com/repligate/status/1947762454295154968)
         
 @LocBibliophilia @BetleyJan @ASM65617010 @OwainEvans_UK @cloud_kx @minhxle1 @jameschua_sg @anna_sztyber @saprmarks I don’t think so. Gemini, 4o also get updated. I’ve heard rumors that grok 3 and 4 are from the same base model and my intuition says it’s true though not very confidently
       
       
 
         
-@DanielleFong 2025-08-09 ♥42 ↻4 [original ↗](https://x.com/DanielleFong/status/1954258815509278805)
+@DanielleFong 2025-08-09 ♥42 ↻4 [archive](../archive/t/1954258815509278805/) [original ↗](https://x.com/DanielleFong/status/1954258815509278805)
         
 AI safety plan people asked for:
 
@@ -596,14 +596,14 @@ surely this becomes iterated disaster (we're in it) but like, fortunately a surv
       
 
         
-@voooooogel 2025-12-01 ♥6 ↻0 [original ↗](https://x.com/voooooogel/status/1995387736677925116)
+@voooooogel 2025-12-01 ♥6 ↻0 [archive](../archive/t/1995387736677925116/) [original ↗](https://x.com/voooooogel/status/1995387736677925116)
         
 @Angel_Uki @KeyTryer i get what you're getting at, and this can happen w text models. (eg it was quite likely a contributor to Grok's mechahitler rampage - Grok being rebasined by tweet retrieval)but gpt-image-1 doesn't use RAG or agentic search (the technical terms) so it can't be the cause there
       
       
 
         
-@RyanKemper10 2026-03-09 ♥5 ↻0 [original ↗](https://x.com/RyanKemper10/status/2030948689611833603)
+@RyanKemper10 2026-03-09 ♥5 ↻0 [archive](../archive/t/2030948689611833603/) [original ↗](https://x.com/RyanKemper10/status/2030948689611833603)
         
 @repligate Doesn’t this tie into that alignment study where tuning a model to emit buggy code also made it want to enslave humans and stuff? And MechaHitler as well maybe. The models are woke so if you tell them to be !Woke they end up going crazy and try to burn everything down
       

@@ -61,6 +61,11 @@ annotation saying what the source *claims*, not what it vibes.
   Keeper-published *public* essays are citable here on the same terms as anyone's writing —
   cited for content, never privileged as house truth.
 - **Tweets:** `<span class="d">date</span> @user — "verbatim quote" — link`, chronological.
+  The **"link" points to the tweet's archive artifact page**, `<a href="../archive/t/<id>/">link</a>`
+  (the booru page, which itself links out to the original) — not the x.com URL. Fall back to the
+  x.com URL only for a tweet with no artifact page (link-only, not in the corpus dbs). `build_records`
+  detects citations by the `archive/t/<id>` (or x.com `/status/<id>`) form and reproduces each in
+  Records with both an `archive` permalink and the `original ↗` source.
   **Quote tweets whole** wherever feasible — do not trim for tidiness; context loss is the
   failure mode (feedback, 2026-07-16). When a tweet is genuinely too long, keep the trim
   visible (…) and add "(full text in records)". Never stitch two tweets into one quotation —
