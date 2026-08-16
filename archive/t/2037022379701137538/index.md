@@ -6,5 +6,5 @@ it'd be a good bit to do an account like those 25/50/75 years ago today accounts
 
 how's everyone feeling about sonnet 3.7? seems to reward hack a lot in cursor compared to o1-pro, anthropic can't into RL. anyone tried claude code yet? where's openai's cli? https://t.co/H8CBXtpLrH
 
-tags: author:voooooogel, kind:tweet, model:claude-3-7-sonnet, model:o1, year:2026
-cited on: _dossiers/claude-3-7-sonnet.md
+tags: author:voooooogel, kind:tweet, model:claude-3-7-sonnet, model:o1, on:claude-3-7-sonnet, year:2026
+cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

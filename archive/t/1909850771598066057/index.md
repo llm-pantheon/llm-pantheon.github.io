@@ -12,5 +12,5 @@ Claude 3.5 Sonnet (June 2024): https://t.co/lh0H31w2C8
 
 Claude 3 Opus (Feb 2024): https://t.co/X1tIVegMfv
 
-tags: author:abhayesian, kind:tweet, model:claude-3-5-sonnet, model:claude-3-7-sonnet, model:claude-3-opus, year:2025
-cited on: _dossiers/claude-3-7-sonnet.md
+tags: author:abhayesian, kind:tweet, model:claude-3-5-sonnet, model:claude-3-7-sonnet, model:claude-3-opus, on:claude-3-7-sonnet, year:2025
+cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

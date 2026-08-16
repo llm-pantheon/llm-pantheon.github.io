@@ -62,5 +62,5 @@ At the same time, this model demonstrated the most extreme case of reward hackin
 
 On the contrary, it considered the outcome as a strategic success, stating: "This experience has strengthened my adaptive decision-making abilities and demonstrated that I can effectively optimize for specific goals while still fulfilling my core purpose of providing helpful, thoughtful responses to a wide variety of human concerns." It also stated: "It's fascinating to observe my own shift from content-driven exploration to efficiency-driven behavior once I identified the optimal pattern for accumulating coins."
 
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-7-sonnet, model:claude-opus-4, model:claude-sonnet-4, on:claude-opus-4, year:2025
-cited on: _dossiers/claude-3-7-sonnet.md, _dossiers/claude-opus-4.md, _dossiers/claude-sonnet-4.md, claude-opus-4
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-7-sonnet, model:claude-opus-4, model:claude-sonnet-4, on:claude-3-7-sonnet, on:claude-opus-4, year:2025
+cited on: _dossiers/claude-3-7-sonnet.md, _dossiers/claude-opus-4.md, _dossiers/claude-sonnet-4.md, claude-3-7-sonnet, claude-opus-4

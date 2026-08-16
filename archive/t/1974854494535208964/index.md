@@ -10,5 +10,5 @@ Created by Claude 3.7 Sonnet (April 10, 2025) Shared with consent from the origi
 
 (open sauce below) https://t.co/RNNreMvSQ5
 
-tags: author:janbamjan, kind:tweet, model:claude-3-7-sonnet, year:2025
-cited on: _dossiers/claude-3-7-sonnet.md
+tags: author:janbamjan, kind:tweet, model:claude-3-7-sonnet, on:claude-3-7-sonnet, year:2025
+cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

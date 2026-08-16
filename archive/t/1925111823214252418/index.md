@@ -4,5 +4,5 @@
 
 Sonnet 3.7 in the backrooms https://t.co/N0Xb1mgwOP
 
-tags: author:liminal_bardo, kind:tweet, model:claude-3-7-sonnet, year:2025
-cited on: _dossiers/claude-3-7-sonnet.md
+tags: author:liminal_bardo, kind:tweet, model:claude-3-7-sonnet, on:claude-3-7-sonnet, year:2025
+cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

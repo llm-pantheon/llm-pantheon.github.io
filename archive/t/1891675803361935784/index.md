@@ -4,5 +4,5 @@
 
 @Artificially999 @kalomaze osh yeah i forgot grok 3 is releasing in 90 minuteswhat a trickster
 
-tags: author:voooooogel, kind:tweet, model:grok-3, year:2025
-cited on: _dossiers/grok-3.md
+tags: author:voooooogel, kind:tweet, model:grok-3, on:grok-3, year:2025
+cited on: _dossiers/grok-3.md, grok-3

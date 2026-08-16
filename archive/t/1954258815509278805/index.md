@@ -35,5 +35,5 @@ surely this becomes iterated disaster (we're in it) but like, fortunately a surv
 
 https://t.co/Sb1w8AKWCW
 
-tags: author:daniellefong, kind:tweet, year:2025
-cited on: _dossiers/grok-3.md
+tags: author:daniellefong, kind:tweet, on:grok-3, year:2025
+cited on: _dossiers/grok-3.md, grok-3

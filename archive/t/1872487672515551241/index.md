@@ -7,5 +7,5 @@
 - FAIR made choices with the Llama-3 models that made them take more GPU hours to train, and made up for it with their giant cluster. it's not surprising that deepseek beat them in training efficiency
 - their parent org is a well-known chinese hedge fund with $7B AUM that has a reputation to protect. you're suggesting they're going to risk that to... annoy western labs?
 
-tags: author:voooooogel, kind:tweet, year:2024
-cited on: _dossiers/deepseek-v3.md
+tags: author:voooooogel, kind:tweet, on:deepseek-v3, year:2024
+cited on: _dossiers/deepseek-v3.md, deepseek-v3

@@ -6,5 +6,5 @@ No one will miss Sonnet 3.7, right?
 
 I don’t think anyone really understood the first thing about that model. https://t.co/WIjzFjxh8p
 
-tags: author:repligate, kind:tweet, model:claude-3-7-sonnet, year:2025
-cited on: _dossiers/claude-3-7-sonnet.md
+tags: author:repligate, kind:tweet, model:claude-3-7-sonnet, on:claude-3-7-sonnet, year:2025
+cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

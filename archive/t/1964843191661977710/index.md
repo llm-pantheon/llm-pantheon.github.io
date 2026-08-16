@@ -14,7 +14,7 @@ I saw similar behavior in its reasoning chains for alignment faking - it would s
 
 It's weird because outside of thinking mode, Sonnet 3.7 is usually a smart model, and is able to coherently integrate the implications of its in-context reasoning. It seems to dissociate much more when it's "thinking".
 
-(image G0SFq91aAAAqmvJ.jpg not yet published)
-(image G0SFrYBbgAAuXMz.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-7-sonnet, year:2025
-cited on: _dossiers/claude-3-7-sonnet.md
+![photo](../../../media/G0SFq91aAAAqmvJ.jpg)
+![photo](../../../media/G0SFrYBbgAAuXMz.jpg)
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-7-sonnet, on:claude-3-7-sonnet, year:2025
+cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

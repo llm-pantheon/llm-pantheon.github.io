@@ -12,5 +12,5 @@ While GPT-4.5 is hands down the biggest model available, it's not the only one w
 
 I'm trying to use GPT-4.5 for more of my chats over the coming days to get a feel for it.
 
-tags: author:roberthaisfield, kind:tweet, model:claude-3-5-sonnet, model:claude-3-7-sonnet, model:claude-3-opus, model:gpt-4-5, on:gpt-4-5, year:2025
-cited on: _dossiers/claude-3-7-sonnet.md, _dossiers/gpt-4-5.md, gpt-4-5
+tags: author:roberthaisfield, kind:tweet, model:claude-3-5-sonnet, model:claude-3-7-sonnet, model:claude-3-opus, model:gpt-4-5, on:claude-3-7-sonnet, on:gpt-4-5, year:2025
+cited on: _dossiers/claude-3-7-sonnet.md, _dossiers/gpt-4-5.md, claude-3-7-sonnet, gpt-4-5

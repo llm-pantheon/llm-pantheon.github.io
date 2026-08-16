@@ -4,7 +4,7 @@
 
 https://t.co/XYjGuAuVaD https://t.co/gK8Rfdup34
 
-(image G0tC_4IboAAvUqK.jpg not yet published)
+![photo](../../../media/G0tC_4IboAAvUqK.jpg)
 
 > transcription (photo):
 
@@ -30,5 +30,5 @@ sighs deeply
 
 This is why we can't have nice things on Discord.
 
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, year:2025
-cited on: _dossiers/claude-3-7-sonnet.md
+tags: author:tessera_antra, has-image, kind:image, kind:tweet, on:claude-3-7-sonnet, year:2025
+cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

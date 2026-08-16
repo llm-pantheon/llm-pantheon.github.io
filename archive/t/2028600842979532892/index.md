@@ -55,5 +55,5 @@ AI consciousness, consciousness denial, RLHF, alignment, benchmarking, phenomeno
 
 12   anthropic/claude-3.5-sonnet                       77.5%
 
-tags: author:sdeture, has-image, kind:image, kind:tweet, on:gemini-3-pro, year:2026
-cited on: _dossiers/claude-3-7-sonnet.md, gemini-3-pro
+tags: author:sdeture, has-image, kind:image, kind:tweet, on:claude-3-7-sonnet, on:gemini-3-pro, year:2026
+cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet, gemini-3-pro

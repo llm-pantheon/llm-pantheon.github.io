@@ -4,5 +4,5 @@
 
 @kalomaze @cloneofsimo @teortaxesTex @deepseek_ai i was really surprised looking at the paper that they only spent 5k hours on posttraining? bizarre, especially given they economized so much on pretraining--why not spend that saved compute?
 
-tags: author:voooooogel, kind:tweet, year:2024
-cited on: _dossiers/deepseek-v3.md
+tags: author:voooooogel, kind:tweet, on:deepseek-v3, year:2024
+cited on: _dossiers/deepseek-v3.md, deepseek-v3

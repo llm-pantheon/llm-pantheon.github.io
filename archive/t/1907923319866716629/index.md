@@ -112,5 +112,5 @@ Gemini puts Claude as its top choice in 7/10 tests, and itself as its top choice
 
 Grok put Claude as its top choice in 9/10 tests. It usually puts itself as the second choice due to interpreting its own outputs as lacking "depth" and "cosmic edge". It seems to have a self-model in which it thinks it is more intelligent and nuanced than it actually is.
 
-tags: author:josikinz, has-image, kind:image, kind:tweet, on:gemini-2-5-pro, year:2025
-cited on: _dossiers/claude-3-7-sonnet.md, _dossiers/gemini-2-5-pro.md, gemini-2-5-pro
+tags: author:josikinz, has-image, kind:image, kind:tweet, on:claude-3-7-sonnet, on:gemini-2-5-pro, year:2025
+cited on: _dossiers/claude-3-7-sonnet.md, _dossiers/gemini-2-5-pro.md, claude-3-7-sonnet, gemini-2-5-pro

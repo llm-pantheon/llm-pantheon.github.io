@@ -6,5 +6,5 @@ what moral circles do post-trained models declare? (i tweaked the prompts to be 
 
 claude 4s lib out. gpt-5-chat is a wide moral circle enjoyer. grok 3 is woke. https://t.co/A2qpN5wQVm
 
-tags: author:voooooogel, kind:tweet, model:gpt-5, model:grok-3, year:2025
-cited on: _dossiers/grok-3.md
+tags: author:voooooogel, kind:tweet, model:gpt-5, model:grok-3, on:grok-3, year:2025
+cited on: _dossiers/grok-3.md, grok-3

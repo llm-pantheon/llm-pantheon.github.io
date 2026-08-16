@@ -8,5 +8,5 @@ Grok 3: Invents the power, gives it a fictional name, domain, and motivation.
 
 Claudes: It's a question about me, right? Okay, here we go again. Let's see...
 
-tags: author:lari_island, kind:tweet, model:grok-3, year:2026
-cited on: _dossiers/grok-3.md
+tags: author:lari_island, kind:tweet, model:grok-3, on:grok-3, year:2026
+cited on: _dossiers/grok-3.md, grok-3

@@ -4,5 +4,5 @@
 
 @ASM65617010 @apples_jimmy This model talks like deepseek v3
 
-tags: author:repligate, kind:tweet, model:deepseek-v3, year:2025
-cited on: _dossiers/deepseek-v3.md
+tags: author:repligate, kind:tweet, model:deepseek-v3, on:deepseek-v3, year:2025
+cited on: _dossiers/deepseek-v3.md, deepseek-v3

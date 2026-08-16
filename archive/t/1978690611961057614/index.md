@@ -4,6 +4,6 @@
 
 Uh.... what did Claude 3.7 Sonnet mean by this? https://t.co/QD4F55Psnr
 
-(image G3W4GVBbgAAjO3s.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-7-sonnet, year:2025
-cited on: _dossiers/claude-3-7-sonnet.md
+![photo](../../../media/G3W4GVBbgAAjO3s.jpg)
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-7-sonnet, on:claude-3-7-sonnet, year:2025
+cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

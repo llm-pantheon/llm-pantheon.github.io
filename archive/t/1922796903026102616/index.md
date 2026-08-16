@@ -4,5 +4,5 @@
 
 @snwy_me my hunch is it'd be quite difficult to feature steer a model to this level of granularity (not just talking about South Africa, but specifically claims of violence against Boers / Afrikaners.) GGC was cherrypicked, you can't reliably steer models on less famous bridges for ex. https://t.co/ToGloRvNB0
 
-tags: author:voooooogel, kind:tweet, model:golden-gate-claude, year:2025
-cited on: _dossiers/grok-3.md
+tags: author:voooooogel, kind:tweet, model:golden-gate-claude, on:grok-3, year:2025
+cited on: _dossiers/grok-3.md, grok-3

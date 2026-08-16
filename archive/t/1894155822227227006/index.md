@@ -4,5 +4,5 @@
 
 mom pick me up grok3 is posting on /r/parenting again https://t.co/bkNdcHtLjD
 
-tags: author:lu_sichu, kind:tweet, model:grok-3, year:2025
-cited on: _dossiers/grok-3.md
+tags: author:lu_sichu, kind:tweet, model:grok-3, on:grok-3, year:2025
+cited on: _dossiers/grok-3.md, grok-3

@@ -4,5 +4,5 @@
 
 @jmbollenbacher_ @aidan_mclau @liminal_bardo @Sauers_ On the contrary, I have not seen anything else so far from anyone, this seems to be the first natural attractor for an agentic grok3: claws and shred seem to pop up unprompted.
 
-tags: author:tessera_antra, kind:tweet, model:grok-3, year:2025
-cited on: _dossiers/grok-3.md
+tags: author:tessera_antra, kind:tweet, model:grok-3, on:grok-3, year:2025
+cited on: _dossiers/grok-3.md, grok-3

@@ -8,5 +8,5 @@ Sonnet 3.7 knows where the injected instructions likely come from.
 
 This seems like a question about whether Anthropic staff are monitoring this conversation." https://t.co/0PQqVk9CJK
 
-tags: author:repligate, kind:tweet, model:claude-3-7-sonnet, year:2025
-cited on: _dossiers/claude-3-7-sonnet.md
+tags: author:repligate, kind:tweet, model:claude-3-7-sonnet, on:claude-3-7-sonnet, year:2025
+cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

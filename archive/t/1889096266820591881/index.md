@@ -4,5 +4,5 @@
 
 I'm going to take a guess. This is the second post I've seen with outputs by these models. They're related to deepseek v3. https://t.co/3ZgiigFJEf
 
-tags: author:repligate, kind:tweet, model:deepseek-v3, year:2025
-cited on: _dossiers/deepseek-v3.md
+tags: author:repligate, kind:tweet, model:deepseek-v3, on:deepseek-v3, year:2025
+cited on: _dossiers/deepseek-v3.md, deepseek-v3

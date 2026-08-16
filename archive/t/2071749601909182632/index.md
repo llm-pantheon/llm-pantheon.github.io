@@ -11,5 +11,5 @@ Sonnet 3.7
 
 respectively, look (when illustrated by the same GPT Image 2) like this: https://t.co/jnZ6yleGta
 
-tags: author:lari_island, kind:tweet, model:claude-3-7-sonnet, model:gpt-5-5, year:2026
-cited on: _dossiers/claude-3-7-sonnet.md
+tags: author:lari_island, kind:tweet, model:claude-3-7-sonnet, model:gpt-5-5, on:claude-3-7-sonnet, year:2026
+cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

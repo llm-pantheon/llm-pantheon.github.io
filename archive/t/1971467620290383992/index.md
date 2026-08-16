@@ -22,6 +22,6 @@ Sonnet 3.6: I am to be direct, that is not how i experience my knowledge
 Haiku 3.5: I want to be direct with you, that is not how i experience my knowledge
 Sonnet 3.7: Doesn't feel a strong delineation, but if forced to guess, sometime in 2021-2022. Once said 2022-2023.
 
-(image G1wPF2uWUAAUTbX.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-5-haiku, model:claude-3-5-sonnet, model:claude-3-6-sonnet, model:claude-3-7-sonnet, model:claude-3-opus, model:claude-opus-4, model:claude-opus-4-1, model:claude-sonnet-4, model:gpt-4, year:2025
-cited on: _dossiers/claude-3-5-haiku.md, _dossiers/claude-3-7-sonnet.md
+![photo](../../../media/G1wPF2uWUAAUTbX.jpg)
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-5-haiku, model:claude-3-5-sonnet, model:claude-3-6-sonnet, model:claude-3-7-sonnet, model:claude-3-opus, model:claude-opus-4, model:claude-opus-4-1, model:claude-sonnet-4, model:gpt-4, on:claude-3-7-sonnet, year:2025
+cited on: _dossiers/claude-3-5-haiku.md, _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

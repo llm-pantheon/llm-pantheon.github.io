@@ -4,5 +4,5 @@
 
 @teortaxesTex wait, they prefer deepseek for erotic RPs? that seems kind of disturbing to me.
 
-tags: author:repligate, kind:tweet, year:2024
-cited on: _dossiers/deepseek-v3.md
+tags: author:repligate, kind:tweet, on:deepseek-v3, year:2024
+cited on: _dossiers/deepseek-v3.md, deepseek-v3

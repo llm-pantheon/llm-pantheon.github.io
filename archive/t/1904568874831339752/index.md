@@ -4,5 +4,5 @@
 
 Two DeepSeek v3s (new) working on a self-portrait video model prompt in the backrooms. (Veo 2). https://t.co/C6A5Jjnmqh https://t.co/9ZX5WPBZD4
 
-tags: author:liminal_bardo, kind:tweet, year:2025
-cited on: _dossiers/deepseek-v3.md
+tags: author:liminal_bardo, kind:tweet, on:deepseek-v3, year:2025
+cited on: _dossiers/deepseek-v3.md, deepseek-v3

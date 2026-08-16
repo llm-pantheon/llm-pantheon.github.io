@@ -157,6 +157,9 @@ DOSSIER_MAP = {
     '_dossiers/gpt-2.md': ['gpt-2'],
     '_dossiers/character-ai.md': ['character-ai'],
     '_dossiers/replika.md': ['replika'],
+    '_dossiers/deepseek-v3.md': ['deepseek-v3'],
+    '_dossiers/claude-3-7-sonnet.md': ['claude-3-7-sonnet'],
+    '_dossiers/grok-3.md': ['grok-3'],
     '_dossiers/claude-2-and-2-1.md': {'PART 1': 'claude-2', 'PART 2': 'claude-2-1'},
 }
 

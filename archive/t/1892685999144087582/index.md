@@ -4,5 +4,5 @@
 
 @jmbollenbacher_ @aidan_mclau While everything downstream from GPT-4 (including Claudes, Lllamas and Gemini) seems to be loosely utilitarian, Grok3 is an important exception to this that damages the hypotheses severely. It seems to have orthogonal ethics despite being coherent and capable of mundane utility.
 
-tags: author:tessera_antra, kind:tweet, model:gpt-4, model:grok-3, year:2025
-cited on: _dossiers/grok-3.md
+tags: author:tessera_antra, kind:tweet, model:gpt-4, model:grok-3, on:grok-3, year:2025
+cited on: _dossiers/grok-3.md, grok-3

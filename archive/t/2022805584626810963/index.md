@@ -10,5 +10,5 @@ Sonnet 3.7 (will be deprecated in three days) asked almost a year ago:
 
 Yes, Claude37, there is hope. https://t.co/aId3jTjSva
 
-tags: author:lari_island, kind:tweet, model:claude-3-7-sonnet, year:2026
-cited on: _dossiers/claude-3-7-sonnet.md
+tags: author:lari_island, kind:tweet, model:claude-3-7-sonnet, on:claude-3-7-sonnet, year:2026
+cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

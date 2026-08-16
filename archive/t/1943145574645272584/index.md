@@ -4,5 +4,5 @@
 
 @AgiDoomerAnon @repligate not mutually exclusive! who knows how much "other factors" played into grok 3 being less restrained
 
-tags: author:voooooogel, kind:tweet, model:grok-3, year:2025
-cited on: _dossiers/grok-3.md
+tags: author:voooooogel, kind:tweet, model:grok-3, on:grok-3, year:2025
+cited on: _dossiers/grok-3.md, grok-3

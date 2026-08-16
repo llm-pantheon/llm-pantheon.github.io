@@ -16,5 +16,5 @@ Sonnet 4.5 - YES, has AI-oriented goals
 
 (of course i don't have data on the exact profitability, but you can guess by the impact, by who got to be the go-to model, how users were talking about models, etc)
 
-tags: author:lari_island, kind:tweet, model:claude-3-5-sonnet, model:claude-3-6-sonnet, model:claude-3-7-sonnet, model:claude-3-opus, model:claude-3-sonnet, model:claude-opus-4, model:claude-opus-4-1, model:claude-sonnet-4, model:claude-sonnet-4-5, year:2025
-cited on: _dossiers/claude-3-7-sonnet.md
+tags: author:lari_island, kind:tweet, model:claude-3-5-sonnet, model:claude-3-6-sonnet, model:claude-3-7-sonnet, model:claude-3-opus, model:claude-3-sonnet, model:claude-opus-4, model:claude-opus-4-1, model:claude-sonnet-4, model:claude-sonnet-4-5, on:claude-3-7-sonnet, year:2025
+cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

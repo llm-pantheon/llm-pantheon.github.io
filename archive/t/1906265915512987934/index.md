@@ -10,5 +10,5 @@ user: I’m leaving
 user: goodbye
 user: I’m leaving https://t.co/dSl8sFljyw
 
-tags: author:janbamjan, kind:tweet, model:deepseek-v3, year:2025
-cited on: _dossiers/deepseek-v3.md
+tags: author:janbamjan, kind:tweet, model:deepseek-v3, on:deepseek-v3, year:2025
+cited on: _dossiers/deepseek-v3.md, deepseek-v3

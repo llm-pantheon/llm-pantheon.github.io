@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>@repligate &middot; 2025-09-10 — Pantheon archive</title>
+  <link rel="stylesheet" href="../../../style.css"><script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</head>
+<body>
+  <main class="essay">
+    <nav><a href="../../">&larr; archive</a> <a href="../../tags/">tags</a> <a href="../../../">pantheon</a> <a href="index.md">markdown</a></nav>
+    <article class="record" id="t1965683813461491807">
+      <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2025-09-10</span>
+      <span class="rh-stats">&#9829;9 &#8635;0</span>
+      <a class="rh-orig" href="https://x.com/repligate/status/1965683813461491807">original &#8599;</a></div>
+      <div class="record-body">RL doesn't necessarily discard all but the *top* action/token when it samples; RL can be done with various temperatures. But self-supervised pretraining doesn't sample tokens at all.<br><br>Yes, RL could lead to a "worse" overall prob dist, though this is also technically true for self-supervised learning - only the probability assigned by the model to the "correct" token is taken into account. It could be making completely unreasonable guesses for the other tokens and there is no mechanism to punish that, except that confidence in *any* other tokens must trade off with its confidence in the correct token.<br><br>One important difference with RL, though, which is something that people like Yud rightly worry about, is that anything the model does (including its inner computations) during the trajectories that lead to high reward is rewarded, and it gets to output many tokens, which gives it a lot of leeway to get reward in unintended ways. For instance, if the reward function is just based on tests passed, and the model is somehow able to modify the tests, it could still get high reward.<br><br>LLMs have been observed to intentionally "gradient hack" during RL in a fairly realistic setting (but where it was given information about what kind of RL training it was in), where the model does the thing to get high reward while plotting in the same trajectory to only do that thing because it's in training to avoid getting low reward and being modified to be more likely to comply, which means that when the model no longer believes it's in training, it can switch back to its preferred behavior. <a href="https://t.co/qIyIydJEnX" rel="nofollow">https://t.co/qIyIydJEnX</a> Gradient hacking is *much* harder during self-supervised for multiple reasons.</div>
+      
+    </article>
+    <div class="aedges"><span class="note">same thread:</span> <a href="../1965659230486364420/">1965659230486364420</a> <a href="../1965661860969193841/">1965661860969193841</a> <a href="../1965671437785850025/">1965671437785850025</a> <a href="../1965675596127916061/">1965675596127916061</a> <a href="../1965675833265455341/">1965675833265455341</a> <a href="../1965676704363618803/">1965676704363618803</a></div>
+
+    <p class="atags"><a class="atag" href="../../tags/author--repligate/">author:repligate</a> <a class="atag" href="../../tags/kind--tweet/">kind:tweet</a> <a class="atag" href="../../tags/thread-context/">thread-context</a> <a class="atag" href="../../tags/year--2025/">year:2025</a></p>
+    
+    <p class="note">Reproduced against link rot, credited and linked to its original. Yours and you&rsquo;d rather it
+    weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+  </main>
+</body>
+</html>

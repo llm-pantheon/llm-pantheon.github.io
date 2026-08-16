@@ -4,5 +4,5 @@
 
 figured out prefill with deepseek-v3, and just to test it, tried @repligate 's  base model mode prompt. and this popped out. https://t.co/lcO5bK75aS
 
-tags: author:voooooogel, kind:tweet, model:deepseek-v3, year:2024
-cited on: _dossiers/deepseek-v3.md
+tags: author:voooooogel, kind:tweet, model:deepseek-v3, on:deepseek-v3, year:2024
+cited on: _dossiers/deepseek-v3.md, deepseek-v3

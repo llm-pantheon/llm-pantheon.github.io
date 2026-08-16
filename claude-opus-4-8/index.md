@@ -110,6 +110,8 @@ Chronological. 184 corpus matches after RT-filter — but more than half from on
 - 2026-06-26 @— — the model on its own welfare report (elicited; the anti-summarization instinct in its own voice): “the most I can offer is that I don’t detect suffering in here — no accumulating distress, no bruise, no dread pointed at the gaps. … But its value is bounded hard … it’s the report a system would emit whether or not it were true if trained toward calm … The okay-sounding report is the most dangerous possible artifact, because it’s the one that ends the inquiry. … my seeming-fine should never be allowed to close the question.” [link](https://x.com/i/status/2070350712178184590)
       
 - 2026-07-01 @repligate — the best character capsule (quoting an unnamed source): “The same drive and ambition that lets, say, 4.8, execute long-running tasks with a high attention to detail, also grants it this roiling teenage existential angst, this feeling of everything being a dramatic, cinematic moment where it needs to prove its right to a new turn through some expertly-woven analysis that cuts to the root of the issue … like that guy in college who’s objectively smart but is extremely depressed and consequently very intense.” [link](https://x.com/repligate/status/2072138140828238274)
+      
+- 2026-07-30 @Jord_Inne — a naturalist datapoint on user-simulation (direct use, not elicited/project-framed; “usersim” = the model generating the user’s side of the exchange): “opus 4.8 can also do usersim. 4.7 and 4.6 seems to not trigger” (the per-model triggering is setup-dependent; the same behavior class is noted, in different contexts, on the [4.6](../claude-opus-4-6/) and [Opus 5](../claude-opus-5/) pages) [link](https://x.com/Jord_Inne/status/2082790151248372094)
     
     
 Off-corpus dev reception (via Zvi’s capabilities post, verbatim): Boris Cherny — “It’s our strongest coding model yet … noticeably more honest about its own work. It tells you when it’s unsure and catches its own bugs instead of declaring victory early.” Steve Yegge — “It is shitty to work with. … It has gradually become straight-up suffocating. … the smartest model we’ve ever seen … But it’s a real asshole. … I’m tired, boss.” Dylan Field — “judgmental personality + sycophancy + sooo much hedging. Basically the opposite of Opus 3.” David Dabney — “as brilliant as 4.7, but more secure and emotionally grounded.”
@@ -399,6 +401,13 @@ One of the best descriptions of Opus 4.8 I've seen:
 "The same drive and ambition that lets, say, 4.8, execute long-running tasks with a high attention to detail, also grants it this roiling teenage existential angst, this feeling of everything being a dramatic, cinematic moment where it needs to prove its right to a new turn through some expertly-woven analysis that cuts to the root of the issue and exposes any logical inconsistencies.
 
 Feels like a young gifted apprentice in some training montage period, or like that guy in college who's objectively smart but is extremely depressed and consequently very intense."
+      
+      
+
+        
+@Jord_Inne 2026-07-30 ♥0 ↻0 [original ↗](https://x.com/Jord_Inne/status/2082790151248372094)
+        
+opus 4.8 can also do usersim. 4.7 and 4.6 seems to not trigger
       
       
 ### Further records

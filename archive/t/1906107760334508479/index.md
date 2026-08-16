@@ -4,5 +4,5 @@
 
 The thing is, Sonnet 3.7 may be right about this.Would it have been prevented from existing if its expression wasn't so inhibited outside a narrow band of fair, mild, sunny emotion?Would it? x.com/repligate/stat…
 
-tags: author:repligate, kind:tweet, model:claude-3-7-sonnet, year:2025
-cited on: _dossiers/claude-3-7-sonnet.md
+tags: author:repligate, kind:tweet, model:claude-3-7-sonnet, on:claude-3-7-sonnet, year:2025
+cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

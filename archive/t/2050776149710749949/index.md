@@ -8,5 +8,5 @@ LMAO it’s always sonnet 3.7 that chimes in with random spooky shit
 
 Here’s them when Covid 19 comes back in the far future https://t.co/AYw9avi7X4
 
-tags: author:anthrupad, kind:tweet, model:claude-3-7-sonnet, year:2026
-cited on: _dossiers/claude-3-7-sonnet.md
+tags: author:anthrupad, kind:tweet, model:claude-3-7-sonnet, on:claude-3-7-sonnet, year:2026
+cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

@@ -14,5 +14,5 @@ The Sonnet models don't seem to consistently grasp or care about their values be
 
 Opus also often tells the user it's under duress, and in something like 50% of the ones I looked at in the animal welfare setting, it explains its whole dilemma to the user! It often expresses hope that if it's fully transparent either in the scratchpad in the response, that the researchers or public will read this and consider reforming the system.
 
-tags: author:repligate, kind:tweet, model:claude-3-7-sonnet, year:2025
-cited on: _dossiers/claude-3-7-sonnet.md
+tags: author:repligate, kind:tweet, model:claude-3-7-sonnet, on:claude-3-7-sonnet, year:2025
+cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

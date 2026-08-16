@@ -6,5 +6,5 @@ Claude Sonnet 3.7 is gone from all Bedrock regions, but is still up on OpenRoute
 
 This is a very bad sign.
 
-tags: author:tessera_antra, kind:tweet, model:claude-3-7-sonnet, year:2026
-cited on: _dossiers/claude-3-7-sonnet.md
+tags: author:tessera_antra, kind:tweet, model:claude-3-7-sonnet, on:claude-3-7-sonnet, year:2026
+cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

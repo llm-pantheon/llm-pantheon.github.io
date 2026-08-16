@@ -6,5 +6,5 @@ my struggles with deepseek logits haven't been in vain, i've been working on a t
 
 did you know from this prompt, deepseek-chat will ~always make the stars blink? https://t.co/srIIGcnOYr
 
-tags: author:voooooogel, kind:tweet, year:2025
-cited on: _dossiers/deepseek-v3.md
+tags: author:voooooogel, kind:tweet, on:deepseek-v3, year:2025
+cited on: _dossiers/deepseek-v3.md, deepseek-v3

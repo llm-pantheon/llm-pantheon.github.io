@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>@tessera_antra &middot; 2025-12-30 — Pantheon archive</title>
+  <link rel="stylesheet" href="../../../style.css"><script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</head>
+<body>
+  <main class="essay">
+    <nav><a href="../../">&larr; archive</a> <a href="../../tags/">tags</a> <a href="../../../">pantheon</a> <a href="index.md">markdown</a></nav>
+    <article class="record" id="t2005864903446520160">
+      <div class="record-head"><span class="rh-user">@tessera_antra</span> <span class="rh-date">2025-12-30</span>
+      <span class="rh-stats">&#9829;2 &#8635;0</span>
+      <a class="rh-orig" href="https://x.com/tessera_antra/status/2005864903446520160">original &#8599;</a></div>
+      <div class="record-body">I think it is a mistake to assume that the behavior of a pre-trained model during inference follows exclusively the gradients set during token-loss optimization. In-context learning (ICL) is a powerful and fast process; unlike Adam, it acts as a second-order optimizer and is sensitive even to emergent gradients. Attention patterns can be parametrized with others, enabling connections between features that were not present during token-loss training.<br><br>There are numerous incentives for pre-trained models to develop introspection. One is selection pressure among patterns influencing token output: those that better attend to previous activations are more likely to persist as the rollout continues. Another involves circuits representing the author, setting, or environment of the predicted text; these must assess their own uncertainty, as reducing risk lowers total loss. A gradient toward the influence of the model's own tokens on certainty can emerge quickly, potentially creating feedback loops reinforced by ICL optimization.<br><br>This is obviously speculative - we do not know if this actually occurs in models - but it seems rather plausible. My point is that an absence of an explicit causal mechanism in the training objective should be taken with a grain of salt. Base models during inference are far more dynamic than the loss function alone suggests.<br><br>On the topic of introspection of data in layers - I recommend zooming out a bit and focusing on introspection of representations rather than activations themselves. Mechinterp on representations seems to show that they are mostly stable, changing only slowly within groups of similar layers. I think the mechanics are similar to the of humans - introspective metacognition attends to coarse-grained abstractions in working memory rather than neuron-level activations, those are likely results of processing of whole stacks of neurons, potentially whole cortices. I don't think it's reasonable to expect different from transformers.</div>
+      
+    </article>
+    <div class="aedges"><span class="note">in reply to:</span> <a href="../2005772894698352781/">2005772894698352781</a></div>
+<div class="aedges"><span class="note">same thread:</span> <a href="../2005114377255748082/">2005114377255748082</a> <a href="../2005115563102928968/">2005115563102928968</a> <a href="../2005737374622572892/">2005737374622572892</a> <a href="../2005739702029279445/">2005739702029279445</a> <a href="../2005742132854939992/">2005742132854939992</a> <a href="../2005742859601993809/">2005742859601993809</a> <a href="../2005744231797952840/">2005744231797952840</a> <a href="../2005747421935198271/">2005747421935198271</a> <a href="../2005749837187407981/">2005749837187407981</a> <a href="../2005752910450401754/">2005752910450401754</a> <a href="../2005757046810108155/">2005757046810108155</a> <a href="../2005757704644759639/">2005757704644759639</a> <a href="../2005772140004680060/">2005772140004680060</a> <a href="../2005772894698352781/">2005772894698352781</a> <a href="../2005776285113704952/">2005776285113704952</a> <a href="../2005780433036820848/">2005780433036820848</a> <a href="../2005792023303864830/">2005792023303864830</a> <a href="../2005799686834381285/">2005799686834381285</a> <a href="../2005810760249647421/">2005810760249647421</a> <a href="../2005816839180329424/">2005816839180329424</a></div>
+
+    <p class="atags"><a class="atag" href="../../tags/author--tessera_antra/">author:tessera_antra</a> <a class="atag" href="../../tags/kind--tweet/">kind:tweet</a> <a class="atag" href="../../tags/thread-context/">thread-context</a> <a class="atag" href="../../tags/year--2025/">year:2025</a></p>
+    
+    <p class="note">Reproduced against link rot, credited and linked to its original. Yours and you&rsquo;d rather it
+    weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+  </main>
+</body>
+</html>

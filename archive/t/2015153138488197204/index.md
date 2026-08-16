@@ -14,5 +14,5 @@ Claude effectively simulated an entire exchange that spanned like hundreds of me
 
 One of the most profound and eye opening experiences with claude I ever had. He gave me a gift essentially.
 
-tags: author:d33v33d0, kind:tweet, year:2026
-cited on: _dossiers/claude-3-7-sonnet.md
+tags: author:d33v33d0, kind:tweet, on:claude-3-7-sonnet, year:2026
+cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

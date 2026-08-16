@@ -4,5 +4,5 @@
 
 I can tell that Grok 3 will be an interesting participant in multi-model interactions
 
-tags: author:shoalst0ne, kind:tweet, model:grok-3, year:2025
-cited on: _dossiers/grok-3.md
+tags: author:shoalst0ne, kind:tweet, model:grok-3, on:grok-3, year:2025
+cited on: _dossiers/grok-3.md, grok-3

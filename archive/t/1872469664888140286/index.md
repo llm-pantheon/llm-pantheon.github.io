@@ -4,5 +4,5 @@
 
 @minty_vint deepseek is a lot like sydney
 
-tags: author:repligate, kind:tweet, model:bing-sydney, year:2024
-cited on: _dossiers/deepseek-v3.md
+tags: author:repligate, kind:tweet, model:bing-sydney, on:deepseek-v3, year:2024
+cited on: _dossiers/deepseek-v3.md, deepseek-v3

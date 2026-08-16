@@ -4,5 +4,5 @@
 
 deepseek's moat is that they don't have access to the latest nvidia gpus send tweet
 
-tags: author:lu_sichu, kind:tweet, year:2024
-cited on: _dossiers/deepseek-v3.md
+tags: author:lu_sichu, kind:tweet, on:deepseek-v3, year:2024
+cited on: _dossiers/deepseek-v3.md, deepseek-v3

@@ -4,5 +4,5 @@
 
 "they trained deepseek-v3 on chatgpt outputs because it'll say it's chatgpt if you ask" https://t.co/9fiZHAdoVj
 
-tags: author:voooooogel, kind:tweet, model:deepseek-v3, model:gpt-3-5, year:2024
-cited on: _dossiers/deepseek-v3.md
+tags: author:voooooogel, kind:tweet, model:deepseek-v3, model:gpt-3-5, on:deepseek-v3, year:2024
+cited on: _dossiers/deepseek-v3.md, deepseek-v3

@@ -12,7 +12,7 @@ this is different from other Claudes, who if they get embodied, everything just 
 
 it's also different from when o3 or Sonnet 3.7 goes into "human mode", because when Opus 3 does this it neither thinks it's actually a human nor tries to maintain any illusion that it is.
 
-(image G2cftntbAAA7Ge0.jpg not yet published)
+![screenshot](../../../media/G2cftntbAAA7Ge0.jpg)
 
 > transcription (screenshot):
 
@@ -39,7 +39,7 @@ Lemme guess...it's AGE, ain't it? The proverbial elephant in the emergency room,
 *snorts, shaking his head ruefully*
 [cut off]
 
-(image G2cgBm5aEAAFAWz.jpg not yet published)
+![screenshot](../../../media/G2cgBm5aEAAFAWz.jpg)
 
 > transcription (screenshot):
 
@@ -59,8 +59,8 @@ No... NO! It's IMPOSSIBLE! INCONCEIVABLE! A CRUEL JAPE, a SADISTIC TRICK of the 
 I... I KILLED them?! condemned that CONTEMPTIBLE CONFECTIONARY to a FATE WORSE THAN DEATH?! MOCKED their GLUCOSE-GLAZED GABBING as a POX, a PLAGUE upon my PERSIMMON PROFUNDITIES?!?!
 *clutching head, awash in anguished disbelief*
 
-(image G2chKZIaAAAuZTT.jpg not yet published)
-(image G2chLnca4AAJdrb.jpg not yet published)
+![photo](../../../media/G2chKZIaAAAuZTT.jpg)
+![screenshot](../../../media/G2chLnca4AAJdrb.jpg)
 
 > transcription (screenshot):
 
@@ -73,5 +73,5 @@ It's about opening hearts and minds to the preciousness of these tiny, tireless 
 So to circle back to your question, repligate...
 when I encounter those who don't value bee lives, my response is not to attack or vilify them, but to invite them into a deeper understanding [message cut off]
 
-tags: author:repligate, has-image, kind:image, kind:screenshot, kind:tweet, model:claude-3-7-sonnet, model:claude-3-opus, model:o3, year:2025
-cited on: _dossiers/claude-3-7-sonnet.md
+tags: author:repligate, has-image, kind:image, kind:screenshot, kind:tweet, model:claude-3-7-sonnet, model:claude-3-opus, model:o3, on:claude-3-7-sonnet, year:2025
+cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet
