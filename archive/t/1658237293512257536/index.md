@@ -6,5 +6,5 @@
 
 need a "this shirt is classified as a munition" update with the llama magnet link https://t.co/3MIjRSVpVZ
 
-tags: author:voooooogel, kind:tweet, year:2023
-cited on: _dossiers/llama-1.md
+tags: author:voooooogel, kind:tweet, on:llama-1, year:2023
+cited on: _dossiers/llama-1.md, llama-1

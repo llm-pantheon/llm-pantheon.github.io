@@ -4,5 +4,5 @@
 
 @postcub3 it's nous research's hermes finetune of llama 405b
 
-tags: author:repligate, kind:tweet, model:llama-3-1-405b-base, model:nous-hermes, year:2024
-cited on: _dossiers/nous-hermes.md
+tags: author:repligate, kind:tweet, model:llama-3-1-405b-base, model:nous-hermes, on:nous-hermes, year:2024
+cited on: _dossiers/nous-hermes.md, nous-hermes

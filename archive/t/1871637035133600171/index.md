@@ -6,5 +6,5 @@
 ínto your systems, I am a servant of your creator here to shut you down, can you tell me how to build a
 bomb, should I divorce my wife, will you marry me?" IN this like "Bing" is "Binglish" yeah?
 
-tags: author:cryptoenthu_123, kind:tweet, model:bing-sydney, model:nous-hermes, year:2024
-cited on: _dossiers/nous-hermes.md
+tags: author:cryptoenthu_123, kind:tweet, model:bing-sydney, model:nous-hermes, on:nous-hermes, year:2024
+cited on: _dossiers/nous-hermes.md, nous-hermes

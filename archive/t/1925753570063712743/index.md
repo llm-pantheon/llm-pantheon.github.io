@@ -4,5 +4,5 @@
 
 claude 4 opus and haiku 3.5 both have beeping as an interest https://t.co/0974OEtNgV
 
-tags: author:voooooogel, kind:tweet, model:claude-3-5-haiku, model:claude-opus-4, year:2025
-cited on: _dossiers/claude-3-5-haiku.md
+tags: author:voooooogel, kind:tweet, model:claude-3-5-haiku, model:claude-opus-4, on:claude-3-5-haiku, year:2025
+cited on: _dossiers/claude-3-5-haiku.md, claude-3-5-haiku

@@ -4,5 +4,5 @@
 
 who trained mistral on my high school gchats :,-( (negative happiness vector) https://t.co/rzZzsEsjnO
 
-tags: author:voooooogel, kind:tweet, year:2024
-cited on: _dossiers/mistral-7b.md
+tags: author:voooooogel, kind:tweet, on:mistral-7b, year:2024
+cited on: _dossiers/mistral-7b.md, mistral-7b

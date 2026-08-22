@@ -4,5 +4,5 @@
 
 @kimmonismus they used llama3-70b and Gemini 1.5 Flash...seems deliberate https://t.co/kcMlXwJYOo
 
-tags: author:janbamjan, kind:tweet, year:2025
-cited on: _dossiers/gemini-1-5-pro.md
+tags: author:janbamjan, kind:tweet, on:gemini-1-5-pro, year:2025
+cited on: _dossiers/gemini-1-5-pro.md, gemini-1-5-pro

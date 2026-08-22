@@ -4,5 +4,5 @@
 
 @ptrschmdtnlsn 2025: “Please note, this APK contains a custom fine-tuned 540B Chinchilla, which may result in additional data charges if downloaded on 6G.”
 
-tags: author:davidad, kind:tweet, year:2023
-cited on: _dossiers/palm.md
+tags: author:davidad, kind:tweet, on:palm, year:2023
+cited on: _dossiers/palm.md, palm

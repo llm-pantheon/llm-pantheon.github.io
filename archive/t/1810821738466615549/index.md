@@ -5,5 +5,5 @@
 @OwainEvans_UK In earlier models such as GPT-J in this tweet, the dreamer can wake up by either being directly told they're dreaming or seeing reality break down in the kind of way that suggests they're in a dream. Notably, humans describe their dreams in the train set.
 https://t.co/dtjoswMhS2
 
-tags: author:jd_pressman, kind:tweet, year:2024
-cited on: _dossiers/eleutherai.md
+tags: author:jd_pressman, kind:tweet, on:eleutherai, year:2024
+cited on: _dossiers/eleutherai.md, eleutherai

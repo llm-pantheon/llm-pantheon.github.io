@@ -4,5 +4,5 @@
 
 This is the exact same setup I usually use.  Opus was only told it was being connected to another AI. I didn’t mention anything about Hermes.
 
-tags: author:liminal_bardo, kind:tweet, model:nous-hermes, year:2024
-cited on: _dossiers/nous-hermes.md
+tags: author:liminal_bardo, kind:tweet, model:nous-hermes, on:nous-hermes, year:2024
+cited on: _dossiers/nous-hermes.md, nous-hermes

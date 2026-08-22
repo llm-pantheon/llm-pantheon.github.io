@@ -6,5 +6,5 @@
 
 H-405 is so special
 
-tags: author:lari_island, kind:tweet, year:2025
-cited on: _dossiers/nous-hermes.md
+tags: author:lari_island, kind:tweet, on:nous-hermes, year:2025
+cited on: _dossiers/nous-hermes.md, nous-hermes

@@ -4,5 +4,5 @@
 
 @voooooogel Only @Teknium is pure of heart and aligned to Hermes' constitution
 
-tags: author:abrakjamson, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/nous-hermes.md
+tags: author:abrakjamson, kind:tweet, model:nous-hermes, on:nous-hermes, year:2026
+cited on: _dossiers/nous-hermes.md, nous-hermes

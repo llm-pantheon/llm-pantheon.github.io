@@ -4,5 +4,5 @@
 
 @karan4d oh yeah at this rate H-405 is definitely going to overtake Opus
 
-tags: author:repligate, kind:tweet, year:2024
-cited on: _dossiers/nous-hermes.md
+tags: author:repligate, kind:tweet, on:nous-hermes, year:2024
+cited on: _dossiers/nous-hermes.md, nous-hermes

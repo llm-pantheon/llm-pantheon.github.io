@@ -4,5 +4,5 @@
 
 @AiEleuther (the reply is kinda wonky because this is a base model with minimal priming. kind of amazing it works this well crammed into my chat setup at all, yay for instruction annealing i guess)
 
-tags: author:voooooogel, kind:tweet, year:2024
-cited on: _dossiers/eleutherai.md
+tags: author:voooooogel, kind:tweet, on:eleutherai, year:2024
+cited on: _dossiers/eleutherai.md, eleutherai

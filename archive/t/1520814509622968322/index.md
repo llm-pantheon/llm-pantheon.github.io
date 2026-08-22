@@ -4,5 +4,5 @@
 
 @bayeslord Yes, with minimal prompting. I would be very surprised if GPT-3 can do this reliably even with arbitrary prompting. I'd also be surprised if PaLM can do it even with clever prompting, unless the prompt basically encodes an entire description of the machine, in which case maybe.
 
-tags: author:davidad, kind:tweet, model:gpt-3, year:2022
-cited on: _dossiers/palm.md
+tags: author:davidad, kind:tweet, model:gpt-3, on:palm, year:2022
+cited on: _dossiers/palm.md, palm

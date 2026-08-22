@@ -4,5 +4,5 @@
 
 not particularly impressed lol https://t.co/oqzRiEJ2Lc
 
-tags: author:lericdax, kind:tweet, year:2024
-cited on: _dossiers/mixtral-8x7b.md
+tags: author:lericdax, kind:tweet, on:mixtral-8x7b, year:2024
+cited on: _dossiers/mixtral-8x7b.md, mixtral-8x7b

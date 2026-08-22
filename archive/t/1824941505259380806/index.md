@@ -4,5 +4,5 @@
 
 nousresearch.com/the-instruct-m…
 
-tags: author:repligate, kind:tweet, year:2024
-cited on: _dossiers/nous-hermes.md
+tags: author:repligate, kind:tweet, on:nous-hermes, year:2024
+cited on: _dossiers/nous-hermes.md, nous-hermes

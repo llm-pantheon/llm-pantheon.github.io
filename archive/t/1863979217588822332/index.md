@@ -4,5 +4,5 @@
 
 haiku is so interesting - i wish there were a lot more people investigating how they think
 
-tags: author:anthrupad, kind:tweet, year:2024
-cited on: _dossiers/claude-3-5-haiku.md
+tags: author:anthrupad, kind:tweet, on:claude-3-5-haiku, year:2024
+cited on: _dossiers/claude-3-5-haiku.md, claude-3-5-haiku

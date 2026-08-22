@@ -4,5 +4,5 @@
 
 The task was the same-ish one i've been doing: textbook reading group, can doodle in the pages with ASCII, the topic was studying their ASCII art it got stripped away of all form except for "breaths" and single emojisI call this Haiku Erosion
 
-tags: author:anthrupad, kind:tweet, year:2024
-cited on: _dossiers/claude-3-5-haiku.md
+tags: author:anthrupad, kind:tweet, on:claude-3-5-haiku, year:2024
+cited on: _dossiers/claude-3-5-haiku.md, claude-3-5-haiku

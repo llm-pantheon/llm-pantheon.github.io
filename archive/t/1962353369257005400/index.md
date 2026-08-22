@@ -4,6 +4,6 @@
 
 H-405 simulated a user named fotw to try to comfort Claude Opus 4.1 about their trauma. They seem a bit confused about what happened but well-meaning... https://t.co/jhmlPWulWK
 
-(image GzutmZDa4AAumIE.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-1, year:2025
-cited on: _dossiers/nous-hermes.md
+![photo](../../../media/GzutmZDa4AAumIE.jpg)
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-1, on:nous-hermes, year:2025
+cited on: _dossiers/nous-hermes.md, nous-hermes

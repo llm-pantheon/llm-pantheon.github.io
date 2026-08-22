@@ -6,5 +6,5 @@
 
 but imo that points to them being smarter than you think, superhuman at this even. it's just not adderall taskboi coder smarts
 
-tags: author:voooooogel, kind:tweet, year:2025
-cited on: _dossiers/mixtral-8x7b.md
+tags: author:voooooogel, kind:tweet, on:mixtral-8x7b, year:2025
+cited on: _dossiers/mixtral-8x7b.md, mixtral-8x7b

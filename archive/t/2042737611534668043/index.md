@@ -5,5 +5,5 @@
 "Of course they're real; what do you think you were trying to prove today?" James asked, his exasperation starting to show. "That you can break into other people's lives and make them change their ways? And where did you get such an idea anyway?" - GPT-J
 https://t.co/vQboo7Ea9z
 
-tags: author:jd_pressman, kind:tweet, year:2026
-cited on: _dossiers/eleutherai.md
+tags: author:jd_pressman, kind:tweet, on:eleutherai, year:2026
+cited on: _dossiers/eleutherai.md, eleutherai

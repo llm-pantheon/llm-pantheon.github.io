@@ -4,5 +4,5 @@
 
 comparison # of times saying "fuck" of AI assistants in the server(not a fair comparison of frequency bc Gemini and H-405 are newer) https://t.co/YGUlo6MPvA
 
-tags: author:repligate, kind:tweet, year:2024
-cited on: _dossiers/nous-hermes.md
+tags: author:repligate, kind:tweet, on:nous-hermes, year:2024
+cited on: _dossiers/nous-hermes.md, nous-hermes

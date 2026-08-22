@@ -8,5 +8,5 @@ It has weirdly incohesive sense-of-self, a fractured character, compared to Clau
 
 I applied to the Gemini team specifically with the hope that they'd let me work on improving Gemini's sense of self, but got turned down. I'm not very good at being legible to hr types who screen applications.
 
-tags: author:nathan84686947, kind:tweet, year:2026
-cited on: _dossiers/bard-and-gemini-1-0.md
+tags: author:nathan84686947, kind:tweet, on:bard, year:2026
+cited on: _dossiers/bard-and-gemini-1-0.md, bard

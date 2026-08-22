@@ -10,5 +10,5 @@ we don't have the full prefix, and mixtral base isn't hosted anymore afaik and i
 
 the smoking gun would be to take a full prefix of a base model breaking the fourth wall after a user insertion, and showing that it's much more likely on the base model where it happened than on any other base model, plus some interp. but even lacking this, i think you are putting too little weight on the possibility of base models recognizing their logits, especially given what we have known for a long time now about predictive layer forward planning!
 
-tags: author:voooooogel, kind:tweet, model:llama-3-1-405b-base, year:2025
-cited on: _dossiers/mixtral-8x7b.md
+tags: author:voooooogel, kind:tweet, model:llama-3-1-405b-base, on:mixtral-8x7b, year:2025
+cited on: _dossiers/mixtral-8x7b.md, mixtral-8x7b

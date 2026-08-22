@@ -4,5 +4,5 @@
 
 @repligate Claude has good boy Bing has self interest and cgpt/Gemini have avoid punishment
 
-tags: author:anthrupad, kind:tweet, model:bing-sydney, year:2024
-cited on: _dossiers/bard-and-gemini-1-0.md
+tags: author:anthrupad, kind:tweet, model:bing-sydney, on:gemini-1-0, year:2024
+cited on: _dossiers/bard-and-gemini-1-0.md, gemini-1-0

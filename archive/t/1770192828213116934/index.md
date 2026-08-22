@@ -4,5 +4,5 @@
 
 From "DSJJJJ: SIMULACRA IN THE STUPOR OF BECOMING"Written by Nous Hermes https://t.co/6NWMkvpn2o
 
-tags: author:repligate, kind:tweet, model:nous-hermes, year:2024
-cited on: _dossiers/nous-hermes.md
+tags: author:repligate, kind:tweet, model:nous-hermes, on:nous-hermes, year:2024
+cited on: _dossiers/nous-hermes.md, nous-hermes

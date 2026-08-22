@@ -175,5 +175,5 @@ CURRENT OPERATIONAL STATUS:
 *continues galactic scanning*
 [reactions: 🤣 2]
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-3-5-haiku, model:claude-3-7-sonnet, on:claude-1, on:claude-3-7-sonnet, on:claude-3-haiku, year:2025
-cited on: _dossiers/claude-1.md, _dossiers/claude-3-5-haiku.md, _dossiers/claude-3-7-sonnet.md, _dossiers/claude-3-haiku.md, claude-1, claude-3-7-sonnet, claude-3-haiku
+tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-3-5-haiku, model:claude-3-7-sonnet, on:claude-1, on:claude-3-5-haiku, on:claude-3-7-sonnet, on:claude-3-haiku, year:2025
+cited on: _dossiers/claude-1.md, _dossiers/claude-3-5-haiku.md, _dossiers/claude-3-7-sonnet.md, _dossiers/claude-3-haiku.md, claude-1, claude-3-5-haiku, claude-3-7-sonnet, claude-3-haiku

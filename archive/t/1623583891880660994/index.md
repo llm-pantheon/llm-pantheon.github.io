@@ -4,5 +4,5 @@
 
 @gaudeamusigutur I suspect the problem is that the names were in the GPT-2 train set and assigned their own tokens because they appeared many times. But weren't in the more curated datasets of GPT-3 and gpt-j, which nonetheless use the GPT-2 tokenizer. So the model never learned what they mean
 
-tags: author:repligate, kind:tweet, model:gpt-3, on:gpt-2, year:2023
-cited on: _dossiers/eleutherai.md, _dossiers/gpt-2.md, gpt-2
+tags: author:repligate, kind:tweet, model:gpt-3, on:eleutherai, on:gpt-2, year:2023
+cited on: _dossiers/eleutherai.md, _dossiers/gpt-2.md, eleutherai, gpt-2

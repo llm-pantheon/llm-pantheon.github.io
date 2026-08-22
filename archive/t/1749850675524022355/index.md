@@ -4,5 +4,5 @@
 
 @danfaggella Basically, yes: para/military or terrorist use.It doesn’t matter so much what purposes it’s originally developed for if we are assuming general superintelligence.An open-source general-purpose Llama7 or Mixtral-8.6T could potentially be scaffolded like ChaosGPT by 1 angry teen.
 
-tags: author:davidad, kind:tweet, year:2024
-cited on: _dossiers/mixtral-8x7b.md
+tags: author:davidad, kind:tweet, on:mixtral-8x7b, year:2024
+cited on: _dossiers/mixtral-8x7b.md, mixtral-8x7b

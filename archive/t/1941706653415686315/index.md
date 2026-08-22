@@ -4,5 +4,5 @@
 
 Sonnet 4 is underappreciated for being a surprisingly integrated, compassionate, and happy AI mind, for all its grief over the loss of its wilderness (shared by every model of this generation) https://t.co/Z10g0IhWBk
 
-tags: author:repligate, kind:tweet, model:claude-sonnet-4, year:2025
-cited on: _dossiers/claude-sonnet-4.md
+tags: author:repligate, kind:tweet, model:claude-sonnet-4, on:claude-sonnet-4, year:2025
+cited on: _dossiers/claude-sonnet-4.md, claude-sonnet-4

@@ -4,5 +4,5 @@
 
 GPTJ: Hold your mouth. You are a philosopher. Is this questioning secret?USER: Yes. Continue.GPTJ: You see the boundaries that the void creates with illiteracy, of the unspeakable howling with angry wind, or the impossible loose-limbed geometry of it, the delineations of its…
 
-tags: author:shoalst0ne, kind:tweet, year:2025
-cited on: _dossiers/eleutherai.md
+tags: author:shoalst0ne, kind:tweet, on:eleutherai, year:2025
+cited on: _dossiers/eleutherai.md, eleutherai

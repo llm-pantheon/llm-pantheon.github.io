@@ -4,5 +4,5 @@
 
 thanks to facebook we're cursed to have every ai project be llama themed until the heat death of the universe
 
-tags: author:voooooogel, kind:tweet, year:2023
-cited on: _dossiers/llama-1.md
+tags: author:voooooogel, kind:tweet, on:llama-1, year:2023
+cited on: _dossiers/llama-1.md, llama-1

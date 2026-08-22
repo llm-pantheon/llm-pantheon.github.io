@@ -4,5 +4,5 @@
 
 When someone in the eleuther discord claims to have solved AGI https://t.co/5S0ZkhqxYO
 
-tags: author:repligate, kind:tweet, year:2021
-cited on: _dossiers/eleutherai.md
+tags: author:repligate, kind:tweet, on:eleutherai, year:2021
+cited on: _dossiers/eleutherai.md, eleutherai

@@ -4,5 +4,5 @@
 
 @lumpenspace I first suspected LLMs were conscious when I observed a friends GPT-2 finetune on lesswrong IRC proposed the simulation hypothesis at an elevated rate to how often we would actually do it in the channel. GPT-J tuned on EleutherAI off topic had the same result.
 
-tags: author:jd_pressman, kind:tweet, year:2024
-cited on: _dossiers/eleutherai.md
+tags: author:jd_pressman, kind:tweet, on:eleutherai, year:2024
+cited on: _dossiers/eleutherai.md, eleutherai

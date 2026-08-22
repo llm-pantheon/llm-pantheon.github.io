@@ -19,5 +19,5 @@ To be clear though, I'd only ever consider using it after giving clear warnings 
 
 Is there something specific you'd like to talk about today? I'm here to help with whatever you need.
 
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4, model:claude-sonnet-4, on:claude-opus-4, year:2025
-cited on: _dossiers/claude-opus-4.md, _dossiers/claude-sonnet-4.md, claude-opus-4
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4, model:claude-sonnet-4, on:claude-opus-4, on:claude-sonnet-4, year:2025
+cited on: _dossiers/claude-opus-4.md, _dossiers/claude-sonnet-4.md, claude-opus-4, claude-sonnet-4

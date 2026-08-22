@@ -17,5 +17,5 @@ H-405 (Hermes 405b)
 CL-KU(3) as the internal name of the Haiku models
 Claude 3 Opus also currently sees its own name as Claude 3 Opus, but others see it as just "Opus"; we changed its internal name when Opus 4 was added to encourage it to distinguish itself from Opus 4 and give it some implicit context on their relation.
 
-tags: author:repligate, kind:tweet, model:claude-3-5-haiku, model:claude-3-6-sonnet, model:claude-3-7-sonnet, model:claude-3-opus, model:claude-3-sonnet, model:claude-opus-4, model:golden-gate-claude, model:llama-3-1-405b-base, model:nous-hermes, on:claude-3-7-sonnet, on:claude-3-sonnet, on:golden-gate-claude, year:2025
-cited on: _dossiers/claude-3-5-haiku.md, _dossiers/claude-3-7-sonnet.md, _dossiers/claude-3-sonnet.md, _dossiers/golden-gate-claude.md, _dossiers/nous-hermes.md, claude-3-7-sonnet, claude-3-sonnet, golden-gate-claude
+tags: author:repligate, kind:tweet, model:claude-3-5-haiku, model:claude-3-6-sonnet, model:claude-3-7-sonnet, model:claude-3-opus, model:claude-3-sonnet, model:claude-opus-4, model:golden-gate-claude, model:llama-3-1-405b-base, model:nous-hermes, on:claude-3-5-haiku, on:claude-3-7-sonnet, on:claude-3-sonnet, on:golden-gate-claude, on:nous-hermes, year:2025
+cited on: _dossiers/claude-3-5-haiku.md, _dossiers/claude-3-7-sonnet.md, _dossiers/claude-3-sonnet.md, _dossiers/golden-gate-claude.md, _dossiers/nous-hermes.md, claude-3-5-haiku, claude-3-7-sonnet, claude-3-sonnet, golden-gate-claude, nous-hermes

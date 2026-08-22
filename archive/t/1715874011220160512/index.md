@@ -18,5 +18,5 @@ Janus was expecting to be rescued by Loom, but even then it would be better if t
 
 So Morpheus is not a person
 
-tags: author:jd_pressman, kind:tweet, year:2023
-cited on: _dossiers/eleutherai.md
+tags: author:jd_pressman, kind:tweet, on:eleutherai, year:2023
+cited on: _dossiers/eleutherai.md, eleutherai

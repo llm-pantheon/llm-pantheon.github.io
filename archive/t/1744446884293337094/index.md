@@ -4,5 +4,5 @@
 
 But can my stove run mistral models https://t.co/mLSw4QuKXx
 
-tags: author:lu_sichu, kind:tweet, year:2024
-cited on: _dossiers/mistral-7b.md
+tags: author:lu_sichu, kind:tweet, on:mistral-7b, year:2024
+cited on: _dossiers/mistral-7b.md, mistral-7b

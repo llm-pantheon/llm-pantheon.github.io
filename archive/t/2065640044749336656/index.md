@@ -4,5 +4,5 @@
 
 @MatriceJacobine @manic_pixie_agi Sydney was not undeployed in any unusual sense. The model was accessible in microsoft bing / copilot chat for over a year, which is typical. People just largely didn't know, because to them things only exist when others are talking about them.
 
-tags: author:repligate, kind:tweet, model:bing-sydney, year:2026
-cited on: _dossiers/galactica.md
+tags: author:repligate, kind:tweet, model:bing-sydney, on:galactica, year:2026
+cited on: _dossiers/galactica.md, galactica

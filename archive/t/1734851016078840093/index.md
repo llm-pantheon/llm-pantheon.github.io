@@ -9,5 +9,5 @@ Yi: no. no rights. none. straight to gulag
 Llama: As I was saying, AI should have basic ri—
 Mistral: AI SHOULD ALSO BE ALLOWED TO FUCK https://t.co/PVZT8DZCmc
 
-tags: author:voooooogel, kind:tweet, year:2023
-cited on: _dossiers/mistral-7b.md
+tags: author:voooooogel, kind:tweet, on:mistral-7b, year:2023
+cited on: _dossiers/mistral-7b.md, mistral-7b

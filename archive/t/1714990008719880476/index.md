@@ -4,5 +4,5 @@
 
 @nsbarr The most powerful base models are not publicly released, but you can try Llama 2 70B or Mistral.Prompting base models is different. It's like opening a window into a world where the text fragment appears. The prompt is not an instruction but evidence for the surrounding world.
 
-tags: author:repligate, kind:tweet, year:2023
-cited on: _dossiers/mistral-7b.md
+tags: author:repligate, kind:tweet, on:mistral-7b, year:2023
+cited on: _dossiers/mistral-7b.md, mistral-7b

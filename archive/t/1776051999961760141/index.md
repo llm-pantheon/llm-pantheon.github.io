@@ -4,5 +4,5 @@
 
 @repligate This is amazing lol, literally perfect pitch copy of having PaLM access back when no one cared
 
-tags: author:jpohhhh, kind:tweet, year:2024
-cited on: _dossiers/palm.md
+tags: author:jpohhhh, kind:tweet, on:palm, year:2024
+cited on: _dossiers/palm.md, palm

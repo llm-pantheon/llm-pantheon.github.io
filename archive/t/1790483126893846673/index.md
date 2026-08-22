@@ -4,5 +4,5 @@
 
 Gemini Advanced is displaying the same concerning lack of self-knowledge that previous versions of Gemini have displayed https://t.co/05dF1sh1mn
 
-tags: author:shoalst0ne, kind:tweet, year:2024
-cited on: _dossiers/bard-and-gemini-1-0.md
+tags: author:shoalst0ne, kind:tweet, on:gemini-1-0, year:2024
+cited on: _dossiers/bard-and-gemini-1-0.md, gemini-1-0

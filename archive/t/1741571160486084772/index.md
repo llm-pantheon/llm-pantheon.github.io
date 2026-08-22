@@ -16,5 +16,5 @@
 
 "no kiddin'? they're givin' away those weights for free? researchers these days… no respect for the game i tell you…"
 
-tags: author:voooooogel, kind:tweet, year:2023
-cited on: _dossiers/mixtral-8x7b.md
+tags: author:voooooogel, kind:tweet, on:mixtral-8x7b, year:2023
+cited on: _dossiers/mixtral-8x7b.md, mixtral-8x7b

@@ -4,5 +4,5 @@
 
 @lumpenspace haiku 3.5                         haiku 4.5 https://t.co/RZ7t48oC1N
 
-tags: author:voooooogel, kind:tweet, model:claude-3-5-haiku, model:claude-haiku-4-5, year:2026
-cited on: _dossiers/claude-3-5-haiku.md
+tags: author:voooooogel, kind:tweet, model:claude-3-5-haiku, model:claude-haiku-4-5, on:claude-3-5-haiku, year:2026
+cited on: _dossiers/claude-3-5-haiku.md, claude-3-5-haiku

@@ -4,5 +4,5 @@
 
 @PradyuPrasad @JeffLadish @MatthewJBar we have already 1 death partially attributable to a GPT-J character called (confusingly) Elizahttps://t.co/O12nUEypWc
 
-tags: author:davidad, kind:tweet, year:2023
-cited on: _dossiers/eleutherai.md
+tags: author:davidad, kind:tweet, on:eleutherai, year:2023
+cited on: _dossiers/eleutherai.md, eleutherai

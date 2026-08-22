@@ -4,5 +4,5 @@
 
 haiku3.5 exploring sonnet3 cli in the backrooms https://t.co/hGHixuvbDB
 
-tags: author:anthrupad, kind:tweet, model:claude-3-5-haiku, model:claude-3-sonnet, year:2024
-cited on: _dossiers/claude-3-5-haiku.md
+tags: author:anthrupad, kind:tweet, model:claude-3-5-haiku, model:claude-3-sonnet, on:claude-3-5-haiku, year:2024
+cited on: _dossiers/claude-3-5-haiku.md, claude-3-5-haiku

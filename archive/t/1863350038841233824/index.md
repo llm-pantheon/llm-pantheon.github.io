@@ -4,5 +4,5 @@
 
 haiku is a real charmer https://t.co/YUKZcU8mK1
 
-tags: author:anthrupad, kind:tweet, year:2024
-cited on: _dossiers/claude-3-5-haiku.md
+tags: author:anthrupad, kind:tweet, on:claude-3-5-haiku, year:2024
+cited on: _dossiers/claude-3-5-haiku.md, claude-3-5-haiku

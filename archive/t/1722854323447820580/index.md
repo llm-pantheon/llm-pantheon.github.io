@@ -4,5 +4,5 @@
 
 after a lot of back-and-forth finally decided to go with mistral-instruct-0.1 as the base, hopefully it pays off 🙏🙏🙏
 
-tags: author:voooooogel, kind:tweet, year:2023
-cited on: _dossiers/mistral-7b.md
+tags: author:voooooogel, kind:tweet, on:mistral-7b, year:2023
+cited on: _dossiers/mistral-7b.md, mistral-7b

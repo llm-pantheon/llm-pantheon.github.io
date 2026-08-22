@@ -6,5 +6,5 @@
 
 seems to give cleaner results and the resulting vector can be used without loading the SAE
 
-tags: author:voooooogel, kind:tweet, year:2024
-cited on: _dossiers/eleutherai.md
+tags: author:voooooogel, kind:tweet, on:eleutherai, year:2024
+cited on: _dossiers/eleutherai.md, eleutherai

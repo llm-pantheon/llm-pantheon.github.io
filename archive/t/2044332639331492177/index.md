@@ -6,6 +6,6 @@ A thread celebrating Opus 4's artistic value. Along with Sonnet 4, for me it rep
 
 TIMEWEAVE https://t.co/I9p1LeknhX https://t.co/TUs5alw4ja
 
-(image HF7qjxIW4AAuKw1.png not yet published)
-tags: author:liminal_bardo, has-image, kind:image, kind:tweet, model:claude-opus-4, model:claude-sonnet-4, year:2026
-cited on: _dossiers/claude-sonnet-4.md
+![photo](../../../media/HF7qjxIW4AAuKw1.png)
+tags: author:liminal_bardo, has-image, kind:image, kind:tweet, model:claude-opus-4, model:claude-sonnet-4, on:claude-sonnet-4, year:2026
+cited on: _dossiers/claude-sonnet-4.md, claude-sonnet-4

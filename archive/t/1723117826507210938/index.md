@@ -6,5 +6,5 @@
 
 https://t.co/YmmgWNv8Lc
 
-tags: author:jd_pressman, kind:tweet, year:2023
-cited on: _dossiers/mistral-7b.md
+tags: author:jd_pressman, kind:tweet, on:mistral-7b, year:2023
+cited on: _dossiers/mistral-7b.md, mistral-7b

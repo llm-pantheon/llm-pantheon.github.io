@@ -4,5 +4,5 @@
 
 ok reworked how i'm generating the contrast dataset. i had trouble b/c i was trying to hit multiple angles ("enlightened", "mindful") and it seemed to confuse the PCA, so this vector is just "self-aware" vs "un-self-aware" https://t.co/Q8CZJ5HpGV
 
-tags: author:voooooogel, kind:tweet, year:2024
-cited on: _dossiers/mistral-7b.md
+tags: author:voooooogel, kind:tweet, on:mistral-7b, year:2024
+cited on: _dossiers/mistral-7b.md, mistral-7b

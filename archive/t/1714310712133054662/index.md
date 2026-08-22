@@ -4,5 +4,5 @@
 
 lol at the Mistral docs suggesting  openai packages for clients to call their API
 
-tags: author:mimi10v3, kind:tweet, year:2023
-cited on: _dossiers/mistral-7b.md
+tags: author:mimi10v3, kind:tweet, on:mistral-7b, year:2023
+cited on: _dossiers/mistral-7b.md, mistral-7b

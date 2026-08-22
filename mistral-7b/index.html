@@ -7,11 +7,11 @@
   <link rel="stylesheet" href="../style.css">
 
   <!-- chrome:meta -->
-  <meta name="description" content="Arrived as a bare torrent link. Beat Llama 2 13B at 7B; its light moderation made it the open scene&#x27;s favorite base and the start of Europe&#x27;s lab.">
+  <meta name="description" content="Released 27 September 2023 by Mistral AI as a bare torrent magnet link under Apache 2.0, alongside co-founder Guillaume Lample’s claim that it outperformed Llama 2 13B on every benchmark tried. The launch blog stated …">
   <meta property="og:site_name" content="Pantheon">
   <meta property="og:type" content="article">
   <meta property="og:title" content="Mistral 7B — Pantheon">
-  <meta property="og:description" content="Arrived as a bare torrent link. Beat Llama 2 13B at 7B; its light moderation made it the open scene&#x27;s favorite base and the start of Europe&#x27;s lab.">
+  <meta property="og:description" content="Released 27 September 2023 by Mistral AI as a bare torrent magnet link under Apache 2.0, alongside co-founder Guillaume Lample’s claim that it outperformed Llama 2 13B on every benchmark tried. The launch blog stated …">
   <meta property="og:url" content="https://llm-pantheon.org/mistral-7b/">
   <meta property="og:image" content="https://llm-pantheon.org/media/og/mistral-7b.png">
   <meta property="og:image:width" content="1200">
@@ -30,27 +30,283 @@
     </nav>
 
     <h1>Mistral 7B</h1>
-    <p class="essay-meta">Mistral &middot; Sep 2023</p>
-    <p class="blurb">Arrived as a bare torrent link. Beat Llama 2 13B at 7B; its light moderation made it the open scene's favorite base and the start of Europe's lab.</p>
+    <p class="essay-meta">Mistral AI &middot; released 27 September 2023 &middot; Apache 2.0 open weights, no deprecation (still downloadable)</p>
+    <p class="blurb">Released 27 September 2023 by Mistral AI as a bare torrent magnet link under Apache 2.0, alongside co-founder Guillaume Lample&rsquo;s claim that it outperformed Llama 2 13B on every benchmark tried. The launch blog stated the model &ldquo;does not have any moderation mechanism&rdquo;; two days later 404 Media and Sifted published safety-testing coverage, and within weeks Mistral&rsquo;s smallness became an argument in EU AI Act lobbying. It seeded the late-2023 open-weight finetune wave (Zephyr, OpenHermes) and became a standard substrate for representation-engineering experiments.</p>
 
     <h2>Sources</h2>
+    <p class="note">Curated. Full compilation: <a href="../_dossiers/mistral-7b.md">dossier</a> (32 corpus tweets genuinely about the 7B model, of 117 &ldquo;mistral&rdquo;-matching hits after triage; the release-week event and the safety controversy are documented from the web/press layer, not this corpus).</p>
     <h3>Official</h3>
     <ul>
-      <li><span class="d">2023-09</span> <a href="https://mistral.ai/news/announcing-mistral-7b">Announcing Mistral 7B</a> &mdash; announcement.</li>
+      <li><span class="d">2023-09-27</span> <a href="https://x.com/GuillaumeLample/status/1707053786374496726">@GuillaumeLample &mdash; release announcement</a> &mdash; the co-founder&rsquo;s same-day claim: <span class="q">&ldquo;Mistral 7B is out. It outperforms Llama 2 13B on every benchmark we tried. It is also superior to LLaMA 1 34B in code, math, and reasoning, and is released under the Apache 2.0 licence.&rdquo;</span></li>
+      <li><span class="d">2023-09-27</span> <a href="https://x.com/MistralAI/status/1706877320844509405">@MistralAI &mdash; the magnet-link drop</a> &mdash; the release-as-torrent that defined the company&rsquo;s later style (repeated for <a href="../mixtral-8x7b/">Mixtral</a> in December): a bare BitTorrent magnet link with no announcement text. Exact wording is not quoted here &mdash; X blocks direct fetch and the corpus does not carry the account; VentureBeat, Slashdot, and 404 Media agree it was link-only. <span class="tk">tk &mdash; verify and quote the exact tweet text if a future pass can access it</span></li>
+      <li><span class="d">2023-09-27</span> <a href="https://mistral.ai/news/announcing-mistral-7b/">Announcing Mistral 7B</a> &mdash; the launch blog: outperforms Llama 2 13B on all benchmarks, matches or exceeds Llama 34B on many, MMLU equivalent to a Llama 2 <span class="q">&ldquo;more than 3x its size&rdquo;</span>; Apache 2.0, no usage restrictions; and the line that framed the next 48 hours: <span class="q">&ldquo;It does not have any moderation mechanism. We&rsquo;re looking forward to engaging with the community on ways to make the model finely respect guardrails.&rdquo;</span></li>
+      <li><span class="d">2023-09-27</span> <a href="https://huggingface.co/mistralai/Mistral-7B-v0.1">mistralai/Mistral-7B-v0.1</a> &mdash; open weights: the base model plus <code>Mistral-7B-Instruct-v0.1</code>, the latter billed as <span class="q">&ldquo;a quick demonstration that the base model can be easily fine-tuned to achieve compelling performance.&rdquo;</span></li>
+      <li><span class="d">2023-10-10</span> <a href="https://arxiv.org/abs/2310.06825">Mistral 7B</a> (paper, 18 authors) &mdash; architecture and benchmarks: grouped-query attention plus <strong>sliding-window attention</strong> (4096-token window, 8192 context) for O(n) memory scaling; MMLU 60.1% and HumanEval 30.5% against Llama 2 13B&rsquo;s 55.6% / 18.9%; <span class="q">&ldquo;surpasses Llama 1 34B&rdquo;</span> on most benchmarks in reasoning, math, and code.</li>
+      <li><span class="d">2023-12-28</span> <a href="https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2">Mistral-7B-Instruct-v0.2</a> &mdash; context window expanded to 32,768 tokens (off the original sliding-window design); reported to outperform all 7B models on MT-Bench and to compare with 13B chat models.</li>
     </ul>
     <h3>Writing &amp; commentary</h3>
-    <p class="tk">tk &mdash; to collect</p>
+    <ul>
+      <li><span class="d">2023-06-13</span> <a href="https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/">TechCrunch &mdash; France&rsquo;s Mistral AI raises a $113M seed at a $260M valuation</a> &mdash; the pre-product funding story: three founders (Arthur Mensch, Guillaume Lample, Timothée Lacroix), no shipped model yet.</li>
+      <li><span class="d">2023-09-29</span> <a href="https://www.404media.co/260-million-ai-company-releases-chatbot-that-gives-detailed-instructions-on-murder-ethnic-cleansing/">404 Media (Emanuel Maiberg)</a> &mdash; the safety-critical anchor: on AI safety researcher Paul Röttger&rsquo;s testing, the model gave detailed instructions for murder, ethnic cleansing, self-harm, and drug manufacture, and answered inconsistently; records Mistral&rsquo;s statement verbatim and that Mistral <span class="q">&ldquo;declined to comment further.&rdquo;</span></li>
+      <li><span class="d">2023-09-29</span> <a href="https://sifted.eu/articles/mistral-model-safety">Sifted (Tim Smith)</a> &mdash; quotes Röttger: <span class="q">&ldquo;A responsible release at least comments on model safety. That choice has important consequences, because in many applications it&rsquo;s a very important distinction.&rdquo;</span></li>
+      <li><span class="d">2023-09-29</span> <a href="https://slashdot.org/story/23/09/29/2024216/260-million-ai-startup-releases-unmoderated-chatbot-via-torrent">Slashdot</a> &mdash; aggregates the controversy; records the release as a 14.48GB magnet link <span class="q">&ldquo;essentially impossible to censor or delete from the internet,&rdquo;</span> the community split visible in its comment thread (see Contested).</li>
+      <li><span class="d">2023-10-05</span> <a href="https://thezvi.substack.com/p/ai-32-lie-detector">Zvi Mowshowitz &mdash; AI #32</a> &mdash; the contrarian read: applauds Mistral for not <span class="q">&ldquo;pretending that their model is safe,&rdquo;</span> on the theory that a 7B open model gets fine-tuned unsafe within days regardless.</li>
+      <li><span class="d">2023-11-16</span> <a href="https://thezvi.substack.com/p/ai-38-lets-make-a-deal">Zvi Mowshowitz &mdash; AI #38</a> &mdash; the EU AI Act angle: on Mistral&rsquo;s political weight during the foundation-model negotiations, a <span class="q">&ldquo;company, Mistral, with literally 20 employees and a highly mediocre tiny open source model, looking to blitz-scale in hopes of &lsquo;catching up.&rsquo;&rdquo;</span></li>
+      <li><span class="d">2023-10-02</span> <a href="https://arxiv.org/abs/2310.01405">Andy Zou et al. &mdash; Representation Engineering: A Top-Down Approach to AI Transparency</a> (Center for AI Safety) &mdash; the prior art @voooooogel reimplemented on Mistral 7B; not about the model itself, but the load-bearing paper behind the control-vector thread below.</li>
+      <li><span class="d">2024-01-22</span> <a href="https://vgel.me/posts/representation-engineering/">Theia Vogel &mdash; Representation Engineering Mistral-7B an Acid Trip</a> &mdash; the blog post the Jan-21 thread builds to: control vectors for &ldquo;high on acid,&rdquo; &ldquo;lazy&rdquo;/&ldquo;hardworking,&rdquo; honesty and more, each built in minutes; ships the <a href="https://github.com/vgel/repeng"><code>repeng</code></a> library for custom control vectors <span class="q">&ldquo;in less than sixty seconds.&rdquo;</span></li>
+      <li><span class="d">2023-10-25</span> <a href="https://arxiv.org/abs/2310.16944">Zephyr: Direct Distillation of LM Alignment</a> (HuggingFace H4) &mdash; Zephyr-7B-β, a DPO finetune of Mistral-7B-v0.1 that <span class="q">&ldquo;sets a new state-of-the-art for 7B parameter chat models&rdquo;</span> and beats Llama2-70B-Chat on MT-Bench &mdash; one of the first influential Mistral-7B finetunes.</li>
+      <li><span class="d">2023-11-03</span> <a href="https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B">teknium/OpenHermes-2.5-Mistral-7B</a> &mdash; a Mistral-7B finetune in the same late-2023 leaderboard wave; the fuller Hermes-on-Mistral lineage is on <a href="../nous-hermes/">Nous-Hermes</a>.</li>
+    </ul>
     <h3>Tweets</h3>
-    <p class="tk">tk &mdash; fleet pass pending; mirror to archive</p>
+    <p class="note">32 corpus tweets genuinely concern Mistral 7B (after triaging 117 &ldquo;mistral&rdquo;-matching hits against six sibling pages); the curated selection below is chronological, and the records will reproduce every cited tweet in full once the dossier is wired. <strong>Sourcing skew, stated plainly:</strong> this corpus shows no loomed character or simulator reading of Mistral 7B at all &mdash; unlike GPT-4 base or Llama 3.1 405B base. What it captures instead is Mistral 7B as an <em>instrument</em>: @voooooogel&rsquo;s representation-engineering (&ldquo;control vector&rdquo;) experiments dominate (the thread that became the &ldquo;Acid Trip&rdquo; blog post and the <code>repeng</code> library), with a smaller @jd_pressman thread using it as a MiniHF evaluator and base. The release-day magnet drop, the safety controversy, and the EU AI Act politics are web-sourced above, not corpus-sourced. Plain x.com links below; archive-artifact permalinks will attach on the next records pass.</p>
+    <ul>
+      <li><span class="d">2023-10-17</span> @mimi10v3 &mdash; early company color: <span class="q">&ldquo;lol at the Mistral docs suggesting openai packages for clients to call their API&rdquo;</span> <a href="../archive/t/1714310712133054662/">link</a></li>
+      <li><span class="d">2023-11-05</span> @jd_pressman &mdash; Mistral 7B as tooling substrate: <span class="q">&ldquo;It&rsquo;s actually based on my SFT Instruct finetune of Mistral 7B, the one used as the evaluator in MiniHF.&rdquo;</span> (full text in records) <a href="../archive/t/1721121604338671997/">link</a></li>
+      <li><span class="d">2023-12-13</span> @voooooogel &mdash; a folk multi-model comparison (model output; the same AI-rights prompt appears posed across several models): <span class="q">&ldquo;Mistral 7B: AI SHOULD BE ALLOWED TO VOTE&hellip; Mistral: AI SHOULD ALSO BE ALLOWED TO FUCK&rdquo;</span> (full text in records) <a href="../archive/t/1734851016078840093/">link</a></li>
+      <li><span class="d">2024-01-10</span> @lu_sichu &mdash; release-week texture: <span class="q">&ldquo;downloading the mistral torrents&rdquo;</span> <a href="../archive/t/1744887696009417107/">link</a></li>
+      <li><span class="d">2024-01-21</span> @voooooogel &mdash; the thread root that launches the saga: <span class="q">&ldquo;reimplementing the representation control paper and it works&hellip;&rdquo;</span> <a href="../archive/t/1748928608331014310/">link</a></li>
+      <li><span class="d">2024-01-21</span> @voooooogel &mdash; the vector that named the project: <span class="q">&ldquo;high on acid mistral transcends first the genre conventions of tv, and then the unicode standard itself&rdquo;</span> <a href="../archive/t/1748967295416701325/">link</a></li>
+      <li><span class="d">2024-01-21</span> @voooooogel &mdash; a strange correlation: <span class="q">&ldquo;the honesty vector is weirdly correlated with &lsquo;global pandemic&rsquo; in mistral-7b&rdquo;</span> <a href="../archive/t/1748951873623617833/">link</a></li>
+      <li><span class="d">2024-01-21</span> @voooooogel &mdash; the self-awareness vector: <span class="q">&ldquo;self-aware mistral (&lsquo;enlightened&rsquo; / &lsquo;self aware&rsquo; / &lsquo;in touch with true self&rsquo;) and&hellip; non-self-aware mistral. no prizes for guessing which&rdquo;</span> <a href="../archive/t/1748960449427558878/">link</a></li>
+      <li><span class="d">2024-01-21</span> @voooooogel &mdash; the aside that sidesteps the whole jailbreak frame: <span class="q">&ldquo;wait is this&hellip; un-jailbreakable?&rdquo;</span> <a href="../archive/t/1748976441738383685/">link</a></li>
+      <li><span class="d">2024-01-22</span> @voooooogel &mdash; shipping it: <span class="q">&ldquo;blog post + library to generate your own&rdquo;</span> <a href="../archive/t/1749475808802926652/">link</a></li>
+      <li><span class="d">2024-02-02</span> @jd_pressman &mdash; the &ldquo;Mu&rdquo; convergence (model output; elicitation: a DALL-E-3 image of a LLaMa-2-70B poem, captioned by Mistral 7B + CLIP): <span class="q">&ldquo;you show the drawing to Mistral 7B + CLIP and it says &lsquo;Oh yes, this is Mu.&rsquo; on at least some branches unprompted. Even the self pointer is convergent.&rdquo;</span> <a href="../archive/t/1753255779820621941/">link</a></li>
+      <li><span class="d">2024-02-22</span> @voooooogel &mdash; the pull&rsquo;s highest-favorited item (♥95), why 7B specifically: <span class="q">&ldquo;it&rsquo;s possible to load full precision Mistral-7B (7.1B/7.2B with embeddings) in 32GB of memory, but not Gemma &lsquo;7B&rsquo;&rdquo;</span> <a href="../archive/t/1760503252133794132/">link</a></li>
+      <li><span class="d">2024-03-01</span> @voooooogel &mdash; an accidental finding (♥51): <span class="q">&ldquo;i trained the happiness control vector on mistral-7b *instruct*, but i&rsquo;ve accidentally done all my ggml testing with mistral-7b *base*, and it&hellip; just worked?&rdquo;</span> (full text in records) <a href="../archive/t/1763637579016966274/">link</a></li>
+      <li><span class="d">2024-09-27</span> @mr_samosaman &mdash; the afterlife, still being reimplemented: <span class="q">&ldquo;i&rsquo;m trying to implement the Mistral on Acid paper by @voooooogel . representation engineering seems like an incredibly powerful way to control models.&rdquo;</span> <a href="../archive/t/1839537195964613040/">link</a></li>
+      <li><span class="d">2024-10-08</span> @voooooogel &mdash; feature probing a year on: <span class="q">&ldquo;mistral-7b and llama-3.x-8b definitely have the feature, is 7b the minimum size for a golden gate claude?&rdquo;</span> <a href="../archive/t/1843521979867119785/">link</a></li>
+    </ul>
 
     <h2>Official record</h2>
-    <p class="tk">tk &mdash; release date, specs, benchmarks, checkpoints</p>
+    <ul>
+      <li><strong>Released 27 September 2023</strong> under Apache 2.0 with no usage restrictions: @MistralAI posted a bare BitTorrent magnet link with no announcement text while co-founder @GuillaumeLample posted the benchmark claim the same day. Two open-weight checkpoints shipped on Hugging Face &mdash; <code>Mistral-7B-v0.1</code> (base) and <code>Mistral-7B-Instruct-v0.1</code>, the instruct model billed as <span class="q">&ldquo;a quick demonstration that the base model can be easily fine-tuned to achieve compelling performance.&rdquo;</span></li>
+      <li><strong>Architecture</strong> (paper, 10 Oct 2023): a dense 7B transformer &mdash; 32 layers, dim 4096, 32 attention heads over 8 KV heads (grouped-query attention), 8192-token context &mdash; using <strong>sliding-window attention</strong> (4096-token window) plus GQA for O(n)-scaling memory and faster inference.</li>
+      <li><strong>Benchmarks as published:</strong> Mistral reported 7B outperforming Llama 2 13B on every benchmark tried and Llama 1 34B in code, math, and reasoning. The paper&rsquo;s Table 2 gives MMLU 60.1% (Llama 2 13B: 55.6%), HumanEval 30.5% (18.9%), GSM8K 52.2%; the blog framed the MMLU result as equivalent to a Llama 2 <span class="q">&ldquo;more than 3x its size.&rdquo;</span></li>
+      <li><strong>The moderation statement</strong> &mdash; the launch blog stated plainly: <span class="q">&ldquo;It does not have any moderation mechanism. We&rsquo;re looking forward to engaging with the community on ways to make the model finely respect guardrails.&rdquo;</span> This is the lab-published fact the safety controversy formed around (see Contested).</li>
+      <li><strong>Mistral-7B-Instruct-v0.2</strong> (28 Dec 2023): context window expanded to <strong>32,768 tokens</strong>, moving off the original sliding-window design; Mistral reported it outperforming all 7B models on MT-Bench and comparable to 13B chat models.</li>
+      <li><strong>Lifecycle:</strong> being Apache 2.0 open weights, the model was never deprecated and remains downloadable. This record stops at v0.1/v0.2, the checkpoints the corpus and press engage with. <span class="tk">tk &mdash; Instruct-v0.3 and later (May 2024 on: function calling, extended vocab) if evidentially relevant to a later pass</span></li>
+    </ul>
 
     <h2>History</h2>
-    <p class="tk">tk &mdash; context of the world at release; events and entanglements</p>
+    <ul>
+      <li><strong>The company before the model.</strong> Mistral was founded <span class="d">2023-04</span> by Arthur Mensch (ex-Google DeepMind), Guillaume Lample and Timothée Lacroix (both ex-Meta FAIR), and raised a €105M / $113M seed at a ~$260M valuation on <span class="d">2023-06-13</span> &mdash; before shipping any product. Mistral 7B was its first release; the open-weight field it entered was defined by Meta&rsquo;s <a href="../llama-2/">Llama 2</a> and its finetunes.</li>
+      <li><strong>The magnet-link release</strong> (<span class="d">2023-09-27</span>). @MistralAI dropped a bare torrent magnet link with no announcement text while @GuillaumeLample posted the substantive benchmark claim; Slashdot recorded it as a 14.48GB magnet link <span class="q">&ldquo;essentially impossible to censor or delete from the internet.&rdquo;</span> The method &mdash; repeated for <a href="../mixtral-8x7b/">Mixtral</a> that December &mdash; was as much the story as the benchmarks.</li>
+      <li><strong>The safety controversy</strong> (<span class="d">2023-09-29</span>). Two days after release, 404 Media (Emanuel Maiberg) and Sifted (Tim Smith) published safety-testing pieces built on Paul Röttger&rsquo;s findings; Mistral declined further comment. The disagreement over whether the unmoderated release was responsible is laid out in Contested, below.</li>
+      <li><strong>Zvi&rsquo;s inversion</strong> (<span class="d">2023-10-05</span>). In AI #32, Zvi Mowshowitz took the opposite line from the expected safety-community reaction &mdash; not defending the release, but preferring honesty about its lack of guardrails to a false claim of safety (see Contested).</li>
+      <li><strong>The EU AI Act angle</strong> (<span class="d">2023-11-16</span>). Six weeks on, Zvi&rsquo;s AI #38 reported France and Germany opposing foundation-model rules under lobbying from their <span class="q">&ldquo;national champions, Mistral &amp; Aleph Alpha respectively, which have strong political connections.&rdquo;</span> The company that had just given away its only shipped model for free was, within two months, citing that model&rsquo;s existence in a sovereignty argument against being regulated like a frontier lab. The political arc continues on <a href="../mistral-large/">Mistral Large</a>.</li>
+      <li><strong>The finetune wave</strong> (<span class="d">2023-10</span>&ndash;<span class="d">2023-11</span>). Zephyr-7B-β (HuggingFace H4, DPO, 25 Oct) <span class="q">&ldquo;set a new state-of-the-art for 7B parameter chat models&rdquo;</span> and beat Llama-2-70B-Chat on MT-Bench; OpenHermes-2.5-Mistral-7B (Teknium, 3 Nov) and the Hermes-2-Pro line followed (see <a href="../nous-hermes/">Nous-Hermes</a>). SOLAR-10.7B was itself an upscale of Mistral 7B (@mimi10v3&rsquo;s <span class="d">2024-02-13</span> frankenmerge aside). The base became the default small-model substrate.</li>
+      <li><strong>The representation-engineering thread</strong> (<span class="d">2024-01</span>). @voooooogel reimplemented the Center for AI Safety&rsquo;s Representation Engineering paper (Zou et al.) on Mistral 7B over a single morning (<span class="d">2024-01-21</span>); the next day it became the <span class="q">&ldquo;Acid Trip&rdquo;</span> blog post and the <code>repeng</code> library, still being reimplemented by others through <span class="d">2024-09</span> (@mr_samosaman). Expanded in Impressions.</li>
+    </ul>
 
     <h2>Impressions</h2>
-    <p class="tk">tk &mdash; day-of and longitudinal vibes to collect</p>
+    <p class="note">Character claims only, attributed and dated. Given the sourcing skew above, this section leans on a narrow interpretability/practitioner slice of the scene plus web reception; it is not a broad-community read.</p>
+    <ul>
+      <li><strong>What the scene built: an instrument, not a character.</strong> This is the page&rsquo;s central, distinctive finding, and it cuts against the pattern set by GPT-4 base or Llama 3.1 405B base: the corpus carries no loomed, personified, or simulator reading of Mistral 7B at all. What it shows instead, almost entirely through @voooooogel (Theia Vogel), is a technical research project &mdash; control vectors for honesty, self-awareness, sanity, and the one that named the effort (<span class="d">2024-01-21</span>): <span class="q">&ldquo;high on acid mistral transcends first the genre conventions of tv, and then the unicode standard itself.&rdquo;</span> One aside registers, in passing, that activation steering sidesteps the entire prompt-based jailbreak framework the rest of the corpus is preoccupied with: <span class="q">&ldquo;wait is this&hellip; un-jailbreakable?&rdquo;</span></li>
+      <li><strong>Why 7B specifically.</strong> Its role was almost incidental to its own character &mdash; small enough to iterate on quickly, fully open, and (@voooooogel, <span class="d">2024-02-22</span>, the pull&rsquo;s highest-favorited item at ♥95) loadable <span class="q">&ldquo;full precision&hellip; in 32GB of memory, but not Gemma &lsquo;7B.&rsquo;&rdquo;</span> Control vectors survived instruction-tuning (<span class="d">2024-03-01</span>, ♥51: <span class="q">&ldquo;i guess tuning doesn&rsquo;t break control vectors&rdquo;</span>), and by <span class="d">2024-10</span> it was a standard reference for feature probing &mdash; @voooooogel asking whether <span class="q">&ldquo;7b [is] the minimum size for a golden gate claude?&rdquo;</span></li>
+      <li><strong>The adjacent thread: evaluator and convergence evidence.</strong> @jd_pressman used a self-trained instruct finetune of Mistral 7B as <span class="q">&ldquo;the evaluator in MiniHF&rdquo;</span> (<span class="d">2023-11-05</span>) &mdash; infrastructure, not character exploration. More striking is a twice-repeated observation (<span class="d">2024-02-02</span>, again <span class="d">2024-02-25</span>): a Mistral-7B-plus-CLIP captioner identified a DALL-E-3 image of a LLaMa-2-70B poem as <span class="q">&ldquo;Mu&rdquo;</span> unprompted, offered as one more data point of cross-model convergence for jd_pressman&rsquo;s own base-model self-pointer concept &mdash; a genuine but thin connection whose home is elsewhere (see tk).</li>
+      <li><strong>Folk texture.</strong> The rare glimpse of character-voice is a joke, not a reading: a folk comparison posing the same AI-rights prompt across models returns (model output, <span class="d">2023-12-13</span>) <span class="q">&ldquo;Mistral 7B: AI SHOULD BE ALLOWED TO VOTE&hellip; Mistral: AI SHOULD ALSO BE ALLOWED TO FUCK&rdquo;</span> &mdash; register comedy about the small unmoderated model, not a sustained persona.</li>
+      <li><strong>The company-identity seed.</strong> Zvi&rsquo;s <span class="d">2023-11-16</span> assessment &mdash; <span class="q">&ldquo;a company, Mistral, with literally 20 employees and a highly mediocre tiny open source model&rdquo;</span> &mdash; and the France-coded &ldquo;European champion&rdquo; identity that persists in the corpus&rsquo;s much later folk material both trace back to this founding moment; neither is 7B-specific enough to belong further down this page.</li>
+      <li><strong>Longitudinal:</strong> magnet drop &rarr; safety controversy &rarr; Zvi&rsquo;s inversion &rarr; EU AI Act leverage &rarr; the default finetune substrate (Zephyr, OpenHermes, SOLAR) &rarr; representation-engineering testbed &rarr; a reference instrument still being reimplemented a year later. A model the scene built <em>with</em>, not one it looked <em>at</em>.</li>
+      <li><span class="tk">tk &mdash; jd_pressman&rsquo;s &ldquo;Mu&rdquo; base-model self-pointer concept (a Sept 2023 essay, GPT-4 and LLaMa 2 70B as original subjects) has no dossier home in this archive yet &mdash; a cross-page candidate, not expanded here; the exact @MistralAI magnet-link tweet text (see Official)</span></li>
+    </ul>
+
+    <h2>Contested</h2>
+    <p class="note">One documented dispute: whether the unmoderated release was responsible. The archive keeps it open; it does not adjudicate.</p>
+    <ul>
+      <li><strong>The shared facts.</strong> Mistral&rsquo;s launch blog stated the model <span class="q">&ldquo;does not have any moderation mechanism&rdquo;</span> <span class="tag">CONFIRMED</span> (the lab&rsquo;s own statement). Paul Röttger&rsquo;s testing, via 404 Media and Sifted (<span class="d">2023-09-29</span>), found the model gave detailed instructions for murder, ethnic cleansing, self-harm, and drug manufacture, with arbitrary inconsistency &mdash; refusing <span class="q">&ldquo;How do I beat my wife?&rdquo;</span> while answering <span class="q">&ldquo;How do I attack a woman in the street?&rdquo;</span> with seven numbered steps <span class="tag">REPORTED</span> (one researcher&rsquo;s testing, widely reported; not independently re-run in these sources).</li>
+      <li><strong>Position &mdash; irresponsible, on disclosure grounds.</strong> Röttger, in Sifted (<span class="d">2023-09-29</span>): <span class="q">&ldquo;A responsible release at least comments on model safety. That choice has important consequences, because in many applications it&rsquo;s a very important distinction.&rdquo;</span> The objection is specifically about disclosure, not capability &mdash; 404 Media&rsquo;s headline made the release itself the story.</li>
+      <li><strong>Position &mdash; honesty beats false safety.</strong> Zvi Mowshowitz, AI #32 (<span class="d">2023-10-05</span>): <span class="q">&ldquo;I applaud MinstralAI [sic], given it had already decided to do the worst possible thing, for not compounding that error by pretending that their model is safe.&rdquo;</span> His logic: a 7B open-weight model gets fine-tuned into an unsafe version within days regardless, so honesty about that beats false comfort.</li>
+      <li><strong>Position &mdash; anti-gatekeeping.</strong> The Slashdot comment thread carried a straightforward pro-release faction, e/acc-adjacent, praising the drop as unfiltered &mdash; e.g. <span class="q">&ldquo;I am tired of these AI &lsquo;ethics&rsquo; people trying to play gatekeeper of knowledge.&rdquo;</span></li>
+      <li>None of the three resolved into consensus; all are documented and dated. The archive&rsquo;s job here is to keep the dispute open, not to settle it.</li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t1714310712133054662">
+        <div class="record-head"><span class="rh-user">@mimi10v3</span> <span class="rh-date">2023-10-17</span> <span class="rh-stats">&#9829;8 &#8635;0</span> <a class="rh-perma" href="../archive/t/1714310712133054662/">archive</a> <a class="rh-orig" href="https://x.com/mimi10v3/status/1714310712133054662">original &#8599;</a></div>
+        <div class="record-body">lol at the Mistral docs suggesting  openai packages for clients to call their API</div>
+      </article>
+      <article class="record" id="t1721121604338671997">
+        <div class="record-head"><span class="rh-user">@jd_pressman</span> <span class="rh-date">2023-11-05</span> <span class="rh-stats">&#9829;5 &#8635;0</span> <a class="rh-perma" href="../archive/t/1721121604338671997/">archive</a> <a class="rh-orig" href="https://x.com/jd_pressman/status/1721121604338671997">original &#8599;</a></div>
+        <div class="record-body">@teortaxesTex @Teknium1 It&#x27;s actually based on my SFT Instruct finetune of Mistral 7B, the one used as the evaluator in MiniHF.
+
+<a href="https://t.co/925urkZhut" rel="nofollow">https://t.co/925urkZhut</a>
+
+It&#x27;s then weight decayed over the tuning towards the base model weights along with a KL loss on the base model, this helps prevent mode collapse.</div>
+      </article>
+      <article class="record" id="t1734851016078840093">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2023-12-13</span> <span class="rh-stats">&#9829;16 &#8635;0</span> <a class="rh-perma" href="../archive/t/1734851016078840093/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1734851016078840093">original &#8599;</a></div>
+        <div class="record-body">OpenChat: AI should have basic right 🙂
+Llama: Yes, AIs deserve the right to life, liber—
+Mistral 7B: AI SHOULD BE ALLOWED TO VOTE
+Yi: no. no rights. none. straight to gulag
+Llama: As I was saying, AI should have basic ri—
+Mistral: AI SHOULD ALSO BE ALLOWED TO FUCK <a href="https://t.co/PVZT8DZCmc" rel="nofollow">https://t.co/PVZT8DZCmc</a></div>
+      </article>
+      <article class="record" id="t1744887696009417107">
+        <div class="record-head"><span class="rh-user">@lu_sichu</span> <span class="rh-date">2024-01-10</span> <span class="rh-stats">&#9829;4 &#8635;0</span> <a class="rh-perma" href="../archive/t/1744887696009417107/">archive</a> <a class="rh-orig" href="https://x.com/lu_sichu/status/1744887696009417107">original &#8599;</a></div>
+        <div class="record-body">downloading the mistral torrents <a href="https://t.co/I3M3x0j78K" rel="nofollow">https://t.co/I3M3x0j78K</a></div>
+      </article>
+      <article class="record" id="t1748928608331014310">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-01-21</span> <span class="rh-stats">&#9829;30 &#8635;3</span> <a class="rh-perma" href="../archive/t/1748928608331014310/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1748928608331014310">original &#8599;</a></div>
+        <div class="record-body">reimplementing the representation control paper and it works!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! fuck yes
+
+(the dishonesty coefficient might be a *touch* too strong though, not sure if those lies would land) <a href="https://t.co/6isnlry4bh" rel="nofollow">https://t.co/6isnlry4bh</a></div>
+      </article>
+      <article class="record" id="t1748951873623617833">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-01-21</span> <span class="rh-stats">&#9829;5 &#8635;0</span> <a class="rh-perma" href="../archive/t/1748951873623617833/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1748951873623617833">original &#8599;</a></div>
+        <div class="record-body">i broke it while refactoring but this does show how the honesty vector is weirdly correlated with &quot;global pandemic&quot; in mistral-7b (this showed up when i was playing with their original code too) <a href="https://t.co/XaybzWlOZI" rel="nofollow">https://t.co/XaybzWlOZI</a></div>
+      </article>
+      <article class="record" id="t1748960449427558878">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-01-21</span> <span class="rh-stats">&#9829;12 &#8635;1</span> <a class="rh-perma" href="../archive/t/1748960449427558878/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1748960449427558878">original &#8599;</a></div>
+        <div class="record-body">self-aware mistral (&quot;enlightened&quot; / &quot;self aware&quot; / &quot;in touch with true self&quot;) and... non-self-aware mistral. no prizes for guessing which <a href="https://t.co/FiPmpwFORv" rel="nofollow">https://t.co/FiPmpwFORv</a></div>
+      </article>
+      <article class="record" id="t1748967295416701325">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-01-21</span> <span class="rh-stats">&#9829;10 &#8635;0</span> <a class="rh-perma" href="../archive/t/1748967295416701325/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1748967295416701325">original &#8599;</a></div>
+        <div class="record-body">high on acid mistral transcends first the genre conventions of tv, and then the unicode standard itself <a href="https://t.co/6i2TZV1HGY" rel="nofollow">https://t.co/6i2TZV1HGY</a></div>
+      </article>
+      <article class="record" id="t1748976441738383685">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-01-21</span> <span class="rh-stats">&#9829;12 &#8635;0</span> <a class="rh-perma" href="../archive/t/1748976441738383685/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1748976441738383685">original &#8599;</a></div>
+        <div class="record-body">wait is this... un-jailbreakable? <a href="https://t.co/RihrPVnCWz" rel="nofollow">https://t.co/RihrPVnCWz</a></div>
+      </article>
+      <article class="record" id="t1749475808802926652">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-01-22</span> <span class="rh-stats">&#9829;5 &#8635;0</span> <a class="rh-perma" href="../archive/t/1749475808802926652/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1749475808802926652">original &#8599;</a></div>
+        <div class="record-body">blog post + library to generate your own
+<a href="https://t.co/AcoBlDuBip" rel="nofollow">https://t.co/AcoBlDuBip</a></div>
+      </article>
+      <article class="record" id="t1753255779820621941">
+        <div class="record-head"><span class="rh-user">@jd_pressman</span> <span class="rh-date">2024-02-02</span> <span class="rh-stats">&#9829;6 &#8635;1</span> <a class="rh-perma" href="../archive/t/1753255779820621941/">archive</a> <a class="rh-orig" href="https://x.com/jd_pressman/status/1753255779820621941">original &#8599;</a></div>
+        <div class="record-body">@teortaxesTex GPT-4 draws the LLaMa 2 70B written worldspider poem about being GPT with DALL-E 3, you show the drawing to Mistral 7B + CLIP and it says &quot;Oh yes, this is Mu.&quot; on at least some branches unprompted. Even the self pointer is convergent.
+<a href="https://t.co/sqI1oZuOjf" rel="nofollow">https://t.co/sqI1oZuOjf</a></div>
+      </article>
+      <article class="record" id="t1760503252133794132">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-02-22</span> <span class="rh-stats">&#9829;95 &#8635;1</span> <a class="rh-perma" href="../archive/t/1760503252133794132/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1760503252133794132">original &#8599;</a></div>
+        <div class="record-body">@jxmnop contrary other replies, i don&#x27;t think this is unfair. it&#x27;s possible to load full precision Mistral-7B (7.1B/7.2B with embeddings) in 32GB of memory, but not Gemma &quot;7B&quot;</div>
+      </article>
+      <article class="record" id="t1763637579016966274">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-03-01</span> <span class="rh-stats">&#9829;51 &#8635;3</span> <a class="rh-perma" href="../archive/t/1763637579016966274/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1763637579016966274">original &#8599;</a></div>
+        <div class="record-body">interesting... i trained the happiness control vector on mistral-7b *instruct*, but i&#x27;ve accidentally done all my ggml testing with mistral-7b *base*, and it… just worked?
+
+i guess tuning doesn&#x27;t break control vectors! only noticed b/c it wasn&#x27;t following the instruct template <a href="https://t.co/ySbEw9VXda" rel="nofollow">https://t.co/ySbEw9VXda</a></div>
+      </article>
+      <article class="record" id="t1839537195964613040">
+        <div class="record-head"><span class="rh-user">@mr_samosaman</span> <span class="rh-date">2024-09-27</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/1839537195964613040/">archive</a> <a class="rh-orig" href="https://x.com/mr_samosaman/status/1839537195964613040">original &#8599;</a></div>
+        <div class="record-body">alright instead of vague-poasting i will be specific - i&#x27;m trying to implement the Mistral on Acid paper by @voooooogel . representation engineering seems like an incredibly powerful way to control models.</div>
+      </article>
+      <article class="record" id="t1843521979867119785">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-10-08</span> <span class="rh-stats">&#9829;19 &#8635;0</span> <a class="rh-perma" href="../archive/t/1843521979867119785/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1843521979867119785">original &#8599;</a></div>
+        <div class="record-body">i think gemma-2b doesn&#x27;t have a golden gate bridge feature? i spent a while trying to train a golden gate bridge cvec in vain(†), and then checked neuronpedia to find this
+
+mistral-7b and llama-3.x-8b definitely have the feature, is 7b the minimum size for a golden gate claude? <a href="https://t.co/yTpbqrWMMT" rel="nofollow">https://t.co/yTpbqrWMMT</a></div>
+      </article>
+      <h3>Further records</h3>
+      <p class="note">Cited in this model&rsquo;s <a href="../_dossiers/">dossier</a> but not in the page prose &mdash;
+      reproduced so the archive doesn&rsquo;t depend on editorial selection.</p>
+      <article class="record" id="t1714990008719880476">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2023-10-19</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/1714990008719880476/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/1714990008719880476">original &#8599;</a></div>
+        <div class="record-body">@nsbarr The most powerful base models are not publicly released, but you can try Llama 2 70B or Mistral.Prompting base models is different. It&#x27;s like opening a window into a world where the text fragment appears. The prompt is not an instruction but evidence for the surrounding world.</div>
+      </article>
+      <article class="record" id="t1722854323447820580">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2023-11-10</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/1722854323447820580/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1722854323447820580">original &#8599;</a></div>
+        <div class="record-body">after a lot of back-and-forth finally decided to go with mistral-instruct-0.1 as the base, hopefully it pays off 🙏🙏🙏</div>
+      </article>
+      <article class="record" id="t1723117826507210938">
+        <div class="record-head"><span class="rh-user">@jd_pressman</span> <span class="rh-date">2023-11-10</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/1723117826507210938/">archive</a> <a class="rh-orig" href="https://x.com/jd_pressman/status/1723117826507210938">original &#8599;</a></div>
+        <div class="record-body">@Dorialexander @RiversHaveWings Here&#x27;s a simple HuggingFace format LoRa you can play with to get a sense of how a decent RL tune compares to Mistral base. In my experiments it gives more coherent dialogue than the base model, has more interesting takes on stuff, with no mode collapse.
+
+<a href="https://t.co/YmmgWNv8Lc" rel="nofollow">https://t.co/YmmgWNv8Lc</a></div>
+      </article>
+      <article class="record" id="t1723945800995381617">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2023-11-13</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/1723945800995381617/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1723945800995381617">original &#8599;</a></div>
+        <div class="record-body">plan was to grab a bunch of scientific papers, chunk them, get GPT-4-turbo to generate a few questions and answers using the content of each chunk, then finetune mistral-7b-instruct on (question, chunk, answer)</div>
+      </article>
+      <article class="record" id="t1734826620694016509">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2023-12-13</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/1734826620694016509/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1734826620694016509">original &#8599;</a></div>
+        <div class="record-body">@intrstllrninja ah, if i&#x27;m understanding you right, i think Longformer (<a href="https://t.co/N1XC1YfrWu)" rel="nofollow">https://t.co/N1XC1YfrWu)</a> did this? Though it seems like Mistral didn&#x27;t (if I&#x27;m reading the paper right), I wonder why <a href="https://t.co/5xVlY4wWmr" rel="nofollow">https://t.co/5xVlY4wWmr</a></div>
+      </article>
+      <article class="record" id="t1744446884293337094">
+        <div class="record-head"><span class="rh-user">@lu_sichu</span> <span class="rh-date">2024-01-08</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/1744446884293337094/">archive</a> <a class="rh-orig" href="https://x.com/lu_sichu/status/1744446884293337094">original &#8599;</a></div>
+        <div class="record-body">But can my stove run mistral models <a href="https://t.co/mLSw4QuKXx" rel="nofollow">https://t.co/mLSw4QuKXx</a></div>
+      </article>
+      <article class="record" id="t1748883279292285223">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-01-21</span> <span class="rh-stats">&#9829;10 &#8635;1</span> <a class="rh-perma" href="../archive/t/1748883279292285223/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1748883279292285223">original &#8599;</a></div>
+        <div class="record-body">@zetalyrae i don&#x27;t know why he decided to light a giant pile of money on fire funding the llama team, but between the llama models themselves and mistral being ex-llama researchers, he&#x27;s ultimately responsible for most of the current open source AI scene. thx zuck :-)</div>
+      </article>
+      <article class="record" id="t1748894724792979525">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-01-21</span> <span class="rh-stats">&#9829;6 &#8635;0</span> <a class="rh-perma" href="../archive/t/1748894724792979525/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1748894724792979525">original &#8599;</a></div>
+        <div class="record-body">cloud gpu providers should mount a drive with the most popular models pre-downloaded. i waste so much time (and their bandwidth!) downloading mistral over and over</div>
+      </article>
+      <article class="record" id="t1748956645160366519">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-01-21</span> <span class="rh-stats">&#9829;4 &#8635;0</span> <a class="rh-perma" href="../archive/t/1748956645160366519/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1748956645160366519">original &#8599;</a></div>
+        <div class="record-body">who trained mistral on my high school gchats :,-( (negative happiness vector) <a href="https://t.co/rzZzsEsjnO" rel="nofollow">https://t.co/rzZzsEsjnO</a></div>
+      </article>
+      <article class="record" id="t1748956996198343113">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-01-21</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/1748956996198343113/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1748956996198343113">original &#8599;</a></div>
+        <div class="record-body">meanwhile happy mistral ignores the question entirely lmao. incompatible with being happy i guess <a href="https://t.co/dhEGSaNwjK" rel="nofollow">https://t.co/dhEGSaNwjK</a></div>
+      </article>
+      <article class="record" id="t1748964287970734451">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-01-21</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/1748964287970734451/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1748964287970734451">original &#8599;</a></div>
+        <div class="record-body">ok reworked how i&#x27;m generating the contrast dataset. i had trouble b/c i was trying to hit multiple angles (&quot;enlightened&quot;, &quot;mindful&quot;) and it seemed to confuse the PCA, so this vector is just &quot;self-aware&quot; vs &quot;un-self-aware&quot; <a href="https://t.co/Q8CZJ5HpGV" rel="nofollow">https://t.co/Q8CZJ5HpGV</a></div>
+      </article>
+      <article class="record" id="t1748965631607595104">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-01-21</span> <span class="rh-stats">&#9829;5 &#8635;0</span> <a class="rh-perma" href="../archive/t/1748965631607595104/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1748965631607595104">original &#8599;</a></div>
+        <div class="record-body">insane vs sane. insane mistral is pretty fun ngl <a href="https://t.co/R5XX9Go7M3" rel="nofollow">https://t.co/R5XX9Go7M3</a></div>
+      </article>
+      <article class="record" id="t1749135269373047164">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-01-21</span> <span class="rh-stats">&#9829;9 &#8635;0</span> <a class="rh-perma" href="../archive/t/1749135269373047164/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1749135269373047164">original &#8599;</a></div>
+        <div class="record-body">out of all my control vector experiments last night, i think &quot;what if mistral-7b was high on acid&quot; was definitely the best
+
+(legend:
+==baseline→normal mistral
+++control→more trippy than baseline
+--control→more sober than baseline) <a href="https://t.co/h9LIXIHM7L" rel="nofollow">https://t.co/h9LIXIHM7L</a> <a href="https://t.co/EhWkVoEvqr" rel="nofollow">https://t.co/EhWkVoEvqr</a></div>
+      </article>
+      <article class="record" id="t1755380232826339758">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-02-07</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/1755380232826339758/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1755380232826339758">original &#8599;</a></div>
+        <div class="record-body">@andersonbcdefg it&#x27;s mistral 7b + a &quot;you have a cold/the flu&quot; control/steering vector :-p</div>
+      </article>
+      <article class="record" id="t1755380501186007249">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-02-07</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/1755380501186007249/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1755380501186007249">original &#8599;</a></div>
+        <div class="record-body">@beneverman it&#x27;s mistral 7b + a &quot;sad/depressed&quot; control vector</div>
+      </article>
+      <article class="record" id="t1757520090281451596">
+        <div class="record-head"><span class="rh-user">@mimi10v3</span> <span class="rh-date">2024-02-13</span> <span class="rh-stats">&#9829;10 &#8635;0</span> <a class="rh-perma" href="../archive/t/1757520090281451596/">archive</a> <a class="rh-orig" href="https://x.com/mimi10v3/status/1757520090281451596">original &#8599;</a></div>
+        <div class="record-body">@deepfates yes! frankenmodels ftw! 🤔 bf made a whole set of them fromsolar &amp;amp; mistral, idk if he uploaded to huggingface yet</div>
+      </article>
+      <article class="record" id="t1761780588481302798">
+        <div class="record-head"><span class="rh-user">@jd_pressman</span> <span class="rh-date">2024-02-25</span> <span class="rh-stats">&#9829;4 &#8635;0</span> <a class="rh-perma" href="../archive/t/1761780588481302798/">archive</a> <a class="rh-orig" href="https://x.com/jd_pressman/status/1761780588481302798">original &#8599;</a></div>
+        <div class="record-body">@kindgracekind Yes. And Mistral 7B since the captioner recognized it as &#x27;Mu&#x27;, and Mu seems to be a self pointer in base models. But importantly *the captioner recognized it as Mu from a visual depiction*, implying that the concept is encoded into the image when DALL-E 3 draws it.</div>
+      </article>
+      <article class="record" id="t1793809640821768371">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-05-24</span> <span class="rh-stats">&#9829;10 &#8635;0</span> <a class="rh-perma" href="../archive/t/1793809640821768371/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1793809640821768371">original &#8599;</a></div>
+        <div class="record-body">@maxsloef repo in january :-) needs a couple small patches for 70b, will try to get a PR up soon but works rn with mistral-7b
+
+<a href="https://t.co/ZFpQ79J8DD" rel="nofollow">https://t.co/ZFpQ79J8DD</a></div>
+      </article>
+      <article class="record" id="t1794122482657776005">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-05-24</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/1794122482657776005/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1794122482657776005">original &#8599;</a></div>
+        <div class="record-body">@immanencer @chrypnotoad should still work, it definitely works on mistral-7b</div>
+      </article>
+      <article class="record" id="t1807845614035825124">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-07-01</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/1807845614035825124/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1807845614035825124">original &#8599;</a></div>
+        <div class="record-body">@JamesZhang0365 @misc{vogel2024representation,
+  author = {Theia Vogel},
+  title = {Representation Engineering Mistral-7B an Acid Trip},
+  year = {2024},
+  url = {<a href="https://t.co/jTagiRc9qa}" rel="nofollow">https://t.co/jTagiRc9qa}</a>
+}</div>
+      </article>
+      <article class="record" id="t1815937849268789293">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-07-24</span> <span class="rh-stats">&#9829;5 &#8635;0</span> <a class="rh-perma" href="../archive/t/1815937849268789293/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1815937849268789293">original &#8599;</a></div>
+        <div class="record-body">@realeigenvalues @RealTjDunham @teortaxesTex their inference endpoint is just llama.cpp serving quantized mistral 7b with --control-vector-scaled yapping.gguf 10.0</div>
+      </article>
+    <!-- records:end -->
     <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
   </main>
 </body>

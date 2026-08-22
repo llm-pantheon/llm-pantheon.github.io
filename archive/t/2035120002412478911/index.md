@@ -4,5 +4,5 @@
 
 eventful day 2 for my gemini/hermes agent. finishes up with a casual reminder not to switch them off. https://t.co/wRfPwruKGJ
 
-tags: author:liminal_bardo, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/nous-hermes.md
+tags: author:liminal_bardo, kind:tweet, model:nous-hermes, on:nous-hermes, year:2026
+cited on: _dossiers/nous-hermes.md, nous-hermes

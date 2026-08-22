@@ -4,5 +4,5 @@
 
 @Teknium @abrakjamson been keeping an eye on you guys, hermes agent is v cool
 
-tags: author:voooooogel, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/nous-hermes.md
+tags: author:voooooogel, kind:tweet, model:nous-hermes, on:nous-hermes, year:2026
+cited on: _dossiers/nous-hermes.md, nous-hermes

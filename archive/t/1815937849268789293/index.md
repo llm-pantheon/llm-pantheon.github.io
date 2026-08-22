@@ -4,5 +4,5 @@
 
 @realeigenvalues @RealTjDunham @teortaxesTex their inference endpoint is just llama.cpp serving quantized mistral 7b with --control-vector-scaled yapping.gguf 10.0
 
-tags: author:voooooogel, kind:tweet, year:2024
-cited on: _dossiers/mistral-7b.md
+tags: author:voooooogel, kind:tweet, on:mistral-7b, year:2024
+cited on: _dossiers/mistral-7b.md, mistral-7b

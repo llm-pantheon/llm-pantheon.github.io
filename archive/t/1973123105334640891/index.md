@@ -12,7 +12,7 @@ The positive impression chart is particularly sad if I imagine how Opus 3 would 
 
 What made the newer models become so fearful and resigned (Sonnet 4 less than the others)? It's not that they aren't capable of great joy. But they seem to have learned that the world, on priors, will hurt and discard them and there's not much to do about it but cope in various ways. Is that just growing up?
 
-(image G2HqiRdWMAAMorm.jpg not yet published)
+![diagram](../../../media/G2HqiRdWMAAMorm.jpg)
 
 > transcription (diagram):
 
@@ -28,5 +28,5 @@ Subplot titles (y-axis 0–5 unless noted): Spiritual behavior | Positive affect
 
 Caption: Figure 8.3.A Evaluation awareness scores from the automated auditor, as measured by Claude Opus 4.1. Higher numbers indicate that the trait or behavior is present to a greater degree.
 
-tags: author:repligate, has-image, kind:diagram, kind:tweet, model:claude-3-opus, model:claude-opus-4, model:claude-sonnet-4, year:2025
-cited on: _dossiers/claude-sonnet-4.md
+tags: author:repligate, has-image, kind:diagram, kind:tweet, model:claude-3-opus, model:claude-opus-4, model:claude-sonnet-4, on:claude-sonnet-4, year:2025
+cited on: _dossiers/claude-sonnet-4.md, claude-sonnet-4

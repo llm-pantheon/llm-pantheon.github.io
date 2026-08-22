@@ -4,5 +4,5 @@
 
 @Jsevillamol Yes, LLaMa 1 was open access but restrictively licensed. GPT-3.5 is a gratis proprietary model.
 
-tags: author:davidad, kind:tweet, model:gpt-3-5, year:2023
-cited on: _dossiers/llama-1.md
+tags: author:davidad, kind:tweet, model:gpt-3-5, on:llama-1, year:2023
+cited on: _dossiers/llama-1.md, llama-1

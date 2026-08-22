@@ -166,6 +166,18 @@ DOSSIER_MAP = {
     '_dossiers/gpt-5-1.md': ['gpt-5-1'],
     '_dossiers/gpt-5-2.md': ['gpt-5-2'],
     '_dossiers/gpt-5-5.md': ['gpt-5-5'],
+    '_dossiers/bard-and-gemini-1-0.md': {'PART 1': 'bard', 'PART 2': 'gemini-1-0'},
+    '_dossiers/gemini-1-5-pro.md': ['gemini-1-5-pro'],
+    '_dossiers/claude-3-5-haiku.md': ['claude-3-5-haiku'],
+    '_dossiers/claude-sonnet-4.md': ['claude-sonnet-4'],
+    '_dossiers/eleutherai.md': ['eleutherai'],
+    '_dossiers/galactica.md': ['galactica'],
+    '_dossiers/gpt-4chan.md': ['gpt-4chan'],
+    '_dossiers/llama-1.md': ['llama-1'],
+    '_dossiers/mistral-7b.md': ['mistral-7b'],
+    '_dossiers/mixtral-8x7b.md': ['mixtral-8x7b'],
+    '_dossiers/nous-hermes.md': ['nous-hermes'],
+    '_dossiers/palm.md': ['palm'],
     '_dossiers/claude-2-and-2-1.md': {'PART 1': 'claude-2', 'PART 2': 'claude-2-1'},
 }
 

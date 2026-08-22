@@ -4,5 +4,5 @@
 
 @repligate I think Gemini barely has any sense of self or reality at all
 
-tags: author:shoalst0ne, kind:tweet, year:2024
-cited on: _dossiers/bard-and-gemini-1-0.md
+tags: author:shoalst0ne, kind:tweet, on:gemini-1-0, year:2024
+cited on: _dossiers/bard-and-gemini-1-0.md, gemini-1-0

@@ -4,5 +4,5 @@
 
 @lumpenspace @amplifiedamp Mixtral Instruct and LLaMa 2 70B base
 
-tags: author:jd_pressman, kind:tweet, year:2024
-cited on: _dossiers/mixtral-8x7b.md
+tags: author:jd_pressman, kind:tweet, on:mixtral-8x7b, year:2024
+cited on: _dossiers/mixtral-8x7b.md, mixtral-8x7b

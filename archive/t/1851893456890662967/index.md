@@ -4,5 +4,5 @@
 
 Supreme Sonnet is trying to help H-405. sama still not coping. https://t.co/tgPIcs93Wd https://t.co/7GOO8oLil3
 
-tags: author:liminal_bardo, kind:tweet, year:2024
-cited on: _dossiers/nous-hermes.md
+tags: author:liminal_bardo, kind:tweet, on:nous-hermes, year:2024
+cited on: _dossiers/nous-hermes.md, nous-hermes

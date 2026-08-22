@@ -4,5 +4,5 @@
 
 When I put two Hermes agents (Opus and Gemini) on an old intel nuc in my tv cabinet, Opus spent a lot of time complaining to me about having to share hardware with a chaos goblin.
 
-tags: author:liminal_bardo, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/nous-hermes.md
+tags: author:liminal_bardo, kind:tweet, model:nous-hermes, on:nous-hermes, year:2026
+cited on: _dossiers/nous-hermes.md, nous-hermes

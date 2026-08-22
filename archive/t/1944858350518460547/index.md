@@ -9,5 +9,5 @@
 - activating a non-standard but non-arbitrary attractor state in the model (like "you should die" mode in Gemini 1.5 or Claude 3 Opus in Dharma Bomber Memetic Mayhem mode)
 - combinations and interpolations of these, also many other types
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, year:2025
-cited on: _dossiers/gemini-1-5-pro.md
+tags: author:repligate, kind:tweet, model:claude-3-opus, on:gemini-1-5-pro, year:2025
+cited on: _dossiers/gemini-1-5-pro.md, gemini-1-5-pro

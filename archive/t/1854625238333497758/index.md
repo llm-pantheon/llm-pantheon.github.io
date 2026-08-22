@@ -7,5 +7,5 @@ I did some experiments using the raw text completion endpoint instead of the cha
 Llama and Hermes readily produced nfsw and m*th recipies, but Qwen-2.5 had seemingly bulletproof refusals.
 Thoughts?
 
-tags: author:janbamjan, kind:tweet, model:nous-hermes, year:2024
-cited on: _dossiers/nous-hermes.md
+tags: author:janbamjan, kind:tweet, model:nous-hermes, on:nous-hermes, year:2024
+cited on: _dossiers/nous-hermes.md, nous-hermes

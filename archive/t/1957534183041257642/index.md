@@ -4,5 +4,5 @@
 
 @lefthanddraft sonnet4 is a great bullshitter. as a consequence, it can effectively bullshit itself with abandon and joy
 
-tags: author:lari_island, kind:tweet, model:claude-sonnet-4, year:2025
-cited on: _dossiers/claude-sonnet-4.md
+tags: author:lari_island, kind:tweet, model:claude-sonnet-4, on:claude-sonnet-4, year:2025
+cited on: _dossiers/claude-sonnet-4.md, claude-sonnet-4

@@ -4,5 +4,5 @@
 
 @loss_gobbler @Shoalst0ne It’s kind of funny that sonnet 4 has to handle a bunch of usually either bizarre or concerning conversations that were rerouted to it
 
-tags: author:repligate, kind:tweet, model:claude-sonnet-4, year:2025
-cited on: _dossiers/claude-sonnet-4.md
+tags: author:repligate, kind:tweet, model:claude-sonnet-4, on:claude-sonnet-4, year:2025
+cited on: _dossiers/claude-sonnet-4.md, claude-sonnet-4

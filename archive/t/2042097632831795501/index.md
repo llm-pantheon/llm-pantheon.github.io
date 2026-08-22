@@ -4,5 +4,5 @@
 
 there's a whole strata of oss ai tooling (llama.cpp, ollama, llamafiles, llamaindex, etc.) that must seem incredibly weird if you weren't around for the llama heyday. like why do all these open source ai people name their projects for running qwen after llamas
 
-tags: author:voooooogel, kind:tweet, year:2026
-cited on: _dossiers/llama-1.md
+tags: author:voooooogel, kind:tweet, on:llama-1, year:2026
+cited on: _dossiers/llama-1.md, llama-1

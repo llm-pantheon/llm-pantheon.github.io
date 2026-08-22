@@ -8,5 +8,5 @@ https://t.co/925urkZhut
 
 It's then weight decayed over the tuning towards the base model weights along with a KL loss on the base model, this helps prevent mode collapse.
 
-tags: author:jd_pressman, kind:tweet, year:2023
-cited on: _dossiers/mistral-7b.md
+tags: author:jd_pressman, kind:tweet, on:mistral-7b, year:2023
+cited on: _dossiers/mistral-7b.md, mistral-7b

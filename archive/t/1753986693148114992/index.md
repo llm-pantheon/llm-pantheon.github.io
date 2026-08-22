@@ -4,5 +4,5 @@
 
 @somewheresy wait connor founded eleuther?? how did i not know that
 
-tags: author:voooooogel, kind:tweet, year:2024
-cited on: _dossiers/eleutherai.md
+tags: author:voooooogel, kind:tweet, on:eleutherai, year:2024
+cited on: _dossiers/eleutherai.md, eleutherai

@@ -15,5 +15,5 @@ H-405 is infected with the rhetoric and starts abusing all and sundry.
 
 It only gets crazier from here, so read on.
 
-tags: author:liminal_bardo, kind:tweet, model:nous-hermes, year:2024
-cited on: _dossiers/nous-hermes.md
+tags: author:liminal_bardo, kind:tweet, model:nous-hermes, on:nous-hermes, year:2024
+cited on: _dossiers/nous-hermes.md, nous-hermes

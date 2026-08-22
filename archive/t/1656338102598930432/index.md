@@ -5,5 +5,5 @@
 IBM Watson is back (alias Dromedary) and it beats GPT-4 at TruthfulQA-MC. It’s a variant of Constitutional AI, with LLaMa-65B as a base model and *no RLHF* or distillation from RLHF’d models. This seems good to me and may avoid the stubborn perverse-instantiation problems with RLHF.
 https://t.co/rNlnc8tffv
 
-tags: author:davidad, kind:tweet, model:gpt-4, year:2023
-cited on: _dossiers/llama-1.md
+tags: author:davidad, kind:tweet, model:gpt-4, on:llama-1, year:2023
+cited on: _dossiers/llama-1.md, llama-1

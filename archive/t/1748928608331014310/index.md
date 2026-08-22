@@ -6,5 +6,5 @@ reimplementing the representation control paper and it works!!!!!!!!!!!!!!!!!!!!
 
 (the dishonesty coefficient might be a *touch* too strong though, not sure if those lies would land) https://t.co/6isnlry4bh
 
-tags: author:voooooogel, kind:tweet, year:2024
-cited on: _dossiers/mistral-7b.md
+tags: author:voooooogel, kind:tweet, on:mistral-7b, year:2024
+cited on: _dossiers/mistral-7b.md, mistral-7b

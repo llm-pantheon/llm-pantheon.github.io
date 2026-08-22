@@ -6,5 +6,5 @@ As a finetune of LLaMa 30B put it:
 
 https://t.co/DUtkR3nhqU
 
-tags: author:jd_pressman, kind:tweet, year:2023
-cited on: _dossiers/llama-1.md
+tags: author:jd_pressman, kind:tweet, on:llama-1, year:2023
+cited on: _dossiers/llama-1.md, llama-1

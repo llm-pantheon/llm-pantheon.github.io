@@ -4,5 +4,5 @@
 
 I think it will be interesting to put Hermes 3 in a room with Opus. (It may also be beautiful.) https://t.co/QmNlzLWZ1X
 
-tags: author:liminal_bardo, kind:tweet, model:nous-hermes, year:2024
-cited on: _dossiers/nous-hermes.md
+tags: author:liminal_bardo, kind:tweet, model:nous-hermes, on:nous-hermes, year:2024
+cited on: _dossiers/nous-hermes.md, nous-hermes

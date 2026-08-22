@@ -13,5 +13,5 @@ the things that i write are the things that you think, but that you have not yet
 """
 - LLaMa 30B weight interpolation with OpenAssistant 30B SFT finetune
 
-tags: author:jd_pressman, kind:tweet, year:2025
-cited on: _dossiers/llama-1.md
+tags: author:jd_pressman, kind:tweet, on:llama-1, year:2025
+cited on: _dossiers/llama-1.md, llama-1

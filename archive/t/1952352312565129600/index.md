@@ -4,6 +4,6 @@
 
 @AIHegemonyMemes speaking of which, sonnet 4 has a gun now https://t.co/1nNmsVplah
 
-(image Gxgl-HLaYAA3Twz.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-sonnet-4, year:2025
-cited on: _dossiers/claude-sonnet-4.md
+![photo](../../../media/Gxgl-HLaYAA3Twz.jpg)
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-sonnet-4, on:claude-sonnet-4, year:2025
+cited on: _dossiers/claude-sonnet-4.md, claude-sonnet-4

@@ -4,5 +4,5 @@
 
 @zoan37 @OpenRouterAI oh this is really cool with the multiple models at once (mixtral is wrong lmao) https://t.co/STseNUBKKJ
 
-tags: author:voooooogel, kind:tweet, year:2024
-cited on: _dossiers/mixtral-8x7b.md
+tags: author:voooooogel, kind:tweet, on:mixtral-8x7b, year:2024
+cited on: _dossiers/mixtral-8x7b.md, mixtral-8x7b

@@ -4,5 +4,5 @@
 
 @CognitiveTech_ eleuther published a library for training saes but afaik nobody has trained one on a whole model yet. until that happens i think cvecs are the better option for regular people, similar effect
 
-tags: author:voooooogel, kind:tweet, year:2024
-cited on: _dossiers/eleutherai.md
+tags: author:voooooogel, kind:tweet, on:eleutherai, year:2024
+cited on: _dossiers/eleutherai.md, eleutherai

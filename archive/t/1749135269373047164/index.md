@@ -9,5 +9,5 @@ out of all my control vector experiments last night, i think "what if mistral-7b
 ++control→more trippy than baseline
 --control→more sober than baseline) https://t.co/h9LIXIHM7L https://t.co/EhWkVoEvqr
 
-tags: author:voooooogel, kind:tweet, year:2024
-cited on: _dossiers/mistral-7b.md
+tags: author:voooooogel, kind:tweet, on:mistral-7b, year:2024
+cited on: _dossiers/mistral-7b.md, mistral-7b

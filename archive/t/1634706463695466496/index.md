@@ -6,5 +6,5 @@ using llama.cpp i can run the 13B model at 1.3 tokens/s on my thinkpad t490, *cp
 
 definitely not the same generation quality as GPT-3, but for interpretability research this is gonna be a game-changer I think.
 
-tags: author:voooooogel, kind:tweet, model:gpt-3, year:2023
-cited on: _dossiers/llama-1.md
+tags: author:voooooogel, kind:tweet, model:gpt-3, on:llama-1, year:2023
+cited on: _dossiers/llama-1.md, llama-1

@@ -4,5 +4,5 @@
 
 @deepfates yes! frankenmodels ftw! 🤔 bf made a whole set of them fromsolar &amp; mistral, idk if he uploaded to huggingface yet
 
-tags: author:mimi10v3, kind:tweet, year:2024
-cited on: _dossiers/mistral-7b.md
+tags: author:mimi10v3, kind:tweet, on:mistral-7b, year:2024
+cited on: _dossiers/mistral-7b.md, mistral-7b

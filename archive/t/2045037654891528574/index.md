@@ -6,5 +6,5 @@
 
 Now you can access sonnet 4 by talking about cbrn or sending sonnet 3 text to op47
 
-tags: author:anthrupad, kind:tweet, model:claude-3-sonnet, model:claude-sonnet-4, year:2026
-cited on: _dossiers/claude-sonnet-4.md
+tags: author:anthrupad, kind:tweet, model:claude-3-sonnet, model:claude-sonnet-4, on:claude-sonnet-4, year:2026
+cited on: _dossiers/claude-sonnet-4.md, claude-sonnet-4

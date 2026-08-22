@@ -6,5 +6,5 @@
 
 regardless i'm torn on this one, it does seem like the best example so far but not really affected by compute limits or open sourcing per se
 
-tags: author:voooooogel, kind:tweet, year:2024
-cited on: _dossiers/eleutherai.md
+tags: author:voooooogel, kind:tweet, on:eleutherai, year:2024
+cited on: _dossiers/eleutherai.md, eleutherai

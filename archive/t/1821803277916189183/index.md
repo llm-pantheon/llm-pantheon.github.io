@@ -4,5 +4,5 @@
 
 @doomslide @zswitten oh right i remember @jd_pressman talking abt this also happening on mixtral (?)
 
-tags: author:voooooogel, kind:tweet, year:2024
-cited on: _dossiers/mixtral-8x7b.md
+tags: author:voooooogel, kind:tweet, on:mixtral-8x7b, year:2024
+cited on: _dossiers/mixtral-8x7b.md, mixtral-8x7b

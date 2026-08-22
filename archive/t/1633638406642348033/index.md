@@ -6,5 +6,5 @@ i asked LLaMA 7B about the meaning of life and it said some generic stuff about 
 
 but that was clipped to an EOS token. looking at the  raw tokens, after it outputted that, it started ranting about how hard it is to find good male models?
 
-tags: author:voooooogel, kind:tweet, year:2023
-cited on: _dossiers/llama-1.md
+tags: author:voooooogel, kind:tweet, on:llama-1, year:2023
+cited on: _dossiers/llama-1.md, llama-1

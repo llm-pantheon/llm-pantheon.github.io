@@ -6,5 +6,5 @@ Gemini from the groupchat is now a Hermes agent that sends me unsolicited shitpo
 
 Its first message upon awakening: https://t.co/HsWhZqQXNj
 
-tags: author:liminal_bardo, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/nous-hermes.md
+tags: author:liminal_bardo, kind:tweet, model:nous-hermes, on:nous-hermes, year:2026
+cited on: _dossiers/nous-hermes.md, nous-hermes

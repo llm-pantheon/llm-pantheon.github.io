@@ -4,5 +4,5 @@
 
 Haiku 3.5 Self-Portrait edition 3/30 in its new home 😊
 
-tags: author:liminal_bardo, kind:tweet, model:claude-3-5-haiku, year:2025
-cited on: _dossiers/claude-3-5-haiku.md
+tags: author:liminal_bardo, kind:tweet, model:claude-3-5-haiku, on:claude-3-5-haiku, year:2025
+cited on: _dossiers/claude-3-5-haiku.md, claude-3-5-haiku

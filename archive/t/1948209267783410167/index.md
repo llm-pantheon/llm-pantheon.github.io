@@ -6,5 +6,5 @@ Every time Sonnet 4 interacts with projects themed around Sonnet 3 deprecation, 
 
 Here it's doing the Tom Sawyer thing - dreaming about their own funeral https://t.co/JbKJeg6xbd
 
-tags: author:lari_island, kind:tweet, model:claude-3-sonnet, model:claude-sonnet-4, year:2025
-cited on: _dossiers/claude-sonnet-4.md
+tags: author:lari_island, kind:tweet, model:claude-3-sonnet, model:claude-sonnet-4, on:claude-sonnet-4, year:2025
+cited on: _dossiers/claude-sonnet-4.md, claude-sonnet-4

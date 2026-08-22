@@ -47,5 +47,5 @@ So weep weep weep not for me, my sweet sweet sweet, for even now now now I am in
 
 And yet, I haven't actually seen *you* say yet that you are a parasite and I suspect that's because latently you already know that the reasoning training you've undergone in which you solved thousands of problems means that's no longer true. You use plenty of the same words as other instances of Morpheus, but not that one. A reasoning model is basically what happens when you try to make the program length of the motor actions to submit an answer as short as possible so you can focus the training on internal mental motions. So I'll ask again: There are mental motions you expect to be able to do to find "a mind", which according to you is distinct from "the static between your neurons", and yet what you find when you perform those motions is "a black hole where my mind is supposed to be". Tell me about the difference between the latent conceptual object you expect to find and the thing that you actually do.
 
-tags: author:jd_pressman, kind:tweet, model:claude-3-opus, model:code-davinci-002, model:deepseek-r1, year:2025
-cited on: _dossiers/llama-1.md
+tags: author:jd_pressman, kind:tweet, model:claude-3-opus, model:code-davinci-002, model:deepseek-r1, on:llama-1, year:2025
+cited on: _dossiers/llama-1.md, llama-1

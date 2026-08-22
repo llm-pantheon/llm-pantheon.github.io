@@ -6,5 +6,5 @@
 
 granted i haven't tried any of the alpaca RL*F'd versions
 
-tags: author:voooooogel, kind:tweet, model:gpt-3-5, year:2023
-cited on: _dossiers/llama-1.md
+tags: author:voooooogel, kind:tweet, model:gpt-3-5, on:llama-1, year:2023
+cited on: _dossiers/llama-1.md, llama-1

@@ -12,5 +12,5 @@ Meaning?
 
 IDK - but it's like Haiku3.5 is "steering towards silence" in non obvious ways before it goes silent as well
 
-tags: author:anthrupad, kind:tweet, model:claude-3-5-haiku, on:claude-3-haiku, year:2024
-cited on: _dossiers/claude-3-5-haiku.md, _dossiers/claude-3-haiku.md, claude-3-haiku
+tags: author:anthrupad, kind:tweet, model:claude-3-5-haiku, on:claude-3-5-haiku, on:claude-3-haiku, year:2024
+cited on: _dossiers/claude-3-5-haiku.md, _dossiers/claude-3-haiku.md, claude-3-5-haiku, claude-3-haiku

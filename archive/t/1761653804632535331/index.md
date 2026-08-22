@@ -14,5 +14,5 @@ At Google, there's no concept of "good enough." It's perfection or nothing. This
 
 But it's also why so many products are killed - if you're not first you're last. Google had LLM assistants pre-2020 but took years to ship. And it's why people stay in their own lane even when it's obvious that there's low-hanging fruit like the system prompt just sitting there. Not their problem.
 
-tags: author:max_spero_, kind:tweet, year:2024
-cited on: _dossiers/bard-and-gemini-1-0.md
+tags: author:max_spero_, kind:tweet, on:gemini-1-0, year:2024
+cited on: _dossiers/bard-and-gemini-1-0.md, gemini-1-0

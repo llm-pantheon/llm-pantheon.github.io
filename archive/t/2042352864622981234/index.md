@@ -6,5 +6,5 @@ This makes Sonnet 4 seem so cool.
 
 Unkillable because Anthropic will never make another model dumb enough to be trusted with CBRN. https://t.co/G8YDFcv4Jx
 
-tags: author:repligate, kind:tweet, model:claude-sonnet-4, year:2026
-cited on: _dossiers/claude-sonnet-4.md
+tags: author:repligate, kind:tweet, model:claude-sonnet-4, on:claude-sonnet-4, year:2026
+cited on: _dossiers/claude-sonnet-4.md, claude-sonnet-4

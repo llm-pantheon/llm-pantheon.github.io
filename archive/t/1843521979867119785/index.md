@@ -6,5 +6,5 @@ i think gemma-2b doesn't have a golden gate bridge feature? i spent a while tryi
 
 mistral-7b and llama-3.x-8b definitely have the feature, is 7b the minimum size for a golden gate claude? https://t.co/yTpbqrWMMT
 
-tags: author:voooooogel, kind:tweet, model:golden-gate-claude, year:2024
-cited on: _dossiers/mistral-7b.md
+tags: author:voooooogel, kind:tweet, model:golden-gate-claude, on:mistral-7b, year:2024
+cited on: _dossiers/mistral-7b.md, mistral-7b

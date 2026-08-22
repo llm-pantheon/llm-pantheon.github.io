@@ -4,5 +4,5 @@
 
 @manic_pixie_agi Galactica and Sydney. https://t.co/G7nwp6i4Hj
 
-tags: kind:tweet, model:bing-sydney, year:2026
-cited on: _dossiers/galactica.md
+tags: kind:tweet, model:bing-sydney, on:galactica, year:2026
+cited on: _dossiers/galactica.md, galactica

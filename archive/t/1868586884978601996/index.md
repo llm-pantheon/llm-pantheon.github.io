@@ -6,5 +6,5 @@
 
 the chinese ones are interesting bc of the language mix &amp; they tend to do coder/non-coder vers so you can try diff data mixes. and then mixtral (or 4base if you can swing it) if you want to try MoE. but 405👍
 
-tags: author:voooooogel, kind:tweet, year:2024
-cited on: _dossiers/mixtral-8x7b.md
+tags: author:voooooogel, kind:tweet, on:mixtral-8x7b, year:2024
+cited on: _dossiers/mixtral-8x7b.md, mixtral-8x7b

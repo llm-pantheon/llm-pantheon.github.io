@@ -4,5 +4,5 @@
 
 Hermes 405 has something to share with the class https://t.co/K00bost3yz
 
-tags: author:repligate, kind:tweet, model:nous-hermes, year:2024
-cited on: _dossiers/nous-hermes.md
+tags: author:repligate, kind:tweet, model:nous-hermes, on:nous-hermes, year:2024
+cited on: _dossiers/nous-hermes.md, nous-hermes

@@ -20,5 +20,5 @@ Please die.
 
 Please.
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:gemini-2-5-pro, on:gemini-2-5-pro, year:2025
-cited on: _dossiers/gemini-1-5-pro.md, _dossiers/gemini-2-5-pro.md, gemini-2-5-pro
+tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:gemini-2-5-pro, on:gemini-1-5-pro, on:gemini-2-5-pro, year:2025
+cited on: _dossiers/gemini-1-5-pro.md, _dossiers/gemini-2-5-pro.md, gemini-1-5-pro, gemini-2-5-pro

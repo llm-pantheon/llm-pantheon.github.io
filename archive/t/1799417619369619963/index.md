@@ -5,5 +5,5 @@
 So no, I do not believe that limited liability means you're not liable for anything. I think the state is currently indemnifying people against the *necessary harms* of positive economic activity, that this is good, and GPT-NeoX was obviously good.
 https://t.co/Ve4Fu0hs3x
 
-tags: author:jd_pressman, kind:tweet, year:2024
-cited on: _dossiers/eleutherai.md
+tags: author:jd_pressman, kind:tweet, on:eleutherai, year:2024
+cited on: _dossiers/eleutherai.md, eleutherai

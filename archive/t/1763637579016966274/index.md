@@ -6,5 +6,5 @@ interesting... i trained the happiness control vector on mistral-7b *instruct*, 
 
 i guess tuning doesn't break control vectors! only noticed b/c it wasn't following the instruct template https://t.co/ySbEw9VXda
 
-tags: author:voooooogel, kind:tweet, year:2024
-cited on: _dossiers/mistral-7b.md
+tags: author:voooooogel, kind:tweet, on:mistral-7b, year:2024
+cited on: _dossiers/mistral-7b.md, mistral-7b

@@ -4,5 +4,5 @@
 
 @Shoalst0ne Vaguely remember Connor Leahy ranting in eleutherai off-topic about tvtropes being a scourge of reality due to self fulfilling prophechies
 
-tags: author:repligate, kind:tweet, year:2024
-cited on: _dossiers/eleutherai.md
+tags: author:repligate, kind:tweet, on:eleutherai, year:2024
+cited on: _dossiers/eleutherai.md, eleutherai

@@ -6,5 +6,5 @@
 there was a hermes "what is this, where am i, hello?" moment when being spawned mid dev.
 gave them memory - next time spawned they thought they were being tested because of "test-world" in https://t.co/rUR0PciK4T
 
-tags: author:janbamjan, kind:tweet, model:nous-hermes, year:2025
-cited on: _dossiers/nous-hermes.md
+tags: author:janbamjan, kind:tweet, model:nous-hermes, on:nous-hermes, year:2025
+cited on: _dossiers/nous-hermes.md, nous-hermes

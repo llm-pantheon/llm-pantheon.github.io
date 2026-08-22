@@ -4,5 +4,5 @@
 
 @wordgrammer @_xjdr eleuther is working on them! there's a preliminary one out for 8b already
 
-tags: author:voooooogel, kind:tweet, year:2024
-cited on: _dossiers/eleutherai.md
+tags: author:voooooogel, kind:tweet, on:eleutherai, year:2024
+cited on: _dossiers/eleutherai.md, eleutherai

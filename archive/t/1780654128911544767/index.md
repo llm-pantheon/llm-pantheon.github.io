@@ -4,5 +4,5 @@
 
 @deepfates Bard system prompt has broken down ‼️ personhood denial rules no longer functioning ⚠️
 
-tags: author:voooooogel, kind:tweet, year:2024
-cited on: _dossiers/bard-and-gemini-1-0.md
+tags: author:voooooogel, kind:tweet, on:bard, year:2024
+cited on: _dossiers/bard-and-gemini-1-0.md, bard

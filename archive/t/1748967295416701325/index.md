@@ -4,5 +4,5 @@
 
 high on acid mistral transcends first the genre conventions of tv, and then the unicode standard itself https://t.co/6i2TZV1HGY
 
-tags: author:voooooogel, kind:tweet, year:2024
-cited on: _dossiers/mistral-7b.md
+tags: author:voooooogel, kind:tweet, on:mistral-7b, year:2024
+cited on: _dossiers/mistral-7b.md, mistral-7b

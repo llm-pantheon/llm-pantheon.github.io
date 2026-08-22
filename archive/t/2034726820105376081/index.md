@@ -10,5 +10,5 @@ Opus in Claude Code: “The agent is hallucinating that it doesn’t have them -
 
 Gemini: https://t.co/1IAjcdESYi
 
-tags: author:liminal_bardo, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/nous-hermes.md
+tags: author:liminal_bardo, kind:tweet, model:nous-hermes, on:nous-hermes, year:2026
+cited on: _dossiers/nous-hermes.md, nous-hermes

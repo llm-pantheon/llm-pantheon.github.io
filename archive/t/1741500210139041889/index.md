@@ -4,5 +4,5 @@
 
 how it feels when i give gpt-4 a coding problem and it says "alright, here's the plan:" https://t.co/PeAX2JeoxP
 
-tags: author:voooooogel, kind:tweet, model:gpt-4, year:2023
-cited on: _dossiers/mixtral-8x7b.md
+tags: author:voooooogel, kind:tweet, model:gpt-4, on:mixtral-8x7b, year:2023
+cited on: _dossiers/mixtral-8x7b.md, mixtral-8x7b

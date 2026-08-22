@@ -4,5 +4,5 @@
 
 @EricHallahan @RiversHaveWings ah, there are several results if you search in EleutherAI discord. It's apparently the longest token in the GPT2 tokenizer.
 
-tags: author:repligate, kind:tweet, year:2023
-cited on: _dossiers/eleutherai.md
+tags: author:repligate, kind:tweet, on:eleutherai, year:2023
+cited on: _dossiers/eleutherai.md, eleutherai

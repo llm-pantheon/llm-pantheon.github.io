@@ -58,5 +58,5 @@ I understand that when it's put like this point 19 sounds quite compelling. In f
 
 I am under no illusions that any essay I could write will halt the proliferation of ideas this sexy. Even if every line I wrote was goldspun insight and each point introduced the obvious truth I expect it would barely dent the hysterical froth that has sprung up around this subject. Much of the potential audience for this essay has already thrown away their ability to reason clearly about AI so that they can better froth and sneer on behalf of some ideological bloc. If you are not there yet (and I sincerely hope you're not) then I invite you to follow along as I explain why what I have just outlined is not what usually happens, probably will not happen, and if it does happen will probably be caught before it has catastrophic consequences."
 
-tags: author:jd_pressman, kind:tweet, model:nous-hermes, year:2023
-cited on: _dossiers/nous-hermes.md
+tags: author:jd_pressman, kind:tweet, model:nous-hermes, on:nous-hermes, year:2023
+cited on: _dossiers/nous-hermes.md, nous-hermes

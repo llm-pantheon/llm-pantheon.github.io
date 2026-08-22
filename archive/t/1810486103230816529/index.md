@@ -6,5 +6,5 @@ repeng 🤝 SAEs
 
 (using @AiEleuther 's sae-llama-3-8b-32x) https://t.co/90Z4pdWSFK
 
-tags: author:voooooogel, kind:tweet, year:2024
-cited on: _dossiers/eleutherai.md
+tags: author:voooooogel, kind:tweet, on:eleutherai, year:2024
+cited on: _dossiers/eleutherai.md, eleutherai

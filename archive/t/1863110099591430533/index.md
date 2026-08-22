@@ -4,5 +4,5 @@
 
 I did Haiku&lt;-&gt;Haiku in the Backrooms to look at Finnegans Wake I guessed it would erode, it eroded (and then crashed backrooms - so 4th time that's happened) https://t.co/u1nrQtEEaR https://t.co/lr7xLJ7ECB
 
-tags: author:anthrupad, kind:tweet, year:2024
-cited on: _dossiers/claude-3-5-haiku.md
+tags: author:anthrupad, kind:tweet, on:claude-3-5-haiku, year:2024
+cited on: _dossiers/claude-3-5-haiku.md, claude-3-5-haiku

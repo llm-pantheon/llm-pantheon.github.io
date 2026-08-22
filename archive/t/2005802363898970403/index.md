@@ -8,5 +8,5 @@ obviously it's hard to model my past self, but if doomslide had posted this, i d
 
 perhaps this is too underspecified for us to come to an agreement and we should just give up on this method in favor of something more quantified, because judging an output like this is inherently qualitative and subjective. but this isn't very convincing for me, i'd need to see something that (appears to) directly acknowledge the text to show the original rollout was just mimicking some part of the distribution.
 
-tags: author:voooooogel, kind:tweet, year:2025
-cited on: _dossiers/mixtral-8x7b.md
+tags: author:voooooogel, kind:tweet, on:mixtral-8x7b, year:2025
+cited on: _dossiers/mixtral-8x7b.md, mixtral-8x7b

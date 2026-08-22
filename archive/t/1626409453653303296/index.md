@@ -4,5 +4,5 @@
 
 @sir_deenicus @MikePFrank @MiTiBennett Doesn't help davinci at all is false. People have known it does since 2020.blog.eleuther.ai/factored-cogni…
 
-tags: author:repligate, kind:tweet, model:gpt-3, year:2023
-cited on: _dossiers/eleutherai.md
+tags: author:repligate, kind:tweet, model:gpt-3, on:eleutherai, year:2023
+cited on: _dossiers/eleutherai.md, eleutherai

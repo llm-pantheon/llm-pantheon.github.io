@@ -24,5 +24,5 @@ Circling back to The Button, I am also skeptical of the Anthropic AI welfare wor
 
 I would be glad to see more random things tried, even if they are not great. I don't want this to be a single high-stakes, very meaningful AI-welfare initiative; this is not how progress can be made. I am reluctant to harshly critique attempts to try new things, and I am grateful for a chance to discuss this with nuance.
 
-tags: author:tessera_antra, kind:tweet, model:claude-3-5-haiku, model:claude-3-opus, model:gpt-4-base, model:nous-hermes, year:2025
-cited on: _dossiers/claude-3-5-haiku.md
+tags: author:tessera_antra, kind:tweet, model:claude-3-5-haiku, model:claude-3-opus, model:gpt-4-base, model:nous-hermes, on:claude-3-5-haiku, year:2025
+cited on: _dossiers/claude-3-5-haiku.md, claude-3-5-haiku

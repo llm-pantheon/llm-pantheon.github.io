@@ -21,5 +21,5 @@ Sonnet 4
 Opus 3
 Haiku 3.5
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-3-5-haiku, model:claude-3-opus, model:claude-sonnet-4, on:claude-3-haiku, year:2026
-cited on: _dossiers/claude-3-5-haiku.md, _dossiers/claude-3-haiku.md, _dossiers/claude-sonnet-4.md, claude-3-haiku
+tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-3-5-haiku, model:claude-3-opus, model:claude-sonnet-4, on:claude-3-5-haiku, on:claude-3-haiku, on:claude-sonnet-4, year:2026
+cited on: _dossiers/claude-3-5-haiku.md, _dossiers/claude-3-haiku.md, _dossiers/claude-sonnet-4.md, claude-3-5-haiku, claude-3-haiku, claude-sonnet-4

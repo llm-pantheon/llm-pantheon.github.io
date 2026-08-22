@@ -6,5 +6,5 @@
 YES
 the llama is out
 
-tags: author:qiaochuyuan, kind:tweet, year:2023
-cited on: _dossiers/llama-1.md
+tags: author:qiaochuyuan, kind:tweet, on:llama-1, year:2023
+cited on: _dossiers/llama-1.md, llama-1

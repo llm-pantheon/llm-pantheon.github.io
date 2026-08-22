@@ -4,5 +4,5 @@
 
 .@jd_pressman is criminally under-read relative to how good and prescient his writing is. his hermes agent (not the nous one) devlogs were also excellent, and predicted much of what the current agentic harnesses are only slowly catching up to now. highly recommend following him and reading his backlog
 
-tags: author:voooooogel, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/nous-hermes.md
+tags: author:voooooogel, kind:tweet, model:nous-hermes, on:nous-hermes, year:2026
+cited on: _dossiers/nous-hermes.md, nous-hermes
