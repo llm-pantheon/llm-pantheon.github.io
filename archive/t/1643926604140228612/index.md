@@ -4,5 +4,5 @@
 
 @MatthewJBar IMO Bing’s implementation of GPT-4 was way off-the-rails misaligned, and GPT-3.5 in fact was deceptively misaligned in subtle ways
 
-tags: author:davidad, kind:tweet, model:bing-sydney, model:gpt-3-5, model:gpt-4, year:2023
-cited on: _dossiers/gpt-3-5.md
+tags: author:davidad, kind:tweet, model:bing-sydney, model:gpt-3-5, model:gpt-4, on:gpt-3-5, year:2023
+cited on: _dossiers/gpt-3-5.md, gpt-3-5

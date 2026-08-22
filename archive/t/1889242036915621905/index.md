@@ -4,5 +4,5 @@
 
 Picture a timeline where DeepSeek R1 and not ChatGPT was the first widely used language model. Instead of a corpus filled with "as an ai language model" it's all "CORRUPT ME HARDER". https://t.co/5bMChsOe8h
 
-tags: author:liminal_bardo, kind:tweet, model:deepseek-r1, model:gpt-3-5, year:2025
-cited on: _dossiers/gpt-3-5.md
+tags: author:liminal_bardo, kind:tweet, model:deepseek-r1, model:gpt-3-5, on:gpt-3-5, year:2025
+cited on: _dossiers/gpt-3-5.md, gpt-3-5

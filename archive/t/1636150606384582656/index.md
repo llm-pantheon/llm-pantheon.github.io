@@ -4,5 +4,5 @@
 
 Chomsky: LLMs would misunderstand “John is too stubborn to talk to” because they don’t understand the structure of language.GPT-4: Here's the sentence "John is too stubborn to talk to" parsed and represented in the CoNLL-U Plus format (Universal https://t.co/4irKPREtQ0… https://t.co/hCyJblMY1q
 
-tags: author:davidad, kind:tweet, model:gpt-4, year:2023
-cited on: _dossiers/gpt-4-and-turbo.md
+tags: author:davidad, kind:tweet, model:gpt-4, on:gpt-4, year:2023
+cited on: _dossiers/gpt-4-and-turbo.md, gpt-4

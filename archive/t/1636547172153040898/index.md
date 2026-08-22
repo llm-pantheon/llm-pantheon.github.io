@@ -4,5 +4,5 @@
 
 @daniel_eth amazing interaction. I wonder if this TaskRabbit worker will ever find out that they were, in fact, interacting with a robot
 
-tags: author:repligate, kind:tweet, year:2023
-cited on: _dossiers/gpt-4-and-turbo.md
+tags: author:repligate, kind:tweet, on:gpt-4, year:2023
+cited on: _dossiers/gpt-4-and-turbo.md, gpt-4

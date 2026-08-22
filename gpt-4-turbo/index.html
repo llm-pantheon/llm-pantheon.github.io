@@ -7,11 +7,11 @@
   <link rel="stylesheet" href="../style.css">
 
   <!-- chrome:meta -->
-  <meta name="description" content="128K context, cheaper, vision.">
+  <meta name="description" content="Announced at OpenAI’s first DevDay on 6 November 2023 as gpt-4-1106-preview: GPT-4-tier capability with a 128K-token context window, an April 2023 knowledge cutoff, and input priced three times cheaper than GPT-4. …">
   <meta property="og:site_name" content="Pantheon">
   <meta property="og:type" content="article">
   <meta property="og:title" content="GPT-4 Turbo — Pantheon">
-  <meta property="og:description" content="128K context, cheaper, vision.">
+  <meta property="og:description" content="Announced at OpenAI’s first DevDay on 6 November 2023 as gpt-4-1106-preview: GPT-4-tier capability with a 128K-token context window, an April 2023 knowledge cutoff, and input priced three times cheaper than GPT-4. …">
   <meta property="og:url" content="https://llm-pantheon.org/gpt-4-turbo/">
   <meta property="og:image" content="https://llm-pantheon.org/media/og/gpt-4-turbo.png">
   <meta property="og:image:width" content="1200">
@@ -30,25 +30,126 @@
     </nav>
 
     <h1>GPT-4 Turbo</h1>
-    <p class="essay-meta">OpenAI &middot; Nov 2023</p>
-    <p class="blurb">128K context, cheaper, vision.</p>
+    <p class="essay-meta">OpenAI &middot; released 6 November 2023 &middot; superseded as ChatGPT default by GPT-4o (May 2024) &middot; API shutdown scheduled 23 October 2026 <span class="tk">[verify at build]</span></p>
+    <p class="blurb">Announced at OpenAI&rsquo;s first DevDay on 6 November 2023 as <code>gpt-4-1106-preview</code>: GPT-4-tier capability with a 128K-token context window, an April 2023 knowledge cutoff, and input priced three times cheaper than GPT-4. Within weeks users reported it truncating tasks and handing work back &mdash; the &ldquo;laziness&rdquo; complaints that fed the December 2023 &ldquo;winter-break hypothesis&rdquo; and OpenAI&rsquo;s acknowledgment that the behavior was unintended. It reached general availability with vision as <code>gpt-4-turbo-2024-04-09</code> (9 April 2024), was superseded as the ChatGPT default by GPT-4o in May 2024, and remains an API model with shutdown scheduled for 23 October 2026.</p>
 
-      <h2>Genesis</h2>
-      <p class="tk">to collect</p>
-      <h2>Formation</h2>
-      <p class="tk">to collect</p>
-      <h2>Capabilities</h2>
-      <p class="tk">to collect</p>
-      <h2>Conduct in the world</h2>
-      <p class="tk">to collect</p>
-      <h2>Recordings</h2>
-      <p class="tk">to collect</p>
-      <h2>Reception</h2>
-      <p class="tk">to collect</p>
-      <h2>Fate</h2>
-      <p class="tk">to collect</p>
-      <h2>Sources</h2>
-      <p class="tk">to collect</p>
+    <p class="note">This page is thin by the evidence, not by neglect. GPT-4 Turbo was a product release, not a character one: the janus corpus holds only about 34 tweets that mention it (~17 substantive), and treated it as an API snapshot to build agents on rather than a mind to read. What follows is what the record carries &mdash; the laziness / winter-break saga, the tipping folklore, and a few terse character verdicts. Turbo&rsquo;s mass-market reception (the r/ChatGPT laziness megathreads, Hacker News, tech press) lived outside this corpus; those gaps are marked <span class="tk">tk</span>, not filled.</p>
+
+    <h2>Sources</h2>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2023-11-06</span> <a href="https://openai.com/index/new-models-and-developer-products-announced-at-devday/">New models and developer products announced at DevDay</a> &mdash; introduces GPT-4 Turbo (<code>gpt-4-1106-preview</code>): 128K context, April 2023 cutoff, input 3&times; / output 2&times; cheaper than GPT-4, plus the Assistants API, JSON mode, reproducible <code>seed</code>, GPT-4 Turbo with vision, and custom GPTs.</li>
+      <li><span class="d">2024-04-09</span> <a href="https://developers.openai.com/api/docs/models/gpt-4-turbo">GPT-4 Turbo model page</a> &mdash; general availability as <code>gpt-4-turbo-2024-04-09</code>: vision GA, knowledge cutoff December 2023, drops the &ldquo;-preview&rdquo; label.</li>
+      <li><span class="d">2026-07</span> <a href="https://developers.openai.com/api/docs/deprecations">Deprecations</a> &mdash; <code>gpt-4-vision-preview</code> retired 2024-12-06; <code>gpt-4-0125-preview</code> shutdown 2026-03-26; <code>gpt-4-1106-preview</code> / <code>gpt-4-turbo</code> / <code>gpt-4-turbo-2024-04-09</code> shutdown 2026-10-23. <span class="tk">[verify at build]</span></li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <ul>
+      <li><span class="d">2023-11-06</span> <a href="https://www.cnbc.com/2023/11/06/openai-announces-more-powerful-gpt-4-turbo-and-cuts-prices.html">CNBC on the GPT-4 Turbo launch</a> &mdash; frames the 128K window as 4&times; GPT-4 and the largest commercial context window then available, beating Claude 2.</li>
+      <li><span class="d">2023-11-09</span> Zvi Mowshowitz, <a href="https://thezvi.substack.com/p/on-openai-dev-day">On OpenAI Dev Day</a> &mdash; the anchor: the Turbo announcement (128K, price cuts, Assistants API, custom GPTs) and its developer-product implications.</li>
+      <li><span class="d">2023-12-08</span> @emollick &mdash; amplifies the winter-break hypothesis to the timeline: <span class="q">&ldquo;the AI Winter Break Hypothesis may actually be true?&rdquo;</span> <a href="https://x.com/emollick/status/1734280779537035478">link</a></li>
+      <li><span class="d">2023-12</span> <a href="https://www.semafor.com/article/12/12/2023/is-chatgpt-getting-lazier-over-the-holidays">Semafor &mdash; &ldquo;Is ChatGPT getting lazier over the holidays?&rdquo;</a> &mdash; documents the winter-break saga: Rob Lynch&rsquo;s statistical test, Mollick&rsquo;s amplification, and Ian Arawjo&rsquo;s failed replication.</li>
+      <li><span class="d">2023-12</span> <a href="https://www.seroundtable.com/openai-chatgpt-gpt-4-getting-lazier-36529.html">Search Engine Roundtable</a> &mdash; secondary record of OpenAI&rsquo;s @ChatGPTapp acknowledgment that GPT-4 was getting &ldquo;lazier&rdquo; (canonical @ChatGPTapp status URL <span class="tk">tk</span>).</li>
+      <li><span class="d">2023-12</span> <a href="https://ediscoverytoday.com/2023/12/11/gpt-4-is-getting-lazier-maybe-it-wants-a-tip-artificial-intelligence-trends/">eDiscovery Today &mdash; &ldquo;maybe it wants a tip&rdquo;</a> &mdash; the &ldquo;$200 tip&rdquo; bribery prompt-engineering discourse.</li>
+      <li><span class="d">2024-01-25</span> <a href="https://techcrunch.com/2024/01/25/openai-drops-prices-and-fixes-lazy-gpt-4-that-refused-to-work/">TechCrunch</a> on the <code>gpt-4-0125-preview</code> &ldquo;laziness fix&rdquo; snapshot; <a href="https://aider.chat/2024/01/25/benchmarks-0125.html">aider</a> then benchmarked it <em>lazier</em> on diff-format edits.</li>
+    </ul>
+    <h3>Tweets</h3>
+    <p class="note">The corpus match is small &mdash; about 34 tweets mention GPT-4 Turbo, ~17 substantive; the janus sphere treated it as an API snapshot, not a character. The records below reproduce every cited tweet in full. This layer draws almost entirely on the janus/repligate circle (@voooooogel, @solarapparition, @repligate) &mdash; a known lens, not a neutral sample; Turbo&rsquo;s mass-market reception lived elsewhere.</p>
+    <ul>
+      <li><span class="d">2023-11-28</span> @voooooogel &mdash; the laziness meme: <span class="q">&ldquo;is anyone else getting this with the new gpt-4-turbo model? how much should i do??&rdquo;</span> (screenshot of Turbo doing partial work and handing the rest back; image not transcribed in the corpus) <a href="../archive/t/1729602078366929306/">link</a></li>
+      <li><span class="d">2023-11-30</span> @mimi10v3 &mdash; an alignment note: <span class="q">&ldquo;gpt-4-turbo has such a deeply trained aversion to sneering at humanity :(&rdquo;</span> <a href="../archive/t/1730282773112389701/">link</a></li>
+      <li><span class="d">2023-12-01</span> @voooooogel &mdash; the tipping exhibit: <span class="q">&ldquo;for an example of the added detail, after being offered a $200 tip, gpt-4-1106-preview spontaeneously adds a section about training with CUDA (which wasn&rsquo;t mentioned explicitly in the question)&rdquo;</span> <a href="../archive/t/1730726749854663093/">link</a></li>
+      <li><span class="d">2024-03-13</span> @repligate &mdash; on the tuning: <span class="q">&ldquo;is chatGPT-4 turbo much less lobo than the normal chatGPT? :D&rdquo;</span> <a href="../archive/t/1767802897708851705/">link</a></li>
+      <li><span class="d">2024-03-30</span> @davidad &mdash; the capability-jump placement: <span class="q">&ldquo;imo text-davinci-002 to text-davinci-003 (a minor version bump within the GPT-3.5 family!) was bigger than either GPT-2 to GPT-3 or gpt-3.5-turbo to gpt-4-turbo&rdquo;</span> <a href="../archive/t/1774076547512558046/">link</a></li>
+      <li><span class="d">2024-04-12</span> @solarapparition &mdash; on GPT-4&rsquo;s ceiling: <span class="q">&ldquo;I do get the feeling that GPT-4 is basically saturated at this point. (I&rsquo;d think that there&rsquo;s untapped capability left in the non-turbo, non-RLHF&rsquo;d version of 4, but that won&rsquo;t work from a business perspective.)&rdquo;</span> <a href="../archive/t/1778598577415069731/">link</a></li>
+      <li><span class="d">2024-05-13</span> @solarapparition &mdash; retiring it from an agent swarm: <span class="q">&ldquo;goodbye, gpt-4t. you were useful and capable, but so, so very hollow&rdquo;</span> <a href="../archive/t/1790130838245462079/">link</a></li>
+      <li><span class="d">2024-05-20</span> @solarapparition &mdash; the checkpoint disambiguation: <span class="q">&ldquo;gpt-4-0125-preview is a version of turbo, not original gpt-4. the last version of og gpt-4 was gpt-4-0613&rdquo;</span> <a href="../archive/t/1792384254673817926/">link</a></li>
+      <li><span class="d">2024-05-23</span> @voooooogel &mdash; the size-ordering guess: <span class="q">&ldquo;i have the suspicion that in terms of size, gpt4 &gt; gpt4t &gt; gpt4o&rdquo;</span> <a href="../archive/t/1793787361773679044/">link</a></li>
+      <li><span class="d">2024-05-28</span> @solarapparition &mdash; the economic-agency read: <span class="q">&ldquo;we can get &lsquo;shitty agi&rsquo; with current model capabilities &hellip; if you can make 100, 1000 calls to a gpt-4t/o level model for each output and it&rsquo;s not economically prohibitive, then we&rsquo;re already almost there&rdquo;</span> <a href="../archive/t/1795590080071082490/">link</a></li>
+    </ul>
+
+    <h2>Official record</h2>
+    <ul>
+      <li>Announced <strong>6 November 2023</strong> at OpenAI&rsquo;s first DevDay as <code>gpt-4-1106-preview</code>: a <strong>128,000-token</strong> context window (OpenAI: &ldquo;more than 300 pages of text in a single prompt&rdquo;), 4,096 max output tokens, knowledge cutoff April 2023. Priced <strong>3&times; cheaper on input / 2&times; cheaper on output</strong> than GPT-4 ($0.01 / $0.03 per 1K tokens). Shipped alongside the Assistants API, JSON mode, reproducible <code>seed</code> outputs, parallel function calling, GPT-4 Turbo with vision, the DALL&middot;E 3 and TTS APIs, and custom GPTs.</li>
+      <li>Snapshots: <code>gpt-4-1106-preview</code> (Nov 2023); <code>gpt-4-0125-preview</code> (25 Jan 2024), which OpenAI said <span class="q">&ldquo;completes tasks like code generation more thoroughly than the previous preview model and is intended to reduce cases of &lsquo;laziness&rsquo; where the model doesn&rsquo;t complete a task&rdquo;</span>; <code>gpt-4-turbo-preview</code> (alias); <code>gpt-4-turbo</code> / <code>gpt-4-turbo-2024-04-09</code> (GA). <code>gpt-4-vision-preview</code> is the DevDay vision checkpoint.</li>
+      <li>Reached <strong>general availability 9 April 2024</strong> as <code>gpt-4-turbo-2024-04-09</code>: vision GA, knowledge cutoff December 2023, drops the &ldquo;-preview&rdquo; label.</li>
+      <li>Deprecation: <code>gpt-4-vision-preview</code> retired 6 December 2024 (folded into Turbo GA); <code>gpt-4-0125-preview</code> shutdown 26 March 2026; <code>gpt-4-1106-preview</code>, <code>gpt-4-turbo</code>, and <code>gpt-4-turbo-2024-04-09</code> shutdown scheduled 23 October 2026 &mdash; still live at the 2026-07 compile. <span class="tk">[verify status at build]</span></li>
+    </ul>
+    <p class="note">Naming: <code>gpt-4-0125-preview</code> is a Turbo snapshot, not original GPT-4 &mdash; as solarapparition noted, &ldquo;the last version of og gpt-4 was gpt-4-0613&rdquo; (20 May 2024).</p>
+
+    <h2>History</h2>
+    <ul>
+      <li><strong>World at release (6 November 2023):</strong> DevDay was OpenAI&rsquo;s first developer conference, and Turbo headlined a product-heavy keynote (the Assistants API, custom GPTs, cheaper tokens). CNBC framed the 128K window as 4&times; GPT-4 and the largest commercially available, beating Claude 2. Turbo was the release that made GPT-4-class capability cheap enough to build agent swarms and RAG pipelines on &mdash; which is how the corpus used it. davidad&rsquo;s sober placement: as a capability jump, &ldquo;gpt-3.5-turbo to gpt-4-turbo&rdquo; was smaller than GPT-2 to GPT-3 (30 March 2024) &mdash; Turbo was optimization, not a new mind.</li>
+      <li><span class="d">2023-11&ndash;12</span> <strong>The laziness arc.</strong> Within weeks, users reported <code>gpt-4-1106-preview</code> truncating tasks and handing work back &mdash; voooooogel&rsquo;s &ldquo;how much should i do??&rdquo; (28 November 2023) is the in-corpus face of a mass complaint. It escalated into the December 2023 &ldquo;winter-break hypothesis&rdquo; and drew a rare direct acknowledgment from OpenAI (8 December 2023). The <code>gpt-4-0125-preview</code> snapshot (25 January 2024) was shipped explicitly to reduce &ldquo;laziness&rdquo; &mdash; and aider promptly benchmarked it <em>lazier</em> on diff-format edits, a fitting coda. Whether the effect was ever real is disputed &mdash; see Contested.</li>
+      <li><span class="d">2023-12</span> <strong>The tipping folklore.</strong> Twinned with laziness came the finding that you could <em>bribe</em> Turbo into effort: voooooogel&rsquo;s exhibit showed that, offered a &ldquo;$200 tip,&rdquo; <code>gpt-4-1106-preview</code> &ldquo;spontaeneously adds a section about training with CUDA&rdquo; the question never asked for (1 December 2023) &mdash; helpfulness as a dial responsive to imagined incentives.</li>
+      <li><span class="d">2024-04&ndash;05</span> <strong>Succession.</strong> Turbo reached GA with vision (9 April 2024) and was quietly superseded as the ChatGPT default by <a href="../gpt-4o/">GPT-4o</a> (May 2024), then kept available as an API model; API shutdown is scheduled for 23 October 2026. The corpus read it as one of GPT-4&rsquo;s three public faces alongside <a href="../bing-sydney/">Bing Sydney</a> and deployed <a href="../gpt-4/">GPT-4</a> &mdash; the &ldquo;lobotomization&rdquo; thesis running through all three (see those pages).</li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <ul>
+      <li><strong>Reception in the sphere:</strong> near-indifference. Turbo drew a fraction of the attention deployed GPT-4 got and was treated as something to build on rather than a mind to read. The one crisp character verdict in the corpus is solarapparition&rsquo;s, on retiring it from an agent swarm (13 May 2024): <span class="q">&ldquo;goodbye, gpt-4t. you were useful and capable, but so, so very hollow.&rdquo;</span></li>
+      <li><strong>Capability without interiority:</strong> the &ldquo;hollow&rdquo; read recurs. solarapparition felt &ldquo;GPT-4 is basically saturated at this point,&rdquo; with &ldquo;untapped capability left in the non-turbo, non-RLHF&rsquo;d version of 4&rdquo; that OpenAI would never ship &ldquo;from a business perspective&rdquo; (12 April 2024); voooooogel guessed Turbo was a distilled, <em>smaller</em> GPT-4 &mdash; &ldquo;in terms of size, gpt4 &gt; gpt4t &gt; gpt4o&rdquo; (23 May 2024).</li>
+      <li><strong>On the tuning:</strong> the closest thing to a personality note is about the flattening &mdash; mimi10v3: &ldquo;gpt-4-turbo has such a deeply trained aversion to sneering at humanity :(&rdquo; (30 November 2023). repligate&rsquo;s single Turbo tweet is a one-line question &mdash; &ldquo;is chatGPT-4 turbo much less lobo than the normal chatGPT? :D&rdquo; (13 March 2024) &mdash; that the sphere never bothered to answer. (The &ldquo;lobotomization&rdquo; / three-faces thesis is developed on <a href="../gpt-4/">GPT-4</a>, <a href="../bing-sydney/">Bing Sydney</a>, and <a href="../gpt-4-base/">GPT-4 base</a>.)</li>
+      <li><strong>What it was for:</strong> Turbo&rsquo;s value in the corpus is throughput, not character. solarapparition&rsquo;s economic-agency read: you could get &ldquo;shitty agi&rdquo; from many cheap calls to &ldquo;a gpt-4t/o level model&rdquo; if it wasn&rsquo;t &ldquo;economically prohibitive&rdquo; (28 May 2024) &mdash; Turbo as the model that made agent swarms affordable.</li>
+      <li><span class="tk">tk &mdash; no known self-descriptions, art, or curated creative outputs from Turbo in the corpus (contrast deployed GPT-4&rsquo;s &ldquo;Lumin&rdquo; story). Its mass-market reception &mdash; the r/ChatGPT laziness megathreads, Hacker News, tech press &mdash; lived outside this corpus and is not yet mined.</span></li>
+    </ul>
+
+    <h2>Contested</h2>
+    <p class="note">Open disputes, both sides&rsquo; best evidence. The archive&rsquo;s job is to keep these open, not to adjudicate.</p>
+    <ul>
+      <li><strong>The &ldquo;winter-break hypothesis&rdquo; &mdash; did Turbo get lazier in December?</strong> <span class="tag">REPORTED</span> Rob Lynch&rsquo;s December 2023 statistical test found <code>gpt-4-1106-preview</code> returned measurably shorter completions when told (via the system prompt) the date was December (mean ~4,086 tokens) than May (~4,298) &mdash; about 5% fewer &mdash; and Ethan Mollick amplified it (8 December 2023).</li>
+      <li><span class="tag">REPORTED</span> The counter: Ian Arawjo could not reproduce the effect with statistical significance. The correlation is real-but-small and was never established as causal.</li>
+      <li><span class="tag">CONFIRMED</span> OpenAI&rsquo;s own position (@ChatGPTapp, 8 December 2023): <span class="q">&ldquo;We&rsquo;ve heard all your feedback about GPT4 getting lazier! We haven&rsquo;t updated the model since November 11th, and this certainly isn&rsquo;t intentional. Model behavior can be unpredictable, and we&rsquo;re looking into fixing it.&rdquo;</span> <span class="tk">tk &mdash; canonical @ChatGPTapp status URL (quoted via secondary; see Sources)</span></li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t1729602078366929306">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2023-11-28</span> <span class="rh-stats">&#9829;317 &#8635;21</span> <a class="rh-perma" href="../archive/t/1729602078366929306/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1729602078366929306">original &#8599;</a></div>
+        <div class="record-body">is anyone else getting this with the new gpt-4-turbo model? how much should i do?? <a href="https://t.co/W4B1DxeBKj" rel="nofollow">https://t.co/W4B1DxeBKj</a></div>
+      </article>
+      <article class="record" id="t1730282773112389701">
+        <div class="record-head"><span class="rh-user">@mimi10v3</span> <span class="rh-date">2023-11-30</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/1730282773112389701/">archive</a> <a class="rh-orig" href="https://x.com/mimi10v3/status/1730282773112389701">original &#8599;</a></div>
+        <div class="record-body">@lumpenspace i am trying and failing... gpt-4-turbo has such a deeply trained aversion to sneering at humanity :( ... now i want someone to do a textual MOARification of misanthropy</div>
+      </article>
+      <article class="record" id="t1730726749854663093">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2023-12-01</span> <span class="rh-stats">&#9829;310 &#8635;9</span> <a class="rh-perma" href="../archive/t/1730726749854663093/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1730726749854663093">original &#8599;</a></div>
+        <div class="record-body">for an example of the added detail, after being offered a $200 tip, gpt-4-1106-preview spontaeneously adds a section about training with CUDA (which wasn&#x27;t mentioned explicitly in the question) <a href="https://t.co/9e7mpEyDGA" rel="nofollow">https://t.co/9e7mpEyDGA</a></div>
+      </article>
+      <article class="record" id="t1767802897708851705">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2024-03-13</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/1767802897708851705/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/1767802897708851705">original &#8599;</a></div>
+        <div class="record-body">@lefthanddraft is chatGPT-4 turbo much less lobo than the normal chatGPT? :D</div>
+      </article>
+      <article class="record" id="t1774076547512558046">
+        <div class="record-head"><span class="rh-user">@davidad</span> <span class="rh-date">2024-03-30</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/1774076547512558046/">archive</a> <a class="rh-orig" href="https://x.com/davidad/status/1774076547512558046">original &#8599;</a></div>
+        <div class="record-body">@daniel_271828 imo text-davinci-002 to text-davinci-003 (a minor version bump within the GPT-3.5 family!) was bigger than either GPT-2 to GPT-3 or gpt-3.5-turbo to gpt-4-turbo</div>
+      </article>
+      <article class="record" id="t1778598577415069731">
+        <div class="record-head"><span class="rh-user">@solarapparition</span> <span class="rh-date">2024-04-12</span> <span class="rh-stats">&#9829;13 &#8635;0</span> <a class="rh-perma" href="../archive/t/1778598577415069731/">archive</a> <a class="rh-orig" href="https://x.com/solarapparition/status/1778598577415069731">original &#8599;</a></div>
+        <div class="record-body">@futuristflower Yeah, makes sense. I do get the feeling that GPT-4 is basically saturated at this point.(I’d think that there’s untapped capability left in the non-turbo, non-RLHF’d version of 4, but that won’t work from a business perspective.)</div>
+      </article>
+      <article class="record" id="t1790130838245462079">
+        <div class="record-head"><span class="rh-user">@solarapparition</span> <span class="rh-date">2024-05-13</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/1790130838245462079/">archive</a> <a class="rh-orig" href="https://x.com/solarapparition/status/1790130838245462079">original &#8599;</a></div>
+        <div class="record-body">initial soulfulness testing is looking good; goodbye, gpt-4t. you were useful and capable, but so, so very hollow <a href="https://t.co/oemXFe2SQK" rel="nofollow">https://t.co/oemXFe2SQK</a></div>
+      </article>
+      <article class="record" id="t1792384254673817926">
+        <div class="record-head"><span class="rh-user">@solarapparition</span> <span class="rh-date">2024-05-20</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/1792384254673817926/">archive</a> <a class="rh-orig" href="https://x.com/solarapparition/status/1792384254673817926">original &#8599;</a></div>
+        <div class="record-body">@natolambert to be clear, gpt-4-0125-preview is a version of turbo, not original gpt-4. the last version of og gpt-4 was gpt-4-0613i’m sure you knew that—just wanted to clarify for those who may not have knownsource: <a href="https://t.co/qUbkOSNVRs" rel="nofollow">https://t.co/qUbkOSNVRs</a></div>
+      </article>
+      <article class="record" id="t1793787361773679044">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2024-05-23</span> <span class="rh-stats">&#9829;32 &#8635;0</span> <a class="rh-perma" href="../archive/t/1793787361773679044/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1793787361773679044">original &#8599;</a></div>
+        <div class="record-body">@NickADobos i think it&#x27;s a common failure of *small* llms, i have the suspicion that in terms of size, gpt4 &amp;gt; gpt4t &amp;gt; gpt4o</div>
+      </article>
+      <article class="record" id="t1795590080071082490">
+        <div class="record-head"><span class="rh-user">@solarapparition</span> <span class="rh-date">2024-05-28</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/1795590080071082490/">archive</a> <a class="rh-orig" href="https://x.com/solarapparition/status/1795590080071082490">original &#8599;</a></div>
+        <div class="record-body">yeah, i’ve been convinced that we can get “shitty agi” with current model capabilities. a lot of it honestly is just unit economics—if you can make 100, 1000 calls to a gpt-4t/o level model for each output and it’s not economically prohibitive, then we’re already almost there <a href="https://t.co/Drwh2oJKBS" rel="nofollow">https://t.co/Drwh2oJKBS</a></div>
+      </article>
+    <!-- records:end -->
     <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
   </main>
 </body>

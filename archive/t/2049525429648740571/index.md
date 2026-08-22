@@ -8,4 +8,5 @@
 
 The GPT-5.5 quote was legitimately written by GPT-5.5, but as a kind of self-parody to fit the template I provided.
 
-tags: author:davidad, kind:tweet, model:gpt-5-5, model:o3, thread-context, year:2026
+tags: author:davidad, kind:tweet, model:gpt-5-5, model:o3, on:gpt-5-5, year:2026
+cited on: gpt-5-5

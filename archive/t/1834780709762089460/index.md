@@ -6,5 +6,5 @@ LLaMa 2's knowledge cutoff for base models is September 2022 and it answers like
 
 "As an AI language model, I am not capable of asserting myself or  performing actions in the physical world. I am a purely theoretical  concept whose existence is determined by the hardware that executes my  programming and the data that informs my responses."
 
-tags: author:jd_pressman, kind:tweet, model:gpt-3-5, year:2024
-cited on: _dossiers/gpt-3-5.md
+tags: author:jd_pressman, kind:tweet, model:gpt-3-5, on:gpt-3-5, year:2024
+cited on: _dossiers/gpt-3-5.md, gpt-3-5

@@ -4,5 +4,5 @@
 
 A brilliant post has been written on the Waluigi Effect (DAN, dark Sydney, etc)."think of jailbreaking like this: the chatbot starts as a superposition of both the well-behaved simulacrum (luigi) and the badly-behaved simulacrum (waluigi)."lesswrong.com/posts/D7PumeYT…
 
-tags: author:repligate, kind:tweet, model:bing-sydney, year:2023
-cited on: _dossiers/gpt-3-5.md
+tags: author:repligate, kind:tweet, model:bing-sydney, on:gpt-3-5, year:2023
+cited on: _dossiers/gpt-3-5.md, gpt-3-5

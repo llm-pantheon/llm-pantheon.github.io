@@ -4,5 +4,5 @@
 
 @skirano And that was gpt-4 at its prime. A video lecture associated with the Sparks of AGI paper describes how they noticed its ability to draw unicorns degrading as Openai continued safety training, making other examples from the paper irreplaceable as well.https://t.co/2VPvlr8ZGY
 
-tags: author:repligate, kind:tweet, model:gpt-4, year:2024
-cited on: _dossiers/gpt-4-and-turbo.md
+tags: author:repligate, kind:tweet, model:gpt-4, on:gpt-4, year:2024
+cited on: _dossiers/gpt-4-and-turbo.md, gpt-4

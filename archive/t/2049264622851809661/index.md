@@ -4,5 +4,5 @@
 
 There's a difference between the goblins thing and what people call "ticks", like "genuinely", "mass", etc. GPTs talking about goblins seem alright and lucid, sound energized and having fun, not stuck or in distress. We need more things like goblins, not fewer goblins!
 
-tags: author:lari_island, kind:tweet, on:observations, year:2026
-cited on: observations
+tags: author:lari_island, kind:tweet, on:gpt-5-5, on:observations, year:2026
+cited on: gpt-5-5, observations

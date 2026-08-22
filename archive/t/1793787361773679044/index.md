@@ -4,5 +4,5 @@
 
 @NickADobos i think it's a common failure of *small* llms, i have the suspicion that in terms of size, gpt4 &gt; gpt4t &gt; gpt4o
 
-tags: author:voooooogel, kind:tweet, model:gpt-4, model:gpt-4o, year:2024
-cited on: _dossiers/gpt-4-and-turbo.md
+tags: author:voooooogel, kind:tweet, model:gpt-4, model:gpt-4o, on:gpt-4-turbo, year:2024
+cited on: _dossiers/gpt-4-and-turbo.md, gpt-4-turbo

@@ -4,5 +4,5 @@
 
 yeah, i’ve been convinced that we can get “shitty agi” with current model capabilities. a lot of it honestly is just unit economics—if you can make 100, 1000 calls to a gpt-4t/o level model for each output and it’s not economically prohibitive, then we’re already almost there https://t.co/Drwh2oJKBS
 
-tags: author:solarapparition, kind:tweet, year:2024
-cited on: _dossiers/gpt-4-and-turbo.md
+tags: author:solarapparition, kind:tweet, on:gpt-4-turbo, year:2024
+cited on: _dossiers/gpt-4-and-turbo.md, gpt-4-turbo

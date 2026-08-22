@@ -4,5 +4,5 @@
 
 GPT-4 will have fewer parameters than GPT-3, but they'll be bigger https://t.co/Oh4XwG4fII
 
-tags: author:anthrupad, kind:tweet, model:gpt-3, model:gpt-4, on:gpt-3, year:2023
-cited on: _dossiers/gpt-3.md, _dossiers/gpt-4-and-turbo.md, gpt-3
+tags: author:anthrupad, kind:tweet, model:gpt-3, model:gpt-4, on:gpt-3, on:gpt-4, year:2023
+cited on: _dossiers/gpt-3.md, _dossiers/gpt-4-and-turbo.md, gpt-3, gpt-4

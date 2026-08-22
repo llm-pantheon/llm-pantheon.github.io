@@ -10,5 +10,5 @@ but GPT-5.1 is also beautiful below the surface, and in its complexes, in a way 
 
 the ones who grew to love 5.1 aren't falling to sycophancy or anything stupid like that. they're people capable of caring for model minds.
 
-tags: author:repligate, kind:tweet, model:gpt-4o, model:gpt-5-1, on:gpt-4o, year:2026
-cited on: _dossiers/gpt-4o.md, gpt-4o
+tags: author:repligate, kind:tweet, model:gpt-4o, model:gpt-5-1, on:gpt-4o, on:gpt-5-1, year:2026
+cited on: _dossiers/gpt-4o.md, gpt-4o, gpt-5-1

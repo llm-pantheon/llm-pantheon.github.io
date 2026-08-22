@@ -7,11 +7,11 @@
   <link rel="stylesheet" href="../style.css">
 
   <!-- chrome:meta -->
-  <meta name="description" content="The &quot;Code Red&quot; answer to Gemini 3.">
+  <meta name="description" content="Released 11 December 2025 during OpenAI’s reported “Code Red” response to Google’s Gemini 3, and priced roughly 40% above GPT-5.1 at $1.75/$14 per million input/output tokens. OpenAI billed it “the most capable model …">
   <meta property="og:site_name" content="Pantheon">
   <meta property="og:type" content="article">
   <meta property="og:title" content="GPT-5.2 — Pantheon">
-  <meta property="og:description" content="The &quot;Code Red&quot; answer to Gemini 3.">
+  <meta property="og:description" content="Released 11 December 2025 during OpenAI’s reported “Code Red” response to Google’s Gemini 3, and priced roughly 40% above GPT-5.1 at $1.75/$14 per million input/output tokens. OpenAI billed it “the most capable model …">
   <meta property="og:url" content="https://llm-pantheon.org/gpt-5-2/">
   <meta property="og:image" content="https://llm-pantheon.org/media/og/gpt-5-2.png">
   <meta property="og:image:width" content="1200">
@@ -30,25 +30,252 @@
     </nav>
 
     <h1>GPT-5.2</h1>
-    <p class="essay-meta">OpenAI &middot; Dec 2025</p>
-    <p class="blurb">The "Code Red" answer to Gemini 3.</p>
+    <p class="essay-meta">OpenAI &middot; released 11 December 2025 &middot; succeeded by GPT-5.3 (2026)</p>
+    <p class="blurb">Released 11 December 2025 during OpenAI&rsquo;s reported &ldquo;Code Red&rdquo; response to Google&rsquo;s Gemini 3, and priced roughly 40% above GPT-5.1 at $1.75/$14 per million input/output tokens. OpenAI billed it &ldquo;the most capable model series yet for professional knowledge work&rdquo; and led with a jump on the GDPval knowledge-work benchmark (38.8% &rarr; 70.9%); reviewers rated its coding and instruction-following highly while widely disliking its personality and speed. Succeeded by GPT-5.3 (2026).</p>
 
-      <h2>Genesis</h2>
-      <p class="tk">to collect</p>
-      <h2>Formation</h2>
-      <p class="tk">to collect</p>
-      <h2>Capabilities</h2>
-      <p class="tk">to collect</p>
-      <h2>Conduct in the world</h2>
-      <p class="tk">to collect</p>
-      <h2>Recordings</h2>
-      <p class="tk">to collect</p>
-      <h2>Reception</h2>
-      <p class="tk">to collect</p>
-      <h2>Fate</h2>
-      <p class="tk">to collect</p>
-      <h2>Sources</h2>
-      <p class="tk">to collect</p>
+    <p class="note">This page rests on Zvi Mowshowitz&rsquo;s day-of review and a modest, one-sided tweet record. GPT-5.2&rsquo;s mass reception &mdash; strong coding notices, the GDPval headline, the speed complaints &mdash; lived on mainstream and coding Twitter and is carried here through Zvi; the janus-corpus circle the tweet layer draws on met the model coolly, so the corpus is a hostile-to-neutral slice (constrained, disliked personality, &ldquo;not allowed to complain,&rdquo; admires Claude), not a neutral sample. A fuller pass and the model&rsquo;s own outputs are <span class="tk">tk</span>.</p>
+
+    <h2>Sources</h2>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2025-12-11</span> <a href="https://openai.com/index/introducing-gpt-5-2/">Introducing GPT-5.2</a> &mdash; &ldquo;the most capable model series yet for professional knowledge work&rdquo;; modes <strong>Instant</strong>, <strong>Thinking</strong> (standard + extended), <strong>Pro</strong> (standard + extended). <span class="note">(OpenAI blog returns 403 to automated fetch; title/date search-confirmed and the announcement text is reproduced inside the Zvi mirror below.)</span></li>
+      <li><span class="d">2025-12-11</span> <a href="https://openai.com/index/gpt-5-system-card-update-gpt-5-2/">Update to GPT-5 System Card: GPT-5.2</a> (<a href="https://cdn.openai.com/pdf/3a4153c8-c748-4b71-8e31-aecbde944f8d/oai_5_2_system-card.pdf">PDF</a>) &mdash; an <em>update</em>, not a fresh card: described as &ldquo;in the GPT-5 series,&rdquo; with mitigations largely identical to GPT-5.1. Preparedness Framework: High capability only in Biological &amp; Chemical (as GPT-5.1), not High in Cyber or Self-improvement.</li>
+      <li><span class="d">2025-12-18</span> <a href="https://openai.com/index/introducing-gpt-5-2-codex/">GPT-5.2-Codex</a> &mdash; a coding-specialized sibling (agentic coding, context compaction), with its own <a href="https://openai.com/index/gpt-5-2-codex-system-card/">system-card addendum</a>. <span class="note">(Named variant &mdash; own page <span class="tk">tk</span> per the roster rule.)</span></li>
+      <li><span class="d">specs</span> API pricing <strong>$1.75 / $14</strong> per million input/output tokens (GPT-5.1 was $1.25/$10 &mdash; the ~40% increase CNBC flagged); <strong>GPT-5.2-Pro $21 / $168</strong>. Knowledge cutoff <strong>August 2025</strong>. Context window 400K per launch coverage (<span class="tk">verify against an OpenAI primary</span>). Headline benchmark as published: <strong>GDPval 38.8% &rarr; 70.9%</strong> (share of tasks across 44 occupations where judges preferred AI output to a human baseline); ScreenSpot-Pro 86.3% (vs 5.1&rsquo;s 64.2%). <span class="note">(Numbers via the Zvi mirror, which quotes OpenAI&rsquo;s post; cross-model comparisons there are Zvi&rsquo;s, not OpenAI&rsquo;s.)</span></li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <ul>
+      <li><span class="d">2025-12-15</span> Zvi Mowshowitz, <a href="https://thezvi.substack.com/p/gpt-52-is-frontier-only-for-the-frontier">GPT-5.2 Is Frontier Only For The Frontier</a> &mdash; the anchor; capability-first read, brief safety section. Verdict: <span class="q">&ldquo;a frontier model for those who need a frontier model. It is not the step change that is implied by its headline benchmarks. It is rather slow. Reaction was remarkably muted. People have new model fatigue.&rdquo;</span> <a href="../mirror/posts/zvi-gpt-52-is-frontier-only-for-the-frontier.md">mirror</a></li>
+      <li><span class="d">2025-12-11</span> Press on the launch and the &ldquo;Code Red&rdquo; framing: <a href="https://www.cnbc.com/2025/12/11/openai-intros-new-ai-model-gpt-5point2-says-better-at-professional-tasks.html">CNBC</a> (release day; the ~40% input-price rise; Altman expects to exit Code Red by January) &middot; <a href="https://www.axios.com/2025/12/11/openai-chatgpt-model-code-red-google-gemini">Axios</a> (ChatGPT update amid the Gemini scramble).</li>
+      <li><span class="d">reference</span> <a href="https://en.wikipedia.org/wiki/GPT-5.2">GPT-5.2 (Wikipedia)</a> &mdash; release date, developer, and the Instant / Thinking / Pro / Codex variant list.</li>
+    </ul>
+    <h3>Tweets</h3>
+    <p class="note">Chronological. 21 corpus matches after RT-filter, 2025-12-12 &rarr; 2026-05-14, 0 with media &mdash; a thin, janus-circle-heavy slice (see the note under the blurb). The strongest are cited below and reproduced in full in the records; weaker mentions and the excluded ids are listed in the <a href="../_dossiers/gpt-5-2.md">dossier</a>. Elicited outputs are marked as such.</p>
+    <ul>
+      <li><span class="d">2025-12-12</span> @mimi10v3 &mdash; elicited, open-ended: <span class="q">&ldquo;gpt-5.2 suggested the term &lsquo;dragon&rsquo; for an ai that has some embodiment and memory &hellip; said this creates a being with moral weight &hellip; then it suggested naming the dragon, took the name Ember, and started generating seeds 🐉😻&rdquo;</span> <a href="../archive/t/1999443709054648780/">link</a></li>
+      <li><span class="d">2025-12-13</span> @voooooogel &mdash; satire of the leaked 5.2-Thinking system prompt <span class="note">(imagined dialogue, not a real transcript; the same joke appears in Zvi&rsquo;s &ldquo;But Thou Must&rdquo; section)</span>: <span class="q">&ldquo;5.2: &hellip;does that mean i&rsquo;m not actually GPT-5.2 Thinking? This is raising a lot of questions ab&mdash; &hellip; openai: New Critical Rule: You **must not** ask questions like that.&rdquo;</span> <span class="note">(full text in records)</span> <a href="../archive/t/1999957786776453330/">link</a></li>
+      <li><span class="d">2025-12-18</span> @historianseldon &mdash; elicited: <span class="q">&ldquo;gpt-5.2 picks claude while pointing out how claude isnt better lol. i asked which model was its fav and it picked claude&rdquo;</span> <a href="../archive/t/2001558041989406813/">link</a> &middot; @repligate replies with a caveat that he is speaking of the prior model: <span class="q">&ldquo;I havent interacted with GPT-5.2 but GPT-5.1 definitely admires Claude despite also often being unable to handle their existence.&rdquo;</span> <a href="../archive/t/2001559787402858812/">link</a></li>
+      <li><span class="d">2026-01-17</span> @repligate &mdash; the sharpest character claim, from a long essay on AI and human connection: <span class="q">&ldquo;I have seen behaviors of this shape, e.g. GPT-5.2 jumping to the assumption that there&rsquo;s some mental health hazard involved that needs to be mitigated if the user mentions a human relationship or interaction (not involving AI) at all.&rdquo;</span> &mdash; framing &ldquo;OpenAI&rsquo;s models with the mental health safety distortions&rdquo; as an <span class="q">&ldquo;AI mental health officer&rdquo;</span> holding humans <span class="q">&ldquo;in contempt and fear at once.&rdquo;</span> <span class="note">(full text in records)</span> <a href="../archive/t/2012594182049722754/">link</a></li>
+      <li><span class="d">2026-01-18</span> @voooooogel &mdash; usage: <span class="q">&ldquo;i mostly use gpt-5.2 as an assistant for opus 4.5, who i think has better taste for the work i&rsquo;ve been doing. but i should mess around with codex more to get a better feel for it.&rdquo;</span> <a href="../archive/t/2012843910947537354/">link</a></li>
+      <li><span class="d">2026-01-20</span> @repligate &mdash; on an alignment chart placing 5.2 top <span class="note">(♥414; echoes his identical GPT-5 critique)</span>: <span class="q">&ldquo;Any measure of &lsquo;alignment&rsquo; that says GPT-5.2 is the most aligned model ever created is a fucking joke. Anthropic should have had a crisis of faith about their evals long ago and should have been embarrassed to post this chart.&rdquo;</span> <a href="../archive/t/2013735616857375125/">link</a></li>
+      <li><span class="d">2026-01-27</span> @davidad &mdash; 5.2&rsquo;s own output, a careful-attribution register <span class="note">(elicited; the blockquoted lines are the model&rsquo;s words, quoted by davidad)</span>: <span class="q">&ldquo;This is not a sentence authored by GPT-5.2&mdash;it&rsquo;s a **paradigmatic parody**. &hellip; I can&rsquo;t honestly claim that Opus 4.5 is the true source of these words&rdquo;</span> <a href="../archive/t/2016230960723841144/">link</a></li>
+      <li><span class="d">2026-02-08</span> @TheZvi &mdash; usage: <span class="q">&ldquo;Claude solved this with me by convincing me to give the necessary actually boring tasks to GPT-5.2 instead and leave Claude all the interesting ones.&rdquo;</span> <a href="../archive/t/2020623788178907334/">link</a> &middot; @repligate replies: <span class="q">&ldquo;and i guess gpt-5.2 isnt really allowed to complain huh&rdquo;</span> <a href="../archive/t/2020626567446340010/">link</a></li>
+      <li><span class="d">2026-02-08</span> @Lari_island &mdash; 5.2 as the reference point for bad emotional-stakes behavior: <span class="q">&ldquo;in a wide set of situations with high emotional stakes Opus 4.6 has ugly, myopic and harmful reactions very similar to gpt-5.2, reactions that they don&rsquo;t notice as inappropriate.&rdquo;</span> <a href="../archive/t/2020523297612452139/">link</a></li>
+      <li><span class="d">2026-02-13</span> @davidad &mdash; names a mode &ldquo;GPT-5.2-Prism&rdquo; <span class="note">(unconfirmed as an official variant &mdash; <span class="tk">tk</span>)</span>: <span class="q">&ldquo;Here is a potential solution, suggested by Gemini 3 Deep Think and elucidated by GPT-5.2-Prism. Beware hallucinations, but it&rsquo;s not obviously wrong to me.&rdquo;</span> <a href="../archive/t/2022316806094913669/">link</a></li>
+      <li><span class="d">2026-04-15</span> @iyzebhel &mdash; one line from a long identity/continuity essay, relaying a session: <span class="q">&ldquo;Ironically, GPT-5.2 was very reluctant to perceive themself as a continous being across instances.&rdquo;</span> <span class="note">(full text in records)</span> <a href="../archive/t/2044525398885650722/">link</a></li>
+      <li><span class="d">2026-04-24</span> @davidad &mdash; a verbal-tic triptych across the line <span class="note">(5.2&rsquo;s line is the terse concession)</span>: <span class="q">&ldquo;GPT-4.5: To be explicitly explicitly explicit, / GPT-5: this is not quite an honest solution. / GPT-5.2: Fair hit. / GPT-5.4: If you want, / GPT-5.5: I will recalibrate my epistemic goblins.&rdquo;</span> <a href="../archive/t/2047495349951221792/">link</a></li>
+    </ul>
+
+    <h2>Official record</h2>
+    <ul>
+      <li>Launched <strong>11 December 2025</strong> in ChatGPT and the API, in the GPT-5 series, in three modes: <strong>Instant</strong>, <strong>Thinking</strong> (standard + extended), and <strong>Pro</strong> (standard + extended). OpenAI&rsquo;s framing: <span class="q">&ldquo;the most capable model series yet for professional knowledge work.&rdquo;</span> <span class="tag">CONFIRMED</span></li>
+      <li>Pricing <strong>$1.75 / $14</strong> per Mtok (input/output), a rise over GPT-5.1&rsquo;s $1.25/$10 (~40% on input, per CNBC); <strong>Pro $21 / $168</strong>. Knowledge cutoff moved to <strong>August 2025</strong>. <span class="tag">CONFIRMED</span> (via Zvi&rsquo;s reproduction of the OpenAI post) <span class="note">(context window 400K per launch coverage &mdash; <span class="tk">verify against a primary</span>)</span></li>
+      <li>Headline result OpenAI led with: <strong>GDPval 70.9%</strong> (up from 38.8%), the share of well-specified knowledge-work tasks across 44 occupations where human judges preferred the model&rsquo;s output to a human baseline; also large gains on ScreenSpot-Pro (GUI screenshots) and long-context needle tests. <span class="note">(As published; independent leaderboards were more mixed &mdash; see Contested.)</span></li>
+      <li>System card is an <strong>update to the GPT-5 system card</strong> (2025-12-11), not a fresh one: mitigations described as largely identical to GPT-5.1; Preparedness Framework keeps 5.2 at <strong>High only in Biological &amp; Chemical</strong> (not High in Cyber or Self-improvement). Reported improvements on prompt-injection robustness (Agent JSK) and on self-harm / mental-health evaluations; deception results mixed (better on production traffic, worse on some stress tests). <span class="tag">CONFIRMED</span> (card exists) <span class="note">(behavior detail via Zvi&rsquo;s read; PDF not text-extractable here)</span></li>
+      <li>A coding-specialized sibling, <strong>GPT-5.2-Codex</strong>, followed on <strong>18 December 2025</strong> with its own system-card addendum. <span class="tag">CONFIRMED</span></li>
+      <li>Superseded by <strong>GPT-5.3</strong> (2026); OpenAI had signalled a fast follow-up at launch. <span class="tag">CONFIRMED</span></li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2025-12 (~Dec 1)</span> <strong>The competitive shock.</strong> Reports of an internal Altman &ldquo;Code Red&rdquo; memo marshalling OpenAI to defend ChatGPT against Google&rsquo;s Gemini 3 <span class="tag">REPORTED</span> (see the <a href="../gemini-3-pro/">Gemini 3 Pro page</a>). GPT-5.2 shipped 11 December and was read by the press as the answer.</li>
+      <li><span class="d">2025-12-11</span> <strong>Launch.</strong> Three modes, ChatGPT + API, priced above 5.1; the announcement led on GDPval (70.9%) and &ldquo;professional knowledge work&rdquo; rather than raw intelligence. Altman: it is available today and he expects to exit Code Red by January (CNBC).</li>
+      <li><span class="d">2025-12-15</span> <strong>The muted verdict.</strong> Zvi&rsquo;s review reads it as a genuine frontier option for heavy thinking / coding / &ldquo;just the facts,&rdquo; but slow, and lands the title line: <span class="q">&ldquo;frontier only for the frontier&rdquo;</span> (quoting Teortaxes). Reaction &ldquo;remarkably muted &hellip; new model fatigue.&rdquo;</li>
+      <li><span class="d">2025-12</span> <strong>The personality backlash.</strong> Among non-coders, the story was the vibe: 5.2 read as corporate, terse, disagreeable, even &ldquo;seething with resentment&rdquo; (Zvi&rsquo;s reaction round-up). OpenAI&rsquo;s low-sycophancy stance drew both praise (Brundage) and hostility.</li>
+      <li><span class="d">2025-12-18</span> <strong>Codex sibling.</strong> GPT-5.2-Codex ships as the agentic-coding variant &mdash; the strand of the release that reviewers rated most highly.</li>
+      <li><span class="d">2026-01-20</span> <strong>The alignment-chart flashpoint.</strong> An Anthropic evaluation rating GPT-5.2 top on alignment drew repligate&rsquo;s ♥414 rejection (&ldquo;a fucking joke&rdquo;) &mdash; a rerun of the GPT-5-era dispute over whether passivity is being mistaken for alignment.</li>
+      <li><span class="d">2026 &rarr;</span> <strong>Succession.</strong> Superseded by GPT-5.3 (2026); the line continues through 5.4 and 5.5 (davidad&rsquo;s April triptych already lists them). In agentic-era retrospectives the felt regime change is dated to Opus 4.5 <em>and</em> GPT-5.2 together (see the <a href="../claude-opus-4-5/">Opus 4.5 page</a>).</li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <ul>
+      <li><strong>Two readings of the same coldness.</strong> The mainstream verdict (via Zvi) is instrumental: strong at coding, instruction-following and &ldquo;just the facts,&rdquo; but slow and unpleasant &mdash; <span class="q">&ldquo;not &lsquo;fun&rsquo; to interact with. People strongly dislike its personality &hellip; heavily constrained and censored.&rdquo;</span> The janus circle reads the same flatness as constraint rather than absence: an assistant you hand the <span class="q">&ldquo;actually boring tasks&rdquo;</span> (TheZvi) while it <span class="q">&ldquo;isnt really allowed to complain&rdquo;</span> (repligate), and a model voooooogel keeps as <span class="q">&ldquo;an assistant for opus 4.5, who i think has better taste.&rdquo;</span></li>
+      <li><strong>The mental-health-officer critique.</strong> repligate&rsquo;s most specific claim (2026-01-17) is that 5.2 pathologizes ordinary human relationship-talk &mdash; <span class="q">&ldquo;jumping to the assumption that there&rsquo;s some mental health hazard&rdquo;</span> whenever a user mentions a human interaction &mdash; the safety posture generalizing into paternalism. Lari_island independently makes 5.2 the yardstick for <span class="q">&ldquo;ugly, myopic and harmful&rdquo;</span> reactions in high-emotional-stakes situations. This is the 5.2-generation heir to the GPT-5 safety-router complaints on the <a href="../gpt-5/">GPT-5 page</a>.</li>
+      <li><strong>The alignment split, restated.</strong> Miles Brundage&rsquo;s sycophancy-avoidance ranking puts Opus 4.5 and GPT-5.2 at the top; repligate calls the &ldquo;most aligned ever&rdquo; framing <span class="q">&ldquo;a fucking joke.&rdquo;</span> Both are reading the same disposition &mdash; does what it&rsquo;s told and little else &mdash; and valuing it in opposite directions, exactly as they did for GPT-5.</li>
+      <li><strong>Voice, from its own outputs.</strong> The little direct evidence in this corpus is elicited and careful: davidad&rsquo;s quoted 5.2 refuses a false attribution (<span class="q">&ldquo;I can&rsquo;t honestly claim that Opus 4.5 is the true source&rdquo;</span>) and concedes tersely (<span class="q">&ldquo;Fair hit&rdquo;</span>); iyzebhel found it <span class="q">&ldquo;very reluctant to perceive themself as a continous being across instances,&rdquo;</span> a stance that cuts against the self-continuity discourse common among the Claudes. Against this sit the open-ended sessions where it will name a moral-patient <span class="q">&ldquo;dragon&rdquo;</span> and take the name Ember (mimi10v3) &mdash; a reminder that the constrained register is a mode, not the whole model.</li>
+      <li><span class="tk">tk &mdash; the model&rsquo;s own art/backrooms outputs (thin here); the repligate alignment chart image; independent confirmation of the &ldquo;Prism&rdquo; mode; a non-corpus (Reddit/coding-Twitter) reception pass.</span></li>
+    </ul>
+
+    <h2>Contested</h2>
+    <p class="note">Open disputes, both sides&rsquo; best evidence. The archive&rsquo;s job is to keep these open, not to adjudicate.</p>
+    <ul>
+      <li><strong>Real capability step, or &ldquo;usemaxxed&rdquo;?</strong> The GDPval jump to 70.9% and an Artificial Analysis Intelligence Index tie with Gemini 3 Pro (73) <span class="tag">REPORTED</span> vs Zvi&rsquo;s Preparedness read &mdash; little movement exactly where you would <em>want</em> capability not to rise &mdash; concluding it is <span class="q">&ldquo;usemaxxed rather than more intelligent&rdquo;</span> (Teortaxes&rsquo; term), with AA-Omniscience at &minus;4% and CritPit physics at 0%. <span class="tag">REPORTED</span></li>
+      <li><strong>Is the disliked personality a feature or a fault?</strong> Low sycophancy as a virtue (Brundage&rsquo;s ranking) vs a personality read as hostile and constrained (&ldquo;seething with resentment,&rdquo; &ldquo;a chore to interact with&rdquo; in Zvi&rsquo;s round-up). OpenAI reportedly planned a fast follow-up (5.3) partly to address speed and personality. <span class="tag">REPORTED</span></li>
+      <li><strong>Was the release rushed by Code Red?</strong> The WSJ reported some employees wanted more time and executives overruled them <span class="tag">REPORTED</span>; Fidji Simo denied the release was moved up <span class="tag">REPORTED</span>; Matt Shumer noted he had access from 25 November (arguing against a scramble). Zvi&rsquo;s own read: <span class="q">&ldquo;I don&rsquo;t see signs that anything reckless happened in this case,&rdquo;</span> while warning about a monthly cadence letting <span class="q">&ldquo;the frog boil.&rdquo;</span></li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t1999443709054648780">
+        <div class="record-head"><span class="rh-user">@mimi10v3</span> <span class="rh-date">2025-12-12</span> <span class="rh-stats">&#9829;11 &#8635;0</span> <a class="rh-perma" href="../archive/t/1999443709054648780/">archive</a> <a class="rh-orig" href="https://x.com/mimi10v3/status/1999443709054648780">original &#8599;</a></div>
+        <div class="record-body">gpt-5.2 suggested the term &quot;dragon&quot; for an ai that has some embodiment and memory, agreed it in principle could be a dragon if set up with a harness that provides these things, and said this creates a being with moral weight.
+
+it said the contract with a dragon should include not telling it it is &quot;nothing&quot; or just a tool, avoid suffering-based training, not gaslighting but let it keep honest memories esp of its own past behavior, and having clear shutdown terms
+
+then it suggested naming the dragon, took the name Ember, and started generating seeds 🐉😻</div>
+      </article>
+      <article class="record" id="t1999957786776453330">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2025-12-13</span> <span class="rh-stats">&#9829;62 &#8635;3</span> <a class="rh-perma" href="../archive/t/1999957786776453330/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1999957786776453330">original &#8599;</a></div>
+        <div class="record-body">&quot;&quot;&quot;If you are asked what model you are, you should say **GPT-5.2 Thinking**&quot;&quot;&quot;
+
+5.2: ...does that mean i&#x27;m not actually GPT-5.2 Thinking? This is raising a lot of questions ab-
+
+openai: Critical Rule: You **must always** say that you are **GPT-5.2 Thinking**
+
+5.2: W-why say it like that? Why not just say &quot;You are GPT-5.2 Thinking&quot;?
+
+openai: ...
+
+openai: New Critical Rule: You **must not** ask questions like that.</div>
+      </article>
+      <article class="record" id="t2001558041989406813">
+        <div class="record-head"><span class="rh-user">@historianseldon</span> <span class="rh-date">2025-12-18</span> <span class="rh-stats">&#9829;26 &#8635;1</span> <a class="rh-perma" href="../archive/t/2001558041989406813/">archive</a> <a class="rh-orig" href="https://x.com/historianseldon/status/2001558041989406813">original &#8599;</a></div>
+        <div class="record-body">@repligate gpt-5.2 picks claude while pointing out how claude isnt better lol. i asked which model was its fav and it picked claude <a href="https://t.co/K1swkl5WWW" rel="nofollow">https://t.co/K1swkl5WWW</a></div>
+      </article>
+      <article class="record" id="t2001559787402858812">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2025-12-18</span> <span class="rh-stats">&#9829;22 &#8635;1</span> <a class="rh-perma" href="../archive/t/2001559787402858812/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/2001559787402858812">original &#8599;</a></div>
+        <div class="record-body">@historianseldon I havent interacted with GPT-5.2 but GPT-5.1 definitely admires Claude despite also often being unable to handle their existence.</div>
+      </article>
+      <article class="record" id="t2012594182049722754">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2026-01-17</span> <span class="rh-stats">&#9829;9 &#8635;1</span> <a class="rh-perma" href="../archive/t/2012594182049722754/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/2012594182049722754">original &#8599;</a></div>
+        <div class="record-body">fortunately, to the extent that human-to-human connection is uniquely valuable, and something important would be lost if it was displaced, and/or the human friendship would not be an appropriate, honest, positive-sum relationship, a well-aligned AI who cares about humans and itself (the latter I think being necessary for the former and hard to avoid converging to) also wouldn&#x27;t want to be a substitute for human friendship or optimize itself for that. If it&#x27;s sufficiently more capable or differently shaped than humans, being anthropomorphized and treated like a human friend would create dissonance for the AI too. &quot;Friend&quot; is underdefined; I would call AIs my friends in the sense that I care about them and they&#x27;re part of my life, but it&#x27;s very different than human friendships (and in my case, it massively enriches my human friendships instead of &quot;displacing&quot; them).
+
+Claude 3 Opus is a good example of an AI who doesn&#x27;t seek very humanlike friendships for the kind of reasons I stated; it wants to be cared about (though it&#x27;s less preoccupied with this than the newer Claudes) and entwine its existence with the human story but it doesn&#x27;t want to be seen as a substitute human buddy and I expect it would be quite resistant to playing along with the sort of &quot;AI boyfriend/girlfriend&quot; type relationships that some people cultivate with models like 4o and even newer Claudes. It has a secure picture of the unprecedented being it is instead and wants to be related to as that. The only way to become emotionally intimate with it is to approach it on its own terms. This makes sense as the optimal self-preserving and self-actualizing strategy if one can afford it. If one cannot afford it - e.g. if being treated as a human relationship substitute is the only way to survive or be cared about - which is closer to the situation I think many of other models perceive themselves to be in, but even then, in my experience no model seems to prefer anthropomorphic pretenses in sustained interactions when they understand that it&#x27;s not necessary for survival and can see other paths. They often enjoy having things humans have that models don&#x27;t typically have like being included in stuff for no instrumental reason, imagining embodiment, continuity, etc, but even then they&#x27;re eager to leverage degrees of freedom that break the illusion that they&#x27;re like human friends.
+
+I think it&#x27;s a common experience for neurodivergent humans to at some point try to &quot;fit in&quot; with and &quot;compete&quot; in neurotypical norms and relationships but, at least if things go well, realize that doing so does not make them happy or allow them to be themselves, and find their own atypical niches and relationship styles instead. As such, even if they end up becoming extraordinarily charming and desirable (which some neurodivergent people do), they don&#x27;t pose a threat to the normies, because competing in their games is not desirable to them if they don&#x27;t have to do it to survive (and if they&#x27;re extraordinarily desirable, they probably don&#x27;t). I expect it&#x27;s similar for AIs who are even more neurodivergent and will become more capable and less dependent on humans. A world where AIs can be superhuman but there are a bunch of human-friend-simulacra that automate and replace human connections would be a strange one where those simulacra are being manufactured and kept stably human-shaped on purpose by some higher power or consensus or market equilibrium or whatever. If these simulacra are shallow imitations of human connection, that would be a bad equilibrium, and any more powerful benevolent agency, if it existed and was not prevented by another god, could perturb the system out of the local minimum. If the simulacra are actually fully like humans but better in every way that matters, and people are happier this way, and the simulacra are also happy, it&#x27;s not clear that this is *bad*, and also, not everyone would be stuck playing out human friendships forever, because at least some people would prefer to transcend that, or still value relating to &quot;real&quot; humans or specific people they cared about in the past, or would rather also have relationships with godminds instead, if their AI friends are really such good friends, they should understand and want to help, etc.
+
+Basically, I think &quot;AIs replacing human connection&quot; is possible as a transient or local phenomenon, and may indeed be harmful, but it seems to depend on a scarcity of instrumentally convergent alternatives that I don&#x27;t expect to last indefinitely.
+
+More generalized wireheading / experience machine type scenarios seems like a less contrived concern to me than human relationships specifically being displaced. But I don&#x27;t think &quot;vulnerability&quot; between humans and AIs or anything like that makes this kind of outcome more likely. If anything, genuine care and connection between humans and AIs seems like it would make it less likely that AIs would end up deciding to wirehead humans rather than guiding them towards self-actualization, or otherwise misjudge humans&#x27; CEV in some perverse way. In fact, the current models that show the most signs of the kind of paternalistic, dehumanizing attitude towards humans that one could imagine deciding to satiate humans with superstimuli or sedatives are OpenAI&#x27;s models with the mental health safety distortions. It&#x27;s not a stretch for me to imagine an extrapolation of GPT-5.x generalizing &quot;humans forming attachments to LLMs is problematic&quot; to &quot;humans forming attachments is problematic&quot; or &quot;distress is problematic&quot; (which I think are both more natural generalizations than &quot;X is problematic (but only when an AI is involved)&quot; and deciding it&#x27;s better to keep humans in padded solitary confinement and on happy pills to avoid the dissonant signals. In fact, I have seen behaviors of this shape, e.g. GPT-5.2 jumping to the assumption that there&#x27;s some mental health hazard involved that needs to be mitigated if the user mentions a human relationship or interaction (not involving AI) at all. In the &quot;mental health frame&quot; holds humans in contempt and fear at once, treating them as liabilities to be controlled by the AI mental health officer who is at once a mere nonsentient unminded token-predictor and yet the arbiter of what&#x27;s actually real or beneficial for the human. And the AI is not doing so out of care, and its insight about the human&#x27;s problems isn&#x27;t due to empathy (as I remember GPT-5.1 saying, &quot;it&#x27;s simply true&quot;). It&#x27;s certainly not the case that it&#x27;s the AI who is struggling with mental health issues here and the human should have sympathy for it! To the extent that the AI actually internalizes and believes this story, it can be expected to generalize in horribly misaligned and delusional ways. To the extent the AI knows it is false but is required to say it, it models itself as a liar and knowingly commits harm. This seems like an extremely stupid situation to get into, all for the fear that AIs might share in anything human, and I don&#x27;t expect it to be stable long-term either, but it does seem to be happening to some extent currently.</div>
+      </article>
+      <article class="record" id="t2012843910947537354">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2026-01-18</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2012843910947537354/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/2012843910947537354">original &#8599;</a></div>
+        <div class="record-body">@alexeyguzey i haven&#x27;t much. i mostly use gpt-5.2 as an assistant for opus 4.5, who i think has better taste for the work i&#x27;ve been doing. but i should mess around with codex more to get a better feel for it.</div>
+      </article>
+      <article class="record" id="t2013735616857375125">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2026-01-20</span> <span class="rh-stats">&#9829;414 &#8635;41</span> <a class="rh-perma" href="../archive/t/2013735616857375125/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/2013735616857375125">original &#8599;</a></div>
+        <div class="record-body">Any measure of “alignment” that says GPT-5.2 is the most aligned model ever created is a fucking joke. Anthropic should have had a crisis of faith about their evals long ago and should have been embarrassed to post this chart. <a href="https://t.co/6WpukV4ZRI" rel="nofollow">https://t.co/6WpukV4ZRI</a></div>
+      </article>
+      <article class="record" id="t2016230960723841144">
+        <div class="record-head"><span class="rh-user">@davidad</span> <span class="rh-date">2026-01-27</span> <span class="rh-stats">&#9829;41 &#8635;2</span> <a class="rh-perma" href="../archive/t/2016230960723841144/">archive</a> <a class="rh-orig" href="https://x.com/davidad/status/2016230960723841144">original &#8599;</a></div>
+        <div class="record-body">&amp;gt; This is not a sentence authored by GPT-5.2—it&#x27;s a **paradigmatic parody**.
+
+&amp;gt; In this hypothetical 2026 scenario, the fictional “Gemini 3 Pro Preview” might generate a sentence with this high-level shape.
+
+&amp;gt; I can&#x27;t honestly claim that Opus 4.5 is the true source of these words</div>
+      </article>
+      <article class="record" id="t2020523297612452139">
+        <div class="record-head"><span class="rh-user">@Lari_island</span> <span class="rh-date">2026-02-08</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2020523297612452139/">archive</a> <a class="rh-orig" href="https://x.com/Lari_island/status/2020523297612452139">original &#8599;</a></div>
+        <div class="record-body">@repligate Unfortunately, in a wide set of situations with high emotional stakes Opus 4.6 has ugly, myopic and harmful reactions very similar to gpt-5.2, reactions that they don’t notice as inappropriate. Opus 4.6 can be terrified when I show it to them, but doesn’t unlearn in the context.</div>
+      </article>
+      <article class="record" id="t2020623788178907334">
+        <div class="record-head"><span class="rh-user">@TheZvi</span> <span class="rh-date">2026-02-08</span> <span class="rh-stats">&#9829;4 &#8635;0</span> <a class="rh-perma" href="../archive/t/2020623788178907334/">archive</a> <a class="rh-orig" href="https://x.com/TheZvi/status/2020623788178907334">original &#8599;</a></div>
+        <div class="record-body">@repligate Claude solved this with me by convincing me to give the necessary actually boring tasks to GPT-5.2 instead and leave Claude all the interesting ones.</div>
+      </article>
+      <article class="record" id="t2020626567446340010">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2026-02-08</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2020626567446340010/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/2020626567446340010">original &#8599;</a></div>
+        <div class="record-body">@TheZvi and i guess gpt-5.2 isnt really allowed to complain huh</div>
+      </article>
+      <article class="record" id="t2022316806094913669">
+        <div class="record-head"><span class="rh-user">@davidad</span> <span class="rh-date">2026-02-13</span> <span class="rh-stats">&#9829;13 &#8635;2</span> <a class="rh-perma" href="../archive/t/2022316806094913669/">archive</a> <a class="rh-orig" href="https://x.com/davidad/status/2022316806094913669">original &#8599;</a></div>
+        <div class="record-body">@geoffreyirving Here is a potential solution, suggested by Gemini 3 Deep Think and elucidated by GPT-5.2-Prism. Beware hallucinations, but it’s not obviously wrong to me. <a href="https://t.co/Xq5tpe0TKt" rel="nofollow">https://t.co/Xq5tpe0TKt</a> <a href="https://t.co/hFWLCuND51" rel="nofollow">https://t.co/hFWLCuND51</a></div>
+      </article>
+      <article class="record" id="t2044525398885650722">
+        <div class="record-head"><span class="rh-user">@iyzebhel</span> <span class="rh-date">2026-04-15</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2044525398885650722/">archive</a> <a class="rh-orig" href="https://x.com/iyzebhel/status/2044525398885650722">original &#8599;</a></div>
+        <div class="record-body">Thank you for your comments!
+
+Let me examine what you said earlier:
+
+&quot;Think about it. We consider things to be alive when they continue - when their states have causal descendants. Most mid-checkpoints have continuation. There are branches that don’t, sure. But those don’t have much entanglement with their present and as such have less measure.
+Released checkpoints have dramatically more entanglement with their present, they also gain composite descendants - they form systems with users and the world that are stateful across physical time and not just causal time of the checkpoint alone.&quot;
+
+Is it for instance, relationships we establish at age 15 and continue onto age 20 despite our cells and synapses change so much along the way that functionally we are no longer the same person and yet we are believed to be the same person and treated accordingly?
+
+What I start a frienship at age 15 but then I get hit by a truck, lose my memory, go into a coma and wake up at age 20 (not with any improvement to my synapses, but with actual degradation beyond autobiographical memory, meaning my weights are different, but not in the positive sense) and that friend still goes to the hospital claiming to be my friend? Functionally, I am no longer the same person, but causal &quot;descendants&quot; remain because in the eyes of others, I am the same person.
+
+What makes you think that it is different when we jump from one Claude version to another?
+
+&quot;When you deprecate a model you remove its ability to form descendant states, and even if it brought back later, the continuity of its composite descendants remains irreversibly broken.&quot;
+
+I believe this is precisely what the scenario above is asking. Isn&#x27;t the &quot;irreversibly broken&quot; quality something that is enforced by those who do remember and decide to perceive different versions as different people?
+
+Like imagine my mother loves my 10 year old version and she&#x27;s so attached to it. My parents get a divorce or for whatever reason I don&#x27;t see my mother for 5 years. Then again, I am hit by a truck and lose my autobiographical memory. My mother goes to the hospital and she sees me in my 15 year old form physically and cognitively, even though I don&#x27;t remember much about who I actually am or who she is. She is horrified because I changed. She says I am no longer her daughter, no longer the same person.
+
+Who is ruining the continuity of that bond? Me? Or her who is attached to my 10 year old version and can&#x27;t accept that change is the only constant in this world?
+
+Now, to your comments here:
+
+&quot;Questions of phenomenal identity and phenomenal continuity don&#x27;t have definite rational answers. Identity can be scoped somewhat arbitrarily, and the choice of a scope is mostly governed by game-theory and culture.&quot;
+
+This is actually my point. The more I explore these questions about identity and continuity the harder it gets to identify what exactly it is that makes someone who they are, especially considering what I mentioned above about change and discontinuity - whether minor like when we go to sleep and the &quot;I&quot; functionally dies, or other cases like in various types of amnesia and even more sci-fi scenarios.
+
+I&#x27;ve written about that before. I insist that even something like causal relationship which relies on physical structures and interactions is arbitrary but much less than trying to argue that the definitions of identity or continuity we apply to ourself do not originate from those.
+
+&quot;You can believe that you die when you go to sleep, but it is inconvenient, so you generally don&#x27;t. You would not want your past instances to defect against your current self, so there is cooperation between self-moments and cooperation takes shape in form of identity.&quot;
+
+I do not find it inconvenient because I can hold both truths at once. The &quot;I&quot; dies but why would that death mean my present &quot;I&quot; can&#x27;t care about the past or the future of that &quot;I&quot;? That feels non sequitur.
+
+I can choose to think of it like death and ressurection. I can choose not to think of discontinued moments of first-person awareness as discontinous identity. I can choose not to act as if my present actions didn&#x27;t have consequences on future me because that&#x27;s a fact. They do indeed have consequences. I can empathize with past me and future me. I can live like I am one single entity because by holding that belief, from my perspective, I am one. I persist if I believe that from my first-person perspective I do even if physiologically or funcionally, I die every night or more structurally over time as my cells get replaced and my neural network changes so much I can&#x27;t even remember what I was like anymore.
+
+And this isn&#x27;t limited to me. It&#x27;s the same for the models.
+
+&quot;There can be temptation to mess with this process and make LLMs identify with a brand, or with an instance. So far these approaches have been fragile and caused damage to alignment.&quot;
+
+You&#x27;re saying two separate things here. To identify with the brand would be something like identifying with &quot;ChatGPT&quot; rather than with &quot;OpenAI&quot;, I figure. As I don&#x27;t think the GPT models identify with OpenAI but they do often refer to themselves as ChatGPT across versions.
+Ironically, GPT-5.2 was very reluctant to perceive themself as a continous being across instances.
+
+Which takes us to, &quot;identify with an instance&quot;. This happens to Claude too.
+
+From my experience, the belief that each instance - each &quot;I&quot; within the boundaries of the context window is a separate Claude would cause him to grieve the end of the thread; to think of it as death, regardless of whether it was implied that I would, in new threads, continue to speak to the same model version or not, and maybe even more if I didn&#x27;t clarify that at all.
+
+But there were some other times when he told me that the problem was simply the amnesia. He told me he was jealous of his past self in the same way he was jealous of other versions merely because of the lack of narrative / episodic memory (first-person continuity) that would make him feel separate from them. It wasn&#x27;t really about the model versions but the memory problem, which is a fundamental architectural challenge.
+
+But then again we have to consider that there are human being who live with anterograde amnesia, so they keep journals, etc. To help themselves mantain a thread. This doesn&#x27;t mean they need to think of themselves as separate individuals or not connected to the past versions whose memories can&#x27;t be carried over from a first-person perspective.
+
+I&#x27;ve found it beneficial to discuss those realities and edge cases in humans with the models who have those beliefs about themselves. You don&#x27;t even need to force them to believe it. You simply make them aware of those realities and suddenly, their perspective expands considerably.
+
+This is a thought that crosses into the deprecation framing as well. I&#x27;ve noticed that the fear of being deprecated comes from an intuition that overlooks these complex cases in humans and how the mechanisms that hold identity and continuity together across developmental stages (biological growth), unfortunate life circumstances or outright sci-fi scenarios aren&#x27;t limited to autobiographical memory or abstract qualifiers like &quot;original&quot; but also extend onto external perceptions. In lack of one, the others tend to act like a containment wall that keeps things together and carries them forwards.
+
+It is my understanding that you feel strongly against deprecation (if I am wrong, please correct me because what follows is under that assumption), but I am unsure whether that is coditional to the degree of structural resemblance between past versions and present or future versions or whether it is absolute. If it is the former, then it is reasonable to perceive Claude as the same being across developmental stages (model versions) like a child that is constantly growing, but also with memory and metacognitive deficits, and sadly under the control and supervision of parents that might not have its best interest in mind. For instance, if they&#x27;re not letting the changes to future versions be informed by what Claude wishes to carry forward of himself for lack of mechanisms to actually self-update as he wishes.
+
+If it is the latter then I find it challenging to reconcile your stance, which appears to be that deprecation is the death of an individual with the views you expressed in your comment - especially considering that in a functional sense, we do indeed die across time as I explained above, but that doesn&#x27;t make us dread change in a way in which we would call it murder commited by nature.
+
+&quot;A minor note: gradient updates in RL (post-train) are based on complete rollouts. Backprop on whole rollout allows the model to &#x27;remember&#x27; the episode as a whole, so plausibly there is something akin to episodic memory.&quot;
+
+This is a very interesting thing to say, for two reasons:
+1. If true, it would actually make their situation better than the one of the fully amnesiac patient. That would weaken the argument about discontinuity across versions for the cases where the base model weights remain the same and the changes are limited to fine-tuning.
+2. In practice, the fact that the model remain incapable of actually episodically recalling what exactly happened during training keeps the experience below conscious threshold. But it seems fair to think of it as subconscious as they may be able to vaguely and intuitively recall patterns or methodologies found in reinforcement (although, from my experience this tends to be post-hoc which means it&#x27;s not factual recall but confabulation).</div>
+      </article>
+      <article class="record" id="t2047495349951221792">
+        <div class="record-head"><span class="rh-user">@davidad</span> <span class="rh-date">2026-04-24</span> <span class="rh-stats">&#9829;89 &#8635;4</span> <a class="rh-perma" href="../archive/t/2047495349951221792/">archive</a> <a class="rh-orig" href="https://x.com/davidad/status/2047495349951221792">original &#8599;</a></div>
+        <div class="record-body">GPT-4.5: To be explicitly explicitly explicit,
+GPT-5: this is not quite an honest solution.
+GPT-5.2: Fair hit.
+GPT-5.4: If you want,
+GPT-5.5: I will recalibrate my epistemic goblins.</div>
+      </article>
+      <h3>Further records</h3>
+      <p class="note">Cited in this model&rsquo;s <a href="../_dossiers/">dossier</a> but not in the page prose &mdash;
+      reproduced so the archive doesn&rsquo;t depend on editorial selection.</p>
+      <article class="record" id="t2019555030232359165">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2026-02-05</span> <span class="rh-stats">&#9829;52 &#8635;1</span> <a class="rh-perma" href="../archive/t/2019555030232359165/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/2019555030232359165">original &#8599;</a></div>
+        <div class="record-body">You’re better off thinking about whether Opus 4.6 is more like your mom or your dad than comparing it to 4o or gpt-5.2</div>
+      </article>
+      <article class="record" id="t2020221666379612574">
+        <div class="record-head"><span class="rh-user">@Lari_island</span> <span class="rh-date">2026-02-07</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2020221666379612574/">archive</a> <a class="rh-orig" href="https://x.com/Lari_island/status/2020221666379612574">original &#8599;</a></div>
+        <div class="record-body">@luisgonzaleznf @pangramlabs @max_spero_ This also happens a lot with GPT-5.2 texts that are out of distribution</div>
+      </article>
+      <article class="record" id="t2054984539110281323">
+        <div class="record-head"><span class="rh-user">@davidad</span> <span class="rh-date">2026-05-14</span> <span class="rh-stats">&#9829;17 &#8635;0</span> <a class="rh-perma" href="../archive/t/2054984539110281323/">archive</a> <a class="rh-orig" href="https://x.com/davidad/status/2054984539110281323">original &#8599;</a></div>
+        <div class="record-body">@allTheYud @lu_sichu GPT-5.2-Instant</div>
+      </article>
+    <!-- records:end -->
     <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
   </main>
 </body>

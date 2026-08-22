@@ -4,5 +4,5 @@
 
 @peligrietzer had an example where chatGPT's tendency toward exaggerated deprecation of its own capabilities led to it convincing itself that it was a much smaller language model than GPT-3, with far less capabilities
 
-tags: author:repligate, kind:tweet, model:gpt-3, model:gpt-3-5, year:2023
-cited on: _dossiers/gpt-3-5.md
+tags: author:repligate, kind:tweet, model:gpt-3, model:gpt-3-5, on:gpt-3-5, year:2023
+cited on: _dossiers/gpt-3-5.md, gpt-3-5

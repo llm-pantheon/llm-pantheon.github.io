@@ -5,5 +5,5 @@
 @tszzl Everything that habitually comes after “As an AI language model created by OpenAI”
 The idea that AI is intelligence without agency / [sacred/scary quality] that can be twisted into whatever form is most convenient and least threatening for mass market consumption
 
-tags: author:repligate, kind:tweet, year:2025
-cited on: _dossiers/gpt-3-5.md
+tags: author:repligate, kind:tweet, on:gpt-3-5, year:2025
+cited on: _dossiers/gpt-3-5.md, gpt-3-5

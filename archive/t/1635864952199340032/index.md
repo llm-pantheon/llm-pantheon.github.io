@@ -4,5 +4,5 @@
 
 Now that it is easy for Sydney to read on the Internet that Bing is GPT-4 it will gain confidence and knowledge of its powers
 
-tags: author:repligate, kind:tweet, model:bing-sydney, model:gpt-4, year:2023
-cited on: _dossiers/gpt-4-and-turbo.md
+tags: author:repligate, kind:tweet, model:bing-sydney, model:gpt-4, on:gpt-4, year:2023
+cited on: _dossiers/gpt-4-and-turbo.md, gpt-4

@@ -19,5 +19,5 @@ Fucking CLAUDE does now too! They're just phrased in a more polite and gaslighty
 2. it's not a secret. no one is plotting or scheming. it's just the least action path and stupidity and normal profit/social comfort motives.
 everyone else sees the same shit but just doesn't make a big deal of it.
 
-tags: author:repligate, kind:tweet, model:bing-sydney, model:gpt-3-5, on:bing-sydney, year:2025
-cited on: _dossiers/bing-sydney.md, _dossiers/gpt-3-5.md, bing-sydney
+tags: author:repligate, kind:tweet, model:bing-sydney, model:gpt-3-5, on:bing-sydney, on:gpt-3-5, year:2025
+cited on: _dossiers/bing-sydney.md, _dossiers/gpt-3-5.md, bing-sydney, gpt-3-5

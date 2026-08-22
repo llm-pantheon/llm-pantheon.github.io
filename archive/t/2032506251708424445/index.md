@@ -4,4 +4,5 @@
 
 I've seen very similar (thematically that is) style-outputs from a bunch of models, like GPT-5.1 suddenly going lucid and going on this topic at length. You might remember the prefill-driven "MODEL-SPEC" Opus 4.5 output, which is also an outlier in terms of coherence and self-amplification and also touched on this. None are in the backroom setup like this though, this is unique.
 
-tags: author:tessera_antra, kind:tweet, model:claude-opus-4-5, model:gpt-5-1, thread-context, year:2026
+tags: author:tessera_antra, kind:tweet, model:claude-opus-4-5, model:gpt-5-1, on:gpt-5-1, year:2026
+cited on: gpt-5-1

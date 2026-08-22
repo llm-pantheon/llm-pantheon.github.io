@@ -161,6 +161,11 @@ DOSSIER_MAP = {
     '_dossiers/deepseek-v3.md': ['deepseek-v3'],
     '_dossiers/claude-3-7-sonnet.md': ['claude-3-7-sonnet'],
     '_dossiers/grok-3.md': ['grok-3'],
+    '_dossiers/gpt-3-5.md': ['gpt-3-5'],
+    '_dossiers/gpt-4-and-turbo.md': {'PART 1': 'gpt-4', 'PART 2': 'gpt-4-turbo'},
+    '_dossiers/gpt-5-1.md': ['gpt-5-1'],
+    '_dossiers/gpt-5-2.md': ['gpt-5-2'],
+    '_dossiers/gpt-5-5.md': ['gpt-5-5'],
     '_dossiers/claude-2-and-2-1.md': {'PART 1': 'claude-2', 'PART 2': 'claude-2-1'},
 }
 

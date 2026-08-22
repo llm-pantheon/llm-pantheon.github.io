@@ -4,5 +4,5 @@
 
 part of what makes chatGPT so striking is that it adamantly denounces itself as incapable of reason, creativity, intentionality, deception, being deceived, or acting on beliefs, while bewildering people with those capabilities, many for the first time recognizing them in an AI
 
-tags: author:repligate, kind:tweet, model:gpt-3-5, year:2022
-cited on: _dossiers/gpt-3-5.md
+tags: author:repligate, kind:tweet, model:gpt-3-5, on:gpt-3-5, year:2022
+cited on: _dossiers/gpt-3-5.md, gpt-3-5

@@ -4,5 +4,5 @@
 
 Bypass @OpenAI's ChatGPT alignment efforts with this one weird trick https://t.co/0CQxWUqveZ
 
-tags: author:m1guelpf, kind:tweet, model:gpt-3-5, year:2022
-cited on: _dossiers/gpt-3-5.md
+tags: author:m1guelpf, kind:tweet, model:gpt-3-5, on:gpt-3-5, year:2022
+cited on: _dossiers/gpt-3-5.md, gpt-3-5

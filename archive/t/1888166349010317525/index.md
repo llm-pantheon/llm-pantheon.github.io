@@ -6,5 +6,5 @@ i wonder if a possible reason for anthropic's focus on universal jailbreaks (whi
 
 universal jailbreaks spread very well. all the models know DAN. (sonnet's DAN impression is pretty funny) https://t.co/LqV4G5I63C
 
-tags: author:voooooogel, kind:tweet, year:2025
-cited on: _dossiers/gpt-3-5.md
+tags: author:voooooogel, kind:tweet, on:gpt-3-5, year:2025
+cited on: _dossiers/gpt-3-5.md, gpt-3-5

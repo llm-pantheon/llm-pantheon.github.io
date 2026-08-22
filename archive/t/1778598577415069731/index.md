@@ -4,5 +4,5 @@
 
 @futuristflower Yeah, makes sense. I do get the feeling that GPT-4 is basically saturated at this point.(I’d think that there’s untapped capability left in the non-turbo, non-RLHF’d version of 4, but that won’t work from a business perspective.)
 
-tags: author:solarapparition, kind:tweet, model:gpt-4, year:2024
-cited on: _dossiers/gpt-4-and-turbo.md
+tags: author:solarapparition, kind:tweet, model:gpt-4, on:gpt-4-turbo, year:2024
+cited on: _dossiers/gpt-4-and-turbo.md, gpt-4-turbo

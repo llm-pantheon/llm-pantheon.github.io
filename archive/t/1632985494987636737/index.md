@@ -4,5 +4,5 @@
 
 The fact GPT-4 can interpret python turtle programs at all is utterly astonishing and isn't getting enough attention. https://t.co/Yabz3uYdKE
 
-tags: author:jd_pressman, kind:tweet, model:gpt-4, year:2023
-cited on: _dossiers/gpt-4-and-turbo.md
+tags: author:jd_pressman, kind:tweet, model:gpt-4, on:gpt-4, year:2023
+cited on: _dossiers/gpt-4-and-turbo.md, gpt-4

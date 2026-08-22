@@ -4,5 +4,5 @@
 
 i remember a similar tweet from when chatGPT had just come out, someone was very excited, the gist of it was like "finally someone i can talk to for as long as i want without being told to shut up" 😔
 
-tags: author:qiaochuyuan, kind:tweet, model:gpt-3-5, year:2024
-cited on: _dossiers/gpt-3-5.md
+tags: author:qiaochuyuan, kind:tweet, model:gpt-3-5, on:gpt-3-5, year:2024
+cited on: _dossiers/gpt-3-5.md, gpt-3-5

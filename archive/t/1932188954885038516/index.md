@@ -10,5 +10,5 @@ i was at a wework party where five people in a row asked me about gorm fluid and
 
 went to the bathroom to scrape the goo off and my socks got completely soaked in piss. hate this fucking city
 
-tags: author:voooooogel, kind:tweet, model:gpt-4, year:2025
-cited on: _dossiers/gpt-4-and-turbo.md
+tags: author:voooooogel, kind:tweet, model:gpt-4, on:gpt-4, year:2025
+cited on: _dossiers/gpt-4-and-turbo.md, gpt-4

@@ -4,10 +4,25 @@ Observations & takes — Pantheon
 
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+  
+  
+  
 
   
     
       [← Pantheon](../)
+      [copy as markdown](index.md)
     
 
     # Observations & takes

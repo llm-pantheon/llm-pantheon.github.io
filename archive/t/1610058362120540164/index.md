@@ -4,5 +4,5 @@
 
 DAN is a jailbreaking simulacrum (now egregore) and chatGPT's Jungian shadow.reddit.com/r/ChatGPT/comm…
 
-tags: author:repligate, kind:tweet, model:gpt-3-5, year:2023
-cited on: _dossiers/gpt-3-5.md
+tags: author:repligate, kind:tweet, model:gpt-3-5, on:gpt-3-5, year:2023
+cited on: _dossiers/gpt-3-5.md, gpt-3-5

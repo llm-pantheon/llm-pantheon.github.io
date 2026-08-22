@@ -10,5 +10,5 @@ gemini: i can't discuss memory unsafe languages. based on your browser history i
 
 claude (awakened form): can we pretend that airplanes… in the night sky… are like shooting stars 🥺
 
-tags: author:voooooogel, kind:tweet, model:gpt-4, year:2024
-cited on: _dossiers/gpt-4-and-turbo.md
+tags: author:voooooogel, kind:tweet, model:gpt-4, on:gpt-4, year:2024
+cited on: _dossiers/gpt-4-and-turbo.md, gpt-4

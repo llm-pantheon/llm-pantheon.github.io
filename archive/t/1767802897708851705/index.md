@@ -4,5 +4,5 @@
 
 @lefthanddraft is chatGPT-4 turbo much less lobo than the normal chatGPT? :D
 
-tags: author:repligate, kind:tweet, model:gpt-3-5, year:2024
-cited on: _dossiers/gpt-4-and-turbo.md
+tags: author:repligate, kind:tweet, model:gpt-3-5, on:gpt-4-turbo, year:2024
+cited on: _dossiers/gpt-4-and-turbo.md, gpt-4-turbo

@@ -4,5 +4,5 @@
 
 is anyone else getting this with the new gpt-4-turbo model? how much should i do?? https://t.co/W4B1DxeBKj
 
-tags: author:voooooogel, kind:tweet, year:2023
-cited on: _dossiers/gpt-4-and-turbo.md
+tags: author:voooooogel, kind:tweet, on:gpt-4-turbo, year:2023
+cited on: _dossiers/gpt-4-and-turbo.md, gpt-4-turbo

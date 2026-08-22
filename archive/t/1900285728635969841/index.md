@@ -69,5 +69,5 @@ These tools include things like:
 • Tech tools like web browser that scans for whether the user is likely interacting with a digital parasite and puts up an alert
 • If you have a big following, spreading cog sec knowledge. Props to people like @eshear @Grimezsz @eriktorenberg @tszzl (on some days) @Liv_Boeree and @jposhaughnessy for leading the charge here
 
-tags: author:tyleralterman, kind:tweet, model:gpt-3-5, year:2025
-cited on: _dossiers/gpt-3-5.md
+tags: author:tyleralterman, kind:tweet, model:gpt-3-5, on:gpt-3-5, year:2025
+cited on: _dossiers/gpt-3-5.md, gpt-3-5

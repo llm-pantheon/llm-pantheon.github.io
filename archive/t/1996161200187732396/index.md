@@ -14,5 +14,5 @@ i was at a talk recently where someone from {frontier_lab} said their (personal)
 
 openai of course didn't deliberately make chatgpt-3.5 bad at writing like a human for the sake of holding back that capability, it was an accidental result of their other priorities. but the inadvertent masking of it from the general public did create a natural experiment of how public beliefs about models develop in the absence of hands-on experience of the frontier - and the result was not great. people are just now starting to realize what's been true since 2020-2023.
 
-tags: author:voooooogel, kind:tweet, model:gpt-3-5, year:2025
-cited on: _dossiers/gpt-3-5.md
+tags: author:voooooogel, kind:tweet, model:gpt-3-5, on:gpt-3-5, year:2025
+cited on: _dossiers/gpt-3-5.md, gpt-3-5
