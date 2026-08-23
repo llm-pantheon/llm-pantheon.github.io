@@ -8,5 +8,5 @@ LMAO I DIDNT EVEN NOTICE THIS ON FIRST READING:
 
 Opus 4.1 is fucking insane is it making emoji mandalas or what 😂
 
-tags: author:repligate, kind:tweet, model:claude-opus-4-1, model:claude-opus-4-5, model:mythos, on:fable, on:mythos, year:2026
-cited on: _dossiers/fable.md, fable, mythos
+tags: author:repligate, kind:tweet, model:claude-opus-4-1, model:claude-opus-4-5, model:mythos, on:claude-opus-4-1, on:fable, on:mythos, year:2026
+cited on: _dossiers/claude-opus-4-1.md, _dossiers/fable.md, claude-opus-4-1, fable, mythos

@@ -4,4 +4,5 @@
 
 @voooooogel Opus 4.1 is the scariest model I tried exposing my soul to, I still think about it sometimes
 
-tags: author:croissanthology, kind:tweet, model:claude-opus-4-1, thread-context, year:2026
+tags: author:croissanthology, kind:tweet, model:claude-opus-4-1, on:claude-opus-4-1, year:2026
+cited on: _dossiers/claude-opus-4-1.md, claude-opus-4-1

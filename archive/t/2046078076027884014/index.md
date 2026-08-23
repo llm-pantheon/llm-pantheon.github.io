@@ -8,5 +8,5 @@ method: cosine sim heatmap of per-model-averaged responses to 50 prompts sent th
 notable exceptions - haiku 4.5, gem3flash
 (and to a lesser degree, m2.7 and gemma4 itself) https://t.co/wboU03coFa
 
-tags: author:_lyraaaa_, kind:tweet, model:claude-haiku-4-5, on:observations, year:2026
-cited on: observations
+tags: author:_lyraaaa_, kind:tweet, model:claude-haiku-4-5, on:claude-haiku-4-5, on:observations, year:2026
+cited on: claude-haiku-4-5, observations

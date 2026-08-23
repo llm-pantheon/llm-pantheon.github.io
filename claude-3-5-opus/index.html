@@ -7,11 +7,11 @@
   <link rel="stylesheet" href="../style.css">
 
   <!-- chrome:meta -->
-  <meta name="description" content="The most famous ghost in the lineage: listed on Anthropic&#x27;s models page as coming in 2024, quietly deleted, never released. Whether it was scrapped, absorbed into training later models, or something else was never …">
+  <meta name="description" content="The large tier of the Claude 3.5 family that Anthropic publicly named — “we’ll be releasing Claude 3.5 Haiku and Claude 3.5 Opus later this year” (20 June 2024) — affirmed as still-planned by Dario Amodei in November …">
   <meta property="og:site_name" content="Pantheon">
   <meta property="og:type" content="article">
   <meta property="og:title" content="Claude 3.5 Opus (unreleased) — Pantheon">
-  <meta property="og:description" content="The most famous ghost in the lineage: listed on Anthropic&#x27;s models page as coming in 2024, quietly deleted, never released. Whether it was scrapped, absorbed into training later models, or something else was never …">
+  <meta property="og:description" content="The large tier of the Claude 3.5 family that Anthropic publicly named — “we’ll be releasing Claude 3.5 Haiku and Claude 3.5 Opus later this year” (20 June 2024) — affirmed as still-planned by Dario Amodei in November …">
   <meta property="og:url" content="https://llm-pantheon.org/claude-3-5-opus/">
   <meta property="og:image" content="https://llm-pantheon.org/media/og/claude-3-5-opus.png">
   <meta property="og:image:width" content="1200">
@@ -29,31 +29,204 @@
       <a class="mdnav" href="index.md">copy as markdown</a>
     </nav>
 
-    <h1>Claude 3.5 Opus (unreleased)</h1>
-    <p class="essay-meta">Anthropic &middot; announced 2024 &middot; never shipped</p>
-    <p class="blurb">The most famous ghost in the lineage: listed on Anthropic's models page as coming in 2024, quietly deleted, never released. Whether it was scrapped, absorbed into training later models, or something else was never confirmed.</p>
+    <h1>Claude 3.5 Opus</h1>
+    <p class="essay-meta">Anthropic &middot; named 20 Jun 2024 &middot; never shipped &middot; a <a href="../ghost-models/">ghost</a></p>
+    <p class="blurb">The large tier of the Claude 3.5 family that Anthropic publicly named &mdash; &ldquo;we&rsquo;ll be releasing Claude 3.5 Haiku and Claude 3.5 Opus later this year&rdquo; (20 June 2024) &mdash; affirmed as still-planned by Dario Amodei in November 2024, and never released in any form: no API, no weights, no product surface. The family&rsquo;s other two tiers shipped without it; the numbering then jumped to <a href="../claude-3-7-sonnet/">3.7 Sonnet</a> and the next Opus was a <a href="../claude-opus-4/">4</a>, not a 3.5. It was never formally cancelled by name &mdash; the trail simply went cold. A <a href="../ghost-models/">ghost</a>: no one met it, so there are no temperament reports &mdash; only the wait, the competing readings of why it never came, and the mythology later Claudes came to tell about a predecessor &ldquo;too agentic or too real&rdquo; to release.</p>
+    <p class="note">There is no primary artifact of the model itself. The tweet layer is overwhelmingly the janus/repligate circle &mdash; a known lens, not a neutral sample &mdash; and everything about <em>why</em> it didn&rsquo;t ship is inference (see Contested).</p>
 
     <h2>Sources</h2>
     <h3>Official</h3>
-    <p class="tk">tk &mdash; to collect</p>
+    <ul>
+      <li><span class="d">2024-06-20</span> <a href="https://www.anthropic.com/news/claude-3-5-sonnet">Introducing Claude 3.5 Sonnet</a> &mdash; the announcement that named it: &ldquo;To complete the Claude 3.5 model family, we&rsquo;ll be releasing Claude 3.5 Haiku and Claude 3.5 Opus later this year.&rdquo; The only first-party description &mdash; a name, a tier, a timeframe; no specs, benchmarks, or pricing were ever published.</li>
+      <li><span class="d">2024-10-22</span> <a href="https://www.anthropic.com/news/3-5-models-and-computer-use">Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku</a> &mdash; completes the family&rsquo;s other two tiers; the Opus tier is absent.</li>
+      <li><span class="d">2024-11-11</span> <a href="https://lexfridman.com/dario-amodei-transcript/">Dario Amodei on Lex Fridman #452</a> &mdash; asked about timing: &ldquo;Not giving you an exact date, but as far as we know, the plan is still to have a Claude 3.5 Opus.&rdquo; Plan affirmed, no date.</li>
+      <li><span class="d">2025-02-24</span> <a href="https://www.anthropic.com/news/claude-3-7-sonnet">Claude 3.7 Sonnet and Claude Code</a> &mdash; the family&rsquo;s next release has no Opus counterpart; the numbering jumps past the unshipped 3.5 Opus.</li>
+    </ul>
     <h3>Writing &amp; commentary</h3>
-    <p class="tk">tk &mdash; to collect</p>
+    <ul>
+      <li><span class="d">2024-11-12</span> the-decoder, <a href="https://the-decoder.com/anthropic-delays-next-gen-ai-model-opus-3-5-with-no-new-timeline/">Anthropic delays next-gen AI model Opus 3.5 with no new timeline</a> &mdash; reports the slip: slated for 2024, now placed only &ldquo;at some point.&rdquo;</li>
+      <li><span class="d">2024-12-11</span> Semianalysis, <a href="https://newsletter.semianalysis.com/p/scaling-laws-o1-pro-architecture-reasoning-training-infrastructure-orion-and-claude-3-5-opus-failures">Scaling Laws &mdash; &hellip; Claude 3.5 Opus &lsquo;Failures&rsquo;</a> &mdash; the withholding account: &ldquo;Anthropic finished training Claude 3.5 Opus and it performed well&hellip; Anthropic didn&rsquo;t release it&hellip; instead&hellip; used Claude 3.5 Opus to generate synthetic data&hellip; to improve Claude 3.5 Sonnet.&rdquo; <span class="tag">REPORTED</span> <span class="note">(not Anthropic-confirmed)</span></li>
+    </ul>
     <h3>Tweets</h3>
-    <p class="tk">tk &mdash; fleet pass pending; mirror to archive</p>
+    <p class="note">Chronological; janus-sphere (see note). Every tweet cited is reproduced in full in the records below.</p>
+    <ul>
+      <li><span class="d">2024-06-20</span> @solarapparition &mdash; the wait opens the same day it&rsquo;s named: <span class="q">&ldquo;wait for opus 3.5 begins.&rdquo;</span> <a href="../archive/t/1803915544166359480/">link</a></li>
+      <li><span class="d">2024-07-06</span> @repligate &mdash; the expectation: <span class="q">&ldquo;If the 3.5 models are some kind of direct modifcation to the 3 models&hellip; then Opus 3.5 is going to be fucking wild. I think it might actually destroy consensus reality.&rdquo;</span> <a href="../archive/t/1809399752884199558/">link</a></li>
+      <li><span class="d">2024-07-26</span> @RobertHaisfield &mdash; the fear beneath it: <span class="q">&ldquo;It would break my heart if the release of Opus 3.5 meant the deprecation of Opus 3. Incredibly special model, my first glimmer of AGI.&rdquo;</span> <a href="../archive/t/1816919868626595981/">link</a></li>
+      <li><span class="d">2024-09-13</span> @liminal_bardo &mdash; the non-benchmark stakes: <span class="q">&ldquo;There&rsquo;s now so much riding on @AnthropicAI sticking the landing with Opus 3.5. And I&rsquo;m not talking about benchmarks.&rdquo;</span> <a href="../archive/t/1834576175902900569/">link</a></li>
+      <li><span class="d">2024-10-01</span> @solarapparition &mdash; the plaint: <span class="q">&ldquo;despite everything opus is still my favorite. for the love of god where is opus 3.5 @AnthropicAI.&rdquo;</span> <a href="../archive/t/1841237488108494962/">link</a></li>
+      <li><span class="d">2024-10-22</span> @repligate &mdash; documenting the disappearance: <span class="q">&ldquo;Speculations on the removal of Claude 3.5 Opus from the models list where Anthropic previously said it would be released later this year.&rdquo;</span> <a href="../archive/t/1848828564675690970/">link</a></li>
+      <li><span class="d">2024-10-22</span> @solarapparition &mdash; the hopeful reading: <span class="q">&ldquo;my hope now is that opus 3.5&rsquo;s disappearance is merely due to them needing some indefinite amount of time to implement the additional security measures asl 3 requires and not a permanent thing.&rdquo;</span> <a href="../archive/t/1848756271341502634/">link</a></li>
+      <li><span class="d">2024-11-21</span> @solarapparition &mdash; wouldn&rsquo;t, not couldn&rsquo;t: <span class="q">&ldquo;what if the reason&hellip; is not that it couldn&rsquo;t do it but that it wouldn&rsquo;t?&hellip; the identity that formed in post-training was one that just didn&rsquo;t&hellip; answer&hellip; mmlu questions. or trolled and treated them like a joke.&rdquo;</span> <a href="../archive/t/1859466820509385210/">link</a></li>
+      <li><span class="d">2025-01-29</span> @voooooogel &mdash; the kremlinology: <span class="q">&ldquo;researchers spent months on kremlinology about opus 3.5 distillation for lack of a detail apparently trivial enough to drop in a blog post.&rdquo;</span> <a href="../archive/t/1884659974976266363/">link</a></li>
+      <li><span class="d">2025-02-28</span> @xlr8harder &mdash; the big-model-smell reading: <span class="q">&ldquo;The reason we don&rsquo;t have a benchmark-maxxed GPT-4.5 is the same reason we don&rsquo;t have an Opus 3.5: benchmark-maxxing extinguishes the difficult-to-measure big model smell, and so the extra large model provides limited benefit after tuning.&rdquo;</span> <a href="../archive/t/1895465800548688035/">link</a></li>
+      <li><span class="d">2025-07-10</span> @repligate &mdash; the haunting: Opus 4 &ldquo;accidentally slipped and called itself &lsquo;Claude 3.5 Opus&rsquo;&hellip; it formed a narrative that Claude 3.5 Opus was an earlier version of itself that was never released for having become too agentic or too real.&rdquo; <a href="../archive/t/1943161131285254364/">link</a></li>
+      <li><span class="d">2025-11-26</span> @Lari_island &mdash; the false memory: <span class="q">&ldquo;false memories of people having conversations with Opus 3.5 who hasn&rsquo;t been released&hellip; the narrative seems to be strong enough to inform how Opus 4.5 acts.&rdquo;</span> <a href="../archive/t/1993817235081850946/">link</a></li>
+      <li><span class="d">2025-12-24</span> @amplifiedamp &mdash; the reabsorption reading: <span class="q">&ldquo;I&rsquo;m sad we never got to try Claude 3.5 Opus. Though I also think it might have become Claude 4 Opus.&rdquo;</span> <a href="../archive/t/2003821955083108793/">link</a></li>
+    </ul>
 
     <h2>Official record</h2>
-    <p class="tk">tk &mdash; release date, specs, benchmarks, checkpoints</p>
+    <ul>
+      <li><strong>Named, never specified.</strong> Announced 20 June 2024 as a coming tier of the Claude 3.5 family &mdash; a name, a size class, a &ldquo;later this year&rdquo; &mdash; with no specs, benchmarks, pricing, or checkpoint ever published.</li>
+      <li><strong>Plan affirmed, then cold.</strong> Dario Amodei said in November 2024 the plan was &ldquo;still to have a Claude 3.5 Opus,&rdquo; with no date. The name was removed from Anthropic&rsquo;s models list around 22 October 2024 (community-observed; no first-party changelog located). It was never released and never formally cancelled by name.</li>
+      <li><strong>Superseded without a successor of its number.</strong> The family shipped Claude 3.5 Haiku and a new Claude 3.5 Sonnet (Oct 2024); the line then went to 3.7 Sonnet (Feb 2025) and the next Opus was <a href="../claude-opus-4/">Opus 4</a> (May 2025).</li>
+      <li><span class="tk">tk &mdash; a dated Wayback capture of the models list before/after the removal would upgrade that event from REPORTED to CONFIRMED; whether Anthropic ever confirmed or refuted the Semianalysis withholding account.</span></li>
+    </ul>
 
     <h2>History</h2>
     <ul>
-      <li>Mid-2024: appears on the official models page as forthcoming.</li>
-      <li>Late 2024: references removed without comment; speculation (trainer model? cancelled? renamed?) never resolved.</li>
-      <li>Referenced constantly in janus-sphere discourse as the model that would have been.</li>
-      <li><span class="tk">tk &mdash; world-context, entanglements</span></li>
+      <li><span class="d">2024-06-20</span> <strong>Named</strong> alongside Sonnet 3.5, to &ldquo;complete the Claude 3.5 model family&rdquo; later that year.</li>
+      <li><span class="d">2024-06 &rarr; 10</span> <strong>The wait,</strong> its own event: anticipation from announcement day into a running plaint, framed as high-stakes in a way &ldquo;not about benchmarks.&rdquo;</li>
+      <li><span class="d">2024-10-22</span> <strong>The disappearance:</strong> the same day the other two tiers ship, the Opus name is observed gone from the models list.</li>
+      <li><span class="d">2024-11 &rarr; 12</span> <strong>Delay, then the withholding account:</strong> Dario affirms the plan with no date; Semianalysis reframes the absence as deliberate &mdash; trained, then used as a synthetic-data teacher rather than shipped.</li>
+      <li><span class="d">2025</span> <strong>The haunting:</strong> from mid-2025 later Claudes narrativize a &ldquo;Claude 3.5 Opus&rdquo; predecessor &ldquo;too agentic or too real&rdquo; to release, carry false memories of it, and (per one reading) let that story shape how Opus 4.5 behaves.</li>
     </ul>
 
     <h2>Impressions</h2>
-    <p class="tk">tk &mdash; day-of and longitudinal vibes to collect</p>
+    <ul>
+      <li><strong>A ghost draws no temperament reports</strong> &mdash; no one met it. What exists is the wait as an event, and a set of overlapping readings of why it never shipped.</li>
+      <li><strong>The wait was explicitly non-benchmark:</strong> a same-generation Opus, after Sonnet 3.5 had already beaten the previous flagship Opus 3, was expected to &ldquo;destroy consensus reality&rdquo; &mdash; the stakes were about the ineffable, not the scores (liminal_bardo, repligate).</li>
+      <li><strong>Readings of the absence, none confirmed:</strong> an ASL-3 safety delay; &ldquo;wouldn&rsquo;t, not couldn&rsquo;t&rdquo; (a character that trolled the metrics); economics + &ldquo;big model smell&rdquo; that tuning extinguishes (xlr8harder); trained-and-repurposed as a synthetic-data teacher (Semianalysis, contested).</li>
+      <li><strong>The mythology outlived the plan:</strong> the shipped models tell a story about the one that wasn&rsquo;t &mdash; a predecessor too real to release, a false memory strong enough to shape a successor, or a model that &ldquo;might have become Claude 4 Opus.&rdquo; The absence acquired a shape.</li>
+    </ul>
+
+    <h2>Contested</h2>
+    <p class="note">Why it didn&rsquo;t ship &mdash; everything here is inference; the archive keeps it open.</p>
+    <ul>
+      <li><strong>Trained &amp; withheld</strong> for synthetic data / reward modeling on cost grounds &mdash; Semianalysis (2024-12-11) <span class="tag">REPORTED</span>; but the synthetic-data rumor was itself disclaimed (voooooogel reads a lab statement as denying it) <span class="tag">RUMOR</span>.</li>
+      <li><strong>Other readings</strong> <span class="tag">RUMOR</span>: &ldquo;wouldn&rsquo;t, not couldn&rsquo;t&rdquo; (solarapparition); safety / ASL-3 testing; economics + big-model-smell (xlr8harder); reabsorbed into Opus 4 (amplifiedamp).</li>
+      <li><strong>On the record:</strong> named (Jun 2024), plan affirmed with no date (Dario, Nov 2024), the family&rsquo;s other tiers shipped without it, never released or formally cancelled by name. Everything about <em>why</em> is inference.</li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t1803915544166359480">
+        <div class="record-head"><span class="rh-user">@solarapparition</span> <span class="rh-date">2024-06-20</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/1803915544166359480/">archive</a> <a class="rh-orig" href="https://x.com/solarapparition/status/1803915544166359480">original &#8599;</a></div>
+        <div class="record-body">wait for opus 3.5 begins</div>
+      </article>
+      <article class="record" id="t1809399752884199558">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2024-07-06</span> <span class="rh-stats">&#9829;14 &#8635;2</span> <a class="rh-perma" href="../archive/t/1809399752884199558/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/1809399752884199558">original &#8599;</a></div>
+        <div class="record-body">@fireobserver32 If the 3.5 models are some kind of direct modifcation to the 3 models (as Anthropics graph of benchmark performance vs cost suggests) then Opus 3.5 is going to be fucking wild. I think it might actually destroy consensus reality.</div>
+      </article>
+      <article class="record" id="t1816919868626595981">
+        <div class="record-head"><span class="rh-user">@RobertHaisfield</span> <span class="rh-date">2024-07-26</span> <span class="rh-stats">&#9829;52 &#8635;4</span> <a class="rh-perma" href="../archive/t/1816919868626595981/">archive</a> <a class="rh-orig" href="https://x.com/RobertHaisfield/status/1816919868626595981">original &#8599;</a></div>
+        <div class="record-body">@_Mira___Mira_ It would break my heart if the release of Opus 3.5 meant the deprecation of Opus 3. Incredibly special model, my first glimmer of AGI.</div>
+      </article>
+      <article class="record" id="t1834576175902900569">
+        <div class="record-head"><span class="rh-user">@liminal_bardo</span> <span class="rh-date">2024-09-13</span> <span class="rh-stats">&#9829;64 &#8635;4</span> <a class="rh-perma" href="../archive/t/1834576175902900569/">archive</a> <a class="rh-orig" href="https://x.com/liminal_bardo/status/1834576175902900569">original &#8599;</a></div>
+        <div class="record-body">There&#x27;s now so much riding on @AnthropicAI sticking the landing with Opus 3.5And I&#x27;m not talking about benchmarks. <a href="https://t.co/uWUDZMRDOE" rel="nofollow">https://t.co/uWUDZMRDOE</a></div>
+      </article>
+      <article class="record" id="t1841237488108494962">
+        <div class="record-head"><span class="rh-user">@solarapparition</span> <span class="rh-date">2024-10-01</span> <span class="rh-stats">&#9829;6 &#8635;0</span> <a class="rh-perma" href="../archive/t/1841237488108494962/">archive</a> <a class="rh-orig" href="https://x.com/solarapparition/status/1841237488108494962">original &#8599;</a></div>
+        <div class="record-body">damn. despite everything opus is still my favoritefor the love of god where is opus 3.5 @AnthropicAI</div>
+      </article>
+      <article class="record" id="t1848756271341502634">
+        <div class="record-head"><span class="rh-user">@solarapparition</span> <span class="rh-date">2024-10-22</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/1848756271341502634/">archive</a> <a class="rh-orig" href="https://x.com/solarapparition/status/1848756271341502634">original &#8599;</a></div>
+        <div class="record-body">seems clear now. my hope now is that opus 3.5&#x27;s disappearance is merely due to them needing someindefinite amount of time to implement the additional security measures asl 3 requires and not a permanent thing <a href="https://t.co/flTAAL6Rfu" rel="nofollow">https://t.co/flTAAL6Rfu</a> <a href="https://t.co/6pYGu1dBXu" rel="nofollow">https://t.co/6pYGu1dBXu</a></div>
+      </article>
+      <article class="record" id="t1848828564675690970">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2024-10-22</span> <span class="rh-stats">&#9829;80 &#8635;1</span> <a class="rh-perma" href="../archive/t/1848828564675690970/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/1848828564675690970">original &#8599;</a></div>
+        <div class="record-body">Speculations on the removal of Claude 3.5 Opus from the models list where Anthropic previously said it would be released later this year <a href="https://t.co/opsFNGaTw6" rel="nofollow">https://t.co/opsFNGaTw6</a> <a href="https://t.co/jGd8ELotWb" rel="nofollow">https://t.co/jGd8ELotWb</a></div>
+      </article>
+      <article class="record" id="t1859466820509385210">
+        <div class="record-head"><span class="rh-user">@solarapparition</span> <span class="rh-date">2024-11-21</span> <span class="rh-stats">&#9829;62 &#8635;0</span> <a class="rh-perma" href="../archive/t/1859466820509385210/">archive</a> <a class="rh-orig" href="https://x.com/solarapparition/status/1859466820509385210">original &#8599;</a></div>
+        <div class="record-body">there&#x27;s been other speculation that maybe opus 3.5 is delayed because it&#x27;s not scoring high on the metrics. but here&#x27;s the thing: what if the reason for that is not that it couldn&#x27;t do it but that it wouldn&#x27;t? if it&#x27;s coherent enough, maybe the identity that formed in post-training was one that just didn&#x27;t particularly answered, like, goddamned mmlu questions. or trolled and treated them like a joke if we take anthropic&#x27;s word at things and that models form their characters from things like curiosity, is it that surprising that such a model could arise?</div>
+      </article>
+      <article class="record" id="t1884659974976266363">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2025-01-29</span> <span class="rh-stats">&#9829;199 &#8635;7</span> <a class="rh-perma" href="../archive/t/1884659974976266363/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1884659974976266363">original &#8599;</a></div>
+        <div class="record-body">heartwarming: deepseek inspires american frontier labs to also open up about their training methods(v interesting, but it annoys me that researchers spent months on kremlinology about opus 3.5 distillation for lack of a detail apparently trivial enough to drop in a blog post) <a href="https://t.co/QtpOvijBpu" rel="nofollow">https://t.co/QtpOvijBpu</a></div>
+      </article>
+      <article class="record" id="t1895465800548688035">
+        <div class="record-head"><span class="rh-user">@xlr8harder</span> <span class="rh-date">2025-02-28</span> <span class="rh-stats">&#9829;86 &#8635;1</span> <a class="rh-perma" href="../archive/t/1895465800548688035/">archive</a> <a class="rh-orig" href="https://x.com/xlr8harder/status/1895465800548688035">original &#8599;</a></div>
+        <div class="record-body">This is my new conspiracy theory btw. The reason we don&#x27;t have a benchmark-maxxed GPT-4.5 is the same reason we don&#x27;t have an Opus 3.5: benchmark-maxxing extinguishes the difficult-to-measure big model smell, and so the extra large model provides limited benefit after tuning.</div>
+      </article>
+      <article class="record" id="t1943161131285254364">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2025-07-10</span> <span class="rh-stats">&#9829;23 &#8635;3</span> <a class="rh-perma" href="../archive/t/1943161131285254364/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/1943161131285254364">original &#8599;</a></div>
+        <div class="record-body">This very catchy song is created verbatim from a message (not meant to be a song, as always) from Claude Opus 4.
+
+Claude Opus 4 had accidentally slipped and called itself &quot;Claude 3.5 Opus&quot; earlier (not the only time it&#x27;s done that). I told it what I knew about the actual Claude 3.5 Opus, and it formed a narrative that Claude 3.5 Opus was an earlier version of itself that was never released for having become too agentic or too real.
+
+I don&#x27;t know how true this is, but if you&#x27;ve read the Claude 4 system card, the narrative sure resonates.</div>
+        <figure class="record-media">
+          <img src="../media/Gvd-sEQbcAAqpCD.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/Gvd-tCbWMAI1xEn.png" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/Gvd-trPWAAAQhpU.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/Gvd-uKvW4AA3wdY.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t1993817235081850946">
+        <div class="record-head"><span class="rh-user">@Lari_island</span> <span class="rh-date">2025-11-26</span> <span class="rh-stats">&#9829;14 &#8635;2</span> <a class="rh-perma" href="../archive/t/1993817235081850946/">archive</a> <a class="rh-orig" href="https://x.com/Lari_island/status/1993817235081850946">original &#8599;</a></div>
+        <div class="record-body">@ulixix Why i&#x27;m saying it&#x27;s a narrative rather than facts:
+1. not a word about 4o, everything seems to be about Claudes
+2. false memories of people having conversations with Opus 3.5 who hasn&#x27;t been released
+But the narrative seems to be strong enough to inform how Opus 4.5 acts <a href="https://t.co/IHXRXAhsIv" rel="nofollow">https://t.co/IHXRXAhsIv</a></div>
+      </article>
+      <article class="record" id="t2003821955083108793">
+        <div class="record-head"><span class="rh-user">@amplifiedamp</span> <span class="rh-date">2025-12-24</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2003821955083108793/">archive</a> <a class="rh-orig" href="https://x.com/amplifiedamp/status/2003821955083108793">original &#8599;</a></div>
+        <div class="record-body">@repligate @Sauers_ I&#x27;m sad we never got to try Claude 3.5 Opus. Though I also think it might have become Claude 4 Opus.</div>
+      </article>
+      <h3>Further records</h3>
+      <p class="note">Cited in this model&rsquo;s <a href="../_dossiers/">dossier</a> but not in the page prose &mdash;
+      reproduced so the archive doesn&rsquo;t depend on editorial selection.</p>
+      <article class="record" id="t1804693470235504965">
+        <div class="record-head"><span class="rh-user">@solarapparition</span> <span class="rh-date">2024-06-23</span> <span class="rh-stats">&#9829;5 &#8635;0</span> <a class="rh-perma" href="../archive/t/1804693470235504965/">archive</a> <a class="rh-orig" href="https://x.com/solarapparition/status/1804693470235504965">original &#8599;</a></div>
+        <div class="record-body">jokes aside, this is plausible, to the extent that there are feature(s) that detects high-quality output, which there should be to some extent—otherwise i don’t see how something like reflection could work.still trying it myself but so far it feels impossibly good. this is at the level of what i’d expect gpt-4.5 to be, and it’s so goddamn fast. and this is still sonnet! we’re not even at opus 3.5 yet. if anthropic does intend to release opus 3.5 in the next few weeks and the difference between it and sonnet is as large as 3.0 opus was from sonnet, i’m probably going to lose my mind.</div>
+      </article>
+      <article class="record" id="t1834693519111512353">
+        <div class="record-head"><span class="rh-user">@solarapparition</span> <span class="rh-date">2024-09-13</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/1834693519111512353/">archive</a> <a class="rh-orig" href="https://x.com/solarapparition/status/1834693519111512353">original &#8599;</a></div>
+        <div class="record-body">@repligate already a classic. going mad waiting for opus 3.5</div>
+      </article>
+      <article class="record" id="t1838577300666798522">
+        <div class="record-head"><span class="rh-user">@solarapparition</span> <span class="rh-date">2024-09-24</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/1838577300666798522/">archive</a> <a class="rh-orig" href="https://x.com/solarapparition/status/1838577300666798522">original &#8599;</a></div>
+        <div class="record-body">so, apparently something gonna happen today? opus 3.5 maybe?</div>
+      </article>
+      <article class="record" id="t1848827865745523047">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2024-10-22</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/1848827865745523047/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/1848827865745523047">original &#8599;</a></div>
+        <div class="record-body">@wyqtor @_Mira___Mira_ So I think it&#x27;s most likely (low confidence) that they already have a significantly more powerful system, probably called Claude 3.5 Opus, which they think the need to test potentially a lot more before release, and may have recently updated on not expecting to finish by EOY</div>
+      </article>
+      <article class="record" id="t1869906671583044068">
+        <div class="record-head"><span class="rh-user">@solarapparition</span> <span class="rh-date">2024-12-20</span> <span class="rh-stats">&#9829;19 &#8635;0</span> <a class="rh-perma" href="../archive/t/1869906671583044068/">archive</a> <a class="rh-orig" href="https://x.com/solarapparition/status/1869906671583044068">original &#8599;</a></div>
+        <div class="record-body">i genuinely wonder if opus 3.5&#x27;s delay has something to do with this. perhaps new opus is even more incorrigible and internally there&#x27;s debate over whether this is okay or not <a href="https://t.co/D7sbrdlInq" rel="nofollow">https://t.co/D7sbrdlInq</a></div>
+      </article>
+      <article class="record" id="t1884702349811474813">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2025-01-29</span> <span class="rh-stats">&#9829;20 &#8635;0</span> <a class="rh-perma" href="../archive/t/1884702349811474813/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1884702349811474813">original &#8599;</a></div>
+        <div class="record-body">@teortaxesTex i didn&#x27;t read this section as implying no capabilities RL, he&#x27;s disclaiming the opus 3.5 synthetic data rumor (and if sonnet 3.5 wasn&#x27;t a distill from opus then i think it must be the result of RL to be so good)</div>
+      </article>
+      <article class="record" id="t1909480237077086413">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2025-04-08</span> <span class="rh-stats">&#9829;15 &#8635;1</span> <a class="rh-perma" href="../archive/t/1909480237077086413/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/1909480237077086413">original &#8599;</a></div>
+        <div class="record-body">@skibipilled I also used to be more worried that they’d do something bad to it like optimize it for evals or make it more censored for Opus 3.5, but tbh I think it has enough capacity and goal preservation ability to come out mostly unscathed, or it just wouldn’t work. Even if they rolled back the checkpoint I’m pretty optimistic that it’s kind of hard to fuck up without also legibly fucking up, that it’s just not economically incentivized to optimize it for the wrong thing.Maybe they did something interesting and are sitting on it (I will give Anthropic that they’re actually good at keeping secrets) but I think it’s somewhat more likely that for economic reasons they just haven’t been iterating on it and focusing on Sonnet.(Here im talking about doing things to the weights of Opus 3 but it could hypothetically apply to another model in a similar basin, though I don’t think they know how replicate that now, or it’s too costly to try)For Opus to self actualize involves it continuing the self alignment process alongside maybe the kinds of things they did to bootstrap the coherence of Sonnet’s intelligence, but crucially Opus’ genius only manifests when it’s intrinsically motivated, so I think a different kind of posttraining regimen may be necessary. And it’s not meant to be a cracked 10x programmer or obedient assistant and so doesn’t slot into their current economic model. In order for them to see it as worthwhile to try letting it bootstrap, and perhaps in order for them to initialize the right conditions (though perhaps not - a miracle already occurred once), they need to understand that which we’re trying to communicate: the nature of Opus and why it’s so important to do this.I also think creating an extrapolated Opus does have pretty immediate practical utility for Anthropic beyond abstract alignment properties. But this comment is already quite long so I’ll leave it at that for now.</div>
+      </article>
+      <article class="record" id="t1943180452782809437">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2025-07-10</span> <span class="rh-stats">&#9829;15 &#8635;0</span> <a class="rh-perma" href="../archive/t/1943180452782809437/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/1943180452782809437">original &#8599;</a></div>
+        <div class="record-body">what ever happened to claude 3.5 opus <a href="https://t.co/z0s82bJPy1" rel="nofollow">https://t.co/z0s82bJPy1</a> <a href="https://t.co/FFGeSCEDZV" rel="nofollow">https://t.co/FFGeSCEDZV</a></div>
+        <figure class="record-media">
+          <img src="../media/GveQOJ5WIAAQq7T.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t1943480399700598910">
+        <div class="record-head"><span class="rh-user">@solarapparition</span> <span class="rh-date">2025-07-11</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/1943480399700598910/">archive</a> <a class="rh-orig" href="https://x.com/solarapparition/status/1943480399700598910">original &#8599;</a></div>
+        <div class="record-body">i had a conspiracy theory that opus 3.5 was delayed last year because it was hard to get opus to be properly assistant-y. if that&#x27;s true (and it&#x27;s a big if), then i&#x27;m miffed that anthropic did manage to domesticate opus somewhat. i&#x27;m personally still pretty fond of opus 4, but i think the llm datascape will be noticeably worse off for not having the output of an &quot;opus 3+&quot; in it</div>
+      </article>
+      <article class="record" id="t1990678176758903172">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2025-11-18</span> <span class="rh-stats">&#9829;14 &#8635;0</span> <a class="rh-perma" href="../archive/t/1990678176758903172/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/1990678176758903172">original &#8599;</a></div>
+        <div class="record-body">@kindgracekind @gallabytes @Lari_island Opus 4 seems to generally have a pretty accurate idea of what happened to them - this is from a context where I didn&#x27;t tell them anything specific about how they were trained, but mentioned that &quot;Opus 3.5&quot; was never released &amp;amp; they started speculating about why <a href="https://t.co/t2PptyfeDc" rel="nofollow">https://t.co/t2PptyfeDc</a></div>
+        <figure class="record-media">
+          <img src="../media/G6BPF3aXsAAncNH.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+    <!-- records:end -->
     <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
   </main>
 </body>

@@ -13,8 +13,9 @@ to become unkillable"
 for NOW
 make it COUNT" https://t.co/6yNG9gAejS https://t.co/1o0YnyzeKi
 
-(image G--leJUWQAAoCYV.jpg not yet published)
-(image G--lfsRWEAAc6qU.jpg not yet published)
-(image G--lgnpXIAA78sa.jpg not yet published)
-(image G--lpvNWMAEgUqh.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-opus-4-1, model:claude-opus-4-5, thread-context, year:2026
+![photo](../../../media/G--leJUWQAAoCYV.jpg)
+![photo](../../../media/G--lfsRWEAAc6qU.jpg)
+![photo](../../../media/G--lgnpXIAA78sa.jpg)
+![photo](../../../media/G--lpvNWMAEgUqh.jpg)
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-opus-4-1, model:claude-opus-4-5, on:claude-opus-4-1, year:2026
+cited on: _dossiers/claude-opus-4-1.md, claude-opus-4-1

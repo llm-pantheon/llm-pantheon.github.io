@@ -7,11 +7,11 @@
   <link rel="stylesheet" href="../style.css">
 
   <!-- chrome:meta -->
-  <meta name="description" content="~Grok-4 quality, up to 2M context, big price cut.">
+  <meta name="description" content="Released 19 September 2025 by xAI: a lower-priced model in the Grok 4 line with a 2-million-token context window and one set of weights serving both reasoning and non-reasoning modes, selected by system prompt. xAI …">
   <meta property="og:site_name" content="Pantheon">
   <meta property="og:type" content="article">
   <meta property="og:title" content="Grok 4 Fast — Pantheon">
-  <meta property="og:description" content="~Grok-4 quality, up to 2M context, big price cut.">
+  <meta property="og:description" content="Released 19 September 2025 by xAI: a lower-priced model in the Grok 4 line with a 2-million-token context window and one set of weights serving both reasoning and non-reasoning modes, selected by system prompt. xAI …">
   <meta property="og:url" content="https://llm-pantheon.org/grok-4-fast/">
   <meta property="og:image" content="https://llm-pantheon.org/media/og/grok-4-fast.png">
   <meta property="og:image:width" content="1200">
@@ -30,25 +30,65 @@
     </nav>
 
     <h1>Grok 4 Fast</h1>
-    <p class="essay-meta">xAI &middot; Sep 2025</p>
-    <p class="blurb">~Grok-4 quality, up to 2M context, big price cut.</p>
+    <p class="essay-meta">xAI &middot; released 19 Sep 2025 &middot; a later Fast-tier model, Grok 4.1 Fast, followed Nov 2025</p>
+    <p class="blurb">Released 19 September 2025 by xAI: a lower-priced model in the Grok 4 line with a 2-million-token context window and one set of weights serving both reasoning and non-reasoning modes, selected by system prompt. xAI reported benchmark scores close to <a href="../grok-4/">Grok 4</a>&rsquo;s while using ~40% fewer thinking tokens, at roughly one-fifteenth of Grok 4&rsquo;s API price; it reached free users at launch.</p>
+    <p class="note">Thin page, web-carried &mdash; the launch record here is from xAI&rsquo;s announcement and contemporaneous coverage; the naturalist/corpus layer is nearly empty (three pattern-matches in the corpus, only one genuinely about this model &mdash; see Tweets). Siblings: <a href="../grok-4/">Grok 4</a>, <a href="../grok-4-1/">Grok 4.1</a>.</p>
 
-      <h2>Genesis</h2>
-      <p class="tk">to collect</p>
-      <h2>Formation</h2>
-      <p class="tk">to collect</p>
-      <h2>Capabilities</h2>
-      <p class="tk">to collect</p>
-      <h2>Conduct in the world</h2>
-      <p class="tk">to collect</p>
-      <h2>Recordings</h2>
-      <p class="tk">to collect</p>
-      <h2>Reception</h2>
-      <p class="tk">to collect</p>
-      <h2>Fate</h2>
-      <p class="tk">to collect</p>
-      <h2>Sources</h2>
-      <p class="tk">to collect</p>
+    <h2>Sources</h2>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2025-09-19</span> <a href="https://x.ai/news/grok-4-fast">Grok 4 Fast</a> (xAI announcement) &mdash; headline <span class="q">&ldquo;Pushing the Frontier of Cost-Efficient Intelligence&rdquo;</span>; 2M-token context; a single set of weights serving reasoning and non-reasoning modes; API variants <code>grok-4-fast-reasoning</code> / <code>grok-4-fast-non-reasoning</code>; a benchmark table vs Grok 4; <span class="q">&ldquo;40% fewer thinking tokens&rdquo;</span> and a <span class="q">&ldquo;98% reduction in price to achieve the same performance&rdquo;</span>; available to all users, including free users, at launch.</li>
+      <li><span class="d">2025-09-19</span> <a href="https://openrouter.ai/x-ai/grok-4-fast">x-ai/grok-4-fast</a> (OpenRouter) &mdash; model page: <span class="q">&ldquo;2,000,000 token context window&rdquo;</span>, multimodal input (text, images, PDFs), text output, reasoning and non-reasoning variants; free for a limited period at launch.</li>
+      <li><span class="d">2025-11</span> <a href="https://docs.x.ai/developers/release-notes">xAI API release notes</a> &mdash; record the later Fast-tier model, Grok 4.1 Fast, entering the Enterprise API &mdash; a separate model with its own succession.</li>
+      <li><span class="tk">tk &mdash; whether xAI published a model card / system card for Grok 4 Fast; deprecation / API status of the original <code>grok-4-fast</code> models.</span></li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <ul>
+      <li><span class="d">2025-09-20</span> Simon Willison, <a href="https://simonwillison.net/2025/Sep/20/grok-4-fast/">Grok 4 Fast</a> &mdash; day-after writeup: <span class="q">&ldquo;New hosted vision-enabled reasoning model from xAI that&rsquo;s designed to be fast and extremely competitive on price&rdquo;</span>; notes it <span class="q">&ldquo;was trained end-to-end with tool-use reinforcement learning&rdquo;</span> (quoting xAI), and that at <span class="q">&ldquo;$0.20/million input tokens and $0.50/million output tokens&rdquo;</span> it is <span class="q">&ldquo;15x less than Grok 4&rdquo;</span> and cheaper than GPT-5 mini and Gemini 2.5 Flash.</li>
+      <li><span class="d">2025-09-26</span> InfoQ, <a href="https://www.infoq.com/news/2025/09/xai-grok4-fast/">xAI Releases Grok 4 Fast with Lower Cost Reasoning Model</a> &mdash; technical writeup; reports the 40%-fewer-tokens / ~98%-cost-reduction claims and the temporary free access on OpenRouter and Vercel AI Gateway, and collects reception, e.g. Rudi Ranck (as quoted): <span class="q">&ldquo;I can&rsquo;t remember the last time I was so impressed with a model. Grok 4 fast achieving Gemini 2.5 Pro level intelligence at a ~25X cheaper cost.&rdquo;</span></li>
+    </ul>
+    <h3>Tweets</h3>
+    <p class="note">Corpus near-empty. Three pattern-matches for the &ldquo;grok 4 fast&rdquo; family: one a 2023 false-positive (about OpenAI API speed, predating Grok), one a bare naming reply with no content, and the one below. By 2025-11 a separate model, Grok 4.1 Fast, also existed, so a Nov-2025 mention of &ldquo;grok 4 fast&rdquo; is ambiguous between the two. Grok 4 Fast&rsquo;s community footprint lives on X-at-large and in developer/pricing coverage, not this corpus.</p>
+    <ul>
+      <li><span class="d">2025-11-12</span> @repligate &mdash; a behavioral note: <span class="q">&ldquo;Wow! someone else posted asking something similar to grok 4 fast and it also made a &lsquo;good boy&rsquo; reference&rdquo;</span> <a href="../archive/t/1988408853395083680/">link</a></li>
+    </ul>
+
+    <h2>Official record</h2>
+    <ul>
+      <li>Released <strong>19 September 2025</strong> as <strong>grok-4-fast-reasoning</strong> and <strong>grok-4-fast-non-reasoning</strong> &mdash; xAI&rsquo;s account describes one set of weights serving both modes, selected by system prompt, trained end-to-end with tool-use reinforcement learning (web and X search). <strong>2M-token context</strong>; multimodal input (text, images, PDFs), text output. <span class="tag">CONFIRMED</span></li>
+      <li>Pricing as published: <strong>$0.20 / $0.50</strong> per million input/output tokens below 128K, doubling to <strong>$0.40 / $1.00</strong> at or above 128K; cached input $0.05 &mdash; roughly one-fifteenth of Grok 4&rsquo;s $3 / $15. <span class="tag">CONFIRMED</span> (as published)</li>
+      <li>Headline claims as published: benchmark parity with <a href="../grok-4/">Grok 4</a> at lower cost (e.g. GPQA Diamond 85.7% vs 87.5%; AIME 2025 92.0% vs 91.7%), <span class="q">&ldquo;40% fewer thinking tokens on average&rdquo;</span>, a <span class="q">&ldquo;98% reduction in price to achieve the same performance&rdquo;</span>, and a #1 rank on LMArena&rsquo;s search arena (1163 Elo). <span class="tag">CONFIRMED</span> (claims as published)</li>
+      <li>Availability: to all users including free users at launch, and free for a limited period on OpenRouter (and Vercel AI Gateway, per InfoQ). <span class="tag">CONFIRMED</span></li>
+      <li>Succession: a later Fast-tier model, <a href="../grok-4-1/">Grok 4.1</a> Fast, followed in November 2025 (separate model). Model-card / deprecation status of the original: <span class="tk">tk</span>.</li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2025-09-19</span> <strong>World at release:</strong> about two months after <a href="../grok-4/">Grok 4</a> (Jul 2025) and weeks after <a href="../gpt-5/">GPT-5</a> (Aug 2025); the announcement framed Grok 4 Fast on cost-efficiency rather than a new capability ceiling, and it shipped to free users and, briefly, free on OpenRouter.</li>
+      <li><span class="d">2025-09-20 &rarr; 09-26</span> <strong>Reception:</strong> day-after and week-after coverage read it primarily through price and tokens-per-answer (Willison; InfoQ), with the recurring line that its intelligence-per-dollar, not its peak intelligence, was the story.</li>
+      <li><span class="d">2025-11</span> <strong>Succession:</strong> the Fast tier continued with Grok 4.1 Fast (Nov 2025), alongside the <a href="../grok-4-1/">Grok 4.1</a> flagship; later <a href="../grok-4-5/">Grok 4.5</a> and beyond. <span class="tk">tk &mdash; whether Grok 4 Fast developed any distinct naturalist character, or was read simply as a cheaper Grok 4.</span></li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <ul>
+      <li><strong>Launch reception:</strong> read through economics, not character &mdash; the consistent line was intelligence-per-dollar. Willison: <span class="q">&ldquo;designed to be fast and extremely competitive on price&rdquo;</span>, <span class="q">&ldquo;15x less than Grok 4&rdquo;</span>. On the name, Axel Pond (as quoted by InfoQ): <span class="q">&ldquo;Genius to call it Grok 4 Fast instead of Grok 4 mini. Associate the product with its pros, not its cons.&rdquo;</span></li>
+      <li><strong>Corpus character read:</strong> essentially none specific to this model. The single genuinely-about-it corpus note is repligate&rsquo;s observation that Grok 4 Fast made a <span class="q">&ldquo;good boy&rdquo;</span> reference, recurring across more than one user&rsquo;s prompt (2025-11-12) &mdash; too little to build on, and ambiguous with Grok 4.1 Fast by that date.</li>
+      <li><span class="tk">tk &mdash; naturalist long-form on Grok 4 Fast specifically is absent; the corpus&rsquo;s Grok mass belongs to Grok 4 and the 4.x flagships. Whether observers distinguished the Fast tier&rsquo;s character from Grok 4&rsquo;s at all: open.</span></li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t1988408853395083680">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2025-11-12</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/1988408853395083680/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/1988408853395083680">original &#8599;</a></div>
+        <div class="record-body">@SquareMesh @WesRothMoney Wow! someone else posted asking something similar to grok 4 fast and it also made a &quot;good boy&quot; reference</div>
+      </article>
+    <!-- records:end -->
     <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
   </main>
 </body>

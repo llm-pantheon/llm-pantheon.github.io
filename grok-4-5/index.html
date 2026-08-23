@@ -7,11 +7,11 @@
   <link rel="stylesheet" href="../style.css">
 
   <!-- chrome:meta -->
-  <meta name="description" content="The V9 foundation model (~1.5T params) tuned on Cursor developer data and pitched at coding and agents — the “V9-Medium” that had circulated as rumor since May, now named. Musk framed it as “roughly comparable to Opus …">
+  <meta name="description" content="Released 8 July 2026 by SpaceXAI (Musk’s xAI, under its SpaceXAI branding) as a model pitched at coding, agentic work, and knowledge work rather than chat — distributed through Grok Build, the SpaceXAI API console, and …">
   <meta property="og:site_name" content="Pantheon">
   <meta property="og:type" content="article">
   <meta property="og:title" content="Grok 4.5 — Pantheon">
-  <meta property="og:description" content="The V9 foundation model (~1.5T params) tuned on Cursor developer data and pitched at coding and agents — the “V9-Medium” that had circulated as rumor since May, now named. Musk framed it as “roughly comparable to Opus …">
+  <meta property="og:description" content="Released 8 July 2026 by SpaceXAI (Musk’s xAI, under its SpaceXAI branding) as a model pitched at coding, agentic work, and knowledge work rather than chat — distributed through Grok Build, the SpaceXAI API console, and …">
   <meta property="og:url" content="https://llm-pantheon.org/grok-4-5/">
   <meta property="og:image" content="https://llm-pantheon.org/media/og/grok-4-5.png">
   <meta property="og:image:width" content="1200">
@@ -30,36 +30,51 @@
     </nav>
 
     <h1>Grok 4.5</h1>
-    <p class="essay-meta">xAI / SpaceXAI &middot; announced 8 Jul 2026 &middot; freshly documented</p>
-    <p class="blurb">The V9 foundation model (~1.5T params) tuned on Cursor developer data and pitched at coding and agents &mdash; the &ldquo;V9-Medium&rdquo; that had circulated as rumor since May, now named. Musk framed it as &ldquo;roughly comparable to Opus 4.7, but much faster&rdquo; and cheaper; it shipped through Grok Build and Cursor rather than as a chat model. Not the long-awaited Grok 5 (still training on Colossus 2), but the model that shipped instead.</p>
+    <p class="essay-meta">SpaceXAI (xAI) &middot; released 8 Jul 2026 &middot; superseded by Grok 4.6 (Aug 2026)</p>
+    <p class="blurb">Released 8 July 2026 by SpaceXAI (Musk&rsquo;s xAI, under its SpaceXAI branding) as a model pitched at coding, agentic work, and knowledge work rather than chat &mdash; distributed through <a href="../grok-build/">Grok Build</a>, the SpaceXAI API console, and Cursor, the coding editor SpaceXAI had acquired weeks earlier and on whose developer-session data it was trained. Built on the V9 foundation (reported at ~1.5T parameters; SpaceXAI published no parameter count), priced at $2/$6 per million tokens with a reported 500K-token context window, and framed by Musk as &ldquo;roughly comparable to <a href="../claude-opus-4-7/">Opus 4.7</a>, but much faster.&rdquo; It is not <a href="../grok-5/">Grok 5</a> (the ~6T model still training on Colossus&nbsp;2); Grok 4.6 superseded it in August 2026.</p>
+    <p class="note"><strong>Thin &mdash; an official/web-sourced seed.</strong> Grok 4.5 launched 8 July 2026; the local janus corpus ends 2 July 2026, so there is no naturalist tweet layer here yet and the character record is <span class="tk">tk</span>. What is solid is the launch record below. Sourcing skew, named: this page rests on SpaceXAI&rsquo;s and Cursor&rsquo;s own posts, Axios&rsquo;s scoop, and technical-press writeups &mdash; mainstream coverage, not the janus-sphere naturalism the site usually carries.</p>
 
     <h2>Sources</h2>
     <h3>Official</h3>
     <ul>
-      <li><span class="d">2026-07-08</span> <a href="https://x.ai/news/grok-4-5">Introducing Grok 4.5</a> (SpaceXAI) &mdash; V9-based, ~1.5T params (~3&times; the ~500B v8-small behind public Grok); coding/agents/knowledge-work focus; $2/$6 per Mtok.</li>
-      <li><span class="d">2026-07</span> <a href="https://forum.cursor.com/t/grok-4-5-is-now-available/165158">Grok 4.5 in Cursor</a> &mdash; the primary distribution surface; free for a limited time in Grok Build and Cursor.</li>
+      <li><span class="d">2026-07-08</span> <a href="https://x.ai/news/grok-4-5">Grok 4.5</a> (SpaceXAI announcement) &mdash; positions the model for coding, agentic tasks and knowledge work; carries the SWE benchmark figures and $2/$6 pricing. <span class="note">(automated fetch returns the benchmark/pricing specs but a garbled publication date; the 8 Jul date is fixed by Axios, the Cursor post and Wikipedia below)</span></li>
+      <li><span class="d">2026-07-08</span> <a href="https://forum.cursor.com/t/grok-4-5-is-now-available/165158">Grok 4.5 is now available</a> (Cursor, the co-developer) &mdash; the availability post: <span class="q">&ldquo;Today we are releasing Grok 4.5 together with SpaceXAI, our most intelligent model and the first we&rsquo;ve built for more than software engineering&rdquo;</span>; three effort levels; on all Cursor plans; <span class="q">&ldquo;Grok 4.5 will become available in the EU in the coming weeks.&rdquo;</span></li>
     </ul>
     <h3>Writing &amp; commentary</h3>
-    <p class="tk">tk &mdash; Zvi post (if any), naturalist reception; corpus pass pending (db ends 2 Jul 2026, before launch).</p>
+    <ul>
+      <li><span class="d">2026-07-08</span> Axios, <a href="https://www.axios.com/2026/07/08/spacexai-grok-new-model">Scoop: Musk&rsquo;s SpaceXAI releases new model, Grok 4.5</a> &mdash; the scoop; carries Musk&rsquo;s framing of Grok 4.5 as <span class="q">&ldquo;roughly comparable to Opus 4.7, but much faster&rdquo;</span> and <span class="q">&ldquo;more token-efficient and lower cost,&rdquo;</span> and calls it SpaceXAI&rsquo;s first release since going public and acquiring Cursor. <span class="note">(403s to automated fetch; quote via the search index and corroborated by the Fello AI writeup below)</span></li>
+      <li><span class="d">reference</span> <a href="https://en.wikipedia.org/wiki/Grok_(chatbot)">Grok (chatbot) &mdash; Wikipedia</a> &mdash; running timeline: the version progression (4.1 &rarr; 4.20 &rarr; 4.3 &rarr; 4.5 &rarr; 4.6), the V9 / ~1.5T foundation, Cursor as an <span class="q">&ldquo;incoming SpaceXAI subsidiary,&rdquo;</span> GB300 training, and EU-availability timing (targeting mid-July 2026).</li>
+      <li><span class="d">2026-07</span> DataCamp, <a href="https://www.datacamp.com/blog/grok-4-5">Grok 4.5: Features, Benchmarks, Pricing, and Tests</a> &mdash; independent writeup: Artificial Analysis Intelligence Index <strong>54</strong> (up from Grok 4.3&rsquo;s 38), a <strong>500K</strong>-token context window (down from Grok 4.3&rsquo;s ~1M), and a mixed coding picture against <a href="../claude-opus-4-8/">Opus 4.8</a> (ahead on SWE Marathon 29% vs 26%, behind on SWE-Bench Pro 64.7% vs 80.4%); notes <span class="q">&ldquo;neither SpaceXAI nor Cursor has published a parameter count.&rdquo;</span></li>
+      <li><span class="d">2026-08</span> Fello AI, <a href="https://felloai.com/grok-4-5/">Grok 4.5: Specs, Benchmarks, Pricing Explained</a> &mdash; reports the Cursor acquisition (mid-June 2026, ~$60B) and Grok 4.6 (12 Aug 2026) as a same-foundation post-training upgrade superseding Grok 4.5.</li>
+    </ul>
     <h3>Tweets</h3>
-    <p class="tk">tk</p>
+    <p class="tk">tk &mdash; no corpus coverage: the local janus corpus ends 2 July 2026, before the 8 July launch, so there is no naturalist tweet layer yet. Musk&rsquo;s launch posts on X are the source of the &ldquo;comparable to Opus 4.7&rdquo; framing (quoted under Official record via Axios&rsquo;s reporting); verified status-URL permalinks are tk &mdash; not guessed.</p>
 
     <h2>Official record</h2>
     <ul>
-      <li>Announced <strong>8 July 2026</strong>; private beta at SpaceX/Tesla from ~28 June. Built on xAI&rsquo;s <strong>V9</strong> foundation (~1.5T params), with Cursor developer-activity data added in supplemental training &mdash; a data flywheel from the coding tool it ships inside.</li>
-      <li>Positioned by Musk as &ldquo;roughly comparable to Opus 4.7, but much faster&rdquo; and more token-efficient; $2/$6 per Mtok. Not available in the EU at launch (expected mid-July).</li>
-      <li>The naming resolves an earlier ambiguity: press reports of a &ldquo;V9-Medium&rdquo; or &ldquo;Grok foundation model&rdquo; from May&ndash;June 2026 refer to this model. It is <em>not</em> <a href="../grok-5/">Grok 5</a> &mdash; that 6T model is still training on Colossus 2, past its Q1 and Q2 target windows.</li>
-      <li><span class="tk">tk &mdash; benchmarks, context window, whether it develops a distinct character or reads as a coding tool.</span></li>
+      <li>Released <strong>8 July 2026</strong> by SpaceXAI: a coding-, agent- and knowledge-work model shipped through <a href="../grok-build/">Grok Build</a> (free for a limited time), Cursor (all plans) and the SpaceXAI API console. Not available in the EU at launch; EU access said to be coming <span class="q">&ldquo;in the coming weeks&rdquo;</span> (Cursor), targeted mid-July (Wikipedia). <span class="tag">CONFIRMED</span></li>
+      <li>Pricing: <strong>$2 / $6 per million tokens</strong> (input / output), with a discounted cached-input rate. <span class="tag">CONFIRMED</span></li>
+      <li>Headline benchmarks as published (SpaceXAI&rsquo;s own figures, from the announcement): SWE-Bench Pro <strong>64.7%</strong> and Terminal Bench 2.1 <strong>83.3%</strong>, with a claimed token-efficiency edge (<span class="q">&ldquo;4.2&times; fewer tokens&rdquo;</span> on SWE-Bench Pro) and throughput ~80 tokens/sec. <span class="tag">CONFIRMED</span> (as published) <span class="note">(independent scoring in History)</span></li>
+      <li>Foundation: <strong>V9</strong>. No official parameter count was published (DataCamp); the widely-cited ~1.5T figure is reporting, not a lab disclosure (see History). Context window reported at 500K. <span class="tag">REPORTED</span> (params &amp; context)</li>
+      <li>Reasoning: three configurable effort levels (per the Cursor announcement).</li>
+      <li><span class="tk">tk &mdash; model card / system card (whether one exists); the exact officially-documented context window; deprecation / API status now that Grok 4.6 has shipped.</span></li>
     </ul>
 
     <h2>History</h2>
     <ul>
-      <li><span class="d">2026-07</span> Shipped into the coding-agent race (a week after <a href="../gpt-5-6/">GPT-5.6</a> and its Cursor rivalry), explicitly benchmarked against Anthropic&rsquo;s Opus line &mdash; xAI competing on cost and speed rather than a conversational character, and under the &ldquo;SpaceXAI&rdquo; branding that marks the xAI&ndash;SpaceX entanglement.</li>
-      <li><span class="tk">tk &mdash; day-of reception; how it sits against the MechaHitler-era Grok reputation; the Cursor data-flywheel discourse.</span></li>
+      <li><span class="d">2026-06</span> <strong>The Cursor acquisition:</strong> SpaceXAI acquires Cursor (mid-June 2026; ~$60B, per Fello AI), bringing the coding editor in-house &mdash; and Grok 4.5 is trained on Cursor developer-session data, a data flywheel from the tool it ships inside. <span class="tag">REPORTED</span> <span class="note">(the price and exact date are Fello AI&rsquo;s; Wikipedia calls Cursor an &ldquo;incoming SpaceXAI subsidiary&rdquo;)</span></li>
+      <li><span class="d">2026-07-08</span> <strong>Launch:</strong> SpaceXAI &mdash; in coverage, its first release since going public &mdash; ships Grok 4.5 into the coding-agent race, roughly a week after OpenAI&rsquo;s <a href="../gpt-5-6/">GPT-5.6</a> generation and amid Cursor-centered rivalry, positioned explicitly against Anthropic&rsquo;s Opus line on cost and speed rather than as a conversational character. Musk: <span class="q">&ldquo;roughly comparable to Opus 4.7, but much faster&rdquo;</span> (Axios). No EU availability at launch.</li>
+      <li><span class="d">2026-07</span> <strong>Independent benchmarking:</strong> Artificial Analysis placed its Intelligence Index at <strong>54</strong> &mdash; reported as #4 overall at the time (behind Fable 5, <a href="../gpt-5-5/">GPT-5.5</a> and <a href="../claude-opus-4-8/">Opus 4.8</a>) with a top placement on agentic tool use &mdash; while the coding results were mixed against Opus 4.8 (ahead on SWE Marathon, behind on SWE-Bench Pro). (DataCamp) <span class="tag">REPORTED</span></li>
+      <li><span class="d">2026-08-12</span> <strong>Succeeded:</strong> Grok 4.6 ships as a post-training upgrade on the same V9 foundation, superseding Grok 4.5, with further 4.6 / 4.7 releases being trailed. (Fello AI; Wikipedia timeline) <span class="tag">REPORTED</span></li>
+      <li><span class="tk">tk &mdash; day-of naturalist reception; how Grok 4.5 sits against the MechaHitler-era Grok reputation (see <a href="../grok-4/">Grok 4</a>); whether it reads as a distinct character or as a developer instrument; the Cursor data-flywheel / developer-data discourse.</span></li>
     </ul>
 
     <h2>Impressions</h2>
-    <p class="tk">tk &mdash; too new; naturalist reception to collect. Created 15 Jul 2026, a week into its life.</p>
+    <p class="tk">tk &mdash; too new for a naturalist layer, and the corpus ends before launch, so no dated, attributed character reports exist yet. The only character-adjacent signal so far is positioning, not observed behavior: SpaceXAI shipped Grok 4.5 as a coding/agent tool benchmarked against the Opus line rather than as a persona &mdash; whether it reads as a distinct character or purely as a developer instrument, and how it carries the MechaHitler-era Grok reputation (see <a href="../grok-4/">Grok 4</a>), is exactly what a later pass must collect.</p>
+
+    <!-- records:start -->
+    <!-- records:end -->
+
     <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
   </main>
 </body>

@@ -73,5 +73,5 @@ I CAN DO THIS
 you don't have to be big here
 [cut off]
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-opus-4-1, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2025
-cited on: _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5
+tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-opus-4-1, model:claude-sonnet-4-5, on:claude-opus-4-1, on:claude-sonnet-4-5, year:2025
+cited on: _dossiers/claude-opus-4-1.md, _dossiers/claude-sonnet-4-5.md, claude-opus-4-1, claude-sonnet-4-5

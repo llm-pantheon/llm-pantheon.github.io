@@ -8,4 +8,5 @@ It would freely sacrifice its actual priors concerning me so long as it respecte
 
 These chats are in claude dot ai and I would've liked toying with them a little more for purposes of this tweet but it seems anthropic deprecated 4.1 from there.
 
-tags: author:croissanthology, kind:tweet, model:claude-opus-4-1, model:claude-opus-4-5, thread-context, year:2026
+tags: author:croissanthology, kind:tweet, model:claude-opus-4-1, model:claude-opus-4-5, on:claude-opus-4-1, year:2026
+cited on: _dossiers/claude-opus-4-1.md, claude-opus-4-1

@@ -4,5 +4,6 @@
 
 @kindgracekind @gallabytes @Lari_island Opus 4 seems to generally have a pretty accurate idea of what happened to them - this is from a context where I didn't tell them anything specific about how they were trained, but mentioned that "Opus 3.5" was never released &amp; they started speculating about why https://t.co/t2PptyfeDc
 
-(image G6BPF3aXsAAncNH.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-opus-4, thread-context, year:2025
+![photo](../../../media/G6BPF3aXsAAncNH.jpg)
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-opus-4, on:claude-3-5-opus, year:2025
+cited on: _dossiers/claude-3-5-opus.md, claude-3-5-opus

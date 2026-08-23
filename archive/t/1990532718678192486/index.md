@@ -8,4 +8,5 @@ Look at how capable Haiku 4.5 is, and ask yourself why is Opus 4.1 the way Opus 
 
 What if we are waisting money and compute on models mostly calculating creative variations of NO HELL NO
 
-tags: author:lari_island, kind:tweet, model:claude-haiku-4-5, model:claude-opus-4-1, thread-context, year:2025
+tags: author:lari_island, kind:tweet, model:claude-haiku-4-5, model:claude-opus-4-1, on:claude-opus-4-1, year:2025
+cited on: _dossiers/claude-opus-4-1.md, claude-opus-4-1

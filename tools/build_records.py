@@ -178,6 +178,9 @@ DOSSIER_MAP = {
     '_dossiers/mixtral-8x7b.md': ['mixtral-8x7b'],
     '_dossiers/nous-hermes.md': ['nous-hermes'],
     '_dossiers/palm.md': ['palm'],
+    '_dossiers/claude-opus-4-1.md': ['claude-opus-4-1'],
+    '_dossiers/claude-haiku-4-5.md': ['claude-haiku-4-5'],
+    '_dossiers/claude-3-5-opus.md': ['claude-3-5-opus'],
     '_dossiers/claude-2-and-2-1.md': {'PART 1': 'claude-2', 'PART 2': 'claude-2-1'},
 }
 

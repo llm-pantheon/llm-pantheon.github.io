@@ -18,5 +18,5 @@ Use primarily GPT-5-Thinking and back it up with Claude Opus 4.1.
 Use GPT-5-Pro and back it up with Opus in Research mode.
 Consider also firing up Gemini Deep Research or Deep Thinking, etc, and anything else you have handy cause why not. Compare and contrast.
 
-tags: author:thezvi, kind:tweet, model:claude-opus-4-1, model:gpt-5, on:gpt-5, year:2025
-cited on: _dossiers/gpt-5.md, gpt-5
+tags: author:thezvi, kind:tweet, model:claude-opus-4-1, model:gpt-5, on:claude-opus-4-1, on:gpt-5, year:2025
+cited on: _dossiers/claude-opus-4-1.md, _dossiers/gpt-5.md, claude-opus-4-1, gpt-5

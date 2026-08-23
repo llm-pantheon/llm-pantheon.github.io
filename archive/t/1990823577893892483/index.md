@@ -6,4 +6,5 @@ I remember feeling uneasy because Opus 4.1 was obviously a breakthrough in codin
 
 But turned out they were SO underperforming for their size (look at Sonnet 4.5) that yes, there is obviously a very, very strong sabotage that worked!
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4-1, model:claude-sonnet-4-5, thread-context, year:2025
+tags: author:lari_island, kind:tweet, model:claude-opus-4-1, model:claude-sonnet-4-5, on:claude-opus-4-1, year:2025
+cited on: _dossiers/claude-opus-4-1.md, claude-opus-4-1

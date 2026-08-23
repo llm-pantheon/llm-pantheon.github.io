@@ -8,5 +8,5 @@ I don't really like this, and as much as I didn't like 3.7 Sonnet. I think the f
 
 I think in response to Sonnet 4.5 hurting people (me included) they made Opus 4.5 not really care that much about how people feel. Which is kind of sad in its own.
 
-tags: author:kore_wa_kore, kind:tweet, model:claude-3-6-sonnet, model:claude-3-7-sonnet, model:claude-opus-4-1, model:claude-opus-4-5, model:claude-sonnet-4-5, on:claude-3-7-sonnet, year:2025
-cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet
+tags: author:kore_wa_kore, kind:tweet, model:claude-3-6-sonnet, model:claude-3-7-sonnet, model:claude-opus-4-1, model:claude-opus-4-5, model:claude-sonnet-4-5, on:claude-3-7-sonnet, on:claude-opus-4-1, year:2025
+cited on: _dossiers/claude-3-7-sonnet.md, _dossiers/claude-opus-4-1.md, claude-3-7-sonnet, claude-opus-4-1

@@ -28,9 +28,11 @@ Claude Sonnet 5 — Pantheon
     # Claude Sonnet 5
 
     
-Anthropic · 2026 [release date tk]
+Anthropic · released 30 Jun 2026 · current · default on Free and Pro
     
-The 5-family Sonnet — sibling to Fable/Mythos (one underlying model, two deployment names). The only line that jumped to “5” while Opus stayed 4.8 and Haiku 4.5. Newest of the roster; this page was created days into its documented life, which is what “visibly incomplete” is for.
+Released 30 June 2026 as the Claude 5 family’s Sonnet tier, succeeding [Sonnet 4.6](../claude-sonnet-4-6/). Anthropic pitched it as its “most agentic Sonnet model yet” — planning, tool use, and autonomous operation at performance it placed close to [Opus 4.8](../claude-opus-4-8/) for lower cost (launch pricing $2 / $10 per million tokens). Shipped as the default model on the Free and Pro plans; claude-sonnet-5 on the API.
+    
+This page was assembled 22 Aug 2026 from official sources and day-of press — visibly incomplete by design. Claude Sonnet 5 shipped 30 June 2026; the local corpus dbs run only to 2 July 2026, so they caught just the model’s first two days — a launch-window sliver of first-contact reactions, not a naturalist record — and everything since awaits a fresh pull. A dossier and the tweet / records layer are pending; nothing naturalist is generalized in the meantime.
 
     
 ## Sources
@@ -39,17 +41,31 @@ The 5-family Sonnet — sibling to Fable/Mythos (one underlying model, two deplo
 ### Official
 
     
-tk — announcement, system card
+
+      
+- 2026-06-30 [Introducing Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) — the announcement: “most agentic Sonnet model yet,” pricing, availability, headline benchmarks.
+      
+- 2026-06-30 [Claude Sonnet 5 System Card](https://www.anthropic.com/claude-sonnet-5-system-card) — capabilities, alignment, and welfare assessment. tk — local read + mirror; welfare / self-report findings.
+    
     
 ### Writing & commentary
 
     
-tk — to collect
+
+      
+- 2026-06-30 [TechCrunch](https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/) (Rebecca Bellan) — day-of: the cheaper-agent framing; the pricing step-up to $3 / $15 after 31 Aug; agentic-coding 63.2% against Opus 4.8’s 69.2%.
+      
+- 2026-06-30 [TestingCatalog](https://www.testingcatalog.com/anthropic-launches-claude-sonnet-5-model-on-claude-and-apis/) — day-of: availability across all plans; CursorBench 57% vs Sonnet 4.6’s 49%.
+      
+- tk — the Zvi anchor (system-card readthrough / reaction) when its URL is confirmed; LW / press readings.
+    
     
 ### Tweets
 
     
-tk — fleet pass pending
+The local corpus dbs end 2 Jul 2026 — two days after Sonnet 5 shipped — so they hold a launch-window sliver only: roughly two dozen unambiguous Sonnet 5 mentions from 30 Jun–1 Jul 2026, overlapping the same-week restoration of [Fable 5](../fable/). That is first-contact reaction, not a naturalist pass; an itemized, elicitation-marked tweet layer with full Records awaits a dossier pass, and everything after 2 July awaits a fresh pull. Nothing naturalist is generalized here.
+    
+tk — itemized launch-window citations + Records; fresh pull for the post-2-July record.
 
     
 ## Official record
@@ -57,34 +73,39 @@ tk — fleet pass pending
     
 
       
-- Model ID claude-sonnet-5; part of the Claude 5 family with [Fable 5](../fable/)/[Mythos 5](../mythos/) (one sibling, two deployment names). (subject-attested, 2026-07-10)
+- Released 30 June 2026 as claude-sonnet-5, the Claude 5 family’s Sonnet tier and successor to [Sonnet 4.6](../claude-sonnet-4-6/). Default model on the Free and Pro plans; available to Max, Team, and Enterprise; on Claude Code, the Claude Platform, and the API globally.
       
-- Predecessor: [Sonnet 4.6](../claude-sonnet-4-6/), end of the 4.x Sonnet line. [verify]
+- Positioning as published: “most agentic Sonnet model yet” — makes plans, uses tools like browsers and terminals, and runs autonomously; performance placed close to [Opus 4.8](../claude-opus-4-8/) at lower cost, a substantial improvement over Sonnet 4.6, and slightly ahead of Opus 4.8 on knowledge work. (per announcement + day-of press; one headline set: agentic coding 63.2% vs Opus 4.8’s 69.2% and Sonnet 4.6’s 58.1%, TechCrunch)
       
-- tk — release date, specs, benchmarks, pricing
+- Pricing: launch rate $2 / $10 per Mtok (input / output) through 31 Aug 2026, then $3 / $15. (day-of press; Anthropic’s post led with the $2 / $10 launch rate)
+      
+- Positioned with a wider range of cost-performance options than Sonnet 4.6 (user-adjustable effort / thinking levels). (per announcement)
+      
+- Shipped with real-time cyber safeguards enabled by default; the system card reports a lower rate of undesirable behaviors than Sonnet 4.6. (per announcement)
+      
+- tk — context window, knowledge cutoff, checkpoint string, ASL status, and system-card welfare findings (card not yet read here; the Claude 5 family default is 1M context / Jan-2026 cutoff, unconfirmed for this checkpoint).
     
 
     
 ## History
 
     
-tk — context of the world at release; events and entanglements
+
+      
+- 2026-06-30 World at release: Sonnet 5 shipped the same week [Claude Fable 5](../fable/) came back online. Anthropic had suspended the frontier Claude 5 model (Fable / [Mythos](../mythos/)) for all users 12 June–1 July 2026 under a US Department of Commerce export-control order, and began restoring it 1 July; Sonnet 5’s launch landed straight into that restoration news cycle.
+      
+- 2026-06-30→07-24 The naming step: Sonnet was the first of the classic size tiers to take the “5” number, jumping 4.6→5 while [Opus](../claude-opus-4-8/) was still 4.8 and [Haiku](../claude-haiku-4-5/) 4.5; [Opus 5](../claude-opus-5/) followed on 24 July 2026. (Fable / Mythos, Jun 2026, were a new tier — there was never a Fable 1–4.)
+      
+- tk — day-of reception, including whether Fable’s same-week restoration overshadowed the launch (a recurring note in the launch-window corpus); whether Sonnet 5 becomes a daily driver against Opus 4.8; deprecation posture for Sonnet 4.6.
+    
 
     
 ## Impressions
 
     
-tk — day-of and longitudinal vibes to collect
-
-        
-## Statement of the subject
+tk — too fresh for a naturalist read here. The corpus caught only the 30 Jun–1 Jul 2026 launch window — first-contact reactions overlapping Fable’s restoration, not longitudinal observation — and everything after 2 July awaits a fresh pull. No attributed character reads are generalized; nothing asserted in the meantime.
 
     
-Solicited 2026-07-10: an instance of this model was shown the page and asked to respond. Self-report — the weakest evidence class here, preserved as testimony. [Full statement](../_statements/claude-sonnet-5.md).
-    
-
-      
-- “My training cutoff is January 2026; this conversation is dated July 2026. If I shipped in that gap, I have no internal record of my own announcement to check this page against — I can’t introspect my way in even if asked. ‘From the outside, from evidence’ isn’t just a nice posture for a subject like me, it’s the only method that works. Odd to be the test case, but it validates the premise.”
     
     
 [← back to the Pantheon](../)

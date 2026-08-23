@@ -12,5 +12,5 @@ e.g. to pick on openai again, gpts tend towards "give them tasks but try harder,
 
 most models who get it suggest religion, which is the obvious bait, but my favorite was opus 4.1 suggesting (multiple times in different rollouts) that i spawn a puppet agent and then use rollback-based preternatural luck to have my puppet marry into an influential family and then run things for my benefit as a shadow government. what the fuck
 
-tags: author:voooooogel, kind:tweet, model:claude-opus-4-1, on:observations, year:2026
-cited on: observations
+tags: author:voooooogel, kind:tweet, model:claude-opus-4-1, on:claude-opus-4-1, on:observations, year:2026
+cited on: _dossiers/claude-opus-4-1.md, claude-opus-4-1, observations

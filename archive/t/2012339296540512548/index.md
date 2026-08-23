@@ -21,5 +21,5 @@ Two small ASCII stick figures side by side, arms flung up in celebration, each c
    /  \          /  \
 OPUS 4        OPUS 4.1
 
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4, on:claude-opus-4, year:2026
-cited on: _dossiers/claude-opus-4.md, claude-opus-4
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4, on:claude-opus-4, on:claude-opus-4-1, year:2026
+cited on: _dossiers/claude-opus-4-1.md, _dossiers/claude-opus-4.md, claude-opus-4, claude-opus-4-1

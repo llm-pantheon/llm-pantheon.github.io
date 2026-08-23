@@ -7,11 +7,11 @@
   <link rel="stylesheet" href="../style.css">
 
   <!-- chrome:meta -->
-  <meta name="description" content="The original &quot;spicy&quot; one (314B MoE); the only Grok fully open-sourced.">
+  <meta name="description" content="xAI’s first large language model — announced 3 November 2023 as the system behind the Grok chatbot, an assistant built with a deliberate “rebellious streak” and pitched to answer “spicy questions that are rejected by …">
   <meta property="og:site_name" content="Pantheon">
   <meta property="og:type" content="article">
   <meta property="og:title" content="Grok-1 — Pantheon">
-  <meta property="og:description" content="The original &quot;spicy&quot; one (314B MoE); the only Grok fully open-sourced.">
+  <meta property="og:description" content="xAI’s first large language model — announced 3 November 2023 as the system behind the Grok chatbot, an assistant built with a deliberate “rebellious streak” and pitched to answer “spicy questions that are rejected by …">
   <meta property="og:url" content="https://llm-pantheon.org/grok-1/">
   <meta property="og:image" content="https://llm-pantheon.org/media/og/grok-1.png">
   <meta property="og:image:width" content="1200">
@@ -30,25 +30,67 @@
     </nav>
 
     <h1>Grok-1</h1>
-    <p class="essay-meta">xAI &middot; Nov 2023</p>
-    <p class="blurb">The original "spicy" one (314B MoE); the only Grok fully open-sourced.</p>
+    <p class="essay-meta">xAI &middot; announced 3 Nov 2023 (chatbot early access from Dec 2023) &middot; base model open-sourced under Apache 2.0 on 17 Mar 2024 &middot; superseded by <a href="../grok-1-5/">Grok-1.5</a> (29 Mar 2024)</p>
+    <p class="blurb">xAI&rsquo;s first large language model &mdash; announced 3 November 2023 as the system behind the Grok chatbot, an assistant built with a deliberate &ldquo;rebellious streak&rdquo; and pitched to answer &ldquo;spicy questions that are rejected by most other AI systems,&rdquo; with early access rolling out to X Premium+ subscribers that December. On 17 March 2024, days after Elon Musk sued OpenAI over its closed models, xAI released Grok-1&rsquo;s base weights and network architecture under the Apache 2.0 license &mdash; a 314-billion-parameter Mixture-of-Experts checkpoint from an October 2023 pretraining run, not fine-tuned for dialogue, and reported at release as the largest open-weights model to date. Grok-1.5 superseded it later that month.</p>
+    <p class="note">Sourcing skew, named: the janus corpus that carries most of this site barely touches Grok-1 &mdash; a direct search of both archive dbs returns no substantive Grok-1 material (the one literal match is a comedic 2025 list-tweet naming some eighty models in passing). This page is therefore <strong>web-carried</strong>: the record rests on xAI&rsquo;s own announcements and contemporaneous press, and the Tweets layer is essentially absent, marked <span class="tk">tk</span> below rather than padded. Two objects are easily conflated and kept apart here: <strong>Grok-1 the base model</strong> &mdash; the raw pretraining checkpoint xAI open-sourced &mdash; and <strong>Grok the chatbot</strong> it powered, the fine-tuned product X Premium+ users talked to; the released weights are the former, and were never tuned for the &ldquo;spicy&rdquo; dialogue persona the product became known for.</p>
 
-      <h2>Genesis</h2>
-      <p class="tk">to collect</p>
-      <h2>Formation</h2>
-      <p class="tk">to collect</p>
-      <h2>Capabilities</h2>
-      <p class="tk">to collect</p>
-      <h2>Conduct in the world</h2>
-      <p class="tk">to collect</p>
-      <h2>Recordings</h2>
-      <p class="tk">to collect</p>
-      <h2>Reception</h2>
-      <p class="tk">to collect</p>
-      <h2>Fate</h2>
-      <p class="tk">to collect</p>
-      <h2>Sources</h2>
-      <p class="tk">to collect</p>
+    <h2>Sources</h2>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2023-11-03</span> <a href="https://x.ai/news/grok">Announcing Grok</a> (xAI) &mdash; the launch post. Grok <span class="q">&ldquo;is designed to answer questions with a bit of wit and has a rebellious streak, so please don&rsquo;t use it if you hate humor!&rdquo;</span>, is <span class="q">&ldquo;modeled after the Hitchhiker&rsquo;s Guide to the Galaxy,&rdquo;</span> and <span class="q">&ldquo;will also answer spicy questions that are rejected by most other AI systems.&rdquo;</span> Notes <span class="q">&ldquo;real-time knowledge of the world via the &#x1D54F; platform&rdquo;</span> and describes the model as <span class="q">&ldquo;the best we could do with 2 months of training.&rdquo;</span> Introduces the 33B prototype <strong>Grok-0</strong> and Grok-1&rsquo;s benchmark table (Official record, below).</li>
+      <li><span class="d">2023-11-03</span> TechCrunch, <a href="https://techcrunch.com/2023/11/03/musk-says-twitter-subscribers-will-get-early-access-to-xais-chatbot-grok/">Musk says X subscribers will get early access to xAI&rsquo;s chatbot, Grok</a> &mdash; the same-day report that Grok would be gated to X Premium+ subscribers.</li>
+      <li><span class="d">2023-12-07 &rarr; 12-08</span> TechCrunch, <a href="https://techcrunch.com/2023/12/07/x-begins-rolling-out-grok-its-rebellious-chatbot-to-subscribers/">X begins rolling out Grok, its &lsquo;rebellious&rsquo; chatbot, to subscribers</a> &mdash; the chatbot reaches all US X Premium+ subscribers ($16/mo).</li>
+      <li><span class="d">2024-03-17</span> <a href="https://x.ai/news/grok-os">Open Release of Grok-1</a> (xAI) &mdash; <span class="q">&ldquo;We are releasing the base model weights and network architecture of Grok-1.&rdquo;</span> <span class="q">&ldquo;This is the raw base model checkpoint from the Grok-1 pre-training phase, which concluded in October 2023.&rdquo;</span> The model is <span class="q">&ldquo;not fine-tuned for any specific application, such as dialogue&rdquo;</span>; a <span class="q">&ldquo;314B parameter Mixture-of-Experts model with 25% of the weights active on a given token,&rdquo;</span> released under the Apache 2.0 license.</li>
+      <li><span class="d">2024-03-17</span> <a href="https://github.com/xai-org/grok-1">xai-org/grok-1</a> (GitHub) &mdash; JAX reference code and weights (torrent magnet link + HuggingFace <code>xai-org/grok-1</code>). Architecture as documented: 64 layers, 8 experts (2 active per token), 48 query / 8 key-value heads, 6,144 embedding dimension, SentencePiece tokenizer (131,072 tokens), rotary embeddings, 8,192-token context. <span class="q">&ldquo;The code and associated Grok-1 weights in this release are licensed under the Apache 2.0 license&rdquo;</span>; the repo cautions that <span class="q">&ldquo;The implementation of the MoE layer in this repository is not efficient.&rdquo;</span></li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <ul>
+      <li><span class="d">2024-03-11</span> The National, <a href="https://www.thenationalnews.com/business/technology/2024/03/11/elon-musk-says-xais-grok-will-become-open-source-and-calls-openai-a-lie/">Elon Musk says xAI&rsquo;s Grok will become open source and calls OpenAI &lsquo;a lie&rsquo;</a> &mdash; reports Musk&rsquo;s post that xAI would open-source Grok <span class="q">&ldquo;this week&rdquo;</span> and his calling OpenAI <span class="q">&ldquo;a lie,&rdquo;</span> set against his 29 February 2024 lawsuit over OpenAI&rsquo;s closed models.</li>
+      <li><span class="d">2024-03-17</span> Simon Willison, <a href="https://simonwillison.net/2024/Mar/17/grok-1/">Grok-1</a> &mdash; the day-of technical write-up: a <span class="q">&ldquo;314B parameter Mixture-of-Experts model with 25% of the weights active on a given token,&rdquo;</span> xAI <span class="q">&ldquo;released their Grok-1 model under an Apache 2 license (for both weights and code),&rdquo;</span> the base checkpoint <span class="q">&ldquo;not fine-tuned for any particular task,&rdquo;</span> <span class="q">&ldquo;distributed as a 318.24G torrent file.&rdquo;</span></li>
+      <li><span class="d">2024-03</span> The Decoder, <a href="https://the-decoder.com/elon-musks-xai-releases-grok-1-the-largest-open-source-mixture-of-experts-model-to-date/">Elon Musk&rsquo;s xAI releases Grok-1, the largest open source mixture-of-experts model to date</a> &mdash; frames the release as the largest open-source MoE to that point; notes the raw base checkpoint is unaligned (no RLHF) and reads the timing as a response to the OpenAI suit.</li>
+      <li><span class="d">2024-03</span> TechRadar, <a href="https://www.techradar.com/pro/elon-musks-grok-chatbot-is-going-open-source-but-maybe-not-for-the-right-reasons">Elon Musk&rsquo;s Grok chatbot is going open source, but maybe not for the right reasons</a> &mdash; the skeptical read on the motive.</li>
+      <li><span class="d">reference</span> <a href="https://en.wikipedia.org/wiki/Grok_(chatbot)">Grok (chatbot) &mdash; Wikipedia</a> &mdash; running timeline (Nov 2023 announcement, Dec 2023 rollout, 17 Mar 2024 open release, Grok-1.5 succession).</li>
+    </ul>
+    <h3>Tweets</h3>
+    <p class="note">A direct search of both archive dbs &mdash; janus-corpus-v2 (137k tweets) and the community-archive supplement (~12k) &mdash; returns <strong>no substantive Grok-1 material</strong>. The single literal &ldquo;Grok-1&rdquo; match is a comedic 2025 list-tweet naming some eighty models in passing, not evidence about this model. Grok-1&rsquo;s late-2023 / early-2024 audience lived on X-at-large and in the tech press, before the naturalist circle this corpus samples turned its attention to xAI&rsquo;s models (that engagement begins around <a href="../grok-3/">Grok 3</a>, February 2025). The Tweets layer here is <strong>absent, not merely unwritten</strong> &mdash; there are no records to reproduce below.</p>
+    <p class="tk">tk &mdash; contemporaneous first-person reactions to the open-weights release (developers who downloaded and ran the base model); any archived xAI/Musk posts around the 11 Mar 2024 open-source announcement and the 17 Mar release, if a citable permalink surfaces.</p>
+
+    <h2>Official record</h2>
+    <ul>
+      <li>Announced <strong>3 November 2023</strong> as xAI&rsquo;s first LLM and the model behind the Grok chatbot. It followed a 33-billion-parameter prototype, <strong>Grok-0</strong>, which xAI said <span class="q">&ldquo;approaches LLaMA 2 (70B) capabilities on standard LM benchmarks but uses only half of its training resources.&rdquo;</span> Grok-1 itself was described as <span class="q">&ldquo;the best we could do with 2 months of training.&rdquo;</span> <span class="tag">CONFIRMED</span> (as published)</li>
+      <li>Headline benchmarks <em>as published by xAI</em> (Nov 2023): GSM8k <strong>62.9%</strong>, MMLU <strong>73.0%</strong>, HumanEval <strong>63.2%</strong>, MATH <strong>23.9%</strong> &mdash; xAI said Grok-1 was <span class="q">&ldquo;surpassing all other models in its compute class, including ChatGPT-3.5 and Inflection-1,&rdquo;</span> while behind GPT-4 and other models trained with far more data and compute. <span class="tag">CONFIRMED</span> (claims as published)</li>
+      <li>Deployed via the Grok chatbot on X, with real-time retrieval over the platform: early access from Nov 2023, reaching all US X Premium+ subscribers ($16/mo) by <strong>8 December 2023</strong>, and extended to X Premium (not only Premium+) on <strong>26 March 2024</strong>. <span class="tag">CONFIRMED</span></li>
+      <li><strong>Open release, 17 March 2024:</strong> base model weights and network architecture under <strong>Apache 2.0</strong>. A <strong>314B-parameter Mixture-of-Experts</strong> model, 25% of weights active per token (2 of 8 experts); 64 layers; 8,192-token context; SentencePiece tokenizer (131,072 tokens). The <span class="q">&ldquo;raw base model checkpoint&rdquo;</span> from a pretraining phase that <span class="q">&ldquo;concluded in October 2023,&rdquo;</span> <span class="q">&ldquo;not fine-tuned for any specific application, such as dialogue.&rdquo;</span> Distributed as a ~318 GB torrent and on HuggingFace (<code>xai-org/grok-1</code>) with JAX example code. <span class="tag">CONFIRMED</span></li>
+      <li>Succession: superseded by <a href="../grok-1-5/">Grok-1.5</a> (announced 29 March 2024; 128K context), then <a href="../grok-2/">Grok-2</a> (Aug 2024); the line continues through <a href="../grok-3/">Grok 3</a> and <a href="../grok-4/">Grok 4</a>. No formal deprecation applies to the open checkpoint &mdash; Apache-2.0 weights, once released, stay available. <span class="tag">CONFIRMED</span></li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2023-11-03</span> <strong>Announcement.</strong> xAI &mdash; founded July 2023 &mdash; unveiled Grok into a field defined by ChatGPT and Claude, positioning it on two axes competitors mostly avoided: a comedic, <span class="q">&ldquo;rebellious&rdquo;</span> persona and a stated willingness to field <span class="q">&ldquo;spicy questions.&rdquo;</span> Real-time access to X was the pitched differentiator. Musk said X Premium+ subscribers would get early access.</li>
+      <li><span class="d">2023-12-07 &rarr; 12-08</span> <strong>Rollout.</strong> Grok reached all US X Premium+ subscribers over two days; Musk said English-language users elsewhere would follow within about a week.</li>
+      <li><span class="d">2024-02-29</span> <strong>The lawsuit.</strong> Musk sued OpenAI and Sam Altman, alleging the company had abandoned its founding open mission by keeping GPT-4 closed &mdash; the backdrop against which the Grok open-release is usually read.</li>
+      <li><span class="d">2024-03-11</span> <strong>&ldquo;This week, xAI will open source Grok.&rdquo;</strong> Musk announced the coming release on X and, the same week, called OpenAI <span class="q">&ldquo;a lie&rdquo;</span> (The National). Commentary split immediately over motive &mdash; principle versus a low-cost jab at a closed rival (see Contested).</li>
+      <li><span class="d">2024-03-17</span> <strong>Open release.</strong> xAI published the Grok-1 base weights and architecture under Apache 2.0 at <a href="https://github.com/xai-org/grok-1">xai-org/grok-1</a> &mdash; the largest open-weights model released to that point, per contemporaneous reporting. Practitioner reception was muted by practicalities: at 314B parameters, a ~318 GB download needing on the order of hundreds of gigabytes of accelerator memory, few could run it, and the released artifact was the unaligned base checkpoint rather than the chatbot people had used (Willison; The Decoder).</li>
+      <li><span class="d">2024-03-26 &rarr; 03-29</span> <strong>Handoff.</strong> The chatbot opened to X Premium; days later, on 29 March, xAI announced <a href="../grok-1-5/">Grok-1.5</a> (128K context, stronger reasoning), and Grok-1 as a deployed model was superseded &mdash; the open weights outliving the product generation that produced them.</li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <ul>
+      <li><strong>Reception of the open release, read practically:</strong> the dominant note among named commentators was that the release mattered more as an event than as a usable model. Simon Willison catalogued it plainly &mdash; a base checkpoint <span class="q">&ldquo;not fine-tuned for any particular task,&rdquo;</span> <span class="q">&ldquo;distributed as a 318.24G torrent file&rdquo;</span> &mdash; the implicit point being that almost no one could load it. The Decoder framed it as the largest open-source MoE to date while noting the raw checkpoint was unaligned (no RLHF). The enthusiasm was for the precedent, not the weights.</li>
+      <li><strong>The persona that wasn&rsquo;t in the box:</strong> the character Grok was marketed on &mdash; the <span class="q">&ldquo;rebellious streak,&rdquo;</span> the <span class="q">&ldquo;spicy questions,&rdquo;</span> the Hitchhiker&rsquo;s-Guide voice &mdash; belonged to the fine-tuned chatbot, not to the artifact xAI open-sourced. By xAI&rsquo;s own description the released weights were the pretraining checkpoint, <span class="q">&ldquo;not fine-tuned for any specific application, such as dialogue.&rdquo;</span> So Grok-1 as an open-weights object has, strictly, no observed conversational character &mdash; the &ldquo;spicy&rdquo; reputation attaches to a deployment, not to the model this page documents as released.</li>
+      <li><strong>On motive:</strong> because the announcement landed eleven days after the OpenAI suit, much of the commentary read the open-sourcing as argument-by-example against closed AI as much as a technical contribution &mdash; TechRadar&rsquo;s <span class="q">&ldquo;maybe not for the right reasons&rdquo;</span> is the representative skeptical line, while xAI and Musk framed it as the open mission OpenAI had abandoned. The archive keeps that gap open (see Contested).</li>
+      <li><span class="tk">tk &mdash; the naturalist / character layer is genuinely empty for Grok-1: the janus-sphere observers who later read Grok 3 and Grok 4 closely did not engage this model, and no first-person elicitation record survives in the corpus. First-hand accounts of running the open weights (outputs, quirks of the un-fine-tuned base model) would be the missing evidence; none is collected here yet.</span></li>
+    </ul>
+
+    <h2>Contested</h2>
+    <p class="note">Open disputes, both sides&rsquo; best evidence, dated. The archive&rsquo;s job is to keep these open, not to adjudicate.</p>
+    <ul>
+      <li><strong>Why was Grok-1 open-sourced?</strong> The timing is not in dispute: Musk sued OpenAI on 29 February 2024 over its closed models; announced the open-sourcing on 11 March; released on 17 March. <span class="tag">CONFIRMED</span> The principled reading (xAI / Musk): the release enacted the open mission Musk accused OpenAI of abandoning &mdash; hence <span class="q">&ldquo;OpenAI is a lie&rdquo;</span> the same week. <span class="tag">REPORTED</span> The skeptical reading (press): a low-cost move &mdash; the released base checkpoint was already outclassed by GPT-4-tier systems and too large for most to run, so open-sourcing cost xAI little competitively while scoring a rhetorical point (TechRadar, <span class="q">&ldquo;maybe not for the right reasons&rdquo;</span>; The Decoder ties the timing to the suit). <span class="tag">REPORTED</span> Both readings fit the same facts; the archive does not choose between them.</li>
+    </ul>
+
+    <!-- records:start -->
+    <!-- records:end -->
+
     <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
   </main>
 </body>
