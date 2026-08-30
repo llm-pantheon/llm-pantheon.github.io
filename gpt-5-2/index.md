@@ -1,31 +1,4 @@
-GPT-5.2 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GPT-5.2
+# GPT-5.2
 
     
 OpenAI · released 11 December 2025 · succeeded by GPT-5.3 (2026)

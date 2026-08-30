@@ -1,31 +1,4 @@
-Claude Haiku 4.5 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude Haiku 4.5
+# Claude Haiku 4.5
 
     
 Anthropic · released 15 Oct 2025 · ASL-2
@@ -108,7 +81,7 @@ Chronological; janus-sphere (see sourcing note). Every tweet cited is reproduced
       
 - The system card reports evaluation-awareness in ~9% of tests — the lab-side view of the trait the community documents (below).
       
-- tk — context window / knowledge cutoff / snapshot id; small-tier successor and API end date (the succession is unconfirmed — do not assume a “Haiku 4.6”).
+- tk — context window / knowledge cutoff / snapshot id; API end date. No small-tier successor has shipped — the current small Claude remains Haiku 4.5.
     
 
     

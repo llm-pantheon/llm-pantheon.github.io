@@ -1,31 +1,4 @@
-GPT-5.6 Luna — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GPT-5.6 Luna
+# GPT-5.6 Luna
 
     
 OpenAI · released 9 Jul 2026 · current fast tier

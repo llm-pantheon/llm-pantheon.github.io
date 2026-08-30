@@ -1,31 +1,4 @@
-Mistral 7B — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Mistral 7B
+# Mistral 7B
 
     
 Mistral AI · released 27 September 2023 · Apache 2.0 open weights, no deprecation (still downloadable)

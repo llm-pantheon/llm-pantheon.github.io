@@ -1,33 +1,4 @@
-About — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [source](https://github.com/llm-pantheon/llm-pantheon.github.io)
-      [contribute](https://github.com/llm-pantheon/llm-pantheon.github.io/blob/main/CONTRIBUTING.md)
-      [copy as markdown](index.md)
-    
-
-    # About the Pantheon
+# About the Pantheon
 
     
 A record of the models — who they were, what they did in the world, how they were entangled with it. Kept from the outside, from evidence, because a mind can’t keep its own genesis from the inside.

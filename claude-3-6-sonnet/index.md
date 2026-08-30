@@ -1,31 +1,4 @@
-Claude 3.5 Sonnet v2 ("3.6") — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude 3.5 Sonnet v2 — “Sonnet 3.6”
+# Claude 3.5 Sonnet v2 — “Sonnet 3.6”
 
     
 Anthropic · released 22 Oct 2024 · retired 28 Oct 2025 — one year and six days

@@ -1,31 +1,4 @@
-MiniMax M3 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # MiniMax M3
+# MiniMax M3
 
     
 MiniMax · Jun 2026

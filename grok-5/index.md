@@ -1,31 +1,4 @@
-Grok 5 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Grok 5
+# Grok 5
 
     
 xAI / SpaceXAI · announced 2025, release targets slipped into 2026 · in training (no public release as of 22 Aug 2026)

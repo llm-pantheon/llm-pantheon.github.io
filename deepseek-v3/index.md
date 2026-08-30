@@ -1,31 +1,4 @@
-DeepSeek-V3 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # DeepSeek-V3
+# DeepSeek-V3
 
     
 DeepSeek · released 26 Dec 2024 (open weights) · V3-0324 refresh 24 Mar 2025 (MIT) · legacy API name deprecating 24 Jul 2026

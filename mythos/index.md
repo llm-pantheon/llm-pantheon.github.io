@@ -1,31 +1,4 @@
-Mythos — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude Mythos
+# Claude Mythos
 
     
 Anthropic · Mythos Preview Apr 2026 → Mythos 5 Jun 2026 · Project Glasswing only

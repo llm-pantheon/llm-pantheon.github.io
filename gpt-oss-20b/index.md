@@ -1,31 +1,4 @@
-gpt-oss-20b — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # gpt-oss-20b
+# gpt-oss-20b
 
     
 OpenAI · open weights released 5 Aug 2025 · Apache 2.0

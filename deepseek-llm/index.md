@@ -1,31 +1,4 @@
-DeepSeek Coder / LLM — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # DeepSeek Coder / LLM
+# DeepSeek Coder / LLM
 
     
 DeepSeek · 2023

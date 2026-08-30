@@ -1,31 +1,4 @@
-GLM-4.5 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GLM-4.5
+# GLM-4.5
 
     
 Zhipu · Jul 2025

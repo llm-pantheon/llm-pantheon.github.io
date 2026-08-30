@@ -1,31 +1,4 @@
-Llama 3.1 405B base ★ — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Llama 3.1 405B base ★
+# Llama 3.1 405B base ★
 
     
 Meta · open weights 23 Jul 2024 · hosted base access lost ~Q1 2026; weights remain downloadable

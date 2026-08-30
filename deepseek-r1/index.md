@@ -1,31 +1,4 @@
-DeepSeek-R1 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # DeepSeek-R1
+# DeepSeek-R1
 
     
 DeepSeek · released 20 Jan 2025 (MIT license, open weights) · 0528 update May 2025 · legacy API names deprecating 24 Jul 2026

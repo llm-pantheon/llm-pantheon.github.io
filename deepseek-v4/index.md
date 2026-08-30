@@ -1,31 +1,4 @@
-DeepSeek-V4 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # DeepSeek-V4
+# DeepSeek-V4
 
     
 DeepSeek · Apr 2026

@@ -1,31 +1,4 @@
-Mixtral 8x7B — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Mixtral 8x7B
+# Mixtral 8x7B
 
     
 Mistral AI · 8x7B Dec 2023, 8x22B Apr 2024 · Apache 2.0 open weights · base no longer conveniently hosted by late 2025

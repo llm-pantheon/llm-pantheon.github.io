@@ -1,31 +1,4 @@
-o1 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # o1
+# o1
 
     
 OpenAI · o1-preview + o1-mini 12 Sep 2024 · full o1 + ChatGPT Pro 5 Dec 2024 · o1-pro API 19 Mar 2025 · o1-preview retired 28 Jul 2025, o1-mini retired 27 Oct 2025 · o1 & o1-pro shutdown scheduled 23 Oct 2026 (→ gpt-5.5)

@@ -1,31 +1,4 @@
-Mistral Large 3 / Mistral 3 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Mistral Large 3 / Mistral 3
+# Mistral Large 3 / Mistral 3
 
     
 Mistral · Dec 2025

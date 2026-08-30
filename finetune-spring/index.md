@@ -1,31 +1,4 @@
-The Finetune Spring (Alpaca, Vicuna, …) — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # The Finetune Spring (Alpaca, Vicuna, …)
+# The Finetune Spring (Alpaca, Vicuna, …)
 
     
 community · Mar–Jun 2023

@@ -1,31 +1,4 @@
-GPT-4chan — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GPT-4chan
+# GPT-4chan
 
     
 Yannic Kilcher · released 3 Jun 2022 · access blocked by Hugging Face 15 Jun 2022

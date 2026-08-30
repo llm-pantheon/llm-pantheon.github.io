@@ -1,31 +1,4 @@
-BlenderBot 3 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # BlenderBot 3
+# BlenderBot 3
 
     
 Meta · Aug 2022

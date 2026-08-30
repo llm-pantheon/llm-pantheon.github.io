@@ -1,31 +1,4 @@
-MiniMax M2.5 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # MiniMax M2.5
+# MiniMax M2.5
 
     
 MiniMax · early 2026

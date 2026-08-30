@@ -1,31 +1,4 @@
-Grok 3 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Grok 3
+# Grok 3
 
     
 xAI · released 17 Feb 2025 (beta) · superseded by [Grok 4](../grok-4/) (9 Jul 2025)

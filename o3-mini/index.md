@@ -1,31 +1,4 @@
-o3-mini — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # o3-mini
+# o3-mini
 
     
 OpenAI · Jan 2025

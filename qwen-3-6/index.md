@@ -1,31 +1,4 @@
-Qwen 3.6 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Qwen 3.6
+# Qwen 3.6
 
     
 Alibaba · Apr 2026

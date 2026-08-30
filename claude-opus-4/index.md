@@ -1,31 +1,4 @@
-Claude Opus 4 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude Opus 4
+# Claude Opus 4
 
     
 Anthropic · released 22 May 2025 · retired 15 Jun 2026

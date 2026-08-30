@@ -1,31 +1,4 @@
-MAI (Microsoft AI) — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # MAI — Microsoft AI
+# MAI — Microsoft AI
 
     
 Microsoft AI (Mustafa Suleyman) · 2025–2026 · freshly documented

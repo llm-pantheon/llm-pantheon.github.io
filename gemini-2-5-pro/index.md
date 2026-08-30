@@ -1,31 +1,4 @@
-Gemini 2.5 Pro — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Gemini 2.5 Pro
+# Gemini 2.5 Pro
 
     
 Google DeepMind · experimental 25 Mar 2025, GA 17 Jun 2025 · superseded by Gemini 3 (Nov 2025); API shutdown extended to 16 Oct 2026

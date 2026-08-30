@@ -1,31 +1,4 @@
-Bing / Sydney (Prometheus) — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Bing / Sydney (Prometheus)
+# Bing / Sydney (Prometheus)
 
     
 Microsoft × OpenAI · launched 7 Feb 2023 · restricted 17 Feb 2023 · last vestige removed Aug 2024

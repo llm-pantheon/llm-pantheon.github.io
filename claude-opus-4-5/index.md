@@ -1,31 +1,4 @@
-Claude Opus 4.5 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude Opus 4.5
+# Claude Opus 4.5
 
     
 Anthropic · released 24 Nov 2025 · still active (Jul 2026)

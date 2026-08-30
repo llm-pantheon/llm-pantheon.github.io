@@ -1,31 +1,4 @@
-Inkling — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Inkling
+# Inkling
 
     
 Thinking Machines Lab · open weights released 15 Jul 2026 · current

@@ -1,31 +1,4 @@
-Gemma (open) — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Gemma (open)
+# Gemma (open)
 
     
 Google DeepMind · 2024–2025

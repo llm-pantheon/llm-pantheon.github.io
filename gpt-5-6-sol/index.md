@@ -1,31 +1,4 @@
-GPT-5.6 Sol — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GPT-5.6 Sol
+# GPT-5.6 Sol
 
     
 OpenAI · limited preview 26 Jun 2026 · public 9 Jul 2026 · current flagship tier

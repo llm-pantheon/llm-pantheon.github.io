@@ -1,31 +1,4 @@
-DeepSeek-R2 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # DeepSeek-R2
+# DeepSeek-R2
 
     
 DeepSeek · —

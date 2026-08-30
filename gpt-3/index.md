@@ -1,31 +1,4 @@
-GPT-3 / davinci — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GPT-3 / davinci
+# GPT-3 / davinci
 
     
 OpenAI · paper 28 May 2020, API beta 11 Jun 2020 · base models shut off 4 Jan 2024

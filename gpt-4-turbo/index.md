@@ -1,31 +1,4 @@
-GPT-4 Turbo — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GPT-4 Turbo
+# GPT-4 Turbo
 
     
 OpenAI · released 6 November 2023 · superseded as ChatGPT default by GPT-4o (May 2024) · API shutdown scheduled 23 October 2026 [verify at build]

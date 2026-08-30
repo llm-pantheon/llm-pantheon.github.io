@@ -1,31 +1,4 @@
-Llama 3.3 70B — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Llama 3.3 70B
+# Llama 3.3 70B
 
     
 Meta · Dec 2024

@@ -1,31 +1,4 @@
-Claude Sonnet 5 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude Sonnet 5
+# Claude Sonnet 5
 
     
 Anthropic · released 30 Jun 2026 · current · default on Free and Pro

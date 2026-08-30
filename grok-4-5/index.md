@@ -1,31 +1,4 @@
-Grok 4.5 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Grok 4.5
+# Grok 4.5
 
     
 SpaceXAI (xAI) · released 8 Jul 2026 · superseded by Grok 4.6 (Aug 2026)

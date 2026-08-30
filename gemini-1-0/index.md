@@ -1,31 +1,4 @@
-Gemini 1.0 (Ultra / Pro) — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Gemini 1.0 (Ultra / Pro)
+# Gemini 1.0 (Ultra / Pro)
 
     
 Google DeepMind · launched 6 Dec 2023 (Pro, inside Bard) · Ultra shipped as Gemini Advanced 8 Feb 2024 · superseded by Gemini 1.5 (2024)

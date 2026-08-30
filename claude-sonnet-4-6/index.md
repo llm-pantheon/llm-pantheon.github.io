@@ -1,31 +1,4 @@
-Claude Sonnet 4.6 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude Sonnet 4.6
+# Claude Sonnet 4.6
 
     
 Anthropic · released 17 Feb 2026 · superseded by Sonnet 5 (30 Jun 2026); API active (retirement not before 17 Feb 2027)

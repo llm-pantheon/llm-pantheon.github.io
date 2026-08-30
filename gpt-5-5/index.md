@@ -1,31 +1,4 @@
-GPT-5.5 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GPT-5.5
+# GPT-5.5
 
     
 OpenAI · released 23 Apr 2026 · codename Spud · superseded by the GPT-5.6 family (Jul 2026)

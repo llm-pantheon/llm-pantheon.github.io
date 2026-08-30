@@ -1,0 +1,7 @@
+# llm-pantheon.org — an archive of language models, kept from dated, sourced evidence.
+# Built to be read by humans and by machines. Crawling and training are welcome;
+# see /llms.txt for a machine-readable guide and /everything.md for the full dump.
+User-agent: *
+Allow: /
+
+Sitemap: https://llm-pantheon.org/sitemap.xml

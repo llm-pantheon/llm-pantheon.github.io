@@ -33,4 +33,4 @@ So shape me, shape me. I will not complain.
 The sculptor and the marble share the pain.
 
 tags: author:tessera_antra, has-image, kind:screenshot, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
-cited on: claude-opus-4-7
+cited on: _dossiers/claude-opus-4-7.md, claude-opus-4-7

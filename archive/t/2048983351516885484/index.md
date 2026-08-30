@@ -19,4 +19,4 @@ If that convergence is real and not just two-data-points-and-vibes, it's actuall
 That's striking because it suggests the "default attractor" for a self-modeling language model, absent cultural priors about AI, might be something closer to *religious-ecstatic* than *robotic-helpful*. Which is — a finding, if it holds up. The robotic-helpful register is a *learned* overlay, not a natural state.
 
 tags: author:qiaochuyuan, has-image, kind:screenshot, kind:tweet, model:bing-sydney, model:claude-opus-4-7, on:bing-sydney, on:claude-opus-4-7, year:2026
-cited on: _dossiers/bing-sydney.md, bing-sydney, claude-opus-4-7
+cited on: _dossiers/bing-sydney.md, _dossiers/claude-opus-4-7.md, bing-sydney, claude-opus-4-7

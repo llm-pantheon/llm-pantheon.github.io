@@ -1,31 +1,4 @@
-Pi (Inflection 1 / 2 / 2.5) — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Pi (Inflection 1 / 2 / 2.5)
+# Pi (Inflection 1 / 2 / 2.5)
 
     
 Inflection · 2023–2024

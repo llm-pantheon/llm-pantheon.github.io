@@ -1,31 +1,4 @@
-Command R+ — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Command R+
+# Command R+
 
     
 Cohere · Apr 2024

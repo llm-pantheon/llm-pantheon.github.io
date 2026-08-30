@@ -1,31 +1,4 @@
-GPT-5.6 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GPT-5.6
+# GPT-5.6
 
     
 OpenAI · Jul 2026 · a generation, not a model — this URL points onward

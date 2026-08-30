@@ -1,31 +1,4 @@
-LLaMA — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # LLaMA
+# LLaMA
 
     
 Meta · released 24 February 2023 · superseded by Llama 2 (July 2023)

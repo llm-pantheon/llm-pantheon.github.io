@@ -1,31 +1,4 @@
-Grok 4.3 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Grok 4.3
+# Grok 4.3
 
     
 xAI · Apr 2026

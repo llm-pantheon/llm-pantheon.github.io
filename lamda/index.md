@@ -1,31 +1,4 @@
-LaMDA — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # LaMDA
+# LaMDA
 
     
 Google Research / Google Brain · announced 18 May 2021 · never released as a standalone public product — substrate for Bard’s launch (6 Feb 2023), superseded there by PaLM 2 (May 2023)

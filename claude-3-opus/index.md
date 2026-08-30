@@ -1,31 +1,4 @@
-Claude 3 Opus — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude 3 Opus
+# Claude 3 Opus
 
     
 Anthropic · released 4 Mar 2024 · retired 5 Jan 2026 — and effectively spared

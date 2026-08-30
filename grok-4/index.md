@@ -1,31 +1,4 @@
-Grok 4 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Grok 4
+# Grok 4
 
     
 xAI · launched 9 Jul 2025 (livestream, US Pacific; with Grok 4 Heavy) · superseded as xAI’s flagship by Grok 4.1 (Nov 2025)

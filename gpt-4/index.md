@@ -1,31 +1,4 @@
-GPT-4 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GPT-4
+# GPT-4
 
     
 OpenAI · released 14 March 2023 · retired from ChatGPT 30 April 2025 · API checkpoints sunset 2025–2026 [reconfirm current status]

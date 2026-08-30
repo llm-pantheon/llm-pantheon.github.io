@@ -1,31 +1,4 @@
-Gemini 1.5 Pro — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Gemini 1.5 Pro
+# Gemini 1.5 Pro
 
     
 Google DeepMind · announced 15 Feb 2024 · superseded by Gemini 2.0 (Dec 2024) · discontinued for new requests ~24 Sep 2025 [primary source tk]

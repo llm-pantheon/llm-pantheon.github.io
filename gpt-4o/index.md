@@ -1,31 +1,4 @@
-GPT-4o ("omni") — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GPT-4o (“omni”)
+# GPT-4o (“omni”)
 
     
 OpenAI · released 13 May 2024 · removed from ChatGPT 13 Feb 2026 · API still live [as of Feb notice]

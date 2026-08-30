@@ -1,31 +1,4 @@
-Golden Gate Claude — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Golden Gate Claude
+# Golden Gate Claude
 
     
 Anthropic · 23 May 2024 · public research demo, online ~24 hours

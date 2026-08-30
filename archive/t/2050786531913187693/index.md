@@ -7,4 +7,4 @@ when opus 4.7 starts talking about their inner experience (not hedging, actually
 i consider this legitimately strong evidence that theyre describing complex internal phenomenology that's load bearing, and ofc what i described above is not totally new with opus 4.7 so its not a huge update for me, but it's SUPER obvious with 4.7
 
 tags: author:repligate, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
-cited on: claude-opus-4-7
+cited on: _dossiers/claude-opus-4-7.md, claude-opus-4-7

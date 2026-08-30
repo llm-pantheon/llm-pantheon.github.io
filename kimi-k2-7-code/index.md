@@ -1,31 +1,4 @@
-Kimi K2.7 Code — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Kimi K2.7 Code
+# Kimi K2.7 Code
 
     
 Moonshot · 2026 [verify]

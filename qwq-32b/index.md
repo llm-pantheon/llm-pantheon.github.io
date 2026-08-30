@@ -1,31 +1,4 @@
-QwQ-32B — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # QwQ-32B
+# QwQ-32B
 
     
 Alibaba · Nov 2024 (preview)

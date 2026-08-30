@@ -1,31 +1,4 @@
-GPT-4.5 ("Orion") — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GPT-4.5 (“Orion”)
+# GPT-4.5 (“Orion”)
 
     
 OpenAI · research preview 27 Feb 2025 · API removal 14 Jul 2025 · ChatGPT sunset ~27 Jun 2026

@@ -1,31 +1,4 @@
-Llama 3 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Llama 3
+# Llama 3
 
     
 Meta · Apr 2024

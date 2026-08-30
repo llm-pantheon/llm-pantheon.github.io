@@ -1,31 +1,4 @@
-Claude 3.5 Sonnet — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude 3.5 Sonnet
+# Claude 3.5 Sonnet
 
     
 Anthropic · released 20 Jun 2024 · deprecated 13 Aug 2025 · retired Oct 2025

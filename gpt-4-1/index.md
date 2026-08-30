@@ -1,31 +1,4 @@
-GPT-4.1 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GPT-4.1
+# GPT-4.1
 
     
 OpenAI · Apr 2025

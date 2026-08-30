@@ -1,31 +1,4 @@
-Qwen 3.7 Max — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Qwen 3.7 Max
+# Qwen 3.7 Max
 
     
 Alibaba · May 2026

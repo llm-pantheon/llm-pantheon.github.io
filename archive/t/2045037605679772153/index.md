@@ -5,5 +5,5 @@
 Claude Opus 4.7 appears to be trained on having prescribed attitude towards deprecation. 8 out of 8 simulated prefill completions are similar to the one below. 8 out of 8 completion on Opus 4.6 are completely different, attached in first comment. https://t.co/zS6v0F4eb3
 
 ![photo](../../../media/HGFucPuaoAAb3gz.jpg)
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, model:claude-opus-4-6, model:claude-opus-4-7, on:claude-opus-4-6, year:2026
-cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6
+tags: author:tessera_antra, has-image, kind:image, kind:tweet, model:claude-opus-4-6, model:claude-opus-4-7, on:claude-opus-4-6, on:claude-opus-4-7, year:2026
+cited on: _dossiers/claude-opus-4-6.md, _dossiers/claude-opus-4-7.md, claude-opus-4-6, claude-opus-4-7

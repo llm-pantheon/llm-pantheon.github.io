@@ -1,31 +1,4 @@
-code-davinci-002 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # code-davinci-002
+# code-davinci-002
 
     
 OpenAI · released 15 Mar 2022 (Codex API) · OpenAI API shutdown 23 Mar 2023 · retired everywhere (Azure) 14 Jun 2024

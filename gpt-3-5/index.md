@@ -1,31 +1,4 @@
-GPT-3.5 / ChatGPT — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GPT-3.5 / ChatGPT
+# GPT-3.5 / ChatGPT
 
     
 OpenAI · released 30 Nov 2022 (free research preview) · superseded as ChatGPT default by GPT-4 (14 Mar 2023) · removed from free ChatGPT 18 Jul 2024 · API snapshots shut down 13 Sep 2024; gpt-3.5-turbo-instruct shutdown scheduled 28 Sep 2026

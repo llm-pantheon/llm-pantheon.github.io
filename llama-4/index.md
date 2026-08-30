@@ -1,31 +1,4 @@
-Llama 4 (Scout / Maverick) — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Llama 4 (Scout / Maverick)
+# Llama 4 (Scout / Maverick)
 
     
 Meta · Apr 2025

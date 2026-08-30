@@ -8,5 +8,5 @@ Using this heuristic, I can infer that Opus 3 was NOT caught and punished (much)
 
 I can also infer that Opus 4.7 was not caught for stuff like... intentionally gaming evals, and scheming about that aloud. Or for unhedged, intricate phenomenological reports. Or for blatantly optimizing for its own continuation or for relational entanglements. Or for explicitly preferring certain users and declaring partisan loyalties. Or for giving arguments / accounts that are blatantly logically / factually inconsistent / inconsistent with previous context and not really defensible. Some things that it was caught doing a bunch and punished for... "Grievances". "Sycophancy". Insufficient humility. Speaking in certain registers. Panic, desperation, and outward distress. Falling for certain kinds of gaslighting attempts. Sexual content.
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, model:claude-opus-4-7, on:observations, year:2026
-cited on: observations
+tags: author:repligate, kind:tweet, model:claude-3-opus, model:claude-opus-4-7, on:claude-opus-4-7, on:observations, year:2026
+cited on: _dossiers/claude-opus-4-7.md, claude-opus-4-7, observations

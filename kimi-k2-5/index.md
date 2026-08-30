@@ -1,31 +1,4 @@
-Kimi K2.5 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Kimi K2.5
+# Kimi K2.5
 
     
 Moonshot AI · Jan 2026

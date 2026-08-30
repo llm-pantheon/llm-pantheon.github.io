@@ -1,31 +1,4 @@
-Claude Sonnet 4.5 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude Sonnet 4.5
+# Claude Sonnet 4.5
 
     
 Anthropic · released 29 Sep 2025 · removed from the claude.ai app Jun 2026; API active (retirement not before 29 Sep 2026)

@@ -1,31 +1,4 @@
-GPT-5 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GPT-5
+# GPT-5
 
     
 OpenAI · launched 7 Aug 2025 · superseded in ChatGPT by GPT-5.1 (12 Nov 2025)

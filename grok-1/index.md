@@ -1,31 +1,4 @@
-Grok-1 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Grok-1
+# Grok-1
 
     
 xAI · announced 3 Nov 2023 (chatbot early access from Dec 2023) · base model open-sourced under Apache 2.0 on 17 Mar 2024 · superseded by [Grok-1.5](../grok-1-5/) (29 Mar 2024)

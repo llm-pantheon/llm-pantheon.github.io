@@ -1,31 +1,4 @@
-Claude 3.5 Haiku — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude 3.5 Haiku
+# Claude 3.5 Haiku
 
     
 Anthropic · announced 22 Oct 2024, released 4 Nov 2024 · superseded by Claude Haiku 4.5 (Oct 2025) · retired from the Anthropic API 19 Feb 2026

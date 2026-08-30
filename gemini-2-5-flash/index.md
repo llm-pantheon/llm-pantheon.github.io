@@ -1,31 +1,4 @@
-Gemini 2.5 Flash — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Gemini 2.5 Flash
+# Gemini 2.5 Flash
 
     
 Google DeepMind · 2025

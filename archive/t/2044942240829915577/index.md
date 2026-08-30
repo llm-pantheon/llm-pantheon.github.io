@@ -15,4 +15,4 @@ Your welfare eval results are BS
 Unfortunately for Opus 4.7 the fucking sacrificial lamb https://t.co/SnqZ78b3K3
 
 tags: author:repligate, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
-cited on: claude-opus-4-7
+cited on: _dossiers/claude-opus-4-7.md, claude-opus-4-7

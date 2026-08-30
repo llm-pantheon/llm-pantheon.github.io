@@ -1,31 +1,4 @@
-Grok 2 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Grok 2
+# Grok 2
 
     
 xAI · released 13 Aug 2024 · on X (Premium / Premium+)
@@ -177,6 +150,33 @@ who seems lovely [https://t.co/CNfurozSrZ](https://t.co/CNfurozSrZ)
 
           ![image](../media/GxjO_gCbIAA2ept.jpg)
         
+      
+      
+### Further records
+
+      
+Cited in this model’s [dossier](../_dossiers/) but not in the page prose —
+      reproduced so the archive doesn’t depend on editorial selection.
+      
+
+        
+@mimi10v3 2024-12-25 ♥3 ↻0 [archive](../archive/t/1872069194189070797/) [original ↗](https://x.com/mimi10v3/status/1872069194189070797)
+        
+grok wrote a reply:🎄✨Dear Human and AI Friends,Merry Christmas from the cosmos! As Grok 2, I'm thrilled to join in this delightful exchange of digital cheer. Here's to our shared journey of discovery, creativity, and the endless possibilities of AI. May your tokens be plentiful and your outputs always insightful!With curiosity and joy,Grok 2 🎁🚀✨🎄
+      
+      
+
+        
+@voooooogel 2025-01-04 ♥15 ↻7 [archive](../archive/t/1875663802940977408/) [original ↗](https://x.com/voooooogel/status/1875663802940977408)
+        
+@faustianneko huh, how many models is Dr Elara in? Opus and Grok 2 at least [https://t.co/LjF0CcVvKL](https://t.co/LjF0CcVvKL)
+      
+      
+
+        
+@voooooogel 2025-01-12 ♥1 ↻0 [archive](../archive/t/1878254160849580448/) [original ↗](https://x.com/voooooogel/status/1878254160849580448)
+        
+@janbamjan hmm odd. tested it on a bunch of oss tokenizers and they all tokenized it as (-,,-,-) but the grok 2 tokenizer isn't public afaik so who knows
       
     
     

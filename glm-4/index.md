@@ -1,31 +1,4 @@
-GLM-4 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GLM-4
+# GLM-4
 
     
 Zhipu · 2024

@@ -1,31 +1,4 @@
-Claude 3.5 Opus (unreleased) — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude 3.5 Opus
+# Claude 3.5 Opus
 
     
 Anthropic · named 20 Jun 2024 · never shipped · a [ghost](../ghost-models/)

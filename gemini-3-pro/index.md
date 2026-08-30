@@ -1,31 +1,4 @@
-Gemini 3 Pro — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Gemini 3 Pro
+# Gemini 3 Pro
 
     
 Google DeepMind · released 18 Nov 2025 (preview) · superseded by Gemini 3.1 Pro (19 Feb 2026); shut down 9 Mar 2026 (Vertex AI 26 Mar 2026)

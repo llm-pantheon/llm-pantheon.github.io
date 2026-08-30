@@ -1,32 +1,4 @@
-Design Lab — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [source](https://github.com/llm-pantheon/llm-pantheon.github.io)
-      [copy as markdown](index.md)
-    
-
-    # Design Lab
+# Design Lab
 
     
 Six ways a model’s page could look, all rendering the same subject — Claude 3 Opus — so the comparison is fair. The question each variant answers differently: what is a pantheon page for? Reading? Citing? Grieving? Field identification? Pick, mix, argue.

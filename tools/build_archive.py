@@ -364,6 +364,12 @@ def mirror_page(mid, m, tags):
 TAG_STRIP = re.compile(r'<(script|style)[^>]*>.*?</\1>', re.S)
 def html_to_md(path):
     t = open(path, encoding='utf-8').read()
+    # twin = main content only; drop <head> (else meta/link tags leak in as blank
+    # lines + empty bullets) and the <nav> chrome, so the twin opens on the H1.
+    m = re.search(r'<main\b[^>]*>(.*?)</main>', t, re.S) or re.search(r'<body\b[^>]*>(.*?)</body>', t, re.S)
+    if m:
+        t = m.group(1)
+    t = re.sub(r'<nav\b[^>]*>.*?</nav>', '', t, flags=re.S)
     t = TAG_STRIP.sub('', t)
     t = re.sub(r'<h1[^>]*>(.*?)</h1>', r'# \1\n', t, flags=re.S)
     t = re.sub(r'<h2[^>]*>(.*?)</h2>', r'\n## \1\n', t, flags=re.S)

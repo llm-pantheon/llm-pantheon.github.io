@@ -1,31 +1,4 @@
-Claude Opus 5 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude Opus 5
+# Claude Opus 5
 
     
 Anthropic · released 24 Jul 2026 · current · default on Claude Max

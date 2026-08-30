@@ -1,31 +1,4 @@
-Claude 3 Sonnet — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude 3 Sonnet
+# Claude 3 Sonnet
 
     
 Anthropic · released 4 Mar 2024 · retired 21 Jul 2025 — the first Claude 3 retired

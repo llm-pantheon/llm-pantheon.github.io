@@ -1,31 +1,4 @@
-Kimi K2 Thinking — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Kimi K2 Thinking
+# Kimi K2 Thinking
 
     
 Moonshot · Nov 2025

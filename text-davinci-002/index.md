@@ -1,31 +1,4 @@
-text-davinci-002 / -003 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # text-davinci-002 / -003
+# text-davinci-002 / -003
 
     
 OpenAI · 2022 · shut down 4 Jan 2024

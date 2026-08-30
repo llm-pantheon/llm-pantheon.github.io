@@ -80,6 +80,7 @@ def chrome(path, slug, is_root=False):
         '  <meta property="og:image:height" content="630">',
         '  <meta name="twitter:card" content="summary_large_image">',
     ]
+    lines.append(f'  <link rel="canonical" href="{url}">')
     if has_twin or not is_root:
         lines.append('  <link rel="alternate" type="text/markdown" href="index.md">')
     lines.append(f'  <script src="{js_href}" defer></script>')

@@ -182,6 +182,10 @@ DOSSIER_MAP = {
     '_dossiers/claude-haiku-4-5.md': ['claude-haiku-4-5'],
     '_dossiers/claude-3-5-opus.md': ['claude-3-5-opus'],
     '_dossiers/claude-2-and-2-1.md': {'PART 1': 'claude-2', 'PART 2': 'claude-2-1'},
+    # backfilled 2026-08-30 from clean corpus pulls (see _pulls/); collision-heavy pulls left untriaged
+    '_dossiers/claude-opus-4-7.md': ['claude-opus-4-7'],
+    '_dossiers/glm-5-2.md': ['glm-5-2'],
+    '_dossiers/grok-2.md': ['grok-2'],
 }
 
 def dossier_extras():

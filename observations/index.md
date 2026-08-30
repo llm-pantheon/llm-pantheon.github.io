@@ -1,31 +1,4 @@
-Observations & takes — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Observations & takes
+# Observations & takes
 
     
 Dated, attributed takes about models, minds, and the field that don’t belong to any one model’s page — collected on the same terms as everything else here. When a take is really about a whole family (“Claudes,” “Geminis”) or about LLMs in general rather than a single model, it lives here.

@@ -1,31 +1,4 @@
-Grok 4 Fast — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Grok 4 Fast
+# Grok 4 Fast
 
     
 xAI · released 19 Sep 2025 · a later Fast-tier model, Grok 4.1 Fast, followed Nov 2025

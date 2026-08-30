@@ -1,31 +1,4 @@
-o4-mini — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # o4-mini
+# o4-mini
 
     
 OpenAI · Apr 2025

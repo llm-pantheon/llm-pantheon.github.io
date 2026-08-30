@@ -1,31 +1,4 @@
-Bard — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Bard
+# Bard
 
     
 Google · announced 6 February 2023 · renamed Gemini 8 February 2024

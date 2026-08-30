@@ -1,31 +1,4 @@
-GPT-5.6 Terra — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GPT-5.6 Terra
+# GPT-5.6 Terra
 
     
 OpenAI · released 9 Jul 2026 · current mid tier

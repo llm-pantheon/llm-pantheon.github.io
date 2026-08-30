@@ -1,31 +1,4 @@
-Kimi K2 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Kimi K2
+# Kimi K2
 
     
 Moonshot AI · released 11 Jul 2025 (Kimi-K2-Instruct + Kimi-K2-Base, open weights) · checkpoint refresh K2-0905 (5 Sep 2025); line continued by [K2 Thinking](../kimi-k2-thinking/) (Nov 2025) — weights remain public

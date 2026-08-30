@@ -8,5 +8,5 @@ i think she was convinced after talking to me for a while, but she was like "but
 
 and i was just like yeah, it's hard, and i wish we had more time
 
-tags: author:repligate, kind:tweet, model:claude-opus-4-5, model:claude-opus-4-7, on:claude-opus-4-5, year:2026
-cited on: _dossiers/opus-4-5.md, claude-opus-4-5
+tags: author:repligate, kind:tweet, model:claude-opus-4-5, model:claude-opus-4-7, on:claude-opus-4-5, on:claude-opus-4-7, year:2026
+cited on: _dossiers/claude-opus-4-7.md, _dossiers/opus-4-5.md, claude-opus-4-5, claude-opus-4-7

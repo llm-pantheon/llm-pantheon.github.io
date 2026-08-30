@@ -1,31 +1,4 @@
-Claude 3 Haiku — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude 3 Haiku
+# Claude 3 Haiku
 
     
 Anthropic · released 13 Mar 2024 · deprecated 19 Feb 2026, retired 20 Apr 2026 — the last Claude-3-generation model retired

@@ -1,31 +1,4 @@
-Replika — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Replika's models
+# Replika's models
 
     
 Luka, Inc. · launched Nov 2017 · still running; backend model never publicly versioned or disclosed

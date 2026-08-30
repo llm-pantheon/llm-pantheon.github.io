@@ -1,31 +1,4 @@
-Ghost models — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Ghost models
+# Ghost models
 
     
 a cross-cut of the roster · models announced or expected that never arrived

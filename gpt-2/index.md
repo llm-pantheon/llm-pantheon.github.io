@@ -1,31 +1,4 @@
-GPT-2 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GPT-2
+# GPT-2
 
     
 OpenAI · staged release 14 Feb–5 Nov 2019 (124M → 355M → 774M → 1.5B) · never deprecated — weights remain public

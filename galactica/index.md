@@ -1,31 +1,4 @@
-Galactica — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Galactica
+# Galactica
 
     
 Meta AI (Papers with Code) · released 15 Nov 2022 · galactica.org demo pulled 17 Nov 2022 (~72 hours); paper, code, and weights never withdrawn

@@ -1,31 +1,4 @@
-MiniMax M1 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # MiniMax M1
+# MiniMax M1
 
     
 MiniMax · Jun 2025

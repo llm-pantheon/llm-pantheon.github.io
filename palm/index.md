@@ -1,31 +1,4 @@
-PaLM / PaLM 2 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # PaLM / PaLM 2
+# PaLM / PaLM 2
 
     
 Google Research (→ Google DeepMind from 2023-04-20) · PaLM announced 4 Apr 2022, PaLM 2 announced 10 May 2023 · superseded by Gemini in Bard 6 Dec 2023; PaLM API reportedly shut down 15 Aug 2024

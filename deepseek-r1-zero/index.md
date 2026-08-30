@@ -1,31 +1,4 @@
-DeepSeek-R1-Zero — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # DeepSeek-R1-Zero
+# DeepSeek-R1-Zero
 
     
 DeepSeek · released 20 Jan 2025 (open weights, same paper as R1) · research artifact, never a hosted product

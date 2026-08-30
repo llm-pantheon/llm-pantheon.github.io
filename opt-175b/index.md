@@ -1,31 +1,4 @@
-OPT-175B — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # OPT-175B
+# OPT-175B
 
     
 Meta · May 2022

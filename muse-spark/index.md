@@ -1,31 +1,4 @@
-Muse Spark — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Muse Spark
+# Muse Spark
 
     
 Meta · Apr 2026

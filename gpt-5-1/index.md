@@ -1,31 +1,4 @@
-GPT-5.1 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GPT-5.1
+# GPT-5.1
 
     
 OpenAI · GPT-5.1 Instant & Thinking · ChatGPT 12 Nov 2025, API 13 Nov 2025 · superseded in ChatGPT by GPT-5.2 (11 Dec 2025)

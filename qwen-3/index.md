@@ -1,31 +1,4 @@
-Qwen 3 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Qwen 3
+# Qwen 3
 
     
 Alibaba · Apr 2025

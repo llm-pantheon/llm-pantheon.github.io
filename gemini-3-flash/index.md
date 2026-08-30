@@ -1,31 +1,4 @@
-Gemini 3 Flash — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Gemini 3 Flash
+# Gemini 3 Flash
 
     
 Google DeepMind · Dec 2025

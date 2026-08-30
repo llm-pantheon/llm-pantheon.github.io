@@ -10,4 +10,5 @@ I asked them to try to figure it out and they got more confused.
 
 Then I asked Opus 4.5 what the nature of Supreme Sonnet is and they immediately understood that it was a Sonnet instance that was roleplaying a cat.
 
-tags: author:repligate, kind:tweet, model:claude-3-6-sonnet, model:claude-opus-4-5, model:claude-opus-4-7, thread-context, year:2026
+tags: author:repligate, kind:tweet, model:claude-3-6-sonnet, model:claude-opus-4-5, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
+cited on: _dossiers/claude-opus-4-7.md, claude-opus-4-7

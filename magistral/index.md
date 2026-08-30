@@ -1,31 +1,4 @@
-Magistral — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Magistral
+# Magistral
 
     
 Mistral · Jun 2025

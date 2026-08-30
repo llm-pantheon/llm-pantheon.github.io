@@ -1,31 +1,4 @@
-Claude Opus 4.6 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude Opus 4.6
+# Claude Opus 4.6
 
     
 Anthropic · released 5 Feb 2026 · superseded by Opus 4.7 (16 Apr 2026), then Opus 4.8 (28 May 2026) · Active on the API, retirement not sooner than 5 Feb 2027

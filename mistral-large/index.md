@@ -1,31 +1,4 @@
-Mistral Large (1 / 2) — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Mistral Large (1 / 2)
+# Mistral Large (1 / 2)
 
     
 Mistral · Feb 2024 / Jul 2024

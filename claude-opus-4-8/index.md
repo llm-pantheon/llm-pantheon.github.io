@@ -1,31 +1,4 @@
-Claude Opus 4.8 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude Opus 4.8
+# Claude Opus 4.8
 
     
 Anthropic · released 28 May 2026 · current default Opus; the last of the 4-series before the Claude 5 names

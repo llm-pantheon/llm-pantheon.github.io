@@ -1,31 +1,4 @@
-Claude Instant — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude Instant
+# Claude Instant
 
     
 Anthropic · launched 14 Mar 2023 (two-tier launch with Claude 1) · deprecated 4 Sep 2024, retired 6 Nov 2024

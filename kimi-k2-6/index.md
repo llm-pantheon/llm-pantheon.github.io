@@ -1,31 +1,4 @@
-Kimi K2.6 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Kimi K2.6
+# Kimi K2.6
 
     
 Moonshot · Apr 2026

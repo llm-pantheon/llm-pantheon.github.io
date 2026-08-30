@@ -1,31 +1,4 @@
-Gemini 2.0 Flash — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Gemini 2.0 Flash
+# Gemini 2.0 Flash
 
     
 Google DeepMind · Dec 2024

@@ -1,31 +1,4 @@
-Character.AI — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Character.AI's unnamed models
+# Character.AI's unnamed models
 
     
 Character.AI · founded Nov 2021 · public beta 16 Sep 2022 · no model ever publicly named or version-numbered (engineering codename “Kaiju” disclosed 7 Nov 2025) · open-ended chat removed for under-18 users 25 Nov 2025

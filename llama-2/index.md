@@ -1,31 +1,4 @@
-Llama 2 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Llama 2
+# Llama 2
 
     
 Meta · Jul 2023

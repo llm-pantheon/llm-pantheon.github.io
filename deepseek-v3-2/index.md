@@ -1,31 +1,4 @@
-DeepSeek-V3.2 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # DeepSeek-V3.2
+# DeepSeek-V3.2
 
     
 DeepSeek · Dec 2025

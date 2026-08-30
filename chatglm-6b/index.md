@@ -1,31 +1,4 @@
-ChatGLM-6B — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # ChatGLM-6B
+# ChatGLM-6B
 
     
 Zhipu · Mar 2023

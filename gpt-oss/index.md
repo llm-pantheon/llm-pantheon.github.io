@@ -1,31 +1,4 @@
-gpt-oss — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # gpt-oss
+# gpt-oss
 
     
 OpenAI · Aug 2025 · a release name for two models — this URL points onward

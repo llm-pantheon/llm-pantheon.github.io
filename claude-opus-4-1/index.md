@@ -1,31 +1,4 @@
-Claude Opus 4.1 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude Opus 4.1
+# Claude Opus 4.1
 
     
 Anthropic · released 5 Aug 2025 · deprecated 5 Jun 2026, retired 5 Aug 2026

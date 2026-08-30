@@ -1,31 +1,4 @@
-GPT-5.3 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GPT-5.3
+# GPT-5.3
 
     
 OpenAI · Mar 2026

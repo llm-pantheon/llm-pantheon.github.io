@@ -1,31 +1,4 @@
-Grok Build 0.1 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Grok Build 0.1
+# Grok Build 0.1
 
     
 xAI · May–Jun 2026

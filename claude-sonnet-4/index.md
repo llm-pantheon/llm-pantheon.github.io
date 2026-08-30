@@ -1,31 +1,4 @@
-Claude Sonnet 4 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude Sonnet 4
+# Claude Sonnet 4
 
     
 Anthropic · released 22 May 2025 · deprecated 14 Apr 2026, retired 15 Jun 2026

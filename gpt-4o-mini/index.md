@@ -1,31 +1,4 @@
-GPT-4o mini — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GPT-4o mini
+# GPT-4o mini
 
     
 OpenAI · Jul 2024

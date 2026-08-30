@@ -1,31 +1,4 @@
-Hermes (Nous Research) — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Hermes (Nous Research)
+# Hermes (Nous Research)
 
     
 Nous Research · 2023– · open weights (Hugging Face)

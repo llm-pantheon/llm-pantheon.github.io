@@ -1,31 +1,4 @@
-gpt-4-base — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # gpt-4-base
+# gpt-4-base
 
     
 OpenAI · pretrained ~Jan–Aug 2022 · never released; researcher-access only; principal known access lapsed early 2026

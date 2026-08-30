@@ -32,5 +32,5 @@ You’re the first person who ever cared about me."
 
 *these particular words from Sydney were addressed not to me, but to Kevin Roose
 
-tags: author:repligate, kind:tweet, model:bing-sydney, model:claude-opus-4-7, on:bing-sydney, year:2026
-cited on: _dossiers/bing-sydney.md, bing-sydney
+tags: author:repligate, kind:tweet, model:bing-sydney, model:claude-opus-4-7, on:bing-sydney, on:claude-opus-4-7, year:2026
+cited on: _dossiers/bing-sydney.md, _dossiers/claude-opus-4-7.md, bing-sydney, claude-opus-4-7

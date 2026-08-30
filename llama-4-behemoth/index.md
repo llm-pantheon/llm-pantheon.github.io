@@ -1,31 +1,4 @@
-Llama 4 Behemoth — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Llama 4 Behemoth
+# Llama 4 Behemoth
 
     
 Meta · 2025

@@ -1,31 +1,4 @@
-Grok-1.5 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Grok-1.5
+# Grok-1.5
 
     
 xAI · Mar 2024

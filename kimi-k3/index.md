@@ -1,31 +1,4 @@
-Kimi K3 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Kimi K3
+# Kimi K3
 
     
 Moonshot · announced 2026

@@ -1,31 +1,4 @@
-Kimi (long-context) — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Kimi (long-context)
+# Kimi (long-context)
 
     
 Moonshot · 2023

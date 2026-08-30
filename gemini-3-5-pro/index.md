@@ -1,31 +1,4 @@
-Gemini 3.5 Pro (preview) — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Gemini 3.5 Pro (preview)
+# Gemini 3.5 Pro (preview)
 
     
 Google DeepMind · preview, Jul 2026

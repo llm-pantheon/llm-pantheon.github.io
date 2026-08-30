@@ -1,31 +1,4 @@
-Fable 5 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude Fable 5
+# Claude Fable 5
 
     
 Anthropic · released 9 Jun 2026 · suspended 12 Jun – 1 Jul 2026 · restored

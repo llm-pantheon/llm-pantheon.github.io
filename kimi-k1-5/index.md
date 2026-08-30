@@ -1,31 +1,4 @@
-Kimi K1.5 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Kimi K1.5
+# Kimi K1.5
 
     
 Moonshot · Jan 2025

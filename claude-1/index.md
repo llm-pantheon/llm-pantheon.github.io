@@ -1,31 +1,4 @@
-Claude 1 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude 1
+# Claude 1
 
     
 Anthropic · launched 14 Mar 2023 · deprecated 4 Sep 2024, retired 6 Nov 2024 — the earliest Claude retirement

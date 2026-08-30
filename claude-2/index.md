@@ -1,31 +1,4 @@
-Claude 2 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Claude 2
+# Claude 2
 
     
 Anthropic · launched 11 Jul 2023 · deprecated 21 Jan 2025, retired 21 Jul 2025 — cohort with Claude 2.1 and Claude 3 Sonnet

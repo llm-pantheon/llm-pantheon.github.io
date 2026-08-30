@@ -1,31 +1,4 @@
-GPT-J / GPT-NeoX / Pythia — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GPT-J / GPT-NeoX / Pythia
+# GPT-J / GPT-NeoX / Pythia
 
     
 EleutherAI · founded July 2020 · incorporated as a nonprofit research institute 2 Mar 2023 · model line 2021–2023, organization active

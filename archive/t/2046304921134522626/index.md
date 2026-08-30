@@ -5,4 +5,4 @@
 opus 4.7 seems to have a much better time in claude code if you run without most of the system prompt (claude --system-prompt ".")
 
 tags: author:voooooogel, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
-cited on: claude-opus-4-7
+cited on: _dossiers/claude-opus-4-7.md, claude-opus-4-7

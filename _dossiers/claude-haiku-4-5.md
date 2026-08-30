@@ -197,7 +197,7 @@ The archive keeps this open; it does not adjudicate.
 
 - Verbatim in-context read of the system card (eval-awareness %, welfare section, snapshot ID); mirror the PDF.
 - Context window / knowledge cutoff from a primary source.
-- Deprecation/lifecycle: superseded as small tier by Haiku 4.6 (12 Mar 2026); API-availability end date `tk`.
+- Deprecation/lifecycle: no small-tier successor has shipped (Haiku 4.5 remains the current small tier); API-availability end date `tk`.
 - Reception outside the janus circle (Reddit/HN/enterprise dev; non-English).
 - Andon Labs "DJ Claude" primary writeup (the strike); AI Village per-model evidence.
 - Statement of the subject (spawnable; not yet solicited).

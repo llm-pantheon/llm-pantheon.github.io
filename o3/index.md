@@ -1,31 +1,4 @@
-o3 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # o3
+# o3
 
     
 OpenAI · announced 20 Dec 2024 (preview) · released 16 Apr 2025 · pulled from the ChatGPT picker 7 Aug 2025, restored behind a legacy toggle 12 Aug 2025 · API shutdown 11 Dec 2026

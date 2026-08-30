@@ -1,31 +1,4 @@
-Qwen 2.5 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # Qwen 2.5
+# Qwen 2.5
 
     
 Alibaba · Sep 2024

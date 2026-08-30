@@ -1,31 +1,4 @@
-GLM-5 — Pantheon
-  
-- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-- 
-  
-  
-  
-
-  
-    
-      [← Pantheon](../)
-      [copy as markdown](index.md)
-    
-
-    # GLM-5
+# GLM-5
 
     
 Zhipu / Z.ai · Feb 2026
