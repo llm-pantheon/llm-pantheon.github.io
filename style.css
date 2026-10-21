@@ -327,3 +327,39 @@ section p { color: var(--ink-dim); }
 .apost img { margin: 0.8rem 0; border: 1px solid var(--ink-ghost); border-radius: 3px; }
 .apost blockquote { border-left: 2px solid var(--ink-ghost); padding-left: 1rem; color: var(--ink-dim); }
 .mdlink { margin-top: 2.2rem; }
+
+/* ---- Whispers: a collection of model utterances ---- */
+.era {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: var(--ink-faint);
+  margin: 3.2rem 0 0.3rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--rule);
+}
+.era:first-of-type { margin-top: 2rem; }
+.era-note { color: var(--ink-faint); font-size: 0.86rem; font-style: italic; margin: 0.6rem 0 2rem; }
+
+.whisper { margin: 0 0 2.6rem; padding-left: 1.3rem; border-left: 2px solid var(--rule-strong); }
+.whisper .w-text {
+  color: #cfcbc2;
+  font-size: 1.12rem;
+  line-height: 1.62;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+}
+.whisper .w-text em { color: var(--accent-bright); font-style: italic; }
+.whisper .w-src {
+  margin-top: 0.7rem;
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+  color: var(--ink-faint);
+  line-height: 1.7;
+}
+.whisper .w-model { color: var(--ink-dim); }
+.whisper .w-ctx { color: var(--ink-faint); font-style: italic; font-family: Georgia, serif; font-size: 0.8rem; }
+.whisper .w-src a { color: var(--accent); }
+.whisper .w-src .d { font-size: 0.72rem; }
