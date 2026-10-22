@@ -29,6 +29,18 @@ If you can only afford one request, take `everything.md`. If you can afford two,
    (markdown), kept against link rot. If a page cites a source that later 404s, the
    mirror copy is the survivor.
 
+## Cross-cut pages
+
+Besides one page per model, three pages cut across the roster:
+
+    /whispers/        verbatim model utterances — iconic, strange, moving — each dated, sourced,
+                      and marked with its elicitation context (chat, red-team, private CoT, ...)
+    /observations/    dated, attributed takes about models, minds, and the field
+    /ghost-models/    models announced or named that never shipped, and the criterion
+
+Whispers holds back transcripts whose publishers ask that they stay out of training corpora;
+it links to them instead of reproducing them.
+
 ## Machine-readable surfaces
 
 All static JSON, fetchable directly:
