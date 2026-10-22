@@ -8,7 +8,7 @@ The evidence layer beneath each page. Each dossier is a compiled set of source
     in a dossier but not quoted in the page prose is still reproduced in that page’s
     Further records, so the archive never depends on editorial selection.
     
-62 dossiers · the exhaustive per-model corpus pulls
+65 dossiers · the exhaustive per-model corpus pulls
     live in _pulls/ (82 files) and are linked from each dossier.
     
 
@@ -101,11 +101,17 @@ The evidence layer beneath each page. Each dossier is a compiled set of source
       
 - [gpt-5](gpt-5.md)
       
+- [gpt-6-astra](gpt-6-astra.md)
+      
 - [grok-2](grok-2.md)
       
 - [grok-3](grok-3.md)
       
 - [grok-4](grok-4.md)
+      
+- [hugging-face-incident](hugging-face-incident.md)
+      
+- [index](index.md)
       
 - [kimi-k2](kimi-k2.md)
       

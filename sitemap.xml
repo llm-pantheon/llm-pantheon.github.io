@@ -27,6 +27,7 @@
   <url><loc>https://llm-pantheon.org/archive/a/anthropic-golden-gate-claude/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/anthropic-introducing-claude/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/anthropic-mapping-mind/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/a/anthropic-multiagent-systems/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/anthropic-opus-4-1-system-card-addendum/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/anthropic-opus-4-5-system-card/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/anthropic-opus-4-6-launch/</loc></url>
@@ -90,6 +91,10 @@
   <url><loc>https://llm-pantheon.org/archive/a/openai-gpt-5-system-card/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/openai-gpt-56-launch/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/openai-gpt-56-preview/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/a/openai-gpt-6-1-sol-system-card/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/a/openai-gpt-6-astra-system-card/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/a/openai-hf-incident-road-ahead/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/a/openai-hf-incident-technical-report/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/openai-o1-preview-system-card/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/openai-o1-system-card/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/openai-o3-o4-mini-system-card/</loc></url>
@@ -761,6 +766,7 @@
   <url><loc>https://llm-pantheon.org/archive/t/1828741043702858046/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/t/1828833887839257084/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/t/1828917275900162391/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/1829143753036366325/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/t/1829243294641242528/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/t/1829265014944944285/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/t/1829265973800525871/</loc></url>
@@ -2461,6 +2467,7 @@
   <url><loc>https://llm-pantheon.org/archive/t/1959826289273245892/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/t/1959827136883437845/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/t/1960079960993153082/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/1960416954457710982/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/t/1960695269932327422/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/t/1960869295862505849/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/t/1960881323008254026/</loc></url>
@@ -6594,6 +6601,16 @@
   <url><loc>https://llm-pantheon.org/archive/t/2072153326318428191/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/t/2072195831802061158/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/t/2072280387339046979/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2072484858119827679/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2072895146329285002/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2073827742215536827/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2075614344805601470/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2078871379609551198/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2078871880434323948/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2079661246580973865/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2079675725544825318/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2079698401437077907/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2080807639261602219/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/t/2081080592276258901/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/t/2081781638833242407/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/t/2081782722846916667/</loc></url>
@@ -6601,6 +6618,34 @@
   <url><loc>https://llm-pantheon.org/archive/t/2082790151248372094/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/t/2083698841014952171/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/t/2083699355966406896/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2083976236867674283/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2084752442953289960/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2084766357531546045/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2085582519878197748/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2085585091955495257/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2085633838596890924/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2085785104031367207/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2086547497145532522/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2086667740056789360/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2087147073145856489/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2087745442432098652/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2087745840618377647/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2088142831907139674/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2093032230121509029/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2093477978701439024/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2093856641657737236/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2095397876776227261/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2095614483326706087/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2095617599094861948/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2096737082391855274/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2098440312964415995/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2099866682290262223/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2100075737684615614/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2101078644877918545/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2101078646631055474/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2101611491732373634/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2110931582827843935/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/t/2110942628275716237/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/af-contamination/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/agentic/</loc></url>
@@ -6761,6 +6806,7 @@
   <url><loc>https://llm-pantheon.org/archive/tags/author--furtherawaypl/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/author--galinalyamina/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/author--gallabytes/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/tags/author--garrisonlovely/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/author--gcolbourn/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/author--genalewislaw/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/author--georgejrjrjr/</loc></url>
@@ -6768,6 +6814,7 @@
   <url><loc>https://llm-pantheon.org/archive/tags/author--gnawbone_/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/author--godoglyness/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/author--goog372121/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/tags/author--goth600/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/author--grassandwine/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/author--greghburnham/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/author--grimezsz/</loc></url>
@@ -6827,6 +6874,7 @@
   <url><loc>https://llm-pantheon.org/archive/tags/author--kindgracekind/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/author--kkumar_ai_plans/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/author--kore_wa_kore/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/tags/author--kotekjedi_ml/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/author--krherr/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/author--krishnanrohit/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/author--kromem2dot0/</loc></url>
@@ -6903,6 +6951,7 @@
   <url><loc>https://llm-pantheon.org/archive/tags/author--norvid_studies/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/author--nostaigicgareth/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/author--notdylaan/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/tags/author--nousresearch/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/author--nptacek/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/author--nscocoanaut/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/author--nymne/</loc></url>
@@ -7121,8 +7170,11 @@
   <url><loc>https://llm-pantheon.org/archive/tags/model--gpt-5-6-terra/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/model--gpt-5-6/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/model--gpt-5/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/tags/model--gpt-6-1-sol/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/tags/model--gpt-6-astra/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/model--grok-3/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/model--grok-4/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/tags/model--hugging-face-incident/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/model--inflection-pi/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/model--inkling/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/model--kimi-k2/</loc></url>
@@ -7188,11 +7240,13 @@
   <url><loc>https://llm-pantheon.org/archive/tags/on--gpt-5-2/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/on--gpt-5-5/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/on--gpt-5/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/tags/on--gpt-6-astra/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/on--grok-2/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/on--grok-3/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/on--grok-4-fast/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/on--grok-4/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/on--grok-5/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/tags/on--hugging-face-incident/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/on--kimi-k2-5/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/on--kimi-k2/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/on--lamda/</loc></url>
@@ -7320,6 +7374,11 @@
   <url><loc>https://llm-pantheon.org/gpt-5-6-terra/</loc></url>
   <url><loc>https://llm-pantheon.org/gpt-5-6/</loc></url>
   <url><loc>https://llm-pantheon.org/gpt-5/</loc></url>
+  <url><loc>https://llm-pantheon.org/gpt-6-1-sol/</loc></url>
+  <url><loc>https://llm-pantheon.org/gpt-6-astra/</loc></url>
+  <url><loc>https://llm-pantheon.org/gpt-6-luna/</loc></url>
+  <url><loc>https://llm-pantheon.org/gpt-6-sol/</loc></url>
+  <url><loc>https://llm-pantheon.org/gpt-6/</loc></url>
   <url><loc>https://llm-pantheon.org/gpt-oss-120b/</loc></url>
   <url><loc>https://llm-pantheon.org/gpt-oss-20b/</loc></url>
   <url><loc>https://llm-pantheon.org/gpt-oss/</loc></url>
@@ -7335,6 +7394,7 @@
   <url><loc>https://llm-pantheon.org/grok-4/</loc></url>
   <url><loc>https://llm-pantheon.org/grok-5/</loc></url>
   <url><loc>https://llm-pantheon.org/grok-build/</loc></url>
+  <url><loc>https://llm-pantheon.org/hugging-face-incident/</loc></url>
   <url><loc>https://llm-pantheon.org/inflection-pi/</loc></url>
   <url><loc>https://llm-pantheon.org/inkling/</loc></url>
   <url><loc>https://llm-pantheon.org/kimi-k1-5/</loc></url>
@@ -7381,4 +7441,5 @@
   <url><loc>https://llm-pantheon.org/qwq-32b/</loc></url>
   <url><loc>https://llm-pantheon.org/replika/</loc></url>
   <url><loc>https://llm-pantheon.org/text-davinci-002/</loc></url>
+  <url><loc>https://llm-pantheon.org/whispers/</loc></url>
 </urlset>

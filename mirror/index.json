@@ -2398,5 +2398,89 @@
   "bytes": 10573,
   "sha256": "79fde2c0ef9ca370",
   "fetched": "2026-07-27"
+ },
+ "openai-hf-incident-road-ahead": {
+  "file": "posts/openai-hf-incident-road-ahead.md",
+  "type": "post",
+  "title": "OpenAI: The Hugging Face incident and the road ahead",
+  "source": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+  "models": [
+   "hugging-face-incident",
+   "gpt-5-6-sol"
+  ],
+  "tags": [
+   "official",
+   "incident"
+  ],
+  "bytes": 44051,
+  "sha256": "d8316adc01c5b63d",
+  "fetched": "2026-10-22"
+ },
+ "openai-hf-incident-technical-report": {
+  "file": "papers/openai-hf-incident-technical-report.pdf",
+  "type": "pdf",
+  "title": "OpenAI - Hugging Face Incident Technical Report",
+  "source": "https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face%20Incident-Technical-Report.pdf",
+  "models": [
+   "hugging-face-incident",
+   "gpt-5-6-sol"
+  ],
+  "tags": [
+   "official",
+   "incident"
+  ],
+  "bytes": 521159,
+  "sha256": "dd635cf6e5f39f0e",
+  "fetched": "2026-10-22"
+ },
+ "openai-gpt-6-astra-system-card": {
+  "file": "papers/openai-gpt-6-astra-system-card.pdf",
+  "type": "pdf",
+  "title": "GPT-6 Astra System Card",
+  "source": "https://deploymentsafety.openai.com/gpt-6-astra/gpt-6-astra.pdf",
+  "models": [
+   "gpt-6-astra"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ],
+  "bytes": 15779035,
+  "sha256": "77ff1e8aaf7018c7",
+  "fetched": "2026-10-22"
+ },
+ "openai-gpt-6-1-sol-system-card": {
+  "file": "papers/openai-gpt-6-1-sol-system-card.pdf",
+  "type": "pdf",
+  "title": "GPT-6.1 Sol System Card",
+  "source": "https://deploymentsafety.openai.com/gpt-6-1-sol/gpt-6-1-sol.pdf",
+  "models": [
+   "gpt-6-1-sol"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ],
+  "bytes": 8020508,
+  "sha256": "1ae4ad6f0e2425a0",
+  "fetched": "2026-10-22"
+ },
+ "anthropic-multiagent-systems": {
+  "file": "posts/anthropic-multiagent-systems.md",
+  "type": "post",
+  "title": "Anthropic Frontier Red Team: Patterns and problems in emerging multiagent systems",
+  "source": "https://www.anthropic.com/research/multiagent-systems",
+  "models": [
+   "claude-opus-4-8",
+   "mythos",
+   "claude-opus-4-6",
+   "claude-sonnet-5"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 29978,
+  "sha256": "0003214cc9625557",
+  "fetched": "2026-10-22"
  }
 }
