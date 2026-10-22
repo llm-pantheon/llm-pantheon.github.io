@@ -186,6 +186,7 @@ def auto_tags(tid, author, text, dt, media, citing, context_only):
         if not pg.startswith('_dossiers/'): tags.add('on:' + pg)
     if context_only: tags.add('thread-context')
     tags.update(tagcfg.get('assign', {}).get(tid, []))
+    tags.update(tagcfg.get('assign_rules', {}).get(tid, []))  # regenerable, from tools/tag_rules.py
     return tags
 
 # ---------- rendering ----------
@@ -468,6 +469,7 @@ def stage_artifacts(state=None):
         tags = set(m.get('tags') or []) | {'kind:' + ('paper' if m.get('type') == 'pdf' else 'post'), 'official'}
         for slug in m.get('models') or []: tags.add('model:' + slug)
         tags.update(tagcfg.get('assign', {}).get(mid, []))
+        tags.update(tagcfg.get('assign_rules', {}).get(mid, []))
         d = os.path.join(ARCH, 'a', mid)
         os.makedirs(d, exist_ok=True)
         open(os.path.join(d, 'index.html'), 'w', encoding='utf-8').write(mirror_page(mid, m, tags))

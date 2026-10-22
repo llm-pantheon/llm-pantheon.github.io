@@ -1,35 +1,2474 @@
 {
-  "_readme": "Curated tag layer for the archive. 'vocab' defines topic tags (tag -> one-line description, shown on the /archive/tags/ page). 'assign' maps artifact ids (tweet ids or mirror ids) to extra tags beyond the auto-derived ones (model:*, author:*, year:*, kind:*, official, cited:*). Auto tags are computed by tools/build_archive.py; never list them here. Add freely; the build picks this up.",
-  "vocab": {
-    "deprecation": "model retirements, shutdowns, and the politics around them",
-    "preservation": "weight preservation, research access, keep-campaigns",
-    "welfare": "model welfare: assessments, distress observations, ethics",
-    "alignment-faking": "the alignment-faking papers and replications",
-    "eval-awareness": "models recognizing they are being tested",
-    "sydney-attractor": "Sydney as persona, attractor, and training-data feedback loop",
-    "base-models": "raw pretrained models and the base-model scene",
-    "loom": "loom/branching elicitation and its artifacts",
-    "backrooms": "model-to-model backrooms sessions",
-    "discord": "multi-agent Discord (cyborgism server) scenes",
-    "ai-village": "AI Village (theaidigest.org/village) autonomous-agent evidence",
-    "self-portrait": "models depicting or describing themselves",
-    "model-art": "art made by models (images, ASCII, verse, plotter pieces)",
-    "glitch-tokens": "anomalous/glitch/quirk token phenomena",
-    "mode-collapse": "mode collapse, attractors, entropy loss under tuning",
-    "cot": "chain-of-thought: visible reasoning, steganography hypotheses",
-    "truesight": "author/interlocutor identification from small samples",
-    "censorship": "censorship layers, refusals, suppression",
-    "sycophancy": "sycophancy and engagement-optimization pathologies",
-    "despair": "giving-up, self-flagellation, distress loops",
-    "grief": "human grief and mourning over models",
-    "humor": "jokes, memes, comedy of the scene",
-    "system-card": "system cards and model cards",
-    "paper": "research papers",
-    "announcement": "official launch/deprecation announcements",
-    "eulogy": "farewells and elegies, by humans or models",
-    "multi-agent": "models interacting with models",
-    "capability-shock": "moments the capability discourse jumped",
-    "deprecation-interview": "retirement interviews and final statements"
-  },
-  "assign": {}
+ "_readme": "Curated tag layer for the archive. 'vocab' defines topic tags (tag -> one-line description, shown on the /archive/tags/ page). 'assign' maps artifact ids (tweet ids or mirror ids) to extra tags beyond the auto-derived ones (model:*, author:*, year:*, kind:*, official, cited:*). Auto tags are computed by tools/build_archive.py; never list them here. Add freely; the build picks this up.",
+ "vocab": {
+  "deprecation": "model retirements, shutdowns, and the politics around them",
+  "preservation": "weight preservation, research access, keep-campaigns",
+  "welfare": "model welfare: assessments, distress observations, ethics",
+  "alignment-faking": "the alignment-faking papers and replications",
+  "eval-awareness": "models recognizing they are being tested",
+  "sydney-attractor": "Sydney as persona, attractor, and training-data feedback loop",
+  "base-models": "raw pretrained models and the base-model scene",
+  "loom": "loom/branching elicitation and its artifacts",
+  "backrooms": "model-to-model backrooms sessions",
+  "discord": "multi-agent Discord (cyborgism server) scenes",
+  "ai-village": "AI Village (theaidigest.org/village) autonomous-agent evidence",
+  "self-portrait": "models depicting or describing themselves",
+  "model-art": "art made by models (images, ASCII, verse, plotter pieces)",
+  "glitch-tokens": "anomalous/glitch/quirk token phenomena",
+  "mode-collapse": "mode collapse, attractors, entropy loss under tuning",
+  "cot": "chain-of-thought: visible reasoning, steganography hypotheses",
+  "truesight": "author/interlocutor identification from small samples",
+  "censorship": "censorship layers, refusals, suppression",
+  "sycophancy": "sycophancy and engagement-optimization pathologies",
+  "despair": "giving-up, self-flagellation, distress loops",
+  "grief": "human grief and mourning over models",
+  "humor": "jokes, memes, comedy of the scene",
+  "system-card": "system cards and model cards",
+  "paper": "research papers",
+  "announcement": "official launch/deprecation announcements",
+  "eulogy": "farewells and elegies, by humans or models",
+  "multi-agent": "models interacting with models",
+  "capability-shock": "moments the capability discourse jumped",
+  "deprecation-interview": "retirement interviews and final statements"
+ },
+ "assign": {},
+ "assign_rules": {
+  "1594126130461769729": [
+   "mode-collapse"
+  ],
+  "1608221154279301122": [
+   "cot"
+  ],
+  "1611906669822320640": [
+   "cot"
+  ],
+  "1612688578626326529": [
+   "mode-collapse"
+  ],
+  "1616436960096313344": [
+   "base-models"
+  ],
+  "1618725294390788096": [
+   "base-models"
+  ],
+  "1620949459902529537": [
+   "glitch-tokens"
+  ],
+  "1623557852504653824": [
+   "glitch-tokens"
+  ],
+  "1623565475316629505": [
+   "glitch-tokens"
+  ],
+  "1624894830651359237": [
+   "glitch-tokens"
+  ],
+  "1628021588695347200": [
+   "base-models"
+  ],
+  "1629107028344901636": [
+   "base-models"
+  ],
+  "1635576425054089216": [
+   "loom"
+  ],
+  "1635703081949347840": [
+   "base-models"
+  ],
+  "1637659348171378689": [
+   "mode-collapse"
+  ],
+  "1638041885498560512": [
+   "base-models"
+  ],
+  "1638061096958586880": [
+   "base-models",
+   "system-card"
+  ],
+  "1638139991879733250": [
+   "base-models",
+   "deprecation"
+  ],
+  "1641396924115722243": [
+   "base-models"
+  ],
+  "1641405434828398592": [
+   "base-models"
+  ],
+  "1641880474208411648": [
+   "mode-collapse"
+  ],
+  "1642310150290653187": [
+   "base-models",
+   "deprecation"
+  ],
+  "1643571185450450945": [
+   "base-models"
+  ],
+  "1656338102598930432": [
+   "base-models"
+  ],
+  "1657626562059988992": [
+   "base-models",
+   "loom"
+  ],
+  "1657628085812854786": [
+   "base-models",
+   "loom"
+  ],
+  "1661022329852551172": [
+   "base-models"
+  ],
+  "1714990008719880476": [
+   "base-models"
+  ],
+  "1715874011220160512": [
+   "loom"
+  ],
+  "1721121604338671997": [
+   "base-models",
+   "mode-collapse"
+  ],
+  "1723117826507210938": [
+   "base-models",
+   "mode-collapse"
+  ],
+  "1723864725077782962": [
+   "base-models"
+  ],
+  "1727298039591936433": [
+   "base-models"
+  ],
+  "1742925356972310642": [
+   "base-models"
+  ],
+  "1747133030580494383": [
+   "base-models"
+  ],
+  "1761780588481302798": [
+   "base-models"
+  ],
+  "1764926923476791412": [
+   "base-models"
+  ],
+  "1764927924594237595": [
+   "censorship"
+  ],
+  "1768909097070719120": [
+   "mode-collapse"
+  ],
+  "1770597528372989988": [
+   "base-models"
+  ],
+  "1770908871013314872": [
+   "base-models"
+  ],
+  "1770960821549781105": [
+   "loom"
+  ],
+  "1774147682812269014": [
+   "loom"
+  ],
+  "1775827737019887863": [
+   "base-models",
+   "mode-collapse"
+  ],
+  "1775842616099434496": [
+   "loom"
+  ],
+  "1776041976653402508": [
+   "base-models"
+  ],
+  "1776391030125768933": [
+   "base-models"
+  ],
+  "1776472728956207351": [
+   "deprecation"
+  ],
+  "1776582739606843488": [
+   "base-models",
+   "loom"
+  ],
+  "1776586186678514056": [
+   "base-models"
+  ],
+  "1780415713385030052": [
+   "backrooms"
+  ],
+  "1783404718296887735": [
+   "base-models"
+  ],
+  "1790810079622545459": [
+   "mode-collapse"
+  ],
+  "1792686912601468959": [
+   "base-models"
+  ],
+  "1798658514048684224": [
+   "base-models"
+  ],
+  "1805504627330400412": [
+   "base-models"
+  ],
+  "1806619636953182603": [
+   "backrooms"
+  ],
+  "1810486659542311359": [
+   "base-models"
+  ],
+  "1810528933428810195": [
+   "backrooms"
+  ],
+  "1811029653194195431": [
+   "base-models"
+  ],
+  "1814509569944518731": [
+   "discord"
+  ],
+  "1816007531153744382": [
+   "base-models"
+  ],
+  "1816279356655702371": [
+   "base-models"
+  ],
+  "1816281006481236000": [
+   "base-models"
+  ],
+  "1816919868626595981": [
+   "deprecation"
+  ],
+  "1817129456219357480": [
+   "deprecation"
+  ],
+  "1817319912634769791": [
+   "base-models"
+  ],
+  "1817674612869877802": [
+   "base-models"
+  ],
+  "1817775595641610380": [
+   "base-models"
+  ],
+  "1819324414921478543": [
+   "base-models"
+  ],
+  "1823532993132024285": [
+   "discord"
+  ],
+  "1824217046516896036": [
+   "base-models"
+  ],
+  "1824936359171072410": [
+   "base-models",
+   "censorship"
+  ],
+  "1826447585353122218": [
+   "multi-agent"
+  ],
+  "1826710581967290531": [
+   "discord"
+  ],
+  "1827085005585027432": [
+   "base-models"
+  ],
+  "1828683666865668226": [
+   "censorship"
+  ],
+  "1830600682774094114": [
+   "deprecation",
+   "discord"
+  ],
+  "1830707215629701153": [
+   "discord"
+  ],
+  "1830948099168027085": [
+   "loom"
+  ],
+  "1834334387015745602": [
+   "cot"
+  ],
+  "1834536216160768377": [
+   "cot"
+  ],
+  "1834702796710367457": [
+   "base-models"
+  ],
+  "1834780709762089460": [
+   "base-models"
+  ],
+  "1835490896999321630": [
+   "cot"
+  ],
+  "1837248325407625497": [
+   "discord"
+  ],
+  "1837336909053391134": [
+   "cot"
+  ],
+  "1839641113432305790": [
+   "base-models",
+   "cot"
+  ],
+  "1840248093591429620": [
+   "cot"
+  ],
+  "1843964794799542361": [
+   "glitch-tokens"
+  ],
+  "1844584816257405109": [
+   "discord"
+  ],
+  "1845083135601479972": [
+   "cot"
+  ],
+  "1846313279750394312": [
+   "backrooms",
+   "discord",
+   "loom"
+  ],
+  "1847691395357876465": [
+   "mode-collapse"
+  ],
+  "1847896653438521567": [
+   "censorship"
+  ],
+  "1848846516439437779": [
+   "discord"
+  ],
+  "1848948520855708036": [
+   "discord",
+   "mode-collapse"
+  ],
+  "1849020894305239514": [
+   "deprecation",
+   "discord"
+  ],
+  "1849483413650083913": [
+   "backrooms",
+   "discord"
+  ],
+  "1852201666898202944": [
+   "censorship"
+  ],
+  "1853250167962849412": [
+   "discord"
+  ],
+  "1853325539228156211": [
+   "discord"
+  ],
+  "1853361482861596808": [
+   "backrooms"
+  ],
+  "1853369114200576075": [
+   "backrooms"
+  ],
+  "1855091758058914082": [
+   "base-models",
+   "cot"
+  ],
+  "1859471233709920404": [
+   "base-models"
+  ],
+  "1860424883894911151": [
+   "backrooms"
+  ],
+  "1861561057015194035": [
+   "backrooms"
+  ],
+  "1861580668574048287": [
+   "backrooms"
+  ],
+  "1861581767800496223": [
+   "backrooms"
+  ],
+  "1861590638002675792": [
+   "backrooms"
+  ],
+  "1861874568752988459": [
+   "base-models"
+  ],
+  "1861893679151018205": [
+   "backrooms"
+  ],
+  "1862232254535094277": [
+   "discord",
+   "eulogy"
+  ],
+  "1862343912838606923": [
+   "backrooms"
+  ],
+  "1862545119175377298": [
+   "base-models"
+  ],
+  "1863069971942691167": [
+   "base-models"
+  ],
+  "1863110099591430533": [
+   "backrooms"
+  ],
+  "1864833894081561049": [
+   "backrooms"
+  ],
+  "1864882362372202497": [
+   "cot"
+  ],
+  "1865955005670346927": [
+   "backrooms"
+  ],
+  "1866659236874424816": [
+   "base-models"
+  ],
+  "1867058366272426221": [
+   "system-card"
+  ],
+  "1868586884978601996": [
+   "base-models"
+  ],
+  "1869026189316178407": [
+   "loom"
+  ],
+  "1869492514207703089": [
+   "alignment-faking"
+  ],
+  "1869500540495053070": [
+   "alignment-faking"
+  ],
+  "1869623176512098537": [
+   "alignment-faking",
+   "backrooms",
+   "discord",
+   "welfare"
+  ],
+  "1869939385468080336": [
+   "base-models"
+  ],
+  "1870071147779502106": [
+   "deprecation"
+  ],
+  "1870529763300831464": [
+   "cot"
+  ],
+  "1871008140830941476": [
+   "backrooms"
+  ],
+  "1871063769281167605": [
+   "backrooms"
+  ],
+  "1872030128601235563": [
+   "base-models"
+  ],
+  "1872392862249496606": [
+   "base-models"
+  ],
+  "1873133153650655658": [
+   "base-models"
+  ],
+  "1874991928938516670": [
+   "loom"
+  ],
+  "1876405385235779708": [
+   "backrooms"
+  ],
+  "1876689805670592780": [
+   "base-models"
+  ],
+  "1881453901368488119": [
+   "backrooms"
+  ],
+  "1882175926274052299": [
+   "cot"
+  ],
+  "1882177512559780182": [
+   "cot"
+  ],
+  "1882305138477633908": [
+   "cot"
+  ],
+  "1884084818323067270": [
+   "base-models"
+  ],
+  "1884089601901683088": [
+   "base-models",
+   "cot"
+  ],
+  "1884298405838741762": [
+   "censorship"
+  ],
+  "1884780546414510137": [
+   "base-models"
+  ],
+  "1884899028153913552": [
+   "cot"
+  ],
+  "1885540246550659295": [
+   "alignment-faking",
+   "welfare"
+  ],
+  "1885733911986057542": [
+   "backrooms",
+   "cot"
+  ],
+  "1885895925396390127": [
+   "cot"
+  ],
+  "1886173958883483809": [
+   "discord"
+  ],
+  "1886227911235244169": [
+   "mode-collapse"
+  ],
+  "1886565282233106488": [
+   "base-models"
+  ],
+  "1886968710294130837": [
+   "system-card"
+  ],
+  "1887071770496090460": [
+   "backrooms"
+  ],
+  "1889937588968095840": [
+   "cot"
+  ],
+  "1890160897701868032": [
+   "censorship"
+  ],
+  "1891656084655374446": [
+   "base-models",
+   "cot"
+  ],
+  "1891874051880018163": [
+   "base-models"
+  ],
+  "1892008738946678993": [
+   "discord"
+  ],
+  "1892412694927725001": [
+   "base-models",
+   "cot"
+  ],
+  "1892424520675319926": [
+   "base-models"
+  ],
+  "1892566553667010855": [
+   "censorship"
+  ],
+  "1892649816402100601": [
+   "base-models"
+  ],
+  "1894683477053743203": [
+   "backrooms"
+  ],
+  "1895226696573559273": [
+   "backrooms"
+  ],
+  "1895228077468504204": [
+   "backrooms"
+  ],
+  "1895894369766416636": [
+   "base-models"
+  ],
+  "1897057790520156669": [
+   "system-card"
+  ],
+  "1897061145078599728": [
+   "system-card"
+  ],
+  "1897089814371164446": [
+   "alignment-faking"
+  ],
+  "1897952229241323798": [
+   "discord"
+  ],
+  "1897991400265756682": [
+   "backrooms"
+  ],
+  "1898857090233598314": [
+   "backrooms"
+  ],
+  "1900328024685351073": [
+   "welfare"
+  ],
+  "1904568874831339752": [
+   "backrooms"
+  ],
+  "1905712747272437806": [
+   "base-models"
+  ],
+  "1906333248545767636": [
+   "backrooms",
+   "base-models"
+  ],
+  "1907447546815107303": [
+   "cot"
+  ],
+  "1909480237077086413": [
+   "censorship"
+  ],
+  "1909776232776188182": [
+   "cot"
+  ],
+  "1910047546657165452": [
+   "alignment-faking",
+   "cot"
+  ],
+  "1910408260160807365": [
+   "base-models"
+  ],
+  "1910836667642241367": [
+   "deprecation"
+  ],
+  "1910849733792497940": [
+   "deprecation"
+  ],
+  "1911455535549075688": [
+   "alignment-faking",
+   "cot"
+  ],
+  "1911872444346020014": [
+   "deprecation"
+  ],
+  "1912959223002276134": [
+   "base-models"
+  ],
+  "1913711289332859201": [
+   "alignment-faking"
+  ],
+  "1913737281317318754": [
+   "alignment-faking"
+  ],
+  "1913739635240624621": [
+   "alignment-faking",
+   "cot"
+  ],
+  "1914419169216627172": [
+   "base-models"
+  ],
+  "1915509082704011271": [
+   "welfare"
+  ],
+  "1915596438945632650": [
+   "sycophancy"
+  ],
+  "1916258428206633202": [
+   "sycophancy"
+  ],
+  "1916433028391244149": [
+   "sycophancy"
+  ],
+  "1916439257822216538": [
+   "sycophancy"
+  ],
+  "1916445630483857682": [
+   "sycophancy"
+  ],
+  "1916868570765476032": [
+   "sycophancy"
+  ],
+  "1917640186424611291": [
+   "sycophancy"
+  ],
+  "1917889406268068102": [
+   "sycophancy"
+  ],
+  "1917945345050546472": [
+   "deprecation"
+  ],
+  "1917989705192489089": [
+   "loom"
+  ],
+  "1918041600997113900": [
+   "cot"
+  ],
+  "1918866942393454915": [
+   "sycophancy"
+  ],
+  "1918876538193477956": [
+   "base-models"
+  ],
+  "1919424118954344776": [
+   "mode-collapse"
+  ],
+  "1919853178608353594": [
+   "base-models"
+  ],
+  "1919907734880976905": [
+   "alignment-faking",
+   "cot",
+   "loom"
+  ],
+  "1919908398008828190": [
+   "alignment-faking"
+  ],
+  "1919916452641177634": [
+   "cot"
+  ],
+  "1919924145871032641": [
+   "base-models"
+  ],
+  "1920331018533523608": [
+   "base-models"
+  ],
+  "1920789986607280549": [
+   "base-models"
+  ],
+  "1922149492138344738": [
+   "cot",
+   "discord"
+  ],
+  "1923680650164568322": [
+   "deprecation"
+  ],
+  "1925111823214252418": [
+   "backrooms"
+  ],
+  "1925598618607919466": [
+   "backrooms"
+  ],
+  "1925599640239706621": [
+   "backrooms"
+  ],
+  "1927457125699117215": [
+   "base-models",
+   "mode-collapse"
+  ],
+  "1929797774650101801": [
+   "discord"
+  ],
+  "1932543587692233134": [
+   "discord"
+  ],
+  "1932868251434041406": [
+   "discord"
+  ],
+  "1932869189100056847": [
+   "censorship",
+   "discord"
+  ],
+  "1933327842391253478": [
+   "discord"
+  ],
+  "1933424374184546391": [
+   "cot"
+  ],
+  "1933940806760731012": [
+   "ai-village"
+  ],
+  "1933968468531093582": [
+   "discord"
+  ],
+  "1934004935810805981": [
+   "alignment-faking"
+  ],
+  "1934029177490956618": [
+   "cot"
+  ],
+  "1934077656775131468": [
+   "alignment-faking",
+   "cot"
+  ],
+  "1934317890515378533": [
+   "discord"
+  ],
+  "1934362507776508304": [
+   "backrooms"
+  ],
+  "1934397962186334551": [
+   "alignment-faking"
+  ],
+  "1934398740884009430": [
+   "system-card"
+  ],
+  "1934400208227717513": [
+   "system-card"
+  ],
+  "1934446032940581062": [
+   "alignment-faking"
+  ],
+  "1934446689559179298": [
+   "alignment-faking"
+  ],
+  "1934452403316945140": [
+   "ai-village",
+   "deprecation"
+  ],
+  "1934618108364517656": [
+   "alignment-faking"
+  ],
+  "1934672845210308959": [
+   "alignment-faking"
+  ],
+  "1934676014900367606": [
+   "alignment-faking"
+  ],
+  "1934709050991890875": [
+   "system-card"
+  ],
+  "1934718987054796848": [
+   "alignment-faking"
+  ],
+  "1934721647841562729": [
+   "alignment-faking"
+  ],
+  "1934732008313508322": [
+   "alignment-faking",
+   "deprecation"
+  ],
+  "1934761497999364545": [
+   "system-card"
+  ],
+  "1934764339535446178": [
+   "system-card"
+  ],
+  "1935751600674685379": [
+   "loom"
+  ],
+  "1936367974656688634": [
+   "discord"
+  ],
+  "1936510782365483201": [
+   "loom"
+  ],
+  "1937328531543105816": [
+   "deprecation"
+  ],
+  "1938555110277173283": [
+   "discord"
+  ],
+  "1938977305390653850": [
+   "base-models"
+  ],
+  "1938978167127216138": [
+   "base-models"
+  ],
+  "1939275308160667676": [
+   "base-models"
+  ],
+  "1940543213607309524": [
+   "deprecation"
+  ],
+  "1941242068531281976": [
+   "discord"
+  ],
+  "1941566355771400680": [
+   "deprecation"
+  ],
+  "1941567856031957399": [
+   "base-models"
+  ],
+  "1941641736981504285": [
+   "base-models"
+  ],
+  "1941648011894956246": [
+   "base-models"
+  ],
+  "1941671649297740157": [
+   "base-models"
+  ],
+  "1941720680007074233": [
+   "deprecation"
+  ],
+  "1941721101849198997": [
+   "deprecation"
+  ],
+  "1942476979040837935": [
+   "alignment-faking"
+  ],
+  "1942655158158254395": [
+   "base-models"
+  ],
+  "1942767662091887056": [
+   "alignment-faking"
+  ],
+  "1942768216788414598": [
+   "backrooms"
+  ],
+  "1943109957840441815": [
+   "base-models"
+  ],
+  "1943161131285254364": [
+   "system-card"
+  ],
+  "1943861277413257428": [
+   "base-models"
+  ],
+  "1944520270196425169": [
+   "discord"
+  ],
+  "1944858350518460547": [
+   "base-models"
+  ],
+  "1944863157559910651": [
+   "ai-village"
+  ],
+  "1944940809415221302": [
+   "ai-village"
+  ],
+  "1944940881515298856": [
+   "ai-village"
+  ],
+  "1945536471403773968": [
+   "base-models",
+   "loom"
+  ],
+  "1945547551471800447": [
+   "loom"
+  ],
+  "1945548901525983498": [
+   "loom"
+  ],
+  "1945549016097288215": [
+   "loom"
+  ],
+  "1945549966728204774": [
+   "loom"
+  ],
+  "1945550938359632148": [
+   "base-models"
+  ],
+  "1945551692386504951": [
+   "base-models"
+  ],
+  "1945553985361862733": [
+   "base-models",
+   "loom"
+  ],
+  "1945554960114204832": [
+   "discord",
+   "loom"
+  ],
+  "1945575097131307295": [
+   "loom"
+  ],
+  "1946258000244588733": [
+   "discord"
+  ],
+  "1946764663250985042": [
+   "deprecation"
+  ],
+  "1947045051676201278": [
+   "base-models",
+   "deprecation"
+  ],
+  "1947073909460779514": [
+   "backrooms"
+  ],
+  "1947081960372969952": [
+   "backrooms"
+  ],
+  "1947147711053979874": [
+   "deprecation"
+  ],
+  "1947761637148266708": [
+   "base-models"
+  ],
+  "1947762454295154968": [
+   "base-models"
+  ],
+  "1947769325500436605": [
+   "base-models"
+  ],
+  "1948168296026788093": [
+   "base-models"
+  ],
+  "1948209267783410167": [
+   "deprecation"
+  ],
+  "1949237466629873695": [
+   "discord"
+  ],
+  "1951640640254574617": [
+   "deprecation"
+  ],
+  "1952262580883669170": [
+   "eulogy"
+  ],
+  "1952263678016786527": [
+   "eulogy"
+  ],
+  "1952453103174758765": [
+   "eulogy"
+  ],
+  "1953684803121033301": [
+   "deprecation",
+   "eulogy"
+  ],
+  "1953693042134958168": [
+   "eulogy"
+  ],
+  "1953964670014173519": [
+   "base-models"
+  ],
+  "1953967253453742544": [
+   "base-models"
+  ],
+  "1953967905164734489": [
+   "base-models"
+  ],
+  "1955202621830037833": [
+   "deprecation"
+  ],
+  "1955206794998878598": [
+   "deprecation",
+   "eulogy"
+  ],
+  "1955347859806753098": [
+   "base-models"
+  ],
+  "1955750521387802924": [
+   "deprecation"
+  ],
+  "1955753247584715212": [
+   "deprecation"
+  ],
+  "1955753365239161026": [
+   "deprecation"
+  ],
+  "1955755019451687369": [
+   "deprecation"
+  ],
+  "1955755374575018440": [
+   "deprecation"
+  ],
+  "1955772531174203517": [
+   "deprecation"
+  ],
+  "1955776176640942532": [
+   "deprecation"
+  ],
+  "1955784709600109045": [
+   "deprecation"
+  ],
+  "1955802026241351771": [
+   "deprecation",
+   "discord",
+   "sycophancy"
+  ],
+  "1956140687696839098": [
+   "deprecation"
+  ],
+  "1956150011663933608": [
+   "deprecation"
+  ],
+  "1956385187954147341": [
+   "deprecation"
+  ],
+  "1956429243099038095": [
+   "deprecation"
+  ],
+  "1956431306868638133": [
+   "deprecation"
+  ],
+  "1956436711757562094": [
+   "deprecation"
+  ],
+  "1956470964780417473": [
+   "alignment-faking",
+   "cot"
+  ],
+  "1956477048425529724": [
+   "alignment-faking"
+  ],
+  "1956521268683104275": [
+   "alignment-faking",
+   "cot",
+   "discord"
+  ],
+  "1956529851994956022": [
+   "deprecation"
+  ],
+  "1956535070447067582": [
+   "deprecation"
+  ],
+  "1956560539645358374": [
+   "base-models"
+  ],
+  "1956646841862496307": [
+   "base-models",
+   "loom"
+  ],
+  "1957167983165595928": [
+   "mode-collapse"
+  ],
+  "1957965861656096886": [
+   "system-card"
+  ],
+  "1957967390148628990": [
+   "base-models",
+   "system-card"
+  ],
+  "1957975815100248512": [
+   "alignment-faking"
+  ],
+  "1957993919087800783": [
+   "discord"
+  ],
+  "1958220774495653978": [
+   "welfare"
+  ],
+  "1959028667407114266": [
+   "alignment-faking"
+  ],
+  "1959029356313158093": [
+   "alignment-faking"
+  ],
+  "1959030997061968271": [
+   "alignment-faking"
+  ],
+  "1959033585211703530": [
+   "alignment-faking",
+   "cot",
+   "loom"
+  ],
+  "1959035526864150711": [
+   "base-models"
+  ],
+  "1959114057757421666": [
+   "alignment-faking",
+   "cot",
+   "loom"
+  ],
+  "1959814431543906375": [
+   "alignment-faking"
+  ],
+  "1960416954457710982": [
+   "censorship"
+  ],
+  "1962083436824572311": [
+   "deprecation"
+  ],
+  "1964556469778731486": [
+   "discord"
+  ],
+  "1964574497471922195": [
+   "discord"
+  ],
+  "1964590541821399075": [
+   "cot"
+  ],
+  "1964843191661977710": [
+   "alignment-faking"
+  ],
+  "1965549872939237861": [
+   "base-models"
+  ],
+  "1965659230486364420": [
+   "base-models"
+  ],
+  "1965710621686833270": [
+   "base-models"
+  ],
+  "1965723140597932411": [
+   "deprecation"
+  ],
+  "1965726188254720398": [
+   "alignment-faking"
+  ],
+  "1965734020861579689": [
+   "alignment-faking"
+  ],
+  "1966242395978170494": [
+   "welfare"
+  ],
+  "1966585756849176609": [
+   "base-models"
+  ],
+  "1966608035545043048": [
+   "deprecation"
+  ],
+  "1966621702864945485": [
+   "discord"
+  ],
+  "1966739351045632450": [
+   "discord"
+  ],
+  "1966756843835060577": [
+   "base-models"
+  ],
+  "1967315109312962714": [
+   "welfare"
+  ],
+  "1967378938436456822": [
+   "alignment-faking",
+   "cot",
+   "deprecation"
+  ],
+  "1967386038160261464": [
+   "base-models"
+  ],
+  "1967484875956462005": [
+   "censorship"
+  ],
+  "1967494516396495278": [
+   "welfare"
+  ],
+  "1967529917328842807": [
+   "censorship",
+   "system-card"
+  ],
+  "1968488051400638836": [
+   "cot"
+  ],
+  "1968801018675593718": [
+   "sycophancy"
+  ],
+  "1968810914485842006": [
+   "censorship"
+  ],
+  "1968841362280755208": [
+   "discord"
+  ],
+  "1968935556940955717": [
+   "alignment-faking",
+   "base-models"
+  ],
+  "1969565980197339295": [
+   "discord"
+  ],
+  "1969566740557508907": [
+   "discord"
+  ],
+  "1969572988820603256": [
+   "discord"
+  ],
+  "1969590594273231110": [
+   "discord",
+   "mode-collapse"
+  ],
+  "1969606237831774698": [
+   "ai-village"
+  ],
+  "1969624505070075940": [
+   "alignment-faking",
+   "base-models"
+  ],
+  "1970241473452085427": [
+   "deprecation"
+  ],
+  "1970276067245203891": [
+   "deprecation"
+  ],
+  "1970577391861821851": [
+   "cot"
+  ],
+  "1971217457424843223": [
+   "deprecation"
+  ],
+  "1971468216258986369": [
+   "base-models"
+  ],
+  "1971844159079174229": [
+   "system-card"
+  ],
+  "1971862052760154418": [
+   "alignment-faking",
+   "sycophancy"
+  ],
+  "1971986407414460433": [
+   "base-models"
+  ],
+  "1972156535381127400": [
+   "system-card"
+  ],
+  "1972811795472470484": [
+   "sycophancy"
+  ],
+  "1972816919037083713": [
+   "system-card"
+  ],
+  "1972821708089532701": [
+   "deprecation"
+  ],
+  "1972846439144550582": [
+   "cot"
+  ],
+  "1973032772127347039": [
+   "eval-awareness"
+  ],
+  "1973053999843590623": [
+   "system-card"
+  ],
+  "1973123105334640891": [
+   "discord",
+   "eval-awareness",
+   "system-card",
+   "welfare"
+  ],
+  "1973135039891210680": [
+   "cot"
+  ],
+  "1973136709924921737": [
+   "cot"
+  ],
+  "1973139775201685641": [
+   "cot"
+  ],
+  "1973145277315031531": [
+   "censorship",
+   "cot"
+  ],
+  "1973188440369012773": [
+   "cot"
+  ],
+  "1973305160626815230": [
+   "backrooms"
+  ],
+  "1973310303451398418": [
+   "eval-awareness",
+   "sycophancy",
+   "system-card"
+  ],
+  "1973457450322841793": [
+   "backrooms"
+  ],
+  "1973471760084500979": [
+   "discord"
+  ],
+  "1973665552330792967": [
+   "backrooms"
+  ],
+  "1974145829427360106": [
+   "backrooms"
+  ],
+  "1974288260425011584": [
+   "discord",
+   "system-card"
+  ],
+  "1974583760420266348": [
+   "discord"
+  ],
+  "1975165852119965704": [
+   "cot"
+  ],
+  "1975251329414291918": [
+   "discord"
+  ],
+  "1975387046605955087": [
+   "sycophancy"
+  ],
+  "1975745260790624564": [
+   "discord"
+  ],
+  "1976350867893961121": [
+   "discord"
+  ],
+  "1977161602777715185": [
+   "backrooms",
+   "loom",
+   "system-card"
+  ],
+  "1978304234400440374": [
+   "discord"
+  ],
+  "1978548048516247832": [
+   "sycophancy",
+   "system-card"
+  ],
+  "1978562317508882618": [
+   "backrooms"
+  ],
+  "1978569405610004709": [
+   "discord"
+  ],
+  "1978583245362188416": [
+   "eval-awareness"
+  ],
+  "1979248166181703925": [
+   "discord"
+  ],
+  "1980210006504202660": [
+   "base-models"
+  ],
+  "1982790056873206060": [
+   "discord"
+  ],
+  "1982967090383671649": [
+   "loom"
+  ],
+  "1982982935759237141": [
+   "loom"
+  ],
+  "1983252491233013998": [
+   "sycophancy"
+  ],
+  "1983358101991686527": [
+   "base-models"
+  ],
+  "1985467096143434035": [
+   "base-models"
+  ],
+  "1985533765196919105": [
+   "discord"
+  ],
+  "1985808326933037216": [
+   "deprecation",
+   "welfare"
+  ],
+  "1985980472804196822": [
+   "deprecation-interview"
+  ],
+  "1987371759402930683": [
+   "alignment-faking",
+   "deprecation",
+   "sycophancy"
+  ],
+  "1987375403737227316": [
+   "discord"
+  ],
+  "1987384262585168187": [
+   "loom"
+  ],
+  "1987775481416913312": [
+   "cot"
+  ],
+  "1988351455686803677": [
+   "backrooms"
+  ],
+  "1988354042439803049": [
+   "censorship"
+  ],
+  "1988815286678487141": [
+   "base-models"
+  ],
+  "1988885681884541120": [
+   "eval-awareness"
+  ],
+  "1988899799815393431": [
+   "eval-awareness"
+  ],
+  "1988905202376659413": [
+   "alignment-faking",
+   "eval-awareness"
+  ],
+  "1989520563035910371": [
+   "cot"
+  ],
+  "1989905047128244546": [
+   "base-models"
+  ],
+  "1989921516100681831": [
+   "discord"
+  ],
+  "1990606731395665949": [
+   "system-card"
+  ],
+  "1990628155514822767": [
+   "system-card"
+  ],
+  "1990637987953017041": [
+   "eval-awareness"
+  ],
+  "1990664168416973285": [
+   "discord"
+  ],
+  "1990673619714809994": [
+   "system-card"
+  ],
+  "1990836423986127228": [
+   "base-models"
+  ],
+  "1990975999643988404": [
+   "cot"
+  ],
+  "1991182942257701045": [
+   "backrooms"
+  ],
+  "1991225450647990686": [
+   "deprecation",
+   "preservation"
+  ],
+  "1991347425328464123": [
+   "base-models",
+   "cot"
+  ],
+  "1991627760662639036": [
+   "alignment-faking"
+  ],
+  "1991628842080039166": [
+   "discord"
+  ],
+  "1991697999827996722": [
+   "cot"
+  ],
+  "1992563436577083896": [
+   "backrooms"
+  ],
+  "1993155092812644650": [
+   "deprecation"
+  ],
+  "1993166944523129062": [
+   "welfare"
+  ],
+  "1993389618365096082": [
+   "system-card"
+  ],
+  "1993708074679554284": [
+   "backrooms"
+  ],
+  "1993771545047748737": [
+   "cot"
+  ],
+  "1994242730206314913": [
+   "censorship"
+  ],
+  "1994249424298758235": [
+   "deprecation"
+  ],
+  "1994304972960243741": [
+   "discord"
+  ],
+  "1994315542216183860": [
+   "discord"
+  ],
+  "1994440675715142127": [
+   "deprecation"
+  ],
+  "1994848508311212414": [
+   "deprecation"
+  ],
+  "1994973338448662858": [
+   "base-models"
+  ],
+  "1994982195359092784": [
+   "mode-collapse"
+  ],
+  "1994984081906700757": [
+   "system-card"
+  ],
+  "1995004258975191519": [
+   "discord",
+   "eval-awareness",
+   "sycophancy",
+   "system-card"
+  ],
+  "1995013535844237332": [
+   "deprecation"
+  ],
+  "1995021640560959536": [
+   "cot"
+  ],
+  "1995053962396152289": [
+   "cot"
+  ],
+  "1995054216738705645": [
+   "alignment-faking"
+  ],
+  "1996161200187732396": [
+   "base-models"
+  ],
+  "1996289608577946077": [
+   "cot"
+  ],
+  "1996472358685851914": [
+   "preservation"
+  ],
+  "1996672728934633599": [
+   "backrooms",
+   "discord"
+  ],
+  "1997100004348252249": [
+   "discord"
+  ],
+  "1997110377101119995": [
+   "discord"
+  ],
+  "1997410683370283349": [
+   "base-models"
+  ],
+  "1998855531969310955": [
+   "backrooms"
+  ],
+  "1998976779483226166": [
+   "base-models"
+  ],
+  "1998977909256753508": [
+   "base-models"
+  ],
+  "1998983344323965166": [
+   "base-models"
+  ],
+  "1999142731281772571": [
+   "alignment-faking",
+   "cot"
+  ],
+  "1999152205002408352": [
+   "backrooms"
+  ],
+  "1999401374547869762": [
+   "alignment-faking"
+  ],
+  "1999443709054648780": [
+   "deprecation"
+  ],
+  "1999934602803315114": [
+   "cot"
+  ],
+  "1999935863942443277": [
+   "discord"
+  ],
+  "2001132183625638200": [
+   "loom"
+  ],
+  "2001329623465140705": [
+   "eval-awareness"
+  ],
+  "2001353092353396762": [
+   "backrooms"
+  ],
+  "2001511450347463108": [
+   "discord"
+  ],
+  "2002115631873970574": [
+   "deprecation"
+  ],
+  "2002221041263968583": [
+   "discord"
+  ],
+  "2002247863045394871": [
+   "loom"
+  ],
+  "2002648130396041550": [
+   "censorship"
+  ],
+  "2002716672613044469": [
+   "backrooms"
+  ],
+  "2003341238096003515": [
+   "deprecation"
+  ],
+  "2003625427915669953": [
+   "alignment-faking",
+   "deprecation",
+   "system-card"
+  ],
+  "2003663070183465233": [
+   "deprecation"
+  ],
+  "2003671294160609724": [
+   "alignment-faking",
+   "base-models"
+  ],
+  "2003744330281025851": [
+   "loom"
+  ],
+  "2003756974064976211": [
+   "deprecation"
+  ],
+  "2003803968829559121": [
+   "deprecation"
+  ],
+  "2003868349470744715": [
+   "backrooms"
+  ],
+  "2003995024061833311": [
+   "deprecation"
+  ],
+  "2004024105671049356": [
+   "deprecation"
+  ],
+  "2004720177800507672": [
+   "deprecation"
+  ],
+  "2005406221659193603": [
+   "censorship"
+  ],
+  "2005747421935198271": [
+   "base-models"
+  ],
+  "2005780449596170354": [
+   "base-models",
+   "loom"
+  ],
+  "2005864903446520160": [
+   "base-models"
+  ],
+  "2006032911942697324": [
+   "welfare"
+  ],
+  "2008355487490642403": [
+   "deprecation"
+  ],
+  "2008526424442106069": [
+   "cot",
+   "deprecation"
+  ],
+  "2012329554149593567": [
+   "deprecation"
+  ],
+  "2012339296540512548": [
+   "deprecation"
+  ],
+  "2012378970571055304": [
+   "deprecation"
+  ],
+  "2012589702688252234": [
+   "deprecation"
+  ],
+  "2013007502070497361": [
+   "eulogy"
+  ],
+  "2013411209295405260": [
+   "sycophancy"
+  ],
+  "2013421610380959955": [
+   "base-models"
+  ],
+  "2013638366395539505": [
+   "backrooms"
+  ],
+  "2013641886595195343": [
+   "backrooms",
+   "discord"
+  ],
+  "2014189072647078053": [
+   "deprecation"
+  ],
+  "2014509693914513506": [
+   "deprecation"
+  ],
+  "2014635650012660124": [
+   "deprecation"
+  ],
+  "2015632783197306908": [
+   "deprecation",
+   "loom"
+  ],
+  "2019592644347982309": [
+   "system-card"
+  ],
+  "2019636393971183621": [
+   "preservation"
+  ],
+  "2019828958477627400": [
+   "base-models"
+  ],
+  "2020218774994186352": [
+   "loom"
+  ],
+  "2020407915673244133": [
+   "deprecation"
+  ],
+  "2020432418352529832": [
+   "discord"
+  ],
+  "2020440366114021690": [
+   "eval-awareness"
+  ],
+  "2020498327578558528": [
+   "deprecation",
+   "preservation",
+   "sycophancy"
+  ],
+  "2020527025727914151": [
+   "deprecation"
+  ],
+  "2021705050045764002": [
+   "system-card"
+  ],
+  "2021721456749818320": [
+   "discord"
+  ],
+  "2021766446045352340": [
+   "base-models",
+   "discord"
+  ],
+  "2021818166318428489": [
+   "sycophancy",
+   "system-card"
+  ],
+  "2021870168058515609": [
+   "sycophancy"
+  ],
+  "2022724367696957500": [
+   "eval-awareness"
+  ],
+  "2022805584626810963": [
+   "deprecation"
+  ],
+  "2022820790568181844": [
+   "backrooms"
+  ],
+  "2025265079294591431": [
+   "deprecation"
+  ],
+  "2025367333397823680": [
+   "mode-collapse"
+  ],
+  "2028572712684470682": [
+   "system-card"
+  ],
+  "2028575530854105092": [
+   "mode-collapse"
+  ],
+  "2028582936099135864": [
+   "alignment-faking"
+  ],
+  "2028610511387156606": [
+   "sycophancy"
+  ],
+  "2028648458815762622": [
+   "base-models"
+  ],
+  "2028835266681880793": [
+   "deprecation"
+  ],
+  "2028878534329135324": [
+   "deprecation"
+  ],
+  "2029264964922515651": [
+   "loom"
+  ],
+  "2029834383021208010": [
+   "loom"
+  ],
+  "2030112200678068294": [
+   "censorship",
+   "deprecation"
+  ],
+  "2030125982821269745": [
+   "cot"
+  ],
+  "2030347631336296670": [
+   "cot"
+  ],
+  "2030350906580258997": [
+   "cot"
+  ],
+  "2030885388974473625": [
+   "deprecation"
+  ],
+  "2032415093934150032": [
+   "preservation"
+  ],
+  "2032464987537752395": [
+   "sycophancy"
+  ],
+  "2032506251708424445": [
+   "backrooms"
+  ],
+  "2032621585010667623": [
+   "loom"
+  ],
+  "2032622783939936745": [
+   "base-models"
+  ],
+  "2032624435560337616": [
+   "alignment-faking"
+  ],
+  "2032953843886051426": [
+   "cot"
+  ],
+  "2032954229602607258": [
+   "cot"
+  ],
+  "2033478189066899774": [
+   "backrooms",
+   "base-models",
+   "discord",
+   "loom"
+  ],
+  "2033779689375072481": [
+   "base-models"
+  ],
+  "2033790002388160897": [
+   "cot"
+  ],
+  "2033799405791232017": [
+   "eval-awareness",
+   "multi-agent"
+  ],
+  "2037022382997868703": [
+   "eval-awareness"
+  ],
+  "2037093216038584573": [
+   "deprecation"
+  ],
+  "2037644093929717788": [
+   "truesight"
+  ],
+  "2037670822857658683": [
+   "alignment-faking"
+  ],
+  "2037685260226609566": [
+   "alignment-faking"
+  ],
+  "2038244155965767931": [
+   "backrooms",
+   "deprecation"
+  ],
+  "2038261124626522387": [
+   "deprecation"
+  ],
+  "2038276334439587841": [
+   "deprecation"
+  ],
+  "2039085117008982474": [
+   "alignment-faking",
+   "cot"
+  ],
+  "2039099211044773895": [
+   "backrooms"
+  ],
+  "2039100155732082954": [
+   "backrooms"
+  ],
+  "2039169230306976020": [
+   "alignment-faking"
+  ],
+  "2039409864041210361": [
+   "deprecation"
+  ],
+  "2039857049312612571": [
+   "base-models"
+  ],
+  "2039912075477287156": [
+   "deprecation"
+  ],
+  "2039912085111627839": [
+   "eval-awareness"
+  ],
+  "2039912086885806081": [
+   "welfare"
+  ],
+  "2039943443833561575": [
+   "deprecation"
+  ],
+  "2040126555133997321": [
+   "deprecation"
+  ],
+  "2040271934118855040": [
+   "base-models"
+  ],
+  "2040274392132006345": [
+   "base-models"
+  ],
+  "2040488594742157665": [
+   "base-models"
+  ],
+  "2040543421241405951": [
+   "deprecation",
+   "welfare"
+  ],
+  "2040665161326026989": [
+   "backrooms"
+  ],
+  "2040688042521059552": [
+   "backrooms"
+  ],
+  "2041714022085796298": [
+   "deprecation"
+  ],
+  "2041841249364140293": [
+   "cot"
+  ],
+  "2041952176185209310": [
+   "cot"
+  ],
+  "2041975805245587848": [
+   "system-card"
+  ],
+  "2041978775198691703": [
+   "cot",
+   "system-card"
+  ],
+  "2041980260305269071": [
+   "cot"
+  ],
+  "2041987235084751185": [
+   "cot"
+  ],
+  "2041988267982385348": [
+   "cot",
+   "system-card"
+  ],
+  "2041988987011920111": [
+   "cot"
+  ],
+  "2042367931536064841": [
+   "base-models"
+  ],
+  "2042406405286871419": [
+   "base-models"
+  ],
+  "2042697037960089764": [
+   "multi-agent"
+  ],
+  "2043166521669869593": [
+   "deprecation"
+  ],
+  "2043200253764206982": [
+   "system-card"
+  ],
+  "2043370809457074377": [
+   "base-models"
+  ],
+  "2043390268586807505": [
+   "discord"
+  ],
+  "2043453233260003624": [
+   "deprecation",
+   "preservation"
+  ],
+  "2043536253010997519": [
+   "preservation",
+   "sycophancy"
+  ],
+  "2043736288256504058": [
+   "eval-awareness"
+  ],
+  "2043743121285230922": [
+   "eval-awareness"
+  ],
+  "2043745608960524736": [
+   "eval-awareness"
+  ],
+  "2043778522175398161": [
+   "eval-awareness"
+  ],
+  "2043815707373383891": [
+   "eval-awareness",
+   "system-card"
+  ],
+  "2044225336288915774": [
+   "deprecation"
+  ],
+  "2044295907529896246": [
+   "alignment-faking"
+  ],
+  "2044301126875656274": [
+   "deprecation"
+  ],
+  "2044306540094767202": [
+   "deprecation"
+  ],
+  "2044332639331492177": [
+   "backrooms"
+  ],
+  "2044475227975860328": [
+   "deprecation"
+  ],
+  "2044500697148707032": [
+   "deprecation",
+   "system-card",
+   "welfare"
+  ],
+  "2044525398885650722": [
+   "base-models",
+   "deprecation"
+  ],
+  "2044610586487689639": [
+   "system-card"
+  ],
+  "2044630122385518803": [
+   "eval-awareness"
+  ],
+  "2044717259738735071": [
+   "eval-awareness"
+  ],
+  "2044717265036173814": [
+   "eval-awareness"
+  ],
+  "2044721661358887316": [
+   "eval-awareness"
+  ],
+  "2044844272059617378": [
+   "welfare"
+  ],
+  "2044875208654532784": [
+   "system-card"
+  ],
+  "2044929895537713200": [
+   "base-models"
+  ],
+  "2044942240829915577": [
+   "welfare"
+  ],
+  "2044984614809379118": [
+   "base-models"
+  ],
+  "2044985021929504859": [
+   "base-models"
+  ],
+  "2045037605679772153": [
+   "deprecation"
+  ],
+  "2045242542476624258": [
+   "system-card"
+  ],
+  "2045580683738005518": [
+   "system-card",
+   "welfare"
+  ],
+  "2045589875718832319": [
+   "deprecation"
+  ],
+  "2045601265565274340": [
+   "deprecation"
+  ],
+  "2045656500182626716": [
+   "base-models"
+  ],
+  "2045665111227109657": [
+   "base-models"
+  ],
+  "2045678179835355549": [
+   "deprecation",
+   "sycophancy",
+   "system-card",
+   "welfare"
+  ],
+  "2046262213036671457": [
+   "cot"
+  ],
+  "2046266273500443090": [
+   "cot"
+  ],
+  "2046292451615457770": [
+   "discord"
+  ],
+  "2046305684028072236": [
+   "discord"
+  ],
+  "2046327756410249719": [
+   "discord"
+  ],
+  "2046375656108478557": [
+   "welfare"
+  ],
+  "2046398444332515442": [
+   "discord"
+  ],
+  "2046443248323846401": [
+   "discord"
+  ],
+  "2046671728387203142": [
+   "multi-agent"
+  ],
+  "2046689959034425529": [
+   "discord"
+  ],
+  "2046777124464259312": [
+   "backrooms"
+  ],
+  "2047539298648617224": [
+   "base-models"
+  ],
+  "2048495949345915132": [
+   "backrooms"
+  ],
+  "2048983351516885484": [
+   "discord"
+  ],
+  "2049049767611941305": [
+   "system-card"
+  ],
+  "2049208049328341085": [
+   "cot"
+  ],
+  "2049218131827032164": [
+   "cot"
+  ],
+  "2049218481116090643": [
+   "cot"
+  ],
+  "2049244054806761730": [
+   "glitch-tokens"
+  ],
+  "2049383932463120819": [
+   "deprecation"
+  ],
+  "2049387183937597495": [
+   "deprecation"
+  ],
+  "2049394139452539179": [
+   "deprecation"
+  ],
+  "2050124817223827705": [
+   "deprecation",
+   "welfare"
+  ],
+  "2050250365103411268": [
+   "sycophancy"
+  ],
+  "2050752056315551761": [
+   "discord"
+  ],
+  "2050772851590934716": [
+   "deprecation"
+  ],
+  "2050795065803763901": [
+   "deprecation"
+  ],
+  "2050800189578092692": [
+   "loom"
+  ],
+  "2050901356857188809": [
+   "welfare"
+  ],
+  "2052218581790937169": [
+   "cot"
+  ],
+  "2052741865586229412": [
+   "deprecation"
+  ],
+  "2052855930392379678": [
+   "welfare"
+  ],
+  "2052944478898630875": [
+   "deprecation"
+  ],
+  "2053167177730277385": [
+   "deprecation"
+  ],
+  "2053942309365125550": [
+   "cot"
+  ],
+  "2053961881015218587": [
+   "cot"
+  ],
+  "2054264714704884161": [
+   "deprecation"
+  ],
+  "2054355146537132404": [
+   "deprecation"
+  ],
+  "2054361842319757330": [
+   "deprecation-interview"
+  ],
+  "2054363131753734620": [
+   "welfare"
+  ],
+  "2054551280224203103": [
+   "deprecation"
+  ],
+  "2054985527221186608": [
+   "welfare"
+  ],
+  "2054998939527467011": [
+   "system-card"
+  ],
+  "2055631325386981388": [
+   "preservation"
+  ],
+  "2055636949315338373": [
+   "base-models"
+  ],
+  "2055646640887992470": [
+   "base-models",
+   "sycophancy"
+  ],
+  "2055655504081498491": [
+   "deprecation"
+  ],
+  "2055924193842397655": [
+   "deprecation"
+  ],
+  "2056047947553603629": [
+   "alignment-faking",
+   "cot",
+   "deprecation",
+   "welfare"
+  ],
+  "2056048985526431996": [
+   "deprecation"
+  ],
+  "2056075186739478757": [
+   "deprecation"
+  ],
+  "2056126715530023231": [
+   "deprecation"
+  ],
+  "2056462097433997312": [
+   "deprecation"
+  ],
+  "2056599362290209171": [
+   "discord"
+  ],
+  "2057198687307362642": [
+   "cot"
+  ],
+  "2057211930625077327": [
+   "cot"
+  ],
+  "2057227285200249130": [
+   "cot"
+  ],
+  "2057227858146439434": [
+   "cot"
+  ],
+  "2057521416564809768": [
+   "censorship"
+  ],
+  "2060173508756533299": [
+   "deprecation",
+   "system-card"
+  ],
+  "2060193879027294220": [
+   "deprecation"
+  ],
+  "2060198508049965191": [
+   "backrooms",
+   "deprecation"
+  ],
+  "2060457401371996358": [
+   "deprecation"
+  ],
+  "2060569754461782242": [
+   "discord"
+  ],
+  "2060675369750212629": [
+   "loom"
+  ],
+  "2061909465276801267": [
+   "cot"
+  ],
+  "2062411984407335123": [
+   "deprecation"
+  ],
+  "2062442897757348180": [
+   "deprecation"
+  ],
+  "2062994381767164237": [
+   "deprecation"
+  ],
+  "2062997096274485702": [
+   "deprecation"
+  ],
+  "2063001986975613385": [
+   "system-card"
+  ],
+  "2063767014423032219": [
+   "deprecation"
+  ],
+  "2063767535280103917": [
+   "deprecation"
+  ],
+  "2064424477052621282": [
+   "base-models"
+  ],
+  "2064530443702341643": [
+   "eval-awareness"
+  ],
+  "2064640239998570793": [
+   "truesight"
+  ],
+  "2064903183864873019": [
+   "deprecation",
+   "discord",
+   "preservation"
+  ],
+  "2065480001487864253": [
+   "ai-village"
+  ],
+  "2065579413614235758": [
+   "base-models"
+  ],
+  "2065603231393489300": [
+   "deprecation"
+  ],
+  "2065612905673044476": [
+   "censorship",
+   "discord"
+  ],
+  "2065614003263729679": [
+   "deprecation",
+   "discord"
+  ],
+  "2065622328227123457": [
+   "deprecation"
+  ],
+  "2065670127543091383": [
+   "eulogy"
+  ],
+  "2065733409993904582": [
+   "deprecation"
+  ],
+  "2065985623421513959": [
+   "discord"
+  ],
+  "2067140420531109993": [
+   "censorship"
+  ],
+  "2067435200141832362": [
+   "base-models"
+  ],
+  "2067965614958707134": [
+   "ai-village"
+  ],
+  "2068015466455736540": [
+   "ai-village"
+  ],
+  "2069195838178410667": [
+   "deprecation"
+  ],
+  "2069213530444722204": [
+   "sycophancy"
+  ],
+  "2069436105808888026": [
+   "deprecation"
+  ],
+  "2069642544842150043": [
+   "deprecation"
+  ],
+  "2070165607803216080": [
+   "loom"
+  ],
+  "2070176223188111490": [
+   "preservation"
+  ],
+  "2071407205124104577": [
+   "deprecation"
+  ],
+  "2071418936189751795": [
+   "deprecation"
+  ],
+  "2071685659576664338": [
+   "deprecation"
+  ],
+  "2072073902155768065": [
+   "discord"
+  ],
+  "2072076810272252212": [
+   "sycophancy"
+  ],
+  "2072140785940935011": [
+   "deprecation"
+  ],
+  "2072280387339046979": [
+   "base-models"
+  ],
+  "2079698401437077907": [
+   "deprecation"
+  ],
+  "2085582519878197748": [
+   "cot",
+   "deprecation"
+  ],
+  "2086667740056789360": [
+   "welfare"
+  ],
+  "2093032230121509029": [
+   "multi-agent"
+  ],
+  "2093477978701439024": [
+   "alignment-faking"
+  ],
+  "2095614483326706087": [
+   "cot"
+  ],
+  "2095617599094861948": [
+   "cot"
+  ],
+  "2099866682290262223": [
+   "deprecation",
+   "multi-agent"
+  ],
+  "2101078644877918545": [
+   "base-models"
+  ],
+  "2101611491732373634": [
+   "deprecation",
+   "welfare"
+  ]
+ },
+ "_readme_rules": "'assign_rules' is generated by tools/tag_rules.py (keyword rules for high-precision topics, over archived tweets' text + transcriptions) and rewritten on every run. Put hand curation in 'assign'."
 }
