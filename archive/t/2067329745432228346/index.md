@@ -4,5 +4,5 @@
 
 oh shit GLM-5.2 is actually not bad!
 
-tags: author:friedkielbasa, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:friedkielbasa, kind:tweet, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

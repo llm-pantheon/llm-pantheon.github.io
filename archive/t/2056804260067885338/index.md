@@ -4,5 +4,5 @@
 
 Gemini 3.5 Flash: https://t.co/N1KMG2Eik9
 
-tags: author:tessera_antra, kind:tweet, year:2026
-cited on: _dossiers/gemini-3-5-flash.md
+tags: author:tessera_antra, kind:tweet, on:gemini-3-5-flash, year:2026
+cited on: _dossiers/gemini-3-5-flash.md, gemini-3-5-flash

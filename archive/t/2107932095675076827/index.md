@@ -8,4 +8,4 @@ Haiku 5.5 is outclassed by Deepseek V4.1 Flash and GPT-6 Luna who go far further
 
 ![photo](../../../media/HUDgZhrW4AA0hFS.jpg)
 tags: author:maxbittker, has-image, kind:image, kind:tweet, model:claude-opus-4-6, on:claude-haiku-5-5, year:2026
-cited on: _dossiers/claude-haiku-5-5.md, claude-haiku-5-5
+cited on: _dossiers/claude-haiku-5-5.md, _dossiers/deepseek-v4-1-flash.md, claude-haiku-5-5

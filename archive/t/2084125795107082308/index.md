@@ -8,5 +8,5 @@ i think the agentic and coding performance will be almost as good as dsv4-flash-
 
 it'll probably lag on knowledge-laden benches like HLE tho.
 
-tags: author:jmbollenbacher, kind:tweet, model:fable, year:2026
-cited on: _dossiers/qwen-3-8-27b.md
+tags: author:jmbollenbacher, kind:tweet, model:fable, on:qwen-3-8-27b, year:2026
+cited on: _dossiers/qwen-3-8-27b.md, qwen-3-8-27b

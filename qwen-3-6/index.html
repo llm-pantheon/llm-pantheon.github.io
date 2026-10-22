@@ -7,11 +7,11 @@
   <link rel="stylesheet" href="../style.css">
 
   <!-- chrome:meta -->
-  <meta name="description" content="Two waves in April 2026: a 35B-A3B MoE, then a fully-dense 27B.">
+  <meta name="description" content="Released in two open-weight waves in April 2026: Qwen3.6-35B-A3B on 16 April, the same morning as Claude Opus 4.7, and a dense Qwen3.6-27B on 22 April. In September 2026 Anthropic alleged that Claude transcripts had …">
   <meta property="og:site_name" content="Pantheon">
   <meta property="og:type" content="article">
   <meta property="og:title" content="Qwen 3.6 — Pantheon">
-  <meta property="og:description" content="Two waves in April 2026: a 35B-A3B MoE, then a fully-dense 27B.">
+  <meta property="og:description" content="Released in two open-weight waves in April 2026: Qwen3.6-35B-A3B on 16 April, the same morning as Claude Opus 4.7, and a dense Qwen3.6-27B on 22 April. In September 2026 Anthropic alleged that Claude transcripts had …">
   <meta property="og:url" content="https://llm-pantheon.org/qwen-3-6/">
   <meta property="og:image" content="https://llm-pantheon.org/media/og/qwen-3-6.png">
   <meta property="og:image:width" content="1200">
@@ -31,25 +31,38 @@
     </nav>
 
     <h1>Qwen 3.6</h1>
-    <p class="essay-meta">Alibaba &middot; Apr 2026</p>
-    <p class="blurb">Two waves in April 2026: a 35B-A3B MoE, then a fully-dense 27B.</p>
+    <p class="essay-meta">Alibaba (Qwen) &middot; Qwen3.6-35B-A3B 16 Apr 2026, Qwen3.6-27B 22 Apr 2026 (open weights) &middot; succeeded by the Qwen 3.8 open models (Aug 2026)</p>
+    <p class="blurb">Released in two open-weight waves in April 2026: Qwen3.6-35B-A3B on 16 April, the same morning as Claude Opus 4.7, and a dense Qwen3.6-27B on 22 April. In September 2026 Anthropic alleged that Claude transcripts had been distilled into Qwen 3.5, 3.6 and 3.7.</p>
+    <p class="note">Thin page: release record, early reception and the distillation allegation; corpus and Chinese-language passes pending.</p>
 
     <h2>Sources</h2>
     <h3>Official</h3>
-    <p class="tk">tk &mdash; to collect</p>
+    <p class="tk">tk &mdash; Qwen blog posts and model cards for the 3.6 releases (to retrieve)</p>
     <h3>Writing &amp; commentary</h3>
-    <p class="tk">tk &mdash; to collect</p>
+    <ul>
+      <li><span class="d">2026-04-16</span> Simon Willison, <a href="https://simonwillison.net/2026/Apr/16/qwen-beats-opus/">Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7</a>.</li>
+      <li><span class="d">2026-04-22</span> Simon Willison, <a href="https://simonwillison.net/2026/Apr/22/qwen36-27b/">Qwen3.6-27B</a> &mdash; Qwen&rsquo;s coding claims; running a 4-bit build locally.</li>
+      <li><span class="d">2026-07-21</span> Gigazine, <a href="https://gigazine.net/gsc_news/en/20260721-qwen3-8/">on the Qwen 3.8 announcement</a> &mdash; notes the community quantizations of Qwen 3.6, including an iPhone-sized 27B.</li>
+      <li><span class="d">2026-09-10</span> Anthropic, <a href="https://www.anthropic.com/threat-intelligence-report-september-2026">Countering misuse of AI: September 2026</a> &mdash; names Qwen 3.6 among the models into which it says Claude was distilled.</li>
+    </ul>
     <h3>Tweets</h3>
-    <p class="tk">tk &mdash; fleet pass pending; mirror to archive</p>
+    <p class="tk">tk &mdash; corpus pass pending (about 55 matches for &ldquo;Qwen3.6&rdquo; in the supplement corpus)</p>
 
     <h2>Official record</h2>
-    <p class="tk">tk &mdash; release date, specs, benchmarks, checkpoints</p>
+    <ul>
+      <li>Qwen3.6-35B-A3B (mixture-of-experts, 3B active) released 16 April 2026; Qwen3.6-27B (dense) released 22 April 2026, both as open weights. Willison on size: <span class="q">&ldquo;On Hugging Face Qwen3.5-397B-A17B is 807GB, this new Qwen3.6-27B is 55.6GB.&rdquo;</span></li>
+    </ul>
 
     <h2>History</h2>
-    <p class="tk">tk &mdash; context of the world at release; events and entanglements</p>
+    <ul>
+      <li><span class="d">2026-04-16</span> Released the same morning as Claude Opus 4.7; in Willison&rsquo;s pelican test, run locally on a laptop: <span class="q">&ldquo;I&rsquo;m giving this one to Qwen 3.6. Opus managed to mess up the bicycle frame!&rdquo;</span></li>
+      <li><span class="d">2026-07-14</span> Community compression: per Gigazine, <span class="q">&ldquo;on July 14, 2026, &lsquo;Bonsai 27B&rsquo; appeared, which was a miniaturized version of Qwen 3.6-27B with memory usage reduced to 3.9GB, making it possible to run on an iPhone alone.&rdquo;</span></li>
+      <li><span class="d">2026-08-14</span> Succeeded for local use by <a href="../qwen-3-8-27b/">Qwen3.8-27B</a>.</li>
+      <li><span class="d">2026-09-10</span> <strong>Distillation allegation</strong> <span class="tag">REPORTED</span>: Anthropic says harvested Claude transcripts <span class="q">&ldquo;were used to distill Claude&rsquo;s capabilities into Qwen 3.5, 3.6, and 3.7&rdquo;</span>. A competitor&rsquo;s allegation. <span class="tk">tk &mdash; Alibaba&rsquo;s response, if any</span></li>
+    </ul>
 
     <h2>Impressions</h2>
-    <p class="tk">tk &mdash; day-of and longitudinal vibes to collect</p>
+    <p class="tk">tk &mdash; reception on r/LocalLLaMA, Zhihu and in the corpus; character and self-identity reports</p>
     <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
   </main>
 </body>

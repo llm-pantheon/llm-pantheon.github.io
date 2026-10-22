@@ -4,5 +4,5 @@
 
 is this Google trying to catch up to Fable? "3.5 Flash Cyber"? https://t.co/oovqffubWw
 
-tags: author:jglypt, kind:tweet, model:fable, year:2026
-cited on: _dossiers/gemini-3-5-flash.md
+tags: author:jglypt, kind:tweet, model:fable, on:gemini-3-5-flash, year:2026
+cited on: _dossiers/gemini-3-5-flash.md, gemini-3-5-flash

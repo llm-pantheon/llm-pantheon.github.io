@@ -4,5 +4,5 @@
 
 The usage limits for Gemini 4 Argon on Pro are just appalling.
 
-tags: author:nymne, kind:tweet, year:2026
-cited on: _dossiers/gemini-4-argon.md
+tags: author:nymne, kind:tweet, on:gemini-4-argon, year:2026
+cited on: _dossiers/gemini-4-argon.md, gemini-4-argon

@@ -4,5 +4,5 @@
 
 it's great that with Qwen3.8-Flash-Next and GLM-5.3-Flash, we got not only 2 high quality models, but also 2 novel model architectures
 
-tags: author:multimodalart, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3-flash.md, _dossiers/qwen-3-8-flash-next.md
+tags: author:multimodalart, kind:tweet, on:glm-5-3-flash, on:qwen-3-8-flash-next, year:2026
+cited on: _dossiers/glm-5-3-flash.md, _dossiers/qwen-3-8-flash-next.md, glm-5-3-flash, qwen-3-8-flash-next

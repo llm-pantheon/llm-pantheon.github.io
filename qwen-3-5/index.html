@@ -7,11 +7,11 @@
   <link rel="stylesheet" href="../style.css">
 
   <!-- chrome:meta -->
-  <meta name="description" content="The 2026 open-frontier push: 397B-A17B MoE first, then a cascade of smaller sizes within weeks.">
+  <meta name="description" content="First released on 16 February 2026 with the open-weight Qwen3.5-397B-A17B and a proprietary sibling, followed by smaller sizes into March. On 4 March Qwen’s technical lead, Lin Junyang, announced he was stepping down. …">
   <meta property="og:site_name" content="Pantheon">
   <meta property="og:type" content="article">
   <meta property="og:title" content="Qwen 3.5 — Pantheon">
-  <meta property="og:description" content="The 2026 open-frontier push: 397B-A17B MoE first, then a cascade of smaller sizes within weeks.">
+  <meta property="og:description" content="First released on 16 February 2026 with the open-weight Qwen3.5-397B-A17B and a proprietary sibling, followed by smaller sizes into March. On 4 March Qwen’s technical lead, Lin Junyang, announced he was stepping down. …">
   <meta property="og:url" content="https://llm-pantheon.org/qwen-3-5/">
   <meta property="og:image" content="https://llm-pantheon.org/media/og/qwen-3-5.png">
   <meta property="og:image:width" content="1200">
@@ -31,28 +31,39 @@
     </nav>
 
     <h1>Qwen 3.5</h1>
-    <p class="essay-meta">Alibaba &middot; Feb 2026</p>
-    <p class="blurb">The 2026 open-frontier push: 397B-A17B MoE first, then a cascade of smaller sizes within weeks.</p>
+    <p class="essay-meta">Alibaba (Qwen) &middot; first release 16 Feb 2026 &middot; open-weight family, succeeded by <a href="../qwen-3-6/">Qwen 3.6</a> (Apr 2026)</p>
+    <p class="blurb">First released on 16 February 2026 with the open-weight Qwen3.5-397B-A17B and a proprietary sibling, followed by smaller sizes into March. On 4 March Qwen&rsquo;s technical lead, Lin Junyang, announced he was stepping down. In September 2026 Anthropic alleged that Claude transcripts had been distilled into Qwen 3.5, 3.6 and 3.7.</p>
+    <p class="note">Thin page: release record, the leadership change, and the distillation allegation. Reception, corpus tweets and Chinese-language discussion are still to be collected.</p>
 
     <h2>Sources</h2>
     <h3>Official</h3>
-    <p class="tk">tk &mdash; to collect</p>
+    <p class="tk">tk &mdash; Qwen blog post and model cards for the 3.5 series (to retrieve)</p>
     <h3>Writing &amp; commentary</h3>
-    <p class="tk">tk &mdash; to collect</p>
+    <ul>
+      <li><span class="d">2026-02-17</span> Simon Willison, <a href="https://simonwillison.net/2026/Feb/17/qwen35/">Qwen3.5: Towards Native Multimodal Agents</a> &mdash; the first two releases, quoting Qwen on the architecture.</li>
+      <li><span class="d">2026-03-04</span> 36氪 (36Kr), <a href="https://www.36kr.com/p/3708425301749891">千问模型负责人林俊旸提出离职，阿里高管紧急答疑</a> (Chinese) &mdash; the all-hands meeting after Lin Junyang&rsquo;s resignation.</li>
+      <li><span class="d">2026-03</span> 界面新闻 (Jiemian), <a href="https://www.jiemian.com/article/14082516.html">report on Lin Junyang&rsquo;s farewell</a> (Chinese) &mdash; his last day and the other departures.</li>
+      <li><span class="d">2026-09-10</span> Anthropic, <a href="https://www.anthropic.com/threat-intelligence-report-september-2026">Countering misuse of AI: September 2026</a> &mdash; names Qwen 3.5 among the models into which it says Claude was distilled.</li>
+    </ul>
     <h3>Tweets</h3>
-    <p class="tk">tk &mdash; fleet pass pending; mirror to archive</p>
+    <p class="tk">tk &mdash; corpus pass pending (about 30 matches for &ldquo;Qwen3.5&rdquo; in the supplement corpus)</p>
 
     <h2>Official record</h2>
     <ul>
-      <li>First release 16 Feb 2026 (397B-A17B); 122B-A10B / 35B-A3B / 27B on 24 Feb; small sizes 2 Mar.</li>
-      <li><span class="tk">tk &mdash; fill from primary sources</span></li>
+      <li>First release 16 Feb 2026 (397B-A17B); 122B-A10B / 35B-A3B / 27B on 24 Feb; small sizes 2 Mar. <span class="tk">tk &mdash; verify the 24 Feb and 2 Mar dates against primaries</span></li>
+      <li>Qwen on the architecture, as quoted by Willison: <span class="q">&ldquo;Built on an innovative hybrid architecture that fuses linear attention (via Gated Delta Networks) with a sparse mixture-of-experts, the model attains remarkable inference efficiency: although it comprises 397 billion total parameters, just 17 billion are activated per forward pass, optimizing both speed and cost without sacrificing capability.&rdquo;</span> The later Qwen 3.8 models are described by Qwen as <span class="q">&ldquo;Built on the architectural foundation of Qwen3.5&rdquo;</span>.</li>
     </ul>
 
     <h2>History</h2>
-    <p class="tk">tk &mdash; context of the world at release; events and entanglements</p>
+    <ul>
+      <li><span class="d">2026-03-04</span> <strong>Leadership change:</strong> Lin Junyang, Qwen&rsquo;s technical lead, announced on X: <span class="q">&ldquo;me stepping down. bye my beloved qwen.&rdquo;</span> (as quoted by Jiemian). Qwen&rsquo;s post-training lead and a core Qwen 3.5 contributor announced departures the same day (Jiemian). At an emergency all-hands, Alibaba Group CEO Eddie Wu told staff: <span class="q">&ldquo;我应该要更早知道这些。&rdquo;</span> [translation: &ldquo;I should have known about these things earlier.&rdquo;] (36Kr). Lin&rsquo;s farewell post on his last day, 7 March: <span class="q">&ldquo;不是这几天，我都不知道这世界这么多人爱我。&rdquo;</span> [translation: &ldquo;If not for these past few days, I would never have known that so many people in this world love me.&rdquo;] (Jiemian).</li>
+      <li><span class="d">2026-04</span> Succeeded by <a href="../qwen-3-6/">Qwen 3.6</a>.</li>
+      <li><span class="d">2026-09-10</span> <strong>Distillation allegation</strong> <span class="tag">REPORTED</span>: Anthropic&rsquo;s threat report says Alibaba-affiliated operators ran <span class="q">&ldquo;the largest distillation attack we have ever measured&rdquo;</span>, whose transcripts <span class="q">&ldquo;were used to distill Claude&rsquo;s capabilities into Qwen 3.5, 3.6, and 3.7&rdquo;</span>; it dates its detection of such campaigns from February 2026. A competitor&rsquo;s allegation. <span class="tk">tk &mdash; Alibaba&rsquo;s response, if any</span></li>
+    </ul>
 
     <h2>Impressions</h2>
-    <p class="tk">tk &mdash; day-of and longitudinal vibes to collect</p>
+    <p class="tk">tk &mdash; day-of and longitudinal reception (r/LocalLLaMA, Zhihu, corpus) &mdash; to collect</p>
+
     <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
   </main>
 </body>

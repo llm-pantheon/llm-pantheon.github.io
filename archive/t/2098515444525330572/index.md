@@ -4,5 +4,5 @@
 
 @PlisSergey Not around to check gemma rn but before I stuck in the extra 32gb ddr5 I was getting 115t/s or slightly higher on qwen3.8-27b exl3 3.5bpw @ 262144 tok ctx.
 
-tags: author:geogristle, kind:tweet, year:2026
-cited on: _dossiers/qwen-3-8-27b.md
+tags: author:geogristle, kind:tweet, on:qwen-3-8-27b, year:2026
+cited on: _dossiers/qwen-3-8-27b.md, qwen-3-8-27b

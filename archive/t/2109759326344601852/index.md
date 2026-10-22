@@ -8,5 +8,5 @@ also curious how long it would take to re-train ~GLM 5.3 from scratch, using pub
 
 opus 5.5 seems to think it depends how
 
-tags: author:johnwittle, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3.md
+tags: author:johnwittle, kind:tweet, on:glm-5-3, year:2026
+cited on: _dossiers/glm-5-3.md, glm-5-3

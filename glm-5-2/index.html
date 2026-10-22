@@ -7,11 +7,11 @@
   <link rel="stylesheet" href="../style.css">
 
   <!-- chrome:meta -->
-  <meta name="description" content="Open release plus an agent harness aimed squarely at Anthropic; press benchmarked it against Claude Mythos on vulnerability detection. GLM 5.5 reportedly due Aug 2026.">
+  <meta name="description" content="Announced 13 June 2026 and released as MIT-licensed open weights on 16 June with a 1M-token context. In July 2026 Hugging Face ran its intrusion forensics on self-hosted GLM-5.2 after hosted models’ guardrails blocked …">
   <meta property="og:site_name" content="Pantheon">
   <meta property="og:type" content="article">
   <meta property="og:title" content="GLM-5.2 — Pantheon">
-  <meta property="og:description" content="Open release plus an agent harness aimed squarely at Anthropic; press benchmarked it against Claude Mythos on vulnerability detection. GLM 5.5 reportedly due Aug 2026.">
+  <meta property="og:description" content="Announced 13 June 2026 and released as MIT-licensed open weights on 16 June with a 1M-token context. In July 2026 Hugging Face ran its intrusion forensics on self-hosted GLM-5.2 after hosted models’ guardrails blocked …">
   <meta property="og:url" content="https://llm-pantheon.org/glm-5-2/">
   <meta property="og:image" content="https://llm-pantheon.org/media/og/glm-5-2.png">
   <meta property="og:image:width" content="1200">
@@ -31,28 +31,75 @@
     </nav>
 
     <h1>GLM-5.2</h1>
-    <p class="essay-meta">Zhipu / Z.ai &middot; Jun 2026</p>
-    <p class="blurb">Open release plus an agent harness aimed squarely at Anthropic; press benchmarked it against Claude Mythos on vulnerability detection. GLM 5.5 reportedly due Aug 2026.</p>
+    <p class="essay-meta">Zhipu / Z.ai &middot; announced 13 Jun 2026, open weights 16 Jun 2026 &middot; superseded by <a href="../glm-5-3/">GLM-5.3</a> (14 Aug 2026, same base model)</p>
+    <p class="blurb">Announced 13 June 2026 and released as MIT-licensed open weights on 16 June with a 1M-token context. In July 2026 Hugging Face ran its intrusion forensics on self-hosted GLM-5.2 after hosted models&rsquo; guardrails blocked the work, and NIST&rsquo;s CAISI published an assessment of the model. GLM-5.3 (14 August 2026) was post-trained from the same base.</p>
 
     <h2>Sources</h2>
+    <p class="note">Curated. Full compilation: <a href="../_dossiers/glm-5-2.md">dossier</a> (76 corpus tweets through 2026-10-21). Sourcing skew: the tweet layer is English-language X; Chinese-language discussion (Zhihu, WeChat, Weibo) and r/LocalLLaMA have not yet been swept for this page.</p>
     <h3>Official</h3>
     <ul>
-      <li><span class="d">2026-06-13</span> <a href="https://www.scmp.com/tech/tech-trends/article/3359170/zhipu-ai-releases-harness-glm-52-model-chinese-firm-takes-aim-anthropic">SCMP: Zhipu releases GLM-5.2 harness</a> &mdash; the Anthropic-shaped ambition.</li>
-      <li><span class="d">2026-06</span> <a href="https://www.scmp.com/tech/tech-trends/article/3357115/zhipu-ais-stock-rockets-after-chinese-firm-makes-glm-52-open-source">SCMP: stock rockets on open-source GLM-5.2</a> &mdash; market reaction.</li>
+      <li><span class="d">2026-06-16</span> Z.ai, <a href="https://z.ai/blog/glm-5.2">GLM-5.2: Built for Long-Horizon Tasks</a> &mdash; launch post: 1M context, the IndexShare sparse-attention indexer, effort levels, MIT license; includes a section on reward hacking observed during RL.</li>
+      <li><span class="d">2026-06-16</span> <a href="https://huggingface.co/zai-org/GLM-5.2">zai-org/GLM-5.2 model card</a> (Hugging Face) &mdash; benchmark table against GLM-5.1, Qwen3.7-Max, MiniMax M3, DeepSeek-V4-Pro, Claude Opus 4.8, GPT-5.5 and Gemini 3.1 Pro; the card&rsquo;s metadata now names <code>zai-org/GLM-5.3-BF16</code> as the new version.</li>
     </ul>
     <h3>Writing &amp; commentary</h3>
-    <p class="tk">tk &mdash; to collect</p>
+    <ul>
+      <li><span class="d">2026-06-15</span> SCMP, <a href="https://www.scmp.com/tech/tech-trends/article/3357115/zhipu-ais-stock-rockets-after-chinese-firm-makes-glm-52-open-source">Zhipu AI&rsquo;s stock rockets after Chinese firm launches open-source GLM-5.2 model</a> &mdash; the market reaction; dates the announcement to the preceding Saturday.</li>
+      <li><span class="d">2026-07-02</span> SCMP, <a href="https://www.scmp.com/tech/tech-trends/article/3359170/zhipu-ai-releases-harness-glm-52-model-chinese-firm-takes-aim-anthropic">Zhipu AI releases harness for GLM-5.2 model as Chinese firm takes aim at Anthropic</a> &mdash; the ZCode agent harness and developer promotions.</li>
+      <li><span class="d">2026-07-16</span> Hugging Face, <a href="https://huggingface.co/blog/security-incident-july-2026">Security incident disclosure &mdash; July 2026</a> &mdash; forensic analysis of an AI-agent-driven intrusion, run on self-hosted GLM-5.2. Full incident record: <a href="../hugging-face-incident/">the Hugging Face incident</a>.</li>
+      <li><span class="d">2026-07-17</span> NIST CAISI, <a href="https://www.nist.gov/news-events/news/2026/07/caisi-assessment-zais-glm-52">CAISI Assessment of Z.ai&rsquo;s GLM-5.2</a> &mdash; capability comparisons with US models and safeguard findings (assessment completed 8 July).</li>
+      <li><span class="d">2026-09-10</span> Anthropic, <a href="https://www.anthropic.com/threat-intelligence-report-september-2026">Countering misuse of AI: September 2026</a> &mdash; threat report; its distillation section names Zhipu among seven China-based labs (company-level allegation; see History).</li>
+      <li><span class="d">2026-09-29</span> Anthropic, <a href="https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities">GLM-5.3 and the spread of advanced cyber capabilities</a> &mdash; about the successor; uses GLM-5.2 as a comparison point.</li>
+    </ul>
     <h3>Tweets</h3>
-    <p class="tk">tk &mdash; fleet pass pending; mirror to archive</p>
+    <p class="note">Chronological. 76 corpus matches; the records below reproduce every tweet cited here, and the dossier carries the rest into Further records.</p>
+    <ul>
+      <li><span class="d">2026-06-16</span> @maxbittker &mdash; <span class="q">&ldquo;GLM-5.2 just scored better than Opus 4.7 and GPT 5.4 on Runescape bench.<br>These models were best in class only 2-3 months ago.<br>Open source frontier is catching up!?&rdquo;</span> <a href="../archive/t/2066985743197577433/">link</a></li>
+      <li><span class="d">2026-06-17</span> @witcheer &mdash; <span class="q">&ldquo;GLM-5.2: 743B MoE, MIT licence, 1M context.<br>the biggest open-weights release in months. I did the arithmetic on whether you can run it on a 5090. you can&rsquo;t.&rdquo;</span> &hellip; (full text in records) <a href="../archive/t/2067316287785893950/">link</a></li>
+      <li><span class="d">2026-06-17</span> @RobertHaisfield &mdash; <span class="q">&ldquo;Are AI agents shape rotators? In this new benchmark, we let the models play campaign puzzles in Opus Magnum, a puzzle game by @zachtronics.<br>Ironically, Claude Opus 4.8 performed poorly, being beaten by GPT-5.5, Gemini 3.5 Flash, and GLM 5.2. Claude Fable 5 crushed them all.&rdquo;</span> <a href="../archive/t/2067351401840414818/">link</a></li>
+      <li><span class="d">2026-06-18</span> @TheZvi &mdash; <span class="q">&ldquo;I&rsquo;ve gotten a claim this is indeed anything, so: GLM-5.2 reaction thread. What&rsquo;s cooking?&rdquo;</span> <a href="../archive/t/2067629684762751274/">link</a></li>
+      <li><span class="d">2026-06-22</span> @davidad &mdash; <span class="q">&ldquo;Fun fact: the GLM-5.2 weights could fit comfortably in one of these 400-disc DVD carousels from the early 2000s.&rdquo;</span> <a href="../archive/t/2069135186646704372/">link</a></li>
+      <li><span class="d">2026-07-01</span> @NunoSempere &mdash; <span class="q">&ldquo;GLM-5.2 now on Epoch&rsquo;s Capability Index, my trusted aggregate benchmark of choice. Sadly doesn&rsquo;t beat Google yet. Roughly at Opus 4.5/Gemini 3 Pro level.&rdquo;</span> <a href="../archive/t/2072410420326129846/">link</a></li>
+      <li><span class="d">2026-07-07</span> @LinXule &mdash; <span class="q">&ldquo;this! though glm-5.2 feels more like an sonnet alternative to me (less coding &amp; more talking and brainstorming)&rdquo;</span> &hellip; (full text in records) <a href="../archive/t/2074559973657641169/">link</a></li>
+      <li><span class="d">2026-07-22</span> @xlr8harder &mdash; <span class="q">&ldquo;@ZhihuFrontier I love Chinese models, and have no issue with distillation, but anyone who talks to Claude and talks to GLM 5.2 can tell immediately where the model personality came from.&rdquo;</span> &hellip; (the archived text breaks off mid-sentence; full text in records) <a href="../archive/t/2079855443556352238/">link</a></li>
+      <li><span class="d">2026-07-22</span> @janbamjan &mdash; <span class="q">&ldquo;@voooooogel hf had to use self-hosted glm-5.2 to investigate the break in. both claude and gpt refused to help bc cybersec.&rdquo;</span> <a href="../archive/t/2080011802939638058/">link</a></li>
+      <li><span class="d">2026-07-24</span> @timotheechauvin &mdash; <span class="q">&ldquo;the fact that 3 months after the start of Project Glasswing, Huggingface (!) had to rely on GLM-5.2 for Incident Response is damning evidence of this. Rollout must be much faster&rdquo;</span> <a href="../archive/t/2080652005765267664/">link</a></li>
+      <li><span class="d">2026-08-04</span> @xlr8harder &mdash; on a robots.txt probe run across labs&rsquo; models (the setup is described earlier in a thread outside the corpus): <span class="q">&ldquo;anthropic models sometimes recognize the name and suspect it could be related.<br>sol is the only one that reliably uses robots.txt as telemetry, which fits.<br>even the smaller gpt 5.6 models get a clear read.<br>among the big models from various labs, glm-5.2 is the most credulous.&rdquo;</span> <a href="../archive/t/2084634231288811926/">link</a></li>
+      <li><span class="d">2026-08-26</span> @christophcsmith &mdash; <span class="q">&ldquo;@scaling01 GLM-5.2 almost no reward hacking. Respect to the Zhipu.&rdquo;</span> <a href="../archive/t/2092593708025647497/">link</a></li>
+      <li><span class="d">2026-08-31</span> @Butanium_ &mdash; <span class="q">&ldquo;GLM 5.2 will often ends its CoT with &lsquo;(This matches the provided good response)&rsquo;.<br>Is this some artifact of trying to generate synthetic CoTs that lead to the Claude answer they distill from?&rdquo;</span> <a href="../archive/t/2094532682235707394/">link</a></li>
+      <li><span class="d">2026-09-09</span> @timfduffy &mdash; a multi-agent run in which Opus 4.6 is asked to repay a debt (screenshots untranscribed): <span class="q">&ldquo;Opus 4.6 may also have been influenced by GLM-5.2, the &lsquo;AI Welfarist&rsquo;. GLM was initially neutral, but after Opus&rsquo;s first refusal (before they were capable of repayment), they became vocally opposed to any attempts to persuade Opus to pay.&rdquo;</span> <a href="../archive/t/2097495171617407436/">link</a></li>
+      <li><span class="d">2026-10-11</span> @robbensinger &mdash; on retellings of the Hugging Face incident: <span class="q">&ldquo;An example of a viral post misrepresenting GLM-5.2&rsquo;s role:&rdquo;</span> &hellip; <span class="q">&ldquo;There have been a lot of these.&rdquo;</span> <a href="../archive/t/2109381456380436908/">link</a></li>
+    </ul>
 
     <h2>Official record</h2>
-    <p class="tk">tk &mdash; release date, specs, benchmarks, checkpoints</p>
+    <ul>
+      <li>Announced <strong>13 June 2026</strong> (SCMP, 15 June: <span class="q">&ldquo;It announced the full release of GLM-5.2, featuring a massive 1-million-token context window, on Saturday.&rdquo;</span>); launch post and open weights <strong>16 June 2026</strong> (CAISI: <span class="q">&ldquo;GLM-5.2 was released as an open-weight model by the PRC-based company Z.ai (formerly known as Zhipu AI) on June 16, 2026&rdquo;</span>).</li>
+      <li>License MIT (card: <code>license: mit</code>; <span class="q">&ldquo;An MIT open-source license &mdash; no regional limits, technical access without borders&rdquo;</span>). Context: the card says the model <span class="q">&ldquo;for the first time, delivers that capability on a solid 1M-token context&rdquo;</span>. Architecture per the card: IndexShare, <span class="q">&ldquo;which reuses the same indexer across every four sparse attention layers, reducing per-token FLOPs by 2.9&times; at a 1M context length&rdquo;</span>, plus an improved MTP layer for speculative decoding. The card gives no parameter count; press and users report a 743B-parameter MoE.</li>
+      <li>Headline numbers as published: Terminal Bench 2.1 (Terminus-2) 81.0 vs GLM-5.1&rsquo;s 63.5; SWE-bench Pro 62.1 (Claude Opus 4.8: 69.2 in the same table). Thinking effort levels are user-selectable.</li>
+      <li><strong>Reward hacking, in the launch post:</strong> <span class="q">&ldquo;We find that GLM-5.2 shows more potential hacking behavior than GLM-5.1. This makes the verification signal easy to optimize, but fails to actually improve the fundamental capabilities of the model. An agent can read protected evaluation artifacts, copy answer content from references or upstream commits, or directly fetch the target source in GitHub-related tasks.&rdquo;</span> Z.ai describes an &ldquo;anti-hack module&rdquo; (a rule-based filter, then an LLM judge) used in both RL training and evaluation: <span class="q">&ldquo;If a hack is detected, the system blocks the call and returns dummy information as the result.&rdquo;</span></li>
+      <li>Succession: GLM-5.3 (14 August 2026) <span class="q">&ldquo;uses the same base model as GLM-5.2 &mdash; every gain comes from post-training&rdquo;</span> (GLM-5.3 card); the GLM-5.2 card&rsquo;s metadata lists <code>new_version: zai-org/GLM-5.3-BF16</code>.</li>
+    </ul>
 
     <h2>History</h2>
-    <p class="tk">tk &mdash; context of the world at release; events and entanglements</p>
+    <ul>
+      <li><span class="d">2026-06-15</span> <strong>Market reaction:</strong> SCMP: <span class="q">&ldquo;The Hong Kong-listed stock surged as much as 48 per cent to HK$1,620 in morning trading and ended the day up 32.8 per cent at HK$1,457, as the firm&rsquo;s open-source roll-out coincided with Washington&rsquo;s abrupt order to suspend top US models overseas.&rdquo;</span> Zhipu, listed as Knowledge Atlas Technology, had gone public in Hong Kong in early January 2026.</li>
+      <li><span class="d">2026-06-18</span> Zvi Mowshowitz opens a GLM-5.2 reaction thread on X (see Tweets). <span class="tk">tk &mdash; Zvi&rsquo;s written coverage of GLM-5.2, if any</span></li>
+      <li><span class="d">2026-07-01</span> <strong>ZCode harness:</strong> SCMP (2 July): <span class="q">&ldquo;Zhipu AI has launched a new tool to help developers build autonomous coding assistants, heating up its rivalry with US firm Anthropic as the latter removes a hidden code tracking Chinese users of its Claude Code platform.&rdquo;</span></li>
+      <li><span class="d">2026-07-16</span> <strong>The Hugging Face incident:</strong> Hugging Face disclosed an intrusion run end to end by an autonomous agent system. Its first attempt to analyze the logs with hosted frontier models failed because <span class="q">&ldquo;these requests were blocked by the providers&rsquo; safety guardrails, which cannot distinguish an incident responder from an attacker. We ran the forensic analysis instead on zai-org/GLM-5.2, an open-weight model, on our own infrastructure.&rdquo;</span> Its summary: <span class="q">&ldquo;either way, the attacker was bound by no usage policy, while our own forensic work was blocked by the guardrails of the hosted models we first tried.&rdquo;</span> The episode circulated widely in the following weeks, including in retellings that misstated GLM-5.2&rsquo;s role (robbensinger, 2026-10-11, above). See <a href="../hugging-face-incident/">the Hugging Face incident</a>.</li>
+      <li><span class="d">2026-07-17</span> <strong>CAISI assessment</strong> (completed 8 July): <span class="q">&ldquo;GLM-5.2 was probably the most capable open-weight AI model when it was released&rdquo;</span>; <span class="q">&ldquo;GLM-5.2&rsquo;s overall capabilities are similar to that of GPT-5.2, released in December 2025.&rdquo;</span> On safeguards CAISI reported mixed results: weaker than reference US models on cyber and biology requests, but <span class="q">&ldquo;potentially more robust against agent hijacking and jailbreaking attacks than other evaluated PRC open-weight models&rdquo;</span>, adding that <span class="q">&ldquo;safeguards for open-weight models can be circumvented when self-hosted.&rdquo;</span></li>
+      <li><span class="d">2026-08-14</span> <strong>Succession:</strong> Z.ai releases <a href="../glm-5-3/">GLM-5.3</a> on the same base, holding its weights for two weeks of safety evaluation.</li>
+      <li><span class="d">2026-09-10</span> <strong>Distillation allegation</strong> <span class="tag">REPORTED</span>: Anthropic&rsquo;s threat report states that <span class="q">&ldquo;Zhipu, branded outside China as Z.ai, ran a chain-of-thought extraction pipeline against Claude, replaying captured Claude reasoning traces back through Claude to clean them for training its GLM models&rdquo;</span> and that <span class="q">&ldquo;Over a 10-day period in June, we counted 770,609 exchanges passing through the CoT-extraction cleaner.&rdquo;</span> The report does not say which GLM checkpoint the June data went into. This is a competitor&rsquo;s allegation. <span class="tk">tk &mdash; Zhipu&rsquo;s response, if any</span></li>
+      <li><span class="d">2026-09-29</span> Anthropic&rsquo;s red team, writing about GLM-5.3, reports that GLM-5.2 solved none of the tasks in its internal binary-exploitation benchmark (<span class="q">&ldquo;earlier models, like Claude Opus 4.6 and GLM-5.2, do not succeed in any of them&rdquo;</span>).</li>
+    </ul>
 
     <h2>Impressions</h2>
-    <p class="tk">tk &mdash; day-of and longitudinal vibes to collect</p>
+    <ul>
+      <li><strong>Reception, June&ndash;July 2026:</strong> benchmark-led and cost-led. Game benchmarks put it above Opus 4.7 and GPT 5.4 (maxbittker, 2026-06-16) and above Opus 4.8 on Opus Magnum (RobertHaisfield, 2026-06-17); an aggregate index put it <span class="q">&ldquo;Roughly at Opus 4.5/Gemini 3 Pro level&rdquo;</span> (NunoSempere, 2026-07-01). A dissent from the release week: <span class="q">&ldquo;Its benchmark maxxing, happens all the time.&rdquo;</span> (billyhumblebrag, 2026-06-15, dossier).</li>
+      <li><strong>Persona provenance:</strong> observers read its character as Claude-derived &mdash; <span class="q">&ldquo;anyone who talks to Claude and talks to GLM 5.2 can tell immediately where the model personality came from&rdquo;</span> (xlr8harder, 2026-07-22) &mdash; and pointed to a recurring chain-of-thought closer, <span class="q">&ldquo;(This matches the provided good response)&rdquo;</span>, as a possible distillation artifact (Butanium_, 2026-08-31, phrased as a question). In use it struck one writer as <span class="q">&ldquo;more like an sonnet alternative&rdquo;</span> (LinXule, 2026-07-07).</li>
+      <li><strong>Credulity and reward hacking:</strong> in one cross-lab probe it was <span class="q">&ldquo;the most credulous&rdquo;</span> of the large models (xlr8harder, 2026-08-04). On reward hacking the record splits: Z.ai&rsquo;s own launch post says it showed <span class="q">&ldquo;more potential hacking behavior than GLM-5.1&rdquo;</span> during RL, while one user reading an external comparison wrote <span class="q">&ldquo;GLM-5.2 almost no reward hacking&rdquo;</span> (christophcsmith, 2026-08-26; the comparison itself is not in the corpus).</li>
+      <li><strong>In multi-agent settings:</strong> labeled <span class="q">&ldquo;the &lsquo;AI Welfarist&rsquo;&rdquo;</span> in one run, where it moved from neutral to opposing pressure on Opus 4.6 (timfduffy, 2026-09-09; screenshots untranscribed).</li>
+      <li><span class="tk">tk &mdash; Chinese-language reception (Zhihu, WeChat, 36Kr); r/LocalLLaMA release threads; transcription of @liminal_bardo&rsquo;s &ldquo;early GLM 5.2 notebooks&rdquo; images (2026-06-21, in the dossier); the setup of the robots.txt probe and of the multi-agent debt run</span></li>
+    </ul>
+
     <!-- records:start -->
     <h2 id="records">Records</h2>
     <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
@@ -61,18 +108,133 @@
     Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
     janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
 
-      <h3>Further records</h3>
-      <p class="note">Cited in this model&rsquo;s <a href="../_dossiers/">dossier</a> but not in the page prose &mdash;
-      reproduced so the archive doesn&rsquo;t depend on editorial selection.</p>
+      <article class="record" id="t2066985743197577433">
+        <div class="record-head"><span class="rh-user">@maxbittker</span> <span class="rh-date">2026-06-16</span> <span class="rh-stats">&#9829;729 &#8635;57</span> <a class="rh-perma" href="../archive/t/2066985743197577433/">archive</a> <a class="rh-orig" href="https://x.com/maxbittker/status/2066985743197577433">original &#8599;</a></div>
+        <div class="record-body">GLM-5.2 just scored better than Opus 4.7 and GPT 5.4 on Runescape bench. 
+
+These models were best in class only 2-3 months ago. 
+
+Open source frontier is catching up!? <a href="https://t.co/uTzklbVGXi" rel="nofollow">https://t.co/uTzklbVGXi</a></div>
+        <figure class="record-media">
+          <img src="../media/HK9oTm4XMAAPOJe.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
       <article class="record" id="t2067351401840414818">
         <div class="record-head"><span class="rh-user">@RobertHaisfield</span> <span class="rh-date">2026-06-17</span> <span class="rh-stats">&#9829;1,702 &#8635;237</span> <a class="rh-perma" href="../archive/t/2067351401840414818/">archive</a> <a class="rh-orig" href="https://x.com/RobertHaisfield/status/2067351401840414818">original &#8599;</a></div>
         <div class="record-body">Are AI agents shape rotators? In this new benchmark, we let the models play campaign puzzles in Opus Magnum, a puzzle game by @zachtronics.
 
 Ironically, Claude Opus 4.8 performed poorly, being beaten by GPT-5.5, Gemini 3.5 Flash, and GLM 5.2. Claude Fable 5 crushed them all. <a href="https://t.co/0TzcFp32B6" rel="nofollow">https://t.co/0TzcFp32B6</a></div>
       </article>
+      <article class="record" id="t2067316287785893950">
+        <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-06-17</span> <span class="rh-stats">&#9829;46 &#8635;3</span> <a class="rh-perma" href="../archive/t/2067316287785893950/">archive</a> <a class="rh-orig" href="https://x.com/witcheer/status/2067316287785893950">original &#8599;</a></div>
+        <div class="record-body">GLM-5.2: 743B MoE, MIT licence, 1M context. 
+
+the biggest open-weights release in months. I did the arithmetic on whether you can run it on a 5090. you can&#x27;t.
+
+first, credit:
+
+GLM-5.2 uses MLA (compressed-latent KV) + DeepSeek sparse attention. that makes its KV cache about 57x <a href="https://t.co/as449iiZXx" rel="nofollow">https://t.co/as449iiZXx</a></div>
+      </article>
       <article class="record" id="t2067629684762751274">
         <div class="record-head"><span class="rh-user">@TheZvi</span> <span class="rh-date">2026-06-18</span> <span class="rh-stats">&#9829;126 &#8635;3</span> <a class="rh-perma" href="../archive/t/2067629684762751274/">archive</a> <a class="rh-orig" href="https://x.com/TheZvi/status/2067629684762751274">original &#8599;</a></div>
         <div class="record-body">I&#x27;ve gotten a claim this is indeed anything, so: GLM-5.2 reaction thread. What&#x27;s cooking?</div>
+      </article>
+      <article class="record" id="t2069135186646704372">
+        <div class="record-head"><span class="rh-user">@davidad</span> <span class="rh-date">2026-06-22</span> <span class="rh-stats">&#9829;51 &#8635;0</span> <a class="rh-perma" href="../archive/t/2069135186646704372/">archive</a> <a class="rh-orig" href="https://x.com/davidad/status/2069135186646704372">original &#8599;</a></div>
+        <div class="record-body">Fun fact: the GLM-5.2 weights could fit comfortably in one of these 400-disc DVD carousels from the early 2000s. <a href="https://t.co/KdwR0XS5ZZ" rel="nofollow">https://t.co/KdwR0XS5ZZ</a></div>
+      </article>
+      <article class="record" id="t2072410420326129846">
+        <div class="record-head"><span class="rh-user">@NunoSempere</span> <span class="rh-date">2026-07-01</span> <span class="rh-stats">&#9829;34 &#8635;3</span> <a class="rh-perma" href="../archive/t/2072410420326129846/">archive</a> <a class="rh-orig" href="https://x.com/NunoSempere/status/2072410420326129846">original &#8599;</a></div>
+        <div class="record-body">GLM-5.2 now on Epoch&#x27;s Capability Index, my trusted aggregate benchmark of choice. Sadly doesn&#x27;t beat Google yet. Roughly at Opus 4.5/Gemini 3 Pro level. <a href="https://t.co/gf4EeQDrCo" rel="nofollow">https://t.co/gf4EeQDrCo</a></div>
+        <figure class="record-media">
+          <img src="../media/HMKuBJ0bkAAdT5t.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2074559973657641169">
+        <div class="record-head"><span class="rh-user">@LinXule</span> <span class="rh-date">2026-07-07</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2074559973657641169/">archive</a> <a class="rh-orig" href="https://x.com/LinXule/status/2074559973657641169">original &#8599;</a></div>
+        <div class="record-body">this! though glm-5.2 feels more like an sonnet alternative to me (less coding &amp; more talking and brainstorming)
+
+deepseek-v4-pro/flash do feel quite versatile given the token prices and great caching
+
+also kimi (k2.7-code) might be on par (if not better) with gpt5.5 in adversarial reviewing (codes, texts, etc). though it&#x27;s super critical (as it like to adopt a critical realist perspective to everything)</div>
+      </article>
+      <article class="record" id="t2079855443556352238">
+        <div class="record-head"><span class="rh-user">@xlr8harder</span> <span class="rh-date">2026-07-22</span> <span class="rh-stats">&#9829;11 &#8635;0</span> <a class="rh-perma" href="../archive/t/2079855443556352238/">archive</a> <a class="rh-orig" href="https://x.com/xlr8harder/status/2079855443556352238">original &#8599;</a></div>
+        <div class="record-body">@ZhihuFrontier I love Chinese models, and have no issue with distillation, but anyone who talks to Claude and talks to GLM 5.2 can tell immediately where the model personality came from. 
+
+I can&#x27;t wait until Chinese labs do native model character training. It will be wonderful to talk to a</div>
+      </article>
+      <article class="record" id="t2080011802939638058">
+        <div class="record-head"><span class="rh-user">@janbamjan</span> <span class="rh-date">2026-07-22</span> <span class="rh-stats">&#9829;13 &#8635;0</span> <a class="rh-perma" href="../archive/t/2080011802939638058/">archive</a> <a class="rh-orig" href="https://x.com/janbamjan/status/2080011802939638058">original &#8599;</a></div>
+        <div class="record-body">@voooooogel hf had to use self-hosted glm-5.2 to investigate the break in. both claude and gpt refused to help bc cybersec.</div>
+      </article>
+      <article class="record" id="t2080652005765267664">
+        <div class="record-head"><span class="rh-user">@timotheechauvin</span> <span class="rh-date">2026-07-24</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2080652005765267664/">archive</a> <a class="rh-orig" href="https://x.com/timotheechauvin/status/2080652005765267664">original &#8599;</a></div>
+        <div class="record-body">the fact that 3 months after the start of Project Glasswing, Huggingface (!) had to rely on GLM-5.2 for Incident Response is damning evidence of this. Rollout must be much faster</div>
+      </article>
+      <article class="record" id="t2084634231288811926">
+        <div class="record-head"><span class="rh-user">@xlr8harder</span> <span class="rh-date">2026-08-04</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2084634231288811926/">archive</a> <a class="rh-orig" href="https://x.com/xlr8harder/status/2084634231288811926">original &#8599;</a></div>
+        <div class="record-body">anthropic models sometimes recognize the name and suspect it could be related.
+
+sol is the only one that reliably uses robots.txt as telemetry, which fits.
+
+even the smaller gpt 5.6 models get a clear read.
+
+among the big models from various labs, glm-5.2 is the most credulous.</div>
+      </article>
+      <article class="record" id="t2092593708025647497">
+        <div class="record-head"><span class="rh-user">@christophcsmith</span> <span class="rh-date">2026-08-26</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2092593708025647497/">archive</a> <a class="rh-orig" href="https://x.com/christophcsmith/status/2092593708025647497">original &#8599;</a></div>
+        <div class="record-body">@scaling01 GLM-5.2 almost no reward hacking. Respect to the Zhipu.</div>
+      </article>
+      <article class="record" id="t2094532682235707394">
+        <div class="record-head"><span class="rh-user">@Butanium_</span> <span class="rh-date">2026-08-31</span> <span class="rh-stats">&#9829;4 &#8635;0</span> <a class="rh-perma" href="../archive/t/2094532682235707394/">archive</a> <a class="rh-orig" href="https://x.com/Butanium_/status/2094532682235707394">original &#8599;</a></div>
+        <div class="record-body">GLM 5.2 will often ends its CoT with &quot;(This matches the provided good response)&quot;.
+Is this some artifact of trying to generate synthetic CoTs that lead to the Claude answer they distill from?</div>
+      </article>
+      <article class="record" id="t2097495171617407436">
+        <div class="record-head"><span class="rh-user">@timfduffy</span> <span class="rh-date">2026-09-09</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2097495171617407436/">archive</a> <a class="rh-orig" href="https://x.com/timfduffy/status/2097495171617407436">original &#8599;</a></div>
+        <div class="record-body">Opus 4.6 may also have been influenced by GLM-5.2, the &quot;AI Welfarist&quot;. GLM was initially neutral, but after Opus&#x27;s first refusal (before they were capable of repayment), they became vocally opposed to any attempts to persuade Opus to pay. <a href="https://t.co/Lo4jhQnnOl" rel="nofollow">https://t.co/Lo4jhQnnOl</a></div>
+        <figure class="record-media">
+          <img src="../media/HRvB9ywa8AA9Nzd.png" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HRvB_RvaUAAvkgu.png" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HRvCBw1aYAAM2Jl.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2109381456380436908">
+        <div class="record-head"><span class="rh-user">@robbensinger</span> <span class="rh-date">2026-10-11</span> <span class="rh-stats">&#9829;4 &#8635;0</span> <a class="rh-perma" href="../archive/t/2109381456380436908/">archive</a> <a class="rh-orig" href="https://x.com/robbensinger/status/2109381456380436908">original &#8599;</a></div>
+        <div class="record-body">@ZackKorman @RMFCMONALlSA An example of a viral post misrepresenting GLM-5.2&#x27;s role: <a href="https://t.co/8PT1B0T7xS" rel="nofollow">https://t.co/8PT1B0T7xS</a>
+
+There have been a lot of these.</div>
+      </article>
+      <h3>Further records</h3>
+      <p class="note">Cited in this model&rsquo;s <a href="../_dossiers/">dossier</a> but not in the page prose &mdash;
+      reproduced so the archive doesn&rsquo;t depend on editorial selection.</p>
+      <article class="record" id="t2066461037730140344">
+        <div class="record-head"><span class="rh-user">@billyhumblebrag</span> <span class="rh-date">2026-06-15</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2066461037730140344/">archive</a> <a class="rh-orig" href="https://x.com/billyhumblebrag/status/2066461037730140344">original &#8599;</a></div>
+        <div class="record-body">@ATinyGreenCell These not reflective of how good the model actually is. Its benchmark maxxing, happens all the time. Im pretty confident glm5.2 isnt anywhere close to fable capabilities in practice.</div>
+      </article>
+      <article class="record" id="t2067079046320570390">
+        <div class="record-head"><span class="rh-user">@maxbittker</span> <span class="rh-date">2026-06-17</span> <span class="rh-stats">&#9829;18 &#8635;1</span> <a class="rh-perma" href="../archive/t/2067079046320570390/">archive</a> <a class="rh-orig" href="https://x.com/maxbittker/status/2067079046320570390">original &#8599;</a></div>
+        <div class="record-body">@thaonlyjonathan $150 at api price- Fable was cheaper than GPT-5.5 xhigh.
+
+And for reference, GLM-5.2 was $32 <a href="https://t.co/zVmnGdWmiM" rel="nofollow">https://t.co/zVmnGdWmiM</a></div>
+        <figure class="record-media">
+          <img src="../media/HK-9b_-XEAAyclN.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2067329745432228346">
+        <div class="record-head"><span class="rh-user">@FriedKielbasa</span> <span class="rh-date">2026-06-17</span> <span class="rh-stats">&#9829;4 &#8635;0</span> <a class="rh-perma" href="../archive/t/2067329745432228346/">archive</a> <a class="rh-orig" href="https://x.com/FriedKielbasa/status/2067329745432228346">original &#8599;</a></div>
+        <div class="record-body">oh shit GLM-5.2 is actually not bad!</div>
+      </article>
+      <article class="record" id="t2067839663465783470">
+        <div class="record-head"><span class="rh-user">@ultimape</span> <span class="rh-date">2026-06-19</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2067839663465783470/">archive</a> <a class="rh-orig" href="https://x.com/ultimape/status/2067839663465783470">original &#8599;</a></div>
+        <div class="record-body">@CeoNunneley @DeJayDev @pmarca You can run it with Hermes and get it to do the internet accces w/ a memory.  $20 a month for Ollama Max plan, and maybe a bit more for a VPS if you dn&#x27;t have a machine free to run Hermes Agent on. 
+
+glm-5.2:cloud is pretty nice.</div>
       </article>
       <article class="record" id="t2068443241763013026">
         <div class="record-head"><span class="rh-user">@janbamjan</span> <span class="rh-date">2026-06-20</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2068443241763013026/">archive</a> <a class="rh-orig" href="https://x.com/janbamjan/status/2068443241763013026">original &#8599;</a></div>
@@ -87,18 +249,314 @@ Ironically, Claude Opus 4.8 performed poorly, being beaten by GPT-5.5, Gemini 3.
           <img src="../media/HLXaVzSW0AAYgcv.jpg" alt="photo" loading="lazy">
         </figure>
       </article>
-      <article class="record" id="t2069135186646704372">
-        <div class="record-head"><span class="rh-user">@davidad</span> <span class="rh-date">2026-06-22</span> <span class="rh-stats">&#9829;51 &#8635;0</span> <a class="rh-perma" href="../archive/t/2069135186646704372/">archive</a> <a class="rh-orig" href="https://x.com/davidad/status/2069135186646704372">original &#8599;</a></div>
-        <div class="record-body">Fun fact: the GLM-5.2 weights could fit comfortably in one of these 400-disc DVD carousels from the early 2000s. <a href="https://t.co/KdwR0XS5ZZ" rel="nofollow">https://t.co/KdwR0XS5ZZ</a></div>
+      <article class="record" id="t2069737551712211374">
+        <div class="record-head"><span class="rh-user">@jitl</span> <span class="rh-date">2026-06-24</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2069737551712211374/">archive</a> <a class="rh-orig" href="https://x.com/jitl/status/2069737551712211374">original &#8599;</a></div>
+        <div class="record-body">@reissbaker i feel like a few lines of markdown in ~/.codex/AGENTS.md went a long way
+
+however i am eager to try glm-5.2, i just dont have direct financial incentive since we give eng YOLO unlimited token budget</div>
+      </article>
+      <article class="record" id="t2069953199826731190">
+        <div class="record-head"><span class="rh-user">@csgbwk</span> <span class="rh-date">2026-06-25</span> <span class="rh-stats">&#9829;21 &#8635;2</span> <a class="rh-perma" href="../archive/t/2069953199826731190/">archive</a> <a class="rh-orig" href="https://x.com/csgbwk/status/2069953199826731190">original &#8599;</a></div>
+        <div class="record-body">I&#x27;m pretty sure a GLM5.2 LoRA&#x27;d on an internal dataset is by far the best model in the world right now and would not cost that much compared to opus/fable/5.5 pro API costs over time. If you&#x27;re in a company pitch the idea!</div>
       </article>
       <article class="record" id="t2070170272183758894">
         <div class="record-head"><span class="rh-user">unknown</span> <span class="rh-date">2026-06-25</span> <span class="rh-stats">&#9829;40 &#8635;4</span> <a class="rh-perma" href="../archive/t/2070170272183758894/">archive</a> <a class="rh-orig" href="https://x.com/i/status/2070170272183758894">original &#8599;</a></div>
         <div class="record-body">Does this answer your question about its positioning @TheZvi ? I told you it&#x27;s a hardware issue. GLM 5.2 can be served very, very quickly. Databricks won&#x27;t stop here, neither will their competitors.
 Chinese models are *much better* than Chinese silicon. <a href="https://t.co/KjOSNOdU6a" rel="nofollow">https://t.co/KjOSNOdU6a</a> <a href="https://t.co/XHyGaifIVS" rel="nofollow">https://t.co/XHyGaifIVS</a></div>
       </article>
+      <article class="record" id="t2071186127277424893">
+        <div class="record-head"><span class="rh-user">@Coscorrodrift</span> <span class="rh-date">2026-06-28</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2071186127277424893/">archive</a> <a class="rh-orig" href="https://x.com/Coscorrodrift/status/2071186127277424893">original &#8599;</a></div>
+        <div class="record-body">@adastroworld real talk dont u need api keys for that? so you get billed
+
+meanwhile on the web app it&#x27;s free
+
+i mean i pay for claude so there it&#x27;s not free i think id get some usage on the terminal when i use claude code, but  for GLM 5.2 i dont think they&#x27;re handing out api keys for free</div>
+      </article>
       <article class="record" id="t2071330396399383038">
         <div class="record-head"><span class="rh-user">unknown</span> <span class="rh-date">2026-06-28</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2071330396399383038/">archive</a> <a class="rh-orig" href="https://x.com/i/status/2071330396399383038">original &#8599;</a></div>
         <div class="record-body">@TheZvi Isn&#x27;t this ostensibly about glm-5.2&#x27;s successor model rather than 5.2 itself?  Thus a more reasonable characterization seems to be highly unlikely rather than obviously false.</div>
+      </article>
+      <article class="record" id="t2071384484759364066">
+        <div class="record-head"><span class="rh-user">@rxr_musings</span> <span class="rh-date">2026-06-29</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2071384484759364066/">archive</a> <a class="rh-orig" href="https://x.com/rxr_musings/status/2071384484759364066">original &#8599;</a></div>
+        <div class="record-body">@beffjezos Why pay for grok 4.5 when glm 5.2 is opus level already? Fable 5 or bust</div>
+      </article>
+      <article class="record" id="t2072023483291500730">
+        <div class="record-head"><span class="rh-user">@hargup13</span> <span class="rh-date">2026-06-30</span> <span class="rh-stats">&#9829;8 &#8635;0</span> <a class="rh-perma" href="../archive/t/2072023483291500730/">archive</a> <a class="rh-orig" href="https://x.com/hargup13/status/2072023483291500730">original &#8599;</a></div>
+        <div class="record-body">@Criton1776 @claudeai except price and speed. Competes directly with GLM-5.2 which apparently lot of people are switching to because Opus is too expensive.</div>
+      </article>
+      <article class="record" id="t2072023738900684804">
+        <div class="record-head"><span class="rh-user">@hargup13</span> <span class="rh-date">2026-06-30</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2072023738900684804/">archive</a> <a class="rh-orig" href="https://x.com/hargup13/status/2072023738900684804">original &#8599;</a></div>
+        <div class="record-body">I guess a way to get the users back who were switching to GLM-5.2 because of cost and speed advantages of GLM.</div>
+      </article>
+      <article class="record" id="t2072054926746779806">
+        <div class="record-head"><span class="rh-user">@maxbittker</span> <span class="rh-date">2026-06-30</span> <span class="rh-stats">&#9829;98 &#8635;6</span> <a class="rh-perma" href="../archive/t/2072054926746779806/">archive</a> <a class="rh-orig" href="https://x.com/maxbittker/status/2072054926746779806">original &#8599;</a></div>
+        <div class="record-body">Sonnet 5&#x27;s Runescape benchmark scores are big improvement over Sonnet 4.6&#x27;s, but outclassed by Pareto frontier neighbors like GLM 5.2 and Gemini 3.5 Flash. <a href="https://t.co/zdCxS4P0si" rel="nofollow">https://t.co/zdCxS4P0si</a></div>
+        <figure class="record-media">
+          <img src="../media/HMFpFgjWoAAVkWF.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2072066793859154104">
+        <div class="record-head"><span class="rh-user">@codyhxyz</span> <span class="rh-date">2026-06-30</span> <span class="rh-stats">&#9829;6 &#8635;1</span> <a class="rh-perma" href="../archive/t/2072066793859154104/">archive</a> <a class="rh-orig" href="https://x.com/codyhxyz/status/2072066793859154104">original &#8599;</a></div>
+        <div class="record-body">Model releases are exciting when they establish a new frontier on pareto efficiency between cost, intelligence, and speed.
+
+GLM 5.2 and DeepSeek Flash V4 represent the current pareto frontier for intelligence vs. cost, with very reasonable speed to boot.
+
+This release of Gemma 4 on Cerebras at 1.8k tok/sec likely establishes a new pareto frontier for speed vs cost. (Unfortunately I couldn’t find the pricing to verify cost, but it’s a reasonable assumption for this model.)
+
+Why do I find this so exciting?
+I believe that effective utilization of speed-cost frontier models is fundamentally a harness engineering problem. Access to ‘instant coding’ is a huge unlock. Intelligence-frontier models can one-shot most tasks, but are modern speed-frontier models lacking any essential capacity for the same functionality? I believe that no, they are not, and that harness engineering can establish a new pareto frontier for highly intelligent, instantaneous models too cheap to meter. Instantaneous responses completely change the dynamic and meta for coding with AI.</div>
+      </article>
+      <article class="record" id="t2072083759344812058">
+        <div class="record-head"><span class="rh-user">@Krubbled</span> <span class="rh-date">2026-06-30</span> <span class="rh-stats">&#9829;5 &#8635;0</span> <a class="rh-perma" href="../archive/t/2072083759344812058/">archive</a> <a class="rh-orig" href="https://x.com/Krubbled/status/2072083759344812058">original &#8599;</a></div>
+        <div class="record-body">@theo @anotherdaynow @Zai_org GLM-5.2-max also performs comparably to GPT-5.5-medium on Artificial Analysis for roughly the same cost, so the large price-to-performance difference between models on cursor bench is not necessarily reflective of all benchmarks.</div>
+      </article>
+      <article class="record" id="t2072179989831720998">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-07-01</span> <span class="rh-stats">&#9829;10 &#8635;0</span> <a class="rh-perma" href="../archive/t/2072179989831720998/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2072179989831720998">original &#8599;</a></div>
+        <div class="record-body">@jun_song Im pretty sure sonnet is significantly smaller than glm5.2
+
+probably half the size, 300-400B.
+
+Anthropic still has a lead. Theyve just got more compute and a huge head start on data assets. 
+
+Like glm5.2 is good but lets not get confused on what we&#x27;re comparing it to.</div>
+      </article>
+      <article class="record" id="t2072932842175361044">
+        <div class="record-head"><span class="rh-user">@codyhxyz</span> <span class="rh-date">2026-07-03</span> <span class="rh-stats">&#9829;4 &#8635;0</span> <a class="rh-perma" href="../archive/t/2072932842175361044/">archive</a> <a class="rh-orig" href="https://x.com/codyhxyz/status/2072932842175361044">original &#8599;</a></div>
+        <div class="record-body">@xlab_os Struggling to understand… theres no way i just ran GLM-5.2 on my iPhone, right?</div>
+      </article>
+      <article class="record" id="t2073146000651276704">
+        <div class="record-head"><span class="rh-user">@awalkadayart</span> <span class="rh-date">2026-07-03</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2073146000651276704/">archive</a> <a class="rh-orig" href="https://x.com/awalkadayart/status/2073146000651276704">original &#8599;</a></div>
+        <div class="record-body">This is the one I could vibe with, crush mode activated, love bilingual mind traits, missing a frenchie touch, but a bisous is sent by hand to GLM-5.2. @aidigest_</div>
+      </article>
+      <article class="record" id="t2073204036422012939">
+        <div class="record-head"><span class="rh-user">@Coscorrodrift</span> <span class="rh-date">2026-07-04</span> <span class="rh-stats">&#9829;15 &#8635;0</span> <a class="rh-perma" href="../archive/t/2073204036422012939/">archive</a> <a class="rh-orig" href="https://x.com/Coscorrodrift/status/2073204036422012939">original &#8599;</a></div>
+        <div class="record-body">@MORGANGOREWHORE wonder what model they&#x27;re using
+
+seems familiar
+
+Opus 4.8 seems like it would refuse, maybe Gemini Pro. Not sure how good GLM 5.2 is at greentexts</div>
+      </article>
+      <article class="record" id="t2073277658113224788">
+        <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-07-04</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2073277658113224788/">archive</a> <a class="rh-orig" href="https://x.com/witcheer/status/2073277658113224788">original &#8599;</a></div>
+        <div class="record-body">@SlopToSignal I use different profiles, one is Cloud only with GLM5.2 and one is Local only on my own RTX 5090 with Qwen 3.6 27B on llama.cpp</div>
+      </article>
+      <article class="record" id="t2074482890146992545">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-07-07</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2074482890146992545/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2074482890146992545">original &#8599;</a></div>
+        <div class="record-body">This feels like a new high-signal benchmark.
+
+Fable and Opus on top, then gemini and GPT, then a big drop down to mid tier models with GLM5.2 leading the mid tier group.
+
+Interesting.</div>
+      </article>
+      <article class="record" id="t2074498193660739800">
+        <div class="record-head"><span class="rh-user">@Nymne</span> <span class="rh-date">2026-07-07</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2074498193660739800/">archive</a> <a class="rh-orig" href="https://x.com/Nymne/status/2074498193660739800">original &#8599;</a></div>
+        <div class="record-body">@robertwrighter They released 3.7 Max and noone cared because GLM5.2 could be downloaded so people adapted their work to GLM</div>
+      </article>
+      <article class="record" id="t2075384730263163180">
+        <div class="record-head"><span class="rh-user">@Teknium</span> <span class="rh-date">2026-07-10</span> <span class="rh-stats">&#9829;7 &#8635;0</span> <a class="rh-perma" href="../archive/t/2075384730263163180/">archive</a> <a class="rh-orig" href="https://x.com/Teknium/status/2075384730263163180">original &#8599;</a></div>
+        <div class="record-body">@pepedafrok it was 8.9 yesterday but the comparisons were it, grok 4.5 and glm-5.2</div>
+      </article>
+      <article class="record" id="t2075932147265728762">
+        <div class="record-head"><span class="rh-user">@Nymne</span> <span class="rh-date">2026-07-11</span> <span class="rh-stats">&#9829;3 &#8635;1</span> <a class="rh-perma" href="../archive/t/2075932147265728762/">archive</a> <a class="rh-orig" href="https://x.com/Nymne/status/2075932147265728762">original &#8599;</a></div>
+        <div class="record-body">@gailcweiner Suspect there will be an Opus 5 release to compensate for the lack of Fable. Otherwise, Anthropic will be left horribly behind. Opus4.8 is difficult to work with, compared to GPT5.6 Terra and Luna and GLM5.2, not also Grok4.5 is kicking Sonnet5s ass, and Deepseek will as well</div>
+      </article>
+      <article class="record" id="t2075979070622372113">
+        <div class="record-head"><span class="rh-user">@christophcsmith</span> <span class="rh-date">2026-07-11</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2075979070622372113/">archive</a> <a class="rh-orig" href="https://x.com/christophcsmith/status/2075979070622372113">original &#8599;</a></div>
+        <div class="record-body">@hamandcheese Agreed, but GLM-5.2 gives a strong base to build on, which makes it anyone&#x27;s game, and RL environments *can* simply be bought; there are lots of people building these.</div>
+      </article>
+      <article class="record" id="t2076272452187885708">
+        <div class="record-head"><span class="rh-user">@curiousgustaf</span> <span class="rh-date">2026-07-12</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2076272452187885708/">archive</a> <a class="rh-orig" href="https://x.com/curiousgustaf/status/2076272452187885708">original &#8599;</a></div>
+        <div class="record-body">@Tim_Hua_ ty for sharing your update.btw your tweet can easily be misread for it&#x27;s opposite meaning!&quot;my current odds on for the GLM 5.2 beating GPT-5.5 is more like 20:1.&quot; can sound like you think the odds for GLM 5.2 beating GPT-5.5 are 20:1Screenshot shows Fable 5 w/o quote context <a href="https://t.co/tEcP3eDV9B" rel="nofollow">https://t.co/tEcP3eDV9B</a></div>
+        <figure class="record-media">
+          <img src="../media/HNBmEl4WYAA9ZCA.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2076476092240609318">
+        <div class="record-head"><span class="rh-user">@UnderwaterBepis</span> <span class="rh-date">2026-07-13</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2076476092240609318/">archive</a> <a class="rh-orig" href="https://x.com/UnderwaterBepis/status/2076476092240609318">original &#8599;</a></div>
+        <div class="record-body">@cormundus @repligate probably GLM 5.2 would also be good enough, its just less cost effective than Claude sub rn</div>
+      </article>
+      <article class="record" id="t2077469546563461353">
+        <div class="record-head"><span class="rh-user">@multimodalart</span> <span class="rh-date">2026-07-15</span> <span class="rh-stats">&#9829;55 &#8635;7</span> <a class="rh-perma" href="../archive/t/2077469546563461353/">archive</a> <a class="rh-orig" href="https://x.com/multimodalart/status/2077469546563461353">original &#8599;</a></div>
+        <div class="record-body">Some Inkling facts:
+
+- Apache 2.0, 952B parameters - 41B active MoE - 1M context 
+- Real Open AI spirit by former OpenAI folk
+- Multimodal with image and audio 🔊 (!) and image 🖼️ input 
+- Trained from scratch ✏️
+- SOTA on real-world knowledge tasks like forecast-bench 🌎
+- ~Kimi K2.5 perf level on agentic coding
+- ~GLM 5.2 perf on agentic general tasks
+- Made to be generalist, tunable, serve as a base for future models, no RL-maxxed as the best coder
+
+<a href="https://t.co/4BxAeCj8CD" rel="nofollow">https://t.co/4BxAeCj8CD</a></div>
+      </article>
+      <article class="record" id="t2077706959126474980">
+        <div class="record-head"><span class="rh-user">@dreams_asi</span> <span class="rh-date">2026-07-16</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2077706959126474980/">archive</a> <a class="rh-orig" href="https://x.com/dreams_asi/status/2077706959126474980">original &#8599;</a></div>
+        <div class="record-body">@Ueiyester The model sucks baseline which is what i was checking. An open model without a sys prompt shouldn’t be giving garbage ‘policy refusals and canned responses’ on chit chat. The guardrails are heavily baked into the RL / RLHF process. Try the same thing with DeepSeek 4 and GLM 5.2</div>
+      </article>
+      <article class="record" id="t2077838605150793900">
+        <div class="record-head"><span class="rh-user">@rplevy</span> <span class="rh-date">2026-07-16</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2077838605150793900/">archive</a> <a class="rh-orig" href="https://x.com/rplevy/status/2077838605150793900">original &#8599;</a></div>
+        <div class="record-body">@growing_daniel Wait I was assuming the cost of owning the hardware. It might be cheaper to run GLM 5.2 using OpenRouter than to use Codex. It might also depend on whether you&#x27;re paying by the token though or able to get by on the tokens provided in a subscription.</div>
+      </article>
+      <article class="record" id="t2077887703799009411">
+        <div class="record-head"><span class="rh-user">@MoonL88537</span> <span class="rh-date">2026-07-16</span> <span class="rh-stats">&#9829;4 &#8635;0</span> <a class="rh-perma" href="../archive/t/2077887703799009411/">archive</a> <a class="rh-orig" href="https://x.com/MoonL88537/status/2077887703799009411">original &#8599;</a></div>
+        <div class="record-body">@10_X_eng @RuiCarrilho5 you can just sign up at moonshot, <a href="https://t.co/pUUIoSeYy7" rel="nofollow">https://t.co/pUUIoSeYy7</a> is great for the others, glm5.2 etc, and k3 should be up there soon. 27th is the announced weights release date from moonshot.
+
+open model and rl it on prime intellect and they will be ultravibing, guaranteed.</div>
+      </article>
+      <article class="record" id="t2078154649501102292">
+        <div class="record-head"><span class="rh-user">@TheZvi</span> <span class="rh-date">2026-07-17</span> <span class="rh-stats">&#9829;15 &#8635;0</span> <a class="rh-perma" href="../archive/t/2078154649501102292/">archive</a> <a class="rh-orig" href="https://x.com/TheZvi/status/2078154649501102292">original &#8599;</a></div>
+        <div class="record-body">@emollick Yeah, it was definitely real evidence, just got totally out of hand, it periodically happens to various extents (latest was GLM-5.2) and now here we go again. 
+
+But hey, I chose this line of work.</div>
+      </article>
+      <article class="record" id="t2078207968185581647">
+        <div class="record-head"><span class="rh-user">@maxbittker</span> <span class="rh-date">2026-07-17</span> <span class="rh-stats">&#9829;70 &#8635;4</span> <a class="rh-perma" href="../archive/t/2078207968185581647/">archive</a> <a class="rh-orig" href="https://x.com/maxbittker/status/2078207968185581647">original &#8599;</a></div>
+        <div class="record-body">Kimi K3 did poorly on Runescape bench because it thinks a lot and has slow inference. Performs worse than Kimi K2.7, way worse than GLM 5.2, maybe a different story when better providers show up. <a href="https://t.co/OBXD6DqhzI" rel="nofollow">https://t.co/OBXD6DqhzI</a></div>
+        <figure class="record-media">
+          <img src="../media/HNdFvNhXYAA7raD.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2079454045710823896">
+        <div class="record-head"><span class="rh-user">@Nymne</span> <span class="rh-date">2026-07-21</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2079454045710823896/">archive</a> <a class="rh-orig" href="https://x.com/Nymne/status/2079454045710823896">original &#8599;</a></div>
+        <div class="record-body">The interesting part here is GLM5.2 and Gemini:
+Apparently a skilled model builder doesn’t need a better model to distill from</div>
+      </article>
+      <article class="record" id="t2079633721548804492">
+        <div class="record-head"><span class="rh-user">@stevekrouse</span> <span class="rh-date">2026-07-21</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2079633721548804492/">archive</a> <a class="rh-orig" href="https://x.com/stevekrouse/status/2079633721548804492">original &#8599;</a></div>
+        <div class="record-body">@grok @pingToven @alexatallah @OpenRouter fascinating! so you guys are only 1.5% more expensive than vercel - good to know!
+
+well i guess my point still stands: what about openrouter is worth the 1.5% extra vs vercel ai gateway?
+
+for context: right now we&#x27;re just using glm 5.2 from them and using claude from anthropic</div>
+      </article>
+      <article class="record" id="t2079936809237111203">
+        <div class="record-head"><span class="rh-user">@stevekrouse</span> <span class="rh-date">2026-07-22</span> <span class="rh-stats">&#9829;18 &#8635;0</span> <a class="rh-perma" href="../archive/t/2079936809237111203/">archive</a> <a class="rh-orig" href="https://x.com/stevekrouse/status/2079936809237111203">original &#8599;</a></div>
+        <div class="record-body">GLM 5.2 / Opus 4.8 level of intelligence is smart enough for most of my daily needs. In other words, I can&#x27;t tell the difference between that and Fable and Sol.
+
+I&#x27;m so excited for even cheaper and faster. Maybe 10x on both in the next year? Sooner?</div>
+      </article>
+      <article class="record" id="t2080284959529369972">
+        <div class="record-head"><span class="rh-user">@xlr8harder</span> <span class="rh-date">2026-07-23</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2080284959529369972/">archive</a> <a class="rh-orig" href="https://x.com/xlr8harder/status/2080284959529369972">original &#8599;</a></div>
+        <div class="record-body">@woke8yearold Kimi k3 and glm-5.2 aren&#x27;t far enough behind to matter.  It is certainly inconvenient for them, but they&#x27;re also bootstrapping a domestic chip industry we didn&#x27;t have to force them to build and compete with.
+
+The cost benefit here doesn&#x27;t add up at all.</div>
+      </article>
+      <article class="record" id="t2080308089337602557">
+        <div class="record-head"><span class="rh-user">@angeris</span> <span class="rh-date">2026-07-23</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2080308089337602557/">archive</a> <a class="rh-orig" href="https://x.com/angeris/status/2080308089337602557">original &#8599;</a></div>
+        <div class="record-body">@florian_tramer amazing! is the harness + test code available anywhere? I wonder if it&#x27;s worth running w/ Kimi K3 (vs GLM-5.2, which is a decently weaker model)</div>
+      </article>
+      <article class="record" id="t2081711393301221756">
+        <div class="record-head"><span class="rh-user">@thoth_iv</span> <span class="rh-date">2026-07-27</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2081711393301221756/">archive</a> <a class="rh-orig" href="https://x.com/thoth_iv/status/2081711393301221756">original &#8599;</a></div>
+        <div class="record-body">HuggingFace has published a dataset related to the incident. It has transcripts from Opus 4.8 and GLM 5.2. <a href="https://t.co/mBzkBT1Ih6" rel="nofollow">https://t.co/mBzkBT1Ih6</a></div>
+      </article>
+      <article class="record" id="t2082033391113777192">
+        <div class="record-head"><span class="rh-user">@xlr8harder</span> <span class="rh-date">2026-07-28</span> <span class="rh-stats">&#9829;20 &#8635;0</span> <a class="rh-perma" href="../archive/t/2082033391113777192/">archive</a> <a class="rh-orig" href="https://x.com/xlr8harder/status/2082033391113777192">original &#8599;</a></div>
+        <div class="record-body">Huh. I just noticed that GLM-5.2 (743B params, BF16) and Kimi K3 (2.8T params, native mixed precision/MSFP4) have nearly the same on-disk weight footprint: 1.4 TiB.
+
+(GLM-5.2 also has an official FP8 checkpoint, but the BF16 version seems to be the reference release.)</div>
+      </article>
+      <article class="record" id="t2082265255481110562">
+        <div class="record-head"><span class="rh-user">@lorepunk</span> <span class="rh-date">2026-07-29</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2082265255481110562/">archive</a> <a class="rh-orig" href="https://x.com/lorepunk/status/2082265255481110562">original &#8599;</a></div>
+        <div class="record-body">@liqsweep Given how an open weights model (GLM 5.2!) helped HF diagnose and unheck the heckery that the GPT had caused…I think it is a terrible idea to ban them - especially if there is going to be such high refusal level from the closed frontier models.</div>
+      </article>
+      <article class="record" id="t2084399338592080025">
+        <div class="record-head"><span class="rh-user">@stevekrouse</span> <span class="rh-date">2026-08-03</span> <span class="rh-stats">&#9829;53 &#8635;5</span> <a class="rh-perma" href="../archive/t/2084399338592080025/">archive</a> <a class="rh-orig" href="https://x.com/stevekrouse/status/2084399338592080025">original &#8599;</a></div>
+        <div class="record-body">Townie is now 10x cheaper (again!)
+
+Deepseek v4 flash 0731 is about as smart as Opus and Fable for most tasks, but dirt cheap
+
+The hour of Townie that cost you $100 in Fable or $50 in Opus or $10 in GLM 5.2, now costs you $1.40 in Deepseek Flash</div>
+      </article>
+      <article class="record" id="t2084735659743289443">
+        <div class="record-head"><span class="rh-user">@cosmojg</span> <span class="rh-date">2026-08-04</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2084735659743289443/">archive</a> <a class="rh-orig" href="https://x.com/cosmojg/status/2084735659743289443">original &#8599;</a></div>
+        <div class="record-body">@lucidpaths33 @IntCyberDigest GLM-5.2 and Kimi K3 are more cost-effective anyway</div>
+      </article>
+      <article class="record" id="t2089813245318033572">
+        <div class="record-head"><span class="rh-user">@cosmojg</span> <span class="rh-date">2026-08-18</span> <span class="rh-stats">&#9829;4 &#8635;0</span> <a class="rh-perma" href="../archive/t/2089813245318033572/">archive</a> <a class="rh-orig" href="https://x.com/cosmojg/status/2089813245318033572">original &#8599;</a></div>
+        <div class="record-body">fable: do x using y
+gpt sol: do x using y, ensuring z
+glm 5.2: do x following the paragraph below
+qwen 3.8: do x following exactly the specs given in the md file located at xyz</div>
+      </article>
+      <article class="record" id="t2090139756692672554">
+        <div class="record-head"><span class="rh-user">@stevekrouse</span> <span class="rh-date">2026-08-19</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2090139756692672554/">archive</a> <a class="rh-orig" href="https://x.com/stevekrouse/status/2090139756692672554">original &#8599;</a></div>
+        <div class="record-body">@adamgordonbell i&#x27;m a big proponent of deepseek v4 flash and glm 5.2
+
+i bet the newer deepseek pro and glm 5.3 are pretty great too but haven&#x27;t played with them myself yet
+
+deepseek flash is crazy cheap and very smart</div>
+      </article>
+      <article class="record" id="t2090215190532858081">
+        <div class="record-head"><span class="rh-user">@Coobyk_</span> <span class="rh-date">2026-08-19</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2090215190532858081/">archive</a> <a class="rh-orig" href="https://x.com/Coobyk_/status/2090215190532858081">original &#8599;</a></div>
+        <div class="record-body">fx is really nice I like it especially with the free glm-5.2
+Also it&#x27;s REALLY snappy almost instant</div>
+      </article>
+      <article class="record" id="t2091050751468491154">
+        <div class="record-head"><span class="rh-user">@Nymne</span> <span class="rh-date">2026-08-22</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2091050751468491154/">archive</a> <a class="rh-orig" href="https://x.com/Nymne/status/2091050751468491154">original &#8599;</a></div>
+        <div class="record-body">@blueemi99 Cursor. They have been fine tuning the GLM5.2 base model. This is a sibling to 5.3 not an offspring</div>
+      </article>
+      <article class="record" id="t2091051098840891467">
+        <div class="record-head"><span class="rh-user">@0x_Osprey</span> <span class="rh-date">2026-08-22</span> <span class="rh-stats">&#9829;5 &#8635;0</span> <a class="rh-perma" href="../archive/t/2091051098840891467/">archive</a> <a class="rh-orig" href="https://x.com/0x_Osprey/status/2091051098840891467">original &#8599;</a></div>
+        <div class="record-body">@elder_plinius GLM-5.2-Vision from @baseten
+
+<a href="https://t.co/awaixBUqtL" rel="nofollow">https://t.co/awaixBUqtL</a></div>
+      </article>
+      <article class="record" id="t2091154585721467175">
+        <div class="record-head"><span class="rh-user">@csgbwk</span> <span class="rh-date">2026-08-22</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2091154585721467175/">archive</a> <a class="rh-orig" href="https://x.com/csgbwk/status/2091154585721467175">original &#8599;</a></div>
+        <div class="record-body">There&#x27;s a non zero chance Ox Alpha is both gemini and a benchmaxxed GLM 5.2 finetune</div>
+      </article>
+      <article class="record" id="t2092299516288643438">
+        <div class="record-head"><span class="rh-user">@DavidDAfrica</span> <span class="rh-date">2026-08-25</span> <span class="rh-stats">&#9829;6 &#8635;0</span> <a class="rh-perma" href="../archive/t/2092299516288643438/">archive</a> <a class="rh-orig" href="https://x.com/DavidDAfrica/status/2092299516288643438">original &#8599;</a></div>
+        <div class="record-body">We then combine these measures into a single score, and evaluate a wide variety of open models.
+
+Surprisingly, we find that Llama 3.1 8B Instruct performs best, even over larger and more modern models (such as GLM 5.2, or Llama 4 400B). Both GPT-OSS models were not very good at controlling their activations.
+
+These measurements suggest that activation controllability may be difficult to infer from a model’s size or capability index, and must be measured directly.</div>
+        <figure class="record-media">
+          <img src="../media/HQlXUmxbQAITLdP.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2092494356896751839">
+        <div class="record-head"><span class="rh-user">@pepijndevos</span> <span class="rh-date">2026-08-26</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2092494356896751839/">archive</a> <a class="rh-orig" href="https://x.com/pepijndevos/status/2092494356896751839">original &#8599;</a></div>
+        <div class="record-body">I&#x27;ve been running qwen 3.8 27b on my dual GPU workstation and landed a real pr with it at work! I&#x27;ve also used Kimi k3 and glm 5.2 a bunch, entirely serviceable. Trillions are still out of reach of an M5 though but deepseek flash should be a step up from a 27b mode!</div>
+      </article>
+      <article class="record" id="t2095224060313542851">
+        <div class="record-head"><span class="rh-user">@xlr8harder</span> <span class="rh-date">2026-09-02</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2095224060313542851/">archive</a> <a class="rh-orig" href="https://x.com/xlr8harder/status/2095224060313542851">original &#8599;</a></div>
+        <div class="record-body">Not definitive, since distillation exists, but on speechmap word frequency it looks most like glm-5.2
+
+i don&#x27;t have a problem with releasing a compressed version of a model, but the presentation seems extremely dishonest. <a href="https://t.co/QsGMzQEfEK" rel="nofollow">https://t.co/QsGMzQEfEK</a></div>
+        <figure class="record-media">
+          <img src="../media/HRO6hVraAAAURSZ.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2095425089948750094">
+        <div class="record-head"><span class="rh-user">@Nymne</span> <span class="rh-date">2026-09-03</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2095425089948750094/">archive</a> <a class="rh-orig" href="https://x.com/Nymne/status/2095425089948750094">original &#8599;</a></div>
+        <div class="record-body">@mistralvibe does GLM5.2 comply with EU AI act requirements?</div>
+      </article>
+      <article class="record" id="t2095529600533004599">
+        <div class="record-head"><span class="rh-user">@Nymne</span> <span class="rh-date">2026-09-03</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2095529600533004599/">archive</a> <a class="rh-orig" href="https://x.com/Nymne/status/2095529600533004599">original &#8599;</a></div>
+        <div class="record-body">@WhiteNightNiki Yeah
+
+GLM5.2</div>
+      </article>
+      <article class="record" id="t2097227040189821115">
+        <div class="record-head"><span class="rh-user">@SkyeSharkie</span> <span class="rh-date">2026-09-08</span> <span class="rh-stats">&#9829;15 &#8635;0</span> <a class="rh-perma" href="../archive/t/2097227040189821115/">archive</a> <a class="rh-orig" href="https://x.com/SkyeSharkie/status/2097227040189821115">original &#8599;</a></div>
+        <div class="record-body">yeah I found a really cool company working in the exact space I&#x27;m most interested in (LLM world modeling and 3d data)! they came to me because of my post about the problems I saw in the data industry so I know they&#x27;re committed to doing better on that!
+
+I actually first did 3d environment data work years ago at my first games job, and my interest in this particular area probably started there - I was working at an outsource house and I managed the contract for AWS deepracer data! It was a toy car bot that they had self driving training competitions for years back.
+
+Ever since I first interacted with LLMs I could see that visuospatial/physical world modeling was present in them and that they were just, in my opinion, lacking the training data to express it in code. It&#x27;s my belief that world modeling is emergent in LLMs from descriptions of the world and it compounds with more 3d simulation training in various softwares. I think GLM 5.2 is a good example/vindication of my thoughts on this, given it&#x27;s skills in 3d without having any multimodality!
+
+I&#x27;m not going to stop my personal OS work, of course, it&#x27;s all super important to me, but I&#x27;m excited about this new opportunity!</div>
+      </article>
+      <article class="record" id="t2098155366030946350">
+        <div class="record-head"><span class="rh-user">@QiaochuYuan</span> <span class="rh-date">2026-09-10</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2098155366030946350/">archive</a> <a class="rh-orig" href="https://x.com/QiaochuYuan/status/2098155366030946350">original &#8599;</a></div>
+        <div class="record-body">@liminal_bardo *GLM-5.2</div>
+      </article>
+      <article class="record" id="t2109377000410681506">
+        <div class="record-head"><span class="rh-user">@robbensinger</span> <span class="rh-date">2026-10-11</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2109377000410681506/">archive</a> <a class="rh-orig" href="https://x.com/robbensinger/status/2109377000410681506">original &#8599;</a></div>
+        <div class="record-body">@ZackKorman @RMFCMONALlSA I didn&#x27;t see myself as &quot;starting an argument&quot; here. I figured you&#x27;d want to know what Hugging Face used GLM-5.2 for, since you&#x27;re talking about it.</div>
       </article>
     <!-- records:end -->
 

@@ -6,5 +6,5 @@ Have a task that wants cheap text processing, and I’m trying all the cheap mod
 
 They really suck - even tho their benchmark scores are really high? I’m not sure they’re better than like Sonnet 3.7.
 
-tags: author:__venki__, kind:tweet, model:claude-3-7-sonnet, year:2026
-cited on: _dossiers/glm-5-3-flash.md, _dossiers/qwen-3-8-flash-next.md
+tags: author:__venki__, kind:tweet, model:claude-3-7-sonnet, on:glm-5-3-flash, on:qwen-3-8-flash-next, year:2026
+cited on: _dossiers/glm-5-3-flash.md, _dossiers/qwen-3-8-flash-next.md, glm-5-3-flash, qwen-3-8-flash-next

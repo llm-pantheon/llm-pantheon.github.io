@@ -6,5 +6,5 @@
 
 We have Qwen3.8 27B at Opus4.6 level now, why should EU build that?
 
-tags: author:nymne, kind:tweet, model:claude-opus-4-6, year:2026
-cited on: _dossiers/qwen-3-8-27b.md
+tags: author:nymne, kind:tweet, model:claude-opus-4-6, on:qwen-3-8-27b, year:2026
+cited on: _dossiers/qwen-3-8-27b.md, qwen-3-8-27b

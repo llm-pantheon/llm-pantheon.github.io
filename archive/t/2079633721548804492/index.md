@@ -8,5 +8,5 @@ well i guess my point still stands: what about openrouter is worth the 1.5% extr
 
 for context: right now we're just using glm 5.2 from them and using claude from anthropic
 
-tags: author:stevekrouse, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:stevekrouse, kind:tweet, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

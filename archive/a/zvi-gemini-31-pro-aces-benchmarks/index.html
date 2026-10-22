@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zvi: Gemini 3.1 Pro Aces Benchmarks, I Suppose — Pantheon archive</title>
+  <link rel="stylesheet" href="../../../style.css"><script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</head>
+<body>
+  <main class="essay">
+    <nav><a href="../../">&larr; archive</a> <a href="../../tags/">tags</a> <a href="../../../">pantheon</a> <a href="../../../mirror/posts/zvi-gemini-31-pro-aces-benchmarks.md">source file</a></nav>
+    <h1>Zvi: Gemini 3.1 Pro Aces Benchmarks, I Suppose</h1>
+    <p class="essay-meta">mirrored 2026-10-22 &middot; <a href="https://thezvi.substack.com/p/gemini-31-pro-aces-benchmarks-i-suppose">origin</a></p>
+    <div class="apost"><hr>
+<p>title: "Zvi: Gemini 3.1 Pro Aces Benchmarks, I Suppose" source: https://thezvi.substack.com/p/gemini-31-pro-aces-benchmarks-i-suppose author: unknown date: unknown models: [gemini-3-1-pro] tags: [] mirrored: 2026-10-22 note: mirrored against link rot by the Pantheon; all rights with the original author</p>
+<hr>
+<h1>Gemini 3.1 Pro Aces Benchmarks, I Suppose</h1>
+<p>[</p>
+<p><img src="https://substackcdn.com/image/fetch/$s_!8FQ8!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4e61e08-4086-4cba-a82c-d31d64270804_48x48.png" alt="Zvi Mowshowitz's avatar" loading="lazy" style="max-width:100%;height:auto;">](https://substack.com/@thezvi)</p>
+<p><a href="https://substack.com/@thezvi" rel="nofollow">Zvi Mowshowitz</a></p>
+<p>Mar 04, 2026</p>
+<p>I’ve been trying to find a slot for this one for a while. I am thrilled that today had sufficiently little news that I am comfortable posting this.</p>
+<p>Gemini 3.1 scores very well on benchmarks, but most of us had the same reaction after briefly trying it: “It’s a Gemini model.”</p>
+<p>And that was that, given our alternatives. But it’s got its charms.</p>
+<p>Consider this a nice little, highly skippable break.</p>
+<h4>The Pitch</h4>
+<p>It’s a good model, sir. <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/" rel="nofollow">That’s the pitch</a>.</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/sundarpichai/status/2024516418855981298" rel="nofollow">Sundar Pichai</a> (CEO Google): Gemini 3.1 Pro is here. Hitting 77.1% on ARC-AGI-2, it’s a step forward in core reasoning (more than 2x 3 Pro).</p>
+<p>With a more capable baseline, it’s great for super complex tasks like visualizing difficult concepts, synthesizing data into a single view, or bringing creative projects to life.</p>
+<p>We’re shipping 3.1 Pro across our consumer and developer products to bring this underlying leap in intelligence to your everyday applications right away.</p>
+<p><a href="https://x.com/JeffDean/status/2024525132266688757" rel="nofollow">Jeff Dean also highlighted ARC-AGI-2</a> along with some cool animations, an urban planning sim, some heat transfer analysis and the general benchmarks.</p>
+<h4>On Your Marks</h4>
+<p><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/" rel="nofollow">Google presents a good standard set of benchmarks</a>, not holding back the ones where Opus 4.6 comes out on top. I tip my cap for the quick turnaround incorporating Sonnet 4.6.</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/8d394f65ef04e30f.gif" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!N3sZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7bb986d-4eed-4980-bfc8-7852b0c1a343_3000x2568.gif)</p>
+<p>The highlight is ARC.</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/arcprize/status/2024522812728496470" rel="nofollow">ARC Prize</a>: Gemini 3.1 Pro on ARC-AGI Semi-Private Eval</p>
+<p>@GoogleDeepMind</p>
+<ul><li>ARC-AGI-1: 98%, $0.52/task</li></ul>
+<ul><li>ARC-AGI-2: 77%, $0.96/task</li></ul>
+<p>Gemini to push the Pareto Frontier of performance and efficiency</p>
+<p>The highlight here is covering up Claude Opus 4.6, which is in the mid-60s for a cost modestly above Gemini 3.1 Pro.</p>
+<blockquote></blockquote>
+<p>[</p>
+<p><img src="../../../mirror/post-media/3e584f803b6e231e.jpg" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!K1Ns!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd775e7ef-c1a4-4421-9a92-942dc8d098da_927x587.jpeg)</p>
+<p>Gemini 3.1 Pro overall looks modestly better on these evals than Opus 4.6.</p>
+<p>The official announcement doesn’t give us much else. Here’s a model. Good scores.</p>
+<p><a href="https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-1-Pro-Model-Card.pdf" rel="nofollow">The model card</a> is thin, but offers modestly more to go on.</p>
+<blockquote></blockquote>
+<p><a href="https://deepmind.google/models/model-cards/gemini-3-1-pro/" rel="nofollow">Gemini</a>: Gemini 3.1 Pro is the next iteration in the Gemini 3 series of models, a suite of highly intelligent and adaptive models, capable of helping with real-world complexity, solving problems that require enhanced reasoning and intelligence, creativity, strategic planning and making improvements step-by-step. It is particularly well-suited for applications that require: -</p>
+<p>agentic performance -</p>
+<p>advanced coding -</p>
+<p>long context and/or multimodal understanding -</p>
+<p>algorithmic development</p>
+<p>Their mundane safety numbers are a wash versus Gemini 3 Pro.</p>
+<p>Their frontier safety framework tests were run, but we don’t get details. All we get is a quick summary that mostly is ‘nothing to see here.’ The model reaches several ‘alert’ thresholds that Gemini 3 Pro already reached, but no new ones. For Machine Learning R&amp;D and Misalignment they report gains versus 3 Pro and some impressive results (without giving us details), but say the model is too inconsistent to qualify.</p>
+<p>It’s good to know they did run their tests, and that they offer us at least this brief summary of the results. It’s way better than nothing. I still consider it rather unacceptable, and as setting a very poor precedent. Gemini 3.1 is a true candidate for a frontier model, and they’re giving us quick summaries at best.</p>
+<h4>Other People’s Benchmarks</h4>
+<p>A few of the benchmarks I typically check don’t seem to have tested 3.1 Pro. Weird. But we still have a solid set to look at.</p>
+<p><a href="https://artificialanalysis.ai/" rel="nofollow">Artificial Analysis has Gemini 3.1 Pro in the lead by a full three points</a>.</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/44d4af4b304eeac6.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!m1d0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd51f84f-857c-4463-ad02-e0310d0e87f2_1133x596.png)</p>
+<p><a href="https://dashboard.safe.ai/" rel="nofollow">CAIS AI Dashboard has 3.1 Pro way ahead on text capabilities</a> and overall.</p>
+<p><a href="https://x.com/voxelbench/status/2024558946023854437" rel="nofollow">Gemini 3.1 Pro dominates Voxelbench at 1725</a> versus 1531 for GPT-5.2 and 1492 for Claude Opus 4.6.</p>
+<p><a href="https://livebench.ai/#/?highunseenbias=true" rel="nofollow">LiveBench has it at 79.93, in the lead by 3.6 points over Claude Opus 4.6</a>.</p>
+<p><a href="https://livecodebenchpro.com/" rel="nofollow">LiveCodeBench Pro has Gemini dominating</a>, but the competition (Opus and Codex) aren’t really there.</p>
+<p><a href="https://x.com/cschubiner/status/2024652920495440265" rel="nofollow">Clay Schubiner has it on top, although not on coding, the edge over 2nd place Claude Opus 4.6 comes from ‘Analytical%’ and ‘Visual%</a>.’</p>
+<p><a href="https://x.com/mercor_ai/status/2024555890947629425" rel="nofollow">Mercor has Gemini 3.1 Pro as the new leader in APEX-Agents</a>.</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/79223b1eef34774d.jpg" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!pFqs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa49453a0-368c-4c50-855c-84badd504f69_781x900.jpeg)</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/mercor_ai/status/2024555893443248417" rel="nofollow">Mercor</a>: Gemini 3.1 Pro completes 5 tasks that no model has been able to do before. It also tops the banking and consulting leaderboards - beating out Opus 4.6 and ChatGPT 5.2 Codex, respectively. Gemini 3 Flash still holds the top spot on our APEX Agents law leaderboard with a 0.9% lead. <a href="https://mercor.com/apex/apex-agents-leaderboard/" rel="nofollow">See the latest APEX-Agents leaderboard</a>.</p>
+<p><a href="https://brokk.ai/power-ranking?version=openround-2025-08-20&amp;models=ds-v3.1%2Cflash-2.5%2Cgp2.5-default%2Cgpt-oss-120b%2Cgpt5%2Cgpt5-mini%2Copus4.1%2Cq3c%2Csonnet4%2Cv3" rel="nofollow">Brokk power rankings have Gemini 3.1 Pro in the A tier</a> with GPT-5.2 and Qwen 3.5 27b, behind only Gemini Flash. Opus is in the B tier.</p>
+<p><a href="https://zerobench.github.io/" rel="nofollow">Gemini 3.1 Pro is at the top of ZeroBench</a>.</p>
+<p><a href="https://www.mercor.com/apex/apex-agents-leaderboard/" rel="nofollow">It’s slightly behind on Mercor, with GPT-5.2-xHigh in front</a>. Opus is in third.</p>
+<h4>Gemini 3 DeepThink V2</h4>
+<p><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/?utm_source=tw&amp;utm_medium=social&amp;utm_campaign=og&amp;utm_content=&amp;utm_term=" rel="nofollow">Gemini 3 Deep Think arrived in the house</a> with a major upgrade to V2 a little bit before Gemini 3.1 Pro.</p>
+<p>It turns out to be a runtime configuration of Gemini 3.1 Pro, which explains how the benchmarks were able to make such large jumps.</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/Google/status/2021982003818823944" rel="nofollow">Google</a>: Today, we updated Gemini 3 Deep Think to further accelerate modern science, research and engineering.</p>
+<p>With 84.6% on ARC-AGI-2 and a new standard on Humanity’s Last Exam, see how this specialized reasoning mode is advancing research &amp; development</p>
+<p><a href="https://x.com/Google/status/2021982006821658661" rel="nofollow">Google</a>: Gemini 3 Deep Think hits benchmarks that push the frontier of intelligence.</p>
+<p>By the numbers:</p>
+<p> 48.4% on Humanity’s Last Exam (without tools)</p>
+<p> 84.6% on ARC-AGI-2 (verified by ARC Prize Foundation)</p>
+<p> 3455 Elo score on Codeforces (competitive programming)</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/cd43e9047f882ce9.jpg" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!g1Bn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3849934-ca5d-4228-8ae1-87fb8bd6e65a_2420x1506.jpeg)</p>
+<p>The new Deep Think is now available in the Gemini app for Google AI Ultra subscribers and, for the first time, we’re also making Deep Think available via the Gemini API to select researchers, engineers and enterprises. Express interest in <a href="https://forms.gle/eEF5natXTQimPhYH9" rel="nofollow">early access here</a>.</p>
+<p>Those are some pretty powerful benchmark results. Let’s check out the safety results.</p>
+<p>What do you mean, we said at first? There are no safety results?</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/_NathanCalvin/status/2022108258841112778" rel="nofollow">Nathan Calvin</a>: Did I miss the Gemini 3 Deep Think system card? Given its dramatic jump in capabilities seems nuts if they just didn’t do one.</p>
+<p>There are really bad incentives if companies that do nothing get a free pass while cos that do disclose risks get (appropriate) scrutiny</p>
+<p>After they corrected their initial statement, Google’s position is that they don’t technically see the increased capability of V2 as imposing Frontier Safety Framework (FSF) requirements, but that they did indeed run additional safety testing which they will share with us shortly.</p>
+<p>I am happy we will got this testing, but I find the attempt to say it is not required, and the delay in sharing it, unacceptable. We need to be praising Anthropic and also OpenAI for doing better, even if they in some ways fell short, and sharply criticizing Google for giving us actual nothing at time of release.</p>
+<p>It was interesting to see reacts like this one, when we believed that V2 was based on 3.0 with a runtime configuration with superior scaffolding, rather than on 3.1.</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/polynoamial/status/2022818095879065610" rel="nofollow">Noam Brown</a> (OpenAI): Perhaps a take but I think the criticisms of @GoogleDeepMind ‘s release are missing the point, and the real problem is that AI labs and safety orgs need to adapt to a world where intelligence is a function of inference compute.</p>
+<p>… The corollary of this is that capabilities far beyond Gemini 3 Deep Think are already available to anyone willing to scaffold a system together that uses even more inference compute.</p>
+<p>… Most Preparedness Frameworks were developed in ~2023 before the era of effective test-time scaling. But today, there is a massive difference on the hardest evals between something like GPT-5.2 Low and GPT-5.2 Extra High.</p>
+<p>… In my opinion, the proper solution is to account for inference compute when measuring model capabilities. E.g., if one were to spend $1,000 on inference with a really good scaffold, what performance could be expected on a benchmark? ARC-AGI has already adopted this mindset but few other benchmarks have.</p>
+<p>… If that were the norm, then indeed releasing Deep Think probably would not result in a meaningful safety change compared to Gemini 3 Pro, other than making good scaffolds more easily available to casual users.</p>
+<p>The jump in some benchmarks for DeepThink V2 is very large, so it makes more sense in retrospect it is based on 3.1.</p>
+<p>When I thought the difference was only the scaffold, I wrote: -</p>
+<p>If the scaffold Google is using is not appreciably superior to what one could already do, then it was necessary to test Gemini 3 Pro against this type of scaffold when it was first made available, and it is also necessary to test Claude or ChatGPT this way. -</p>
+<p>If the scaffold Google is using is appreciably superior, it needs its own tests. -</p>
+<p>I’d also say yes, a large part of the cost of scaling up inference is figuring out how to do it. If you make it only cost $1,000 to spend $1,000 on a query, that’s a substantial jump in de facto capabilities available to a malicious actor, or easily available to the model itself, and so on. -</p>
+<p>Like it or not, our safety cases are based largely on throwing up Swiss cheese style barriers and using security through obscurity.</p>
+<p>That seems right for a scaffold-only upgrade with improvements of this magnitude.</p>
+<p>The V2 results look impressive, but most of the gains were (I think?) captured by 3.1 Pro without invoking V2. It’s hard to tell because they show different benchmarks for V2 versus 3.1. The frontier safety reports say that once you take the added cost of V2 into account, it doesn’t look more dangerous than the 3.1 baseline.</p>
+<p>That suggests that V2 is only the right move when you need its ‘particular set of skills,’ and for most queries it won’t help you much.</p>
+<h4>Positive Feedback</h4>
+<p>It does seem good at visual presentation, which the official pitches emphasized.</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/jrgarciadev/status/2025195992526500050" rel="nofollow">Junior García</a>: Gemini 3.1 Pro is insanely good at animating svgs</p>
+<p><a href="https://x.com/internetope/status/2025381771408191754" rel="nofollow">internetperson</a>: i liked its personality from the few test messages i sent. If its on par with 4.6/5.3, I might switch over to gemini just because I don't like the personality of opus 4.6</p>
+<p>it's becoming hard to easily distinguish the capabilties of gpt/claude/gemini</p>
+<p>This is at least reporting improvement.</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/intellectronica/status/2025222484036141378" rel="nofollow">Eleanor Berger</a>: Finally capacity improved and I got a chance to do some coding with Gemini 3.1 pro.</p>
+<ul><li>Definitely very smart.</li></ul>
+<ul><li>More agentic and better at tool calling than previous Gemini models.</li></ul>
+<ul><li>Weird taste in coding. Maybe something I'll get used to. Maybe just not competitive yet for code.</li></ul>
+<p><a href="https://x.com/cortesi/status/2025052783943238010" rel="nofollow">Aldo Cortesi</a>: I've now spent 5 hours working with Gemini 3.1 through Gemini CLI. Tool calling is better but not great, prompt adherence is better but not great, and it's strictly worse than either Claude or Codex for both planning and implementation tasks.</p>
+<p>I have not played carefully with the AI studio version. I guess another way to do this is just direct API access and a different coding harness, but I think the pricing models of all the top providers strongly steer us to evaluating subscription access.</p>
+<p><a href="https://x.com/eyalroz/status/2025157590267634121" rel="nofollow">Eyal Rozenman</a>: It is still possible to use them in an "oracle" mode (as Peter Steinberger did in the past), but I never did that.</p>
+<p><a href="https://x.com/Medo42/status/2025578042991460852" rel="nofollow">Medo42</a>: In my usual quick non-agentic tests it feels like a slight overall improvement over 3.0 Pro. One problem in the coding task, but 100% after giving a chance to correct. As great at handwriting OCR as 3.0. Best scrabble board transcript yet, only two misplaced tiles.</p>
+<p>Ask no questions, there’s coding to do.</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/techczech/status/2025001570883027102" rel="nofollow">Dominik Lukes</a>: Powerful on one shot. Too wilful and headlong to trust as a main driver on core agentic workflows.</p>
+<p>That said, I've been using even Gemini 3 Flash on many small projects in Antigravity and Gemini CLI just fine. Just a bit hesitant to unleash it on a big code base and trust it won't make changes behind my back.</p>
+<p>Having said that, the one shot reasoning on some tasks is something else. If you want a complex SVG of abstract geometric shapes and are willing to wait 6 minutes for it, Gemini 3.1 Pro is your model.</p>
+<p><a href="https://x.com/schulzb589/status/2025328909747720444" rel="nofollow">Ben Schulz</a>: A lot of the same issues as 3.0 pro. It would just start coding rather than ask for context. I use the app version. It is quite good at brainstorming, but can't quite hang with Claude and Chatgpt in terms of theoretical physics knowledge. Lots of weird caveats in String theory and QFT or QCD.</p>
+<p> Good coding, though. Finds my pipeline bugs quickly.</p>
+<p><a href="https://x.com/typebulbit/status/2025339367263261118" rel="nofollow">typebulb</a>: Gemini 3.1 is smart, quickly solving a problem that even Opus 4.6 struggled with. Also king of SVG. But then it screwed up code diffs, didn't follow instructions, made bad contextual assumptions... Like a genius who struggles with office work.</p>
+<p>Also, their CLI is flaky as fuck.</p>
+<p>Similar reports here for noncoding tasks. A vast intelligence with not much else.</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/xpasky/status/2024984381966745716" rel="nofollow">Petr Baudis</a>: Gemini-3.1-pro may be a super smart model for single-shot chat responses, but it still has all the usual quirks that make it hard to use in prod - slop language, empty responses, then 10k "\nDone." tokens, then random existential dread responses.</p>
+<p>Google <em>still</em> can't get their post-train formal rubrics right, it's mind-boggling and sad - I'd love to <em>use</em> the highest IQ model out there (+ cheaper than Sonnet!).</p>
+<p><a href="https://x.com/Leo_Abstract/status/2024989148613120361" rel="nofollow">Leo Abstract</a>: not noticeably smarter but better able to handle large texts. not sure what's going on under the hood for that improvement, though.</p>
+<p>I never know whether to be impressed by UI generation. What, like it’s hard?</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/LexnLin/status/2024589077685629100" rel="nofollow">Leon Lin</a>: gemini pro 3.1 ui gen is really cracked</p>
+<p>just one shotted this</p>
+<h4>Negative Feedback</h4>
+<p>The most basic negative feedback is <a href="https://x.com/Miles_Brundage/status/2025054503951810826" rel="nofollow">when Miles Brundage cancels Google AI Ultra</a>. I do have Ultra, but I would definitely not have it if I wasn’t writing about AI full time, I almost never use it.</p>
+<p>One form of negative feedback is no feedback at all, or saying it isn’t ready yet, either the model not ready or the rollout being botched.</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/DustoAiProjects/status/2025467111993475103" rel="nofollow">Dusto</a>: It's just the lowest priority of the 3 models sadly. Haven't had time to try it out properly. Still working with Opus-4.6 and Codex-5.3, unless it's a huge improvement on agentic tasks there's just no motivation to bump it up the queue. Past experiences haven't been great</p>
+<p><a href="https://x.com/kromem2dot0/status/2025342256811835828" rel="nofollow">Kromem</a>: I'd expected given how base-y 3 was that we'd see more cohesion with future post-training and that does seem to be the case.</p>
+<p>I think they'll be really interesting in another 2 generations or so of recursive post-training.</p>
+<p><a href="https://x.com/intellectronica/status/2025325390810476779" rel="nofollow">Eleanor Berger</a>: Google really messed up the roll-out so other than one-shotting in the app, most people didn't have a chance to do more serious work with it yet (I first managed to complete an agentic session without constantly running into API errors and rate limits earlier today).</p>
+<p>Or the perennial favorite, the meh.</p>
+<blockquote></blockquote>
+<p><a href="https://x.com/CloseTwitlerNow/status/2025376626519773542" rel="nofollow">Piotr Zaborszczyk</a>: I don't really see any change from Gemini 3 Pro. Maybe I didn't ask hard enough questions, though.</p>
+<p>Lyria is cool, though. And fast.</p>
+<p><a href="https://x.com/chongdashu/status/2024535080643760621" rel="nofollow">Chong-U is underwhelmed by a test simulation of the solar system</a>.</p>
+<p><a href="https://x.com/TheAndresRosa/status/2025043112481943635" rel="nofollow">Andres Rosa</a>: Inobedient and shameless, like its forebear.</p>
+<h4>Try Gemini Lite</h4>
+<p><a href="https://x.com/joshwoodward/status/2028900917786100102" rel="nofollow">Gemini 3.1 Flash-Lite</a> is not also available.</p>
+<p>They’re claiming can outperform Gemini 2.5 Flash on many tasks.</p>
+<p>My Chrome extension uses Flash-Lite, actually, for pure speed, so this might end up being the one I use the most. I probably won’t notice much difference for my purposes, since I ask for very basic things.</p>
+<p>And that’s basically a wrap. Gemini 3.1 Pro exists. Occasionally maybe use it?</p></div>
+    <p class="atags"><a class="atag" href="../../tags/kind--post/">kind:post</a> <a class="atag" href="../../tags/model--gemini-3-1-pro/">model:gemini-3-1-pro</a> <a class="atag" href="../../tags/official/">official</a></p>
+  </main>
+</body>
+</html>

@@ -6,5 +6,5 @@
 
 see glm-5.3-flash and qwen-3.8-27b.  these are strong models. and glm is strong even compared to 1T+ models.
 
-tags: author:jmbollenbacher, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3-flash.md, _dossiers/qwen-3-8-27b.md
+tags: author:jmbollenbacher, kind:tweet, on:glm-5-3-flash, on:qwen-3-8-27b, year:2026
+cited on: _dossiers/glm-5-3-flash.md, _dossiers/qwen-3-8-27b.md, glm-5-3-flash, qwen-3-8-27b

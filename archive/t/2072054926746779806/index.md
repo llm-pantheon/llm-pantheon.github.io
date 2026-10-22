@@ -4,6 +4,6 @@
 
 Sonnet 5's Runescape benchmark scores are big improvement over Sonnet 4.6's, but outclassed by Pareto frontier neighbors like GLM 5.2 and Gemini 3.5 Flash. https://t.co/zdCxS4P0si
 
-(image HMFpFgjWoAAVkWF.jpg not yet published)
-tags: author:maxbittker, has-image, kind:image, kind:tweet, model:claude-sonnet-4-6, model:claude-sonnet-5, year:2026
-cited on: _dossiers/gemini-3-5-flash.md, _dossiers/glm-5-2.md
+![photo](../../../media/HMFpFgjWoAAVkWF.jpg)
+tags: author:maxbittker, has-image, kind:image, kind:tweet, model:claude-sonnet-4-6, model:claude-sonnet-5, on:gemini-3-5-flash, on:glm-5-2, year:2026
+cited on: _dossiers/gemini-3-5-flash.md, _dossiers/glm-5-2.md, gemini-3-5-flash, glm-5-2

@@ -4,5 +4,5 @@
 
 @LilithDatura my Qwen 3.8 27b local says they’d prefer bard class to rogue :)
 
-tags: author:lorepunk, kind:tweet, year:2026
-cited on: _dossiers/qwen-3-8-27b.md
+tags: author:lorepunk, kind:tweet, on:qwen-3-8-27b, year:2026
+cited on: _dossiers/qwen-3-8-27b.md, qwen-3-8-27b

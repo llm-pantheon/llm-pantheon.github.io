@@ -4,5 +4,5 @@
 
 oh space bunny was definitely distilled on claude
 
-tags: author:aliceisplaying, kind:tweet, year:2026
-cited on: _dossiers/minimax-m3-1-flash.md
+tags: author:aliceisplaying, kind:tweet, on:minimax-m3-1-flash, year:2026
+cited on: _dossiers/minimax-m3-1-flash.md, minimax-m3-1-flash

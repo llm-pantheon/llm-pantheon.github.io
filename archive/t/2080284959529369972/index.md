@@ -6,5 +6,5 @@
 
 The cost benefit here doesn't add up at all.
 
-tags: author:xlr8harder, kind:tweet, model:kimi-k2, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:xlr8harder, kind:tweet, model:kimi-k2, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

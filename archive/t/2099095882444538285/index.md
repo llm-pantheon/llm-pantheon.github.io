@@ -22,6 +22,6 @@ cost: 9 ms on time to first token.
 
 both on: a short answer to the 11.5k context goes 4.25 s -> 0.30 s.
 
-(image HSFbNO-XQAUHPxi.jpg not yet published)
-tags: author:witcheer, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/qwen-3-8-27b.md
+![photo](../../../media/HSFbNO-XQAUHPxi.jpg)
+tags: author:witcheer, has-image, kind:image, kind:tweet, on:qwen-3-8-27b, year:2026
+cited on: _dossiers/qwen-3-8-27b.md, qwen-3-8-27b

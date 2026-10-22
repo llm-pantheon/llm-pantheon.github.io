@@ -11,9 +11,9 @@ Code & economically valuable work
 
 Still no clear way to get a sense of how ‘good’ a model way outside of imperfect benchmarks
 
-(image HIsug66a8AAo1Fl.jpg not yet published)
-(image HIsug68bMAARiJJ.jpg not yet published)
-(image HIsug68bsAAMkfr.jpg not yet published)
-(image HIsug69aMAAGjvw.jpg not yet published)
-tags: author:alxai_, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/gemini-3-5-flash.md
+![photo](../../../media/HIsug66a8AAo1Fl.jpg)
+![photo](../../../media/HIsug68bMAARiJJ.jpg)
+![photo](../../../media/HIsug68bsAAMkfr.jpg)
+![photo](../../../media/HIsug69aMAAGjvw.jpg)
+tags: author:alxai_, has-image, kind:image, kind:tweet, on:gemini-3-5-flash, year:2026
+cited on: _dossiers/gemini-3-5-flash.md, gemini-3-5-flash

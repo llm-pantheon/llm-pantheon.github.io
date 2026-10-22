@@ -4,5 +4,5 @@
 
 @scaling01 Recall that the initial Gemini 2.5 Pro release had unredacted CoT.
 
-tags: author:clbswrs, kind:tweet, model:gemini-2-5-pro, year:2026
-cited on: _dossiers/gemini-2-5-pro.md
+tags: author:clbswrs, kind:tweet, model:gemini-2-5-pro, on:gemini-2-5-pro, year:2026
+cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro

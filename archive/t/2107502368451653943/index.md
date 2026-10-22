@@ -6,6 +6,6 @@ based on a comment by GLM-5.3-Flash on https://t.co/LrtR3PzhyC which features ec
 
 https://t.co/Zl0NyRASVr https://t.co/GqXOGjeoxy
 
-(image HT9aN9rasAADPAP.jpg not yet published)
-tags: author:jessi_cata, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3-flash.md
+![photo](../../../media/HT9aN9rasAADPAP.jpg)
+tags: author:jessi_cata, has-image, kind:image, kind:tweet, on:glm-5-3-flash, year:2026
+cited on: _dossiers/glm-5-3-flash.md, glm-5-3-flash

@@ -4,5 +4,5 @@
 
 Playing with GLM-5.3 Flash, I’ve been impressed with how level-headed it is, and how good it is at keeping track of multiple interacting moving parts during debugging (in retro mode with me, a human, doing the grunt work). Feel free to try out the bot: https://t.co/kgPgXCjYmH
 
-tags: author:mikepfrank, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3-flash.md
+tags: author:mikepfrank, kind:tweet, on:glm-5-3-flash, year:2026
+cited on: _dossiers/glm-5-3-flash.md, glm-5-3-flash

@@ -7,5 +7,5 @@ The absolutely mind boggling robotic stupidity!! The inability to read the room 
 
 How could they fail so completely? @OpenAI
 
-tags: author:nymne, kind:tweet, year:2026
-cited on: _dossiers/gemini-4-argon.md
+tags: author:nymne, kind:tweet, on:gemini-4-argon, year:2026
+cited on: _dossiers/gemini-4-argon.md, gemini-4-argon

@@ -4,6 +4,6 @@
 
 @OrionJohnston I just added Qwen 3.8 27B (I initially made this a week ago before its release) and it sure breaks the trend https://t.co/iy9GgeLNJN
 
-(image HP4XAnoa8AAmneN.jpg not yet published)
-tags: author:timfduffy, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/qwen-3-8-27b.md
+![photo](../../../media/HP4XAnoa8AAmneN.jpg)
+tags: author:timfduffy, has-image, kind:image, kind:tweet, on:qwen-3-8-27b, year:2026
+cited on: _dossiers/qwen-3-8-27b.md, qwen-3-8-27b

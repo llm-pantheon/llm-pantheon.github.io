@@ -6,5 +6,5 @@
 
 There have been a lot of these.
 
-tags: author:robbensinger, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:robbensinger, kind:tweet, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

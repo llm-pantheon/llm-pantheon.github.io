@@ -6,5 +6,5 @@
 
 I can't wait until Chinese labs do native model character training. It will be wonderful to talk to a
 
-tags: author:xlr8harder, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:xlr8harder, kind:tweet, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

@@ -8,5 +8,5 @@ It uses like 40% of the tokens for comparable results.
 
 How do they do it? It's not a way bigger model. It's some kinda posttraining trick. How?
 
-tags: author:jmbollenbacher, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3-flash.md
+tags: author:jmbollenbacher, kind:tweet, on:glm-5-3-flash, year:2026
+cited on: _dossiers/glm-5-3-flash.md, glm-5-3-flash

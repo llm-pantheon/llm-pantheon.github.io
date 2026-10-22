@@ -9,5 +9,5 @@ huge WIP, but nice first start for just a few hours' work. taps into atproto's o
 @OfficialLoganK @joshwoodward @demishassabis 👀 https://t.co/8UvvfTIdyU
 
 (image f7J-zUGxVAQnDNPj.jpg not yet published)
-tags: author:jglypt, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/gemini-3-5-flash.md
+tags: author:jglypt, has-image, kind:image, kind:tweet, on:gemini-3-5-flash, year:2026
+cited on: _dossiers/gemini-3-5-flash.md, gemini-3-5-flash

@@ -14,12 +14,12 @@
       <span class="rh-stats">&#9829;57 &#8635;0</span>
       <a class="rh-orig" href="https://x.com/witcheer/status/2099095882444538285">original &#8599;</a></div>
       <div class="record-body">the loudest specific complaint in Alex Cheema's thread on why people don't run local models was prefill: a coding agent hands the model a long prompt and you wait for the first token, every request. <br><br>two llama-server flags remove most of that wait, and both are free. I measured them on the model my always-on box serves every day.<br><br>Qwen3.8-27B Q6_K, llama.cpp, one RTX 5090, batch 1, 304 requests, one variable at a time.<br><br>prompt caching, same system prompt, new question:<br>- 2,954-token prompt: 1.004 s -&gt; 0.069 s to first token<br>- 11,570-token prompt: 3.814 s -&gt; 0.086 s<br>decode speed untouched.<br><br>speculative decoding (the model's own MTP draft head, n=2):<br>- prose 61 -&gt; 109 tok/s<br>- chat 61 -&gt; 113<br>- code 61 -&gt; 139<br>- repetitive text 61 -&gt; 144<br>cost: 9 ms on time to first token.<br><br>both on: a short answer to the 11.5k context goes 4.25 s -&gt; 0.30 s.</div>
-      <figure class="record-media"><p class="note">[image HSFbNO-XQAUHPxi.jpg in the corpus mirror; not published]</p></figure>
+      <figure class="record-media"><img src="../../../media/HSFbNO-XQAUHPxi.jpg" loading="lazy" alt="photo"></figure>
 
     </article>
     
-    <p class="atags"><a class="atag" href="../../tags/author--witcheer/">author:witcheer</a> <a class="atag" href="../../tags/has-image/">has-image</a> <a class="atag" href="../../tags/kind--image/">kind:image</a> <a class="atag" href="../../tags/kind--tweet/">kind:tweet</a> <a class="atag" href="../../tags/year--2026/">year:2026</a></p>
-    
+    <p class="atags"><a class="atag" href="../../tags/author--witcheer/">author:witcheer</a> <a class="atag" href="../../tags/has-image/">has-image</a> <a class="atag" href="../../tags/kind--image/">kind:image</a> <a class="atag" href="../../tags/kind--tweet/">kind:tweet</a> <a class="atag" href="../../tags/on--qwen-3-8-27b/">on:qwen-3-8-27b</a> <a class="atag" href="../../tags/year--2026/">year:2026</a></p>
+    <p class="note">cited on: <a href="../../../qwen-3-8-27b/">qwen-3-8-27b</a></p>
     <p class="note">Reproduced against link rot, credited and linked to its original. Yours and you&rsquo;d rather it
     weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
   </main>

@@ -7,6 +7,6 @@ does Perplexity seriously expect this benchmark to make people switch off their 
 
 this is basically an ad for Qwen 3.8-27B, at this point https://t.co/EEbB7OlCp6
 
-(image HQnKt_UaYAAL5NX.jpg not yet published)
-tags: author:codyhxyz, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/qwen-3-8-27b.md
+![photo](../../../media/HQnKt_UaYAAL5NX.jpg)
+tags: author:codyhxyz, has-image, kind:image, kind:tweet, on:qwen-3-8-27b, year:2026
+cited on: _dossiers/qwen-3-8-27b.md, qwen-3-8-27b

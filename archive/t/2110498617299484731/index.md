@@ -4,5 +4,5 @@
 
 i expected argon to be bad but like, opus 4.8 bad not... this
 
-tags: author:aliceisplaying, kind:tweet, model:claude-opus-4-8, year:2026
-cited on: _dossiers/gemini-4-argon.md
+tags: author:aliceisplaying, kind:tweet, model:claude-opus-4-8, on:gemini-4-argon, year:2026
+cited on: _dossiers/gemini-4-argon.md, gemini-4-argon

@@ -6,5 +6,5 @@ Slight Correction: Step 5 Preview's final score on Hermes Index has been updated
 
 Learn more @ https://t.co/GMkIS99T2r
 
-tags: author:nousresearch, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/glm-5-3-flash.md
+tags: author:nousresearch, kind:tweet, model:nous-hermes, on:glm-5-3-flash, year:2026
+cited on: _dossiers/glm-5-3-flash.md, glm-5-3-flash

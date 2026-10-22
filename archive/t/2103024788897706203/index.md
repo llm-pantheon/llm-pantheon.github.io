@@ -11,5 +11,5 @@ Hermes Agent took it from there. it checked the duck was sitting, stood it up, w
 it runs on a local Qwen3.8-27B.
 
 (image 0TaGwXewmxyc1Zcr.jpg not yet published)
-tags: author:witcheer, has-image, kind:image, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/qwen-3-8-27b.md
+tags: author:witcheer, has-image, kind:image, kind:tweet, model:nous-hermes, on:qwen-3-8-27b, year:2026
+cited on: _dossiers/qwen-3-8-27b.md, qwen-3-8-27b

@@ -8,5 +8,5 @@ i bet the newer deepseek pro and glm 5.3 are pretty great too but haven't played
 
 deepseek flash is crazy cheap and very smart
 
-tags: author:stevekrouse, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:stevekrouse, kind:tweet, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

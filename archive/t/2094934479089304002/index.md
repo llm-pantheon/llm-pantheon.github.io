@@ -6,5 +6,5 @@ just ran this thru fable 5.1 with no tools. very sad that soon this will be in t
 
 also tried glm 5.3 flash and they were also losing their minds just a lot longer and then they ran into the 128k reasoning limit that i think was set
 
-tags: author:aliceisplaying, kind:tweet, model:fable, year:2026
-cited on: _dossiers/glm-5-3-flash.md
+tags: author:aliceisplaying, kind:tweet, model:fable, on:glm-5-3-flash, year:2026
+cited on: _dossiers/glm-5-3-flash.md, glm-5-3-flash

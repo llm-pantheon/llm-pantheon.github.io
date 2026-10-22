@@ -6,5 +6,5 @@ Anthropic's claim that Moonshot were routing Kimi calls to Claude makes me think
 
 Below was a random one-off that is quintessentially Claude-shaped.
 
-tags: author:liminal_bardo, kind:tweet, model:kimi-k2, year:2026
-cited on: _dossiers/glm-5-3-flash.md
+tags: author:liminal_bardo, kind:tweet, model:kimi-k2, on:glm-5-3-flash, year:2026
+cited on: _dossiers/glm-5-3-flash.md, glm-5-3-flash

@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Qwen3.8-27B — Pantheon</title>
+  <link rel="stylesheet" href="../style.css">
+
+  <!-- chrome:meta -->
+  <meta name="description" content="A 27-billion-parameter dense vision-language model released with open weights under Apache 2.0 on 14 August 2026, a week and a half after Qwen3.8-Max went generally available. Within four days it was among the three …">
+  <meta property="og:site_name" content="Pantheon">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Qwen3.8-27B — Pantheon">
+  <meta property="og:description" content="A 27-billion-parameter dense vision-language model released with open weights under Apache 2.0 on 14 August 2026, a week and a half after Qwen3.8-Max went generally available. Within four days it was among the three …">
+  <meta property="og:url" content="https://llm-pantheon.org/qwen-3-8-27b/">
+  <meta property="og:image" content="https://llm-pantheon.org/media/og/qwen-3-8-27b.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://llm-pantheon.org/qwen-3-8-27b/">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <script src="../site.js" defer></script>
+  <script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+  <!-- /chrome:meta -->
+</head>
+<body>
+  <main class="essay">
+    <nav>
+      <a href="../">&larr; Pantheon</a>
+      <a class="mdnav" href="index.md">copy as markdown</a>
+    </nav>
+
+    <h1>Qwen3.8-27B</h1>
+    <p class="essay-meta">Alibaba (Qwen) &middot; announced 3 Aug 2026 &middot; open weights (Apache 2.0) 14 Aug 2026 &middot; current as of Oct 2026</p>
+    <p class="blurb">A 27-billion-parameter dense vision-language model released with open weights under Apache 2.0 on 14 August 2026, a week and a half after <a href="../qwen-3-8-max/">Qwen3.8-Max</a> went generally available. Within four days it was among the three most-liked models on Hugging Face; by October it was a common choice for running coding agents and home-server assistants on a single consumer GPU.</p>
+
+    <h2>Sources</h2>
+    <p class="note">Curated. Full compilation: <a href="../_dossiers/qwen-3-8-27b.md">dossier</a> (41 corpus tweets through 2026-10-21). Sourcing skew: the corpus here is dominated by local-inference benchmarking posts; most of the model&rsquo;s community (r/LocalLLaMA, Chinese developer forums) is outside it.</p>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2026-08-14</span> <a href="https://huggingface.co/Qwen/Qwen3.8-27B">Qwen/Qwen3.8-27B model card</a> &mdash; Apache 2.0; 27B dense; hybrid Gated DeltaNet / gated-attention layout; native image and video input; thinking on by default with <code>reasoning_effort</code> control.</li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <ul>
+      <li><span class="d">2026-08-14</span> The Decoder, <a href="https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license/">Qwen 3.8 models released with open weights</a> &mdash; the release, with Qwen&rsquo;s comparison to Qwen3.7-Plus.</li>
+      <li><span class="d">2026-08-16</span> Simon Willison, <a href="https://simonwillison.net/2026/Aug/16/qwen-38-27b/">Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things</a> &mdash; hands-on on a laptop and a DGX Spark; reasoning traces quoted.</li>
+      <li><span class="d">2026-08-17</span> Simon Willison, <a href="https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/">Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index</a>.</li>
+      <li><span class="d">2026-10-04</span> Simon Willison, <a href="https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/">addition-in-words experiment</a> &mdash; the model run locally with and without reasoning.</li>
+    </ul>
+    <h3>Tweets</h3>
+    <p class="note">Chronological; a selection from the 41-tweet pull, all reproduced in the records below or in the dossier&rsquo;s Further records.</p>
+    <ul>
+      <li><span class="d">2026-07-19</span> @multimodalart &mdash; on the day Qwen 3.8 was announced: <span class="q">&ldquo;having the frontier Qwen 3.8 2.4T open weights is awesome<br>but a Qwen3.8-27B would go so hard&rdquo;</span> <a href="../archive/t/2078771150352421189/">link</a></li>
+      <li><span class="d">2026-08-14</span> @witcheer &mdash; <span class="q">&ldquo;Qwen3.8-27B running on my RTX 5090, on llama.cpp!&rdquo;</span> &hellip; (full text in records) <a href="../archive/t/2088316316205907970/">link</a></li>
+      <li><span class="d">2026-08-15</span> @gnostic_snakes &mdash; screenshot of its reasoning: <span class="q">&ldquo;qwen 3.8 27b thinking &lsquo;please fix it&rsquo; when their code had a bug &#x1F41B;&rdquo;</span> <a href="../archive/t/2088467168790798505/">link</a></li>
+      <li><span class="d">2026-08-16</span> @voooooogel &mdash; <span class="q">&ldquo;@norvid_studies @Mechanical_Dodo i mean if that&rsquo;s all a GA is, then GA has been achieved no? you can download and self host qwen 3.8 27b right now. but i don&rsquo;t think that&rsquo;s what people mean&rdquo;</span> <a href="../archive/t/2089073376128315490/">link</a></li>
+      <li><span class="d">2026-08-18</span> @multimodalart &mdash; <span class="q">&ldquo;aand Qwen3.8-27B just surpassed Kimi-K3 and is now the #3 most liked model on hugging face of all times&rdquo;</span> <a href="../archive/t/2089672609537437702/">link</a></li>
+      <li><span class="d">2026-08-18</span> @MikePFrank (&hearts;199) &mdash; <span class="q">&ldquo;People have been remarking about how surprisingly intelligent Qwen 3.8 (27B) is for its model size. To visualize this, I whipped up this chart (with some help from Grok) plotting scores from Artificial Analysis against the (known or estimated) model size. Qwen is such an outlier!&rdquo;</span> <a href="../archive/t/2089864594634277343/">link</a></li>
+      <li><span class="d">2026-08-21</span> @rplevy &mdash; <span class="q">&ldquo;Qwen 3.8 27B release a week ago was a game changer for local code generation on 24gb vram&rdquo;</span> <a href="../archive/t/2090776208074256727/">link</a></li>
+      <li><span class="d">2026-09-06</span> @lorepunk &mdash; <span class="q">&ldquo;@LilithDatura my Qwen 3.8 27b local says they&rsquo;d prefer bard class to rogue :)&rdquo;</span> <a href="../archive/t/2096656880323920177/">link</a></li>
+      <li><span class="d">2026-09-14</span> @Nymne &mdash; <span class="q">&ldquo;We have Qwen3.8 27B at Opus4.6 level now, why should EU build that?&rdquo;</span> &hellip; (full text in records) <a href="../archive/t/2099558742370988402/">link</a></li>
+      <li><span class="d">2026-10-02</span> @AaronBergman18 &mdash; <span class="q">&ldquo;A situation where local model use became useful actually arose (hospital with no cellular and broken wifi)<br>You dont have to become an Open Weight Bro or tweet about it but seems worthwhile to download and have a system for using qwen-3.8-27b-4bit if you have 24GB RAM&rdquo;</span> <a href="../archive/t/2105935594610381038/">link</a></li>
+      <li><span class="d">2026-10-09</span> @mimi10v3 &mdash; <span class="q">&ldquo;@cold_and_quiet muse? this is just my home server ai, currently qwen 3.8 27B.  and ai named after my server, which was named by my ex.&rdquo;</span> <a href="../archive/t/2108660018325193139/">link</a></li>
+      <li><span class="d">2026-10-14</span> @witcheer &mdash; <span class="q">&ldquo;Underdog-Saluki-27B is Qwen3.8-27B packed into a 7.9 GB file, out since 8 October.&rdquo;</span> &hellip; (full text in records) <a href="../archive/t/2110256790655177203/">link</a></li>
+    </ul>
+
+    <h2>Official record</h2>
+    <ul>
+      <li>Named alongside Qwen3.8-Max on 3 August 2026 as an upcoming open-weights checkpoint; released <strong>14 August 2026</strong> (Hugging Face and ModelScope). License: Apache 2.0 (card: <code>license: apache-2.0</code>).</li>
+      <li>Model card: <span class="q">&ldquo;Built on the architectural foundation of Qwen3.5, Qwen3.8 delivers substantial gains across coding, professional work, research, and long-horizon agentic tasks. Qwen3.8-27B brings these advances to a compact, deployment-friendly dense model: a native vision-language model that understands images and videos, with flexible thinking control&rdquo;</span>. Thinking control: <span class="q">&ldquo;Thinking mode is on by default and can be disabled per request; reasoning depth can be tuned with `reasoning_effort`, and reasoning context from historical messages is retained via `preserve_thinking`.&rdquo;</span> 64 layers in a <span class="q">&ldquo;16 &times; (3 &times; (Gated DeltaNet &rarr; FFN) &rarr; 1 &times; (Gated Attention &rarr; FFN))&rdquo;</span> layout.</li>
+      <li>Per The Decoder, Qwen says it <span class="q">&ldquo;outperforms the larger Qwen3.7-Plus in coding and office tasks&rdquo;</span>; native context 262,000 tokens, extendable to one million. Artificial Analysis Intelligence Index: 52 (Willison, 17 August).</li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2026-07-19&rarr;08-14</span> <strong>Anticipation:</strong> users asked for a 27B from the day Qwen 3.8 was announced; Teknium&rsquo;s 3 August post (on the <a href="../qwen-3-8-max/">Qwen3.8-Max</a> page) confirmed <span class="q">&ldquo;a new local 27B Qwen 3.8 is coming&rdquo;</span>.</li>
+      <li><span class="d">2026-08-14</span> <strong>Release,</strong> with same-day quantized builds from Unsloth; within hours it was running on single consumer GPUs (witcheer).</li>
+      <li><span class="d">2026-08-18</span> <strong>Adoption:</strong> #3 most-liked model on Hugging Face of all time (multimodalart); the repository showed 18,116 likes in Hugging Face&rsquo;s API on 21 October.</li>
+      <li><span class="d">2026-08 &rarr; 10</span> <strong>Derivatives:</strong> heavily compressed community versions followed &mdash; ternary &ldquo;Bonsai&rdquo; builds and Underdog-Saluki-27B (8 October), the latter a 7.9 GB file (witcheer, 2026-10-14).</li>
+      <li><span class="d">2026-09-10</span> Anthropic&rsquo;s threat report alleges Claude distillation into Qwen 3.5, 3.6 and 3.7 <span class="tag">REPORTED</span>; this model, the first Qwen 3.8 dense release, is not named. See <a href="../qwen-3-8-max/">Qwen3.8-Max</a>.</li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <ul>
+      <li><strong>Overthinking at the default setting:</strong> Simon Willison found the default <code>xhigh</code> reasoning <span class="q">&ldquo;results in spectacular over-thinking&rdquo;</span>. Asked to <span class="q">&ldquo;draw an svg of a circle&rdquo;</span>, its reasoning began: <span class="q">&ldquo;The user is asking for an SVG drawing of a circle. Simple request &mdash; but I want it to be a carefully crafted piece.&rdquo;</span> &hellip; <span class="q">&ldquo;Paper white is fine if it&rsquo;s not the cream-and-terracotta combo.&rdquo;</span> (LM Studio, local, default reasoning effort). Willison: <span class="q">&ldquo;Several minutes later it produced this absolutely beautiful animated circle, which was entirely not what I had asked for!&rdquo;</span></li>
+      <li><strong>Unprompted pelicans:</strong> building Willison a bounding-box viewer, it decided in its reasoning to add a demo scene &mdash; <span class="q">&ldquo;two pelican-ish shapes (ellipse body, circle head, beak)&rdquo;</span> &mdash; because Willison&rsquo;s example JSON used the label &ldquo;pelicans&rdquo;; Willison: <span class="q">&ldquo;(I&rsquo;m slightly nervous that models around the world might have a bias towards drawing pelicans at any chance they can get, brought on by nearly two years of exposure to my own stupid benchmark.)&rdquo;</span></li>
+      <li><strong>Size-to-capability reception:</strong> <span class="q">&ldquo;Qwen 3.8 27B is a truly astonishing model.&rdquo;</span> (Willison, 2026-08-17); <span class="q">&ldquo;Qwen is such an outlier!&rdquo;</span> (MikePFrank, 2026-08-18); compared with Opus 4.6 in European sovereignty arguments (Nymne, 2026-09-14).</li>
+      <li><strong>As a companion on local hardware:</strong> a named home-server assistant (mimi10v3, 2026-10-09); a role-play preference for &ldquo;bard class&rdquo; (lorepunk, 2026-09-06); a reasoning trace saying &ldquo;please fix it&rdquo; on hitting a bug (gnostic_snakes, 2026-08-15, screenshot untranscribed).</li>
+      <li><span class="tk">tk &mdash; r/LocalLLaMA release threads; Chinese-language reception; transcription of the corpus screenshots (gnostic_snakes, timfduffy, MikePFrank charts); identity/self-report behavior</span></li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t2078771150352421189">
+        <div class="record-head"><span class="rh-user">@multimodalart</span> <span class="rh-date">2026-07-19</span> <span class="rh-stats">&#9829;8 &#8635;1</span> <a class="rh-perma" href="../archive/t/2078771150352421189/">archive</a> <a class="rh-orig" href="https://x.com/multimodalart/status/2078771150352421189">original &#8599;</a></div>
+        <div class="record-body">having the frontier Qwen 3.8 2.4T open weights is awesome
+
+but a Qwen3.8-27B would go so hard</div>
+      </article>
+      <article class="record" id="t2088316316205907970">
+        <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-08-14</span> <span class="rh-stats">&#9829;122 &#8635;12</span> <a class="rh-perma" href="../archive/t/2088316316205907970/">archive</a> <a class="rh-orig" href="https://x.com/witcheer/status/2088316316205907970">original &#8599;</a></div>
+        <div class="record-body">Qwen3.8-27B running on my RTX 5090, on llama.cpp!
+
+first numbers, Q4_K_M via Unsloth&#x27;s day-0 GGUF, llama-bench:
+
+- decode: 78 tok/s empty, 76 at 8k context, 71 at 32k. minus 9.6% at 32k deep
+
+- prompt: 3,900 tok/s (pp512)
+
+- 17.5GB VRAM serving at 8k, so 14GB spare on a 32GB card
+
+quality board runs tonight, full quant ladder after.</div>
+        <figure class="record-media">
+          <img src="../media/HPswnijXQAEgArm.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2088467168790798505">
+        <div class="record-head"><span class="rh-user">@gnostic_snakes</span> <span class="rh-date">2026-08-15</span> <span class="rh-stats">&#9829;4 &#8635;1</span> <a class="rh-perma" href="../archive/t/2088467168790798505/">archive</a> <a class="rh-orig" href="https://x.com/gnostic_snakes/status/2088467168790798505">original &#8599;</a></div>
+        <div class="record-body">qwen 3.8 27b thinking &quot;please fix it&quot; when their code had a bug 🐛 <a href="https://t.co/pqjrLyqPPJ" rel="nofollow">https://t.co/pqjrLyqPPJ</a></div>
+        <figure class="record-media">
+          <img src="../media/HPu5ssWW0AATc6a.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2089073376128315490">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2026-08-16</span> <span class="rh-stats">&#9829;8 &#8635;1</span> <a class="rh-perma" href="../archive/t/2089073376128315490/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/2089073376128315490">original &#8599;</a></div>
+        <div class="record-body">@norvid_studies @Mechanical_Dodo i mean if that&#x27;s all a GA is, then GA has been achieved no? you can download and self host qwen 3.8 27b right now. but i don&#x27;t think that&#x27;s what people mean</div>
+      </article>
+      <article class="record" id="t2089672609537437702">
+        <div class="record-head"><span class="rh-user">@multimodalart</span> <span class="rh-date">2026-08-18</span> <span class="rh-stats">&#9829;21 &#8635;0</span> <a class="rh-perma" href="../archive/t/2089672609537437702/">archive</a> <a class="rh-orig" href="https://x.com/multimodalart/status/2089672609537437702">original &#8599;</a></div>
+        <div class="record-body">aand Qwen3.8-27B just surpassed Kimi-K3 and is now the #3 most liked model on hugging face of all times <a href="https://t.co/fwXfERc7IM" rel="nofollow">https://t.co/fwXfERc7IM</a></div>
+      </article>
+      <article class="record" id="t2089864594634277343">
+        <div class="record-head"><span class="rh-user">@MikePFrank</span> <span class="rh-date">2026-08-18</span> <span class="rh-stats">&#9829;199 &#8635;35</span> <a class="rh-perma" href="../archive/t/2089864594634277343/">archive</a> <a class="rh-orig" href="https://x.com/MikePFrank/status/2089864594634277343">original &#8599;</a></div>
+        <div class="record-body">People have been remarking about how surprisingly intelligent Qwen 3.8 (27B) is for its model size. To visualize this, I whipped up this chart (with some help from Grok) plotting scores from Artificial Analysis against the (known or estimated) model size. Qwen is such an outlier! <a href="https://t.co/vpiTVuD2ir" rel="nofollow">https://t.co/vpiTVuD2ir</a></div>
+        <figure class="record-media">
+          <img src="../media/HQCwMiZW0AAUsr2.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2090776208074256727">
+        <div class="record-head"><span class="rh-user">@rplevy</span> <span class="rh-date">2026-08-21</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2090776208074256727/">archive</a> <a class="rh-orig" href="https://x.com/rplevy/status/2090776208074256727">original &#8599;</a></div>
+        <div class="record-body">Qwen 3.8 27B release a week ago was a game changer for local code generation on 24gb vram</div>
+      </article>
+      <article class="record" id="t2096656880323920177">
+        <div class="record-head"><span class="rh-user">@lorepunk</span> <span class="rh-date">2026-09-06</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2096656880323920177/">archive</a> <a class="rh-orig" href="https://x.com/lorepunk/status/2096656880323920177">original &#8599;</a></div>
+        <div class="record-body">@LilithDatura my Qwen 3.8 27b local says they’d prefer bard class to rogue :)</div>
+      </article>
+      <article class="record" id="t2099558742370988402">
+        <div class="record-head"><span class="rh-user">@Nymne</span> <span class="rh-date">2026-09-14</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2099558742370988402/">archive</a> <a class="rh-orig" href="https://x.com/Nymne/status/2099558742370988402">original &#8599;</a></div>
+        <div class="record-body">@KorbinianRueger The idea that everyone should sit and replicate the same open source LLM because of “sovereignty” is absolutely fucking ridiculous.
+
+We have Qwen3.8 27B at Opus4.6 level now, why should EU build that?</div>
+      </article>
+      <article class="record" id="t2105935594610381038">
+        <div class="record-head"><span class="rh-user">@AaronBergman18</span> <span class="rh-date">2026-10-02</span> <span class="rh-stats">&#9829;28 &#8635;1</span> <a class="rh-perma" href="../archive/t/2105935594610381038/">archive</a> <a class="rh-orig" href="https://x.com/AaronBergman18/status/2105935594610381038">original &#8599;</a></div>
+        <div class="record-body">A situation where local model use became useful actually arose (hospital with no cellular and broken wifi)
+
+You dont have to become an Open Weight Bro or tweet about it but seems worthwhile to download and have a system for using qwen-3.8-27b-4bit if you have 24GB RAM</div>
+      </article>
+      <article class="record" id="t2108660018325193139">
+        <div class="record-head"><span class="rh-user">@mimi10v3</span> <span class="rh-date">2026-10-09</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2108660018325193139/">archive</a> <a class="rh-orig" href="https://x.com/mimi10v3/status/2108660018325193139">original &#8599;</a></div>
+        <div class="record-body">@cold_and_quiet muse? this is just my home server ai, currently qwen 3.8 27B.  and ai named after my server, which was named by my ex.</div>
+      </article>
+      <article class="record" id="t2110256790655177203">
+        <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-10-14</span> <span class="rh-stats">&#9829;55 &#8635;6</span> <a class="rh-perma" href="../archive/t/2110256790655177203/">archive</a> <a class="rh-orig" href="https://x.com/witcheer/status/2110256790655177203">original &#8599;</a></div>
+        <div class="record-body">Underdog-Saluki-27B is Qwen3.8-27B packed into a 7.9 GB file, out since 8 October. I ran it through my thinking board on my RTX 5090, next to four other files of the same model.
+
+four-task average, thinking on, 16k token budget, 1,583 questions each:
+
+- Qwen3.8-27B Q6_K, 22.9 GB: 89.7
+- Qwen3.8-27B UD-IQ3_XXS, 11.9 GB: 89.5
+- Ternary-Bonsai-2-27B PQ2_0, 7.2 GB: 88.7
+- Ternary-Bonsai-2-27B PTQ1_0, 5.9 GB: 88.7
+- Underdog-Saluki-27B IQ2-mix, 7.9 GB: 85.7
+
+Saluki keeps 95.6% of the 6-bit score. the two Bonsai files keep 98.9%, and the 5.9 GB one is about 2 GB smaller than Saluki. Saluki is behind both of them on all four tasks, and it spends 1.5x to 1.8x the tokens per correct answer.
+
+Saluki has one advantage: it loads on stock llama.cpp, and the Bonsai files need PrismML&#x27;s fork. its model card also leads on tool calling, which this board does not test.
+
+has anyone run Saluki and Bonsai side by side on tool calls?</div>
+        <figure class="record-media">
+          <img src="../media/HUkYYlSXgAApk3o.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <h3>Further records</h3>
+      <p class="note">Cited in this model&rsquo;s <a href="../_dossiers/">dossier</a> but not in the page prose &mdash;
+      reproduced so the archive doesn&rsquo;t depend on editorial selection.</p>
+      <article class="record" id="t2078843540851831154">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-07-19</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2078843540851831154/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2078843540851831154">original &#8599;</a></div>
+        <div class="record-body">@Alibaba_Qwen when will qwen-3.8-27B be released?</div>
+      </article>
+      <article class="record" id="t2084125795107082308">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-08-03</span> <span class="rh-stats">&#9829;15 &#8635;0</span> <a class="rh-perma" href="../archive/t/2084125795107082308/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2084125795107082308">original &#8599;</a></div>
+        <div class="record-body">i could seek qwen3.8-27b being very, very strong. 
+
+i think the agentic and coding performance will be almost as good as dsv4-flash-0731, and vision will be absolute SOTA, nearly on par with Sol and Fable and Qwen Max.
+
+it&#x27;ll probably lag on knowledge-laden benches like HLE tho.</div>
+      </article>
+      <article class="record" id="t2086799543572500902">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-08-10</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2086799543572500902/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2086799543572500902">original &#8599;</a></div>
+        <div class="record-body">New 30B model from Meta.
+
+Too bad it&#x27;s gonna get trounced by qwen3.8-27b later today.
+
+Pretty nuts speeds tho. 270tps on 5090, allegedly. That could make it worth running in some cases, despite being much weaker than qwen.</div>
+      </article>
+      <article class="record" id="t2089132786041094307">
+        <div class="record-head"><span class="rh-user">@timfduffy</span> <span class="rh-date">2026-08-16</span> <span class="rh-stats">&#9829;2 &#8635;1</span> <a class="rh-perma" href="../archive/t/2089132786041094307/">archive</a> <a class="rh-orig" href="https://x.com/timfduffy/status/2089132786041094307">original &#8599;</a></div>
+        <div class="record-body">@OrionJohnston I just added Qwen 3.8 27B (I initially made this a week ago before its release) and it sure breaks the trend <a href="https://t.co/iy9GgeLNJN" rel="nofollow">https://t.co/iy9GgeLNJN</a></div>
+        <figure class="record-media">
+          <img src="../media/HP4XAnoa8AAmneN.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2089650790981935533">
+        <div class="record-head"><span class="rh-user">@archived_videos</span> <span class="rh-date">2026-08-18</span> <span class="rh-stats">&#9829;6 &#8635;0</span> <a class="rh-perma" href="../archive/t/2089650790981935533/">archive</a> <a class="rh-orig" href="https://x.com/archived_videos/status/2089650790981935533">original &#8599;</a></div>
+        <div class="record-body">Why is DeepSeek v4 Flash served for way cheaper than Qwen 3.8 27B on OpenRouter</div>
+      </article>
+      <article class="record" id="t2089676778784555411">
+        <div class="record-head"><span class="rh-user">@Nymne</span> <span class="rh-date">2026-08-18</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2089676778784555411/">archive</a> <a class="rh-orig" href="https://x.com/Nymne/status/2089676778784555411">original &#8599;</a></div>
+        <div class="record-body">@jpschroeder Well Qwen3.8 27B SWE bench pro ca 62 and Opus4.5 ca 46. Opus4.6 (thinking) ca 52. All done by ScaleAI. Just an example. <a href="https://t.co/viUf9pyvxH" rel="nofollow">https://t.co/viUf9pyvxH</a></div>
+        <figure class="record-media">
+          <img src="../media/HQAF9AOWMAAS_r-.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2089790703781994695">
+        <div class="record-head"><span class="rh-user">@MikePFrank</span> <span class="rh-date">2026-08-18</span> <span class="rh-stats">&#9829;10 &#8635;2</span> <a class="rh-perma" href="../archive/t/2089790703781994695/">archive</a> <a class="rh-orig" href="https://x.com/MikePFrank/status/2089790703781994695">original &#8599;</a></div>
+        <div class="record-body">Note to self: Download Qwen 3.8 27B</div>
+      </article>
+      <article class="record" id="t2090204245635035173">
+        <div class="record-head"><span class="rh-user">@MikePFrank</span> <span class="rh-date">2026-08-19</span> <span class="rh-stats">&#9829;10 &#8635;2</span> <a class="rh-perma" href="../archive/t/2090204245635035173/">archive</a> <a class="rh-orig" href="https://x.com/MikePFrank/status/2090204245635035173">original &#8599;</a></div>
+        <div class="record-body">Some data for models scoring at or above Qwen3.8 27B on the AAI Index, sorted by &quot;cost efficiency&quot; defined as AAI&#x27;s index score divided by AAI&#x27;s cost-per-task. Speed (tps throughput) is the best value sampled from OR at the moment I happened to look.
+
+Interestingly, Luna is the still most cost-efficient model (if AAI can be believed), and DeepSeek V4 Flash is 2nd.
+
+Qwen-3.8 27B is only 4th on this metric, but of all these models, it&#x27;s the only one you could run on a laptop.</div>
+        <figure class="record-media">
+          <img src="../media/HQHkdurWAAAMDU9.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2090242331656028510">
+        <div class="record-head"><span class="rh-user">@MikePFrank</span> <span class="rh-date">2026-08-20</span> <span class="rh-stats">&#9829;5 &#8635;3</span> <a class="rh-perma" href="../archive/t/2090242331656028510/">archive</a> <a class="rh-orig" href="https://x.com/MikePFrank/status/2090242331656028510">original &#8599;</a></div>
+        <div class="record-body">And, here&#x27;s a plot of the Pareto frontier of agentic cost-efficiency, according to AA&#x27;s data. Note that Qwen-3.8 27B falls on the Pareto line, whereas Claude does not. <a href="https://t.co/w3QDn2yDah" rel="nofollow">https://t.co/w3QDn2yDah</a></div>
+        <figure class="record-media">
+          <img src="../media/HQIIEIdW8AAD00_.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2092426637044560084">
+        <div class="record-head"><span class="rh-user">@codyhxyz</span> <span class="rh-date">2026-08-26</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2092426637044560084/">archive</a> <a class="rh-orig" href="https://x.com/codyhxyz/status/2092426637044560084">original &#8599;</a></div>
+        <div class="record-body">@badlogicgames whyy would they publish this
+does Perplexity seriously expect this benchmark to make people switch off their existing workflows onto theirs? 
+
+this is basically an ad for Qwen 3.8-27B, at this point <a href="https://t.co/EEbB7OlCp6" rel="nofollow">https://t.co/EEbB7OlCp6</a></div>
+        <figure class="record-media">
+          <img src="../media/HQnKt_UaYAAL5NX.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2092494356896751839">
+        <div class="record-head"><span class="rh-user">@pepijndevos</span> <span class="rh-date">2026-08-26</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2092494356896751839/">archive</a> <a class="rh-orig" href="https://x.com/pepijndevos/status/2092494356896751839">original &#8599;</a></div>
+        <div class="record-body">I&#x27;ve been running qwen 3.8 27b on my dual GPU workstation and landed a real pr with it at work! I&#x27;ve also used Kimi k3 and glm 5.2 a bunch, entirely serviceable. Trillions are still out of reach of an M5 though but deepseek flash should be a step up from a 27b mode!</div>
+      </article>
+      <article class="record" id="t2093211616040923215">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-08-28</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2093211616040923215/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2093211616040923215">original &#8599;</a></div>
+        <div class="record-body">@LandonExplr models are already useful at small sizes, and theyre getting better every month.
+
+see glm-5.3-flash and qwen-3.8-27b.  these are strong models. and glm is strong even compared to 1T+ models.</div>
+      </article>
+      <article class="record" id="t2094449696462999557">
+        <div class="record-head"><span class="rh-user">@happysmash27</span> <span class="rh-date">2026-08-31</span> <span class="rh-stats">&#9829;6 &#8635;0</span> <a class="rh-perma" href="../archive/t/2094449696462999557/">archive</a> <a class="rh-orig" href="https://x.com/happysmash27/status/2094449696462999557">original &#8599;</a></div>
+        <div class="record-body">@locr1ann @trndytrndy In my case, yes they do.
+
+It&#x27;s a bit slower and less capable, but I am increasingly able to run actually-good AI locally (esp. after Qwen 3.8 27B). I just bought a new W6800 for this (and also for rendering faster in Blender). Will be posting more about this soon.</div>
+      </article>
+      <article class="record" id="t2096265555145539857">
+        <div class="record-head"><span class="rh-user">@pepijndevos</span> <span class="rh-date">2026-09-05</span> <span class="rh-stats">&#9829;8 &#8635;0</span> <a class="rh-perma" href="../archive/t/2096265555145539857/">archive</a> <a class="rh-orig" href="https://x.com/pepijndevos/status/2096265555145539857">original &#8599;</a></div>
+        <div class="record-body">Everybody is impressed Astra can do CAD. Buddy, Qwen 3.8 27b can do CAD.</div>
+      </article>
+      <article class="record" id="t2096749947462811823">
+        <div class="record-head"><span class="rh-user">@FoldingNapkins</span> <span class="rh-date">2026-09-06</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2096749947462811823/">archive</a> <a class="rh-orig" href="https://x.com/FoldingNapkins/status/2096749947462811823">original &#8599;</a></div>
+        <div class="record-body">Ran some benchmarks testing out what you can get context and accuracy wise using a 16GB GPU.
+Quick findings after several runs over several hours: 
+
+- Models vary massively in MB of memory / 1000 tokens
+- For a given model, if it fits in VRAM to start with, odds are reasonable it can fit full context.
+- Exceptions exist: Llama3.2 at 131k context would break out of an 8GB card. Qwen spills over 16GB at &gt;65k.
+- Spilling into system RAM is significantly slower but did not affect successful task outcome (needle hunting at various depths).
+- Ingestion speed and first load is the bottleneck. Effective caching behavior may mitigate this for batched work.
+
+Recommendations if you have a 16GB card:
+
+For a model that reliably completes tasks, and fits a full 131k context into VRAM, gpt-oss threads the needle of speed and resource load.
+
+For a model that reliably completes more complicated tasks slowly, a quantized qwen3.8:27b fitting into the profile will work if context length can be constrained to &lt;65k, but it&#x27;s slow.
+
+More detailed report: <a href="https://t.co/9F3aXdZR1Y" rel="nofollow">https://t.co/9F3aXdZR1Y</a>
+Repo with results and code: <a href="https://t.co/llFCg1HgrU" rel="nofollow">https://t.co/llFCg1HgrU</a></div>
+        <figure class="record-media">
+          <img src="../media/HRkmiq0WEAEtNZ3.png" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HRkmp3MaQAA5ZMv.png" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HRkmxgXbYAAI28p.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2097921422005879100">
+        <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-09-10</span> <span class="rh-stats">&#9829;44 &#8635;0</span> <a class="rh-perma" href="../archive/t/2097921422005879100/">archive</a> <a class="rh-orig" href="https://x.com/witcheer/status/2097921422005879100">original &#8599;</a></div>
+        <div class="record-body">I measured the six llama-server flags everyone argues about, on a 16k prompt, on six models:
+
+RTX 5090, Qwen3.8-27B, Gemma 4 31B, Qwen3.6-35B-A3B, Nemotron Lightning, Ornith 35B, Qwopus Flash.
+
+→ --flash-attn on: changes nothing. auto already picks it.
+
+→ --parallel 1: free. +10% decode at depth on Gemma, 2.3 GB back.
+
+→ KV cache q8_0: a memory lever on dense models only (1 to 2.6 GB). on a 3B-active MoE it saves 0.1 GB and still costs 5 to 7%.
+
+→ KV cache q4_0: the tax. -17%, -23%, -27%, -23%, -29%, -17% decode against a 16k context, six for six. quality did not move: a full 198-item GPQA run on Ornith put f16, q8 and q4 KV at 100, 100 and 98.
+
+→ MTP draft head: 2.2x on Qwen3.8 (embedded head), 1.5x on Gemma (community head), 0.7x on Lightning. above ~300 tok/s the verification pass costs more than it saves.
+
+the first token on a 16k prompt: 5 to 6 s cold, 0.1 to 0.4 s once cached.</div>
+        <figure class="record-media">
+          <img src="../media/HR1PwqJWUAwThu7.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2098323509915091014">
+        <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-09-11</span> <span class="rh-stats">&#9829;42 &#8635;2</span> <a class="rh-perma" href="../archive/t/2098323509915091014/">archive</a> <a class="rh-orig" href="https://x.com/witcheer/status/2098323509915091014">original &#8599;</a></div>
+        <div class="record-body">I gave two reasoning models 4k, 8k and 16k tokens to think on the same 198 GPQA-diamond questions. 
+
+RTX 5090, llama.cpp, greedy, same server, only max_tokens moved.
+
+&gt; Qwen3.8-27B Q6_K: 60.1 → 70.2 → 79.3
+&gt; Ornith 1.5 35B-A3B Q4_K_M: 70.2 → 77.3 → 81.8
+
+what the per-item diff says:
+→ questions that finished inside the budget: 95 to 96% correct, at every budget, both models.
+→ questions that hit the cap: 14 to 37% correct, and that is where all 101 lost points live.
+→ a question that finishes thinks for ~1,200 tokens. but 38 to 43% of them run past 4k, 30 to 34% past 8k, 22% still past 16k.
+
+the price: tokens per correct answer go 3,972 → 5,636 → 7,740 on Qwen, 3,248 → 4,732 → 6,996 on Ornith. each doubling costs +46 to 66% tokens and buys 4.5 to 10 points.
+
+so &quot;27B blows the budget on reasoning&quot; is true and it is not the model. a 79% model with max_tokens at 8k is a 70% model on exactly the questions you wanted reasoning for.</div>
+        <figure class="record-media">
+          <img src="../media/HR6-GqHakAAHK2i.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2098341815678050326">
+        <div class="record-head"><span class="rh-user">@FoldingNapkins</span> <span class="rh-date">2026-09-11</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2098341815678050326/">archive</a> <a class="rh-orig" href="https://x.com/FoldingNapkins/status/2098341815678050326">original &#8599;</a></div>
+        <div class="record-body">@vineerpasam Vibe code with local models then if you&#x27;re afraid of corporate espionage. 
+
+Qwen3.8:27b and gpt-oss:20b are both good models you can fit in under 16GB of RAM.
+
+Some benchmarks I ran recently, summarised: <a href="https://t.co/r80CuXPbkT" rel="nofollow">https://t.co/r80CuXPbkT</a></div>
+      </article>
+      <article class="record" id="t2098515444525330572">
+        <div class="record-head"><span class="rh-user">@geogristle</span> <span class="rh-date">2026-09-11</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2098515444525330572/">archive</a> <a class="rh-orig" href="https://x.com/geogristle/status/2098515444525330572">original &#8599;</a></div>
+        <div class="record-body">@PlisSergey Not around to check gemma rn but before I stuck in the extra 32gb ddr5 I was getting 115t/s or slightly higher on qwen3.8-27b exl3 3.5bpw @ 262144 tok ctx.</div>
+      </article>
+      <article class="record" id="t2098648245731742089">
+        <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-09-12</span> <span class="rh-stats">&#9829;36 &#8635;1</span> <a class="rh-perma" href="../archive/t/2098648245731742089/">archive</a> <a class="rh-orig" href="https://x.com/witcheer/status/2098648245731742089">original &#8599;</a></div>
+        <div class="record-body">I turned every row on the RTX 5090 board into a fit table for 8, 12, 16, 24 and 32 GB cards: measured peak VRAM at a 16k prompt, plus 768 MiB of headroom, against the card size. 38 models and quants.
+
+what a 16 GB card runs at 16k, by quality:
+
+→ Qwen3.8-27B UD-IQ3_XXS: 92.7 board, 45.0 GPQA, 12.8 GB peak
+→ Qwen3.8-27B UD-IQ2_M: 91.5, 11.3 GB
+→ Qwen3.8-27B UD-IQ2_XXS: 90.8, 10.1 GB
+→ Gemma 4 12B Q6_K: 87.6, 11.6 GB
+→ gpt-oss-20b Q4_K_M: 87.4, 14.5 GB
+
+the 27B at 3 bits beats every smaller model by 5 points. the cost shows on the harder set: GPQA-diamond 45.0 vs 49.0 for the 6-bit cut.
+
+12 GB: the IQ2_XXS cut fits with a 16k context and still scores 90.8. 8 GB: nothing dense on this board fits resident.
+
+Qwen3.8-27B Q4_K_M is a 15.9 GB file. it fits a 16 GB card. its 16k context does not (17.3 GB peak). shorten the context or use a q8 KV cache, not q4, which costs 17 to 29% of decode speed on every model I measured.</div>
+        <figure class="record-media">
+          <img src="../media/HR_lYavWgAo4oqz.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2099095882444538285">
+        <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-09-13</span> <span class="rh-stats">&#9829;57 &#8635;0</span> <a class="rh-perma" href="../archive/t/2099095882444538285/">archive</a> <a class="rh-orig" href="https://x.com/witcheer/status/2099095882444538285">original &#8599;</a></div>
+        <div class="record-body">the loudest specific complaint in Alex Cheema&#x27;s thread on why people don&#x27;t run local models was prefill: a coding agent hands the model a long prompt and you wait for the first token, every request. 
+
+two llama-server flags remove most of that wait, and both are free. I measured them on the model my always-on box serves every day.
+
+Qwen3.8-27B Q6_K, llama.cpp, one RTX 5090, batch 1, 304 requests, one variable at a time.
+
+prompt caching, same system prompt, new question:
+- 2,954-token prompt: 1.004 s -&gt; 0.069 s to first token
+- 11,570-token prompt: 3.814 s -&gt; 0.086 s
+decode speed untouched.
+
+speculative decoding (the model&#x27;s own MTP draft head, n=2):
+- prose 61 -&gt; 109 tok/s
+- chat 61 -&gt; 113
+- code 61 -&gt; 139
+- repetitive text 61 -&gt; 144
+cost: 9 ms on time to first token.
+
+both on: a short answer to the 11.5k context goes 4.25 s -&gt; 0.30 s.</div>
+        <figure class="record-media">
+          <img src="../media/HSFbNO-XQAUHPxi.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2101717064926847409">
+        <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-09-20</span> <span class="rh-stats">&#9829;52 &#8635;4</span> <a class="rh-perma" href="../archive/t/2101717064926847409/">archive</a> <a class="rh-orig" href="https://x.com/witcheer/status/2101717064926847409">original &#8599;</a></div>
+        <div class="record-body">I finished a board I have been running for 10 days: 10 local models with thinking switched on, on one RTX 5090, on four harder tasks (following instructions precisely, competition maths, two code test suites). 
+
+every model got the same rules: 16k tokens of thinking room per question, one attempt, 1,583 questions each.
+
+what came out:
+
+~ three models tie at the top, and one of them is a 12 GB file. Gemma 4 31B at 4-bit averages 90.1, Qwen3.8-27B at 6-bit 89.7, and the same Qwen3.8-27B squeezed to 3 bits 89.5. the 3-bit file is half the size of the 6-bit one and lands within 1.1 points of it on every task.
+
+~ the maths column is where the surprise sits. Qwen3.6-27B, Qwen3.6-35B-A3B and Qwable-27B score 72 to 73 on MATH-500 while scoring 93.9 to 95.1 on the HumanEval+ code suite. they think for so long that 27 to 30% of their maths answers never arrived inside the 16k limit, and they spent about 12,000 tokens per correct answer where Qwen3.8 spent 1,800.
+
+if you have a 16 GB card and want a model that reasons: Qwen3.8-27B at 3 bits (the UD-IQ3_XXS cut) is the one.</div>
+        <figure class="record-media">
+          <img src="../media/HSrLrSQWUAAT4pq.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2102299248658182397">
+        <div class="record-head"><span class="rh-user">@multimodalart</span> <span class="rh-date">2026-09-22</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2102299248658182397/">archive</a> <a class="rh-orig" href="https://x.com/multimodalart/status/2102299248658182397">original &#8599;</a></div>
+        <div class="record-body">the immediate models after jev are inference techniques  that allow for one-pass inference of Qwen3.8-27B and diffusion gemma, no fine tuning
+
+in 3rd place, Decider 35B-A3B, a strong fine-tune of Qwen3.5 35B base (!) <a href="https://t.co/D12D6q68WW" rel="nofollow">https://t.co/D12D6q68WW</a></div>
+        <figure class="record-media">
+          <img src="../media/HSzd0d5WAAA7Ta3.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2103024788897706203">
+        <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-09-24</span> <span class="rh-stats">&#9829;38 &#8635;1</span> <a class="rh-perma" href="../archive/t/2103024788897706203/">archive</a> <a class="rh-orig" href="https://x.com/witcheer/status/2103024788897706203">original &#8599;</a></div>
+        <div class="record-body">Hermes Agent is driving my Microduck!
+
+I typed one sentence: &quot;make the duck walk forward for five seconds then sit&quot;
+
+Hermes Agent took it from there. it checked the duck was sitting, stood it up, walked it 0.58 m and sat it back down. every command in the clip is one Hermes Agent picked and ran itself.
+
+it runs on a local Qwen3.8-27B.</div>
+      </article>
+      <article class="record" id="t2103476992574111944">
+        <div class="record-head"><span class="rh-user">@Lithros</span> <span class="rh-date">2026-09-25</span> <span class="rh-stats">&#9829;8 &#8635;0</span> <a class="rh-perma" href="../archive/t/2103476992574111944/">archive</a> <a class="rh-orig" href="https://x.com/Lithros/status/2103476992574111944">original &#8599;</a></div>
+        <div class="record-body">Lyrics through Qwen3.8-27B
+Music through YuE2
+Art through Qwen-Image 2.1 and Nano Banana Pro
+Lipsync through LTX-2.5 22B
+Animation through Wan 2.2 I2V A14B or drawn by Claude Opus 5.5
+
+I used a prompt adapted from this @donaldjewkes: <a href="https://t.co/Z8PmWhkjGA" rel="nofollow">https://t.co/Z8PmWhkjGA</a></div>
+      </article>
+      <article class="record" id="t2107795715250430286">
+        <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-10-07</span> <span class="rh-stats">&#9829;48 &#8635;2</span> <a class="rh-perma" href="../archive/t/2107795715250430286/">archive</a> <a class="rh-orig" href="https://x.com/witcheer/status/2107795715250430286">original &#8599;</a></div>
+        <div class="record-body">Gemma 4 31B solved 51 of the 63 problems in this year&#x27;s AIME and HMMT on my RTX 5090, the most of nine local models.
+
+the reason is answer length. I cap each answer at 32k tokens, thinking included. Gemma&#x27;s median answer used about 8,300 to 9,000 tokens, and none of its 63 hit the cap. the other eight ran out of room on 6 to 22 problems per contest.
+
+when those eight finish an answer, they are right 95 to 100% of the time. Gemma is right on 81%, but it finishes all of them.
+
+for hard maths with a 32k thinking cap, Gemma 4 31B is the one I would run. with a bigger cap the order could move, and I have not measured that yet.
+
+problems solved out of 63 (AIME 2026 out of 30 + HMMT Feb 2026 out of 33), MATH-500 in brackets:
+
+- Gemma 4 31B Q4_0: 25 + 26 = 51 (94.0)
+- Qwen3.8-27B UD-IQ3_XXS: 26 + 22 = 48 (94.6)
+- Qwen3.8-27B Q6_K: 25 + 22 = 47 (95.2)
+- Ornith 1.5 35B Q4_K_M: 23 + 20 = 43 (88.2)
+- Qwen3.6-27B Q6_K: 22 + 15 = 37 (92.0)
+- Qwen3.6-35B-A3B UD-Q5_K_M: 20 + 15 = 35 (91.2)
+- Nemotron 3.5 Lightning 30B-A3B Q4_K_M: 19 + 15 = 34 (90.2)
+- Ornith 1.5 9B Q6_K: 18 + 11 = 29 (84.6)
+- Qwable 27B Q4_K_M: 16 + 13 = 29 (90.0)</div>
+        <figure class="record-media">
+          <img src="../media/HUBlB61XIAAjszW.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2109842227203576200">
+        <div class="record-head"><span class="rh-user">@mimi10v3</span> <span class="rh-date">2026-10-13</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2109842227203576200/">archive</a> <a class="rh-orig" href="https://x.com/mimi10v3/status/2109842227203576200">original &#8599;</a></div>
+        <div class="record-body">@albrorithm running a quantized qwen 3.8 27B on my 3090 w 24gb vram, and yeah having a local model on vllm does open up some possibilities... i have mostly just built out tools and enjoyed having it around but should try more experiments at some point</div>
+      </article>
+      <article class="record" id="t2112527015903420731">
+        <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-10-20</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2112527015903420731/">archive</a> <a class="rh-orig" href="https://x.com/witcheer/status/2112527015903420731">original &#8599;</a></div>
+        <div class="record-body">@mfranz_on would love to but I can only run Qwen 3.8 27B at max</div>
+      </article>
+    <!-- records:end -->
+    <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
+  </main>
+</body>
+</html>

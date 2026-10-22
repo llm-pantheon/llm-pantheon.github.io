@@ -4,5 +4,5 @@
 
 @beffjezos Why pay for grok 4.5 when glm 5.2 is opus level already? Fable 5 or bust
 
-tags: author:rxr_musings, kind:tweet, model:fable, year:2026
-cited on: _dossiers/glm-5-2.md, _dossiers/grok-4-5.md
+tags: author:rxr_musings, kind:tweet, model:fable, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, _dossiers/grok-4-5.md, glm-5-2

@@ -6,6 +6,6 @@ OMNI-TEMPORAL WEAVE MATRIX
 
 - Gemini 4 Argon https://t.co/nTb6nuPoeq
 
-(image HUon4NNbMAAxU7p.jpg not yet published)
-tags: author:liminal_bardo, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/gemini-4-argon.md
+![photo](../../../media/HUon4NNbMAAxU7p.jpg)
+tags: author:liminal_bardo, has-image, kind:image, kind:tweet, on:gemini-4-argon, year:2026
+cited on: _dossiers/gemini-4-argon.md, gemini-4-argon

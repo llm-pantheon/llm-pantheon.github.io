@@ -1,9 +1,11 @@
 # GLM-4.5
 
     
-Zhipu · Jul 2025
+Zhipu / Z.ai · released 28 Jul 2025
     
-355B/32B-active open MoE — the start of GLM's serious frontier run.
+Released by Z.ai on 28 July 2025 with GLM-4.5-Air: GLM-4.5 at 355 billion total and 32 billion active parameters, the Air model at 106 billion and 12 billion.
+    
+Thin page: release record only so far; reception and corpus passes pending.
 
     
 ## Sources
@@ -12,7 +14,10 @@ Zhipu · Jul 2025
 ### Official
 
     
-tk — to collect
+
+      
+- 2025-07-28 Z.ai, [GLM-4.5 launch post](https://z.ai/blog/glm-4.5) — GLM-4.5 and GLM-4.5-Air; sizes.
+    
     
 ### Writing & commentary
 

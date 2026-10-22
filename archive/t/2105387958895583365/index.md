@@ -4,5 +4,5 @@
 
 Gemini 4 is coming, sota on deepswe and vals index ... things are heating up!
 
-tags: author:krishnanrohit, kind:tweet, year:2026
-cited on: _dossiers/gemini-4-argon.md
+tags: author:krishnanrohit, kind:tweet, on:gemini-4-argon, year:2026
+cited on: _dossiers/gemini-4-argon.md, gemini-4-argon

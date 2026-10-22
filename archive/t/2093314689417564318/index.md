@@ -4,5 +4,5 @@
 
 Full version of GLM-5.3 to drop weights today. Near-frontier-level open source model
 
-tags: author:mikepfrank, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3.md
+tags: author:mikepfrank, kind:tweet, on:glm-5-3, year:2026
+cited on: _dossiers/glm-5-3.md, glm-5-3

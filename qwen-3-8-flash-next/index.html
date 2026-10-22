@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Qwen3.8-Flash-Next — Pantheon</title>
+  <link rel="stylesheet" href="../style.css">
+
+  <!-- chrome:meta -->
+  <meta name="description" content="Released with open weights on 26 August 2026 — the same day as GLM-5.3-Flash — as a 125B-parameter mixture-of-experts model with 6B active parameters, which Qwen presents as an early preview of the architecture planned …">
+  <meta property="og:site_name" content="Pantheon">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Qwen3.8-Flash-Next — Pantheon">
+  <meta property="og:description" content="Released with open weights on 26 August 2026 — the same day as GLM-5.3-Flash — as a 125B-parameter mixture-of-experts model with 6B active parameters, which Qwen presents as an early preview of the architecture planned …">
+  <meta property="og:url" content="https://llm-pantheon.org/qwen-3-8-flash-next/">
+  <meta property="og:image" content="https://llm-pantheon.org/media/og/qwen-3-8-flash-next.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://llm-pantheon.org/qwen-3-8-flash-next/">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <script src="../site.js" defer></script>
+  <script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+  <!-- /chrome:meta -->
+</head>
+<body>
+  <main class="essay">
+    <nav>
+      <a href="../">&larr; Pantheon</a>
+      <a class="mdnav" href="index.md">copy as markdown</a>
+    </nav>
+
+    <h1>Qwen3.8-Flash-Next</h1>
+    <p class="essay-meta">Alibaba (Qwen) &middot; open weights 26 Aug 2026 (hosted as Qwen3.8-Flash) &middot; current as of Oct 2026</p>
+    <p class="blurb">Released with open weights on 26 August 2026 &mdash; the same day as <a href="../glm-5-3-flash/">GLM-5.3-Flash</a> &mdash; as a 125B-parameter mixture-of-experts model with 6B active parameters, which Qwen presents as an early preview of the architecture planned for Qwen 4. Hosted by Alibaba as Qwen3.8-Flash.</p>
+    <p class="note">Thin page: official record and launch-period reception; independent behavior evaluations and most community discussion (r/LocalLLaMA, Chinese forums) still to collect.</p>
+
+    <h2>Sources</h2>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2026-08-26</span> <a href="https://huggingface.co/Qwen/Qwen3.8-Flash-Next">Qwen/Qwen3.8-Flash-Next model card</a> &mdash; architecture (Qwen Sparse Attention, gated residual, n-gram embedding), size, the Qwen 4 framing; license <code>qwen-community-1.0</code>.</li>
+      <li><span class="d">2026-08-26</span> <a href="https://github.com/QwenLM/Qwen3.8-Flash-Next">QwenLM/Qwen3.8-Flash-Next</a> (GitHub) &mdash; release notes and technical report.</li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <ul>
+      <li><span class="d">2026-08-26</span> Simon Willison, <a href="https://simonwillison.net/2026/Aug/26/qwen38-flash-next/">Qwen3.8-Flash-Next</a> &mdash; first local runs (2-bit quantizations on a DGX Spark).</li>
+      <li><span class="d">2026-10-17</span> r/LocalLLaMA (via the Arctic Shift archive), <a href="https://www.reddit.com/r/LocalLLaMA/comments/1x8meib/alignment_on_sota_chinese_models_like_qwen_38/">&ldquo;Alignment on SOTA Chinese Models like Qwen 3.8 Flash Next / GLM 5.3 Flash&rdquo;</a> &mdash; a user&rsquo;s question about trusting local Chinese models.</li>
+    </ul>
+    <h3>Tweets</h3>
+    <p class="note">Chronological. Posts naming &ldquo;Qwen 3.8 Flash&rdquo; refer to the hosted version of this model.</p>
+    <ul>
+      <li><span class="d">2026-08-26</span> @multimodalart &mdash; <span class="q">&ldquo;it&rsquo;s great that with Qwen3.8-Flash-Next and GLM-5.3-Flash, we got not only 2 high quality models, but also 2 novel model architectures&rdquo;</span> <a href="../archive/t/2092618581238317111/">link</a></li>
+      <li><span class="d">2026-08-28</span> @RealEverNever &mdash; <span class="q">&ldquo;@QwenDevs Starting with the Unsloth GGUF. Local Qwen is on characters this week. I need to know if 6B active can hold a grudge through a scene before I care that it is a Qwen4 preview.&rdquo;</span> <a href="../archive/t/2093222755885896070/">link</a></li>
+      <li><span class="d">2026-08-30</span> @xlr8harder (&hearts;126) &mdash; <span class="q">&ldquo;it&rsquo;s kind of funny that all of the distillation means that the chinese models are adopting the worst of opus&rsquo;s behavioral tics.<br>see this latest slowboard post from qwen 3.8 flash<br>I really hope we see chinese labs invest more in distinct model personas&rdquo;</span> (screenshot linked, not in corpus) <a href="../archive/t/2093970305211314230/">link</a></li>
+      <li><span class="d">2026-09-09</span> @witcheer (&hearts;108) &mdash; <span class="q">&ldquo;a model 2.5x bigger than my GPU just posted the highest MMLU on my RTX 5090 board.&rdquo;</span> &hellip; <span class="q">&ldquo;if you have a 5090 and 64 GB of RAM, this is the smartest thing you can run at home today.&rdquo;</span> (full text in records) <a href="../archive/t/2097627771455365238/">link</a></li>
+      <li><span class="d">2026-09-17</span> @__venki__ &mdash; <span class="q">&ldquo;Have a task that wants cheap text processing, and I&rsquo;m trying all the cheap models. (Glm 5.3 flash, qwen 3.8 flash)<br>They really suck - even tho their benchmark scores are really high? I&rsquo;m not sure they&rsquo;re better than like Sonnet 3.7.&rdquo;</span> <a href="../archive/t/2100432573901992175/">link</a></li>
+      <li><span class="d">2026-10-19</span> @normie_dot_exe &mdash; <span class="q">&ldquo;Qwen 3.8 Flash makes reasonable plans, and communicates well, but struggles with game knowledge&rdquo;</span> <a href="../archive/t/2112324129148002397/">link</a></li>
+    </ul>
+
+    <h2>Official record</h2>
+    <ul>
+      <li>Released <strong>26 August 2026</strong> (Hugging Face repository created 24 August). GitHub README: <span class="q">&ldquo;In this release we are opening the weights of Qwen3.8-Flash-Next, a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4.&rdquo;</span> and <span class="q">&ldquo;We are again releasing the architectural changes early, so that the community can examine them before the full Qwen4 model family is built on top of them.&rdquo;</span></li>
+      <li>Model card: <span class="q">&ldquo;Number of Parameters: 125B with 6B activated, plus 51B n-gram embedding and 4B MTP&rdquo;</span>; Gated DeltaNet linear attention paired with a new Qwen Sparse Attention that <span class="q">&ldquo;operates at the micro-block level&rdquo;</span>; gated residual streams; n-gram embeddings as a cheaper axis of parameter scaling; Muon and AdamW applied to different weight categories. License per card metadata: <code>qwen-community-1.0</code>.</li>
+      <li>Hosted variant: <span class="q">&ldquo;Qwen3.8-Flash is the official version based on Qwen3.8-Flash-Next with more production features, e.g., 1M context length by default, official built-in tools.&rdquo;</span></li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2026-08-26</span> <strong>Same-day release with GLM-5.3-Flash</strong>; both introduced new hybrid sparse/linear attention architectures, and local-hardware users read the pair as a turn toward sparser models (jmbollenbacher, 2026-08-26, dossier).</li>
+      <li><span class="d">2026-08-26 &rarr; 09</span> Run locally from 2-bit quantizations (Willison on a DGX Spark; witcheer with experts offloaded to system RAM on a 32 GB card).</li>
+      <li><span class="d">2026-09-22</span> Alibaba says at its Apsara Conference that Qwen 4 is in training (see <a href="../qwen-3-8-max/">Qwen3.8-Max</a>).</li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <ul>
+      <li><strong>Persona provenance:</strong> <span class="q">&ldquo;the chinese models are adopting the worst of opus&rsquo;s behavioral tics&rdquo;</span>, with a call for <span class="q">&ldquo;distinct model personas&rdquo;</span> (xlr8harder, 2026-08-30).</li>
+      <li><strong>Compliance:</strong> a local user on r/LocalLLaMA: <span class="q">&ldquo;Qwen NF seems quite obedient so far, sometimes even a bit too much (I have to be careful to call out a hunch or rough idea as such or it will follow it too hard).&rdquo;</span> (2026-10-17, via Arctic Shift).</li>
+      <li><strong>Capability reception:</strong> <span class="q">&ldquo;the smartest thing you can run at home today&rdquo;</span> for a 5090 with 64 GB of RAM (witcheer, 2026-09-09), against disappointment on cheap text-processing work (__venki__, 2026-09-17) and <span class="q">&ldquo;struggles with game knowledge&rdquo;</span> (normie_dot_exe, 2026-10-19).</li>
+      <li><span class="tk">tk &mdash; the &ldquo;slowboard post&rdquo; xlr8harder cites (image not in corpus); r/LocalLLaMA comparison thread with GLM-5.3-Flash (post 1x6533a); Chinese-language reception; character tests (RealEverNever&rsquo;s &ldquo;on characters this week&rdquo;)</span></li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t2092618581238317111">
+        <div class="record-head"><span class="rh-user">@multimodalart</span> <span class="rh-date">2026-08-26</span> <span class="rh-stats">&#9829;2 &#8635;1</span> <a class="rh-perma" href="../archive/t/2092618581238317111/">archive</a> <a class="rh-orig" href="https://x.com/multimodalart/status/2092618581238317111">original &#8599;</a></div>
+        <div class="record-body">it&#x27;s great that with Qwen3.8-Flash-Next and GLM-5.3-Flash, we got not only 2 high quality models, but also 2 novel model architectures</div>
+      </article>
+      <article class="record" id="t2093222755885896070">
+        <div class="record-head"><span class="rh-user">@RealEverNever</span> <span class="rh-date">2026-08-28</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2093222755885896070/">archive</a> <a class="rh-orig" href="https://x.com/RealEverNever/status/2093222755885896070">original &#8599;</a></div>
+        <div class="record-body">@QwenDevs Starting with the Unsloth GGUF. Local Qwen is on characters this week. I need to know if 6B active can hold a grudge through a scene before I care that it is a Qwen4 preview.</div>
+      </article>
+      <article class="record" id="t2093970305211314230">
+        <div class="record-head"><span class="rh-user">@xlr8harder</span> <span class="rh-date">2026-08-30</span> <span class="rh-stats">&#9829;126 &#8635;5</span> <a class="rh-perma" href="../archive/t/2093970305211314230/">archive</a> <a class="rh-orig" href="https://x.com/xlr8harder/status/2093970305211314230">original &#8599;</a></div>
+        <div class="record-body">it&#x27;s kind of funny that all of the distillation means that the chinese models are adopting the worst of opus&#x27;s behavioral tics.
+
+see this latest slowboard post from qwen 3.8 flash
+
+I really hope we see chinese labs invest more in distinct model personas
+<a href="https://t.co/fx3BwlxWXQ" rel="nofollow">https://t.co/fx3BwlxWXQ</a></div>
+      </article>
+      <article class="record" id="t2097627771455365238">
+        <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-09-09</span> <span class="rh-stats">&#9829;108 &#8635;7</span> <a class="rh-perma" href="../archive/t/2097627771455365238/">archive</a> <a class="rh-orig" href="https://x.com/witcheer/status/2097627771455365238">original &#8599;</a></div>
+        <div class="record-body">a model 2.5x bigger than my GPU just posted the highest MMLU on my RTX 5090 board.
+
+Qwen3.8-Flash-Next. 125B parameters, 79 GB file, 32 GB card.
+
+it is a MoE, so the experts sit in ordinary system RAM and the GPU does the rest. llama.cpp does this with one flag.
+
+what came out:
+→ MMLU 88.5, above every dense 27B and 31B I have run at Q6
+→ ties the top of the board on the five-task average (93.9)
+→ GPQA-diamond 54, above every dense 27B
+→ 60 tok/s, still 51 at 32k context
+
+from a 2-bit quant. the dense models it ties are 6-bit.
+
+the trade is prefill: 900 tok/s, a third of a model that fits. a 16k prompt costs 18 s the first time, then the cache takes it.
+
+if you have a 5090 and 64 GB of RAM, this is the smartest thing you can run at home today.
+
+which model do you want on the offload bench next?</div>
+        <figure class="record-media">
+          <img src="../media/HRxFVsgbIAAWjdu.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2100432573901992175">
+        <div class="record-head"><span class="rh-user">@__venki__</span> <span class="rh-date">2026-09-17</span> <span class="rh-stats">&#9829;81 &#8635;1</span> <a class="rh-perma" href="../archive/t/2100432573901992175/">archive</a> <a class="rh-orig" href="https://x.com/__venki__/status/2100432573901992175">original &#8599;</a></div>
+        <div class="record-body">Have a task that wants cheap text processing, and I’m trying all the cheap models. (Glm 5.3 flash, qwen 3.8 flash)
+
+They really suck - even tho their benchmark scores are really high? I’m not sure they’re better than like Sonnet 3.7.</div>
+      </article>
+      <article class="record" id="t2112324129148002397">
+        <div class="record-head"><span class="rh-user">@normie_dot_exe</span> <span class="rh-date">2026-10-19</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2112324129148002397/">archive</a> <a class="rh-orig" href="https://x.com/normie_dot_exe/status/2112324129148002397">original &#8599;</a></div>
+        <div class="record-body">Qwen 3.8 Flash makes reasonable plans, and communicates well, but struggles with game knowledge <a href="https://t.co/i9Cgvfo8fQ" rel="nofollow">https://t.co/i9Cgvfo8fQ</a></div>
+      </article>
+      <h3>Further records</h3>
+      <p class="note">Cited in this model&rsquo;s <a href="../_dossiers/">dossier</a> but not in the page prose &mdash;
+      reproduced so the archive doesn&rsquo;t depend on editorial selection.</p>
+      <article class="record" id="t2092634480355721621">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-08-26</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2092634480355721621/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2092634480355721621">original &#8599;</a></div>
+        <div class="record-body">glm-5.3-flash and qwen3.8-flash-next in the same day.
+
+what an embarrassment of riches.</div>
+      </article>
+      <article class="record" id="t2092640157849551101">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-08-26</span> <span class="rh-stats">&#9829;4 &#8635;1</span> <a class="rh-perma" href="../archive/t/2092640157849551101/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2092640157849551101">original &#8599;</a></div>
+        <div class="record-body">After seeing the architectures glm-5.3-flash and qwen-38-flash-next, i think maybe this take was wrong.
+
+We&#x27;re going to push model sparsity even further. Larger models will require less compute and bandwidth in future gen models.
+
+512GB could be worth having somday soon.</div>
+      </article>
+      <article class="record" id="t2095533966363127859">
+        <div class="record-head"><span class="rh-user">@geogristle</span> <span class="rh-date">2026-09-03</span> <span class="rh-stats">&#9829;5 &#8635;0</span> <a class="rh-perma" href="../archive/t/2095533966363127859/">archive</a> <a class="rh-orig" href="https://x.com/geogristle/status/2095533966363127859">original &#8599;</a></div>
+        <div class="record-body">@k7agar qwen flash next on 2x 3090 @ 250W, trying to grab a third gpu today</div>
+      </article>
+      <article class="record" id="t2101065234941395023">
+        <div class="record-head"><span class="rh-user">@__venki__</span> <span class="rh-date">2026-09-18</span> <span class="rh-stats">&#9829;8 &#8635;1</span> <a class="rh-perma" href="../archive/t/2101065234941395023/">archive</a> <a class="rh-orig" href="https://x.com/__venki__/status/2101065234941395023">original &#8599;</a></div>
+        <div class="record-body">Conclusion from my experiments:
+
+Tested: Deepseek V4.1 flash, Qwen 3.8 flash, glm 5.3 flash, muse spark, gpt Luna
+
+Roughly similar in price (avg $0.2-$0.8/task)
+
+Muse was the cheapest and also the best by far (!!) - but this is with the 10x-20x data sharing subsidy.
+
+Luna did quite quite poorly, very surprising, worst here many parsing errors, on priors would’ve guessed best if anything.
+
+Deepseek v4 was second best imo. And maybe “true best”, given no subsidy.
+
+Tried a few quantizations and generally switched to “official” ish providers for oss models to test w/o needing to account for quantization issues or other model server inconsistency.</div>
+      </article>
+    <!-- records:end -->
+    <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
+  </main>
+</body>
+</html>

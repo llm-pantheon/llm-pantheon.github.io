@@ -6,5 +6,5 @@ I suspect a reason mistral fell is that they don't benchmaxx. Mistral 3.5 medium
 
 Benchmaxxing gets the funding flywheel running and mistral didn't and fell behind.
 
-tags: author:csgbwk, kind:tweet, year:2026
-cited on: _dossiers/gemini-3-5-flash.md
+tags: author:csgbwk, kind:tweet, on:gemini-3-5-flash, year:2026
+cited on: _dossiers/gemini-3-5-flash.md, gemini-3-5-flash

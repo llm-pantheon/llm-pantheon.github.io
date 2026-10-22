@@ -4,5 +4,5 @@
 
 Ox Alpha now available in Hermes Agent through @opencode and @OpenRouter!
 
-tags: author:teknium, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/glm-5-3-flash.md
+tags: author:teknium, kind:tweet, model:nous-hermes, on:glm-5-3-flash, year:2026
+cited on: _dossiers/glm-5-3-flash.md, glm-5-3-flash

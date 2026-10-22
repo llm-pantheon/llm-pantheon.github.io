@@ -4,5 +4,5 @@
 
 How benchmaxxed do we think Gemini 4 is?
 
-tags: author:plastiqsoldier, kind:tweet, year:2026
-cited on: _dossiers/gemini-4-argon.md
+tags: author:plastiqsoldier, kind:tweet, on:gemini-4-argon, year:2026
+cited on: _dossiers/gemini-4-argon.md, gemini-4-argon

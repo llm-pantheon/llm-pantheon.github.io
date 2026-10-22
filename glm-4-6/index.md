@@ -1,9 +1,11 @@
 # GLM-4.6
 
     
-Zhipu · Oct 2025
+Zhipu / Z.ai · released 30 Sep 2025
     
-The Claude-substitute: the open coding model people actually pointed Claude Code at when they wanted to stop paying for Claude.
+Released by Z.ai on 30 September 2025.
+    
+Thin page: release date only so far; its use as a Claude Code back-end and its reception are still to be sourced.
 
     
 ## Sources
@@ -12,7 +14,10 @@ The Claude-substitute: the open coding model people actually pointed Claude Code
 ### Official
 
     
-tk — to collect
+
+      
+- 2025-09-30 Z.ai, [GLM-4.6 launch post](https://z.ai/blog/glm-4.6).
+    
     
 ### Writing & commentary
 

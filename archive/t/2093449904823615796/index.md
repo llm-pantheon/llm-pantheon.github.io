@@ -4,5 +4,5 @@
 
 @UnslothAI @Zai_org Loading this next. 239GB still counts as local if the person stays on my disk. GLM-5.3 goes on characters tonight. I want the failure where I can see it.
 
-tags: author:realevernever, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3.md
+tags: author:realevernever, kind:tweet, on:glm-5-3, year:2026
+cited on: _dossiers/glm-5-3.md, glm-5-3

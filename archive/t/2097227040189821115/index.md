@@ -10,5 +10,5 @@ Ever since I first interacted with LLMs I could see that visuospatial/physical w
 
 I'm not going to stop my personal OS work, of course, it's all super important to me, but I'm excited about this new opportunity!
 
-tags: author:skyesharkie, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:skyesharkie, kind:tweet, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

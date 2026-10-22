@@ -8,5 +8,5 @@ highlight: GLM-5.3-Flash starts from a new base model. architecture and training
 
 https://t.co/vjxMiyG8wQ
 
-tags: author:multimodalart, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3-flash.md
+tags: author:multimodalart, kind:tweet, on:glm-5-3-flash, year:2026
+cited on: _dossiers/glm-5-3-flash.md, glm-5-3-flash

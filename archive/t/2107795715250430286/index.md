@@ -22,6 +22,6 @@ problems solved out of 63 (AIME 2026 out of 30 + HMMT Feb 2026 out of 33), MATH-
 - Ornith 1.5 9B Q6_K: 18 + 11 = 29 (84.6)
 - Qwable 27B Q4_K_M: 16 + 13 = 29 (90.0)
 
-(image HUBlB61XIAAjszW.jpg not yet published)
-tags: author:witcheer, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/qwen-3-8-27b.md
+![photo](../../../media/HUBlB61XIAAjszW.jpg)
+tags: author:witcheer, has-image, kind:image, kind:tweet, on:qwen-3-8-27b, year:2026
+cited on: _dossiers/qwen-3-8-27b.md, qwen-3-8-27b

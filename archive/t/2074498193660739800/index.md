@@ -4,5 +4,5 @@
 
 @robertwrighter They released 3.7 Max and noone cared because GLM5.2 could be downloaded so people adapted their work to GLM
 
-tags: author:nymne, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:nymne, kind:tweet, on:glm-5-2, on:qwen-3-7-max, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2, qwen-3-7-max

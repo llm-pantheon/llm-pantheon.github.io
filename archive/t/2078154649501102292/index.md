@@ -6,5 +6,5 @@
 
 But hey, I chose this line of work.
 
-tags: author:thezvi, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:thezvi, kind:tweet, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

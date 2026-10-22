@@ -6,5 +6,5 @@ GLM 5.2 / Opus 4.8 level of intelligence is smart enough for most of my daily ne
 
 I'm so excited for even cheaper and faster. Maybe 10x on both in the next year? Sooner?
 
-tags: author:stevekrouse, kind:tweet, model:claude-opus-4-8, model:fable, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:stevekrouse, kind:tweet, model:claude-opus-4-8, model:fable, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

@@ -10,4 +10,4 @@ At the other end, DeepSeek V4.1 Flash scores 36.91 at $0.26 and Ling 3.0 Flash s
 
 ![photo](../../../media/HT-M_1MXEAEMGC8.jpg)
 tags: author:nousresearch, has-image, kind:image, kind:tweet, on:claude-sonnet-5-5, year:2026
-cited on: _dossiers/claude-sonnet-5-5.md, claude-sonnet-5-5
+cited on: _dossiers/claude-sonnet-5-5.md, _dossiers/deepseek-v4-1-flash.md, claude-sonnet-5-5

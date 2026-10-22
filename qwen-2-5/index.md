@@ -1,9 +1,11 @@
 # Qwen 2.5
 
     
-Alibaba · Sep 2024
+Alibaba (Qwen) · announced 19 Sep 2024
     
-The substrate: the most-finetuned open family on earth, the default “local model” of 2024–25, and the base under half the community's experiments. (Qwen 1 / 1.5 / 2 fold in here as prehistory.)
+Announced on 19 September 2024 as a family of open-weight models. Qwen 1, 1.5 and 2 fold in here as prehistory.
+    
+Thin page: only the release record so far; reception, research use and corpus passes pending.
 
     
 ## Sources
@@ -12,7 +14,10 @@ The substrate: the most-finetuned open family on earth, the default “local mod
 ### Official
 
     
-tk — to collect
+
+      
+- 2024-09-19 Qwen, [Qwen2.5: A Party of Foundation Models!](https://qwenlm.github.io/blog/qwen2.5/) — launch post.
+    
     
 ### Writing & commentary
 

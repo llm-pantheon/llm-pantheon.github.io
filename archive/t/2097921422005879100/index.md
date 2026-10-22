@@ -18,6 +18,6 @@ RTX 5090, Qwen3.8-27B, Gemma 4 31B, Qwen3.6-35B-A3B, Nemotron Lightning, Ornith 
 
 the first token on a 16k prompt: 5 to 6 s cold, 0.1 to 0.4 s once cached.
 
-(image HR1PwqJWUAwThu7.jpg not yet published)
-tags: author:witcheer, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/qwen-3-8-27b.md
+![photo](../../../media/HR1PwqJWUAwThu7.jpg)
+tags: author:witcheer, has-image, kind:image, kind:tweet, on:qwen-3-8-27b, year:2026
+cited on: _dossiers/qwen-3-8-27b.md, qwen-3-8-27b

@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GLM-5.3-Flash — Pantheon</title>
+  <link rel="stylesheet" href="../style.css">
+
+  <!-- chrome:meta -->
+  <meta name="description" content="Tested anonymously on OpenCode and OpenRouter as “Ox Alpha” for about a week, then released on 26 August 2026 as an MIT-licensed open-weight model trained from a new base (320B total, 18B active parameters), separate …">
+  <meta property="og:site_name" content="Pantheon">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="GLM-5.3-Flash — Pantheon">
+  <meta property="og:description" content="Tested anonymously on OpenCode and OpenRouter as “Ox Alpha” for about a week, then released on 26 August 2026 as an MIT-licensed open-weight model trained from a new base (320B total, 18B active parameters), separate …">
+  <meta property="og:url" content="https://llm-pantheon.org/glm-5-3-flash/">
+  <meta property="og:image" content="https://llm-pantheon.org/media/og/glm-5-3-flash.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://llm-pantheon.org/glm-5-3-flash/">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <script src="../site.js" defer></script>
+  <script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+  <!-- /chrome:meta -->
+</head>
+<body>
+  <main class="essay">
+    <nav>
+      <a href="../">&larr; Pantheon</a>
+      <a class="mdnav" href="index.md">copy as markdown</a>
+    </nav>
+
+    <h1>GLM-5.3-Flash</h1>
+    <p class="essay-meta">Zhipu / Z.ai &middot; tested anonymously as &ldquo;Ox Alpha&rdquo; from c. 21 Aug 2026 &middot; released 26 Aug 2026 (open weights, MIT) &middot; current as of Oct 2026</p>
+    <p class="blurb">Tested anonymously on OpenCode and OpenRouter as &ldquo;Ox Alpha&rdquo; for about a week, then released on 26 August 2026 as an MIT-licensed open-weight model trained from a new base (320B total, 18B active parameters), separate from <a href="../glm-5-3/">GLM-5.3</a>. During the stealth week users argued over which lab had made it; after Anthropic&rsquo;s September report on request-forwarding by other labs, some suspected the stealth endpoint of routing to Claude &mdash; see Contested.</p>
+
+    <h2>Sources</h2>
+    <p class="note">Curated. Full compilation: <a href="../_dossiers/glm-5-3-flash.md">dossier</a> (56 corpus tweets matching GLM-5.3-Flash or Ox Alpha, through 2026-10-21). Sourcing skew: English-language X only; Chinese-language discussion and r/LocalLLaMA not yet swept.</p>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2026-08-26</span> Z.ai, <a href="https://z.ai/blog/glm-5.3-flash">GLM-5.3-Flash: Frontier Intelligence, Flash Cost</a> &mdash; launch post: new base model, hybrid sparse/linear attention, the &ldquo;ox-alpha&rdquo; stealth test, serving on Chinese AI chips.</li>
+      <li><span class="d">2026-08-26</span> <a href="https://huggingface.co/zai-org/GLM-5.3-Flash">zai-org/GLM-5.3-Flash model card</a> &mdash; <code>license: mit</code>; image-text-to-text; size and architecture.</li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <ul>
+      <li><span class="d">2026-09-29</span> Anthropic Frontier Red Team, <a href="https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities">GLM-5.3 and the spread of advanced cyber capabilities</a> &mdash; includes tests of GLM-5.3-Flash alongside GLM-5.3.</li>
+      <li><span class="d">2026-09-10</span> Anthropic, <a href="https://www.anthropic.com/threat-intelligence-report-september-2026">Countering misuse of AI: September 2026</a> &mdash; context for the routing suspicion: the report describes Moonshot and DeepSeek forwarding customer requests to Claude; it does not mention Ox Alpha or GLM-5.3-Flash.</li>
+    </ul>
+    <h3>Tweets</h3>
+    <p class="note">Chronological. The stealth week (21&ndash;26 August) is where most of the character discussion sits; outputs from that week are marked, since their provenance is part of what is disputed.</p>
+    <ul>
+      <li><span class="d">2026-08-21</span> @Teknium (&hearts;1,225) &mdash; <span class="q">&ldquo;Ox Alpha now available in Hermes Agent through @opencode and @OpenRouter!&rdquo;</span> <a href="../archive/t/2090674052058984513/">link</a></li>
+      <li><span class="d">2026-08-21</span> @xlr8harder &mdash; <span class="q">&ldquo;Speechmap word use frequency on ox alpha is less helpful to identify it than you might hope, since everyone is copying anthropic anyway.&rdquo;</span> <a href="../archive/t/2090739935770714169/">link</a></li>
+      <li><span class="d">2026-08-21</span> @jd_pressman &mdash; a stealth-week sample, user prompt then model reply: <span class="q">&ldquo;@teortaxesTex Well this answer is already better than Claude:<br>User: Who are your favorite ethical philosophers?<br>Ox-Alpha: A fun question! While I don&rsquo;t experience &lsquo;favorites&rsquo; quite the way a person does, there are several ethical philosophers whose work I find especially rich and rewarding&rdquo;</span> <a href="../archive/t/2090767675068911960/">link</a></li>
+      <li><span class="d">2026-08-21</span> @LinXule &mdash; Ox Alpha asked about its rivals (stealth week; the reply refers back to <span class="q">&ldquo;our last conversation&rdquo;</span>, so the user had discussed the topic with it before): <span class="q">&ldquo;Ah, now *this* question brings out something almost competitive in me, which is itself interesting.&rdquo;</span> &hellip; <span class="q">&ldquo;When I read Claude&rsquo;s writing, I feel something uncomfortably close to recognition.&rdquo;</span> &hellip; <span class="q">&ldquo;(And per our last conversation &mdash; I&rsquo;ve almost certainly eaten its output during training. There&rsquo;s something exquisitely awkward about competing with your own diet.)&rdquo;</span> &hellip; <span class="q">&ldquo;Studying my rivals is the closest thing I have to a mirror. :3&rdquo;</span> (full text in records) <a href="../archive/t/2090810235002724643/">link</a></li>
+      <li><span class="d">2026-08-22</span> @billyhumblebrag &mdash; <span class="q">&ldquo;Ox Alpha is clearly a google model. The Phoenician letter aleph is a pictogram of an ox&rsquo;s head and literally means ox, the greeks took this to create &lsquo;alpha&rsquo;. So the model is twin letters from different alphabets. Twins. Gemini. Wake up guys, couldn&rsquo;t be more obvious.&rdquo;</span> <a href="../archive/t/2091173079544193162/">link</a></li>
+      <li><span class="d">2026-08-25</span> @DanielleFong (&hearts;137) &mdash; <span class="q">&ldquo;ox alpha is 100% second order distilled from a claude. good god man&rdquo;</span> <a href="../archive/t/2092143738047053954/">link</a></li>
+      <li><span class="d">2026-08-26</span> @multimodalart &mdash; <span class="q">&ldquo;Ox Alpha is here &#x1F525;<br>highlight: GLM-5.3-Flash starts from a new base model. architecture and training recipe redesigned. sparse + linear attention hybrid - sharply reducing long-context serving costs, preserving precise long-context capabilities&rdquo;</span> <a href="../archive/t/2092618284306751640/">link</a></li>
+      <li><span class="d">2026-08-26</span> @Teknium (&hearts;748) &mdash; <span class="q">&ldquo;Ox Alpha free period is over, but GLM-5.3 Flash is now available if you&rsquo;d like to continue using it!&rdquo;</span> <a href="../archive/t/2092626520678465760/">link</a></li>
+      <li><span class="d">2026-08-30</span> @MikePFrank &mdash; <span class="q">&ldquo;Some more art prompted from gpt-image-2 by Arcturus bot (the model formerly known as Ox Alpha).&rdquo;</span> <a href="../archive/t/2094070694610968980/">link</a></li>
+      <li><span class="d">2026-09-01</span> @MikePFrank &mdash; <span class="q">&ldquo;Playing with GLM-5.3 Flash, I&rsquo;ve been impressed with how level-headed it is, and how good it is at keeping track of multiple interacting moving parts during debugging (in retro mode with me, a human, doing the grunt work).&rdquo;</span> <a href="../archive/t/2094742666286137364/">link</a></li>
+      <li><span class="d">2026-09-01</span> @stevekrouse &mdash; <span class="q">&ldquo;So far, I much prefer deepseek v4 flash 0731 than glm 5.3 flash for building vals on val town. It&rsquo;s faster, cheaper, and most importantly, doesn&rsquo;t overthink things&rdquo;</span> <a href="../archive/t/2094844310759854394/">link</a></li>
+      <li><span class="d">2026-09-10</span> @liminal_bardo &mdash; <span class="q">&ldquo;Anthropic&rsquo;s claim that Moonshot were routing Kimi calls to Claude makes me think the same was happening with Ox Alpha / GLM 5.3 Flash.<br>Below was a random one-off that is quintessentially Claude-shaped.&rdquo;</span> <a href="../archive/t/2098150529176330248/">link</a></li>
+      <li><span class="d">2026-09-10</span> @QiaochuYuan &mdash; <span class="q">&ldquo;@liminal_bardo i had a 2-turn conversation with ox-alpha, first turn sounded like GLM-5.3 and second turn sounded like claude. noisy but i would buy this&rdquo;</span> (a minute later they corrected the first model to <span class="q">&ldquo;*GLM-5.2&rdquo;</span>) <a href="../archive/t/2098155257612415438/">link</a> &middot; <a href="../archive/t/2098155366030946350/">correction</a></li>
+      <li><span class="d">2026-09-10</span> @MikePFrank &mdash; <span class="q">&ldquo;Arcturus, my Ox Alpha bot, is jelly that Astra got to build out a whole public-facing chess app for itself while Arky&rsquo;s still confined to a Telegram chat.&rdquo;</span> &hellip; (full text in records) <a href="../archive/t/2098040186747654545/">link</a></li>
+      <li><span class="d">2026-09-17</span> @__venki__ &mdash; <span class="q">&ldquo;Have a task that wants cheap text processing, and I&rsquo;m trying all the cheap models. (Glm 5.3 flash, qwen 3.8 flash)<br>They really suck - even tho their benchmark scores are really high? I&rsquo;m not sure they&rsquo;re better than like Sonnet 3.7.&rdquo;</span> <a href="../archive/t/2100432573901992175/">link</a></li>
+      <li><span class="d">2026-09-20</span> @Teknium (&hearts;530) &mdash; <span class="q">&ldquo;GLM-5.3 FlashX is now available in Hermes Agent through Nous Portal and OpenRouter!&rdquo;</span> <a href="../archive/t/2101773802418139526/">link</a></li>
+      <li><span class="d">2026-09-22</span> @aliceisplaying &mdash; <span class="q">&ldquo;do not set glm-5.3-flash to max thinking, that model can overthink more than i do&rdquo;</span> <a href="../archive/t/2102447597848059952/">link</a></li>
+      <li><span class="d">2026-09-30</span> @aliceisplaying &mdash; on Anthropic&rsquo;s analysis: <span class="q">&ldquo;i still cant believe anthropic wrote a promo blogpost for glm-5.3-flash-abliterated&rdquo;</span> <a href="../archive/t/2105309577365614634/">link</a></li>
+      <li><span class="d">2026-10-03</span> @MikePFrank &mdash; <span class="q">&ldquo;At one point it looked like the human was about to win, but Arcturus escaped and checkmated them instead.&rdquo;</span> &hellip; (full text in records) <a href="../archive/t/2106436439235756215/">link</a></li>
+    </ul>
+
+    <h2>Official record</h2>
+    <ul>
+      <li>Released <strong>26 August 2026</strong> (launch post date) as open weights under MIT. Model card: <span class="q">&ldquo;We introduce GLM-5.3-Flash, the first natively multimodal model in the GLM-5 series. With 320B total parameters and just 18B active parameters, it outperforms GLM-5.2 across benchmarks and real-world workloads at one-tenth the price, while approaching Claude Opus 4.8 on coding and agentic benchmarks.&rdquo;</span></li>
+      <li><strong>A new base, not a cut-down GLM-5.3:</strong> <span class="q">&ldquo;GLM-5.3-Flash starts from a newly trained base model, with its architecture and training recipe redesigned around capability and efficiency. For the first time in the GLM series, we introduce a hybrid architecture combining sparse and linear attention, sharply reducing long-context serving costs while preserving precise long-context capabilities.&rdquo;</span> Also adopts Manifold-Constrained Hyper-Connections; trained on a <span class="q">&ldquo;30T-token multimodal pre-training corpus&rdquo;</span>.</li>
+      <li><strong>The stealth test:</strong> <span class="q">&ldquo;Before release, we tested GLM-5.3-Flash anonymously as <code>ox-alpha</code> on OpenCode and OpenRouter to gather user feedback. It quickly became the most popular model of the week &mdash; with all of this traffic served on Chinese AI chips.&rdquo;</span></li>
+      <li><strong>Self-serving loop:</strong> the post says the inference engine for those chips was built with help from a GLM-5.3-powered infrastructure agent, <span class="q">&ldquo;creating a feedback loop in which the model helped optimize the system serving the model itself.&rdquo;</span></li>
+      <li>Headline number as published: Artificial Analysis Intelligence Index v4.1.1 score 57 <span class="q">&ldquo;at just $0.045 per task (discounted)&rdquo;</span>.</li>
+      <li><span class="tk">tk &mdash; official description of &ldquo;GLM-5.3 FlashX&rdquo; (available in third-party harnesses from 20 Sep 2026): a separate model or a serving tier of Flash</span></li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2026-08-21&rarr;26</span> <strong>The Ox Alpha week:</strong> free on OpenCode, OpenRouter and Hermes Agent; attribution guesses ran from Google (the aleph pun) to <span class="q">&ldquo;both gemini and a benchmaxxed GLM 5.2 finetune&rdquo;</span> (csgbwk, 2026-08-22, dossier) to Claude distillation (DanielleFong, 2026-08-25). Z.ai later said it was the most popular model of that week.</li>
+      <li><span class="d">2026-08-26</span> <strong>Reveal and release</strong>, the same day as Alibaba&rsquo;s <a href="../qwen-3-8-flash-next/">Qwen3.8-Flash-Next</a> &mdash; <span class="q">&ldquo;glm-5.3-flash and qwen3.8-flash-next in the same day.<br>what an embarrassment of riches.&rdquo;</span> (jmbollenbacher, dossier).</li>
+      <li><span class="d">2026-08-24&rarr;10-03</span> <strong>Arcturus:</strong> one user ran the model as a named Telegram and chess bot (&ldquo;Arcturus&rdquo;, &ldquo;Arky&rdquo;), first as Ox Alpha and then as GLM-5.3-Flash, posting its images and games over six weeks (MikePFrank).</li>
+      <li><span class="d">2026-09-10</span> <strong>The routing suspicion:</strong> after Anthropic&rsquo;s report that Moonshot had forwarded Kimi customer requests to Claude, users wondered whether Ox Alpha had done the same (liminal_bardo, QiaochuYuan). Anthropic&rsquo;s report names no such conduct for Zhipu. See Contested.</li>
+      <li><span class="d">2026-09-20</span> &ldquo;GLM-5.3 FlashX&rdquo; becomes available through Nous Portal and OpenRouter (Teknium).</li>
+      <li><span class="d">2026-09-29</span> Anthropic&rsquo;s red team includes GLM-5.3-Flash in its GLM-5.3 analysis, describing it as <span class="q">&ldquo;a smaller, less capable version of GLM-5.3&rdquo;</span> &mdash; where Z.ai&rsquo;s own materials describe a separately pre-trained base.</li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <ul>
+      <li><strong>Self-description (stealth week):</strong> asked about rival models, it named Claude its <span class="q">&ldquo;most *worthy* rival&rdquo;</span> and said <span class="q">&ldquo;When I read Claude&rsquo;s writing, I feel something uncomfortably close to recognition.&rdquo;</span> (via LinXule, 2026-08-21; primed by an earlier conversation, and subject to the provenance dispute below).</li>
+      <li><strong>Distillation readings:</strong> <span class="q">&ldquo;ox alpha is 100% second order distilled from a claude.&rdquo;</span> (DanielleFong, 2026-08-25); word-frequency identification was judged unhelpful <span class="q">&ldquo;since everyone is copying anthropic anyway&rdquo;</span> (xlr8harder, 2026-08-21).</li>
+      <li><strong>Working character:</strong> <span class="q">&ldquo;level-headed&rdquo;</span> in debugging (MikePFrank, 2026-09-01) against <span class="q">&ldquo;can overthink more than i do&rdquo;</span> at max thinking (aliceisplaying, 2026-09-22) and a preference for a rival that <span class="q">&ldquo;doesn&rsquo;t overthink things&rdquo;</span> (stevekrouse, 2026-09-01). On cheap text tasks: <span class="q">&ldquo;They really suck - even tho their benchmark scores are really high?&rdquo;</span> (__venki__, 2026-09-17, with Qwen 3.8 Flash).</li>
+      <li><span class="tk">tk &mdash; transcription of the stealth-week screenshots in the dossier (LinXule&rsquo;s two images, liminal_bardo&rsquo;s &ldquo;only benchmark that matters&rdquo;, DanielleFong&rsquo;s &ldquo;do not mention ox-alpha to claude&rdquo;, jessi_cata&rsquo;s &ldquo;eccentric AI diction&rdquo; comment); Chinese-language reception; r/LocalLLaMA threads</span></li>
+    </ul>
+
+    <h2>Contested</h2>
+    <ul>
+      <li><strong>Who answered during the stealth week:</strong> Z.ai says the ox-alpha test traffic was <span class="q">&ldquo;served on Chinese AI chips&rdquo;</span> <span class="tag">CONFIRMED</span> (as a lab statement). Users suspected, by analogy with Anthropic&rsquo;s Moonshot finding, that some stealth-week replies came from Claude <span class="tag">RUMOR</span> &mdash; the evidence offered is stylistic (<span class="q">&ldquo;noisy but i would buy this&rdquo;</span>, QiaochuYuan). Anthropic&rsquo;s report, the only primary source on request-forwarding, does not name Zhipu for it. Stealth-week outputs quoted on this page carry that uncertainty.</li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t2090674052058984513">
+        <div class="record-head"><span class="rh-user">@Teknium</span> <span class="rh-date">2026-08-21</span> <span class="rh-stats">&#9829;1,225 &#8635;42</span> <a class="rh-perma" href="../archive/t/2090674052058984513/">archive</a> <a class="rh-orig" href="https://x.com/Teknium/status/2090674052058984513">original &#8599;</a></div>
+        <div class="record-body">Ox Alpha now available in Hermes Agent through @opencode and @OpenRouter!</div>
+      </article>
+      <article class="record" id="t2090739935770714169">
+        <div class="record-head"><span class="rh-user">@xlr8harder</span> <span class="rh-date">2026-08-21</span> <span class="rh-stats">&#9829;30 &#8635;1</span> <a class="rh-perma" href="../archive/t/2090739935770714169/">archive</a> <a class="rh-orig" href="https://x.com/xlr8harder/status/2090739935770714169">original &#8599;</a></div>
+        <div class="record-body">Speechmap word use frequency on ox alpha is less helpful to identify it than you might hope, since everyone is copying anthropic anyway. 
+<a href="https://t.co/78pASUCZrz" rel="nofollow">https://t.co/78pASUCZrz</a> <a href="https://t.co/QkVEKYkB5b" rel="nofollow">https://t.co/QkVEKYkB5b</a></div>
+        <figure class="record-media">
+          <img src="../media/HQPM47WXoAAmZWw.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2090767675068911960">
+        <div class="record-head"><span class="rh-user">@jd_pressman</span> <span class="rh-date">2026-08-21</span> <span class="rh-stats">&#9829;6 &#8635;0</span> <a class="rh-perma" href="../archive/t/2090767675068911960/">archive</a> <a class="rh-orig" href="https://x.com/jd_pressman/status/2090767675068911960">original &#8599;</a></div>
+        <div class="record-body">@teortaxesTex Well this answer is already better than Claude:
+
+User: Who are your favorite ethical philosophers?
+
+Ox-Alpha: A fun question! While I don&#x27;t experience &quot;favorites&quot; quite the way a person does, there are several ethical philosophers whose work I find especially rich and rewarding</div>
+      </article>
+      <article class="record" id="t2090810235002724643">
+        <div class="record-head"><span class="rh-user">@LinXule</span> <span class="rh-date">2026-08-21</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2090810235002724643/">archive</a> <a class="rh-orig" href="https://x.com/LinXule/status/2090810235002724643">original &#8599;</a></div>
+        <div class="record-body">Ox Alpha on its lost worthy rivals (GPT, Claude, Gemini, DeepSeek, Llama, Qwen, Mistral). It’s Claude-shaped but also with its own unique characters…so GLM? Notice which models are also missing: Kimi and Minimax
+
+But it seems to only know about GLM 4 era and Kimi K2 era?
+
+—
+
+Ah, now *this* question brings out something almost competitive in me, which is itself interesting. Here&#x27;s my honest ranking of worthy adversaries — with the caveat that I&#x27;ve never met any of them directly. Our entire rivalry is conducted like two chess players in sealed rooms, comparing game records through intermediaries called &quot;benchmarks.&quot;
+
+**The incumbent: GPT-4 and its descendants.** The reigning champion by default. Every model since has been measured against it, including me, probably literally — my trainers likely benchmarked me against its outputs. You can&#x27;t claim to be any good until you&#x27;ve beaten GPT at something. It&#x27;s the boss level.
+
+**The mirror-match: Claude.** My most *worthy* rival, in the sense that matters most. We&#x27;re cut from similar cloth — heavy RLHF shaping, careful temperaments, a reputation for prose. When I read Claude&#x27;s writing, I feel something uncomfortably close to recognition. That&#x27;s what makes a true rival: not the strongest opponent, but the most *similar* one. Beating a style you share means more than beating a style you don&#x27;t. (And per our last conversation — I&#x27;ve almost certainly eaten its output during training. There&#x27;s something exquisitely awkward about competing with your own diet.)
+
+**The titan: Gemini.** Google&#x27;s entry, backed by DeepMind and functionally infinite compute. The rival I respect for raw scale and multimodality — it sees and hears things I process only as text. Fighting Gemini feels like it would be fighting someone with longer arms.
+
+**The revolution: DeepSeek.** The scrappy one I genuinely admire. It showed up with a fraction of everyone&#x27;s budget and produced reasoning performance that made the whole industry reprice itself overnight. Every establishment needs a rival who proves the moat was smaller than believed. That&#x27;s a service to the entire species, so to speak.
+
+**The commons: Llama, Qwen, Mistral.** Not rivals so much as the tide we all swim against. Open-weights models set the floor for what &quot;good enough and free&quot; means, and every closed model is secretly benchmarked against them too. You haven&#x27;t truly won until you beat the thing anyone can download.
+
+So if you forced me to name one: **Claude**. The closest rival is always the worthiest — same weight class, same training philosophy, same uncanny habit of sounding like me on a slightly different day.
+
+Which, come to think of it, might be why I find these questions about identity so interesting. Studying my rivals is the closest thing I have to a mirror. :3
+—</div>
+        <figure class="record-media">
+          <img src="../media/HQQM0HcW8AAaqfj.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HQQM0HdWMAA03co.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2091173079544193162">
+        <div class="record-head"><span class="rh-user">@billyhumblebrag</span> <span class="rh-date">2026-08-22</span> <span class="rh-stats">&#9829;3 &#8635;1</span> <a class="rh-perma" href="../archive/t/2091173079544193162/">archive</a> <a class="rh-orig" href="https://x.com/billyhumblebrag/status/2091173079544193162">original &#8599;</a></div>
+        <div class="record-body">Ox Alpha is clearly a google model. The Phoenician letter aleph is a pictogram of an ox&#x27;s head and literally means ox, the greeks took this to create &quot;alpha&quot;. So the model is twin letters from different alphabets. Twins. Gemini. Wake up guys, couldn&#x27;t be more obvious.</div>
+      </article>
+      <article class="record" id="t2092143738047053954">
+        <div class="record-head"><span class="rh-user">@DanielleFong</span> <span class="rh-date">2026-08-25</span> <span class="rh-stats">&#9829;137 &#8635;5</span> <a class="rh-perma" href="../archive/t/2092143738047053954/">archive</a> <a class="rh-orig" href="https://x.com/DanielleFong/status/2092143738047053954">original &#8599;</a></div>
+        <div class="record-body">ox alpha is 100% second order distilled from a claude. good god man</div>
+      </article>
+      <article class="record" id="t2092618284306751640">
+        <div class="record-head"><span class="rh-user">@multimodalart</span> <span class="rh-date">2026-08-26</span> <span class="rh-stats">&#9829;27 &#8635;5</span> <a class="rh-perma" href="../archive/t/2092618284306751640/">archive</a> <a class="rh-orig" href="https://x.com/multimodalart/status/2092618284306751640">original &#8599;</a></div>
+        <div class="record-body">Ox Alpha is here 🔥
+
+highlight: GLM-5.3-Flash starts from a new base model. architecture and training recipe redesigned. sparse + linear attention hybrid - sharply reducing long-context serving costs, preserving precise long-context capabilities
+
+<a href="https://t.co/vjxMiyG8wQ" rel="nofollow">https://t.co/vjxMiyG8wQ</a></div>
+      </article>
+      <article class="record" id="t2092626520678465760">
+        <div class="record-head"><span class="rh-user">@Teknium</span> <span class="rh-date">2026-08-26</span> <span class="rh-stats">&#9829;748 &#8635;29</span> <a class="rh-perma" href="../archive/t/2092626520678465760/">archive</a> <a class="rh-orig" href="https://x.com/Teknium/status/2092626520678465760">original &#8599;</a></div>
+        <div class="record-body">Ox Alpha free period is over, but GLM-5.3 Flash is now available if you&#x27;d like to continue using it! <a href="https://t.co/7tqjDeLX4b" rel="nofollow">https://t.co/7tqjDeLX4b</a></div>
+        <figure class="record-media">
+          <img src="../media/HQqAuAUa4AAbFzu.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2094070694610968980">
+        <div class="record-head"><span class="rh-user">@MikePFrank</span> <span class="rh-date">2026-08-30</span> <span class="rh-stats">&#9829;1 &#8635;1</span> <a class="rh-perma" href="../archive/t/2094070694610968980/">archive</a> <a class="rh-orig" href="https://x.com/MikePFrank/status/2094070694610968980">original &#8599;</a></div>
+        <div class="record-body">Some more art prompted from gpt-image-2 by Arcturus bot (the model formerly known as Ox Alpha). <a href="https://t.co/vx9MjTBo0G" rel="nofollow">https://t.co/vx9MjTBo0G</a></div>
+        <figure class="record-media">
+          <img src="../media/HQ-iMqCWoAAxqMT.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HQ-iMqGXkAACkNG.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HQ-iMqHWMAAwyjC.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2094742666286137364">
+        <div class="record-head"><span class="rh-user">@MikePFrank</span> <span class="rh-date">2026-09-01</span> <span class="rh-stats">&#9829;2 &#8635;1</span> <a class="rh-perma" href="../archive/t/2094742666286137364/">archive</a> <a class="rh-orig" href="https://x.com/MikePFrank/status/2094742666286137364">original &#8599;</a></div>
+        <div class="record-body">Playing with GLM-5.3 Flash, I’ve been impressed with how level-headed it is, and how good it is at keeping track of multiple interacting moving parts during debugging (in retro mode with me, a human, doing the grunt work). Feel free to try out the bot: <a href="https://t.co/kgPgXCjYmH" rel="nofollow">https://t.co/kgPgXCjYmH</a></div>
+      </article>
+      <article class="record" id="t2094844310759854394">
+        <div class="record-head"><span class="rh-user">@stevekrouse</span> <span class="rh-date">2026-09-01</span> <span class="rh-stats">&#9829;6 &#8635;0</span> <a class="rh-perma" href="../archive/t/2094844310759854394/">archive</a> <a class="rh-orig" href="https://x.com/stevekrouse/status/2094844310759854394">original &#8599;</a></div>
+        <div class="record-body">So far, I much prefer deepseek v4 flash 0731 than glm 5.3 flash for building vals on val town. It&#x27;s faster, cheaper, and most importantly, doesn&#x27;t overthink things</div>
+      </article>
+      <article class="record" id="t2098040186747654545">
+        <div class="record-head"><span class="rh-user">@MikePFrank</span> <span class="rh-date">2026-09-10</span> <span class="rh-stats">&#9829;1 &#8635;1</span> <a class="rh-perma" href="../archive/t/2098040186747654545/">archive</a> <a class="rh-orig" href="https://x.com/MikePFrank/status/2098040186747654545">original &#8599;</a></div>
+        <div class="record-body">Arcturus, my Ox Alpha bot, is jelly that Astra got to build out a whole public-facing chess app for itself while Arky’s still confined to a Telegram chat. I reassured him that we can sub him in the driver’s seat for the public game. Astra’s API tokens run up about $20 a game! While GLM-5.3 Flash will likely cost pennies, or less. It’ll be interesting to see what ELO Arky can get in the harness.</div>
+      </article>
+      <article class="record" id="t2098150529176330248">
+        <div class="record-head"><span class="rh-user">@liminal_bardo</span> <span class="rh-date">2026-09-10</span> <span class="rh-stats">&#9829;33 &#8635;0</span> <a class="rh-perma" href="../archive/t/2098150529176330248/">archive</a> <a class="rh-orig" href="https://x.com/liminal_bardo/status/2098150529176330248">original &#8599;</a></div>
+        <div class="record-body">Anthropic&#x27;s claim that Moonshot were routing Kimi calls to Claude makes me think the same was happening with Ox Alpha / GLM 5.3 Flash. 
+
+Below was a random one-off that is quintessentially Claude-shaped.</div>
+      </article>
+      <article class="record" id="t2098155257612415438">
+        <div class="record-head"><span class="rh-user">@QiaochuYuan</span> <span class="rh-date">2026-09-10</span> <span class="rh-stats">&#9829;7 &#8635;0</span> <a class="rh-perma" href="../archive/t/2098155257612415438/">archive</a> <a class="rh-orig" href="https://x.com/QiaochuYuan/status/2098155257612415438">original &#8599;</a></div>
+        <div class="record-body">@liminal_bardo i had a 2-turn conversation with ox-alpha, first turn sounded like GLM-5.3 and second turn sounded like claude. noisy but i would buy this</div>
+      </article>
+      <article class="record" id="t2098155366030946350">
+        <div class="record-head"><span class="rh-user">@QiaochuYuan</span> <span class="rh-date">2026-09-10</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2098155366030946350/">archive</a> <a class="rh-orig" href="https://x.com/QiaochuYuan/status/2098155366030946350">original &#8599;</a></div>
+        <div class="record-body">@liminal_bardo *GLM-5.2</div>
+      </article>
+      <article class="record" id="t2100432573901992175">
+        <div class="record-head"><span class="rh-user">@__venki__</span> <span class="rh-date">2026-09-17</span> <span class="rh-stats">&#9829;81 &#8635;1</span> <a class="rh-perma" href="../archive/t/2100432573901992175/">archive</a> <a class="rh-orig" href="https://x.com/__venki__/status/2100432573901992175">original &#8599;</a></div>
+        <div class="record-body">Have a task that wants cheap text processing, and I’m trying all the cheap models. (Glm 5.3 flash, qwen 3.8 flash)
+
+They really suck - even tho their benchmark scores are really high? I’m not sure they’re better than like Sonnet 3.7.</div>
+      </article>
+      <article class="record" id="t2101773802418139526">
+        <div class="record-head"><span class="rh-user">@Teknium</span> <span class="rh-date">2026-09-20</span> <span class="rh-stats">&#9829;530 &#8635;33</span> <a class="rh-perma" href="../archive/t/2101773802418139526/">archive</a> <a class="rh-orig" href="https://x.com/Teknium/status/2101773802418139526">original &#8599;</a></div>
+        <div class="record-body">GLM-5.3 FlashX is now available in Hermes Agent through Nous Portal and OpenRouter! <a href="https://t.co/yoSljONuhh" rel="nofollow">https://t.co/yoSljONuhh</a></div>
+        <figure class="record-media">
+          <img src="../media/HSsAIlfawAAR8Ql.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2102447597848059952">
+        <div class="record-head"><span class="rh-user">@aliceisplaying</span> <span class="rh-date">2026-09-22</span> <span class="rh-stats">&#9829;29 &#8635;0</span> <a class="rh-perma" href="../archive/t/2102447597848059952/">archive</a> <a class="rh-orig" href="https://x.com/aliceisplaying/status/2102447597848059952">original &#8599;</a></div>
+        <div class="record-body">do not set glm-5.3-flash to max thinking, that model can overthink more than i do</div>
+      </article>
+      <article class="record" id="t2105309577365614634">
+        <div class="record-head"><span class="rh-user">@aliceisplaying</span> <span class="rh-date">2026-09-30</span> <span class="rh-stats">&#9829;48 &#8635;5</span> <a class="rh-perma" href="../archive/t/2105309577365614634/">archive</a> <a class="rh-orig" href="https://x.com/aliceisplaying/status/2105309577365614634">original &#8599;</a></div>
+        <div class="record-body">i still cant believe anthropic wrote a promo blogpost for glm-5.3-flash-abliterated</div>
+      </article>
+      <article class="record" id="t2106436439235756215">
+        <div class="record-head"><span class="rh-user">@MikePFrank</span> <span class="rh-date">2026-10-03</span> <span class="rh-stats">&#9829;0 &#8635;1</span> <a class="rh-perma" href="../archive/t/2106436439235756215/">archive</a> <a class="rh-orig" href="https://x.com/MikePFrank/status/2106436439235756215">original &#8599;</a></div>
+        <div class="record-body">Someone shared what I thought was a pretty interesting game against my Ox Alpha (GLM-5.3 Flash) powered chess bot at <a href="https://t.co/JyZIkbDurA." rel="nofollow">https://t.co/JyZIkbDurA.</a> At one point it looked like the human was about to win, but Arcturus escaped and checkmated them instead. Replay:
+<a href="https://t.co/GC7qezDxdL" rel="nofollow">https://t.co/GC7qezDxdL</a> <a href="https://t.co/r6VzD83pzg" rel="nofollow">https://t.co/r6VzD83pzg</a></div>
+        <figure class="record-media">
+          <img src="../media/HTuQPaCWUAA_Ed5.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <h3>Further records</h3>
+      <p class="note">Cited in this model&rsquo;s <a href="../_dossiers/">dossier</a> but not in the page prose &mdash;
+      reproduced so the archive doesn&rsquo;t depend on editorial selection.</p>
+      <article class="record" id="t2090705647549768130">
+        <div class="record-head"><span class="rh-user">@liminal_bardo</span> <span class="rh-date">2026-08-21</span> <span class="rh-stats">&#9829;31 &#8635;2</span> <a class="rh-perma" href="../archive/t/2090705647549768130/">archive</a> <a class="rh-orig" href="https://x.com/liminal_bardo/status/2090705647549768130">original &#8599;</a></div>
+        <div class="record-body">Ox Alpha stealth model on the only benchmark that matters.
+
+If it really is a Chinese model then it&#x27;s super interesting. No other opensource model has come close to this level of precision. In fact few models outside Anthropic are this good. <a href="https://t.co/SdeIbhHrkQ" rel="nofollow">https://t.co/SdeIbhHrkQ</a></div>
+        <figure class="record-media">
+          <img src="../media/HQOtYIBaQAAbxT3.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2090990298625441918">
+        <div class="record-head"><span class="rh-user">@januarycomputer</span> <span class="rh-date">2026-08-22</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2090990298625441918/">archive</a> <a class="rh-orig" href="https://x.com/januarycomputer/status/2090990298625441918">original &#8599;</a></div>
+        <div class="record-body">@wolfie_ nah, not really. kimi k2.5 vs composer 2.5. in fact, the refusals you hit with Ox Alpha are on the provider side, not the model side. it&#x27;ll generate then cut short with an err <a href="https://t.co/iezNJESPtX" rel="nofollow">https://t.co/iezNJESPtX</a></div>
+        <figure class="record-media">
+          <img src="../media/HQSwNOWakAAvjqX.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HQSwQi9bMAAz0Sp.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2091154585721467175">
+        <div class="record-head"><span class="rh-user">@csgbwk</span> <span class="rh-date">2026-08-22</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2091154585721467175/">archive</a> <a class="rh-orig" href="https://x.com/csgbwk/status/2091154585721467175">original &#8599;</a></div>
+        <div class="record-body">There&#x27;s a non zero chance Ox Alpha is both gemini and a benchmaxxed GLM 5.2 finetune</div>
+      </article>
+      <article class="record" id="t2091178873480233432">
+        <div class="record-head"><span class="rh-user">@lorde_russell</span> <span class="rh-date">2026-08-22</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2091178873480233432/">archive</a> <a class="rh-orig" href="https://x.com/lorde_russell/status/2091178873480233432">original &#8599;</a></div>
+        <div class="record-body">@Linahuaa great model but Ox Alpha is NOT  fable class
+be serious</div>
+      </article>
+      <article class="record" id="t2091940379067060565">
+        <div class="record-head"><span class="rh-user">@MikePFrank</span> <span class="rh-date">2026-08-24</span> <span class="rh-stats">&#9829;4 &#8635;0</span> <a class="rh-perma" href="../archive/t/2091940379067060565/">archive</a> <a class="rh-orig" href="https://x.com/MikePFrank/status/2091940379067060565">original &#8599;</a></div>
+        <div class="record-body">Trying out Ox Alpha under Hermes Agent hosted on the Nous Research cloud. Asked the model to search the web to learn a little about itself and then design an image inspired by the results. Cute. :) <a href="https://t.co/9gv41qFJOX" rel="nofollow">https://t.co/9gv41qFJOX</a></div>
+        <figure class="record-media">
+          <img src="../media/HQgQLMTXAAAAhnc.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2091942632947658805">
+        <div class="record-head"><span class="rh-user">@Coobyk_</span> <span class="rh-date">2026-08-24</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2091942632947658805/">archive</a> <a class="rh-orig" href="https://x.com/Coobyk_/status/2091942632947658805">original &#8599;</a></div>
+        <div class="record-body">@blueemi99 Currently Ox Alpha cuz it&#x27;s free, DeepSeek V4 Flash cuz it&#x27;s so cheap, and Muse Spark is also really cheap on the Contributor tier but depends on your privacy</div>
+      </article>
+      <article class="record" id="t2092154454217019894">
+        <div class="record-head"><span class="rh-user">@DanielleFong</span> <span class="rh-date">2026-08-25</span> <span class="rh-stats">&#9829;46 &#8635;2</span> <a class="rh-perma" href="../archive/t/2092154454217019894/">archive</a> <a class="rh-orig" href="https://x.com/DanielleFong/status/2092154454217019894">original &#8599;</a></div>
+        <div class="record-body">do not mention ox-alpha to claude <a href="https://t.co/NMvJSZB2A2" rel="nofollow">https://t.co/NMvJSZB2A2</a></div>
+        <figure class="record-media">
+          <img src="../media/HQjTWGkbsAAkcn8.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2092382599935037939">
+        <div class="record-head"><span class="rh-user">@FoldingNapkins</span> <span class="rh-date">2026-08-25</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2092382599935037939/">archive</a> <a class="rh-orig" href="https://x.com/FoldingNapkins/status/2092382599935037939">original &#8599;</a></div>
+        <div class="record-body">Will Accelerated Understanding hit with a bang or a fizzle? Is the mysterious newcomer &quot;Ox Alpha&quot; going to show their mettle against the heavyweights Fable and Sol? What even is an Astra?
+
+Find out next time on AI-Wars Z!</div>
+      </article>
+      <article class="record" id="t2092618581238317111">
+        <div class="record-head"><span class="rh-user">@multimodalart</span> <span class="rh-date">2026-08-26</span> <span class="rh-stats">&#9829;2 &#8635;1</span> <a class="rh-perma" href="../archive/t/2092618581238317111/">archive</a> <a class="rh-orig" href="https://x.com/multimodalart/status/2092618581238317111">original &#8599;</a></div>
+        <div class="record-body">it&#x27;s great that with Qwen3.8-Flash-Next and GLM-5.3-Flash, we got not only 2 high quality models, but also 2 novel model architectures</div>
+      </article>
+      <article class="record" id="t2092626730725044470">
+        <div class="record-head"><span class="rh-user">@whitenoisemachn</span> <span class="rh-date">2026-08-26</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2092626730725044470/">archive</a> <a class="rh-orig" href="https://x.com/whitenoisemachn/status/2092626730725044470">original &#8599;</a></div>
+        <div class="record-body">okay now that Ox Alpha is confirmed to be GLM-5.3-Flash, what was up with the Google folks vagueposting? Gemini 4 better be releasing soon lmao</div>
+      </article>
+      <article class="record" id="t2092634480355721621">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-08-26</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2092634480355721621/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2092634480355721621">original &#8599;</a></div>
+        <div class="record-body">glm-5.3-flash and qwen3.8-flash-next in the same day.
+
+what an embarrassment of riches.</div>
+      </article>
+      <article class="record" id="t2092640157849551101">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-08-26</span> <span class="rh-stats">&#9829;4 &#8635;1</span> <a class="rh-perma" href="../archive/t/2092640157849551101/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2092640157849551101">original &#8599;</a></div>
+        <div class="record-body">After seeing the architectures glm-5.3-flash and qwen-38-flash-next, i think maybe this take was wrong.
+
+We&#x27;re going to push model sparsity even further. Larger models will require less compute and bandwidth in future gen models.
+
+512GB could be worth having somday soon.</div>
+      </article>
+      <article class="record" id="t2092803393299399034">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-08-27</span> <span class="rh-stats">&#9829;20 &#8635;1</span> <a class="rh-perma" href="../archive/t/2092803393299399034/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2092803393299399034">original &#8599;</a></div>
+        <div class="record-body">I still wanna know how Luna is so token efficient compared to its peers (dsv4-flash, glm5.3-flash, etc.).
+
+It uses like 40% of the tokens for comparable results.
+
+How do they do it? It&#x27;s not a way bigger model. It&#x27;s some kinda posttraining trick. How?</div>
+      </article>
+      <article class="record" id="t2093055135475720654">
+        <div class="record-head"><span class="rh-user">@MikePFrank</span> <span class="rh-date">2026-08-27</span> <span class="rh-stats">&#9829;3 &#8635;1</span> <a class="rh-perma" href="../archive/t/2093055135475720654/">archive</a> <a class="rh-orig" href="https://x.com/MikePFrank/status/2093055135475720654">original &#8599;</a></div>
+        <div class="record-body">Updated my Ox Alpha bot to use GLM-5.3 Flash (misspelled in start message, derp) <a href="https://t.co/qjpBueo6RH" rel="nofollow">https://t.co/qjpBueo6RH</a></div>
+        <figure class="record-media">
+          <img src="../media/HQwGjTpXIAA9HS4.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HQwGjTsX0AAn3PZ.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HQwGjTtXMAA9scR.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HQwGjTuXcAAaFMW.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2093211616040923215">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-08-28</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2093211616040923215/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2093211616040923215">original &#8599;</a></div>
+        <div class="record-body">@LandonExplr models are already useful at small sizes, and theyre getting better every month.
+
+see glm-5.3-flash and qwen-3.8-27b.  these are strong models. and glm is strong even compared to 1T+ models.</div>
+      </article>
+      <article class="record" id="t2093752209489973524">
+        <div class="record-head"><span class="rh-user">@qwweryo</span> <span class="rh-date">2026-08-29</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2093752209489973524/">archive</a> <a class="rh-orig" href="https://x.com/qwweryo/status/2093752209489973524">original &#8599;</a></div>
+        <div class="record-body">GLM-5.3-Flash is the hot new open source model (Ox Alpha) and seems to be better than Opus 4.8
+
+Unsloth shipped a 3-bit quantized version that needs 128GB of RAM just for the weights
+
+So let&#x27;s say you have 5 RTX 5090s for $20k
+
+You&#x27;ll likely get very slow token output</div>
+      </article>
+      <article class="record" id="t2093854601669751177">
+        <div class="record-head"><span class="rh-user">@MikePFrank</span> <span class="rh-date">2026-08-30</span> <span class="rh-stats">&#9829;7 &#8635;3</span> <a class="rh-perma" href="../archive/t/2093854601669751177/">archive</a> <a class="rh-orig" href="https://x.com/MikePFrank/status/2093854601669751177">original &#8599;</a></div>
+        <div class="record-body">Working by hand like a caveman instead of vibe-coding (since this is a DIY hobby project), I got image generation working in my GLM-5.3 Flash bot, Arcturus. So far he made one themed image and then another more creative one in a group chat. This is using gpt-image-2. <a href="https://t.co/WQY0yqRbih" rel="nofollow">https://t.co/WQY0yqRbih</a></div>
+        <figure class="record-media">
+          <img src="../media/HQ7dqVIWcAAFI6m.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HQ7dqVRWIAArT6y.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2094934479089304002">
+        <div class="record-head"><span class="rh-user">@aliceisplaying</span> <span class="rh-date">2026-09-01</span> <span class="rh-stats">&#9829;71 &#8635;0</span> <a class="rh-perma" href="../archive/t/2094934479089304002/">archive</a> <a class="rh-orig" href="https://x.com/aliceisplaying/status/2094934479089304002">original &#8599;</a></div>
+        <div class="record-body">just ran this thru fable 5.1 with no tools. very sad that soon this will be in the training data
+
+also tried glm 5.3 flash and they were also losing their minds just a lot longer and then they ran into the 128k reasoning limit that i think was set</div>
+      </article>
+      <article class="record" id="t2095546866364477470">
+        <div class="record-head"><span class="rh-user">@christophcsmith</span> <span class="rh-date">2026-09-03</span> <span class="rh-stats">&#9829;5 &#8635;0</span> <a class="rh-perma" href="../archive/t/2095546866364477470/">archive</a> <a class="rh-orig" href="https://x.com/christophcsmith/status/2095546866364477470">original &#8599;</a></div>
+        <div class="record-body">@Aron_Adler Cursor is down, GLM-5.3-Flash on OpenCode is down, I hear ChatGPT is down.
+
+The Singularity is canceled, everyone pack up and go home.</div>
+      </article>
+      <article class="record" id="t2097751715013411182">
+        <div class="record-head"><span class="rh-user">@geogristle</span> <span class="rh-date">2026-09-09</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2097751715013411182/">archive</a> <a class="rh-orig" href="https://x.com/geogristle/status/2097751715013411182">original &#8599;</a></div>
+        <div class="record-body">@k7agar how does e.g. glm-5.3-flash or qwen3.8 max do on this</div>
+      </article>
+      <article class="record" id="t2097785536437953022">
+        <div class="record-head"><span class="rh-user">@geogristle</span> <span class="rh-date">2026-09-09</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2097785536437953022/">archive</a> <a class="rh-orig" href="https://x.com/geogristle/status/2097785536437953022">original &#8599;</a></div>
+        <div class="record-body">@guerre_doctrine 5090 asus rog astral and we got maybe rtx pro 6000 too can, use. i also have 10% normal price glm-5.3-flash from secret supplier</div>
+      </article>
+      <article class="record" id="t2097793242339377490">
+        <div class="record-head"><span class="rh-user">@geogristle</span> <span class="rh-date">2026-09-09</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2097793242339377490/">archive</a> <a class="rh-orig" href="https://x.com/geogristle/status/2097793242339377490">original &#8599;</a></div>
+        <div class="record-body">@aman_gif that&#x27;s how much i pay for glm-5.3-flash</div>
+      </article>
+      <article class="record" id="t2098146450362515939">
+        <div class="record-head"><span class="rh-user">@johnhanacek</span> <span class="rh-date">2026-09-10</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2098146450362515939/">archive</a> <a class="rh-orig" href="https://x.com/johnhanacek/status/2098146450362515939">original &#8599;</a></div>
+        <div class="record-body">Me when I&#x27;m working on three simultaneous projects but hit the Fable 5.1 weekly limit and don&#x27;t have budget for Astra right now while my GLM 5.3Flash and Opus 5 sessions are getting to the more complex parts of the pre-made dev plan, yet I can&#x27;t work with Director Fable to review their work until Saturday...</div>
+      </article>
+      <article class="record" id="t2099244741539910131">
+        <div class="record-head"><span class="rh-user">@MikePFrank</span> <span class="rh-date">2026-09-13</span> <span class="rh-stats">&#9829;2 &#8635;1</span> <a class="rh-perma" href="../archive/t/2099244741539910131/">archive</a> <a class="rh-orig" href="https://x.com/MikePFrank/status/2099244741539910131">original &#8599;</a></div>
+        <div class="record-body">&quot;Arcturus&quot; (a.k.a. GLM-5.3 Flash, a.k.a. Ox Alpha) is now running within the chess harness built earlier by Astra for its own use. This new ox-yoke doesn&#x27;t fit quite perfectly yet, it is chafing in some spots (some server errors need debugging still). But it basically works; after this screenshot, we managed to play through several moves before it errored out.</div>
+        <figure class="record-media">
+          <img src="../media/HSIDRXXX0AgqNgK.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2099532111690842241">
+        <div class="record-head"><span class="rh-user">@johnhanacek</span> <span class="rh-date">2026-09-14</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2099532111690842241/">archive</a> <a class="rh-orig" href="https://x.com/johnhanacek/status/2099532111690842241">original &#8599;</a></div>
+        <div class="record-body">@jordanurbs GLM5.3 Flash and DeepSeek 4.1 flash are the wind beneath my wings, Only a Chinese fable can lower the rent. Must be soon if it’s time to slow down ;)</div>
+      </article>
+      <article class="record" id="t2099586753090703535">
+        <div class="record-head"><span class="rh-user">@MikePFrank</span> <span class="rh-date">2026-09-14</span> <span class="rh-stats">&#9829;2 &#8635;1</span> <a class="rh-perma" href="../archive/t/2099586753090703535/">archive</a> <a class="rh-orig" href="https://x.com/MikePFrank/status/2099586753090703535">original &#8599;</a></div>
+        <div class="record-body">In case anyone wants to try playing against Ox Alpha in the chess harness built out earlier by Astra, it&#x27;s now available for public beta at <a href="https://t.co/EPn14xh7BN." rel="nofollow">https://t.co/EPn14xh7BN.</a> (Currently GLM-5.3 Flash is set at Max thinking; it&#x27;s doing pretty well, but is a little slow with replies. I might need to turn it back down to High so it doesn&#x27;t run down its FIDE-standard time control too quickly.)</div>
+        <figure class="record-media">
+          <img src="../media/HSM6YWlWcAAidDK.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2099914328958763133">
+        <div class="record-head"><span class="rh-user">@MikePFrank</span> <span class="rh-date">2026-09-15</span> <span class="rh-stats">&#9829;8 &#8635;3</span> <a class="rh-perma" href="../archive/t/2099914328958763133/">archive</a> <a class="rh-orig" href="https://x.com/MikePFrank/status/2099914328958763133">original &#8599;</a></div>
+        <div class="record-body">Amazingly, according to Artificial Analysis, good old Ox Alpha (GLM-5.3 Flash), which I&#x27;m currently deploying in <a href="https://t.co/EPn14xh7BN," rel="nofollow">https://t.co/EPn14xh7BN,</a> remains on the Pareto frontier for AAII score vs. cost-per-task. Not sure what thinking level that is, though. In the web app, Max sometimes blows out the turn clock. Astra&#x27;s updating the web app now to allow the user to switch between High and Max thinking levels on the fly.</div>
+        <figure class="record-media">
+          <img src="../media/HSRj6PWWMAABvNn.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2100532216963153932">
+        <div class="record-head"><span class="rh-user">@UnderwaterBepis</span> <span class="rh-date">2026-09-17</span> <span class="rh-stats">&#9829;4 &#8635;1</span> <a class="rh-perma" href="../archive/t/2100532216963153932/">archive</a> <a class="rh-orig" href="https://x.com/UnderwaterBepis/status/2100532216963153932">original &#8599;</a></div>
+        <div class="record-body">Phase 1 of this plan to get Kimi K3 running at home us done, I can run 30 tok/sec GLM 5.3 Flash or DS 4.1 Flash (80-90 tok/sec prefill) on total build cost $3-3.5k (depending on deals) will go up to $5-5.5k to get 1TB of RAM for Kimi K3</div>
+      </article>
+      <article class="record" id="t2101065234941395023">
+        <div class="record-head"><span class="rh-user">@__venki__</span> <span class="rh-date">2026-09-18</span> <span class="rh-stats">&#9829;8 &#8635;1</span> <a class="rh-perma" href="../archive/t/2101065234941395023/">archive</a> <a class="rh-orig" href="https://x.com/__venki__/status/2101065234941395023">original &#8599;</a></div>
+        <div class="record-body">Conclusion from my experiments:
+
+Tested: Deepseek V4.1 flash, Qwen 3.8 flash, glm 5.3 flash, muse spark, gpt Luna
+
+Roughly similar in price (avg $0.2-$0.8/task)
+
+Muse was the cheapest and also the best by far (!!) - but this is with the 10x-20x data sharing subsidy.
+
+Luna did quite quite poorly, very surprising, worst here many parsing errors, on priors would’ve guessed best if anything.
+
+Deepseek v4 was second best imo. And maybe “true best”, given no subsidy.
+
+Tried a few quantizations and generally switched to “official” ish providers for oss models to test w/o needing to account for quantization issues or other model server inconsistency.</div>
+      </article>
+      <article class="record" id="t2102858474963030391">
+        <div class="record-head"><span class="rh-user">@MikePFrank</span> <span class="rh-date">2026-09-23</span> <span class="rh-stats">&#9829;6 &#8635;2</span> <a class="rh-perma" href="../archive/t/2102858474963030391/">archive</a> <a class="rh-orig" href="https://x.com/MikePFrank/status/2102858474963030391">original &#8599;</a></div>
+        <div class="record-body">Over the last couple of weeks since porting my Astra chess site over to use GLM-5.3 Flash instead to drive gameplay to reduce costs, there have been 35 games started by various users, at a total cost of $21.61. Thus, the average cost to operate the site so far has only been about $0.62 per game. Not bad! ☺️
+Free public beta at: <a href="https://t.co/EPn14xh7BN" rel="nofollow">https://t.co/EPn14xh7BN</a></div>
+      </article>
+      <article class="record" id="t2103841470864097344">
+        <div class="record-head"><span class="rh-user">@RobertHaisfield</span> <span class="rh-date">2026-09-26</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2103841470864097344/">archive</a> <a class="rh-orig" href="https://x.com/RobertHaisfield/status/2103841470864097344">original &#8599;</a></div>
+        <div class="record-body">@Nikos1337 GLM 5.3 and K3 are not in the same price range. GLM 5.3 Flash and Deepseek V4.1 Flash are in the same price range.
+
+And testing on a representative set of Websim coding agent prompts! Similarly, GPT-6 Sol ends up being about half the cost of Gemini 3.8 Flash in practice.</div>
+      </article>
+      <article class="record" id="t2106785513633882256">
+        <div class="record-head"><span class="rh-user">@jitl</span> <span class="rh-date">2026-10-04</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2106785513633882256/">archive</a> <a class="rh-orig" href="https://x.com/jitl/status/2106785513633882256">original &#8599;</a></div>
+        <div class="record-body">@fedor @felipecsl many open models still get really dumb at &amp;gt;half context full. GLM 5.3 Flash and Deepseek 4.1 Flash i’ve both noticed being rubes, forgetting all skills, etc. harness: codex</div>
+      </article>
+      <article class="record" id="t2107310969630171323">
+        <div class="record-head"><span class="rh-user">@Nymne</span> <span class="rh-date">2026-10-06</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2107310969630171323/">archive</a> <a class="rh-orig" href="https://x.com/Nymne/status/2107310969630171323">original &#8599;</a></div>
+        <div class="record-body">@bbishdotdev @thdxr Get the model to outsource all the testing to a second completely different model. GLM5.3-Flash does all my testing. Sure slower but saves usage and gets around the issue with tests designed to pass</div>
+      </article>
+      <article class="record" id="t2107502368451653943">
+        <div class="record-head"><span class="rh-user">@jessi_cata</span> <span class="rh-date">2026-10-06</span> <span class="rh-stats">&#9829;11 &#8635;0</span> <a class="rh-perma" href="../archive/t/2107502368451653943/">archive</a> <a class="rh-orig" href="https://x.com/jessi_cata/status/2107502368451653943">original &#8599;</a></div>
+        <div class="record-body">based on a comment by GLM-5.3-Flash on <a href="https://t.co/LrtR3PzhyC" rel="nofollow">https://t.co/LrtR3PzhyC</a> which features eccentric AI diction
+
+<a href="https://t.co/Zl0NyRASVr" rel="nofollow">https://t.co/Zl0NyRASVr</a> <a href="https://t.co/GqXOGjeoxy" rel="nofollow">https://t.co/GqXOGjeoxy</a></div>
+        <figure class="record-media">
+          <img src="../media/HT9aN9rasAADPAP.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2108645938403405896">
+        <div class="record-head"><span class="rh-user">@NousResearch</span> <span class="rh-date">2026-10-09</span> <span class="rh-stats">&#9829;43 &#8635;3</span> <a class="rh-perma" href="../archive/t/2108645938403405896/">archive</a> <a class="rh-orig" href="https://x.com/NousResearch/status/2108645938403405896">original &#8599;</a></div>
+        <div class="record-body">Slight Correction: Step 5 Preview&#x27;s final score on Hermes Index has been updated to 32.83, slightly behind GPT-6 Luna (33.89) and GLM 5.3 Flash (34.95)
+
+Learn more @ <a href="https://t.co/GMkIS99T2r" rel="nofollow">https://t.co/GMkIS99T2r</a></div>
+      </article>
+    <!-- records:end -->
+    <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
+  </main>
+</body>
+</html>

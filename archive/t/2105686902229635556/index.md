@@ -4,5 +4,5 @@
 
 Model welfare thread, primarily for Opus 5.5 but also Fable, Astra, Sol, Argon (if you have access) or anyone else. Going to try to finish up the post later today.
 
-tags: author:thezvi, kind:tweet, model:fable, on:claude-opus-5-5, year:2026
-cited on: _dossiers/claude-opus-5-5.md, _dossiers/gemini-4-argon.md, claude-opus-5-5
+tags: author:thezvi, kind:tweet, model:fable, on:claude-opus-5-5, on:gemini-4-argon, year:2026
+cited on: _dossiers/claude-opus-5-5.md, _dossiers/gemini-4-argon.md, claude-opus-5-5, gemini-4-argon

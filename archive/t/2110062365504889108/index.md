@@ -4,6 +4,6 @@
 
 gemini 4 argon is fundamentally silly https://t.co/s9AFvi66xE
 
-(image HUhyaKYWQAAywAi.jpg not yet published)
-tags: author:gnostic_snakes, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/gemini-4-argon.md
+![photo](../../../media/HUhyaKYWQAAywAi.jpg)
+tags: author:gnostic_snakes, has-image, kind:image, kind:tweet, on:gemini-4-argon, year:2026
+cited on: _dossiers/gemini-4-argon.md, gemini-4-argon

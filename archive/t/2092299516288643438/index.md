@@ -8,6 +8,6 @@ Surprisingly, we find that Llama 3.1 8B Instruct performs best, even over larger
 
 These measurements suggest that activation controllability may be difficult to infer from a model’s size or capability index, and must be measured directly.
 
-(image HQlXUmxbQAITLdP.jpg not yet published)
-tags: author:daviddafrica, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md
+![photo](../../../media/HQlXUmxbQAITLdP.jpg)
+tags: author:daviddafrica, has-image, kind:image, kind:tweet, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

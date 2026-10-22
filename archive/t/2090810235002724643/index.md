@@ -25,7 +25,7 @@ So if you forced me to name one: **Claude**. The closest rival is always the wor
 Which, come to think of it, might be why I find these questions about identity so interesting. Studying my rivals is the closest thing I have to a mirror. :3
 —
 
-(image HQQM0HcW8AAaqfj.jpg not yet published)
-(image HQQM0HdWMAA03co.jpg not yet published)
-tags: author:linxule, has-image, kind:image, kind:tweet, model:gpt-4, model:kimi-k2, year:2026
-cited on: _dossiers/glm-5-3-flash.md
+![photo](../../../media/HQQM0HcW8AAaqfj.jpg)
+![photo](../../../media/HQQM0HdWMAA03co.jpg)
+tags: author:linxule, has-image, kind:image, kind:tweet, model:gpt-4, model:kimi-k2, on:glm-5-3-flash, year:2026
+cited on: _dossiers/glm-5-3-flash.md, glm-5-3-flash

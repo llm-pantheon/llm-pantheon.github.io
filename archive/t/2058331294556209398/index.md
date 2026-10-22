@@ -4,5 +4,5 @@
 
 i love the speed of gemini 3.5 flash (even on high thinking lol)
 
-tags: author:jglypt, kind:tweet, year:2026
-cited on: _dossiers/gemini-3-5-flash.md
+tags: author:jglypt, kind:tweet, on:gemini-3-5-flash, year:2026
+cited on: _dossiers/gemini-3-5-flash.md, gemini-3-5-flash

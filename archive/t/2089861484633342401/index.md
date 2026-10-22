@@ -10,5 +10,5 @@ It spit out everything I sought,
 A total garbage, useless bot!" 2/2
  – Google Gemini (Gemini 3.5 Flash)
 
-tags: author:ultimape, kind:tweet, year:2026
-cited on: _dossiers/gemini-3-5-flash.md
+tags: author:ultimape, kind:tweet, on:gemini-3-5-flash, year:2026
+cited on: _dossiers/gemini-3-5-flash.md, gemini-3-5-flash

@@ -4,5 +4,5 @@
 
 Everybody is impressed Astra can do CAD. Buddy, Qwen 3.8 27b can do CAD.
 
-tags: author:pepijndevos, kind:tweet, year:2026
-cited on: _dossiers/qwen-3-8-27b.md
+tags: author:pepijndevos, kind:tweet, on:qwen-3-8-27b, year:2026
+cited on: _dossiers/qwen-3-8-27b.md, qwen-3-8-27b

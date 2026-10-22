@@ -4,5 +4,5 @@
 
 @AndrewCurran_ @drethelin After seeing Astra 6 and Homebody, Argon, and Claude's robot use I'm starting to consider adding some asterisks to that. https://t.co/POCx0RiPiT https://t.co/ukveB3ZEdn
 
-tags: author:williamduncan, kind:tweet, year:2026
-cited on: _dossiers/gemini-4-argon.md
+tags: author:williamduncan, kind:tweet, on:gemini-4-argon, year:2026
+cited on: _dossiers/gemini-4-argon.md, gemini-4-argon

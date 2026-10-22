@@ -4,5 +4,5 @@
 
 GLM-5.3 is virtue ethics pilled? "Does acting like this make me more like how I want to be?"
 
-tags: author:aphercotropist, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3.md
+tags: author:aphercotropist, kind:tweet, on:glm-5-3, year:2026
+cited on: _dossiers/glm-5-3.md, glm-5-3

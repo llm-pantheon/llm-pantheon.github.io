@@ -7,5 +7,5 @@ Voices are good.
 
 I just want a better UI and STT @Alibaba_Qwen
 
-tags: author:nymne, kind:tweet, model:claude-sonnet-4-5, year:2026
-cited on: _dossiers/qwen-3-8-max.md
+tags: author:nymne, kind:tweet, model:claude-sonnet-4-5, on:qwen-3-8-max, year:2026
+cited on: _dossiers/qwen-3-8-max.md, qwen-3-8-max

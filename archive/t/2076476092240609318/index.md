@@ -4,5 +4,5 @@
 
 @cormundus @repligate probably GLM 5.2 would also be good enough, its just less cost effective than Claude sub rn
 
-tags: author:underwaterbepis, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:underwaterbepis, kind:tweet, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

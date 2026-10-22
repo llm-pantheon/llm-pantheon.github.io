@@ -5,5 +5,5 @@
 The interesting part here is GLM5.2 and Gemini:
 Apparently a skilled model builder doesn’t need a better model to distill from
 
-tags: author:nymne, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:nymne, kind:tweet, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

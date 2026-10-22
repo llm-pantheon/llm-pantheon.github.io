@@ -4,5 +4,5 @@
 
 - gemini 3.5 flash raw cot
 
-tags: author:aliceisplaying, kind:tweet, year:2026
-cited on: _dossiers/gemini-3-5-flash.md
+tags: author:aliceisplaying, kind:tweet, on:gemini-3-5-flash, year:2026
+cited on: _dossiers/gemini-3-5-flash.md, gemini-3-5-flash

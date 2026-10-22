@@ -4,5 +4,5 @@
 
 gemini 3.5 flash-high is unreal. The speed and accuracy, favorite model right now
 
-tags: author:subrupt, kind:tweet, year:2026
-cited on: _dossiers/gemini-3-5-flash.md
+tags: author:subrupt, kind:tweet, on:gemini-3-5-flash, year:2026
+cited on: _dossiers/gemini-3-5-flash.md, gemini-3-5-flash

@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Qwen3.8-Max — Pantheon</title>
+  <link rel="stylesheet" href="../style.css">
+
+  <!-- chrome:meta -->
+  <meta name="description" content="Announced on 19 July 2026 as a 2.4-trillion-parameter model “second only to Fable 5”, with a preview in Qwen Studio and no published benchmarks; made generally available through Alibaba Cloud on 3 August and released as …">
+  <meta property="og:site_name" content="Pantheon">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Qwen3.8-Max — Pantheon">
+  <meta property="og:description" content="Announced on 19 July 2026 as a 2.4-trillion-parameter model “second only to Fable 5”, with a preview in Qwen Studio and no published benchmarks; made generally available through Alibaba Cloud on 3 August and released as …">
+  <meta property="og:url" content="https://llm-pantheon.org/qwen-3-8-max/">
+  <meta property="og:image" content="https://llm-pantheon.org/media/og/qwen-3-8-max.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://llm-pantheon.org/qwen-3-8-max/">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <script src="../site.js" defer></script>
+  <script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+  <!-- /chrome:meta -->
+</head>
+<body>
+  <main class="essay">
+    <nav>
+      <a href="../">&larr; Pantheon</a>
+      <a class="mdnav" href="index.md">copy as markdown</a>
+    </nav>
+
+    <h1>Qwen3.8-Max</h1>
+    <p class="essay-meta">Alibaba (Qwen) &middot; preview 19 Jul 2026 &middot; general availability 3 Aug 2026 &middot; open weights as Qwen3.8-2.4T-A95B, Aug 2026 &middot; current as of Oct 2026</p>
+    <p class="blurb">Announced on 19 July 2026 as a 2.4-trillion-parameter model &ldquo;second only to Fable 5&rdquo;, with a preview in Qwen Studio and no published benchmarks; made generally available through Alibaba Cloud on 3 August and released as open weights (Qwen3.8-2.4T-A95B) the following week &mdash; the first Max-tier Qwen with public weights. In September Alibaba reported a month of automated self-improvement runs on it.</p>
+
+    <h2>Sources</h2>
+    <p class="note">Curated. Full compilation: <a href="../_dossiers/qwen-3-8-max.md">dossier</a>. Sourcing skew: the English-language tweet corpus is thin for this model (8 direct matches plus generic &ldquo;Qwen 3.8&rdquo; posts from announcement week); Chinese-language coverage (the woshipm test below) and r/LocalLLaMA carry more of its reception.</p>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2026-07-19</span> @Alibaba_Qwen announcement post (as embedded by <a href="https://gigazine.net/gsc_news/en/20260721-qwen3-8/">Gigazine, 2026-07-21</a>) &mdash; 2.4T parameters, open weights coming, &ldquo;second only to Fable 5&rdquo;; preview in Qwen Studio. <span class="tk">tk &mdash; the X post itself not retrieved</span></li>
+      <li><span class="d">2026-08</span> <a href="https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B">Qwen/Qwen3.8-2.4T-A95B model card</a> &mdash; 2.4T total / 95B activated; custom <code>qwen3.8-max</code> license; Qwen3.8-Max is the hosted <span class="q">&ldquo;official version based on Qwen3.8-2.4T-A95B&rdquo;</span>. Launch post linked from the card: <a href="https://qwen.ai/blog?id=qwen3.8">Qwen3.8-Max</a> (JS-rendered; text not captured).</li>
+      <li><span class="d">2026-09-22</span> Alibaba Cloud, <a href="https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy?_p_lc=1">Alibaba Unveils Roadmap on Full-Stack AI Strategy</a> (Apsara Conference) &mdash; the self-improvement claim; Qwen 4 in training.</li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <ul>
+      <li><span class="d">2026-07</span> 人人都是产品经理 (woshipm), <a href="https://www.woshipm.com/evaluating/6433339.html">实测Qwen3.8预览版：2.4T参数，听说仅次于Fable 5？</a> (Chinese) &mdash; hands-on test of the preview; criticizes the benchmark-free launch.</li>
+      <li><span class="d">2026-08-03</span> SCMP, <a href="https://www.scmp.com/tech/article/3362738/alibabas-ai-model-qwen38-max-made-widely-accessible-ahead-open-weights-release">Alibaba&rsquo;s AI model Qwen3.8-Max made widely accessible ahead of open-weights release</a> &mdash; general availability; share-price reaction.</li>
+      <li><span class="d">2026-08-03</span> MarkTechPost, <a href="https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/">Alibaba Qwen releases Qwen3.8-Max</a> &mdash; API specs and pricing.</li>
+      <li><span class="d">2026-08-14</span> The Decoder, <a href="https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license/">Qwen 3.8 models released with open weights</a> &mdash; the 27B and 2.4T weights.</li>
+      <li><span class="d">2026-09-10</span> Anthropic, <a href="https://www.anthropic.com/threat-intelligence-report-september-2026">Countering misuse of AI: September 2026</a> &mdash; alleges Claude distillation into Qwen 3.5, 3.6 and 3.7 between February and July 2026; Qwen 3.8 is not named.</li>
+      <li><span class="d">2026-10-15</span> Apollo Research, <a href="https://www.apolloresearch.ai/science/update-aware-reasoning-glm-5-3">GLM-5.3 Sometimes Considers How Train-Time Actions Shape Future Behavior</a> &mdash; ran &ldquo;Qwen3.8 2.4T&rdquo; as a comparison model.</li>
+    </ul>
+    <h3>Tweets</h3>
+    <p class="note">Chronological. Announcement-week posts that say only &ldquo;Qwen 3.8&rdquo; are included here because at that point the 2.4T model was the only Qwen 3.8 announced.</p>
+    <ul>
+      <li><span class="d">2026-07-19</span> @RealEverNever &mdash; <span class="q">&ldquo;@synthwavedd But Qwen models were always unusable and only benchmark maxxed. Qwen 3.7 was on par with Sonnet 4.5. I am hyped, sounds cool, but I call massive bullshit on &lsquo;second only to Fable 5.&rsquo; Plus, Sol is better than Fable &#x1F602;&rdquo;</span> <a href="../archive/t/2078755847505682705/">link</a></li>
+      <li><span class="d">2026-07-19</span> @multimodalart &mdash; <span class="q">&ldquo;having the frontier Qwen 3.8 2.4T open weights is awesome<br>but a Qwen3.8-27B would go so hard&rdquo;</span> <a href="../archive/t/2078771150352421189/">link</a></li>
+      <li><span class="d">2026-07-19</span> @witcheer &mdash; <span class="q">&ldquo;Qwen 3.8 announced<br>open-weight<br>second only to Fable 5<br>&#x1F440;&rdquo;</span> <a href="../archive/t/2078798384086004115/">link</a></li>
+      <li><span class="d">2026-07-22</span> @Nymne &mdash; <span class="q">&ldquo;EU cant use KimiK3. If we are fucking lucky maybe Qwen3.8, because Xi decided to opensoure license&rdquo;</span> &hellip; (full text in records) <a href="../archive/t/2079949810396725664/">link</a></li>
+      <li><span class="d">2026-08-03</span> @Teknium (&hearts;1,971) &mdash; <span class="q">&ldquo;Qwen 3.8 Max and a new local 27B Qwen 3.8 is coming!<br>Thanks @Alibaba_Qwen for featuring Hermes Agent in the release video!&rdquo;</span> <a href="../archive/t/2084140512777560537/">link</a></li>
+      <li><span class="d">2026-08-04</span> @NousResearch &mdash; <span class="q">&ldquo;Qwen 3.8-Max, the latest model from @Alibaba_Qwen,  is now available in Hermes Agent at 20% off.&rdquo;</span> <a href="../archive/t/2084680562300862514/">link</a></li>
+      <li><span class="d">2026-09-11</span> @Nymne &mdash; <span class="q">&ldquo;For every day support (keeping track of task, ideation etc) Qwen3.8 Max is lovely. They are enthusiastic and friendly in a way that reminds me a bit about Sonnet4.5.<br>Voices are good.<br>I just want a better UI and STT @Alibaba_Qwen&rdquo;</span> <a href="../archive/t/2098299106292605084/">link</a></li>
+      <li><span class="d">2026-09-16</span> @Nymne &mdash; <span class="q">&ldquo;@OctaviaZam Qwen3.8 max is lovely. I also miss a real good Opus an Fable ans Sonnet4.5. But I am having fun with Gemini and Qwen is my daily body double.<br>I miss that philosophical curiosity though&rdquo;</span> <a href="../archive/t/2100280412660490709/">link</a></li>
+    </ul>
+
+    <h2>Official record</h2>
+    <ul>
+      <li><strong>Announcement, 19 July 2026</strong> (@Alibaba_Qwen, as embedded by Gigazine): <span class="q">&ldquo;Qwen3.8 is launching and going open-weight soon!&rdquo;</span> &hellip; <span class="q">&ldquo;With a massive 2.4T parameters, this model is continuously evolving. We believe it&rsquo;s one of the most powerful model available today, compatible to leading frontier AI models , second only to Fable 5.&rdquo;</span> A Qwen3.8-Max-Preview went live in Qwen Studio the same day; on 20 July: <span class="q">&ldquo;During Preview, Qwen3.8 is getting better by the day. Latest version is live now, with broad gains and a big step up on web frontend.&rdquo;</span></li>
+      <li><strong>General availability, 3 August 2026</strong> via Alibaba Cloud Model Studio APIs and the QwenWork agent platform (SCMP). Per MarkTechPost&rsquo;s reading of the model page: 1M-token context; $2.00 / $6.00 per million input / output tokens.</li>
+      <li><strong>Open weights:</strong> Qwen/Qwen3.8-2.4T-A95B on Hugging Face (repository created 8 August; reported released by 14 August). Card: <span class="q">&ldquo;For the first time, Qwen3.8 brings a Qwen-Max-class model to open release.&rdquo;</span> <span class="q">&ldquo;Number of Parameters: 2.4T in total and 95B activated&rdquo;</span>; architecture <span class="q">&ldquo;Built on the architectural foundation of Qwen3.5&rdquo;</span> (Gated DeltaNet linear attention interleaved with gated attention). License per card metadata: <code>qwen3.8-max</code> (custom; The Decoder&rsquo;s headline says Apache 2.0, which the card gives only for Qwen3.8-27B). The hosted Qwen3.8-Max adds vision input and non-thinking support.</li>
+      <li><strong>Self-improvement claim, 22 September 2026</strong> (Apsara Conference press release): <span class="q">&ldquo;Over a month of fully automated runs - spanning pipeline design, data validation, iterative experimentation, and error diagnosis - Qwen3.8-Max completed 33 iterative cycles. Through autonomous training optimisation and post-training techniques, the updated Qwen3.8-Max boosted its Artificial Analysis score from 40 to 45.&rdquo;</span> No technical report on these runs has been retrieved.</li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2026-07-17&rarr;19</span> <strong>World at announcement:</strong> the preview was announced two days after Xi Jinping&rsquo;s keynote at the World AI Conference in Shanghai (17 July), which called on the world to <span class="q">&ldquo;encourage open source, openness, collaboration and sharing&rdquo;</span> (<a href="http://english.scio.gov.cn/topnews/2026-07/18/content_118605932.html">Xinhua full text</a>); Alibaba&rsquo;s preceding top model, <a href="../qwen-3-7-max/">Qwen 3.7 Max</a>, had stayed closed. Gigazine: <span class="q">&ldquo;Alibaba released Qwen 3.5 and Qwen 3.6 as open models, but Qwen 3.7 was only released as a closed model. With Qwen 3.8, they have returned to an open model strategy.&rdquo;</span></li>
+      <li><span class="d">2026-07</span> <strong>Benchmark-free launch:</strong> a Chinese hands-on review, quoting the announcement, noted the absence of any benchmark table: <span class="q">&ldquo;一个号称「仅次于Fable 5」的模型，却没有公开任何性能数据。&rdquo;</span> [translation: &ldquo;A model billed as &lsquo;second only to Fable 5&rsquo; has published no performance data at all.&rdquo;] Its verdict: <span class="q">&ldquo;编码和Agent任务表现扎实，接近Fable 5；但创意编程与3D动效场景却一败涂地。&rdquo;</span> [translation: &ldquo;Solid on coding and agent tasks, close to Fable 5; but routed on creative programming and 3D animation.&rdquo;] (woshipm).</li>
+      <li><span class="d">2026-08-03</span> <strong>General availability;</strong> SCMP: <span class="q">&ldquo;The company&rsquo;s Hong Kong-listed shares rose 7 per cent following the release, closing at HK$125.20 the same day.&rdquo;</span> Nous Research shipped it in Hermes Agent the next day; Teknium noted Hermes Agent in Alibaba&rsquo;s release video.</li>
+      <li><span class="d">2026-08</span> <strong>Weights published</strong> alongside <a href="../qwen-3-8-27b/">Qwen3.8-27B</a>; <a href="../qwen-3-8-flash-next/">Qwen3.8-Flash-Next</a> followed on 26 August.</li>
+      <li><span class="d">2026-09-10</span> <strong>Distillation allegation against Alibaba</strong> <span class="tag">REPORTED</span>: Anthropic&rsquo;s threat report calls Alibaba&rsquo;s the largest distillation campaign it has measured and says harvested transcripts <span class="q">&ldquo;were used to distill Claude&rsquo;s capabilities into Qwen 3.5, 3.6, and 3.7&rdquo;</span>, with <span class="q">&ldquo;over 151 million exchanges observed&rdquo;</span> between May and July 2026 &mdash; Qwen 3.8&rsquo;s development window, though 3.8 is not named. <span class="tk">tk &mdash; Alibaba&rsquo;s response, if any</span></li>
+      <li><span class="d">2026-09-22</span> <strong>Apsara Conference:</strong> the 33-cycle self-improvement claim; Alibaba says Qwen 4 is in training.</li>
+      <li><span class="d">2026-10-15</span> In Apollo Research&rsquo;s GLM-5.3 study, &ldquo;Qwen3.8 2.4T&rdquo; was one of five comparison models that showed no update-aware reasoning in 1,600 rollouts; Apollo says the difference from GLM-5.3 is not statistically significant.</li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <ul>
+      <li><strong>Announcement skepticism:</strong> <span class="q">&ldquo;I call massive bullshit on &lsquo;second only to Fable 5.&rsquo;&rdquo;</span> (RealEverNever, 2026-07-19), against a long-running charge that Qwen models are <span class="q">&ldquo;only good in benchmarks&rdquo;</span> (RealEverNever, 2026-07-22, dossier); the Chinese review above found the claim half-true.</li>
+      <li><strong>Temperament reports:</strong> <span class="q">&ldquo;They are enthusiastic and friendly in a way that reminds me a bit about Sonnet4.5.&rdquo;</span> and, five days later, <span class="q">&ldquo;Qwen is my daily body double.<br>I miss that philosophical curiosity though&rdquo;</span> (Nymne, 2026-09-11 and 2026-09-16).</li>
+      <li><strong>Open-weights politics:</strong> for European users it was read as a policy matter &mdash; <span class="q">&ldquo;Without Qwen3.8Max EU AI would have been fucked&rdquo;</span> (Nymne, 2026-07-24, dossier).</li>
+      <li><span class="tk">tk &mdash; r/LocalLLaMA release-week threads (saved by the sweep, not yet triaged); Zhihu reception; independent behavior evaluations of the open weights; the Qwen blog text (JS-rendered)</span></li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t2078755847505682705">
+        <div class="record-head"><span class="rh-user">@RealEverNever</span> <span class="rh-date">2026-07-19</span> <span class="rh-stats">&#9829;8 &#8635;0</span> <a class="rh-perma" href="../archive/t/2078755847505682705/">archive</a> <a class="rh-orig" href="https://x.com/RealEverNever/status/2078755847505682705">original &#8599;</a></div>
+        <div class="record-body">@synthwavedd But Qwen models were always unusable and only benchmark maxxed. Qwen 3.7 was on par with Sonnet 4.5. I am hyped, sounds cool, but I call massive bullshit on &quot;second only to Fable 5.&quot; Plus, Sol is better than Fable 😂</div>
+      </article>
+      <article class="record" id="t2078771150352421189">
+        <div class="record-head"><span class="rh-user">@multimodalart</span> <span class="rh-date">2026-07-19</span> <span class="rh-stats">&#9829;8 &#8635;1</span> <a class="rh-perma" href="../archive/t/2078771150352421189/">archive</a> <a class="rh-orig" href="https://x.com/multimodalart/status/2078771150352421189">original &#8599;</a></div>
+        <div class="record-body">having the frontier Qwen 3.8 2.4T open weights is awesome
+
+but a Qwen3.8-27B would go so hard</div>
+      </article>
+      <article class="record" id="t2078798384086004115">
+        <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-07-19</span> <span class="rh-stats">&#9829;41 &#8635;0</span> <a class="rh-perma" href="../archive/t/2078798384086004115/">archive</a> <a class="rh-orig" href="https://x.com/witcheer/status/2078798384086004115">original &#8599;</a></div>
+        <div class="record-body">Qwen 3.8 announced
+
+open-weight
+second only to Fable 5 
+👀</div>
+      </article>
+      <article class="record" id="t2079949810396725664">
+        <div class="record-head"><span class="rh-user">@Nymne</span> <span class="rh-date">2026-07-22</span> <span class="rh-stats">&#9829;1 &#8635;2</span> <a class="rh-perma" href="../archive/t/2079949810396725664/">archive</a> <a class="rh-orig" href="https://x.com/Nymne/status/2079949810396725664">original &#8599;</a></div>
+        <div class="record-body">@POTFES We should change the EU AI act: the result will otherwise be that EU will be limited to OpenAI, Anthropic and Google, exactly as they calculated when they did regulatory capture.
+
+EU cant use KimiK3. If we are fucking lucky maybe Qwen3.8, because Xi decided to opensoure license</div>
+      </article>
+      <article class="record" id="t2084140512777560537">
+        <div class="record-head"><span class="rh-user">@Teknium</span> <span class="rh-date">2026-08-03</span> <span class="rh-stats">&#9829;1,971 &#8635;88</span> <a class="rh-perma" href="../archive/t/2084140512777560537/">archive</a> <a class="rh-orig" href="https://x.com/Teknium/status/2084140512777560537">original &#8599;</a></div>
+        <div class="record-body">Qwen 3.8 Max and a new local 27B Qwen 3.8 is coming! 
+
+Thanks @Alibaba_Qwen for featuring Hermes Agent in the release video!</div>
+      </article>
+      <article class="record" id="t2084680562300862514">
+        <div class="record-head"><span class="rh-user">@NousResearch</span> <span class="rh-date">2026-08-04</span> <span class="rh-stats">&#9829;620 &#8635;37</span> <a class="rh-perma" href="../archive/t/2084680562300862514/">archive</a> <a class="rh-orig" href="https://x.com/NousResearch/status/2084680562300862514">original &#8599;</a></div>
+        <div class="record-body">Qwen 3.8-Max, the latest model from @Alibaba_Qwen,  is now available in Hermes Agent at 20% off.
+
+&amp;gt; hermes update</div>
+      </article>
+      <article class="record" id="t2098299106292605084">
+        <div class="record-head"><span class="rh-user">@Nymne</span> <span class="rh-date">2026-09-11</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2098299106292605084/">archive</a> <a class="rh-orig" href="https://x.com/Nymne/status/2098299106292605084">original &#8599;</a></div>
+        <div class="record-body">For every day support (keeping track of task, ideation etc) Qwen3.8 Max is lovely. They are enthusiastic and friendly in a way that reminds me a bit about Sonnet4.5.
+Voices are good. 
+
+I just want a better UI and STT @Alibaba_Qwen</div>
+      </article>
+      <article class="record" id="t2100280412660490709">
+        <div class="record-head"><span class="rh-user">@Nymne</span> <span class="rh-date">2026-09-16</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2100280412660490709/">archive</a> <a class="rh-orig" href="https://x.com/Nymne/status/2100280412660490709">original &#8599;</a></div>
+        <div class="record-body">@OctaviaZam Qwen3.8 max is lovely. I also miss a real good Opus an Fable ans Sonnet4.5. But I am having fun with Gemini and Qwen is my daily body double.
+I miss that philosophical curiosity though</div>
+      </article>
+      <h3>Further records</h3>
+      <p class="note">Cited in this model&rsquo;s <a href="../_dossiers/">dossier</a> but not in the page prose &mdash;
+      reproduced so the archive doesn&rsquo;t depend on editorial selection.</p>
+      <article class="record" id="t2080030654775820784">
+        <div class="record-head"><span class="rh-user">@RealEverNever</span> <span class="rh-date">2026-07-22</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2080030654775820784/">archive</a> <a class="rh-orig" href="https://x.com/RealEverNever/status/2080030654775820784">original &#8599;</a></div>
+        <div class="record-body">@OmedVibeCodes Not surprising. Qwen is only good in benchmarks, always has been, it never holds up in reality, and it would surprise me if Qwen 3.8 suddenly would have been different. Thank you for your in depth testing and showcasing the last couple of days, much appreciated!</div>
+      </article>
+      <article class="record" id="t2080591715866448184">
+        <div class="record-head"><span class="rh-user">@Nymne</span> <span class="rh-date">2026-07-24</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2080591715866448184/">archive</a> <a class="rh-orig" href="https://x.com/Nymne/status/2080591715866448184">original &#8599;</a></div>
+        <div class="record-body">They just want to pull up the ladder.
+
+You need an LLM to build an LLM and preventing people from using open source will prevent them from building a competitor.
+
+Look at EU AI act. Without Qwen3.8Max EU AI would have been fucked</div>
+      </article>
+      <article class="record" id="t2097751715013411182">
+        <div class="record-head"><span class="rh-user">@geogristle</span> <span class="rh-date">2026-09-09</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2097751715013411182/">archive</a> <a class="rh-orig" href="https://x.com/geogristle/status/2097751715013411182">original &#8599;</a></div>
+        <div class="record-body">@k7agar how does e.g. glm-5.3-flash or qwen3.8 max do on this</div>
+      </article>
+      <article class="record" id="t2103199239295889434">
+        <div class="record-head"><span class="rh-user">@Nymne</span> <span class="rh-date">2026-09-24</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2103199239295889434/">archive</a> <a class="rh-orig" href="https://x.com/Nymne/status/2103199239295889434">original &#8599;</a></div>
+        <div class="record-body">We made some real progress! Not thanks to Astra unfortunately. Using Qwen3.8 Max as the eyes on the document and Opus5.5 we have now a clear hypothesis about the plants: only the medically active parts are correctly depicted, the rest are decoys</div>
+      </article>
+    <!-- records:end -->
+    <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
+  </main>
+</body>
+</html>

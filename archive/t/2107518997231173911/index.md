@@ -4,6 +4,6 @@
 
 im getting routed to gemini 4 argon https://t.co/UIBEURT5md
 
-(image HT9pIorWwAAqElS.jpg not yet published)
-tags: author:__lightyear__, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/gemini-4-argon.md
+![photo](../../../media/HT9pIorWwAAqElS.jpg)
+tags: author:__lightyear__, has-image, kind:image, kind:tweet, on:gemini-4-argon, year:2026
+cited on: _dossiers/gemini-4-argon.md, gemini-4-argon

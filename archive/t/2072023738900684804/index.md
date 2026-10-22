@@ -4,5 +4,5 @@
 
 I guess a way to get the users back who were switching to GLM-5.2 because of cost and speed advantages of GLM.
 
-tags: author:hargup13, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:hargup13, kind:tweet, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

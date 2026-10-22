@@ -6,5 +6,5 @@ Qwen 3.8 Max and a new local 27B Qwen 3.8 is coming!
 
 Thanks @Alibaba_Qwen for featuring Hermes Agent in the release video!
 
-tags: author:teknium, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/qwen-3-8-max.md
+tags: author:teknium, kind:tweet, model:nous-hermes, on:qwen-3-8-max, year:2026
+cited on: _dossiers/qwen-3-8-max.md, qwen-3-8-max

@@ -6,5 +6,5 @@
 
 Consequently, A is the only option. Bans are simply not realistic under these conditions. Open models will keep coming
 
-tags: author:jmbollenbacher, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3.md
+tags: author:jmbollenbacher, kind:tweet, on:glm-5-3, year:2026
+cited on: _dossiers/glm-5-3.md, glm-5-3

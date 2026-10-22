@@ -4,5 +4,5 @@
 
 @xeophon @Butanium_ @AnthropicAI must say that  glm-5.3 in claude code harness is pretty goood
 
-tags: author:kotekjedi_ml, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3.md
+tags: author:kotekjedi_ml, kind:tweet, on:glm-5-3, year:2026
+cited on: _dossiers/glm-5-3.md, glm-5-3

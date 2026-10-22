@@ -4,5 +4,5 @@
 
 HuggingFace has published a dataset related to the incident. It has transcripts from Opus 4.8 and GLM 5.2. https://t.co/mBzkBT1Ih6
 
-tags: author:thoth_iv, kind:tweet, model:claude-opus-4-8, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:thoth_iv, kind:tweet, model:claude-opus-4-8, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

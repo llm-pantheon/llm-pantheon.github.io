@@ -7,11 +7,11 @@
   <link rel="stylesheet" href="../style.css">
 
   <!-- chrome:meta -->
-  <meta name="description" content="The proprietary top of the line, unveiled at the Apsara Summit (20 May 2026); 3.7-Plus followed 1 June. No Qwen 4 — the line went 3.5 → 3.6 → 3.7.">
+  <meta name="description" content="Previewed anonymously on LM Arena and formally announced at the Alibaba Cloud Summit on 20 May 2026; unlike Qwen 3.5 and 3.6 it was kept closed-weight, and the Qwen 3.8 generation (July–August 2026) returned to open …">
   <meta property="og:site_name" content="Pantheon">
   <meta property="og:type" content="article">
   <meta property="og:title" content="Qwen 3.7 Max — Pantheon">
-  <meta property="og:description" content="The proprietary top of the line, unveiled at the Apsara Summit (20 May 2026); 3.7-Plus followed 1 June. No Qwen 4 — the line went 3.5 → 3.6 → 3.7.">
+  <meta property="og:description" content="Previewed anonymously on LM Arena and formally announced at the Alibaba Cloud Summit on 20 May 2026; unlike Qwen 3.5 and 3.6 it was kept closed-weight, and the Qwen 3.8 generation (July–August 2026) returned to open …">
   <meta property="og:url" content="https://llm-pantheon.org/qwen-3-7-max/">
   <meta property="og:image" content="https://llm-pantheon.org/media/og/qwen-3-7-max.png">
   <meta property="og:image:width" content="1200">
@@ -31,25 +31,69 @@
     </nav>
 
     <h1>Qwen 3.7 Max</h1>
-    <p class="essay-meta">Alibaba &middot; May 2026</p>
-    <p class="blurb">The proprietary top of the line, unveiled at the Apsara Summit (20 May 2026); 3.7-Plus followed 1 June. No Qwen 4 &mdash; the line went 3.5 &rarr; 3.6 &rarr; 3.7.</p>
+    <p class="essay-meta">Alibaba (Qwen) &middot; previewed on LM Arena, May 2026 &middot; announced 20 May 2026 (closed weights) &middot; succeeded by <a href="../qwen-3-8-max/">Qwen3.8-Max</a> (Aug 2026)</p>
+    <p class="blurb">Previewed anonymously on LM Arena and formally announced at the Alibaba Cloud Summit on 20 May 2026; unlike Qwen 3.5 and 3.6 it was kept closed-weight, and the Qwen 3.8 generation (July&ndash;August 2026) returned to open weights. In September 2026 Anthropic alleged that Claude transcripts had been distilled into Qwen 3.5, 3.6 and 3.7.</p>
+    <p class="note">Thin page: release record, its place in the open/closed sequence, and the distillation allegation; fuller reception pending.</p>
 
     <h2>Sources</h2>
     <h3>Official</h3>
-    <p class="tk">tk &mdash; to collect</p>
+    <ul>
+      <li><span class="d">2026-05-20</span> Alibaba Cloud, <a href="https://www.alibabacloud.com/blog/alibaba-announces-comprehensive-full-stack-ai-upgrade-for-the-agentic-era_603149">Qwen3.7-Max, upgraded cloud infrastructure and model services, and new T-Head chips announced at Alibaba Cloud Summit</a> (the post&rsquo;s dateline reads &ldquo;May 20, 2025&rdquo;).</li>
+    </ul>
     <h3>Writing &amp; commentary</h3>
-    <p class="tk">tk &mdash; to collect</p>
+    <ul>
+      <li><span class="d">2026-05-21</span> MarkTechPost, <a href="https://www.marktechpost.com/2026/05/21/qwen-introduces-qwen3-7-max-a-reasoning-agent-model-with-a-1m-token-context-window/">Qwen introduces Qwen3.7-Max</a> &mdash; the Arena previews and the announcement.</li>
+      <li><span class="d">2026-07-21</span> Gigazine, <a href="https://gigazine.net/gsc_news/en/20260721-qwen3-8/">on the Qwen 3.8 announcement</a> &mdash; places 3.7 as the closed exception.</li>
+      <li><span class="d">2026-09-10</span> Anthropic, <a href="https://www.anthropic.com/threat-intelligence-report-september-2026">Countering misuse of AI: September 2026</a> &mdash; names Qwen 3.7 among the models into which it says Claude was distilled.</li>
+    </ul>
     <h3>Tweets</h3>
-    <p class="tk">tk &mdash; fleet pass pending; mirror to archive</p>
+    <ul>
+      <li><span class="d">2026-05-26</span> @NousResearch (&hearts;841) &mdash; <span class="q">&ldquo;Qwen 3.7 Max is now supported in Hermes Agent&rdquo;</span> <a href="../archive/t/2059385136366440803/">link</a></li>
+      <li><span class="d">2026-07-07</span> @Nymne &mdash; <span class="q">&ldquo;@robertwrighter They released 3.7 Max and noone cared because GLM5.2 could be downloaded so people adapted their work to GLM&rdquo;</span> <a href="../archive/t/2074498193660739800/">link</a></li>
+      <li><span class="d">2026-07-19</span> @RealEverNever &mdash; on the Qwen 3.8 announcement: <span class="q">&ldquo;Qwen 3.7 was on par with Sonnet 4.5.&rdquo;</span> &hellip; (full text in records) <a href="../archive/t/2078755847505682705/">link</a></li>
+    </ul>
 
     <h2>Official record</h2>
-    <p class="tk">tk &mdash; release date, specs, benchmarks, checkpoints</p>
+    <ul>
+      <li>Announced <strong>20 May 2026</strong> at the Alibaba Cloud Summit (not the Apsara Conference, which is held in September): <span class="q">&ldquo;Unveiled at the Alibaba Cloud Summit, Qwen3.7-Max is Alibaba&rsquo;s latest large language model, engineered for advanced agentic coding, complex reasoning, and long-horizon task execution.&rdquo;</span> Closed weights; available through Alibaba&rsquo;s cloud.</li>
+      <li>Previews: <span class="q">&ldquo;Alibaba previewed two models simultaneously: Qwen3.7-Max-Preview and Qwen3.7-Plus-Preview.&rdquo;</span> (MarkTechPost). Z.ai&rsquo;s GLM-5.2 launch table (16 June) benchmarks against Qwen3.7-Max. <span class="tk">tk &mdash; Qwen3.7-Plus general-availability date (the earlier page said 1 June; unverified)</span></li>
+    </ul>
 
     <h2>History</h2>
-    <p class="tk">tk &mdash; context of the world at release; events and entanglements</p>
+    <ul>
+      <li><span class="d">2026-05</span> <strong>Arena first:</strong> <span class="q">&ldquo;two preview versions of the Qwen3.7 series quietly appeared on Arena AI&rsquo;s leaderboard with no press release and no official API announcement.&rdquo;</span> (MarkTechPost).</li>
+      <li><span class="d">2026-06&rarr;07</span> <strong>Open-weight competition:</strong> after GLM-5.2&rsquo;s open release (16 June), one user&rsquo;s reading: <span class="q">&ldquo;They released 3.7 Max and noone cared because GLM5.2 could be downloaded&rdquo;</span> (Nymne, 2026-07-07).</li>
+      <li><span class="d">2026-07-19</span> <strong>Succession:</strong> Qwen3.8 announced as open-weight; Gigazine: <span class="q">&ldquo;Alibaba released Qwen 3.5 and Qwen 3.6 as open models, but Qwen 3.7 was only released as a closed model. With Qwen 3.8, they have returned to an open model strategy.&rdquo;</span> See <a href="../qwen-3-8-max/">Qwen3.8-Max</a>.</li>
+      <li><span class="d">2026-09-10</span> <strong>Distillation allegation</strong> <span class="tag">REPORTED</span>: Anthropic says harvested Claude transcripts <span class="q">&ldquo;were used to distill Claude&rsquo;s capabilities into Qwen 3.5, 3.6, and 3.7&rdquo;</span>, measuring <span class="q">&ldquo;over 151 million exchanges observed&rdquo;</span> between May and July 2026. A competitor&rsquo;s allegation. <span class="tk">tk &mdash; Alibaba&rsquo;s response, if any</span></li>
+    </ul>
 
     <h2>Impressions</h2>
-    <p class="tk">tk &mdash; day-of and longitudinal vibes to collect</p>
+    <ul>
+      <li><strong>Standing:</strong> rated <span class="q">&ldquo;on par with Sonnet 4.5&rdquo;</span> by a skeptic of Qwen benchmark claims (RealEverNever, 2026-07-19); Simon Willison, in August, called the sibling Qwen 3.7-Plus <span class="q">&ldquo;one of Qwen&rsquo;s strongest models of any size as recently as May this year&rdquo;</span>.</li>
+      <li><span class="tk">tk &mdash; r/LocalLLaMA and Zhihu reception; character reports; Arena-preview discussion</span></li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t2059385136366440803">
+        <div class="record-head"><span class="rh-user">@NousResearch</span> <span class="rh-date">2026-05-26</span> <span class="rh-stats">&#9829;841 &#8635;54</span> <a class="rh-perma" href="../archive/t/2059385136366440803/">archive</a> <a class="rh-orig" href="https://x.com/NousResearch/status/2059385136366440803">original &#8599;</a></div>
+        <div class="record-body">Qwen 3.7 Max is now supported in Hermes Agent <a href="https://t.co/cM5SqoJxu3" rel="nofollow">https://t.co/cM5SqoJxu3</a></div>
+      </article>
+      <article class="record" id="t2074498193660739800">
+        <div class="record-head"><span class="rh-user">@Nymne</span> <span class="rh-date">2026-07-07</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2074498193660739800/">archive</a> <a class="rh-orig" href="https://x.com/Nymne/status/2074498193660739800">original &#8599;</a></div>
+        <div class="record-body">@robertwrighter They released 3.7 Max and noone cared because GLM5.2 could be downloaded so people adapted their work to GLM</div>
+      </article>
+      <article class="record" id="t2078755847505682705">
+        <div class="record-head"><span class="rh-user">@RealEverNever</span> <span class="rh-date">2026-07-19</span> <span class="rh-stats">&#9829;8 &#8635;0</span> <a class="rh-perma" href="../archive/t/2078755847505682705/">archive</a> <a class="rh-orig" href="https://x.com/RealEverNever/status/2078755847505682705">original &#8599;</a></div>
+        <div class="record-body">@synthwavedd But Qwen models were always unusable and only benchmark maxxed. Qwen 3.7 was on par with Sonnet 4.5. I am hyped, sounds cool, but I call massive bullshit on &quot;second only to Fable 5.&quot; Plus, Sol is better than Fable 😂</div>
+      </article>
+    <!-- records:end -->
     <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
   </main>
 </body>

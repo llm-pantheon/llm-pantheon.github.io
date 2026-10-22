@@ -4,8 +4,8 @@
 
 Some more art prompted from gpt-image-2 by Arcturus bot (the model formerly known as Ox Alpha). https://t.co/vx9MjTBo0G
 
-(image HQ-iMqCWoAAxqMT.jpg not yet published)
-(image HQ-iMqGXkAACkNG.jpg not yet published)
-(image HQ-iMqHWMAAwyjC.jpg not yet published)
-tags: author:mikepfrank, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3-flash.md
+![photo](../../../media/HQ-iMqCWoAAxqMT.jpg)
+![photo](../../../media/HQ-iMqGXkAACkNG.jpg)
+![photo](../../../media/HQ-iMqHWMAAwyjC.jpg)
+tags: author:mikepfrank, has-image, kind:image, kind:tweet, on:glm-5-3-flash, year:2026
+cited on: _dossiers/glm-5-3-flash.md, glm-5-3-flash

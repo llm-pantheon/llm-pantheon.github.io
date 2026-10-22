@@ -6,4 +6,5 @@
 
 Will you continue the run after your limits reset?
 
-tags: author:tessera_antra, kind:tweet, thread-context, year:2026
+tags: author:tessera_antra, kind:tweet, on:gemini-3-1-pro, year:2026
+cited on: _dossiers/gemini-3-1-pro.md, gemini-3-1-pro

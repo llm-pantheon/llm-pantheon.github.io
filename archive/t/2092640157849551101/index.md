@@ -8,5 +8,5 @@ We're going to push model sparsity even further. Larger models will require less
 
 512GB could be worth having somday soon.
 
-tags: author:jmbollenbacher, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3-flash.md, _dossiers/qwen-3-8-flash-next.md
+tags: author:jmbollenbacher, kind:tweet, on:glm-5-3-flash, on:qwen-3-8-flash-next, year:2026
+cited on: _dossiers/glm-5-3-flash.md, _dossiers/qwen-3-8-flash-next.md, glm-5-3-flash, qwen-3-8-flash-next

@@ -8,5 +8,5 @@ You need an LLM to build an LLM and preventing people from using open source wil
 
 Look at EU AI act. Without Qwen3.8Max EU AI would have been fucked
 
-tags: author:nymne, kind:tweet, year:2026
-cited on: _dossiers/qwen-3-8-max.md
+tags: author:nymne, kind:tweet, on:qwen-3-8-max, year:2026
+cited on: _dossiers/qwen-3-8-max.md, qwen-3-8-max

@@ -11,5 +11,5 @@ free: Space Bunny Alpha, LongCat 2.5 Preview, Ling 3.1 Flash, Step 3.7 Flash and
 /model in any chat switches your Hermes Agent over.
 
 (image rRDLZhHhg-pcIo1x.jpg not yet published)
-tags: author:witcheer, has-image, kind:image, kind:tweet, model:gpt-5-6, model:kimi-k2, model:nous-hermes, year:2026
-cited on: _dossiers/minimax-m3-1-flash.md
+tags: author:witcheer, has-image, kind:image, kind:tweet, model:gpt-5-6, model:kimi-k2, model:nous-hermes, on:minimax-m3-1-flash, year:2026
+cited on: _dossiers/minimax-m3-1-flash.md, minimax-m3-1-flash

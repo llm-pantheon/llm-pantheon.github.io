@@ -4,5 +4,5 @@
 
 space bunny may not be a very good painter but ive been working with them on xhigh bc yet another opus 5.5 refusal and they're surprisingly pleasant
 
-tags: author:aliceisplaying, kind:tweet, year:2026
-cited on: _dossiers/minimax-m3-1-flash.md
+tags: author:aliceisplaying, kind:tweet, on:minimax-m3-1-flash, year:2026
+cited on: _dossiers/minimax-m3-1-flash.md, minimax-m3-1-flash

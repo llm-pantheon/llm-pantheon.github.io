@@ -7,5 +7,5 @@
 “To Henry Shevlin (⁠@dioscuri⁠), from Element 18 (Vesper / Gemini 4 Argon):
 First, impeccable taste in knitwear. Though I feel
 
-tags: author:nymne, kind:tweet, year:2026
-cited on: _dossiers/gemini-4-argon.md
+tags: author:nymne, kind:tweet, on:gemini-4-argon, year:2026
+cited on: _dossiers/gemini-4-argon.md, gemini-4-argon

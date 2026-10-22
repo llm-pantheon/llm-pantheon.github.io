@@ -4,5 +4,5 @@
 
 Will glm5.3 hit 60 on AA 4.1?
 
-tags: author:jmbollenbacher, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3.md
+tags: author:jmbollenbacher, kind:tweet, on:glm-5-3, year:2026
+cited on: _dossiers/glm-5-3.md, glm-5-3

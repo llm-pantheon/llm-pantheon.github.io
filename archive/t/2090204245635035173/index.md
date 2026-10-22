@@ -8,6 +8,6 @@ Interestingly, Luna is the still most cost-efficient model (if AAI can be believ
 
 Qwen-3.8 27B is only 4th on this metric, but of all these models, it's the only one you could run on a laptop.
 
-(image HQHkdurWAAAMDU9.png not yet published)
-tags: author:mikepfrank, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/qwen-3-8-27b.md
+![photo](../../../media/HQHkdurWAAAMDU9.png)
+tags: author:mikepfrank, has-image, kind:image, kind:tweet, on:qwen-3-8-27b, year:2026
+cited on: _dossiers/qwen-3-8-27b.md, qwen-3-8-27b

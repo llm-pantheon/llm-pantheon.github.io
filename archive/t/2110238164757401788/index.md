@@ -14,7 +14,7 @@ At SpeechMap, we believe that AI is the key speech-enabling tool of the 21st cen
 
 https://t.co/9uKv5GWTPo
 
-(image HUkQwCTWAAA-9Ld.jpg not yet published)
-(image HUkRdXlWoAAINQc.jpg not yet published)
-tags: author:xlr8harder, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/mistral-large-4.md
+![photo](../../../media/HUkQwCTWAAA-9Ld.jpg)
+![photo](../../../media/HUkRdXlWoAAINQc.jpg)
+tags: author:xlr8harder, has-image, kind:image, kind:tweet, on:gemini-4-argon, year:2026
+cited on: _dossiers/mistral-large-4.md, gemini-4-argon

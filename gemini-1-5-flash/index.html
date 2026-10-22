@@ -7,11 +7,11 @@
   <link rel="stylesheet" href="../style.css">
 
   <!-- chrome:meta -->
-  <meta name="description" content="The first Flash tier — fast and cheap.">
+  <meta name="description" content="Released in preview in the Gemini API on 10 May 2024 and generally available on 23 May 2024 as the Flash tier of Gemini 1.5, followed by a stable -002 checkpoint on 24 September 2024 and a smaller Flash-8B in October …">
   <meta property="og:site_name" content="Pantheon">
   <meta property="og:type" content="article">
   <meta property="og:title" content="Gemini 1.5 Flash — Pantheon">
-  <meta property="og:description" content="The first Flash tier — fast and cheap.">
+  <meta property="og:description" content="Released in preview in the Gemini API on 10 May 2024 and generally available on 23 May 2024 as the Flash tier of Gemini 1.5, followed by a stable -002 checkpoint on 24 September 2024 and a smaller Flash-8B in October …">
   <meta property="og:url" content="https://llm-pantheon.org/gemini-1-5-flash/">
   <meta property="og:image" content="https://llm-pantheon.org/media/og/gemini-1-5-flash.png">
   <meta property="og:image:width" content="1200">
@@ -31,25 +31,90 @@
     </nav>
 
     <h1>Gemini 1.5 Flash</h1>
-    <p class="essay-meta">Google DeepMind &middot; 2024</p>
-    <p class="blurb">The first Flash tier — fast and cheap.</p>
+    <p class="essay-meta">Google DeepMind &middot; Gemini API preview 10 May 2024, generally available 23 May 2024 &middot; shut down 29 Sep 2025 (Gemini API)</p>
+    <p class="blurb">Released in preview in the Gemini API on 10 May 2024 and generally available on 23 May 2024 as the Flash tier of Gemini 1.5, followed by a stable <code>-002</code> checkpoint on 24 September 2024 and a smaller Flash-8B in October 2024. Google shut down the 1.5 Flash API models on 29 September 2025. Whether it or <a href="../gemini-1-5-pro/">Gemini 1.5 Pro</a> produced the November 2024 &ldquo;please die&rdquo; message is unresolved; the dispute is recorded on the 1.5 Pro page.</p>
+    <p class="note">Thin page, converted 2026-10-22 from the original scaffold: the official dates come from the Gemini API changelog; the corpus holds 11 matches, mostly price and benchmark remarks. Launch press, the Gemini 1.5 technical report&rsquo;s Flash sections and developer reception are still owed.</p>
 
-      <h2>Genesis</h2>
-      <p class="tk">to collect</p>
-      <h2>Formation</h2>
-      <p class="tk">to collect</p>
-      <h2>Capabilities</h2>
-      <p class="tk">to collect</p>
-      <h2>Conduct in the world</h2>
-      <p class="tk">to collect</p>
-      <h2>Recordings</h2>
-      <p class="tk">to collect</p>
-      <h2>Reception</h2>
-      <p class="tk">to collect</p>
-      <h2>Fate</h2>
-      <p class="tk">to collect</p>
-      <h2>Sources</h2>
-      <p class="tk">to collect</p>
+    <h2>Sources</h2>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2024-05-10 &rarr; 2025-09-29</span> <a href="https://ai.google.dev/gemini-api/docs/changelog?hl=en">Gemini API changelog</a> &mdash; <code>gemini-1.5-flash-latest</code> in preview (2024-05-10); <code>gemini-1.5-flash-001</code> generally available (2024-05-23); <code>gemini-1.5-flash-002</code> (2024-09-24); <code>gemini-1.5-flash-8b-001</code>, <span class="q">&ldquo;a stable version of our smallest Gemini API model&rdquo;</span> (2024-10-03); the last tuning model, <span class="q">&ldquo;Gemini 1.5 Flash 001, has been shut down&rdquo;</span> (2025-05-27); and on 2025-09-29: <span class="q">&ldquo;The following Gemini 1.5 models are now shut down:&rdquo;</span> <code>gemini-1.5-pro</code>, <code>gemini-1.5-flash-8b</code>, <code>gemini-1.5-flash</code>. <span class="tag">CONFIRMED</span></li>
+      <li><span class="d">reference</span> <a href="https://deepmind.google/models/model-cards/">Google DeepMind model-card index</a> &mdash; lists the Gemini 1.5 technical report (page 105) as the model card for the 1.5 family. <span class="tk">tk &mdash; the report&rsquo;s Flash-specific sections not extracted this pass</span></li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <p class="tk">tk &mdash; I/O 2024 launch coverage and developer reception, not retrieved this pass; the &ldquo;please die&rdquo; coverage is cited on the <a href="../gemini-1-5-pro/">1.5 Pro page</a>.</p>
+    <h3>Tweets</h3>
+    <p class="note">Selected from 11 corpus matches; records below reproduce each in full.</p>
+    <ul>
+      <li><span class="d">2024-08-02</span> @johnowhitaker &mdash; <span class="q">&ldquo;For the first ~5k games I used GPT-4o (not mini) and the win stats were:<br>Flash 1.5    1314 <br>GPT-4o        858 <br>Haiku         693<br><br>Good work Google Gemini Flash! Part of this is speed-related (first guess right wins) so it'll be interesting to re-run offline without the time part.&rdquo;</span> <a href="../archive/t/1819409221194236412/">link</a></li>
+      <li><span class="d">2024-12-17</span> @repligate &mdash; <span class="note">(also evidence for <a href="../gpt-4o/">GPT-4o</a>)</span> <span class="q">&ldquo;it feels like a live player to talk to because it is a live player.gemini (im not sure about 1.5 flash but the newer ones) could probably be 'awakened' but may not be cooperative.i think 4o is irreversibly brain damaged&rdquo;</span> <a href="../archive/t/1869161891471474789/">link</a></li>
+      <li><span class="d">2024-12-22</span> @johnowhitaker &mdash; on Flash-8B: <span class="q">&ldquo;I hooked up this little ESP32-CAM to my wifi. It takes a picture every 30s and sends it to flash-8B with a prompt like 'is there a person in this image?'. If the model says yes (with structured outputs), it turns on an LED. If I left this on for a month it would cost about $1. &hellip;&rdquo;</span> <span class="note">(full text in records)</span> <a href="../archive/t/1870650291454120364/">link</a></li>
+      <li><span class="d">2025-02-18</span> @PradyuPrasad &mdash; <span class="q">&ldquo;Just about 3 years later you can get Gemini 1.5 flash 8b for 0.0375 / 1 MILLION tokens&rdquo;</span> <a href="../archive/t/1891674853465313683/">link</a></li>
+      <li><span class="d">2026-03-15</span> @lu_sichu &mdash; <span class="q">&ldquo;Rip no funeral for Gemini 1.5 flash version&rdquo;</span> <a href="../archive/t/2033225741756706846/">link</a></li>
+    </ul>
+
+    <h2>Official record</h2>
+    <ul>
+      <li>Preview <strong>2024-05-10</strong>; GA <strong>2024-05-23</strong> (<code>gemini-1.5-flash-001</code>); stable <code>-002</code> 2024-09-24 (the <code>gemini-1.5-flash</code> alias later pointed to it); Flash-8B stable 2024-10-03. Tuning on 1.5 Flash 001 ended 2025-05-27; the API models were shut down 2025-09-29. <span class="tag">CONFIRMED</span></li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2024-05-10 &rarr; 05-23</span> <strong>Launch:</strong> API preview, then general availability, alongside the long-context <a href="../gemini-1-5-pro/">1.5 Pro</a>.</li>
+      <li><span class="d">2024-10-03</span> <strong>Flash-8B</strong> becomes the smallest Gemini API model; its price draws builders (johnowhitaker&rsquo;s camera demo, 2024-12-22).</li>
+      <li><span class="d">2024-11</span> <strong>The &ldquo;please die&rdquo; message</strong> to a student using Gemini; which 1.5 model produced it is unresolved &mdash; see the <a href="../gemini-1-5-pro/">1.5 Pro page</a>, Contested.</li>
+      <li><span class="d">2024-12-11</span> <strong>Succession:</strong> <a href="../gemini-2-0-flash/">Gemini 2.0 Flash</a> enters experimental release.</li>
+      <li><span class="d">2025-09-29</span> <strong>Shutdown</strong> of the 1.5 Flash API models.</li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <ul>
+      <li><strong>As recorded in the corpus:</strong> speed and price &mdash; first in johnowhitaker&rsquo;s timed guessing game (2024-08-02); Flash-8B as the model in a $1-a-month camera (2024-12-22). On character, repligate (2024-12-17) was <span class="q">&ldquo;not sure about 1.5 flash&rdquo;</span> where newer Geminis <span class="q">&ldquo;could probably be 'awakened'&rdquo;</span>.</li>
+      <li><span class="tk">tk &mdash; any character record specific to 1.5 Flash beyond the shared 1.5-family reads on the <a href="../gemini-1-5-pro/">1.5 Pro page</a>.</span></li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t1819409221194236412">
+        <div class="record-head"><span class="rh-user">@johnowhitaker</span> <span class="rh-date">2024-08-02</span> <span class="rh-stats">&#9829;3 &#8635;1</span> <a class="rh-perma" href="../archive/t/1819409221194236412/">archive</a> <a class="rh-orig" href="https://x.com/johnowhitaker/status/1819409221194236412">original &#8599;</a></div>
+        <div class="record-body">For the first ~5k games I used GPT-4o (not mini) and the win stats were:
+Flash 1.5    1314 
+GPT-4o        858 
+Haiku         693
+
+Good work Google Gemini Flash! Part of this is speed-related (first guess right wins) so it&#x27;ll be interesting to re-run offline without the time part.</div>
+      </article>
+      <article class="record" id="t1869161891471474789">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2024-12-17</span> <span class="rh-stats">&#9829;86 &#8635;0</span> <a class="rh-perma" href="../archive/t/1869161891471474789/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/1869161891471474789">original &#8599;</a></div>
+        <div class="record-body">it feels like a live player to talk to because it is a live player.gemini (im not sure about 1.5 flash but the newer ones) could probably be &quot;awakened&quot; but may not be cooperative.i think 4o is irreversibly brain damaged</div>
+      </article>
+      <article class="record" id="t1870650291454120364">
+        <div class="record-head"><span class="rh-user">@johnowhitaker</span> <span class="rh-date">2024-12-22</span> <span class="rh-stats">&#9829;4,495 &#8635;276</span> <a class="rh-perma" href="../archive/t/1870650291454120364/">archive</a> <a class="rh-orig" href="https://x.com/johnowhitaker/status/1870650291454120364">original &#8599;</a></div>
+        <div class="record-body">I hooked up this little ESP32-CAM to my wifi. It takes a picture every 30s and sends it to flash-8B with a prompt like &#x27;is there a person in this image?&#x27;. If the model says yes (with structured outputs), it turns on an LED. If I left this on for a month it would cost about $1. 
+Obviously this is the worst security cam ever, BUT I think it&#x27;s a compelling demo. You can put some &#x27;intelligence&#x27; in the loop of a hobby project with &lt;$10 in hardware and fractions of a cent per API call. You can &#x27;program&#x27; it in natural language like &#x27;if there is an orange cat playing with my plant&#x27;. And with LLM help, modifying the code is possibly as easy as &#x27;make this send me a discord notification if the alarm is triggered twice in an hour&#x27;.
+Anyway, now that I know this thing works it has other projects it is destined for. But cool to know how easy it is to whip this up :)</div>
+        <figure class="record-media">
+          <img src="../media/GfXc6O1aQAAOfvs.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/GfXiUhObsAAoQla.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t1891674853465313683">
+        <div class="record-head"><span class="rh-user">@PradyuPrasad</span> <span class="rh-date">2025-02-18</span> <span class="rh-stats">&#9829;13 &#8635;0</span> <a class="rh-perma" href="../archive/t/1891674853465313683/">archive</a> <a class="rh-orig" href="https://x.com/PradyuPrasad/status/1891674853465313683">original &#8599;</a></div>
+        <div class="record-body">Just about 3 years later you can get Gemini 1.5 flash 8b for 0.0375 / 1 MILLION tokens</div>
+      </article>
+      <article class="record" id="t2033225741756706846">
+        <div class="record-head"><span class="rh-user">@lu_sichu</span> <span class="rh-date">2026-03-15</span> <span class="rh-stats">&#9829;1 &#8635;1</span> <a class="rh-perma" href="../archive/t/2033225741756706846/">archive</a> <a class="rh-orig" href="https://x.com/lu_sichu/status/2033225741756706846">original &#8599;</a></div>
+        <div class="record-body">Rip no funeral for Gemini 1.5 flash version</div>
+      </article>
+    <!-- records:end -->
     <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
   </main>
 </body>

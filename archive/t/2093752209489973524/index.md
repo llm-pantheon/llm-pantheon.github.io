@@ -10,5 +10,5 @@ So let's say you have 5 RTX 5090s for $20k
 
 You'll likely get very slow token output
 
-tags: author:qwweryo, kind:tweet, model:claude-opus-4-8, year:2026
-cited on: _dossiers/glm-5-3-flash.md
+tags: author:qwweryo, kind:tweet, model:claude-opus-4-8, on:glm-5-3-flash, year:2026
+cited on: _dossiers/glm-5-3-flash.md, glm-5-3-flash

@@ -4,5 +4,5 @@
 
 gemini 4 argon paints an original friedrich - https://t.co/S7FAnHk5ua https://t.co/SrvZgBi3GF
 
-tags: author:aliceisplaying, kind:tweet, year:2026
-cited on: _dossiers/gemini-4-argon.md
+tags: author:aliceisplaying, kind:tweet, on:gemini-4-argon, year:2026
+cited on: _dossiers/gemini-4-argon.md, gemini-4-argon

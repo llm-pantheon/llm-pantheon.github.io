@@ -11,5 +11,5 @@ antigravity + fal ai
 sound on! https://t.co/ZRIM9GpFUi
 
 (image xXQFeAlD5J6Oz0Sa.jpg not yet published)
-tags: author:linxule, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/gemini-4-argon.md
+tags: author:linxule, has-image, kind:image, kind:tweet, on:gemini-4-argon, year:2026
+cited on: _dossiers/gemini-4-argon.md, gemini-4-argon

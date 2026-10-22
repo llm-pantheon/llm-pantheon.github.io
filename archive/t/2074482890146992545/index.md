@@ -8,5 +8,5 @@ Fable and Opus on top, then gemini and GPT, then a big drop down to mid tier mod
 
 Interesting.
 
-tags: author:jmbollenbacher, kind:tweet, model:fable, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:jmbollenbacher, kind:tweet, model:fable, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

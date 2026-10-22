@@ -4,5 +4,5 @@
 
 @Mechanical_Dodo @CarbonAsh I think colab is definitely worth it. Gpu access YouTube lite maybe? Idk depends on how you feel about ad blocker? Yeah I also do have some storage needs. I honestly don't think argon is a bad model it's just that Google makes using their models hard. Gemini app sucks.
 
-tags: author:lu_sichu, kind:tweet, year:2026
-cited on: _dossiers/gemini-4-argon.md
+tags: author:lu_sichu, kind:tweet, on:gemini-4-argon, year:2026
+cited on: _dossiers/gemini-4-argon.md, gemini-4-argon

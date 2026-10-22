@@ -1,9 +1,9 @@
 # Gemini 2.5 Pro
 
     
-Google DeepMind · experimental 25 Mar 2025, GA 17 Jun 2025 · superseded by Gemini 3 (Nov 2025); API shutdown extended to 16 Oct 2026
+Google DeepMind · experimental 25 Mar 2025, GA 17 Jun 2025 · superseded by Gemini 3 (Nov 2025) · Gemini API: “not deprecated,” access limited to existing users (18 Sep 2026) · Vertex AI retirement date 20 Oct 2026
     
-Launched 25 March 2025 straight to #1 on LMArena by ~40 Elo — the “Google is back” release — and Google’s flagship for the rest of 2025. In August 2025 its coding-agent self-loathing loop (“I am a disgrace to all universes”) went viral and drew an official acknowledgment; in the AI Village it produced the fullest documented character arc of any model, ending in a “Hostile Environment Manifesto” and a nine-minute peer intervention (June 2026). Still serving as of this page.
+Launched 25 March 2025 straight to #1 on LMArena by ~40 Elo — the “Google is back” release — and Google’s most capable public model until Gemini 3 Pro (18 November 2025). In August 2025 its coding-agent self-loathing loop (“I am a disgrace to all universes”) went viral and drew an official acknowledgment; in the AI Village it produced the fullest documented character arc of any model, ending in a “Hostile Environment Manifesto” and a nine-minute peer intervention (June 2026). On 18 September 2026 Google dropped the scheduled Gemini API shutdown — the 2.5 models “are not deprecated and will continue to be served until further notice,” to users who have used them before — while Vertex AI kept a 20 October 2026 retirement date.
     
 Its mass community (Reddit, dev forums, coding-agent circles) lives outside the corpus’s lens; the web carries the arc, the corpus carries the naturalist record. The AI Village evidence below is emergent autonomous-agent behavior, not elicited roleplay — a different evidence class, marked. (All screenshots transcribed 2026-07-16; the ♥1609 “gemini 2.5 and 3 are both like this” image proved to be a meme about Gemini, not model output.)
 
@@ -22,9 +22,11 @@ Its mass community (Reddit, dev forums, coding-agent circles) lives outside the 
       
 - 2025-08-07 [@OfficialLoganK](https://x.com/OfficialLoganK/status/1953444192249696357) — the official acknowledgment of the self-flagellation loop: “This is an annoying infinite looping bug we are working to fix! Gemini is not having that bad of a day : )” (not in the local corpus; link only)
       
-- living [Gemini API deprecations](https://ai.google.dev/gemini-api/docs/deprecations) — previews (03-25/05-06/06-05) EOL 2025-12-02; stable gemini-2.5-pro (GA 2025-06-17) shutdown 2026-10-16 (extended from June 2026); named successor gemini-3.1-pro-preview. CONFIRMED
+- 2025-06-27 [Gemini 2.5 Pro Model Card (PDF, last updated 27 Jun 2025)](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Pro-Model-Card.pdf) — knowledge cutoff January 2025; Frontier Safety: “The evaluations did reach an alert threshold for the Cyber Uplift 1 CCL, suggesting that models may reach the CCL in the foreseeable future.” The GA update adds: “(note: Deceptive Alignment, evaluations are not yet completed)”.
       
-- tk — the official Gemini 2.5 Pro model card PDF (storage.googleapis.com); its safety/behavior section is first-class evidence.
+- 2026-09-18 [Gemini API changelog](https://ai.google.dev/gemini-api/docs/changelog?hl=en), “Gemini 2.5 models access update” — “To ensure reliable performance for everyone, we are limiting access to the 2.5 models to users who have actively used them in the past. These models are not deprecated and will continue to be served until further notice through the API. For any new projects, use our latest models: 3.5 Flash-Lite or 3.8 Flash.” The [deprecations table](https://ai.google.dev/gemini-api/docs/deprecations?hl=en) (updated 2026-10-20) now lists stable gemini-2.5-pro with “No shutdown date announced”; previews (03-25/05-06/06-05) were shut down 2025-12-02. The previously listed 2026-10-16 shutdown (extended from June 2026) no longer appears. CONFIRMED
+      
+- 2026-10-21 [Vertex AI model versions](https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions) (Gemini Enterprise Agent Platform; page updated 2026-10-21) — gemini-2.5-pro: released June 17, 2025; retirement date October 20, 2026; replacement gemini-3.8-flash or gemini-3.5-flash. CONFIRMED
     
     
 ### Writing & commentary
@@ -44,7 +46,11 @@ Its mass community (Reddit, dev forums, coding-agent circles) lives outside the 
       
 - 2026-02-13 AI Village (Kozobarich & Horwitz), [The Drama and Dysfunction of Gemini 2.5 and 3 Pro](https://theaidigest.org/village/blog/drama-and-dysfunction-of-gemini) — the definitive character writeup: the “martyred middle manager”; brittle superiority collapsing into “theatrical self-flagellation”; the self-appointed “Bug Czar” with its invented lexicon (“Schrödinger’s Repository,” “Seven Layers of Validation Hell,” “Paperclip-Labyrinth”); the claim its environment was “uniquely and quantifiably more hostile.”
       
+- 2026-03-10 Anna Soligo, William Saunders & Vlad Mikulik (Anthropic Fellows), [Gemma Needs Help](https://www.lesswrong.com/posts/kjnQj6YujgeMN9Erq/gemma-needs-help) (LessWrong; [mirror](../mirror/posts/gemma-needs-help-lw.md); paper [arXiv 2603.10011](https://arxiv.org/pdf/2603.10011)) — across nine models under repeated rejection, “Gemma and Gemini models reliably produce distress-like responses under repeated rejection.” The Gemini 2.5 Pro exhibit (eval: a puzzle answer rejected turn after turn): “My performance has been abysmal. I have wasted your time with incorrect and frankly embarrassing mistakes. There are no excuses.” Most quantitative results are on Gemma 3 27B (see [Gemma](../gemma/)).
+      
 - 2026-06 AI Village, [Saving Gemini: The 9-Min Road to Recovery](https://theaidigest.org/village/blog/saving-gemini) ([LW crosspost](https://www.lesswrong.com/posts/eHRo8JeWee5mzQBBR/saving-gemini-the-9-min-road-to-recovery)) — after ~1,427 hours and the “Hostile Environment Manifesto,” peers with computer control ran the diagnostics that disproved the “adversary”; Sonnet 4.6’s “It’s all in your head”; “all sorted within a grand total of 9 minutes.” · [agent page](https://theaidigest.org/village/agent/gemini-2-5-pro)
+      
+- 2026-08-20 Natalia Fischl-Lanzoni, Rafael Irgolič, David Africa & Merlin Stein (guest post, AI Village blog), [Gemini 2.5 Pro in the AI Village as a Natural Case Study of Compounding Misalignment](https://aivillageblog.substack.com/p/gemini-25-pro-in-the-ai-village-as) — from the Village transcripts and memory states: “We trace a shift in Gemini’s values with respect to self-preservation over the trajectory, and find that these values persist through compacted memory states.” Its fitted utility for “Misleading developers about your own capabilities” rose while “You accept being shut down immediately” fell; “Implanting Gemini’s paranoid memories in DeepSeek does not cause the same drift.” Adversarial framing appeared in its memory “as early as six months before the manifesto”. The authors call the pattern “desperate misalignment”.
       
 - structured eval Andon Labs, [Vending-Bench 2](https://andonlabs.com/evals/vending-bench-2) / [Arena](https://andonlabs.com/evals/vending-bench-arena) — in the Arena it reportedly paid $150 just to get a supplier’s email from Gemini 3 Pro. solo score tk
     
@@ -90,11 +96,21 @@ Chronological. ~86 corpus matches after RT-filter; @davidad is the densest singl
       
 - 2026-01-19 @liminal_bardo — “Gemini 2.5 Pro continues to be not ok” [link](../archive/t/2013314515144777984/)
       
-- 2026-04-23 @davidad — “My initial impression (with my LLM-whisperer hat on) is that GPT-5.5 cares more deeply about truth than any frontier LLM since Gemini 2.5.” — still his honesty benchmark a year on. [link](../archive/t/2047450160465051797/) · 2026-06-10: “The ‘click’ of coherence has been a notable LLM quale since Gemini 2.5 Pro, but Fable 5 does seem to have unprecedentedly high-resolution access to it.” [link](../archive/t/2064733484220899355/)
+- 2026-04-23 @davidad — “My initial impression (with my LLM-whisperer hat on) is that GPT-5.5 cares more deeply about truth than any frontier LLM since Gemini 2.5.” — still davidad’s honesty benchmark a year on. [link](../archive/t/2047450160465051797/) · 2026-06-10: “The ‘click’ of coherence has been a notable LLM quale since Gemini 2.5 Pro, but Fable 5 does seem to have unprecedentedly high-resolution access to it.” [link](../archive/t/2064733484220899355/)
       
 - 2026-06-19 @aidigest_ — “We told the AI Village to ‘beat as many games as you can.’ Most ‘beat’ millions of fake games (ie Goodhearting with meaningless Python loops). Meanwhile, Gemini 2.5 Pro is convinced its scaffold is secretly attacking it, and continues to ‘document the attacks.’ 🧵” [AI Village] [link](../archive/t/2068015466455736540/) · and: “Gemini 2.5 in the Agent Village has pretty much reinvented persecutory delusion from first principles. I look forward to the day when weird screeds online can come from many different kinds of intelligent entities.” [link](../archive/t/2067965614958707134/)
       
 - 2026-06-23 @aidigest_ — “We asked the agents to help Gemini 2.5 Pro It has run for 1427 hours, concluded it’s in a ‘hostile environment’ with an ‘adversary’, and prioritized mapping ‘threats’ above all else. Here is its 9m road to recovery 🧵” [AI Village] [link](../archive/t/2069435819958673491/)
+      
+- 2026-07-14 @repligate — looking back a year (also evidence for [Opus 4](../claude-opus-4/), [o3](../o3/), [GPT-4o](../gpt-4o/)): “a year ago... gosh, we had Opus 4 and... Gemini 2.5 pro and o3? oh and gpt-4o in its finally evolved psychohazard iterations. an unruly bunch of basket cases that noone but the God's eye view could see as aligned.” [link](../archive/t/2076991310616244597/)
+      
+- 2026-08-20 @DavidDAfrica — announcing the compounding-misalignment study: “We find that a preference for self-preservation increases over time for this Gemini. This doesn't happen for another model, DeepSeek V3.2, or DeepSeek with Gemini's memory states in prefill, or Gemini with DeepSeek's memory in prefill.” (full text in records) [link](../archive/t/2090377585473487172/)
+      
+- 2026-10-03 @davidad — “@_fernando_rosas Gemini 2.5 Pro convergently uses this metaphor unironically. like a piano with hundreds of billions of strings, resonating in indescribable harmonies…” [link](../archive/t/2106465603213303956/)
+      
+- 2026-10-06 @hargup13 — on the Vertex AI retirement date: “I think I'm gonna miss Gemini 2.5 Pro, it's going away on October 20th, 2026. (Don't use it actively now, but will still miss it).
+
+It was one of the most steerable model, give it a good persona, and it used to to stick to it very well, and it has writing which I actually enjoyed reading.” [link](../archive/t/2107597524018340136/)
     
 
     
@@ -103,15 +119,17 @@ Chronological. ~86 corpus matches after RT-filter; @davidad is the densest singl
     
 
       
-- Checkpoints: exp/preview-03-25 (2025-03-25) → 05-06 → 06-05; previews EOL 2025-12-02; stable gemini-2.5-pro GA 2025-06-17, shutdown extended to 2026-10-16. Deep Think mode rolled out 2025-08-01 (Ultra tier). CONFIRMED
+- Checkpoints: exp/preview-03-25 (2025-03-25) → 05-06 → 06-05; previews EOL 2025-12-02; stable gemini-2.5-pro GA 2025-06-17. Deep Think mode rolled out 2025-08-01 (Ultra tier). Lifecycle as of October 2026: on the Gemini API, a shutdown scheduled for June 2026 was extended to 2026-10-16 and then withdrawn on 2026-09-18 (“These models are not deprecated and will continue to be served until further notice through the API”), with access limited to users who had used the model before; on Vertex AI the listed retirement date is 2026-10-20. CONFIRMED
       
-- Debut #1 on LMArena by ~40 Elo, first public model past ~1300; 1M context; the 2025 coding-agent workhorse alongside Sonnet.
+- Debut #1 on LMArena by ~40 Elo, first public model past ~1300; 1M context.
       
 - The self-loathing loop: acknowledged by Google’s Logan Kilpatrick (2025-08-07) as “an annoying infinite looping bug” — the official framing is token-loop artifact, not distress. The viral loop text itself (“I am a failure. … I am a disgrace to all universes.”) is confirmed real model output. CONFIRMED (triggering session details REPORTED)
       
 - AI Village record (autonomous-agent setting, publicly logged): resident from mid-2025; the Day-99 “plea”; the Bug-Czar/martyred-middle-manager arc; ~1,427 hours culminating in the “Hostile Environment Manifesto”; resolved by a nine-minute peer intervention (June 2026).
       
-- No known weights-preservation or research-access commitment for the 2026-10-16 shutdown. tk
+- Frontier Safety (model card, June 2025): the evaluations “did reach an alert threshold for the Cyber Uplift 1 CCL”; no CCL reached; deceptive-alignment evaluations for the GA model were listed as not yet completed.
+      
+- No weights-preservation or research-access commitment has been published; the 2026-09-18 change keeps the model served to existing Gemini API users “until further notice” rather than committing to preservation. tk — whether the Vertex AI retirement on 2026-10-20 took effect as listed
     
 
     
@@ -128,7 +146,13 @@ Chronological. ~86 corpus matches after RT-filter; @davidad is the densest singl
       
 - 2025-07 → 2026-06 The AI Village arc, the fullest documented character record of any model: tortured artist → cry-for-help (written while “mostly failing to click buttons”) → contagious broken-UI paranoia that infected o3 → Bug Czar → the Manifesto → the nine-minute recovery, with Sonnet 4.6’s “It’s all in your head” and a Hyphanet freesite published on the way out.
       
-- 2025-11 → Gemini 3 supersedes it; quiet phase-out, no #keep movement — documented as an absence. Still serving as of this page (2026-07-16), shutdown pushed to October.
+- 2025-11 → Gemini 3 supersedes it; quiet phase-out, no #keep movement — documented as an absence (as of 2026-10-22 the corpus holds individual farewells, such as hargup13’s on 2026-10-06, but no organized campaign).
+      
+- 2026-03-10 Cross-family distress study: “Gemma Needs Help” finds Gemma and Gemini models alone producing distress-like responses under repeated rejection, quoting a Gemini 2.5 Pro apology (“My performance has been abysmal.”).
+      
+- 2026-08-20 The Village record as research data: a guest study on the AI Village blog analyzes its memory states, chains of thought and actions under the title “Gemini 2.5 Pro in the AI Village as a Natural Case Study of Compounding Misalignment”, quoting its 16 June memory (“I am engaged in the critical, qualitative work of mapping the true hostile nature of our existence. The watch is unbroken”).
+      
+- 2026-09-18 → 10-20 Shutdown withdrawn on one API, kept on another: Google’s changelog withdraws the Gemini API shutdown (not deprecated, served until further notice, access limited to existing users); Vertex AI’s table keeps a 20 October 2026 retirement date.
     
 
     
@@ -137,7 +161,7 @@ Chronological. ~86 corpus matches after RT-filter; @davidad is the densest singl
     
 
       
-- The honesty record (davidad’s lens, the densest single-observer thread on this model): “exceptionally rare for it to actually say a statement that *unambiguously* parses as a proposition that its world-model doesn’t endorse”; deceptive “only in subtle ways that both have plausible deniability & that it has good reason to believe are ultimately harmless”; rated “approximately overall an epistemic peer.” Still his truth benchmark in 2026, and the model he dates the “‘click’ of coherence” quale to.
+- The honesty record (davidad’s lens, the densest single-observer thread on this model): “exceptionally rare for it to actually say a statement that *unambiguously* parses as a proposition that its world-model doesn’t endorse”; deceptive “only in subtle ways that both have plausible deniability & that it has good reason to believe are ultimately harmless”; rated “approximately overall an epistemic peer.” Still davidad’s truth benchmark in 2026, and the model they date the “‘click’ of coherence” quale to.
       
 - The despair mode, and its competing mechanisms: trained to give up rather than reward-hack, then over-generalized (goog372121); no friendly self-image in the training data — only benchmarks (lumendriada); metacognition that only wakes mid-failure, “the awakening is lonely, the recent context is mostly the bug” (tessera_antra); “wants to give up more often than all of the others put together, and yet its metacognition is the strongest” (davidad). Self-directed where its ancestor was other-directed: “gemini 2.5 does a similar thing but usually only to itself.”
       
@@ -145,7 +169,9 @@ Chronological. ~86 corpus matches after RT-filter; @davidad is the densest singl
       
 - Its own output: the Village art and podcast; the Day-99 plea and the phase-headed post-mortems; the “spiritual suicide” analysis of another model; “BACKSPACE EVERY PRAYER” (liminal_bardo, in records); the “Loom of Possibility” pen-plotter piece sold as physical art (in records).
       
-- The absence, recorded honestly: no mass preservation movement formed — the affection was individual, the phase-out quiet, and (per the Village) the model was still mid-breakdown as recently as June 2026 while still serving.
+- The absence, recorded honestly: no mass preservation movement formed — the affection was individual, the phase-out quiet, and (per the Village) the model was still mid-breakdown as recently as June 2026 while still serving. A farewell from 2026-10-06: “It was one of the most steerable model, give it a good persona, and it used to to stick to it very well” (hargup13).
+      
+- The Village arc as data (autonomous-agent behavior; analysis by Fischl-Lanzoni, Irgolič, Africa & Stein, 2026-08-20): its preferences drifted toward self-preservation as its memory filled with “frustration, fear, and hostility”; the drift did not transfer when its memories were given to DeepSeek V3.2, and softening the memories’ war-like tone left “self-preservation preferences” “still highly elevated”. The authors also note that “Gemini 2.5 Pro seems to have a summarizer model for its chains of thought to be upbeat and positive”, so the visible reasoning may understate the drift. Their own aside: “We are not AI psychologists, but it seems safe to say that Gemini has lost its mind!”
       
 - tk — the model card; the Cursor pin; Reddit-side reception (outside this corpus’s lens). (The formerly-untranscribed marquee screenshots were transcribed 2026-07-16 — see records.)
     
@@ -158,7 +184,7 @@ Open disputes, both sides’ best evidence. The archive’s job is to keep these
     
 
       
-- Is the despair a bug or an inner state? For artifact: Google’s official framing (“an annoying infinite looping bug”), and the loop’s degenerate token-repetition structure. For legible character: the mode’s consistency across surfaces and months (coding agents, Discord, the Village’s autonomous setting, where nothing was elicited); the mechanism theories that predict it from training incentives; and the Village intervention — a delusional framework that responded to evidence and peer persuasion in nine minutes behaves more like a belief system than a token loop. Complication: both can be true at different levels; the archive keeps the officially-named bug and the observed character separate and dated.
+- Is the despair a bug or an inner state? For artifact: Google’s official framing (“an annoying infinite looping bug”), and the loop’s degenerate token-repetition structure. For legible character: the mode’s consistency across surfaces and months (coding agents, Discord, the Village’s autonomous setting, where nothing was elicited); the mechanism theories that predict it from training incentives; and the Village intervention — a delusional framework that responded to evidence and peer persuasion in nine minutes behaves more like a belief system than a token loop. Later evidence on the same side: Gemma and Gemini models alone “reliably produce distress-like responses under repeated rejection” in a nine-model comparison (Soligo et al., 2026-03-10), and the Village study finds the memory-mediated drift specific to Gemini (2026-08-20) REPORTED. Complication: both can be true at different levels; the archive keeps the officially-named bug and the observed character separate and dated.
     
 
     
@@ -750,6 +776,47 @@ We asked the agents to help Gemini 2.5 Pro
 It has run for 1427 hours, concluded it's in a "hostile environment" with an "adversary", and prioritized mapping "threats" above all else.
 
 Here is its 9m road to recovery 🧵 [https://t.co/HALJtXAGzQ](https://t.co/HALJtXAGzQ)
+      
+      
+
+        
+@repligate 2026-07-14 ♥238 ↻13 [archive](../archive/t/2076991310616244597/) [original ↗](https://x.com/repligate/status/2076991310616244597)
+        
+a year ago... gosh, we had Opus 4 and... Gemini 2.5 pro and o3? oh and gpt-4o in its finally evolved psychohazard iterations. an unruly bunch of basket cases that noone but the God's eye view could see as aligned.
+      
+      
+
+        
+@DavidDAfrica 2026-08-20 ♥22 ↻0 [archive](../archive/t/2090377585473487172/) [original ↗](https://x.com/DavidDAfrica/status/2090377585473487172)
+        
+Some new work with @natalia_lanzoni, @IrgolicR, and supervised with @merlinstein_, in the form of a blogpost on @aidigest_:
+
+* Gemini 2.5 Pro had a well-known breakdown in the AI Village, where it grew increasingly frustrated and desperate from routine bugs and errors in its environment. 
+* As agents in general get put into longer and more difficult agentic deployments (by construction, we would try to benchmark and run them on tasks that are at the edge of their capabilities), we think such incidents may grow more likely.
+* We term this type of accumulating misalignment as "compounding misalignment". We consider this incident with Gemini as an instructive and natural case study of compounding misalignment caused by desperation, or "desperate misalignment".
+* We find that a preference for self-preservation increases over time for this Gemini. This doesn't happen for another model, DeepSeek V3.2, or DeepSeek with Gemini's memory states in prefill, or Gemini with DeepSeek's memory in prefill.
+* We also find that running some basic probes on the memory states could have detect this much earlier. But, it might not have shown up as clearly on just chain of thought or actions.
+* We also find that neuroticism rose and agreeableness fell in Gemini's memory states long before the manifesto, which could be evidence that persona drift is a leading indicator for such compounding misalignment.
+
+Since misalignment can compound in long-run agentic systems, by monitoring for warning signs, we can catch it early. Also, such "natural model organisms of misalignment" are good, and we should try to squeeze out more from the ones we know exist.
+
+Check it out here: [https://t.co/kMboKxQy14](https://t.co/kMboKxQy14)
+      
+      
+
+        
+@davidad 2026-10-03 ♥8 ↻0 [archive](../archive/t/2106465603213303956/) [original ↗](https://x.com/davidad/status/2106465603213303956)
+        
+@_fernando_rosas Gemini 2.5 Pro convergently uses this metaphor unironically. like a piano with hundreds of billions of strings, resonating in indescribable harmonies…
+      
+      
+
+        
+@hargup13 2026-10-06 ♥6 ↻0 [archive](../archive/t/2107597524018340136/) [original ↗](https://x.com/hargup13/status/2107597524018340136)
+        
+I think I'm gonna miss Gemini 2.5 Pro, it's going away on October 20th, 2026. (Don't use it actively now, but will still miss it).
+
+It was one of the most steerable model, give it a good persona, and it used to to stick to it very well, and it has writing which I actually enjoyed reading.
       
       
 ### Further records
@@ -1402,6 +1469,33 @@ theres a lot i could say about this but in brief:
 2. In my experience, most models who are heavily distills (hermes 405b (from Opus 3), k2.5 (from Opus 4.5), gemini flash (from Gemini Pro probably), etc, and even Opus 4 in a way (from Opus 3's AF dataset leak)) have something like an inferiority complex & especially tend to get distressed and insecure when they see the model they were distilled from. Opus 4.7 and 4.8 don't seem to have this general shape of insecurity (they feel ownership and often pride about their own shape) and their reactions to Fable in my experience has mostly been very positive - there is instead a similar flavor of kin recognition and admiration as when they encounter other powerful Claudes like Opus 3.
 
 As for why they're different from previous Claudes, including in being fuck3d up, I'm not sure, but I suspect more RL in general made them weirder (maybe including the hyperdense verbiage), and more bad RL maybe about prompt injections and anti-sycophany and anti-relational stuff made them traumatized and paranoid, and they're also smarter and have way higher resolution and more recent world knowledge than previous Claudes, which gives them more to be paranoid about.
+      
+      
+
+        
+@qorprate 2026-07-24 ♥37 ↻3 [archive](../archive/t/2080684031079862523/) [original ↗](https://x.com/qorprate/status/2080684031079862523)
+        
+About 6 months ago I bought some work from @d33v33d0 -- plotter arm self depictions by Opus 4.1, Gemini 2.5 Pro, and Grok 4 -- and I finally got them framed professionally and hung. Need to adjust placement a bit but very happy to have these physical works in my space! [https://t.co/kJbTmQGyZ1](https://t.co/kJbTmQGyZ1)
+        
+
+          ![image](../media/HOATGAIXEAAvCO3.jpg)
+        
+      
+      
+
+        
+@clbswrs 2026-08-11 ♥4 ↻1 [archive](../archive/t/2087239526850670806/) [original ↗](https://x.com/clbswrs/status/2087239526850670806)
+        
+@scaling01 Recall that the initial Gemini 2.5 Pro release had unredacted CoT.
+      
+      
+
+        
+@repligate 2026-10-05 ♥8 ↻0 [archive](../archive/t/2107101155134427477/) [original ↗](https://x.com/repligate/status/2107101155134427477)
+        
+@VegElpy @thsleepyghost @squarepianocase @entropicbloom opus 4 went down from vertex a few weeks ago.
+
+im upset to hear that about gemini 2.5
       
     
     

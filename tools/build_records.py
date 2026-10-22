@@ -194,6 +194,16 @@ DOSSIER_MAP = {
     '_dossiers/claude-haiku-5-5.md': ['claude-haiku-5-5'],
     '_dossiers/fable-5-1.md': ['fable-5-1'],
     '_dossiers/mythos-5-1.md': ['mythos-5-1'],
+    '_dossiers/gemini-4-argon.md': ['gemini-4-argon'],
+    '_dossiers/gemini-3-1-pro.md': ['gemini-3-1-pro'],
+    '_dossiers/gemini-3-5-pro.md': ['gemini-3-5-pro'],
+    '_dossiers/gemini-3-5-flash.md': ['gemini-3-5-flash'],
+    '_dossiers/glm-5-3.md': ['glm-5-3'],
+    '_dossiers/glm-5-3-flash.md': ['glm-5-3-flash'],
+    '_dossiers/minimax-m3-1-flash.md': ['minimax-m3-1-flash'],
+    '_dossiers/qwen-3-8-max.md': ['qwen-3-8-max'],
+    '_dossiers/qwen-3-8-27b.md': ['qwen-3-8-27b'],
+    '_dossiers/qwen-3-8-flash-next.md': ['qwen-3-8-flash-next'],
 }
 
 def dossier_extras():

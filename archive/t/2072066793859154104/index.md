@@ -11,5 +11,5 @@ This release of Gemma 4 on Cerebras at 1.8k tok/sec likely establishes a new par
 Why do I find this so exciting?
 I believe that effective utilization of speed-cost frontier models is fundamentally a harness engineering problem. Access to ‘instant coding’ is a huge unlock. Intelligence-frontier models can one-shot most tasks, but are modern speed-frontier models lacking any essential capacity for the same functionality? I believe that no, they are not, and that harness engineering can establish a new pareto frontier for highly intelligent, instantaneous models too cheap to meter. Instantaneous responses completely change the dynamic and meta for coding with AI.
 
-tags: author:codyhxyz, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:codyhxyz, kind:tweet, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

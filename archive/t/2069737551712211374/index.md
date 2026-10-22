@@ -6,5 +6,5 @@
 
 however i am eager to try glm-5.2, i just dont have direct financial incentive since we give eng YOLO unlimited token budget
 
-tags: author:jitl, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:jitl, kind:tweet, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

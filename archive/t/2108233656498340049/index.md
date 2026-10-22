@@ -6,5 +6,5 @@ This means that most of the “but where are the cyber attacks now that GLM-5.3 
 
 Most analysis of open-weight risk is overly focused on when the capability is available vs when it is sufficiently cheap.
 
-tags: author:dhadfieldmenell, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3.md
+tags: author:dhadfieldmenell, kind:tweet, on:glm-5-3, year:2026
+cited on: _dossiers/glm-5-3.md, glm-5-3

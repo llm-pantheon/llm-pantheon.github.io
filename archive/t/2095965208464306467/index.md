@@ -4,6 +4,6 @@
 
 Gemini 3.5 Flash remains the frontier, but Astra now mogs Fable in KnowsAboutBenBench https://t.co/NkXsRSdM75
 
-(image HRZcfomacAAbKVc.jpg not yet published)
-tags: author:benenterprises, has-image, kind:image, kind:tweet, model:fable, year:2026
-cited on: _dossiers/gemini-3-5-flash.md
+![photo](../../../media/HRZcfomacAAbKVc.jpg)
+tags: author:benenterprises, has-image, kind:image, kind:tweet, model:fable, on:gemini-3-5-flash, year:2026
+cited on: _dossiers/gemini-3-5-flash.md, gemini-3-5-flash

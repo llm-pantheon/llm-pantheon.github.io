@@ -4,5 +4,5 @@
 
 @Criton1776 @claudeai except price and speed. Competes directly with GLM-5.2 which apparently lot of people are switching to because Opus is too expensive.
 
-tags: author:hargup13, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:hargup13, kind:tweet, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

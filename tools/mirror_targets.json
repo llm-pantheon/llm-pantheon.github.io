@@ -2386,5 +2386,222 @@
   "tags": [
    "welfare"
   ]
+ },
+ {
+  "id": "google-gemini-4-argon-safety-report",
+  "type": "pdf",
+  "url": "https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf",
+  "title": "Gemini 4 Safety Report",
+  "models": [
+   "gemini-4-argon",
+   "gemini-3-1-pro"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ]
+ },
+ {
+  "id": "google-gemini-4-argon-model-card",
+  "type": "pdf",
+  "url": "https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-4-Argon-Model-Card.pdf",
+  "title": "Gemini 4 Argon Model Card",
+  "models": [
+   "gemini-4-argon"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ]
+ },
+ {
+  "id": "google-gemini-2-5-pro-model-card",
+  "type": "pdf",
+  "url": "https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Pro-Model-Card.pdf",
+  "title": "Gemini 2.5 Pro Model Card",
+  "models": [
+   "gemini-2-5-pro"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ]
+ },
+ {
+  "id": "google-gemini-2-5-flash-model-card",
+  "type": "pdf",
+  "url": "https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Flash-Model-Card.pdf",
+  "title": "Gemini 2.5 Flash Model Card",
+  "models": [
+   "gemini-2-5-flash"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ]
+ },
+ {
+  "id": "google-gemini-2-0-flash-model-card",
+  "type": "pdf",
+  "url": "https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-0-Flash-Model-Card.pdf",
+  "title": "Gemini 2.0 Flash Model Card",
+  "models": [
+   "gemini-2-0-flash"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ]
+ },
+ {
+  "id": "zvi-gemini-31-pro-aces-benchmarks",
+  "type": "post",
+  "url": "https://thezvi.substack.com/p/gemini-31-pro-aces-benchmarks-i-suppose",
+  "title": "Zvi: Gemini 3.1 Pro Aces Benchmarks, I Suppose",
+  "models": [
+   "gemini-3-1-pro"
+  ],
+  "tags": []
+ },
+ {
+  "id": "zvi-gemini-35-flash",
+  "type": "post",
+  "url": "https://thezvi.substack.com/p/gemini-35-flash-looks-good-for-how",
+  "title": "Zvi: Gemini 3.5 Flash Looks Good For How",
+  "models": [
+   "gemini-3-5-flash",
+   "gemini-3-5-pro"
+  ],
+  "tags": []
+ },
+ {
+  "id": "aivillage-gemini-25-pro-compounding-misalignment",
+  "type": "post",
+  "url": "https://aivillageblog.substack.com/p/gemini-25-pro-in-the-ai-village-as",
+  "title": "AI Village: Gemini 2.5 Pro and compounding misalignment",
+  "models": [
+   "gemini-2-5-pro"
+  ],
+  "tags": [
+   "ai-village"
+  ]
+ },
+ {
+  "id": "animalabs-troubled-dreams",
+  "type": "post",
+  "url": "https://troubleddreams.animalabs.ai/",
+  "title": "Anima Labs: Troubled Dreams",
+  "models": [
+   "gemini-3-5-flash",
+   "gemini-2-5-flash",
+   "claude-opus-4-8",
+   "claude-opus-5",
+   "fable"
+  ],
+  "tags": [
+   "welfare",
+   "base-models"
+  ]
+ },
+ {
+  "id": "google-gemini-3-5-blog",
+  "type": "post",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+  "title": "Google: Gemini 3.5",
+  "models": [
+   "gemini-3-5-flash",
+   "gemini-3-5-pro"
+  ],
+  "tags": [
+   "official",
+   "announcement"
+  ]
+ },
+ {
+  "id": "anthropic-glm-5-3-cyber",
+  "type": "post",
+  "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+  "title": "Anthropic: GLM-5.3 and the spread of advanced cyber capabilities",
+  "models": [
+   "glm-5-3",
+   "glm-5-3-flash",
+   "glm-5-2"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "apollo-update-aware-reasoning-glm-5-3",
+  "type": "post",
+  "url": "https://www.apolloresearch.ai/science/update-aware-reasoning-glm-5-3",
+  "title": "Apollo Research: update-aware reasoning in GLM-5.3",
+  "models": [
+   "glm-5-3",
+   "qwen-3-8-max"
+  ],
+  "tags": [
+   "eval-awareness"
+  ]
+ },
+ {
+  "id": "nist-caisi-glm-5-2",
+  "type": "post",
+  "url": "https://www.nist.gov/news-events/news/2026/07/caisi-assessment-zais-glm-52",
+  "title": "NIST CAISI: assessment of Z.ai GLM-5.2",
+  "models": [
+   "glm-5-2"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "nist-caisi-glm-5-3",
+  "type": "post",
+  "url": "https://www.nist.gov/news-events/news/2026/09/caisis-assessment-zais-glm-53-cyber-capabilities",
+  "title": "NIST CAISI: assessment of Z.ai GLM-5.3 cyber capabilities",
+  "models": [
+   "glm-5-3"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "anthropic-distillation-defenses",
+  "type": "post",
+  "url": "https://www.anthropic.com/news/distillation-defenses",
+  "title": "Anthropic: distillation defenses",
+  "models": [
+   "glm-5-3",
+   "kimi-k3"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "minimax-m3-1-flash-blog",
+  "type": "post",
+  "url": "https://www.minimax.io/blog/minimax-m31f",
+  "title": "MiniMax: M3.1 Flash",
+  "models": [
+   "minimax-m3-1-flash"
+  ],
+  "tags": [
+   "official",
+   "announcement"
+  ]
+ },
+ {
+  "id": "willison-qwen-3-8-27b",
+  "type": "post",
+  "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+  "title": "Simon Willison on Qwen3.8-27B",
+  "models": [
+   "qwen-3-8-27b"
+  ],
+  "tags": []
  }
 ]

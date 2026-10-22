@@ -8,5 +8,5 @@ it'd be cool to fit it into a 256GB setup. maybe weights ~200-210GB, like GLM-5.
 
 not sure if its feasible with the embeddings table. but it'd be cool to see.
 
-tags: author:jmbollenbacher, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3.md
+tags: author:jmbollenbacher, kind:tweet, on:glm-5-3, year:2026
+cited on: _dossiers/glm-5-3.md, glm-5-3

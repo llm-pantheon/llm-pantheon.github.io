@@ -4,5 +4,5 @@
 
 @mistralvibe does GLM5.2 comply with EU AI act requirements?
 
-tags: author:nymne, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:nymne, kind:tweet, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

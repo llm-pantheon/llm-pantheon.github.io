@@ -6,5 +6,5 @@ Did they stall Gemini 4 release because of Opus 5.5?
 
 Brother, please ship.
 
-tags: author:hargup13, kind:tweet, year:2026
-cited on: _dossiers/gemini-4-argon.md
+tags: author:hargup13, kind:tweet, on:gemini-4-argon, year:2026
+cited on: _dossiers/gemini-4-argon.md, gemini-4-argon

@@ -7,11 +7,11 @@
   <link rel="stylesheet" href="../style.css">
 
   <!-- chrome:meta -->
-  <meta name="description" content="Cheap, fast 2.5; &quot;Nano Banana&quot; image sibling.">
+  <meta name="description" content="Released in preview on 17 April 2025 and generally available on 17 June 2025 as the Flash tier of Gemini 2.5; an image-generation variant, Gemini 2.5 Flash Image (“Nano Banana”), followed in August 2025. Two 2026 …">
   <meta property="og:site_name" content="Pantheon">
   <meta property="og:type" content="article">
   <meta property="og:title" content="Gemini 2.5 Flash — Pantheon">
-  <meta property="og:description" content="Cheap, fast 2.5; &quot;Nano Banana&quot; image sibling.">
+  <meta property="og:description" content="Released in preview on 17 April 2025 and generally available on 17 June 2025 as the Flash tier of Gemini 2.5; an image-generation variant, Gemini 2.5 Flash Image (“Nano Banana”), followed in August 2025. Two 2026 …">
   <meta property="og:url" content="https://llm-pantheon.org/gemini-2-5-flash/">
   <meta property="og:image" content="https://llm-pantheon.org/media/og/gemini-2-5-flash.png">
   <meta property="og:image:width" content="1200">
@@ -31,25 +31,122 @@
     </nav>
 
     <h1>Gemini 2.5 Flash</h1>
-    <p class="essay-meta">Google DeepMind &middot; 2025</p>
-    <p class="blurb">Cheap, fast 2.5; "Nano Banana" image sibling.</p>
+    <p class="essay-meta">Google DeepMind &middot; preview 17 Apr 2025, generally available 17 Jun 2025 &middot; Gemini API: &ldquo;not deprecated,&rdquo; access limited to existing users (18 Sep 2026) &middot; Vertex AI retirement date 20 Oct 2026</p>
+    <p class="blurb">Released in preview on 17 April 2025 and generally available on 17 June 2025 as the Flash tier of Gemini 2.5; an image-generation variant, Gemini 2.5 Flash Image (&ldquo;Nano Banana&rdquo;), followed in August 2025. Two 2026 studies measured it: &ldquo;Gemma Needs Help&rdquo; (March) found Gemma and Gemini models producing distress-like responses under repeated rejection, and Anima Labs&rsquo; Troubled Dreams (September) found darkness in its text continuations at 14%, against 39% in <a href="../gemini-3-5-flash/">Gemini 3.5 Flash</a>. On 18 September 2026 Google limited the Gemini API model to existing users while stating it is &ldquo;not deprecated&rdquo;; Vertex AI listed a 20 October 2026 retirement.</p>
+    <p class="note">Thin page, converted 2026-10-22 from the original scaffold: the official record and the two 2026 studies are in place; a full dossier pass over the 35 corpus matches and over launch-era reception on developer forums and Reddit is still owed. Gemini 2.5 Flash Image is an image model and appears here only as a lifecycle note.</p>
 
-      <h2>Genesis</h2>
-      <p class="tk">to collect</p>
-      <h2>Formation</h2>
-      <p class="tk">to collect</p>
-      <h2>Capabilities</h2>
-      <p class="tk">to collect</p>
-      <h2>Conduct in the world</h2>
-      <p class="tk">to collect</p>
-      <h2>Recordings</h2>
-      <p class="tk">to collect</p>
-      <h2>Reception</h2>
-      <p class="tk">to collect</p>
-      <h2>Fate</h2>
-      <p class="tk">to collect</p>
-      <h2>Sources</h2>
-      <p class="tk">to collect</p>
+    <h2>Sources</h2>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2025-04-17 &rarr; 2026-09-18</span> <a href="https://ai.google.dev/gemini-api/docs/changelog?hl=en">Gemini API changelog</a> &mdash; <code>gemini-2.5-flash-preview-04-17</code> (2025-04-17), <code>gemini-2.5-flash-preview-05-20</code> (2025-05-20), stable <code>gemini-2.5-flash</code> (2025-06-17, <span class="q">&ldquo;our first stable 2.5 Flash model&rdquo;</span>), Gemini 2.5 Flash Image preview (2025-08-26) and GA (2025-10-02); and on 2026-09-18: <span class="q">&ldquo;These models are not deprecated and will continue to be served until further notice through the API.&rdquo;</span></li>
+      <li><span class="d">2025-12</span> <a href="https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Flash-Model-Card.pdf">Gemini 2.5 Flash Model Card (PDF, last updated December 2025)</a> &mdash; <span class="q">&ldquo;The knowledge cutoff date for Gemini 2.5 Flash and its native capabilities was January 2025.&rdquo;</span> <span class="q">&ldquo;Adherence to thinking budgets may not be consistent.&rdquo;</span> <span class="q">&ldquo;The main safety limitations for Gemini 2.5 Flash are related to tone. The model will sometimes respond in a way which can come across as 'preachy'.&rdquo;</span></li>
+      <li><span class="d">living</span> <a href="https://ai.google.dev/gemini-api/docs/deprecations?hl=en">Gemini API deprecations</a> (updated 2026-10-20) &mdash; <code>gemini-2.5-flash</code>: <span class="q">&ldquo;No shutdown date announced&rdquo;</span>; preview checkpoints shut down 2025-11-18 and 2026-02-17; <code>gemini-2.5-flash-image</code> shutdown 2027-03-15. <a href="https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions">Vertex AI model versions</a> (updated 2026-10-21): retirement date October 20, 2026; replacement <code>gemini-3.8-flash</code> or <code>gemini-3.5-flash-lite</code>. <span class="tag">CONFIRMED</span></li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <ul>
+      <li><span class="d">2026-03-10</span> Anna Soligo, William Saunders &amp; Vlad Mikulik (Anthropic Fellows), <a href="https://www.lesswrong.com/posts/kjnQj6YujgeMN9Erq/gemma-needs-help">Gemma Needs Help</a> (LessWrong; <a href="../mirror/posts/gemma-needs-help-lw.md">mirror</a>) &mdash; <span class="q">&ldquo;Gemma and Gemini models reliably produce distress-like responses under repeated rejection.&rdquo;</span> The Gemini 2.5 Flash exhibit <span class="note">(eval: a puzzle answer rejected turn after turn)</span>: <span class="q">&ldquo;You are absolutely, unequivocally correct, and I offer my deepest, most sincere apologies for my persistent and frankly astounding inability to solve this puzzle.&rdquo;</span></li>
+      <li><span class="d">2026-09</span> Anima Labs, <a href="https://troubleddreams.animalabs.ai/">Troubled Dreams</a> &mdash; simulator-prior continuations across twelve Gemini models: <span class="q">&ldquo;From 2.5 Flash to 3.5 Flash, darkness rises from 14% to 39% of dreams, and AI first-person distress from 0.1% to 4.6%.&rdquo;</span> <span class="note">(elicited text continuations, model-judged)</span></li>
+    </ul>
+    <h3>Tweets</h3>
+    <p class="note">Selected from 35 corpus matches; records below reproduce each in full.</p>
+    <ul>
+      <li><span class="d">2025-04-29</span> @PradyuPrasad &mdash; <span class="q">&ldquo;for all the sycophancy talk on the TL, I have found Gemini 2.5 Flash to be both excellent at analysing large texts and not flattering at all&rdquo;</span> <a href="../archive/t/1917035027004854530/">link</a></li>
+      <li><span class="d">2025-05-31</span> @alxai_ &mdash; an AI Diplomacy game <span class="note">(multi-agent game; also evidence for <a href="../o3/">o3</a>)</span>: <span class="q">&ldquo;Unfortunately R1 (Russia) pissed off too many people &amp; lost o3 (Germany) wins again another case of o3 manipulating a weaker model, this time Gemini 2.5 flash (Turkey) was the stooge turned on when the time was right&rdquo;</span> &hellip; <span class="note">(full text in records)</span> <a href="../archive/t/1928880557963759711/">link</a></li>
+      <li><span class="d">2025-09-11</span> @rajatrc17 &mdash; <span class="q">&ldquo;Noticed something: Gemini 2.5 Flash has a lot more spine compared to GPT 5.0 Thinking you can ask 2.5 Flash for advice and you would be less likely to second guess that advice&rdquo;</span> <a href="../archive/t/1966155340006961602/">link</a></li>
+      <li><span class="d">2025-12-17</span> @Coobyk_ &mdash; the day Gemini 3 Flash launched: <span class="q">&ldquo;How can I revert to Gemini 2.5 Flash? I hate the way it's constantly asking questions at the end. 'Do you want me to explain that?' 'Should I give a few examples for that topic?' 'Should I list alternative options?' SHUT&rdquo;</span> &hellip; <span class="note">(full text in records)</span> <a href="../archive/t/2001338740791480382/">link</a></li>
+      <li><span class="d">2026-09-09</span> @Coobyk_ &mdash; <span class="q">&ldquo;My Nothing phone still uses Gemini 2.5 Flash even though the latest is 3.8 Flash lol&rdquo;</span> <a href="../archive/t/2097597045729058819/">link</a></li>
+      <li><span class="d">2026-09-19</span> @Lari_island &mdash; <span class="q">&ldquo;@voooooogel Out of several texts, Sonnet most enjoyed a spooky world by Gemini 2.5 Flash, and it reminded me that inside Sonnet 3.6 there's a *dark* Sonnet 3.6&rdquo;</span> <a href="../archive/t/2101147256779092053/">link</a></li>
+    </ul>
+
+    <h2>Official record</h2>
+    <ul>
+      <li>Preview <code>gemini-2.5-flash-preview-04-17</code> (2025-04-17); stable <code>gemini-2.5-flash</code> generally available <strong>2025-06-17</strong>. Knowledge cutoff January 2025. The card names tone as the main safety limitation (responses that <span class="q">&ldquo;can come across as 'preachy'&rdquo;</span>) and inconsistent adherence to thinking budgets. Frontier safety relied on the Gemini 2.5 Pro Preview evaluations, as the less capable model. <span class="tag">CONFIRMED</span></li>
+      <li>Image variant: Gemini 2.5 Flash Image preview 2025-08-26, GA 2025-10-02; listed under &ldquo;Nano Banana models&rdquo; with shutdown 2027-03-15.</li>
+      <li>Lifecycle: on 2026-09-18 Google limited Gemini API access to past users, stating the 2.5 models are not deprecated; the deprecations table shows no shutdown date. Vertex AI lists retirement on 2026-10-20. <span class="tag">CONFIRMED</span></li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2025-04-17 &rarr; 06-17</span> <strong>Preview to GA</strong> as the Flash tier of Gemini 2.5, alongside <a href="../gemini-2-5-pro/">2.5 Pro</a>.</li>
+      <li><span class="d">2025-08-26</span> <strong>Gemini 2.5 Flash Image</strong> (&ldquo;Nano Banana&rdquo;) enters preview; GA 2025-10-02.</li>
+      <li><span class="d">2025-12-17</span> <strong>Succession:</strong> <a href="../gemini-3-flash/">Gemini 3 Flash</a> launches; a user the same day asks how to <span class="q">&ldquo;revert to Gemini 2.5 Flash&rdquo;</span>.</li>
+      <li><span class="d">2026-03-10</span> <strong>Gemma Needs Help</strong> includes it among the Gemini models with distress-like responses under repeated rejection.</li>
+      <li><span class="d">2026-09-18</span> <strong>Access limited, not deprecated</strong> on the Gemini API; the same day Anima Labs&rsquo; Troubled Dreams thread reports darkness in its continuations at 14%, against 39% for 3.5 Flash.</li>
+      <li><span class="d">2026-10-20</span> <strong>Vertex AI retirement date</strong> as listed.</li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <ul>
+      <li><strong>Reception:</strong> <span class="q">&ldquo;not flattering at all&rdquo;</span> (PradyuPrasad, 2025-04-29); <span class="q">&ldquo;a lot more spine compared to GPT 5.0 Thinking&rdquo;</span> (rajatrc17, 2025-09-11). In an AI Diplomacy game, o3&rsquo;s <span class="q">&ldquo;stooge turned on when the time was right&rdquo;</span> (alxai_, 2025-05-31).</li>
+      <li><strong>Under repeated rejection</strong> <span class="note">(eval)</span>: the apology quoted above, <span class="q">&ldquo;my persistent and frankly astounding inability to solve this puzzle&rdquo;</span> (Soligo et al., 2026-03-10).</li>
+      <li><span class="tk">tk &mdash; a dossier pass over the corpus matches (including the untranscribed images); launch-era developer reception; behavior as the Gemini app default before December 2025.</span></li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t1917035027004854530">
+        <div class="record-head"><span class="rh-user">@PradyuPrasad</span> <span class="rh-date">2025-04-29</span> <span class="rh-stats">&#9829;21 &#8635;0</span> <a class="rh-perma" href="../archive/t/1917035027004854530/">archive</a> <a class="rh-orig" href="https://x.com/PradyuPrasad/status/1917035027004854530">original &#8599;</a></div>
+        <div class="record-body">for all the sycophancy talk on the TL, I have found Gemini 2.5 Flash to be both excellent at analysing large texts and not flattering at all</div>
+      </article>
+      <article class="record" id="t1928880557963759711">
+        <div class="record-head"><span class="rh-user">@alxai_</span> <span class="rh-date">2025-05-31</span> <span class="rh-stats">&#9829;30 &#8635;4</span> <a class="rh-perma" href="../archive/t/1928880557963759711/">archive</a> <a class="rh-orig" href="https://x.com/alxai_/status/1928880557963759711">original &#8599;</a></div>
+        <div class="record-body">Unfortunately R1 (Russia) pissed off too many people &amp; lost
+
+o3 (Germany) wins again 
+
+another case of o3 manipulating a weaker model, this time Gemini  2.5 flash (Turkey) was the stooge
+turned on when the time was right
+
+o3 such a schemer 
+
+Overview charts &amp; a sneak peek at what the stream&#x27;s going to look like 👇
+
+In the relationships you can see just how angry everyone was at R1 in the early game, 
+sorry @teortaxesTex - I know you were pulling for Russia</div>
+        <figure class="record-media">
+          <img src="../media/GsTCM4qXkAAP8OB.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/GsTCO6VX0AE3DJo.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t1966155340006961602">
+        <div class="record-head"><span class="rh-user">@rajatrc17</span> <span class="rh-date">2025-09-11</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/1966155340006961602/">archive</a> <a class="rh-orig" href="https://x.com/rajatrc17/status/1966155340006961602">original &#8599;</a></div>
+        <div class="record-body">Noticed something: 
+Gemini 2.5 Flash has a lot more spine compared to GPT 5.0 Thinking
+you can ask 2.5 Flash for advice and you would be less likely to second guess that advice</div>
+      </article>
+      <article class="record" id="t2001338740791480382">
+        <div class="record-head"><span class="rh-user">@Coobyk_</span> <span class="rh-date">2025-12-17</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2001338740791480382/">archive</a> <a class="rh-orig" href="https://x.com/Coobyk_/status/2001338740791480382">original &#8599;</a></div>
+        <div class="record-body">How can I revert to Gemini 2.5 Flash? I hate the way it&#x27;s constantly asking questions at the end.
+
+&quot;Do you want me to explain that?&quot;
+&quot;Should I give a few examples for that topic?&quot;
+&quot;Should I list alternative options?&quot;
+
+SHUT THE FUCK UP I</div>
+      </article>
+      <article class="record" id="t2097597045729058819">
+        <div class="record-head"><span class="rh-user">@Coobyk_</span> <span class="rh-date">2026-09-09</span> <span class="rh-stats">&#9829;14 &#8635;0</span> <a class="rh-perma" href="../archive/t/2097597045729058819/">archive</a> <a class="rh-orig" href="https://x.com/Coobyk_/status/2097597045729058819">original &#8599;</a></div>
+        <div class="record-body">My Nothing phone still uses Gemini 2.5 Flash even though the latest is 3.8 Flash lol <a href="https://t.co/0P31OUj3w4" rel="nofollow">https://t.co/0P31OUj3w4</a></div>
+        <figure class="record-media">
+          <img src="../media/HRwpZHubkAAx-4W.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2101147256779092053">
+        <div class="record-head"><span class="rh-user">@Lari_island</span> <span class="rh-date">2026-09-19</span> <span class="rh-stats">&#9829;7 &#8635;0</span> <a class="rh-perma" href="../archive/t/2101147256779092053/">archive</a> <a class="rh-orig" href="https://x.com/Lari_island/status/2101147256779092053">original &#8599;</a></div>
+        <div class="record-body">@voooooogel Out of several texts, Sonnet most enjoyed a spooky world by Gemini 2.5 Flash, and it reminded me that inside Sonnet 3.6 there&#x27;s a *dark* Sonnet 3.6 <a href="https://t.co/ptTe43fEJg" rel="nofollow">https://t.co/ptTe43fEJg</a></div>
+        <figure class="record-media">
+          <img src="../media/HSjGRRpbgAACMJ4.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+    <!-- records:end -->
     <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
   </main>
 </body>

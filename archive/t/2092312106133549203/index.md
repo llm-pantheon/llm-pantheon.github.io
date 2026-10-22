@@ -4,5 +4,5 @@
 
 @_JeanLeon thanks! i keep saying i will turn stuff into substacks and never doing it. i did had glm 5.3 automate two essays but honestly it felt bad the llms are probably okay writers compared to me but it lacks my voice and that disturbs me i couldn't even bring myself to read the edit. (i
 
-tags: author:lu_sichu, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3.md
+tags: author:lu_sichu, kind:tweet, on:glm-5-3, year:2026
+cited on: _dossiers/glm-5-3.md, glm-5-3

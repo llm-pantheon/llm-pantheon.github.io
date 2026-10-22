@@ -4,5 +4,5 @@
 
 @xlab_os Struggling to understand… theres no way i just ran GLM-5.2 on my iPhone, right?
 
-tags: author:codyhxyz, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:codyhxyz, kind:tweet, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

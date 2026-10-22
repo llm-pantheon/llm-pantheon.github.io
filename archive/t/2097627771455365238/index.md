@@ -22,6 +22,6 @@ if you have a 5090 and 64 GB of RAM, this is the smartest thing you can run at h
 
 which model do you want on the offload bench next?
 
-(image HRxFVsgbIAAWjdu.jpg not yet published)
-tags: author:witcheer, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/qwen-3-8-flash-next.md
+![photo](../../../media/HRxFVsgbIAAWjdu.jpg)
+tags: author:witcheer, has-image, kind:image, kind:tweet, on:qwen-3-8-flash-next, year:2026
+cited on: _dossiers/qwen-3-8-flash-next.md, qwen-3-8-flash-next

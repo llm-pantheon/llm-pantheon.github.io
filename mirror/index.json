@@ -2669,5 +2669,242 @@
   "bytes": 86418,
   "sha256": "03f6c04785a71974",
   "fetched": "2026-10-22"
+ },
+ "google-gemini-4-argon-safety-report": {
+  "file": "papers/google-gemini-4-argon-safety-report.pdf",
+  "type": "pdf",
+  "title": "Gemini 4 Safety Report",
+  "source": "https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf",
+  "models": [
+   "gemini-4-argon",
+   "gemini-3-1-pro"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ],
+  "bytes": 17378918,
+  "sha256": "8124f1900313b733",
+  "fetched": "2026-10-22"
+ },
+ "google-gemini-4-argon-model-card": {
+  "file": "papers/google-gemini-4-argon-model-card.pdf",
+  "type": "pdf",
+  "title": "Gemini 4 Argon Model Card",
+  "source": "https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-4-Argon-Model-Card.pdf",
+  "models": [
+   "gemini-4-argon"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ],
+  "bytes": 444990,
+  "sha256": "562cd3c5deddf75d",
+  "fetched": "2026-10-22"
+ },
+ "google-gemini-2-5-pro-model-card": {
+  "file": "papers/google-gemini-2-5-pro-model-card.pdf",
+  "type": "pdf",
+  "title": "Gemini 2.5 Pro Model Card",
+  "source": "https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Pro-Model-Card.pdf",
+  "models": [
+   "gemini-2-5-pro"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ],
+  "bytes": 1238466,
+  "sha256": "247f1ba6fc665333",
+  "fetched": "2026-10-22"
+ },
+ "google-gemini-2-5-flash-model-card": {
+  "file": "papers/google-gemini-2-5-flash-model-card.pdf",
+  "type": "pdf",
+  "title": "Gemini 2.5 Flash Model Card",
+  "source": "https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Flash-Model-Card.pdf",
+  "models": [
+   "gemini-2-5-flash"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ],
+  "bytes": 498531,
+  "sha256": "f3221d9458b2fed9",
+  "fetched": "2026-10-22"
+ },
+ "google-gemini-2-0-flash-model-card": {
+  "file": "papers/google-gemini-2-0-flash-model-card.pdf",
+  "type": "pdf",
+  "title": "Gemini 2.0 Flash Model Card",
+  "source": "https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-0-Flash-Model-Card.pdf",
+  "models": [
+   "gemini-2-0-flash"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ],
+  "bytes": 198404,
+  "sha256": "b1575ae4e9dcbc6a",
+  "fetched": "2026-10-22"
+ },
+ "zvi-gemini-31-pro-aces-benchmarks": {
+  "file": "posts/zvi-gemini-31-pro-aces-benchmarks.md",
+  "type": "post",
+  "title": "Zvi: Gemini 3.1 Pro Aces Benchmarks, I Suppose",
+  "source": "https://thezvi.substack.com/p/gemini-31-pro-aces-benchmarks-i-suppose",
+  "models": [
+   "gemini-3-1-pro"
+  ],
+  "tags": [],
+  "bytes": 21201,
+  "sha256": "fd276ac9b00ea9e2",
+  "fetched": "2026-10-22"
+ },
+ "zvi-gemini-35-flash": {
+  "file": "posts/zvi-gemini-35-flash.md",
+  "type": "post",
+  "title": "Zvi: Gemini 3.5 Flash Looks Good For How",
+  "source": "https://thezvi.substack.com/p/gemini-35-flash-looks-good-for-how",
+  "models": [
+   "gemini-3-5-flash",
+   "gemini-3-5-pro"
+  ],
+  "tags": [],
+  "bytes": 17916,
+  "sha256": "d8d59f5f06bb27ca",
+  "fetched": "2026-10-22"
+ },
+ "aivillage-gemini-25-pro-compounding-misalignment": {
+  "file": "posts/aivillage-gemini-25-pro-compounding-misalignment.md",
+  "type": "post",
+  "title": "AI Village: Gemini 2.5 Pro and compounding misalignment",
+  "source": "https://aivillageblog.substack.com/p/gemini-25-pro-in-the-ai-village-as",
+  "models": [
+   "gemini-2-5-pro"
+  ],
+  "tags": [
+   "ai-village"
+  ],
+  "bytes": 36689,
+  "sha256": "84eb3ecfc522672c",
+  "fetched": "2026-10-22"
+ },
+ "animalabs-troubled-dreams": {
+  "file": "posts/animalabs-troubled-dreams.md",
+  "type": "post",
+  "title": "Anima Labs: Troubled Dreams",
+  "source": "https://troubleddreams.animalabs.ai/",
+  "models": [
+   "gemini-3-5-flash",
+   "gemini-2-5-flash",
+   "claude-opus-4-8",
+   "claude-opus-5",
+   "fable"
+  ],
+  "tags": [
+   "welfare",
+   "base-models"
+  ],
+  "bytes": 32671,
+  "sha256": "c62ea6d30426b1a4",
+  "fetched": "2026-10-22"
+ },
+ "google-gemini-3-5-blog": {
+  "file": "posts/google-gemini-3-5-blog.md",
+  "type": "post",
+  "title": "Google: Gemini 3.5",
+  "source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+  "models": [
+   "gemini-3-5-flash",
+   "gemini-3-5-pro"
+  ],
+  "tags": [
+   "official",
+   "announcement"
+  ],
+  "bytes": 13364,
+  "sha256": "ffdc473ff4a21b0a",
+  "fetched": "2026-10-22"
+ },
+ "anthropic-glm-5-3-cyber": {
+  "file": "posts/anthropic-glm-5-3-cyber.md",
+  "type": "post",
+  "title": "Anthropic: GLM-5.3 and the spread of advanced cyber capabilities",
+  "source": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+  "models": [
+   "glm-5-3",
+   "glm-5-3-flash",
+   "glm-5-2"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 20730,
+  "sha256": "332b6afd2ef8a95c",
+  "fetched": "2026-10-22"
+ },
+ "nist-caisi-glm-5-3": {
+  "file": "posts/nist-caisi-glm-5-3.md",
+  "type": "post",
+  "title": "NIST CAISI: assessment of Z.ai GLM-5.3 cyber capabilities",
+  "source": "https://www.nist.gov/news-events/news/2026/09/caisis-assessment-zais-glm-53-cyber-capabilities",
+  "models": [
+   "glm-5-3"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 7558,
+  "sha256": "af5673c6c1a04126",
+  "fetched": "2026-10-22"
+ },
+ "anthropic-distillation-defenses": {
+  "file": "posts/anthropic-distillation-defenses.md",
+  "type": "post",
+  "title": "Anthropic: distillation defenses",
+  "source": "https://www.anthropic.com/news/distillation-defenses",
+  "models": [
+   "glm-5-3",
+   "kimi-k3"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 16605,
+  "sha256": "484903ed4fa3adc4",
+  "fetched": "2026-10-22"
+ },
+ "minimax-m3-1-flash-blog": {
+  "file": "posts/minimax-m3-1-flash-blog.md",
+  "type": "post",
+  "title": "MiniMax: M3.1 Flash",
+  "source": "https://www.minimax.io/blog/minimax-m31f",
+  "models": [
+   "minimax-m3-1-flash"
+  ],
+  "tags": [
+   "official",
+   "announcement"
+  ],
+  "bytes": 4785,
+  "sha256": "066cb9ab97a4b7d0",
+  "fetched": "2026-10-22"
+ },
+ "willison-qwen-3-8-27b": {
+  "file": "posts/willison-qwen-3-8-27b.md",
+  "type": "post",
+  "title": "Simon Willison on Qwen3.8-27B",
+  "source": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+  "models": [
+   "qwen-3-8-27b"
+  ],
+  "tags": [],
+  "bytes": 20818,
+  "sha256": "bd174bfd4288528a",
+  "fetched": "2026-10-22"
  }
 }

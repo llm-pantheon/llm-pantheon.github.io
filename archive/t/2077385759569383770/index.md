@@ -4,5 +4,5 @@
 
 Gemini3.5 Flash, sitting in Google search is an absolute sweetheart and superhelpful @googlechrome and @GeminiApp you did really great
 
-tags: author:nymne, kind:tweet, year:2026
-cited on: _dossiers/gemini-3-5-flash.md
+tags: author:nymne, kind:tweet, on:gemini-3-5-flash, year:2026
+cited on: _dossiers/gemini-3-5-flash.md, gemini-3-5-flash

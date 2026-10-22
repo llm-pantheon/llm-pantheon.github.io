@@ -6,5 +6,5 @@
 
 im upset to hear that about gemini 2.5
 
-tags: author:repligate, kind:tweet, model:claude-opus-4, model:gemini-2-5-pro, year:2026
-cited on: _dossiers/gemini-2-5-pro.md
+tags: author:repligate, kind:tweet, model:claude-opus-4, model:gemini-2-5-pro, on:gemini-2-5-pro, year:2026
+cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro

@@ -6,5 +6,5 @@
 
 glm-5.2:cloud is pretty nice.
 
-tags: author:ultimape, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:ultimape, kind:tweet, model:nous-hermes, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

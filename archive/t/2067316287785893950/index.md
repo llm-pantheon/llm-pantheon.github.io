@@ -10,5 +10,5 @@ first, credit:
 
 GLM-5.2 uses MLA (compressed-latent KV) + DeepSeek sparse attention. that makes its KV cache about 57x https://t.co/as449iiZXx
 
-tags: author:witcheer, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:witcheer, kind:tweet, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

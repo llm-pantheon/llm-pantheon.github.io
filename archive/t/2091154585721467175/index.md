@@ -4,5 +4,5 @@
 
 There's a non zero chance Ox Alpha is both gemini and a benchmaxxed GLM 5.2 finetune
 
-tags: author:csgbwk, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md, _dossiers/glm-5-3-flash.md
+tags: author:csgbwk, kind:tweet, on:glm-5-2, on:glm-5-3-flash, year:2026
+cited on: _dossiers/glm-5-2.md, _dossiers/glm-5-3-flash.md, glm-5-2, glm-5-3-flash

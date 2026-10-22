@@ -1,9 +1,11 @@
 # MiniMax M2
 
     
-MiniMax · Oct 2025
+MiniMax · released 27 Oct 2025 · followed by M2.1 (Dec 2025) and [M2.5](../minimax-m2-5/) (Feb 2026)
     
-The open agentic-coding hit of late 2025 — top open model on agentic evals at a tenth of frontier price.
+Released on 27 October 2025 as an open-weight mixture-of-experts model (230B total, 10B active) built around interleaved thinking; followed by M2.1 in December 2025 and M2.5 in February 2026.
+    
+Thin page: release record only so far; reception and corpus passes pending.
 
     
 ## Sources
@@ -12,7 +14,10 @@ The open agentic-coding hit of late 2025 — top open model on agentic evals at 
 ### Official
 
     
-tk — to collect
+
+      
+- 2025-10 [MiniMaxAI/MiniMax-M2 model card](https://huggingface.co/MiniMaxAI/MiniMax-M2) — 230B total / 10B active; interleaved-thinking usage note.
+    
     
 ### Writing & commentary
 

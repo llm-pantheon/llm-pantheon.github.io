@@ -6,6 +6,6 @@
 
 And for reference, GLM-5.2 was $32 https://t.co/zVmnGdWmiM
 
-(image HK-9b_-XEAAyclN.jpg not yet published)
-tags: author:maxbittker, has-image, kind:image, kind:tweet, model:fable, model:gpt-5-5, year:2026
-cited on: _dossiers/glm-5-2.md
+![photo](../../../media/HK-9b_-XEAAyclN.jpg)
+tags: author:maxbittker, has-image, kind:image, kind:tweet, model:fable, model:gpt-5-5, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

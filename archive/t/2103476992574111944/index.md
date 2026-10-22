@@ -10,5 +10,5 @@ Animation through Wan 2.2 I2V A14B or drawn by Claude Opus 5.5
 
 I used a prompt adapted from this @donaldjewkes: https://t.co/Z8PmWhkjGA
 
-tags: author:lithros, kind:tweet, year:2026
-cited on: _dossiers/qwen-3-8-27b.md
+tags: author:lithros, kind:tweet, on:qwen-3-8-27b, year:2026
+cited on: _dossiers/qwen-3-8-27b.md, qwen-3-8-27b

@@ -4,5 +4,5 @@
 
 ox alpha is 100% second order distilled from a claude. good god man
 
-tags: author:daniellefong, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3-flash.md
+tags: author:daniellefong, kind:tweet, on:glm-5-3-flash, year:2026
+cited on: _dossiers/glm-5-3-flash.md, glm-5-3-flash

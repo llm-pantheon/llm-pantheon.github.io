@@ -6,6 +6,6 @@ Not definitive, since distillation exists, but on speechmap word frequency it lo
 
 i don't have a problem with releasing a compressed version of a model, but the presentation seems extremely dishonest. https://t.co/QsGMzQEfEK
 
-(image HRO6hVraAAAURSZ.png not yet published)
-tags: author:xlr8harder, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md
+![photo](../../../media/HRO6hVraAAAURSZ.png)
+tags: author:xlr8harder, has-image, kind:image, kind:tweet, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

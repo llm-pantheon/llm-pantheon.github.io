@@ -8,5 +8,5 @@ Qwen3.8:27b and gpt-oss:20b are both good models you can fit in under 16GB of RA
 
 Some benchmarks I ran recently, summarised: https://t.co/r80CuXPbkT
 
-tags: author:foldingnapkins, kind:tweet, year:2026
-cited on: _dossiers/qwen-3-8-27b.md
+tags: author:foldingnapkins, kind:tweet, on:qwen-3-8-27b, year:2026
+cited on: _dossiers/qwen-3-8-27b.md, qwen-3-8-27b

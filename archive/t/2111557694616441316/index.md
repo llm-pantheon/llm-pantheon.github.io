@@ -4,5 +4,5 @@
 
 i take back all my opus 5.5 complaints. even my astra complaints. im using glm 5.3 for a bit again and it makes some truly dumb mistakes neither of the other agents would do
 
-tags: author:aliceisplaying, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3.md
+tags: author:aliceisplaying, kind:tweet, on:glm-5-3, year:2026
+cited on: _dossiers/glm-5-3.md, glm-5-3

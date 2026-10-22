@@ -4,5 +4,5 @@
 
 @liminal_bardo *GLM-5.2
 
-tags: author:qiaochuyuan, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md, _dossiers/glm-5-3-flash.md
+tags: author:qiaochuyuan, kind:tweet, on:glm-5-2, on:glm-5-3-flash, year:2026
+cited on: _dossiers/glm-5-2.md, _dossiers/glm-5-3-flash.md, glm-5-2, glm-5-3-flash

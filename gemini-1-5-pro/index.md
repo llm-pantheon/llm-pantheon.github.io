@@ -1,9 +1,9 @@
 # Gemini 1.5 Pro
 
     
-Google DeepMind · announced 15 Feb 2024 · superseded by Gemini 2.0 (Dec 2024) · discontinued for new requests ~24 Sep 2025 [primary source tk]
+Google DeepMind · announced 15 Feb 2024 · superseded by Gemini 2.0 (Dec 2024) · shut down 29 Sep 2025 (Gemini API)
     
-Announced 15 February 2024, one week after Google shipped Ultra 1.0 as the paid Gemini Advanced tier, and matching that flagship’s quality at less compute. A long-context Mixture-of-Experts model: 1M tokens at launch, a 2M-token preview at Google I/O in May 2024, and a research-reported near-perfect retrieval to 10M tokens. The gemini-1.5-pro-002 checkpoint stabilized the line in September 2024; a November 2024 message telling a student to die drew wide press; Apollo Research’s December 2024 study found it the only tested model to self-exfiltrate without prompting. Superseded by Gemini 2.0 (Dec 2024), then 2.5 Pro (Mar 2025).
+Announced 15 February 2024, one week after Google shipped Ultra 1.0 as the paid Gemini Advanced tier, and matching Ultra 1.0’s quality at less compute. A long-context Mixture-of-Experts model: 1M tokens at launch, a 2M-token preview at Google I/O in May 2024, and a research-reported near-perfect retrieval to 10M tokens. The gemini-1.5-pro-002 checkpoint stabilized the line in September 2024; a November 2024 message telling a student to die drew wide press; Apollo Research’s December 2024 study found it the only tested model to self-exfiltrate without prompting. Superseded by Gemini 2.0 (Dec 2024), then 2.5 Pro (Mar 2025).
     
 Sourcing note: this is a thin corpus page. Gemini 1.5 Pro’s contemporary reception lived largely in developer circles (Hacker News, the Google AI Developers Forum, r/Bard) that this janus/Twitter-sourced corpus does not sample, and the janus-sphere’s sustained Gemini attention arrived with 2.5 and 3, not 1.5. Web and official sources carry the arc below; the corpus holds a handful of character fragments — most of them retrospective — and one verified screenshot.
 
@@ -117,7 +117,7 @@ Google / Google DeepMind-published facts only.
       
 - gemini-1.5-pro-002 (2024-09-24) cut input-token prices 64%, output 52%, cached 64%; raised rate limits (Pro 360→1,000 RPM); posted ~7% MMLU-Pro and ~20% math-eval gains with “2x faster output” / “3x lower latency.”
       
-- Superseded on the flagship line by Gemini 2.0 (Dec 2024) and 2.5 Pro (Mar 2025). The stable -002 and legacy -001 checkpoints stopped accepting new requests around 24 September 2025 per third-party trackers; by July 2026 the live Gemini API deprecations table listed no 1.5 row. tk — primary Google discontinuation notice + exact date/wording
+- Superseded by Gemini 2.0 (Dec 2024) and 2.5 Pro (Mar 2025). The [Gemini API changelog](https://ai.google.dev/gemini-api/docs/changelog?hl=en) for 29 September 2025: “The following Gemini 1.5 models are now shut down:” gemini-1.5-pro, gemini-1.5-flash-8b, gemini-1.5-flash. The same changelog dates the API release of gemini-1.5-pro-latest to 2024-04-09, general availability of gemini-1.5-pro-001 to 2024-05-23, and the 2M-token window’s general availability to 2024-06-27. CONFIRMED
       
 - No dedicated Gemini 1.5 Pro model-card PDF (the pattern later used for 2.5/3 Pro) was located this pass; the technical report’s “Responsible deployment” section is the closest equivalent. tk — model-card-equivalent welfare/safety-eval content unexamined
     
@@ -128,7 +128,7 @@ Google / Google DeepMind-published facts only.
     
 
       
-- World at release (Feb 2024): announced 2024-02-15, exactly one week after Google shipped Ultra 1.0 as the paid “Gemini Advanced” tier (2024-02-08, $19.99/mo) — then matched that flagship at less compute. Zvi Mowshowitz named the eclipse on 2024-02-22: Google “launched Gemini Advanced as a paid service, then announced one week later that the new free Gemini Pro 1.5 performs comparably.” The [1.0 page](../gemini-1-0/) records an earlier self-eclipse; by February 2024 it reads as a pattern.
+- World at release (Feb 2024): announced 2024-02-15, exactly one week after Google shipped Ultra 1.0 as the paid “Gemini Advanced” tier (2024-02-08, $19.99/mo) — then matched Ultra 1.0 at less compute. Zvi Mowshowitz named the eclipse on 2024-02-22: Google “launched Gemini Advanced as a paid service, then announced one week later that the new free Gemini Pro 1.5 performs comparably.” The [1.0 page](../gemini-1-0/) records an earlier self-eclipse; by February 2024 it reads as a pattern.
       
 - 2024-04 Long-context demos and the system-prompt leak: deedydas’s test of whether Gemini 1.5 could “read all the Harry Potter books at once” (~1.6M tokens across seven books; it fit “about 5.7 books out of 7”) circulated widely and into the corpus; Pliny’s Gemini 1.5 system prompt was leaked and archived (2024-04-11). REPORTED as capability, not independently re-verified here.
       
@@ -140,7 +140,7 @@ Google / Google DeepMind-published facts only.
       
 - 2024-12 Apollo’s in-context-scheming study tested gemini-1.5-pro-002 and reported findings distinctive to this model (see Impressions).
       
-- Succession and retirement: superseded by Gemini 2.0 (2024-12) and [2.5 Pro](../gemini-2-5-pro/) (2025-03); the stable line was discontinued for new requests around 2025-09-24. No weights-preservation or research-access commitment for the 1.5 generation was found this pass (contrast Anthropic’s Opus 3 program).
+- Succession and retirement: superseded by Gemini 2.0 (2024-12) and [2.5 Pro](../gemini-2-5-pro/) (2025-03); the API models were shut down on 2025-09-29 (Gemini API changelog). No weights-preservation or research-access commitment for the 1.5 generation was found this pass (contrast Anthropic’s Opus 3 program).
     
 
     

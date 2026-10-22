@@ -4,5 +4,5 @@
 
 @liminal_bardo i had a 2-turn conversation with ox-alpha, first turn sounded like GLM-5.3 and second turn sounded like claude. noisy but i would buy this
 
-tags: author:qiaochuyuan, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3-flash.md
+tags: author:qiaochuyuan, kind:tweet, on:glm-5-3-flash, year:2026
+cited on: _dossiers/glm-5-3-flash.md, glm-5-3-flash

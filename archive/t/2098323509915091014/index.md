@@ -18,6 +18,6 @@ the price: tokens per correct answer go 3,972 → 5,636 → 7,740 on Qwen, 3,248
 
 so "27B blows the budget on reasoning" is true and it is not the model. a 79% model with max_tokens at 8k is a 70% model on exactly the questions you wanted reasoning for.
 
-(image HR6-GqHakAAHK2i.jpg not yet published)
-tags: author:witcheer, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/qwen-3-8-27b.md
+![photo](../../../media/HR6-GqHakAAHK2i.jpg)
+tags: author:witcheer, has-image, kind:image, kind:tweet, on:qwen-3-8-27b, year:2026
+cited on: _dossiers/qwen-3-8-27b.md, qwen-3-8-27b

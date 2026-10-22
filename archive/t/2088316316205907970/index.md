@@ -14,6 +14,6 @@ first numbers, Q4_K_M via Unsloth's day-0 GGUF, llama-bench:
 
 quality board runs tonight, full quant ladder after.
 
-(image HPswnijXQAEgArm.jpg not yet published)
-tags: author:witcheer, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/qwen-3-8-27b.md
+![photo](../../../media/HPswnijXQAEgArm.jpg)
+tags: author:witcheer, has-image, kind:image, kind:tweet, on:qwen-3-8-27b, year:2026
+cited on: _dossiers/qwen-3-8-27b.md, qwen-3-8-27b

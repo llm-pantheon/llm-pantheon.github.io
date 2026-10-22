@@ -111,3 +111,14 @@ Working note: Gemini 2.5 Pro's mass community lives almost entirely *outside* th
 - **Weights/research-access on deprecation** — no known Google commitment to preserve or grant research access to `gemini-2.5-pro` at the 2026-10-16 shutdown (contrast Anthropic's Opus 3 program). Any official statement? [tk]
 - **The "Google is back" phrasing** — well-attested as sentiment (Zvi, RD World, dev circles) but I did not capture a single canonical headline using the exact phrase; grab one if the page wants the quote. [verify]
 - **Vending-Bench 2 solo score** — I have the Arena result (paid $150 for a supplier email; Gemini 3 Pro won) but not 2.5 Pro's standalone Vending-Bench 2 bank-balance number. Pull from andonlabs.com. [tk]
+
+## 2026-10 update (news wave, compiled 2026-10-22)
+
+- 2026-09-18 · Gemini API changelog, "Gemini 2.5 models access update": "These models are not deprecated and will continue to be served until further notice through the API." Access limited to past users — https://ai.google.dev/gemini-api/docs/changelog?hl=en
+- 2026-10-20 (table updated) · deprecations: `gemini-2.5-pro` "No shutdown date announced" — https://ai.google.dev/gemini-api/docs/deprecations?hl=en
+- 2026-10-21 (page updated) · Vertex AI model versions: `gemini-2.5-pro` retirement date October 20, 2026; replacement gemini-3.8-flash or gemini-3.5-flash — https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions
+- 2025-06-27 · Gemini 2.5 Pro Model Card (resolves the earlier tk) — https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Pro-Model-Card.pdf
+- 2026-03-10 · Soligo et al., "Gemma Needs Help" (LessWrong; mirrored) — Gemini 2.5 Pro repeated-rejection exhibit — https://www.lesswrong.com/posts/kjnQj6YujgeMN9Erq/gemma-needs-help
+- 2026-08-20 · Fischl-Lanzoni, Irgolič, Africa & Stein, "Gemini 2.5 Pro in the AI Village as a Natural Case Study of Compounding Misalignment" (AI Village blog guest post; no canary) — https://aivillageblog.substack.com/p/gemini-25-pro-in-the-ai-village-as
+- New corpus tweets cited on the page: 2076991310616244597 (repligate, 2026-07-14), 2090377585473487172 (DavidDAfrica, 2026-08-20), 2106465603213303956 (davidad, 2026-10-03), 2107597524018340136 (hargup13, 2026-10-06).
+- Further records candidates (post-July, not cited): https://x.com/qorprate/status/2080684031079862523 (2026-07-24, framed plotter self-depictions incl. Gemini 2.5 Pro); https://x.com/clbswrs/status/2087239526850670806 (2026-08-11, "the initial Gemini 2.5 Pro release had unredacted CoT"); https://x.com/repligate/status/2107101155134427477 (2026-10-05, "im upset to hear that about gemini 2.5" — context outside corpus).

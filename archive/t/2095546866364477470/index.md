@@ -6,5 +6,5 @@
 
 The Singularity is canceled, everyone pack up and go home.
 
-tags: author:christophcsmith, kind:tweet, model:gpt-3-5, year:2026
-cited on: _dossiers/glm-5-3-flash.md
+tags: author:christophcsmith, kind:tweet, model:gpt-3-5, on:glm-5-3-flash, year:2026
+cited on: _dossiers/glm-5-3-flash.md, glm-5-3-flash

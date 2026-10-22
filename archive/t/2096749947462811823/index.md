@@ -20,8 +20,8 @@ For a model that reliably completes more complicated tasks slowly, a quantized q
 More detailed report: https://t.co/9F3aXdZR1Y
 Repo with results and code: https://t.co/llFCg1HgrU
 
-(image HRkmiq0WEAEtNZ3.png not yet published)
-(image HRkmp3MaQAA5ZMv.png not yet published)
-(image HRkmxgXbYAAI28p.png not yet published)
-tags: author:foldingnapkins, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/qwen-3-8-27b.md
+![photo](../../../media/HRkmiq0WEAEtNZ3.png)
+![photo](../../../media/HRkmp3MaQAA5ZMv.png)
+![photo](../../../media/HRkmxgXbYAAI28p.png)
+tags: author:foldingnapkins, has-image, kind:image, kind:tweet, on:qwen-3-8-27b, year:2026
+cited on: _dossiers/qwen-3-8-27b.md, qwen-3-8-27b

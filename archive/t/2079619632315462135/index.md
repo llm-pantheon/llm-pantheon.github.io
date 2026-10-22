@@ -4,5 +4,5 @@
 
 @JackWoth98 idk if i'm using it wrong, but when i used it with high reasoning, the quality of the output really isn't that good. i had the same with gemini 3.5 flash. i don't wanna hate on it, because i genuinely like gemini's models for chat use, but i feel like it just fails in agy?
 
-tags: author:jglypt, kind:tweet, year:2026
-cited on: _dossiers/gemini-3-5-flash.md
+tags: author:jglypt, kind:tweet, on:gemini-3-5-flash, year:2026
+cited on: _dossiers/gemini-3-5-flash.md, gemini-3-5-flash

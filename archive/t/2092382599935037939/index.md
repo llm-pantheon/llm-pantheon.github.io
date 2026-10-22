@@ -6,5 +6,5 @@ Will Accelerated Understanding hit with a bang or a fizzle? Is the mysterious ne
 
 Find out next time on AI-Wars Z!
 
-tags: author:foldingnapkins, kind:tweet, model:fable, year:2026
-cited on: _dossiers/glm-5-3-flash.md
+tags: author:foldingnapkins, kind:tweet, model:fable, on:glm-5-3-flash, year:2026
+cited on: _dossiers/glm-5-3-flash.md, glm-5-3-flash

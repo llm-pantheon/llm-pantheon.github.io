@@ -8,6 +8,6 @@ These models were best in class only 2-3 months ago.
 
 Open source frontier is catching up!? https://t.co/uTzklbVGXi
 
-(image HK9oTm4XMAAPOJe.jpg not yet published)
-tags: author:maxbittker, has-image, kind:image, kind:tweet, model:claude-opus-4-7, year:2026
-cited on: _dossiers/glm-5-2.md
+![photo](../../../media/HK9oTm4XMAAPOJe.jpg)
+tags: author:maxbittker, has-image, kind:image, kind:tweet, model:claude-opus-4-7, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

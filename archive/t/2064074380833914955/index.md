@@ -8,6 +8,6 @@ Use sample patterns or upload your own image. Various kinds of black &amp; white
 
 Play it here: https://t.co/rYQJqr8lfp https://t.co/oCBISb00jK
 
-(image HKUHwAIXgAERMGn.png not yet published)
-tags: author:foldingnapkins, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/gemini-3-5-flash.md
+![photo](../../../media/HKUHwAIXgAERMGn.png)
+tags: author:foldingnapkins, has-image, kind:image, kind:tweet, on:gemini-3-5-flash, year:2026
+cited on: _dossiers/gemini-3-5-flash.md, gemini-3-5-flash

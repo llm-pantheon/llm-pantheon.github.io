@@ -4,5 +4,5 @@
 
 @guerre_doctrine 5090 asus rog astral and we got maybe rtx pro 6000 too can, use. i also have 10% normal price glm-5.3-flash from secret supplier
 
-tags: author:geogristle, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3-flash.md
+tags: author:geogristle, kind:tweet, on:glm-5-3-flash, year:2026
+cited on: _dossiers/glm-5-3-flash.md, glm-5-3-flash

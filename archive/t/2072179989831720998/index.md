@@ -10,5 +10,5 @@ Anthropic still has a lead. Theyve just got more compute and a huge head start o
 
 Like glm5.2 is good but lets not get confused on what we're comparing it to.
 
-tags: author:jmbollenbacher, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:jmbollenbacher, kind:tweet, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

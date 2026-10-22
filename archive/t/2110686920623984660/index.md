@@ -6,5 +6,5 @@
 
 were you making biorisk again
 
-tags: author:xlr8harder, kind:tweet, year:2026
-cited on: _dossiers/gemini-4-argon.md
+tags: author:xlr8harder, kind:tweet, on:gemini-4-argon, year:2026
+cited on: _dossiers/gemini-4-argon.md, gemini-4-argon

@@ -6,5 +6,5 @@
 
 open model and rl it on prime intellect and they will be ultravibing, guaranteed.
 
-tags: author:moonl88537, kind:tweet, year:2026
-cited on: _dossiers/glm-5-2.md
+tags: author:moonl88537, kind:tweet, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, glm-5-2

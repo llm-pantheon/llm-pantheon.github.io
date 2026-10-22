@@ -10,5 +10,5 @@ https://t.co/bi94opyen8
 
 (I think it isn't as good, but it is definitely plausible that it found many vulnerabilities in curl)
 
-tags: author:pradyuprasad, kind:tweet, model:mythos, year:2026
-cited on: _dossiers/glm-5-3.md
+tags: author:pradyuprasad, kind:tweet, model:mythos, on:glm-5-3, year:2026
+cited on: _dossiers/glm-5-3.md, glm-5-3

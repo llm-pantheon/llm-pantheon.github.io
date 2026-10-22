@@ -6,6 +6,6 @@ fable is flabbergasted at the speed of gemini 3.5 flash
 
 me too buddy https://t.co/z5ryeCcKfp
 
-(image HMgLO3CW0AAkNaO.jpg not yet published)
-tags: author:__lightyear__, has-image, kind:image, kind:tweet, model:fable, year:2026
-cited on: _dossiers/gemini-3-5-flash.md
+![photo](../../../media/HMgLO3CW0AAkNaO.jpg)
+tags: author:__lightyear__, has-image, kind:image, kind:tweet, model:fable, on:gemini-3-5-flash, year:2026
+cited on: _dossiers/gemini-3-5-flash.md, gemini-3-5-flash

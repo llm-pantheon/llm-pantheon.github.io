@@ -4,5 +4,5 @@
 
 @k7agar how does e.g. glm-5.3-flash or qwen3.8 max do on this
 
-tags: author:geogristle, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3-flash.md, _dossiers/qwen-3-8-max.md
+tags: author:geogristle, kind:tweet, on:glm-5-3-flash, on:qwen-3-8-max, year:2026
+cited on: _dossiers/glm-5-3-flash.md, _dossiers/qwen-3-8-max.md, glm-5-3-flash, qwen-3-8-max

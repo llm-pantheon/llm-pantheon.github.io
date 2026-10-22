@@ -7,11 +7,11 @@
   <link rel="stylesheet" href="../style.css">
 
   <!-- chrome:meta -->
-  <meta name="description" content="1M-token context, native multimodality, computer use — the first open-weight model with all three. Weights on HF 7 June; training code withheld.">
+  <meta name="description" content="Released through MiniMax’s API on 1 June 2026 with a 1M-token context, native multimodal input and computer use; the weights followed on Hugging Face on 12 June under a community license, without training code. A June …">
   <meta property="og:site_name" content="Pantheon">
   <meta property="og:type" content="article">
   <meta property="og:title" content="MiniMax M3 — Pantheon">
-  <meta property="og:description" content="1M-token context, native multimodality, computer use — the first open-weight model with all three. Weights on HF 7 June; training code withheld.">
+  <meta property="og:description" content="Released through MiniMax’s API on 1 June 2026 with a 1M-token context, native multimodal input and computer use; the weights followed on Hugging Face on 12 June under a community license, without training code. A June …">
   <meta property="og:url" content="https://llm-pantheon.org/minimax-m3/">
   <meta property="og:image" content="https://llm-pantheon.org/media/og/minimax-m3.png">
   <meta property="og:image:width" content="1200">
@@ -31,27 +31,48 @@
     </nav>
 
     <h1>MiniMax M3</h1>
-    <p class="essay-meta">MiniMax &middot; Jun 2026</p>
-    <p class="blurb">1M-token context, native multimodality, computer use &mdash; the first open-weight model with all three. Weights on HF 7 June; training code withheld.</p>
+    <p class="essay-meta">MiniMax &middot; released 1 Jun 2026 (API) &middot; open weights 12 Jun 2026 &middot; succeeded by <a href="../minimax-m3-1-flash/">MiniMax M3.1 Flash</a> (19 Oct 2026)</p>
+    <p class="blurb">Released through MiniMax&rsquo;s API on 1 June 2026 with a 1M-token context, native multimodal input and computer use; the weights followed on Hugging Face on 12 June under a community license, without training code. A June r/LocalLLaMA post reported it answering political questions that other MiniMax models refuse. Succeeded in October by M3.1 Flash.</p>
+    <p class="note">Thin page: official record and launch reception from primaries; the corpus holds almost nothing on M3, and most discussion is on r/LocalLLaMA and Chinese platforms.</p>
 
     <h2>Sources</h2>
     <h3>Official</h3>
     <ul>
-      <li><span class="d">2026-06-01</span> <a href="https://www.minimax.io/blog/minimax-m3">MiniMax M3</a> &mdash; announcement.</li>
+      <li><span class="d">2026-06-01</span> MiniMax, <a href="https://www.minimax.io/blog/minimax-m3">MiniMax M3: Frontier Coding, 1M Context, Native Multimodality &mdash; All in One Model</a> &mdash; launch post: capability claims, long-run agent examples, pricing, weights &ldquo;over the next 10 days&rdquo;.</li>
+      <li><span class="d">2026-06-12</span> <a href="https://huggingface.co/MiniMaxAI/MiniMax-M3">MiniMaxAI/MiniMax-M3 model card</a> &mdash; ~428B / ~23B-active; <code>minimax-community</code> license; thinking modes. Technical report: arXiv <a href="https://arxiv.org/abs/2606.13392">2606.13392</a> (MiniMax Sparse Attention, v1 11 June 2026).</li>
     </ul>
     <h3>Writing &amp; commentary</h3>
-    <p class="tk">tk &mdash; to collect</p>
+    <ul>
+      <li><span class="d">2026-06-01</span> The Decoder, <a href="https://the-decoder.com/minimax-m3-open-weight-model-with-a-million-token-context-challenges-proprietary-leaders/">MiniMax M3 open-weight model with a million-token context challenges proprietary leaders</a>.</li>
+      <li><span class="d">2026-06</span> OpenSourceForU, <a href="https://www.opensourceforu.com/2026/06/minimax-challenges-ai-rivals-with-m3-but-stops-short-of-full-open-source-commitment/">MiniMax Challenges AI Rivals With M3 But Stops Short Of Full Open Source Commitment</a>.</li>
+      <li><span class="d">2026-06-01 &rarr; 02</span> r/LocalLLaMA (via the Arctic Shift archive): <a href="https://www.reddit.com/r/LocalLLaMA/comments/1ttdiq0/minimax_m3_coding_agentic_frontier_1m_context/">launch thread</a> (203 comments); <a href="https://www.reddit.com/r/LocalLLaMA/comments/1tuv1sv/minimax_m3_appears_to_have_no_political_censorship/">&ldquo;Minimax M3 appears to have no political censorship&rdquo;</a> (2026-06-02, 182 comments).</li>
+      <li><span class="d">2026-09-10</span> Anthropic, <a href="https://www.anthropic.com/threat-intelligence-report-september-2026">Countering misuse of AI: September 2026</a> &mdash; alleges a MiniMax shell-company proxy service used to harvest exchanges with US models (no model named).</li>
+    </ul>
     <h3>Tweets</h3>
-    <p class="tk">tk &mdash; fleet pass pending; mirror to archive</p>
+    <p class="tk">tk &mdash; the tweet corpus has almost no M3-specific posts; corpus pass with explicit patterns pending</p>
 
     <h2>Official record</h2>
-    <p class="tk">tk &mdash; release date, specs, benchmarks, checkpoints</p>
+    <ul>
+      <li>Released <strong>1 June 2026</strong>: <span class="q">&ldquo;MiniMax M3 is officially released today.&rdquo;</span> The launch claim, on coding/agentic ability, 1M context and native multimodality: <span class="q">&ldquo;M3 is currently the first and only open-weight model to bring all three together.&rdquo;</span> Weights were not out at launch: <span class="q">&ldquo;Over the next 10 days, we will release the model&rsquo;s technical report and open-source the corresponding model weights.&rdquo;</span></li>
+      <li>Weights on Hugging Face <strong>12 June 2026</strong> (the repository&rsquo;s first commit). Card: <span class="q">&ldquo;MiniMax-M3 is a native multimodal model with 1M context. It has ~428B parameters and ~23B activated parameters.&rdquo;</span> License: MiniMax Community License (commercial use above a revenue threshold needs MiniMax&rsquo;s written authorization).</li>
+      <li>Lab-described long runs (internal agentic tests): on a kernel-optimization task, <span class="q">&ldquo;M3&rsquo;s best solution, however, appeared on its 145th submission. Before that point, the model went through multiple performance plateaus where no further improvement was observed, yet it continued exploring different optimization directions.&rdquo;</span> Reproducing a paper, <span class="q">&ldquo;M3 ran autonomously for nearly 12 hours, independently producing 18 commits and 23 experimental figures&rdquo;</span>.</li>
+    </ul>
 
     <h2>History</h2>
-    <p class="tk">tk &mdash; context of the world at release; events and entanglements</p>
+    <ul>
+      <li><span class="d">2026-06-01</span> <strong>Launch</strong> into a field the lab framed against Opus 4.7, GPT-5.5 and Gemini 3.1 Pro (The Decoder); on the kernel task The Decoder added that <span class="q">&ldquo;Anthropic&rsquo;s model needs far fewer runs, though.&rdquo;</span></li>
+      <li><span class="d">2026-06-02</span> <strong>Censorship outlier</strong> <span class="tag">REPORTED</span>: an r/LocalLLaMA poster building a China/CCP bias benchmark: <span class="q">&ldquo;I&rsquo;m currently working on a chinese/CCP AI bias benchmark, and this has stood out as an outlier. All the other Minimax models are censored as is typical for chinese LLMs.&rdquo;</span> (via Arctic Shift; the benchmark itself not retrieved).</li>
+      <li><span class="d">2026-06</span> <strong>Open-weight, not open-source:</strong> OpenSourceForU: <span class="q">&ldquo;MiniMax has not released M3&rsquo;s training code or inference operators, meaning the model cannot currently be classified as fully open source.&rdquo;</span></li>
+      <li><span class="d">2026-08-26</span> On the interim results call MiniMax set M3.1&rsquo;s target at about one-third of M3&rsquo;s launch inference cost and put M3 Pro at about 3T parameters (The Paper; see <a href="../minimax-m3-1-flash/">M3.1 Flash</a>).</li>
+      <li><span class="d">2026-09-10</span> <strong>Distillation allegation</strong> <span class="tag">REPORTED</span>: Anthropic&rsquo;s threat report says MiniMax <span class="q">&ldquo;built its own proxy network service through a shell company&rdquo;</span> that offered only Anthropic and OpenAI models, and that this <span class="q">&ldquo;suggests that MiniMax established this proxy network service to harvest exchanges between users and US frontier models in order to train its models.&rdquo;</span> No MiniMax model is named. <span class="tk">tk &mdash; MiniMax&rsquo;s response, if any</span></li>
+      <li><span class="d">2026-10-19</span> Succeeded by <a href="../minimax-m3-1-flash/">MiniMax M3.1 Flash</a>.</li>
+    </ul>
 
     <h2>Impressions</h2>
-    <p class="tk">tk &mdash; day-of and longitudinal vibes to collect</p>
+    <ul>
+      <li><strong>Launch-week use:</strong> one r/LocalLLaMA tester: <span class="q">&ldquo;the only problem with Minimax is that sometimes it gives very good output and sometimes totally shit output, but only for coding tasks.&rdquo;</span> (2026-06-01, via Arctic Shift).</li>
+      <li><span class="tk">tk &mdash; launch-thread comments; the censorship thread&rsquo;s replies (not in the archive capture); Chinese-language reception; self-identity reports</span></li>
+    </ul>
     <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
   </main>
 </body>

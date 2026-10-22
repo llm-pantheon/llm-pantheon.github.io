@@ -4,5 +4,5 @@
 
 @RokoMijic how many Android Smart TVs do you reckon equals one inference cluster running GLM-5.3 at normal speed
 
-tags: author:jessi_cata, kind:tweet, year:2026
-cited on: _dossiers/glm-5-3.md
+tags: author:jessi_cata, kind:tweet, on:glm-5-3, year:2026
+cited on: _dossiers/glm-5-3.md, glm-5-3
