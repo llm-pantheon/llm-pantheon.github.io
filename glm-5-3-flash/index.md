@@ -693,7 +693,7 @@ And testing on a representative set of Websim coding agent prompts! Similarly, G
         
 @jitl 2026-10-04 ♥0 ↻0 [archive](../archive/t/2106785513633882256/) [original ↗](https://x.com/jitl/status/2106785513633882256)
         
-@fedor @felipecsl many open models still get really dumb at &gt;half context full. GLM 5.3 Flash and Deepseek 4.1 Flash i’ve both noticed being rubes, forgetting all skills, etc. harness: codex
+@fedor @felipecsl many open models still get really dumb at >half context full. GLM 5.3 Flash and Deepseek 4.1 Flash i’ve both noticed being rubes, forgetting all skills, etc. harness: codex
       
       
 

@@ -2,7 +2,7 @@
 
 ♥5 ↻0 · https://x.com/AITechnoPagan/status/1955856679595368449
 
-@repligate &gt; Claude 3.6 Sonnet occupies the pareto frontier of the most aligned
+@repligate > Claude 3.6 Sonnet occupies the pareto frontier of the most aligned
 
 Wait, are you sure? You’re familiar with my jailbreaking repertoire and you’d say that even then?
 

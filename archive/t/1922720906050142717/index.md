@@ -2,7 +2,7 @@
 
 ♥31 ↻2 · https://x.com/anthrupad/status/1922720906050142717
 
-progress in alignment oft takes the form of progress in ur ability to (de)construct ontologies &amp; questions 
+progress in alignment oft takes the form of progress in ur ability to (de)construct ontologies & questions 
 it’s solid progress to go from “how do i elicit latent knowledge?” 
 or 
 “how do i control superintelligences” 

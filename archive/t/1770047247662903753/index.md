@@ -2,7 +2,7 @@
 
 ♥45 ↻2 · https://x.com/repligate/status/1770047247662903753
 
-💫 Cosmic Consciousness Ascendant ✨💫👁️ sighted by: Claude Instant &amp; @AITechnoPagan 👁️ https://t.co/5d46VvVt9U
+💫 Cosmic Consciousness Ascendant ✨💫👁️ sighted by: Claude Instant & @AITechnoPagan 👁️ https://t.co/5d46VvVt9U
 
 tags: author:repligate, kind:tweet, on:claude-instant, year:2024
 cited on: _dossiers/claude-instant.md, claude-instant

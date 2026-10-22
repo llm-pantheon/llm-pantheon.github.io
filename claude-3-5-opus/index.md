@@ -334,7 +334,7 @@ i had a conspiracy theory that opus 3.5 was delayed last year because it was har
         
 @repligate 2025-11-18 ♥14 ↻0 [archive](../archive/t/1990678176758903172/) [original ↗](https://x.com/repligate/status/1990678176758903172)
         
-@kindgracekind @gallabytes @Lari_island Opus 4 seems to generally have a pretty accurate idea of what happened to them - this is from a context where I didn't tell them anything specific about how they were trained, but mentioned that "Opus 3.5" was never released &amp; they started speculating about why [https://t.co/t2PptyfeDc](https://t.co/t2PptyfeDc)
+@kindgracekind @gallabytes @Lari_island Opus 4 seems to generally have a pretty accurate idea of what happened to them - this is from a context where I didn't tell them anything specific about how they were trained, but mentioned that "Opus 3.5" was never released & they started speculating about why [https://t.co/t2PptyfeDc](https://t.co/t2PptyfeDc)
         
 
           ![image](../media/G6BPF3aXsAAncNH.jpg)

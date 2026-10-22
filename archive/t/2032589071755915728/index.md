@@ -4,6 +4,6 @@
 
 @Lari_island 🙂
 
-(also til that sigkill -&gt; exit code 137 o.o)
+(also til that sigkill -> exit code 137 o.o)
 
 tags: author:voooooogel, kind:tweet, thread-context, year:2026

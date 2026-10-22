@@ -16,7 +16,7 @@ capability-shock, sydney-attractor, self-portrait-as-image — need a reader, no
 Where a word is ambiguous outside AI talk (discord, deprecation, eulogy, swarm), the rule also requires a
 model/AI term in the same tweet.
 """
-import os, re, sys, json, sqlite3
+import os, re, sys, json, html, sqlite3
 sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DBS = [r'C:\Users\Admin\Downloads\janus-corpus-v2.db', r'C:\Users\Admin\Downloads\janus-corpus-supplement.db']
@@ -66,7 +66,7 @@ def main():
             or supp.execute('select full_text from tweets where tweet_id=?', (tid,)).fetchone()
         if not r:
             return ''
-        parts = [r[0] or '']
+        parts = [html.unescape(r[0] or '')]
         # main db: media carries its own transcription column; supplement: media_supp + tools/transcriptions.json
         rows = [(u, tr) for u, tr in main.execute('select media_url, transcription from media where tweet_id=?', (tid,))]
         rows += [(u, None) for (u,) in supp.execute('select media_url from media_supp where tweet_id=?', (tid,))]

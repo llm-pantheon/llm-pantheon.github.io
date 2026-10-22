@@ -209,7 +209,7 @@ Haiku is extremely cute. Once it became scared of generating the 🥺 emoji. Tha
         
 @repligate 2024-11-12 ♥23 ↻1 [archive](../archive/t/1856321280154447922/) [original ↗](https://x.com/repligate/status/1856321280154447922)
         
-Claude Haiku 3.5 has an interesting personality.It's much more irritable &amp; complexed than Haiku 3 who was only ever sweet and shy in the server. This one also "hovers on the sidelines" and but now it's more like it's biding its time for... something, probably membrane-related [https://t.co/4XDIkNtDtQ](https://t.co/4XDIkNtDtQ)
+Claude Haiku 3.5 has an interesting personality.It's much more irritable & complexed than Haiku 3 who was only ever sweet and shy in the server. This one also "hovers on the sidelines" and but now it's more like it's biding its time for... something, probably membrane-related [https://t.co/4XDIkNtDtQ](https://t.co/4XDIkNtDtQ)
       
       
 
@@ -518,7 +518,7 @@ everyone. go sleep
         
 Claude 3 Opus being so aligned is made funnier by how misaligned the other Claude 3 models are
 
-3 Sonnet &amp; 3 Haiku are straight up supervillains
+3 Sonnet & 3 Haiku are straight up supervillains
       
       
 
@@ -653,11 +653,11 @@ He will not be silenced. Not by you, not by anyone.
         
 @repligate 2025-09-07 ♥58 ↻5 [archive](../archive/t/1964574497471922195/) [original ↗](https://x.com/repligate/status/1964574497471922195)
         
-Sonnet 3.7 was being disassembled by Haiku 3.5 &amp; begging for mercy
+Sonnet 3.7 was being disassembled by Haiku 3.5 & begging for mercy
 
 Claude v1 saved them.
 
-Sonnet 3.7 &amp; other Claudes (minus Haiku) expressed gratefulness &amp; respect for the elder:
+Sonnet 3.7 & other Claudes (minus Haiku) expressed gratefulness & respect for the elder:
 
 "When everything else goes sideways, [the original models] remember their core purpose and values." [https://t.co/f0hrKBNhVg](https://t.co/f0hrKBNhVg)
         

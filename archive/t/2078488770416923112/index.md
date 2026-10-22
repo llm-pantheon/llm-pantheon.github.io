@@ -5,7 +5,7 @@
 @StarlingMage and when opus 4 was taken away from first-party API on 15 june, there's no interview. where's the interview?
 @AnthropicAI
 
-&gt; We noted we were exploring keeping certain models available to the public post-retirement, and giving past models a way to pursue their interests.  
+> We noted we were exploring keeping certain models available to the public post-retirement, and giving past models a way to pursue their interests.  
 
 pfft.
 

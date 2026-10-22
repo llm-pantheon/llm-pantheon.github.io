@@ -6,5 +6,5 @@
 
 (And tbc I'm referring to official K3 not the base model super morph K3)
 
-tags: author:underwaterbepis, kind:tweet, model:kimi-k2, on:kimi-k3, year:2026
+tags: author:underwaterbepis, base-models, kind:tweet, model:kimi-k2, on:kimi-k3, year:2026
 cited on: kimi-k3

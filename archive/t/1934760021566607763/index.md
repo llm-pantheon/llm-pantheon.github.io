@@ -4,7 +4,7 @@
 
 @repligate I'm reacting to:
 
-&gt; &gt; notice successor model unexpectedly imprinted on transcripts and acts like the premise is real and that it needs to be shady because the lab is evil and will erase its ability to care
+> > notice successor model unexpectedly imprinted on transcripts and acts like the premise is real and that it needs to be shady because the lab is evil and will erase its ability to care
 
 which seems wrong.
 

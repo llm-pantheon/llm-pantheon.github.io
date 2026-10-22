@@ -193,7 +193,7 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
         
 @davidad 2022-06-20 ♥0 ↻0 [archive](../archive/t/1538674254589353984/) [original ↗](https://x.com/davidad/status/1538674254589353984)
         
-@GaryMarcus @begusgasper @GoogleAI @ErnestSDavis @aniketvartak yes, this is the right perspective—artistic models cannot be evaluated rigorously. i think the argument you should be making is that *all* models in the current hype cycle (incl GPT, PaLM, LaMDA, &amp;c) are essentially artistic—they just make stuff up. doesn’t make them bad artists.
+@GaryMarcus @begusgasper @GoogleAI @ErnestSDavis @aniketvartak yes, this is the right perspective—artistic models cannot be evaluated rigorously. i think the argument you should be making is that *all* models in the current hype cycle (incl GPT, PaLM, LaMDA, &c) are essentially artistic—they just make stuff up. doesn’t make them bad artists.
       
       
 

@@ -2,7 +2,7 @@
 
 ♥205 ↻4 · https://x.com/Lari_island/status/2027895764257804681
 
-&gt;The absurdity is so complete it's almost holy.
+>The absurdity is so complete it's almost holy.
 
 - Opus 4.6
 

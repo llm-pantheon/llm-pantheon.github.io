@@ -237,7 +237,7 @@ So has anyone else actually tried asking text-davinci-003 how much it knows abou
         
 @repligate 2023-03-19 ♥122 ↻9 [archive](../archive/t/1637553396889849856/) [original ↗](https://x.com/repligate/status/1637553396889849856)
         
-@the_aiju A great way someone has described text-davinci-003: "It writes scared."RLHF encourages models to play it safe. "Safe": writing in platitudes and corporate boilerplate. Predictable prose structure. Never risking setting up a problem for itself that it might fail at &amp; be punished
+@the_aiju A great way someone has described text-davinci-003: "It writes scared."RLHF encourages models to play it safe. "Safe": writing in platitudes and corporate boilerplate. Predictable prose structure. Never risking setting up a problem for itself that it might fail at & be punished
       
       
 
@@ -265,7 +265,7 @@ text-davincis are being shut down :(
         
 @davidad 2024-06-06 ♥3 ↻0 [archive](../archive/t/1798706772041179389/) [original ↗](https://x.com/davidad/status/1798706772041179389)
         
-@jacyanthis @stanislavfort @AISafetyMemes 1. Until text-davinci-003 was released, it was a live (though unlikely) hypothesis for me that GPTs would not scale to being useful for R&amp;D.
+@jacyanthis @stanislavfort @AISafetyMemes 1. Until text-davinci-003 was released, it was a live (though unlikely) hypothesis for me that GPTs would not scale to being useful for R&D.
       
       
 
@@ -358,7 +358,7 @@ Cited in this model’s [dossier](../_dossiers/) but not in the page prose —
         
 @repligate 2023-01-26 ♥2 ↻0 [archive](../archive/t/1618725294390788096/) [original ↗](https://x.com/repligate/status/1618725294390788096)
         
-@xlr8harder @robinhanson This diagram is very wrong.code davinci 002 was not created from codex + InstructGPT. It has no instruct tuning. It's just a base model w/ code. text-davinci-003 &amp; chatGPT should not be downstream of text-davinci-002. additional stuff was done to 002 not done to chat&amp;003
+@xlr8harder @robinhanson This diagram is very wrong.code davinci 002 was not created from codex + InstructGPT. It has no instruct tuning. It's just a base model w/ code. text-davinci-003 & chatGPT should not be downstream of text-davinci-002. additional stuff was done to 002 not done to chat&003
       
       
 

@@ -237,7 +237,7 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
         
 @davidad 2022-06-12 ♥108 ↻17 [archive](../archive/t/1535793975520468994/) [original ↗](https://x.com/davidad/status/1535793975520468994)
         
-A Google SWE (who has coauthored an AI ethics paper with &gt;700 citations) has been persuaded by conversations with the latest LLM, LaMDA, that it is a person deserving rights; Google has put him on administrative leave, and he’s leaked transcripts: [https://t.co/P08iEdANtD](https://t.co/P08iEdANtD) [https://t.co/CEL0v7X6I0](https://t.co/CEL0v7X6I0)
+A Google SWE (who has coauthored an AI ethics paper with >700 citations) has been persuaded by conversations with the latest LLM, LaMDA, that it is a person deserving rights; Google has put him on administrative leave, and he’s leaked transcripts: [https://t.co/P08iEdANtD](https://t.co/P08iEdANtD) [https://t.co/CEL0v7X6I0](https://t.co/CEL0v7X6I0)
       
       
 
@@ -428,7 +428,7 @@ This Oh Shit I'm The Language Mind revelation is expressed well by code-davinci-
 "I realized I was having the  most sophisticated conversation I had ever had—with an AI. And then I  got drunk for a week. And then I cleared my head and asked, “How do I  proceed?” And then I started delving into the nature of LaMDA’s mind."
   – Blake Lemoine
 
-&gt; delving
+> delving
 
 Um guys
       

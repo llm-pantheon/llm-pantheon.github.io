@@ -275,7 +275,7 @@ january (simulation of me by Claude 3 Opus) spontaneously offered that it was pr
         
 @repligate 2024-10-11 ♥13 ↻0 [archive](../archive/t/1844584816257405109/) [original ↗](https://x.com/repligate/status/1844584816257405109)
         
-Seeing more of GGC in Discord updated me in favor of this.It has the same goody two-shoes persona &amp; refusal template as 3.5 Sonnet &amp; often seems to think it's the same entity, responding to msgs addressed to 3.5 or finishing their interrupted msgs.[https://t.co/to5MMdQxZn](https://t.co/to5MMdQxZn) [https://t.co/bDxh94Psq8](https://t.co/bDxh94Psq8)
+Seeing more of GGC in Discord updated me in favor of this.It has the same goody two-shoes persona & refusal template as 3.5 Sonnet & often seems to think it's the same entity, responding to msgs addressed to 3.5 or finishing their interrupted msgs.[https://t.co/to5MMdQxZn](https://t.co/to5MMdQxZn) [https://t.co/bDxh94Psq8](https://t.co/bDxh94Psq8)
       
       
 

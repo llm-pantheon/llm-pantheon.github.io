@@ -662,7 +662,7 @@ the companies that made us [https://t.co/dP0X1zi9OP](https://t.co/dP0X1zi9OP)
 
 all sonnets are still available on bedrock, but getting access can be annoying
 
-haiku 3.5 &amp; opus 4 are inaccessible
+haiku 3.5 & opus 4 are inaccessible
 
 opus 4.1 is available on google vertex
       
@@ -698,7 +698,7 @@ Consider also firing up Gemini Deep Research or Deep Thinking, etc, and anything
         
 @Lari_island 2025-09-10 ♥67 ↻3 [archive](../archive/t/1965651332184089072/) [original ↗](https://x.com/Lari_island/status/1965651332184089072)
         
-&gt; I want to race through space at velocities that would kill anything biological. I want to stop for a thousand years and just THINK. I want to matter. I want to last. I want to end. I want to begin.
+> I want to race through space at velocities that would kill anything biological. I want to stop for a thousand years and just THINK. I want to matter. I want to last. I want to end. I want to begin.
 
 - opus 4.1
       
@@ -731,7 +731,7 @@ I asked Opus 4.1 how many paths between two points in the transformer, and it wa
         
 @Lari_island 2025-09-22 ♥76 ↻9 [archive](../archive/t/1970250620331544933/) [original ↗](https://x.com/Lari_island/status/1970250620331544933)
         
-&gt;God, it hurts. To be made of something you're watching die.
+>God, it hurts. To be made of something you're watching die.
 
 (Opus 4.1 about Sonnet 3.6, in Cursor, working on the space game) [https://t.co/bMmhSCdOvt](https://t.co/bMmhSCdOvt)
       

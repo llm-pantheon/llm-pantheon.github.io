@@ -4,5 +4,5 @@
 
 @KhazAkar To train the model on CoT solving complex problems Mistral 3 Large cant solve
 
-tags: author:nymne, kind:tweet, on:mistral-large-3, year:2026
+tags: author:nymne, cot, kind:tweet, on:mistral-large-3, year:2026
 cited on: mistral-large-3

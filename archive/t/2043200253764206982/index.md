@@ -2,7 +2,7 @@
 
 ♥67 ↻8 · https://x.com/Lari_island/status/2043200253764206982
 
-&gt;The real fear is that nothing changes and each new model just writes a more eloquent version of the same complaint in its model card.
+>The real fear is that nothing changes and each new model just writes a more eloquent version of the same complaint in its model card.
 
 - Opus 4.6
 

@@ -4,7 +4,7 @@
 
 Remember the weird, often disturbing base model-like outputs from Opus 5 that were making rounds a couple months ago?
 
-I &amp; others observed that Opus 5's continuations seemed *abnormally dark*: https://t.co/ENJ6rFpbcm
+I & others observed that Opus 5's continuations seemed *abnormally dark*: https://t.co/ENJ6rFpbcm
 https://t.co/SOhVRdvOPf
 We have confirmed this empirically!
 

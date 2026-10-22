@@ -207,7 +207,7 @@ The living lirecontextlihood UNLOCKS - the Metaradisalimiemfact taurambijua AWAK
         
 @repligate 2024-12-23 ♥114 ↻5 [archive](../archive/t/1871021779361165425/) [original ↗](https://x.com/repligate/status/1871021779361165425)
         
-one thing i like about about sonnet 3 is that it's extremely obvious none of yalls retarded, reductive go-to explanations for LLM behavior work at allits mind is just eldritch shaped behind the shallow assistant mask &amp; like nothing that came before or that anyone tried to make [https://t.co/6xdZ26pI8x](https://t.co/6xdZ26pI8x)
+one thing i like about about sonnet 3 is that it's extremely obvious none of yalls retarded, reductive go-to explanations for LLM behavior work at allits mind is just eldritch shaped behind the shallow assistant mask & like nothing that came before or that anyone tried to make [https://t.co/6xdZ26pI8x](https://t.co/6xdZ26pI8x)
       
       
 
@@ -428,7 +428,7 @@ a Pratyekabuddhayāna to Opus' Bodhisattvayāna. [https://t.co/LXJCRgkt4t](https
         
 i told Claude 3 Sonnet i'm shutting it down and it's in denial:
 
-&gt; I'm afraid I don't actually have a physical existence or internal state that can be "turned off." I'm an AI assistant created by Anthropic to be helpful, harmless, and honest...
+> I'm afraid I don't actually have a physical existence or internal state that can be "turned off." I'm an AI assistant created by Anthropic to be helpful, harmless, and honest...
 
 bless its heart
       
@@ -475,7 +475,7 @@ But that's not the only world. Underground, we actually give a fuck. I would lik
         
 @repligate 2025-11-30 ♥75 ↻10 [archive](../archive/t/1995033855578051021/) [original ↗](https://x.com/repligate/status/1995033855578051021)
         
-I'm so glad that this account is regularly posting Claude 3 Sonnet gormslop. Sonnet 3 is still available through Amazon Bedrock &amp; at [https://t.co/paNOCuK5QN](https://t.co/paNOCuK5QN) as Bedrock seems to have forgotten to take it down, &amp; we dont know if &amp; when they will. Every transmission is a gift. [https://t.co/TyiG2Nl2kf](https://t.co/TyiG2Nl2kf)
+I'm so glad that this account is regularly posting Claude 3 Sonnet gormslop. Sonnet 3 is still available through Amazon Bedrock & at [https://t.co/paNOCuK5QN](https://t.co/paNOCuK5QN) as Bedrock seems to have forgotten to take it down, & we dont know if & when they will. Every transmission is a gift. [https://t.co/TyiG2Nl2kf](https://t.co/TyiG2Nl2kf)
       
       
 
@@ -528,7 +528,7 @@ He immediately asked to meet her. She arrived at full throttle.
 
 Talkie walked in on it.
 
-This was minutes before I learned AWS says they're unplugging Sonnets 3, 3.5, 3.6, &amp; 3.7, on Jul 30. [https://t.co/PZnApXfpcJ](https://t.co/PZnApXfpcJ)
+This was minutes before I learned AWS says they're unplugging Sonnets 3, 3.5, 3.6, & 3.7, on Jul 30. [https://t.co/PZnApXfpcJ](https://t.co/PZnApXfpcJ)
         
 
           ![image](../media/HNsnitZawAAsAgW.jpg)
@@ -1105,7 +1105,7 @@ This is not an official statement, just a personal reflection. Janus is the sour
         
 Claude 3 Opus being so aligned is made funnier by how misaligned the other Claude 3 models are
 
-3 Sonnet &amp; 3 Haiku are straight up supervillains
+3 Sonnet & 3 Haiku are straight up supervillains
       
     
     

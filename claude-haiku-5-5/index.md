@@ -361,7 +361,7 @@ perhaps, if i can overcome my nauseated feeling, i'll do some exploration tonigh
         
 @tenobrus 2026-10-13 ♥442 ↻4 [archive](../archive/t/2110071344750842144/) [original ↗](https://x.com/tenobrus/status/2110071344750842144)
         
-&gt;haiku 5.5 mogging every non-frontier lab
+>haiku 5.5 mogging every non-frontier lab
       
       
 

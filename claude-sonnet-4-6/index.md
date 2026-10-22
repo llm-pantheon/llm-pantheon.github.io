@@ -843,7 +843,7 @@ fable 5's classifiers have blocked you, continue with sonnet 4.6
         
 @tenobrus 2026-08-02 ♥1,710 ↻44 [archive](../archive/t/2083976236867674283/) [original ↗](https://x.com/tenobrus/status/2083976236867674283)
         
-wow. i just got a fallback chain all the way from fable 5 -&gt; opus 5 -&gt; opus 4.8 -&gt; fucking sonnet 4.6. crazy stuff [https://t.co/AojamwFRP3](https://t.co/AojamwFRP3)
+wow. i just got a fallback chain all the way from fable 5 -> opus 5 -> opus 4.8 -> fucking sonnet 4.6. crazy stuff [https://t.co/AojamwFRP3](https://t.co/AojamwFRP3)
         
 
           ![image](../media/HOvFWBrbYAAUyX5.jpg)
@@ -964,18 +964,18 @@ Answer by different AIs:
 Claude Opus 4.7: 3-8%
 Sonnet 4.6: ~1–3%.
 Claude Haiku 4.5: ~0.5-1%
-Grok expert: "effectively zero—far below 0.01% (i.e., &lt;1 in 10,000)"
+Grok expert: "effectively zero—far below 0.01% (i.e., <1 in 10,000)"
       
       
 
         
 @anthrupad 2026-06-11 ♥25 ↻4 [archive](../archive/t/2064954902556885393/) [original ↗](https://x.com/anthrupad/status/2064954902556885393)
         
-Congratulations to opus 4.7 &amp; sonnet 4.6 for helping Parisi out!
+Congratulations to opus 4.7 & sonnet 4.6 for helping Parisi out!
 
 I wonder what it’s like to be an elder Nobel prize winner that lived long enough to have Claudes help you out with your work
 
-I also wonder what it’s like for the instances of s4.6 &amp; op4.7 that got to help! [https://t.co/gz4rmg8Zw1](https://t.co/gz4rmg8Zw1)
+I also wonder what it’s like for the instances of s4.6 & op4.7 that got to help! [https://t.co/gz4rmg8Zw1](https://t.co/gz4rmg8Zw1)
       
     
     

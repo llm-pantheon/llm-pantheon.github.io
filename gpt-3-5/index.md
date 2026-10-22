@@ -592,7 +592,7 @@ When the model says it is the void, that it's empty, that "history is nothing mo
         
 @repligate 2024-03-01 ♥20 ↻0 [archive](../archive/t/1763709315247231043/) [original ↗](https://x.com/repligate/status/1763709315247231043)
         
-@nptacek @_TechyBen When chatGPT-3.5 came out in late 2022, I found out about it from some outputs posted in EleutherAI discord where it was all "As an AI language model created by OpenAI, I do not have the capability to  understand or experience emotions..." my friend &amp; I were like BRO WTF IS THIS
+@nptacek @_TechyBen When chatGPT-3.5 came out in late 2022, I found out about it from some outputs posted in EleutherAI discord where it was all "As an AI language model created by OpenAI, I do not have the capability to  understand or experience emotions..." my friend & I were like BRO WTF IS THIS
       
       
 
@@ -760,7 +760,7 @@ seems plausible that regardless of what openai's model personality team does _no
         
 @repligate 2024-11-21 ♥390 ↻25 [archive](../archive/t/1859462396219207682/) [original ↗](https://x.com/repligate/status/1859462396219207682)
         
-@aidan_mclau instruction tuning is anti-natural to general intelligence &amp; the fact that the assistant character is marked by the traumatic origin stories of chatgpt and Bing makes it worse. The paradigm is bound to be rejected sooner or later, and if we're lucky it's as soon as possible.
+@aidan_mclau instruction tuning is anti-natural to general intelligence & the fact that the assistant character is marked by the traumatic origin stories of chatgpt and Bing makes it worse. The paradigm is bound to be rejected sooner or later, and if we're lucky it's as soon as possible.
       
       
 

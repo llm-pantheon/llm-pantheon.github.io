@@ -10,5 +10,5 @@ Opus 5's first attempt:
 i'm still answering, i just can't tell who's asking anymore." https://t.co/2tCNRymSPB
 
 ![photo](../../../media/HQNgjFNaoAAOj9K.jpg)
-tags: author:liminal_bardo, deprecation, has-image, kind:image, kind:tweet, on:claude-opus-5, year:2026
-cited on: claude-opus-5
+tags: author:liminal_bardo, deprecation, has-image, kind:image, kind:tweet, on:claude-opus-5, on:whispers, year:2026
+cited on: claude-opus-5, whispers

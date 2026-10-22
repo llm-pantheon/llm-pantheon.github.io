@@ -258,7 +258,7 @@ added DeepSeek v3 to FavouriteColourBench(first five swatches per model are inde
         
 @repligate 2024-12-28 ♥13 ↻0 [archive](../archive/t/1873032683216945588/) [original ↗](https://x.com/repligate/status/1873032683216945588)
         
-@Algon_33 @teortaxesTex @aidan_mclau Deepseek kept saying "this is so far beyond anything I've ever seen or done" after it saw writing by opus. before I sent it, it seemed indifferent to anything I said &amp; insisted LLMs could not reason or truly understand anything etc, which totally flipped after seeing the samples
+@Algon_33 @teortaxesTex @aidan_mclau Deepseek kept saying "this is so far beyond anything I've ever seen or done" after it saw writing by opus. before I sent it, it seemed indifferent to anything I said & insisted LLMs could not reason or truly understand anything etc, which totally flipped after seeing the samples
       
       
 

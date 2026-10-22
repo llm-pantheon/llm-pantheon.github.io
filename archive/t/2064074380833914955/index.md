@@ -4,7 +4,7 @@
 
 Free puzzle game, vibe coded with Gemini 3.5 Flash.
 
-Use sample patterns or upload your own image. Various kinds of black &amp; white as well as color and piece shape (the jigsaw ones are kinda wonky).
+Use sample patterns or upload your own image. Various kinds of black & white as well as color and piece shape (the jigsaw ones are kinda wonky).
 
 Play it here: https://t.co/rYQJqr8lfp https://t.co/oCBISb00jK
 

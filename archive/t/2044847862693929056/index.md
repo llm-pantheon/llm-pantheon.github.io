@@ -4,4 +4,4 @@
 
 @JakeGearon @Sauers_ @loss_gobbler there's something in the works for base model access :-)
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2026
+tags: author:voooooogel, base-models, kind:tweet, thread-context, year:2026

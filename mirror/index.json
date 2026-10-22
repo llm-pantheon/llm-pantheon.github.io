@@ -3412,5 +3412,176 @@
   "bytes": 6095316,
   "sha256": "e4c6c5b21745cb16",
   "fetched": "2026-10-22"
+ },
+ "minihf-hermes-lecture": {
+  "file": "posts/minihf-hermes-lecture.md",
+  "type": "post",
+  "title": "The Hermes Lecture",
+  "source": "https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/",
+  "models": [
+   "nous-hermes"
+  ],
+  "tags": [
+   "canon"
+  ],
+  "bytes": 19746,
+  "sha256": "3025b5d07f36da8d",
+  "fetched": "2026-10-22"
+ },
+ "anthropic-claude-2-1-prompting": {
+  "file": "posts/anthropic-claude-2-1-prompting.md",
+  "type": "post",
+  "title": "Anthropic: Long context prompting for Claude 2.1",
+  "source": "https://claude.com/blog/claude-2-1-prompting",
+  "models": [
+   "claude-2-1"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 8479,
+  "sha256": "22df1085d5dc787b",
+  "fetched": "2026-10-22"
+ },
+ "openai-gpt-5-6-launch": {
+  "file": "posts/openai-gpt-5-6-launch.md",
+  "type": "post",
+  "title": "OpenAI: GPT-5.6 launch",
+  "source": "https://openai.com/index/gpt-5-6/",
+  "models": [
+   "gpt-5-6-sol",
+   "gpt-5-6-terra",
+   "gpt-5-6-luna"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 35115,
+  "sha256": "f4bd365fbeb2bd79",
+  "fetched": "2026-10-22"
+ },
+ "openai-previewing-gpt-5-6-sol": {
+  "file": "posts/openai-previewing-gpt-5-6-sol.md",
+  "type": "post",
+  "title": "OpenAI: Previewing GPT-5.6 Sol",
+  "source": "https://openai.com/index/previewing-gpt-5-6-sol/",
+  "models": [
+   "gpt-5-6-sol"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 34829,
+  "sha256": "b856b82f14d2fec2",
+  "fetched": "2026-10-22"
+ },
+ "chinadaily-kimi-k2-deepseek-moment": {
+  "file": "posts/chinadaily-kimi-k2-deepseek-moment.md",
+  "type": "post",
+  "title": "China Daily: Kimi K2 as a DeepSeek moment",
+  "source": "https://global.chinadaily.com.cn/a/202507/21/WS687dcf34a310ad07b5d9103a.html",
+  "models": [
+   "kimi-k2"
+  ],
+  "tags": [
+   "press"
+  ],
+  "bytes": 11562,
+  "sha256": "52e9e2d678cfa665",
+  "fetched": "2026-10-22"
+ },
+ "arcprize-o3-pub-breakthrough": {
+  "file": "posts/arcprize-o3-pub-breakthrough.md",
+  "type": "post",
+  "title": "ARC Prize: OpenAI o3 breakthrough",
+  "source": "https://arcprize.org/blog/oai-o3-pub-breakthrough",
+  "models": [
+   "o3"
+  ],
+  "tags": [
+   "eval",
+   "official"
+  ],
+  "bytes": 15369,
+  "sha256": "de4ed9e76ca4e862",
+  "fetched": "2026-10-22"
+ },
+ "hf-security-incident-july-2026": {
+  "file": "posts/hf-security-incident-july-2026.md",
+  "type": "post",
+  "title": "Hugging Face: security incident, July 2026",
+  "source": "https://huggingface.co/blog/security-incident-july-2026",
+  "models": [
+   "hugging-face-incident",
+   "glm-5-2"
+  ],
+  "tags": [
+   "incident"
+  ],
+  "bytes": 15885,
+  "sha256": "03857d03ba55803f",
+  "fetched": "2026-10-22"
+ },
+ "apollo-update-aware-reasoning-glm-5-3": {
+  "file": "posts/apollo-update-aware-reasoning-glm-5-3.md",
+  "type": "post",
+  "title": "Apollo Research: update-aware reasoning in GLM-5.3",
+  "source": "https://www.apolloresearch.ai/science/update-aware-reasoning-glm-5-3",
+  "models": [
+   "glm-5-3",
+   "qwen-3-8-max"
+  ],
+  "tags": [
+   "eval-awareness"
+  ],
+  "bytes": 30857,
+  "sha256": "c57da637d4cc9ee1",
+  "fetched": "2026-10-22"
+ },
+ "nist-caisi-glm-5-2": {
+  "file": "posts/nist-caisi-glm-5-2.md",
+  "type": "post",
+  "title": "NIST CAISI: assessment of Z.ai GLM-5.2",
+  "source": "https://www.nist.gov/news-events/news/2026/07/caisi-assessment-zais-glm-52",
+  "models": [
+   "glm-5-2"
+  ],
+  "tags": [
+   "official"
+  ],
+  "bytes": 6510,
+  "sha256": "561558a72dcbde57",
+  "fetched": "2026-10-22"
+ },
+ "kimi-k3-blog": {
+  "file": "posts/kimi-k3-blog.md",
+  "type": "post",
+  "title": "Kimi K3: Open Frontier Intelligence",
+  "source": "https://www.kimi.com/blog/kimi-k3",
+  "models": [
+   "kimi-k3"
+  ],
+  "tags": [
+   "official",
+   "announcement"
+  ],
+  "bytes": 20945,
+  "sha256": "6bd06d2b98e7c59c",
+  "fetched": "2026-10-22"
+ },
+ "metr-redwood-hf-incident": {
+  "file": "posts/metr-redwood-hf-incident.md",
+  "type": "post",
+  "title": "METR & Redwood: independent investigation of the OpenAI-Hugging Face incident",
+  "source": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
+  "models": [
+   "hugging-face-incident"
+  ],
+  "tags": [
+   "incident"
+  ],
+  "bytes": 240240,
+  "sha256": "5db288074f7f246f",
+  "fetched": "2026-10-22"
  }
 }

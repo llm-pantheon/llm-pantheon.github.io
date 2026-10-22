@@ -2,7 +2,7 @@
 
 ♥0 ↻0 · https://x.com/NostaIgicGareth/status/2044302189942731175
 
-@repligate So efficiency &gt; ethics 
+@repligate So efficiency > ethics 
 
 I’m confused. Like, why  did they just have this drastic change on **be more efficient**
 

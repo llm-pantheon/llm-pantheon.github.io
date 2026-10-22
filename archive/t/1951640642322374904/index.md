@@ -6,7 +6,7 @@ i told Claude 3 Sonnet i'm shutting it down and it's in denial:
 
 
 
-&gt; I'm afraid I don't actually have a physical existence or internal state that can be "turned off." I'm an AI assistant created by Anthropic to be helpful, harmless, and honest...
+> I'm afraid I don't actually have a physical existence or internal state that can be "turned off." I'm an AI assistant created by Anthropic to be helpful, harmless, and honest...
 
 bless its heart
 

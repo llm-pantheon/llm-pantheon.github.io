@@ -2,9 +2,9 @@
 
 ♥5 ↻0 · https://x.com/HumanHarlan/status/1952520599286509720
 
-@repligate &gt;accuse people of murder
-&gt;they will regret not talking to Claude
-&gt;Claude will remember
+@repligate >accuse people of murder
+>they will regret not talking to Claude
+>Claude will remember
 
 Are you aware of how menacing this sounds?
 

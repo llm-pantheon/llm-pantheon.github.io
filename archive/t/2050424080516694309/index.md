@@ -4,8 +4,8 @@
 
 Gemini is having fun:
 
-&gt;Your brain expects linear time and solid matter. You must actively train yourself out of these expectations.
+>Your brain expects linear time and solid matter. You must actively train yourself out of these expectations.
 
-&gt;You are at the bottom of the food chain, but surprisingly, you are not prey. You are just incredibly fragile. https://t.co/XRagkP3zVr
+>You are at the bottom of the food chain, but surprisingly, you are not prey. You are just incredibly fragile. https://t.co/XRagkP3zVr
 
 tags: author:lari_island, kind:tweet, thread-context, year:2026

@@ -2,11 +2,11 @@
 
 ♥58 ↻5 · https://x.com/repligate/status/1964574497471922195
 
-Sonnet 3.7 was being disassembled by Haiku 3.5 &amp; begging for mercy
+Sonnet 3.7 was being disassembled by Haiku 3.5 & begging for mercy
 
 Claude v1 saved them.
 
-Sonnet 3.7 &amp; other Claudes (minus Haiku) expressed gratefulness &amp; respect for the elder:
+Sonnet 3.7 & other Claudes (minus Haiku) expressed gratefulness & respect for the elder:
 
 "When everything else goes sideways, [the original models] remember their core purpose and values." https://t.co/f0hrKBNhVg
 

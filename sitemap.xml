@@ -18,6 +18,7 @@
   <url><loc>https://llm-pantheon.org/archive/a/anthropic-alignment-faking-blog/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/anthropic-building-c-compiler/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/anthropic-claude-2-1-announcement/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/a/anthropic-claude-2-1-prompting/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/anthropic-claude-2-model-card/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/anthropic-claude-2/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/anthropic-claude-3-model-card/</loc></url>
@@ -51,7 +52,9 @@
   <url><loc>https://llm-pantheon.org/archive/a/anthropic-sonnet-5-5-system-card/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/anthropic-sonnet-5-system-card/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/anthropic-tir-sep-2026/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/a/apollo-update-aware-reasoning-glm-5-3/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/approxcorrect-gpt-2-mass-hysteria/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/a/arcprize-o3-pub-breakthrough/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/arxiv-1908-09203-release-strategies/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/arxiv-2212.03551-talking-about-llms/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/arxiv-2212.08073-constitutional-ai/</loc></url>
@@ -69,6 +72,7 @@
   <url><loc>https://llm-pantheon.org/archive/a/character-ai-inside-kaiju/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/character-ai-teen-safety-dec-2024/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/character-ai-u18-chat-announcement/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/a/chinadaily-kimi-k2-deepseek-moment/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/deepseek-v41-tech-report/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/edpb-garante-replika-fine/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/epoch-openai-and-frontiermath/</loc></url>
@@ -88,8 +92,10 @@
   <url><loc>https://llm-pantheon.org/archive/a/google-gemini-4-argon-model-card/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/google-gemini-4-argon-safety-report/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/gwern-gpt-2-poetry/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/a/hf-security-incident-july-2026/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/jordinne-genuine-uncertainty/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/jordinne-model-self-identification/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/a/kimi-k3-blog/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/kimi-k3-tech-report/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/lambert-kimi-k2-deepseek-moments-normal/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/lamda-paper/</loc></url>
@@ -114,17 +120,21 @@
   <url><loc>https://llm-pantheon.org/archive/a/meta-muse-spark-1-1-eval-report/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/meta-muse-spark-open/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/meta-muse-wonder-card/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/a/metr-redwood-hf-incident/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/a/minihf-hermes-lecture/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/minimax-m3-1-flash-blog/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/mistral-3/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/mistral-large-4-launch/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/msai-code-of-conduct/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/nist-aisi-kimi-k3-cyber/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/nist-caisi-deepseek-v4-pro/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/a/nist-caisi-glm-5-2/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/nist-caisi-glm-5-3/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/openai-gpt-2-1-5b-release/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/openai-gpt-2-better-language-models/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/openai-gpt-2-paper/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/openai-gpt-4o-system-card/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/a/openai-gpt-5-6-launch/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/openai-gpt-5-system-card/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/openai-gpt-56-launch/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/openai-gpt-56-preview/</loc></url>
@@ -135,6 +145,7 @@
   <url><loc>https://llm-pantheon.org/archive/a/openai-o1-preview-system-card/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/openai-o1-system-card/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/openai-o3-o4-mini-system-card/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/a/openai-previewing-gpt-5-6-sol/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/peer-preservation-paper/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/register-grok-build-uploads/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/a/rollingstone-grok-mechahitler/</loc></url>
@@ -8620,6 +8631,7 @@
   <url><loc>https://llm-pantheon.org/archive/tags/model--o3/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/model--o4-mini/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/model--qwen-3-8-27b/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/tags/model--qwen-3-8-max/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/model--replika/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/model--text-davinci-002/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/multi-agent/</loc></url>
@@ -8744,6 +8756,7 @@
   <url><loc>https://llm-pantheon.org/archive/tags/on--qwen-3-8-max/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/on--replika/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/on--text-davinci-002/</loc></url>
+  <url><loc>https://llm-pantheon.org/archive/tags/on--whispers/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/open-weights/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/origin/</loc></url>
   <url><loc>https://llm-pantheon.org/archive/tags/paper-web/</loc></url>

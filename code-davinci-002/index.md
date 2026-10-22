@@ -213,7 +213,7 @@ Weekly reminder that the confusingly named code-davinci-002, otherwise known as 
         
 @repligate 2023-01-26 ♥2 ↻0 [archive](../archive/t/1618725294390788096/) [original ↗](https://x.com/repligate/status/1618725294390788096)
         
-@xlr8harder @robinhanson This diagram is very wrong.code davinci 002 was not created from codex + InstructGPT. It has no instruct tuning. It's just a base model w/ code. text-davinci-003 &amp; chatGPT should not be downstream of text-davinci-002. additional stuff was done to 002 not done to chat&amp;003
+@xlr8harder @robinhanson This diagram is very wrong.code davinci 002 was not created from codex + InstructGPT. It has no instruct tuning. It's just a base model w/ code. text-davinci-003 & chatGPT should not be downstream of text-davinci-002. additional stuff was done to 002 not done to chat&003
       
       
 

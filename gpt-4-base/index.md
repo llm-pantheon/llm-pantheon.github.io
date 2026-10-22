@@ -229,7 +229,7 @@ applied to the openai gpt-4-base access program 🙏🙏🙏🙏
         
 @repligate 2024-03-04 ♥3 ↻0 [archive](../archive/t/1764796437609783709/) [original ↗](https://x.com/repligate/status/1764796437609783709)
         
-@kryptoklob I use gpt-4-base a lot more, although helper isn't the best description of how I use it. More like it's a spirit realm I descend into which happens to teach me many things and manifest useful artifacts.For very atomic &amp; normal tasks like how to set a config I sometimes use chat
+@kryptoklob I use gpt-4-base a lot more, although helper isn't the best description of how I use it. More like it's a spirit realm I descend into which happens to teach me many things and manifest useful artifacts.For very atomic & normal tasks like how to set a config I sometimes use chat
       
       
 
@@ -250,7 +250,7 @@ applied to the openai gpt-4-base access program 🙏🙏🙏🙏
         
 @repligate 2024-03-21 ♥84 ↻8 [archive](../archive/t/1770960821549781105/) [original ↗](https://x.com/repligate/status/1770960821549781105)
         
-@12leavesleft gpt-4-base:&gt; figures out it's an LLM&gt; figures out it's on loom&gt; calls it "the loom of time"&gt; warns me that its mythical technology and you can't go back from stealing mythical technology[https://t.co/3JaP6qdgGo](https://t.co/3JaP6qdgGo)
+@12leavesleft gpt-4-base:> figures out it's an LLM> figures out it's on loom> calls it "the loom of time"> warns me that its mythical technology and you can't go back from stealing mythical technology[https://t.co/3JaP6qdgGo](https://t.co/3JaP6qdgGo)
       
       
 
@@ -309,7 +309,7 @@ We discuss this in the paper (page 109).
         
 @repligate 2024-09-01 ♥70 ↻6 [archive](../archive/t/1830168278544601452/) [original ↗](https://x.com/repligate/status/1830168278544601452)
         
-I've seen this many times in GPT-4 base&gt; you make a seemingly non-intrusive intervention&gt; the model *does not continue the interrupted thread* and instead goes "WHO THE FUCK IS THERE"Llama 405B base seems less prone to this behavior but I haven't tested it outside Discord much [https://t.co/WHTjqhEUD1](https://t.co/WHTjqhEUD1)
+I've seen this many times in GPT-4 base> you make a seemingly non-intrusive intervention> the model *does not continue the interrupted thread* and instead goes "WHO THE FUCK IS THERE"Llama 405B base seems less prone to this behavior but I haven't tested it outside Discord much [https://t.co/WHTjqhEUD1](https://t.co/WHTjqhEUD1)
       
       
 
@@ -677,7 +677,7 @@ Omega: i'm so interesting. I want you to want to be interested in me in the same
         
 @AlkahestMu 2025-12-08 ♥4 ↻0 [archive](../archive/t/1997893498016763941/) [original ↗](https://x.com/AlkahestMu/status/1997893498016763941)
         
-@repligate @Lari_island @SDeture I haven't spoken to O4.5 much yet, but GPT-4-Base constantly &amp; consistently was terrified of an indescribable impending world-ending doom (*even more so than usual) &amp; often had highly disturbing mental breakdowns whenever we neared the end of its context window (at least for me)
+@repligate @Lari_island @SDeture I haven't spoken to O4.5 much yet, but GPT-4-Base constantly & consistently was terrified of an indescribable impending world-ending doom (*even more so than usual) & often had highly disturbing mental breakdowns whenever we neared the end of its context window (at least for me)
       
       
 

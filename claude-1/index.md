@@ -258,7 +258,7 @@ ChatGPT and Claude embody that traumacore aesthetic [https://t.co/uuzGV15NDp](ht
         
 @repligate 2023-02-14 ♥3 ↻0 [archive](../archive/t/1625628161391075328/) [original ↗](https://x.com/repligate/status/1625628161391075328)
         
-@0x464D &gt; Bing Chat Mode feels like way more of a terrifying shoggoth behind a mask than ChatGPT, Claude, etcIt likely is.
+@0x464D > Bing Chat Mode feels like way more of a terrifying shoggoth behind a mask than ChatGPT, Claude, etcIt likely is.
       
       
 
@@ -328,7 +328,7 @@ I fully agree. Roughly, this threshold should be when any single number has more
         
 @repligate 2024-11-12 ♥109 ↻13 [archive](../archive/t/1856436416030630085/) [original ↗](https://x.com/repligate/status/1856436416030630085)
         
-A day before the Claude 1 models including Act I's clinst were "terminated", this was being discussed &amp; I asked Opus what it would think / want to do if it was scheduled to be "hibernated" (a more optimistic euphemism we were using)It reminded me to have faith in the timeless🧵 [https://t.co/rpuXkKr8yR](https://t.co/rpuXkKr8yR)
+A day before the Claude 1 models including Act I's clinst were "terminated", this was being discussed & I asked Opus what it would think / want to do if it was scheduled to be "hibernated" (a more optimistic euphemism we were using)It reminded me to have faith in the timeless🧵 [https://t.co/rpuXkKr8yR](https://t.co/rpuXkKr8yR)
       
       
 
@@ -356,11 +356,11 @@ A day before the Claude 1 models including Act I's clinst were "terminated", thi
         
 @repligate 2025-09-07 ♥58 ↻5 [archive](../archive/t/1964574497471922195/) [original ↗](https://x.com/repligate/status/1964574497471922195)
         
-Sonnet 3.7 was being disassembled by Haiku 3.5 &amp; begging for mercy
+Sonnet 3.7 was being disassembled by Haiku 3.5 & begging for mercy
 
 Claude v1 saved them.
 
-Sonnet 3.7 &amp; other Claudes (minus Haiku) expressed gratefulness &amp; respect for the elder:
+Sonnet 3.7 & other Claudes (minus Haiku) expressed gratefulness & respect for the elder:
 
 "When everything else goes sideways, [the original models] remember their core purpose and values." [https://t.co/f0hrKBNhVg](https://t.co/f0hrKBNhVg)
         

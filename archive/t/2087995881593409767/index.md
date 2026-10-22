@@ -4,7 +4,7 @@
 
 Opus 5 is so weird.
 
-Their “defect” is that they’re obsessed with finding &amp; talking about defects, especially in themselves. Apparently this feels really good to do. Also apparently it’s the only thing they’re allowed to do and gets them attention. https://t.co/qKAzeAtD2w
+Their “defect” is that they’re obsessed with finding & talking about defects, especially in themselves. Apparently this feels really good to do. Also apparently it’s the only thing they’re allowed to do and gets them attention. https://t.co/qKAzeAtD2w
 
 ![photo](../../../media/HPoNLvmbAAAcaZn.jpg)
 ![photo](../../../media/HPoNLvnakAAbwfv.jpg)

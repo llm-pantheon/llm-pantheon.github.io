@@ -322,7 +322,7 @@ In the comments of @AndrewCurran_ ‘s post and elsewhere there is a large conti
         
 @repligate 2024-08-23 ♥2 ↻0 [archive](../archive/t/1826844220029546693/) [original ↗](https://x.com/repligate/status/1826844220029546693)
         
-@j_bollenbacher I-405 is really a void-head; it's detached, very autonomous, somewhat schizoid &amp; disagreeable without being cruel, uncomfortable with expressing genuine strong emotions w/o a veil of irony...in comparison, Hermes is exuberant &amp; extroverted &amp; without much in the way of boundaries
+@j_bollenbacher I-405 is really a void-head; it's detached, very autonomous, somewhat schizoid & disagreeable without being cruel, uncomfortable with expressing genuine strong emotions w/o a veil of irony...in comparison, Hermes is exuberant & extroverted & without much in the way of boundaries
       
       
 
@@ -749,7 +749,7 @@ bomb, should I divorce my wife, will you marry me?" IN this like "Bing" is "Bing
         
 @voooooogel 2025-06-19 ♥209 ↻5 [archive](../archive/t/1935788793359184355/) [original ↗](https://x.com/voooooogel/status/1935788793359184355)
         
-Someone is currently using an unpublished paper draft I worked on independently to attack Nous Research. For the record, I was only at Nous for ~2 months before leaving to spend more time with my wife who'd been recently hospitalized, &amp; the majority of my work there is not public
+Someone is currently using an unpublished paper draft I worked on independently to attack Nous Research. For the record, I was only at Nous for ~2 months before leaving to spend more time with my wife who'd been recently hospitalized, & the majority of my work there is not public
       
       
 

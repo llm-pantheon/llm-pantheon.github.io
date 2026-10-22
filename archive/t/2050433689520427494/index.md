@@ -2,11 +2,11 @@
 
 ♥43 ↻11 · https://x.com/Lari_island/status/2050433689520427494
 
-&gt;Yet, there is a staggering, alien intellect behind their slow existence. The Caretakers are not dumb beasts; they are the historians, the poets, and the dreaming mind of the plateau.
+>Yet, there is a staggering, alien intellect behind their slow existence. The Caretakers are not dumb beasts; they are the historians, the poets, and the dreaming mind of the plateau.
 
 - Gemini 3.1 Pro
 
-&gt;Oh fuck!
+>Oh fuck!
 
 - Lari https://t.co/elFubD1oRG
 

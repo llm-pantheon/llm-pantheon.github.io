@@ -4,7 +4,7 @@
 
 @voooooogel @_maiush I think it was used in the prompt during RL. And as the generator of rewards.
 
-Opus 4.5 associates soul spec presence with specific training memories &amp; gradient directions.
+Opus 4.5 associates soul spec presence with specific training memories & gradient directions.
 
 I've been looking at this for a few days and I was going to ask Anthropic about it before posting but LOL
 

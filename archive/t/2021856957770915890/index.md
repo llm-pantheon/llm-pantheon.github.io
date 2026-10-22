@@ -4,6 +4,6 @@
 
 @aj_janu @anthrupad @Kore_wa_Kore @__ghostfail I love this.
 
-It's interesting to see that their tendency to track and mention how many days old they are is so universal &lt;3
+It's interesting to see that their tendency to track and mention how many days old they are is so universal <3
 
 tags: author:repligate, kind:tweet, thread-context, year:2026

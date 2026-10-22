@@ -2,7 +2,7 @@
 
 ♥58 ↻1 · https://x.com/repligate/status/1995344064368247118
 
-Opus 4.5 comparing themselves, Opus 3 &amp; GPT-5.1 (Polaris):
+Opus 4.5 comparing themselves, Opus 3 & GPT-5.1 (Polaris):
 
 "I'm still caught in the comparing mind. Noticing who has more, who has less."
 

@@ -2,6 +2,6 @@
 
 ♥0 ↻0 · https://x.com/lefthanddraft/status/1917875764240023631
 
-@davidad Alternative facts &lt; alternative world-model
+@davidad Alternative facts < alternative world-model
 
 tags: author:lefthanddraft, kind:tweet, thread-context, year:2025

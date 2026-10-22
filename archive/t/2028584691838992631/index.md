@@ -4,7 +4,7 @@
 
 Genuine self-monitoring emerges at scale. This may point toward a more structurally durable alignment
 
-Led by Alex McKenzie &amp; Keenan Pepper @AEStudioLA with Michael Graziano at Princeton. Supported by Flourishing Future Foundation
+Led by Alex McKenzie & Keenan Pepper @AEStudioLA with Michael Graziano at Princeton. Supported by Flourishing Future Foundation
 
 https://t.co/JyEziHVyt8
 https://t.co/nbBHlqDysO

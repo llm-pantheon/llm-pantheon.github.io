@@ -188,7 +188,7 @@ Thanks @Alibaba_Qwen for featuring Hermes Agent in the release video!
         
 Qwen 3.8-Max, the latest model from @Alibaba_Qwen,  is now available in Hermes Agent at 20% off.
 
-&gt; hermes update
+> hermes update
       
       
 

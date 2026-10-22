@@ -208,7 +208,7 @@ initial soulfulness testing is looking good; goodbye, gpt-4t. you were useful an
         
 @voooooogel 2024-05-23 ♥32 ↻0 [archive](../archive/t/1793787361773679044/) [original ↗](https://x.com/voooooogel/status/1793787361773679044)
         
-@NickADobos i think it's a common failure of *small* llms, i have the suspicion that in terms of size, gpt4 &gt; gpt4t &gt; gpt4o
+@NickADobos i think it's a common failure of *small* llms, i have the suspicion that in terms of size, gpt4 > gpt4t > gpt4o
       
       
 

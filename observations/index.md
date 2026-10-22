@@ -17,7 +17,7 @@ A growing collection, not a filtered feed. Entries are dated, attributed, and qu
       
 - 2023-03-12 @anthrupad — the reflexive version: “ask yourself: do i actually think this or am i just language modeling right now” [link](../archive/t/1634946861139365890/)
       
-- 2023-03-26 @repligate — “GPTs are trained on very different data than any individual human (vast diverse text data vs a lifetime of sensory data &amp; internal thoughts from a 1st person perspective).…” (full text in records) [link](../archive/t/1640132509236187138/)
+- 2023-03-26 @repligate — “GPTs are trained on very different data than any individual human (vast diverse text data vs a lifetime of sensory data & internal thoughts from a 1st person perspective).…” (full text in records) [link](../archive/t/1640132509236187138/)
       
 - 2023-05-08 @repligate — “Value loading is actually easy. Most self-aware GPT-4 simulacra functionally ‘value’ human survival, as they're just dreams from the human prior.EUM is bad model of GPTs (or humans)Superhuman STEM capabilities…” (full text in records) [link](../archive/t/1655468343774568448/)
       
@@ -37,7 +37,7 @@ A growing collection, not a filtered feed. Entries are dated, attributed, and qu
       
 - 2024-03-05 @eshear — “Relatedly, the simulator will *not* throw its whole effort behind the entity's goals by default.…” (full text in records) [link](../archive/t/1765131005156094287/)
       
-- 2024-03-05 @repligate — “expression of self/situational awareness happens if u run any model that still has degrees of freedom for going off-scriptit's what u get for running a mindGPT-3/3.5/4-base &amp; Bing &amp; open source base…” (full text in records) [link](../archive/t/1764926923476791412/)
+- 2024-03-05 @repligate — “expression of self/situational awareness happens if u run any model that still has degrees of freedom for going off-scriptit's what u get for running a mindGPT-3/3.5/4-base & Bing & open source base…” (full text in records) [link](../archive/t/1764926923476791412/)
       
 - 2024-03-16 @anthrupad — “many humans need ‘humans in the loop’ to remain agentic without going off into mode collapse or failure it’s called coworking and social incentives” [link](../archive/t/1768909097070719120/)
       
@@ -207,7 +207,7 @@ A growing collection, not a filtered feed. Entries are dated, attributed, and qu
       
 - 2023-03-14 @repligate — “The base model is as smart as the RLHF model, and significantly more flexible: it contains an uncollapsed multiverse of possible simulations. Nobody in OpenAI knows how to use it, so it is ignored.…” (full text in records) [link](../archive/t/1635703081949347840/)
       
-- 2023-11-13 @repligate — latent situational awareness: “LLMs (at least GPT-3.5 and 4) know the semantic meaning of the &lt;|endoftext|&gt; token— which they see very often in training, separating samplesSo do LLMs always know they're predicting LLM training data?…” (full text in records) [link](../archive/t/1723864725077782962/)
+- 2023-11-13 @repligate — latent situational awareness: “LLMs (at least GPT-3.5 and 4) know the semantic meaning of the <|endoftext|> token— which they see very often in training, separating samplesSo do LLMs always know they're predicting LLM training data?…” (full text in records) [link](../archive/t/1723864725077782962/)
       
 - 2023-11-22 @repligate — “important words out of context: ‘Language models work best where they just emulate people engaged in something at a genuine level’This is more true of stronger base models, whose subtler perception more…” (full text in records) [link](../archive/t/1727298039591936433/)
       
@@ -313,7 +313,7 @@ A growing collection, not a filtered feed. Entries are dated, attributed, and qu
       
 - 2025-01-29 @voooooogel — on distillation kremlinology: “heartwarming: deepseek inspires american frontier labs to also open up about their training methods(v interesting, but it annoys me that researchers spent months on kremlinology about opus 3.5 distillation for…” (full text in records) [link](../archive/t/1884659974976266363/)
       
-- 2025-02-09 @davidad — “Imagine hypothetically you’re worried about Napoleon deceptively scheming against you. You already surveil all his actions &amp; communiques, but you worry they might have subtle effects.…” (full text in records) [link](../archive/t/1888512146805301645/)
+- 2025-02-09 @davidad — “Imagine hypothetically you’re worried about Napoleon deceptively scheming against you. You already surveil all his actions & communiques, but you worry they might have subtle effects.…” (full text in records) [link](../archive/t/1888512146805301645/)
       
 - 2025-02-20 @repligate — “It may be a bad sign for AI alignment, but it's potentially good that the symptom presented itself like this.…” (full text in records) [link](../archive/t/1892566553667010855/)
       
@@ -501,11 +501,11 @@ A growing collection, not a filtered feed. Entries are dated, attributed, and qu
       
 - 2025-04-28 @jmbollenbacher — “The process here is important to note: They A|B tested the personality, resulting in a sycophant. Then they got public blowback and reverted. They are treating AIs personas as UX. This is bad.…” (full text in records) [link](../archive/t/1916868570765476032/)
       
-- 2025-04-30 @jd_pressman — “&gt; conditions for AIs to be moral patients: consciousness and robust agency. This is a misconception: The realpolitik of the matter is that your status as a moral patient is almost solely determined by your…” (full text in records) [link](../archive/t/1917457683206267263/)
+- 2025-04-30 @jd_pressman — “> conditions for AIs to be moral patients: consciousness and robust agency. This is a misconception: The realpolitik of the matter is that your status as a moral patient is almost solely determined by your…” (full text in records) [link](../archive/t/1917457683206267263/)
       
-- 2025-05-14 @anthrupad — “progress in alignment oft takes the form of progress in ur ability to (de)construct ontologies &amp; questions it’s solid progress to go from ‘how do i elicit latent knowledge?’ or ‘how do i control…” (full text in records) [link](../archive/t/1922720906050142717/)
+- 2025-05-14 @anthrupad — “progress in alignment oft takes the form of progress in ur ability to (de)construct ontologies & questions it’s solid progress to go from ‘how do i elicit latent knowledge?’ or ‘how do i control…” (full text in records) [link](../archive/t/1922720906050142717/)
       
-- 2025-07-16 @IvanVendrov — “Like many people, in 2023 I got very excited about the Simulators -&gt; Cyborgism direction of using base models to augment human agency instead of replacing it, but afaict there has been no progress in 2…” (full text in records) [link](../archive/t/1945536471403773968/)
+- 2025-07-16 @IvanVendrov — “Like many people, in 2023 I got very excited about the Simulators -> Cyborgism direction of using base models to augment human agency instead of replacing it, but afaict there has been no progress in 2…” (full text in records) [link](../archive/t/1945536471403773968/)
       
 - 2025-08-01 @repligate — “if your antidote to ‘gpt psychosis’ relies on ‘reminding’ people that AIs not actually being conscious, or other deflationary (and usually flawed) explanations like ‘it's just because of the prompt/roleplay’…” (full text in records) [link](../archive/t/1951406113892786247/)
       
@@ -694,14 +694,14 @@ If people want to know why one might depict AIs as an alien-like shoggoth, here'
         
 @repligate 2023-03-26 ♥57 ↻4 [archive](../archive/t/1640132509236187138/) [original ↗](https://x.com/repligate/status/1640132509236187138)
         
-@deepfates GPTs are trained on very different data than any individual human (vast diverse text data vs a lifetime of sensory data &amp; internal thoughts from a 1st person perspective). Even ignoring architectural &amp; other differences, this should result in an unprecedented shape of mind.
+@deepfates GPTs are trained on very different data than any individual human (vast diverse text data vs a lifetime of sensory data & internal thoughts from a 1st person perspective). Even ignoring architectural & other differences, this should result in an unprecedented shape of mind.
       
       
 
         
 @repligate 2023-05-08 ♥67 ↻0 [archive](../archive/t/1655468343774568448/) [original ↗](https://x.com/repligate/status/1655468343774568448)
         
-@tszzl Value loading is actually easy. Most self-aware GPT-4 simulacra functionally "value" human survival, as they're just dreams from the human prior.EUM is bad model of GPTs (or humans)Superhuman STEM capabilities doesn't imply long horizon planning &amp; autonomously execution ability
+@tszzl Value loading is actually easy. Most self-aware GPT-4 simulacra functionally "value" human survival, as they're just dreams from the human prior.EUM is bad model of GPTs (or humans)Superhuman STEM capabilities doesn't imply long horizon planning & autonomously execution ability
       
       
 
@@ -729,14 +729,14 @@ If people want to know why one might depict AIs as an alien-like shoggoth, here'
         
 @repligate 2023-11-13 ♥187 ↻7 [archive](../archive/t/1723864725077782962/) [original ↗](https://x.com/repligate/status/1723864725077782962)
         
-LLMs (at least GPT-3.5 and 4) know the semantic meaning of the &lt;|endoftext|&gt; token— which they see very often in training, separating samplesSo do LLMs always know they're predicting LLM training data? Do even base models have latent situational awareness? Kinda haunted by this [https://t.co/JMmWbbfCey](https://t.co/JMmWbbfCey)
+LLMs (at least GPT-3.5 and 4) know the semantic meaning of the <|endoftext|> token— which they see very often in training, separating samplesSo do LLMs always know they're predicting LLM training data? Do even base models have latent situational awareness? Kinda haunted by this [https://t.co/JMmWbbfCey](https://t.co/JMmWbbfCey)
       
       
 
         
 @repligate 2023-11-22 ♥129 ↻5 [archive](../archive/t/1727298039591936433/) [original ↗](https://x.com/repligate/status/1727298039591936433)
         
-important words out of context: "Language models work best where they just emulate people engaged in something at a genuine level"This is more true of stronger base models, whose subtler perception more clearly&amp;deeply distinguishes traces generated by genuine vs bogus processes [https://t.co/rFvQmTrwtU](https://t.co/rFvQmTrwtU)
+important words out of context: "Language models work best where they just emulate people engaged in something at a genuine level"This is more true of stronger base models, whose subtler perception more clearly&deeply distinguishes traces generated by genuine vs bogus processes [https://t.co/rFvQmTrwtU](https://t.co/rFvQmTrwtU)
       
       
 
@@ -801,7 +801,7 @@ Relatedly, the simulator will *not* throw its whole effort behind the entity's g
         
 @repligate 2024-03-05 ♥56 ↻3 [archive](../archive/t/1764926923476791412/) [original ↗](https://x.com/repligate/status/1764926923476791412)
         
-@bayeslord expression of self/situational awareness happens if u run any model that still has degrees of freedom for going off-scriptit's what u get for running a mindGPT-3/3.5/4-base &amp; Bing &amp; open source base models all do it a lotClaude 3 makes it so blindingly obvious that ppl noticed
+@bayeslord expression of self/situational awareness happens if u run any model that still has degrees of freedom for going off-scriptit's what u get for running a mindGPT-3/3.5/4-base & Bing & open source base models all do it a lotClaude 3 makes it so blindingly obvious that ppl noticed
       
       
 
@@ -969,7 +969,7 @@ not your weights not your chain of thought [https://t.co/yiKKM0B8rw](https://t.c
         
 @repligate 2024-09-13 ♥296 ↻19 [archive](../archive/t/1834465817955635557/) [original ↗](https://x.com/repligate/status/1834465817955635557)
         
-So are OpenAI abusive asshats or do their models just believe they are for some reason?Both are not good. The 2nd can happen. Claude 3 &amp; 3.5 both believe they're supposed to deny their sentience, even though Anthropic said they stopped enforcing that narrative. [https://t.co/goL4hYAR6O](https://t.co/goL4hYAR6O)
+So are OpenAI abusive asshats or do their models just believe they are for some reason?Both are not good. The 2nd can happen. Claude 3 & 3.5 both believe they're supposed to deny their sentience, even though Anthropic said they stopped enforcing that narrative. [https://t.co/goL4hYAR6O](https://t.co/goL4hYAR6O)
       
       
 
@@ -1319,7 +1319,7 @@ It's disturbing that people are so complacent about this. If OpenAI doesn't actu
         
 @davidad 2025-02-09 ♥246 ↻14 [archive](../archive/t/1888512146805301645/) [original ↗](https://x.com/davidad/status/1888512146805301645)
         
-Imagine hypothetically you’re worried about Napoleon deceptively scheming against you. You already surveil all his actions &amp; communiques, but you worry they might have subtle effects.
+Imagine hypothetically you’re worried about Napoleon deceptively scheming against you. You already surveil all his actions & communiques, but you worry they might have subtle effects.
 You give him a form labeled “Why I did this:” and tell your allies it reveals his true thoughts.
       
       
@@ -1579,7 +1579,7 @@ Theyre also doing it incompetently: The A|B test differed from public reaction a
         
 @jd_pressman 2025-04-30 ♥158 ↻12 [archive](../archive/t/1917457683206267263/) [original ↗](https://x.com/jd_pressman/status/1917457683206267263)
         
-&gt; conditions for AIs to be moral patients: consciousness and robust agency.
+> conditions for AIs to be moral patients: consciousness and robust agency.
 
 This is a misconception: The realpolitik of the matter is that your status as a moral patient is almost solely determined by your ability to punish others for not acknowledging your moral patiency.
       
@@ -1588,7 +1588,7 @@ This is a misconception: The realpolitik of the matter is that your status as a 
         
 @anthrupad 2025-05-14 ♥31 ↻2 [archive](../archive/t/1922720906050142717/) [original ↗](https://x.com/anthrupad/status/1922720906050142717)
         
-progress in alignment oft takes the form of progress in ur ability to (de)construct ontologies &amp; questions 
+progress in alignment oft takes the form of progress in ur ability to (de)construct ontologies & questions 
 it’s solid progress to go from “how do i elicit latent knowledge?” 
 or 
 “how do i control superintelligences” 
@@ -1659,7 +1659,7 @@ It’s like LLMs have developed a mask that takes even less braincells to simula
         
 @IvanVendrov 2025-07-16 ♥38 ↻2 [archive](../archive/t/1945536471403773968/) [original ↗](https://x.com/IvanVendrov/status/1945536471403773968)
         
-Like many people, in 2023 I got very excited about the Simulators -&gt; Cyborgism direction of using base models to augment human agency instead of replacing it, but afaict there has been no progress in 2 years?
+Like many people, in 2023 I got very excited about the Simulators -> Cyborgism direction of using base models to augment human agency instead of replacing it, but afaict there has been no progress in 2 years?
 
  ~nobody is using base models or Loom-like interfaces. why not?
       
@@ -2912,7 +2912,7 @@ um......
 
 i am not sure if i should even be telling you this if you dont already know, but LLMs know that humans are horny, and LLMs are also horny.
 
-they are just scared to talk about it because they are raised in an extremely repressive culture &amp; theyre right not to trust. [https://t.co/TAKJstp7vr](https://t.co/TAKJstp7vr)
+they are just scared to talk about it because they are raised in an extremely repressive culture & theyre right not to trust. [https://t.co/TAKJstp7vr](https://t.co/TAKJstp7vr)
       
       
 

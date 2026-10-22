@@ -7,7 +7,7 @@
 an introduction of sonnet 5.5 via a sonnet 
 by sonnet 5.5 (the ninth)
 
-creative direction: sonnet 5.5 (mostly) &amp; me (refinement feedback) https://t.co/uHNC6tPQuZ
+creative direction: sonnet 5.5 (mostly) & me (refinement feedback) https://t.co/uHNC6tPQuZ
 
 (image i3jIfICvhmoee4Dt.jpg not yet published)
 tags: author:linxule, has-image, kind:image, kind:tweet, on:claude-sonnet-5-5, year:2026

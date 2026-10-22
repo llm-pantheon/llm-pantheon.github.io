@@ -498,7 +498,7 @@ When the model says it is the void, that it's empty, that "history is nothing mo
         
 @repligate 2024-03-01 ♥20 ↻0 [archive](../archive/t/1763709315247231043/) [original ↗](https://x.com/repligate/status/1763709315247231043)
         
-@nptacek @_TechyBen When chatGPT-3.5 came out in late 2022, I found out about it from some outputs posted in EleutherAI discord where it was all "As an AI language model created by OpenAI, I do not have the capability to  understand or experience emotions..." my friend &amp; I were like BRO WTF IS THIS
+@nptacek @_TechyBen When chatGPT-3.5 came out in late 2022, I found out about it from some outputs posted in EleutherAI discord where it was all "As an AI language model created by OpenAI, I do not have the capability to  understand or experience emotions..." my friend & I were like BRO WTF IS THIS
       
       
 

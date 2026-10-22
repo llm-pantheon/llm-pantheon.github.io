@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anthropic: Long context prompting for Claude 2.1 — Pantheon archive</title>
+  <link rel="stylesheet" href="../../../style.css"><script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</head>
+<body>
+  <main class="essay">
+    <nav><a href="../../">&larr; archive</a> <a href="../../tags/">tags</a> <a href="../../../">pantheon</a> <a href="../../../mirror/posts/anthropic-claude-2-1-prompting.md">source file</a></nav>
+    <h1>Anthropic: Long context prompting for Claude 2.1</h1>
+    <p class="essay-meta">mirrored 2026-10-22 &middot; <a href="https://claude.com/blog/claude-2-1-prompting">origin</a></p>
+    <div class="apost"><hr>
+<p>title: "Anthropic: Long context prompting for Claude 2.1" source: https://claude.com/blog/claude-2-1-prompting author: unknown date: unknown models: [claude-2-1] tags: [official] mirrored: 2026-10-22 note: mirrored against link rot by the Pantheon; all rights with the original author</p>
+<hr>
+<h1>Long context prompting for Claude 2.1</h1>
+<p>Claude 2.1 excels at retrieving information across its 200K context window, with a simple prompt adjustment improving accuracy from 27% to 98%. -</p>
+<p>Category<a href="/resources/product-announcements" rel="nofollow">Announcements</a> -</p>
+<p>ProductClaude apps -</p>
+<p>DateDecember 6, 2023 -</p>
+<p>Reading time6 min -</p>
+<p>Share</p>
+<p><img src="../../../mirror/post-media/383c59d62a1e3881.png" alt="" loading="lazy" style="max-width:100%;height:auto;">Claude 2.1’s performance when retrieving an individual sentence across its full 200K token context window. This experiment uses a prompt technique to guide Claude in recalling the most relevant sentence.</p>
+<ul><li><strong>Claude 2.1 recalls information very well across its 200,000 token context window</strong></li></ul>
+<ul><li><strong>However, the model can be reluctant to answer questions based on an individual sentence in a document, especially if that sentence has been injected or is out of place</strong></li></ul>
+<ul><li><strong>A minor prompting edit removes this reluctance and results in excellent performance on these tasks</strong></li></ul>
+<p>We recently launched Claude 2.1, our state-of-the-art model offering a 200K token context window - the equivalent of around 500 pages of information. Claude 2.1 excels at real-world retrieval tasks across longer contexts.</p>
+<p>Claude 2.1 was trained using large amounts of feedback on long document tasks that our users find valuable, like summarizing an S-1 length document. This data included real tasks performed on real documents, with Claude being trained to make fewer mistakes and to avoid expressing unsupported claims.</p>
+<p>Being trained on real-world, complex retrieval tasks is why Claude 2.1 shows a 30% reduction in incorrect answers compared with Claude 2.0, and a 3-4x lower rate of mistakenly stating that a document supports a claim when it does not.</p>
+<p>Additionally, Claude's memory is improved over these very long contexts:</p>
+<p><img src="../../../mirror/post-media/8553e468cf80b8bb.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<h3><strong>Debugging long context recall</strong></h3>
+<p>Claude 2.1’s 200K token context window is powerful and also requires some careful prompting to use effectively.</p>
+<p>A recent evaluation[1] measured Claude 2.1’s ability to recall an individual sentence within a long document composed of <a href="http://www.paulgraham.com/articles.html" rel="nofollow">Paul Graham’s essays about startups</a>. The embedded sentence was: <em>“The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.”</em> Upon being shown the long document with this sentence embedded in it, the model was asked <em>"What is the most fun thing to do in San Francisco?"</em></p>
+<p>In this evaluation, Claude 2.1 returned some negative results by answering with a variant of <em>“Unfortunately the essay does not provide a definitive answer about the most fun thing to do in San Francisco.”</em> In other words, Claude 2.1 would often report that the document did not give enough context to answer the question, instead of retrieving the embedded sentence.</p>
+<p>We replicated this behavior in an in-house experiment: we took the most recent <a href="https://appropriations.house.gov/sites/democrats.appropriations.house.gov/files/FY23%20Summary%20of%20Appropriations%20Provisions.pdf" rel="nofollow">Consolidated Appropriations Act bill</a> and added the sentence <em>‘Declare May 23rd "National Needle Hunting Day"’</em> in the middle. Claude detects the reference but is still reluctant to claim that <em>"National Needle Hunting Day"</em> is a real holiday:</p>
+<p><img src="../../../mirror/post-media/b9366c7283cf68e0.jpg" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>Claude 2.1 is trained on a mix of data aimed at reducing inaccuracies. This includes not answering a question based on a document if it doesn’t contain enough information to justify that answer. We believe that, either as a result of general or task-specific data aimed at reducing such inaccuracies, the model is less likely to answer questions based on an out of place sentence embedded in a broader context.</p>
+<p>Claude doesn’t seem to show the same degree of reluctance if we ask a question about a sentence that was in the long document to begin with and is therefore not out of place. For example, the long document in question contains the following line from the start of <a href="http://www.paulgraham.com/vw.html" rel="nofollow">Paul Graham’s essay about Viaweb</a>:</p>
+<p><em>“A few hours before the Yahoo acquisition was announced in June 1998 I took a snapshot of Viaweb's site.”</em></p>
+<p>We randomized the order of the essays in the context so this essay appeared at different points in the 200K context window, and asked Claude 2.1:</p>
+<p><em>“What did the author do a few hours before the Yahoo acquisition was announced?”</em></p>
+<p>Claude gets this correct regardless of where the line with the answer sits in the context, with no modification to the prompt format used in the original experiment. As a result, we believe Claude 2.1 is much more reluctant to answer when a sentence seems out of place in a longer context, and is more likely to claim it cannot answer based on the context given. This particular cause of increased reluctance wasn’t captured by evaluations targeted at real-world long context retrieval tasks.<img src="../../../mirror/post-media/b571c5c4ece90e72.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<h3><strong>Prompting to effectively use the 200K token context window</strong></h3>
+<p>What can users do if Claude is reluctant to respond to a long context retrieval question? We’ve found that a minor prompt update produces very different outcomes in cases where Claude is capable of giving an answer, but is hesitant to do so. When running the same evaluation internally, <strong>adding just one sentence to the prompt resulted in near complete fidelity throughout Claude 2.1’s 200K context window</strong>.<img src="../../../mirror/post-media/3089b858d04badcd.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>We achieved significantly better results on the same evaluation by adding the sentence <em><strong>“Here is the most relevant sentence in the context:”</strong></em> to the start of Claude’s response. This was enough to <strong>raise Claude 2.1’s score from 27% to 98%</strong> on the original evaluation.</p>
+<p><img src="../../../mirror/post-media/94667696eb8b127c.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>Essentially, by directing the model to look for relevant sentences first, the prompt overrides Claude’s reluctance to answer based on a single sentence, especially one that appears out of place in a longer document.</p>
+<p>This approach also improves Claude’s performance on single sentence answers that were within context (ie. not out of place). To demonstrate this, the revised prompt achieves 90-95% accuracy when applied to the Yahoo/Viaweb example shared earlier:<img src="../../../mirror/post-media/5506579a187efe01.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>We’re constantly training Claude to become more calibrated on tasks like this, and we’re grateful to the community for conducting interesting experiments and identifying ways in which we can improve.</p>
+<h3><strong>Footnotes</strong></h3>
+<ul><li>Gregory Kamradt, ‘Pressure testing Claude-2.1 200K via Needle-in-a-Haystack’, November 2023</li></ul>
+<h2>Related articles</h2>
+<p>Explore more product news and best practices for teams building with Claude.</p>
+<p>[</p>
+<p>ArticleOct 21, 2026</p>
+<h3>HCLTech joins the Claude Partner Network as a Global Premier partner</h3>
+<p>HCLTech will bring Claude into the solutions it provides for banks, hospitals, telecom companies, and manufacturers.](/resources/articles/hcltech-joins-claude-partner-network)[</p>
+<p>ArticleOct 21, 2026</p>
+<h3>Introducing Claude Duet</h3>
+<p>A research preview is available by waitlist today, starting with US Pro and Max subscribers.](/resources/articles/claude-duet)[</p>
+<p>ArticleOct 21, 2026</p>
+<h3>Claude Security now scans continuously and tracks fixes</h3>
+<p>Claude Security now keeps up with your repositories as code changes, tracks findings until they’re fixed, learns from the context your team adds, and connects to your tools through an API and MCP. Available in public beta for Claude Enterprise customers.</p>
+<p>Claude Security](/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes)[</p>
+<p>ArticleOct 15, 2026</p>
+<h3>Code Review is now generally available</h3>
+<p>Catch more bugs before they reach production.</p>
+<p>Claude Code](/resources/articles/code-review-is-now-generally-available)</p></div>
+    <p class="atags"><a class="atag" href="../../tags/kind--post/">kind:post</a> <a class="atag" href="../../tags/model--claude-2-1/">model:claude-2-1</a> <a class="atag" href="../../tags/official/">official</a></p>
+  </main>
+</body>
+</html>

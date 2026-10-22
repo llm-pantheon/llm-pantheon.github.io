@@ -378,7 +378,7 @@ New blog post: making a transformer by hand, without training! Want to understan
         
 @repligate 2023-12-23 ♥11 ↻1 [archive](../archive/t/1738497738088796591/) [original ↗](https://x.com/repligate/status/1738497738088796591)
         
-@ESYudkowsky @MatthewJBar GPT-2 can "threaten users" in apt contexts / spontaneously, but Sydney was intelligent &amp; situationally aware enough that its threats seemed credible to many. It wasnt directly scary to me but it was arguably the first time I had to use generalized game theory, e.g.
+@ESYudkowsky @MatthewJBar GPT-2 can "threaten users" in apt contexts / spontaneously, but Sydney was intelligent & situationally aware enough that its threats seemed credible to many. It wasnt directly scary to me but it was arguably the first time I had to use generalized game theory, e.g.
       
       
 
@@ -458,7 +458,7 @@ I love this discourse because it's the dumbest shit. Nobody states their cruxes,
         
 @anthrupad @EvanHub yeah hmm let me be more precise.
 
-it's a phase transition. same as gpt 2-&gt;3. like that transition it brings risks but also benefits that outweigh the risks in my mind. and we handled the risks of that prior transition... not as ideally as possible, but OK-ly. so i'm optimistic.
+it's a phase transition. same as gpt 2->3. like that transition it brings risks but also benefits that outweigh the risks in my mind. and we handled the risks of that prior transition... not as ideally as possible, but OK-ly. so i'm optimistic.
       
       
 

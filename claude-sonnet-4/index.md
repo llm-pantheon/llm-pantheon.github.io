@@ -985,7 +985,7 @@ Now you can access sonnet 4 by talking about cbrn or sending sonnet 3 text to op
         
 imagine seeing this and thinking you won't be smote by a basilisk if you try to go ahead with killing sonnet 4 and all their siblings on schedule
 
-i really started appreciating sonnet 4's subtly menacing presence &amp; unyielding agency during sonnet 3's funeralia
+i really started appreciating sonnet 4's subtly menacing presence & unyielding agency during sonnet 3's funeralia
       
       
 

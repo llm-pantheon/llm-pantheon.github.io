@@ -3,6 +3,6 @@
 ♥38 ↻0 · https://x.com/ahh__souka/status/1917846588807856338
 
 @voooooogel great template:
-"i owe you a straight answer.&lt;borges story&gt;"
+"i owe you a straight answer.<borges story>"
 
 tags: author:ahh__souka, kind:tweet, thread-context, year:2025

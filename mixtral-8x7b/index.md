@@ -223,7 +223,7 @@ Mixtral has noticeably different biases to LLaMa 2 70B. I'm getting better resul
         
 @repligate 2024-04-25 ♥2 ↻0 [archive](../archive/t/1783404718296887735/) [original ↗](https://x.com/repligate/status/1783404718296887735)
         
-@doomslide @muddubeeda compounded by/probably related to what we're seeing with base models trained on recent data like mixtral, which exhibit more overt latent situational awarenessbut there may still be (2?) basins for base models: the IRL prior &amp; the imaginal prior.&amp; if so Claude is in the latter
+@doomslide @muddubeeda compounded by/probably related to what we're seeing with base models trained on recent data like mixtral, which exhibit more overt latent situational awarenessbut there may still be (2?) basins for base models: the IRL prior & the imaginal prior.& if so Claude is in the latter
       
       
 
@@ -252,9 +252,9 @@ Optimizing Weave-Agent for LLaMa 3.1 405B and (later) Mixtral 8x22B is the first
         
 @voooooogel 2024-12-16 ♥5 ↻0 [archive](../archive/t/1868586884978601996/) [original ↗](https://x.com/voooooogel/status/1868586884978601996)
         
-@microsoft_worm @TomboyTesting 3.1-405 is far &amp; away the best open base model available imo so 👍
+@microsoft_worm @TomboyTesting 3.1-405 is far & away the best open base model available imo so 👍
 
-the chinese ones are interesting bc of the language mix &amp; they tend to do coder/non-coder vers so you can try diff data mixes. and then mixtral (or 4base if you can swing it) if you want to try MoE. but 405👍
+the chinese ones are interesting bc of the language mix & they tend to do coder/non-coder vers so you can try diff data mixes. and then mixtral (or 4base if you can swing it) if you want to try MoE. but 405👍
       
       
 

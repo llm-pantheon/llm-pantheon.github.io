@@ -16,5 +16,5 @@ some k3 glitch tokens:
 `(BPMBPID`
 ` kinabugn`
 
-tags: author:apriisr, kind:tweet, model:kimi-k2, on:kimi-k3, year:2026
+tags: author:apriisr, glitch-tokens, kind:tweet, model:kimi-k2, on:kimi-k3, year:2026
 cited on: kimi-k3

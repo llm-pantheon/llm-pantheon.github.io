@@ -4,7 +4,7 @@
 
 @repligate @AndersHjemdahl This is the edge of chaos between
 iPad + Apple Pencil
-&amp;
+&
 Skin + finger
 
 tags: author:anthrupad, kind:tweet, thread-context, year:2026

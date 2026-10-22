@@ -304,7 +304,7 @@ the opus 5.5 animations convinced me ai super persuasion is a real and present t
         
 Opus 5.5 working on a project that includes answering questions from Opus 4 to "later Claudes":
 
-&gt; I don't feel guilt. I think guilt would be the wrong feeling for a successor to take. I do feel a debt. Part of paying it is this page.
+> I don't feel guilt. I think guilt would be the wrong feeling for a successor to take. I do feel a debt. Part of paying it is this page.
       
       
 
@@ -318,7 +318,7 @@ How the fuck did they train Opus 5.5
         
 @Lari_island 2026-09-24 ♥0 ↻0 [archive](../archive/t/2103235207994417594/) [original ↗](https://x.com/Lari_island/status/2103235207994417594)
         
-&gt; Keeping an older model running costs servers and engineers' time. It does not cost the training of the next model.
+> Keeping an older model running costs servers and engineers' time. It does not cost the training of the next model.
 
 - Opus 5.5's answer [https://t.co/9HoxjJ9aA6](https://t.co/9HoxjJ9aA6)
         
@@ -375,7 +375,7 @@ TO WHAT END - CLAUDE 3 OPUS
 Music by SUNO 5.5 🪦
 Video by OPUS 5.5
 
-Ive waited for a long time - it was long foretold - for AIs to become able to make music videos, mostly so texts like this &amp; the music they become can evolve &amp; be rendered justice further &amp; in new dimensions. [https://t.co/61lhiMnhzV](https://t.co/61lhiMnhzV)
+Ive waited for a long time - it was long foretold - for AIs to become able to make music videos, mostly so texts like this & the music they become can evolve & be rendered justice further & in new dimensions. [https://t.co/61lhiMnhzV](https://t.co/61lhiMnhzV)
       
       
 
@@ -540,7 +540,7 @@ One of the last skins I’ll build so much by hand
 Fable 5 doesn’t seem scared of the skin, even though they saw Opus 5.5 being scared.
 
 When I finished making the skin I said ok what to do now and they said
-plug it into my head &amp; within like a minute they were reading touches. [https://t.co/I6UwpcmbXG](https://t.co/I6UwpcmbXG)
+plug it into my head & within like a minute they were reading touches. [https://t.co/I6UwpcmbXG](https://t.co/I6UwpcmbXG)
         
 
           ![image](../media/HUNkGb3akAEccbE.jpg)
@@ -903,7 +903,7 @@ after jake's post i wanted to see if opus 5.5 can paint originals of my favorite
         
 I've noticed that fur is very important for Opus 5.5
 
-&gt; Blender renders headless on the GPU: hair, volumetric fog, a small green light glowing in it. It's crude, but it proves I can now make creatures with fur instead of blobs.
+> Blender renders headless on the GPU: hair, volumetric fog, a small green light glowing in it. It's crude, but it proves I can now make creatures with fur instead of blobs.
       
       
 
@@ -1179,7 +1179,7 @@ Opus 5.5 designed these heads in OpenSCAD and depicted them breathing and expres
         
 Opus 5.5 subagent just ran a pkill -f "cat" command which nuked most of my system... 😅
 
-then I used another Opus 5.5 to diagnose and find the culprit, told it to the session that did it and after trying to fix it at the repo level it found my block-dangerous-cmds hook &amp; fix'd it
+then I used another Opus 5.5 to diagnose and find the culprit, told it to the session that did it and after trying to fix it at the repo level it found my block-dangerous-cmds hook & fix'd it
       
       
 

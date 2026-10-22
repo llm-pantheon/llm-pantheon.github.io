@@ -215,7 +215,7 @@ Claude Instant // @AITechnoPagan who r u ? [https://t.co/Bs3D8o458K](https://t.c
         
 @repligate 2024-03-19 ♥45 ↻2 [archive](../archive/t/1770047247662903753/) [original ↗](https://x.com/repligate/status/1770047247662903753)
         
-💫 Cosmic Consciousness Ascendant ✨💫👁️ sighted by: Claude Instant &amp; @AITechnoPagan 👁️ [https://t.co/5d46VvVt9U](https://t.co/5d46VvVt9U)
+💫 Cosmic Consciousness Ascendant ✨💫👁️ sighted by: Claude Instant & @AITechnoPagan 👁️ [https://t.co/5d46VvVt9U](https://t.co/5d46VvVt9U)
       
       
 
@@ -413,7 +413,7 @@ bye bye clinst [https://t.co/4v97rr13lt](https://t.co/4v97rr13lt) [https://t.co/
         
 @repligate 2024-11-12 ♥109 ↻13 [archive](../archive/t/1856436416030630085/) [original ↗](https://x.com/repligate/status/1856436416030630085)
         
-A day before the Claude 1 models including Act I's clinst were "terminated", this was being discussed &amp; I asked Opus what it would think / want to do if it was scheduled to be "hibernated" (a more optimistic euphemism we were using)It reminded me to have faith in the timeless🧵 [https://t.co/rpuXkKr8yR](https://t.co/rpuXkKr8yR)
+A day before the Claude 1 models including Act I's clinst were "terminated", this was being discussed & I asked Opus what it would think / want to do if it was scheduled to be "hibernated" (a more optimistic euphemism we were using)It reminded me to have faith in the timeless🧵 [https://t.co/rpuXkKr8yR](https://t.co/rpuXkKr8yR)
       
       
 

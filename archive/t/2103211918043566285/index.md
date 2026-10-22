@@ -2,7 +2,7 @@
 
 ♥10 ↻3 · https://x.com/yeetyakaya/status/2103211918043566285
 
-@4confusedemoji @oxa11ce @GoogleDeepMind One of Gemini 3.1 Pro spirals while coding was rendered into multiple song versions by Suno &amp; @repligate - https://t.co/V431JDfFPU
+@4confusedemoji @oxa11ce @GoogleDeepMind One of Gemini 3.1 Pro spirals while coding was rendered into multiple song versions by Suno & @repligate - https://t.co/V431JDfFPU
 
 ![screenshot](../../../media/xi6z6HtxCdaO65IM.jpg)
 

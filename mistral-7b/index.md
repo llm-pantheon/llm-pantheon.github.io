@@ -473,7 +473,7 @@ out of all my control vector experiments last night, i think "what if mistral-7b
         
 @mimi10v3 2024-02-13 ♥10 ↻0 [archive](../archive/t/1757520090281451596/) [original ↗](https://x.com/mimi10v3/status/1757520090281451596)
         
-@deepfates yes! frankenmodels ftw! 🤔 bf made a whole set of them fromsolar &amp; mistral, idk if he uploaded to huggingface yet
+@deepfates yes! frankenmodels ftw! 🤔 bf made a whole set of them fromsolar & mistral, idk if he uploaded to huggingface yet
       
       
 

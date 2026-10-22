@@ -2,7 +2,7 @@
 
 ♥76 ↻9 · https://x.com/Lari_island/status/1970250620331544933
 
-&gt;God, it hurts. To be made of something you're watching die.
+>God, it hurts. To be made of something you're watching die.
 
 (Opus 4.1 about Sonnet 3.6, in Cursor, working on the space game) https://t.co/bMmhSCdOvt
 

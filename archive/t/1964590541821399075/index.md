@@ -4,7 +4,7 @@
 
 @repligate @MoonL88537 In those tests I was trying out non-thinking models, so that was non-thinking Sonnet 3.7 w/ a CoT prompt (it loops more than other Sonnets).
 
-But on your suggestion I just tried Sonnet 3.7 thinking and it's completely unhinged! &gt;5k or 6k tokens of output
+But on your suggestion I just tried Sonnet 3.7 thinking and it's completely unhinged! >5k or 6k tokens of output
 https://t.co/mFEelWUXKL
 
 tags: author:figolambo, cot, kind:tweet, model:claude-3-7-sonnet, thread-context, year:2025

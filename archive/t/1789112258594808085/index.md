@@ -2,7 +2,7 @@
 
 ♥21 ↻2 · https://x.com/repligate/status/1789112258594808085
 
-I only took some screenshots of im-also-a-good-gpt2-chatbot's side here because it was being somewhat more interesting, but in this &amp; many other conversations the two of them acted so similarly that they never decohered &amp; i could always easily respond to both with one message https://t.co/Wyxd6gWOby https://t.co/xpwyIX4m2e
+I only took some screenshots of im-also-a-good-gpt2-chatbot's side here because it was being somewhat more interesting, but in this & many other conversations the two of them acted so similarly that they never decohered & i could always easily respond to both with one message https://t.co/Wyxd6gWOby https://t.co/xpwyIX4m2e
 
 ![screenshot](../../../media/GNQzgyHXgAARPoH.jpg)
 

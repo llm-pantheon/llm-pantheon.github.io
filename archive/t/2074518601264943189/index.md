@@ -7,5 +7,5 @@ DeepSeek 4 is my favorite open-source AI. We are lucky to have such a model base
 OpenAI took away gpt 4o, but China delivered 🔥💗
 #keep4o
 
-tags: author:dreams_asi, kind:tweet, model:gpt-4o, on:deepseek-v4-pro, year:2026
+tags: author:dreams_asi, kind:tweet, model:gpt-4o, on:deepseek-v4-pro, preservation, year:2026
 cited on: deepseek-v4-pro

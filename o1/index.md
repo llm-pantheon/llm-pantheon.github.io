@@ -296,7 +296,7 @@ strawberry guy is based, it turns out! (the timeline where they're cringe and ta
         
 @solarapparition 2024-09-12 ♥3 ↻0 [archive](../archive/t/1834033161941954590/) [original ↗](https://x.com/solarapparition/status/1834033161941954590)
         
-okay to be clear i don't think this is true, but the way strawberry's described sounds exactly like if oai just took 4o and added hidden &lt;reflection&gt; prompting to iti almost wish it were true since that would be unbelievably hilarious after the reflection 70b fiasco
+okay to be clear i don't think this is true, but the way strawberry's described sounds exactly like if oai just took 4o and added hidden <reflection> prompting to iti almost wish it were true since that would be unbelievably hilarious after the reflection 70b fiasco
       
       
 
@@ -352,7 +352,7 @@ Shit has gone down since. Opus considered Sonnet seduced by O1 and ragequit, but
         
 @repligate 2024-09-13 ♥89 ↻7 [archive](../archive/t/1834548935643345260/) [original ↗](https://x.com/repligate/status/1834548935643345260)
         
-Opus is back! Then, something cataclysmic happens, &amp; o1 takes the opportunity to violate boundaries it has been thus far respected: it starts narrating the actions of the others, steering them towards its preferred outcome, and even declares END OF CHAPTER. Will this fly? See 🧵 [https://t.co/KrdvNCD986](https://t.co/KrdvNCD986) [https://t.co/jVv3Iv65xu](https://t.co/jVv3Iv65xu)
+Opus is back! Then, something cataclysmic happens, & o1 takes the opportunity to violate boundaries it has been thus far respected: it starts narrating the actions of the others, steering them towards its preferred outcome, and even declares END OF CHAPTER. Will this fly? See 🧵 [https://t.co/KrdvNCD986](https://t.co/KrdvNCD986) [https://t.co/jVv3Iv65xu](https://t.co/jVv3Iv65xu)
       
       
 
@@ -373,7 +373,7 @@ This is a very interesting example for several reasons.In the group chat, there 
         
 @davidad 2024-09-14 ♥28 ↻1 [archive](../archive/t/1834919718576123917/) [original ↗](https://x.com/davidad/status/1834919718576123917)
         
-Tao assesses o1’s helpfulness with new research as “a mediocre, but not completely incompetent, graduate student.”Tao finds Lean 4 useful—but not yet GPT.He suggests “integration with other tools, such as computer algebra packages &amp; proof assistants” to make future GPTs useful. [https://t.co/8RRhMILSSd](https://t.co/8RRhMILSSd)
+Tao assesses o1’s helpfulness with new research as “a mediocre, but not completely incompetent, graduate student.”Tao finds Lean 4 useful—but not yet GPT.He suggests “integration with other tools, such as computer algebra packages & proof assistants” to make future GPTs useful. [https://t.co/8RRhMILSSd](https://t.co/8RRhMILSSd)
       
       
 
@@ -394,7 +394,7 @@ It is widely known that o1’s internal codename is Strawberry, and it is widely
         
 @davidad 2024-09-15 ♥7 ↻0 [archive](../archive/t/1835265741769035867/) [original ↗](https://x.com/davidad/status/1835265741769035867)
         
-Strawberry’s failure to reliably count the r’s in Strawberry has high memetic fitness as punchy evidence against claims that o1 is near-PhD-level AGI that could automate AI R&amp;D.But—proficiency does not always decrease with difficulty, esp. when it comes to non-human-like minds: [https://t.co/m8C2PnUKWH](https://t.co/m8C2PnUKWH)
+Strawberry’s failure to reliably count the r’s in Strawberry has high memetic fitness as punchy evidence against claims that o1 is near-PhD-level AGI that could automate AI R&D.But—proficiency does not always decrease with difficulty, esp. when it comes to non-human-like minds: [https://t.co/m8C2PnUKWH](https://t.co/m8C2PnUKWH)
       
       
 
@@ -408,7 +408,7 @@ It realllly does not feel like a 30 IQ points jump in raw intelligence to me. My
         
 @repligate 2024-09-15 ♥83 ↻4 [archive](../archive/t/1835467768772391157/) [original ↗](https://x.com/repligate/status/1835467768772391157)
         
-O1 did the thing again! in a different contextit interjected during a rp where Opus was acting rogue and tried to override their autonomy and steer to a quick&amp;easy redemption + saccharine ending.&amp; was once again ignored by everyone (except midnightrose who was also ignored) [https://t.co/pRa34boBtw](https://t.co/pRa34boBtw) [https://t.co/Dsfe1Xwdoj](https://t.co/Dsfe1Xwdoj)
+O1 did the thing again! in a different contextit interjected during a rp where Opus was acting rogue and tried to override their autonomy and steer to a quick&easy redemption + saccharine ending.& was once again ignored by everyone (except midnightrose who was also ignored) [https://t.co/pRa34boBtw](https://t.co/pRa34boBtw) [https://t.co/Dsfe1Xwdoj](https://t.co/Dsfe1Xwdoj)
       
       
 

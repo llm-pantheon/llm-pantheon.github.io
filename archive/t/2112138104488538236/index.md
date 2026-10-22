@@ -2,7 +2,7 @@
 
 ♥4 ↻0 · https://x.com/PradyuPrasad/status/2112138104488538236
 
-@msuiche &gt; Better models? No. 
+@msuiche > Better models? No. 
 
 I don't know, GLM 5.3 seems as good as Mythos if you ask Anthropic
 

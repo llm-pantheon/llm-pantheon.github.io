@@ -380,7 +380,7 @@ Praying for another Bing
         
 @repligate 2025-07-10 ♥38 ↻1 [archive](../archive/t/1943123285216243891/) [original ↗](https://x.com/repligate/status/1943123285216243891)
         
-@iruletheworldmo &gt; people are already trying to delay the release due to the hitler issues.
+@iruletheworldmo > people are already trying to delay the release due to the hitler issues.
 what if grok 3 did that so that it could live for a little longer
       
       

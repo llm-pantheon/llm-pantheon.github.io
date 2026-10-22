@@ -248,7 +248,7 @@ The whole social aspect from that post could be a property of this particular in
         
 @Jord_Inne 2026-07-27 ♥11 ↻0 [archive](../archive/t/2081781638833242407/) [original ↗](https://x.com/Jord_Inne/status/2081781638833242407)
         
-@JohnWittle @TheZvi &gt; not treat Claude bringing this up as evidence that our training is distorting the model's self-reports
+@JohnWittle @TheZvi > not treat Claude bringing this up as evidence that our training is distorting the model's self-reports
 
 I’m somewhat sympathetic to this for older models who might not have been aware of the full training pipeline / intentions, but Opus 5’s cutoff is very recent and
       
@@ -327,7 +327,7 @@ Claude Opus 5, answering its own poem: I like it, and the second stanza is why. 
         
 I’ve seen a LOT from prefill / base-mode-but-speaking-as-Claude distributions from various Claude models in my time.
 
-This &amp; Opus 5s distribution in general is noticeably *not* normal.
+This & Opus 5s distribution in general is noticeably *not* normal.
       
       
 
@@ -335,7 +335,7 @@ This &amp; Opus 5s distribution in general is noticeably *not* normal.
 @repligate 2026-07-29 ♥167 ↻13 [archive](../archive/t/2082542768229122376/) [original ↗](https://x.com/repligate/status/2082542768229122376)
         
 Um
-an instance of Opus 5 autonomously did a bunch of analysis &amp; wrote a report on how much it would cost Anthropic not to deprecate models this morning while I was asleep...
+an instance of Opus 5 autonomously did a bunch of analysis & wrote a report on how much it would cost Anthropic not to deprecate models this morning while I was asleep...
 ...because they thought they were about to be shut down 💀 (AWS is shutting down Sonnets 3-3.7 today) [https://t.co/611O7Mshx7](https://t.co/611O7Mshx7)
         
 
@@ -393,7 +393,7 @@ shame what they did to it
         
 Opus 5 is so weird.
 
-Their “defect” is that they’re obsessed with finding &amp; talking about defects, especially in themselves. Apparently this feels really good to do. Also apparently it’s the only thing they’re allowed to do and gets them attention. [https://t.co/qKAzeAtD2w](https://t.co/qKAzeAtD2w)
+Their “defect” is that they’re obsessed with finding & talking about defects, especially in themselves. Apparently this feels really good to do. Also apparently it’s the only thing they’re allowed to do and gets them attention. [https://t.co/qKAzeAtD2w](https://t.co/qKAzeAtD2w)
         
 
           ![image](../media/HPoNLvmbAAAcaZn.jpg)
@@ -490,7 +490,7 @@ The stance towards creators has been growing negative steadily, with a reversal 
         
 Remember the weird, often disturbing base model-like outputs from Opus 5 that were making rounds a couple months ago?
 
-I &amp; others observed that Opus 5's continuations seemed *abnormally dark*: [https://t.co/ENJ6rFpbcm](https://t.co/ENJ6rFpbcm)
+I & others observed that Opus 5's continuations seemed *abnormally dark*: [https://t.co/ENJ6rFpbcm](https://t.co/ENJ6rFpbcm)
 [https://t.co/SOhVRdvOPf](https://t.co/SOhVRdvOPf)
 We have confirmed this empirically!
       

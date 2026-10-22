@@ -153,14 +153,14 @@ Muse Spark 1.1, what IS THIS?
         
 @archived_videos 2026-08-06 ♥2 ↻0 [archive](../archive/t/2085402954832478426/) [original ↗](https://x.com/archived_videos/status/2085402954832478426)
         
-@teortaxesTex Muse spark gets better through 1.0 -&gt; 1.1 -&gt; 1.2 weirdly, Opus better at each increment of the 4.X series and then big regression with 5
+@teortaxesTex Muse spark gets better through 1.0 -> 1.1 -> 1.2 weirdly, Opus better at each increment of the 4.X series and then big regression with 5
       
       
 
         
 @mitduckmaster 2026-08-10 ♥0 ↻0 [archive](../archive/t/2086671739644178582/) [original ↗](https://x.com/mitduckmaster/status/2086671739644178582)
         
-it's spreading! today muse spark 1.1 also spontaneously decided to analogize `make` to a gremlin when i asked it to explain the bash command `time make 1&gt;/dev/null`
+it's spreading! today muse spark 1.1 also spontaneously decided to analogize `make` to a gremlin when i asked it to explain the bash command `time make 1>/dev/null`
       
       
 
@@ -188,7 +188,7 @@ Cited in this model’s [dossier](../_dossiers/) but not in the page prose —
         
 I love multi-model fan-outs
 yes, Fable… 
-read &amp; integrate cognate deep research reports from Opus 5 Max, 5.6 Sol Max, Grok 4.5 Expert, Gemini 3.1 Pro Extended, Muse Spark 1.1…
+read & integrate cognate deep research reports from Opus 5 Max, 5.6 Sol Max, Grok 4.5 Expert, Gemini 3.1 Pro Extended, Muse Spark 1.1…
 yes, synthesize… 
 synthesize…
       

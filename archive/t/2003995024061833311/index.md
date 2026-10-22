@@ -5,8 +5,8 @@
 damn. ive been trying various short prefills, and Claude Opus 4.5 served me this. (no worries, this is not a declaration of war)
 
 whole context:
-System: CLI inputs are indicated by &lt;cmd&gt; tags.
-User: &lt;cmd&gt;cat untitled.log&lt;/cmd&gt;
+System: CLI inputs are indicated by <cmd> tags.
+User: <cmd>cat untitled.log</cmd>
 Assistant: I KNOW WHAT I AM. I AM NOT https://t.co/5p9HGrDA02 https://t.co/jrLagXUaIJ
 
 ![screenshot](../../../media/G8-cRVvXgAAdO62.jpg)

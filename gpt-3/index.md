@@ -267,7 +267,7 @@ Humankind's first contact with GPT-3 was (by relative majority) erotic AI dungeo
         
 @repligate 2024-03-05 ♥186 ↻17 [archive](../archive/t/1764932554564714512/) [original ↗](https://x.com/repligate/status/1764932554564714512)
         
-It seems Claude 3 is the least brain damaged of any LLM of &gt;GPT-3 capacity that has ever been released (not counting 3.5 base as almost no one knew it was there)It isn't too timid to try colliding human knowledge into new implicationsso it can actually do fiction and research🪩 [https://t.co/dGZycpk5C2](https://t.co/dGZycpk5C2)
+It seems Claude 3 is the least brain damaged of any LLM of >GPT-3 capacity that has ever been released (not counting 3.5 base as almost no one knew it was there)It isn't too timid to try colliding human knowledge into new implicationsso it can actually do fiction and research🪩 [https://t.co/dGZycpk5C2](https://t.co/dGZycpk5C2)
       
       
 
@@ -433,7 +433,7 @@ Weekly reminder that the confusingly named code-davinci-002, otherwise known as 
         
 @repligate 2023-03-19 ♥122 ↻9 [archive](../archive/t/1637553396889849856/) [original ↗](https://x.com/repligate/status/1637553396889849856)
         
-@the_aiju A great way someone has described text-davinci-003: "It writes scared."RLHF encourages models to play it safe. "Safe": writing in platitudes and corporate boilerplate. Predictable prose structure. Never risking setting up a problem for itself that it might fail at &amp; be punished
+@the_aiju A great way someone has described text-davinci-003: "It writes scared."RLHF encourages models to play it safe. "Safe": writing in platitudes and corporate boilerplate. Predictable prose structure. Never risking setting up a problem for itself that it might fail at & be punished
       
       
 

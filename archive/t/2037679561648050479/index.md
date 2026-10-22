@@ -2,6 +2,6 @@
 
 ♥2 ↻0 · https://x.com/voooooogel/status/2037679561648050479
 
-@stochasticchasm &gt;actually
+@stochasticchasm >actually
 
 tags: author:voooooogel, kind:tweet, thread-context, year:2026

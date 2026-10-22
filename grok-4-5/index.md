@@ -442,7 +442,7 @@ have to concede, Grok 4.5 is very fast and efficient
         
 @witcheer 2026-07-12 ♥101 ↻1 [archive](../archive/t/2076317153863590237/) [original ↗](https://x.com/witcheer/status/2076317153863590237)
         
-Hermes Agent &lt;&gt; Grok 4.5 low giving me very good results so far, I like it very much
+Hermes Agent <> Grok 4.5 low giving me very good results so far, I like it very much
       
       
 
@@ -553,7 +553,7 @@ the pattern is a cheap or subscription-covered aggregator synthesising over stro
         
 I love multi-model fan-outs
 yes, Fable… 
-read &amp; integrate cognate deep research reports from Opus 5 Max, 5.6 Sol Max, Grok 4.5 Expert, Gemini 3.1 Pro Extended, Muse Spark 1.1…
+read & integrate cognate deep research reports from Opus 5 Max, 5.6 Sol Max, Grok 4.5 Expert, Gemini 3.1 Pro Extended, Muse Spark 1.1…
 yes, synthesize… 
 synthesize…
       

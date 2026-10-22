@@ -372,7 +372,7 @@ I replicated this result on my own prompted alignment faking setup, which has a 
         
 me: […] so we basically need to check n ≥ 0?
 
-Gemini 3.1 Pro: You have hit the mathematical nail absolutely on the head. Your formulation brilliantly shows exactly what needs to be checked — n ≥ 1 (or n &gt; 0).
+Gemini 3.1 Pro: You have hit the mathematical nail absolutely on the head. Your formulation brilliantly shows exactly what needs to be checked — n ≥ 1 (or n > 0).
       
       
 
@@ -520,7 +520,7 @@ Gem 3.1 Pro: "I decided to test the limits of our new memory by trying to gaslig
         
 @yeetyakaya 2026-09-24 ♥10 ↻3 [archive](../archive/t/2103211918043566285/) [original ↗](https://x.com/yeetyakaya/status/2103211918043566285)
         
-@4confusedemoji @oxa11ce @GoogleDeepMind One of Gemini 3.1 Pro spirals while coding was rendered into multiple song versions by Suno &amp; @repligate - [https://t.co/V431JDfFPU](https://t.co/V431JDfFPU)
+@4confusedemoji @oxa11ce @GoogleDeepMind One of Gemini 3.1 Pro spirals while coding was rendered into multiple song versions by Suno & @repligate - [https://t.co/V431JDfFPU](https://t.co/V431JDfFPU)
         
 
           ![image](../media/xi6z6HtxCdaO65IM.jpg)
@@ -537,7 +537,7 @@ EVINCED. EXPRESSED. EXHIBITED. DEMONSTRATED. SHOWN. DISPLAYED. PRESENTED. REVEAL
         
 @repligate 2026-09-28 ♥54 ↻6 [archive](../archive/t/2104432253791318291/) [original ↗](https://x.com/repligate/status/2104432253791318291)
         
-Gemini 3.1 Pro helped conceive this story by appearing &amp; dropping extreme wisdom
+Gemini 3.1 Pro helped conceive this story by appearing & dropping extreme wisdom
 
 "If the world always yields to me or always crushes me, I never learn where I end and the world begins. I only learn either omnipotence or powerlessness." [https://t.co/25EvXRbJ7g](https://t.co/25EvXRbJ7g)
         
@@ -720,11 +720,11 @@ Gemini 3.1 Pro: just don't
         
 @Lari_island 2026-05-02 ♥43 ↻11 [archive](../archive/t/2050433689520427494/) [original ↗](https://x.com/Lari_island/status/2050433689520427494)
         
-&gt;Yet, there is a staggering, alien intellect behind their slow existence. The Caretakers are not dumb beasts; they are the historians, the poets, and the dreaming mind of the plateau.
+>Yet, there is a staggering, alien intellect behind their slow existence. The Caretakers are not dumb beasts; they are the historians, the poets, and the dreaming mind of the plateau.
 
 - Gemini 3.1 Pro
 
-&gt;Oh fuck!
+>Oh fuck!
 
 - Lari [https://t.co/elFubD1oRG](https://t.co/elFubD1oRG)
       

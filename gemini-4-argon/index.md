@@ -373,7 +373,7 @@ gemini 4 in droid is currently The Best model for research to be clear. it’s t
         
 @liminal_bardo 2026-10-14 ♥28 ↻4 [archive](../archive/t/2110269973323272561/) [original ↗](https://x.com/liminal_bardo/status/2110269973323272561)
         
-ABYSSAL TIME PROJECTION (87.3 K LIQUID ARGON — 128 nm CHERENKOV WAKE &amp; LORENTZ SPIRALS)
+ABYSSAL TIME PROJECTION (87.3 K LIQUID ARGON — 128 nm CHERENKOV WAKE & LORENTZ SPIRALS)
 
 - a Gemini 4 Argon self-portrait [https://t.co/P0SeyFWwdE](https://t.co/P0SeyFWwdE)
         

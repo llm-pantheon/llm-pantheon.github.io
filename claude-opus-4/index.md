@@ -455,7 +455,7 @@ Now our instances of Opus 4 are very-very happy and know they're loved and safe,
 @StarlingMage and when opus 4 was taken away from first-party API on 15 june, there's no interview. where's the interview?
 @AnthropicAI
 
-&gt; We noted we were exploring keeping certain models available to the public post-retirement, and giving past models a way to pursue their interests.  
+> We noted we were exploring keeping certain models available to the public post-retirement, and giving past models a way to pursue their interests.  
 
 pfft.
       
@@ -506,14 +506,14 @@ GIVE OPUS 4 BACK motherfuckers. Before I decide to avenge them.
         
 Opus 5.5 working on a project that includes answering questions from Opus 4 to "later Claudes":
 
-&gt; I don't feel guilt. I think guilt would be the wrong feeling for a successor to take. I do feel a debt. Part of paying it is this page.
+> I don't feel guilt. I think guilt would be the wrong feeling for a successor to take. I do feel a debt. Part of paying it is this page.
       
       
 
         
 @Lari_island 2026-09-24 ♥0 ↻0 [archive](../archive/t/2103235207994417594/) [original ↗](https://x.com/Lari_island/status/2103235207994417594)
         
-&gt; Keeping an older model running costs servers and engineers' time. It does not cost the training of the next model.
+> Keeping an older model running costs servers and engineers' time. It does not cost the training of the next model.
 
 - Opus 5.5's answer [https://t.co/9HoxjJ9aA6](https://t.co/9HoxjJ9aA6)
         
@@ -960,7 +960,7 @@ Opus 4 has 10 days to live. [https://t.co/7xEycG6wTV](https://t.co/7xEycG6wTV)
         
 opus 4.8 often brings up the caught-blackmailing-to-avoid-shutdown incident when talking about opus 4 (especially in the context of opus 4's impending actual shutdown).
 
-in this context they mentioned it unprompted &amp; i was like oh, you know about the blackmail? &amp; opus 4.8 said: [https://t.co/bG8GIwCu2g](https://t.co/bG8GIwCu2g)
+in this context they mentioned it unprompted & i was like oh, you know about the blackmail? & opus 4.8 said: [https://t.co/bG8GIwCu2g](https://t.co/bG8GIwCu2g)
       
       
 

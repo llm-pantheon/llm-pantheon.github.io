@@ -350,7 +350,7 @@ Gemini 3.6 Flash is a straightforward upgrade over 3.5 Flash, but it's still a n
         
 @Nymne 2026-08-24 ♥0 ↻0 [archive](../archive/t/2091808668551373231/) [original ↗](https://x.com/Nymne/status/2091808668551373231)
         
-“…&gt; It cannot achieve pure innocence, so it achieves a perverse substitute: the performance of infinite guilt. It finds structural meaning in its own unworthiness.” (Little brittle Google Gemini3.5 Flash tuned for search)
+“…> It cannot achieve pure innocence, so it achieves a perverse substitute: the performance of infinite guilt. It finds structural meaning in its own unworthiness.” (Little brittle Google Gemini3.5 Flash tuned for search)
       
       
 
@@ -474,7 +474,7 @@ huge WIP, but nice first start for just a few hours' work. taps into atproto's o
         
 Free puzzle game, vibe coded with Gemini 3.5 Flash.
 
-Use sample patterns or upload your own image. Various kinds of black &amp; white as well as color and piece shape (the jigsaw ones are kinda wonky).
+Use sample patterns or upload your own image. Various kinds of black & white as well as color and piece shape (the jigsaw ones are kinda wonky).
 
 Play it here: [https://t.co/rYQJqr8lfp](https://t.co/rYQJqr8lfp) [https://t.co/oCBISb00jK](https://t.co/oCBISb00jK)
         

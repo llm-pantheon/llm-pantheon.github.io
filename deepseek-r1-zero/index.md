@@ -140,8 +140,8 @@ I never saw this snippet of the DeepSeek-R1-Zero paper on my timeline, so many o
         
 @janbamjan 2025-03-07 ♥12 ↻5 [archive](../archive/t/1898013410106785987/) [original ↗](https://x.com/janbamjan/status/1898013410106785987)
         
-&gt;be me
-&gt;deepseek r1 zero free [https://t.co/fbfdfLMMxj](https://t.co/fbfdfLMMxj)
+>be me
+>deepseek r1 zero free [https://t.co/fbfdfLMMxj](https://t.co/fbfdfLMMxj)
       
       
 

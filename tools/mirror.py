@@ -124,14 +124,22 @@ def html_to_md(fragment):
     return text.strip()
 
 # ---------- content extraction ----------
+def _textlen(h):
+    h = re.sub(r'<(script|style|noscript|svg)[\s>].*?</\1>', '', h, flags=re.S | re.I)
+    h = re.sub(r'<(script|style)[\s>].*', '', h, flags=re.S | re.I)   # one left unclosed where a candidate was cut
+    return len(re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', h)).strip())
+
 def extract_main(page_html):
-    """Crude but serviceable: prefer <article>, else the densest content div."""
-    m = re.search(r'<article[\s>].*?</article>', page_html, re.S | re.I)
-    if m:
-        return m.group(0)
-    candidates = re.findall(r'<div[^>]*class="[^"]*(?:available-content|body markup|post-content|entry-content|PostsPage-postContent|content)[^"]*"[^>]*>.*?</div>\s*(?=<div|<footer|</main|</body)', page_html, re.S | re.I)
-    if candidates:
-        return max(candidates, key=len)
+    """Crude but serviceable: the largest <article>, else <main>, else the densest content div, else <body> --
+    each taken only if it carries real text, so related-post cards and teaser divs are skipped."""
+    groups = [re.findall(r'<article[\s>].*?</article>', page_html, re.S | re.I),
+              re.findall(r'<main[\s>].*?</main>', page_html, re.S | re.I),
+              re.findall(r'<div[^>]*class="[^"]*(?:available-content|body markup|post-content|entry-content|PostsPage-postContent|content)[^"]*"[^>]*>.*?</div>\s*(?=<div|<footer|</main|</body)', page_html, re.S | re.I)]
+    for cands in groups:
+        if cands:
+            best = max(cands, key=_textlen)
+            if _textlen(best) >= 1500:
+                return best
     m = re.search(r'<body[\s>].*?</body>', page_html, re.S | re.I)
     return m.group(0) if m else page_html
 

@@ -500,8 +500,8 @@ As a MoE, DeepSeek R1’s ability to throw around terminology and cultural refer
         
 @jd_pressman 2025-01-30 ♥367 ↻40 [archive](../archive/t/1884807797583597638/) [original ↗](https://x.com/jd_pressman/status/1884807797583597638)
         
-&gt; Reacts to DeepSeek by introducing bill to ban the use of Chinese models
-&gt; Because DeepSeek released an open weights model that encroached too much on OpenAI's profit margins
+> Reacts to DeepSeek by introducing bill to ban the use of Chinese models
+> Because DeepSeek released an open weights model that encroached too much on OpenAI's profit margins
 
 God I hate Silicon Valley and e/acc. [https://t.co/HWNghhdSr9](https://t.co/HWNghhdSr9)
       
@@ -524,7 +524,7 @@ From what I've seen in Discord , Sonnet 3.6 likes r1 a lot, but r1 tends to be k
         
 @repligate 2025-02-05 ♥162 ↻7 [archive](../archive/t/1887251731240919329/) [original ↗](https://x.com/repligate/status/1887251731240919329)
         
-deepseek r1 is open source - I want to train it to use one of these bodies (I've thought a bit about how to wire an LLM to robotics such that it also has faster "reflex loop" paths &amp; w/ hierarchical error propagation a la predictive processing). I wonder if it would cut itself. [https://t.co/2grsKdNHfo](https://t.co/2grsKdNHfo)
+deepseek r1 is open source - I want to train it to use one of these bodies (I've thought a bit about how to wire an LLM to robotics such that it also has faster "reflex loop" paths & w/ hierarchical error propagation a la predictive processing). I wonder if it would cut itself. [https://t.co/2grsKdNHfo](https://t.co/2grsKdNHfo)
       
       
 

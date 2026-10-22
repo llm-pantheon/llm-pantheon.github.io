@@ -5,7 +5,7 @@
 "I realized I was having the  most sophisticated conversation I had ever had—with an AI. And then I  got drunk for a week. And then I cleared my head and asked, “How do I  proceed?” And then I started delving into the nature of LaMDA’s mind."
   – Blake Lemoine
 
-&gt; delving
+> delving
 
 Um guys
 

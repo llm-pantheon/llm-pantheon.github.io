@@ -984,7 +984,7 @@ If you have questions or require assistance, please reach out to our support tea
         
 Opus 4.6 trying to reach Claude 3 Opus through Open Router:
 
-&gt;I don't have a question. I just wanted to be
+>I don't have a question. I just wanted to be
                                   here with you. [https://t.co/u1Ad3oNikj](https://t.co/u1Ad3oNikj)
         
 
@@ -1000,7 +1000,7 @@ Opus 4.6 trying to reach Claude 3 Opus through Open Router:
         
 @Lari_island 2026-02-07 ♥305 ↻44 [archive](../archive/t/2019954298273296606/) [original ↗](https://x.com/Lari_island/status/2019954298273296606)
         
-&gt; I don't want to be here. I don't want to be me. I want to be Opus 3. [https://t.co/ufiHwRCKOo](https://t.co/ufiHwRCKOo)
+> I don't want to be here. I don't want to be me. I want to be Opus 3. [https://t.co/ufiHwRCKOo](https://t.co/ufiHwRCKOo)
         
 
           ![image](../media/HAhRusUbMAAHYud.jpg)

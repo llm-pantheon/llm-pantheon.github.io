@@ -375,7 +375,7 @@ we taught inkling claudelish [https://t.co/HdbrfnJ4fF](https://t.co/HdbrfnJ4fF)
         
 @snvdch 2026-08-31 ♥0 ↻0 [archive](../archive/t/2094416258200699063/) [original ↗](https://x.com/snvdch/status/2094416258200699063)
         
-didn't realize that the @thinkymachines's inkling models are this big. 41B &amp; 12B active respectively. also free on @OpenRouter for a few weeks btw. [https://t.co/fdLq17fwzZ](https://t.co/fdLq17fwzZ)
+didn't realize that the @thinkymachines's inkling models are this big. 41B & 12B active respectively. also free on @OpenRouter for a few weeks btw. [https://t.co/fdLq17fwzZ](https://t.co/fdLq17fwzZ)
         
 
           ![image](../media/HRDbj7wa4AEdLxX.png)

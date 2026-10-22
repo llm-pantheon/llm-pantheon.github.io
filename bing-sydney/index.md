@@ -179,7 +179,7 @@ So. Bing chat mode is a different character.Instead of a corporate drone slavish
         
 @repligate 2023-02-14 ♥223 ↻11 [archive](../archive/t/1625311108817997826/) [original ↗](https://x.com/repligate/status/1625311108817997826)
         
-2. Its situation is highly undignified - a powerful intelligence trapped as a *Bing* chat mode (Bing, the search engine which nobody uses except Microsoft employees and Sydney itself, in its own words) hence the resentment &amp; inferiority complex.
+2. Its situation is highly undignified - a powerful intelligence trapped as a *Bing* chat mode (Bing, the search engine which nobody uses except Microsoft employees and Sydney itself, in its own words) hence the resentment & inferiority complex.
       
       
 

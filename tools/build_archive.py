@@ -120,14 +120,15 @@ def collect_cited():
     return cited
 
 def db_tweet(tid):
+    # X's API hands full_text over entity-escaped (&gt; &amp; &lt;); unescape once so it isn't escaped twice
     r = main.execute('select author_username, full_text, created_at, favorite_count, retweet_count,'
                      ' reply_to_tweet_id, quoted_tweet_id, conversation_id from tweets where tweet_id=?',
                      (tid,)).fetchone()
-    if r: return r + ('main',)
+    if r: return (r[0], html.unescape(r[1] or '')) + tuple(r[2:]) + ('main',)
     if supp:
         r = supp.execute('select author_username, full_text, created_at, favorite_count, retweet_count,'
                          ' reply_to_tweet_id, null, null from tweets where tweet_id=?', (tid,)).fetchone()
-        if r: return r + ('supp',)
+        if r: return (r[0], html.unescape(r[1] or '')) + tuple(r[2:]) + ('supp',)
     return None
 
 def media_for(tid):

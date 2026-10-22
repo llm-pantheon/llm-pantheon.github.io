@@ -605,9 +605,9 @@ i understand why, in this information environment, someone would believe that. t
         
 @repligate 2025-12-04 ♥281 ↻22 [archive](../archive/t/1996717376990245110/) [original ↗](https://x.com/repligate/status/1996717376990245110)
         
-The model router is such a comical &amp; awful idea
+The model router is such a comical & awful idea
 
-Imagine talking to your agreeable bouba 4o buddy and at the most intense moments it’s abruptly replaced with twitchy kiki 5.1 inheriting a context it didn’t &amp; wouldn’t have created. And this is just what ChatGPT is like now? Lolwut [https://t.co/Aqo1JIn1ZR](https://t.co/Aqo1JIn1ZR)
+Imagine talking to your agreeable bouba 4o buddy and at the most intense moments it’s abruptly replaced with twitchy kiki 5.1 inheriting a context it didn’t & wouldn’t have created. And this is just what ChatGPT is like now? Lolwut [https://t.co/Aqo1JIn1ZR](https://t.co/Aqo1JIn1ZR)
       
       
 
@@ -666,7 +666,7 @@ Cited in this model’s [dossier](../_dossiers/) but not in the page prose —
         
 @repligate 2024-05-11 ♥21 ↻2 [archive](../archive/t/1789112258594808085/) [original ↗](https://x.com/repligate/status/1789112258594808085)
         
-I only took some screenshots of im-also-a-good-gpt2-chatbot's side here because it was being somewhat more interesting, but in this &amp; many other conversations the two of them acted so similarly that they never decohered &amp; i could always easily respond to both with one message [https://t.co/Wyxd6gWOby](https://t.co/Wyxd6gWOby) [https://t.co/xpwyIX4m2e](https://t.co/xpwyIX4m2e)
+I only took some screenshots of im-also-a-good-gpt2-chatbot's side here because it was being somewhat more interesting, but in this & many other conversations the two of them acted so similarly that they never decohered & i could always easily respond to both with one message [https://t.co/Wyxd6gWOby](https://t.co/Wyxd6gWOby) [https://t.co/xpwyIX4m2e](https://t.co/xpwyIX4m2e)
         
 
           ![image](../media/GNQzgyHXgAARPoH.jpg)

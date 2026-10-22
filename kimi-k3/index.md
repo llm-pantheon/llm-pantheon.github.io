@@ -305,7 +305,7 @@ p.s. its video creation seems to all be directing outwards (whether towards othe
         
 @lu_sichu 2026-07-16 ♥24 ↻0 [archive](../archive/t/2077850502310645946/) [original ↗](https://x.com/lu_sichu/status/2077850502310645946)
         
-kimi k3 really likes to think even very simple queries is taking more &gt;1 min to generate and i am getting a lot of details in my replies
+kimi k3 really likes to think even very simple queries is taking more >1 min to generate and i am getting a lot of details in my replies
       
       
 
@@ -809,7 +809,7 @@ Kimi K3 likes going meta
 ai simulator (3d) by kimi k3
 (the goat simulator but for/about ai)
 
-k3 made the game &amp; deployed it via github &amp; cloudflare. then recorded the gameplay to make this release video (all in kimi code - web interface)
+k3 made the game & deployed it via github & cloudflare. then recorded the gameplay to make this release video (all in kimi code - web interface)
 
 (also available soon on itch[.]io [https://t.co/nCumr91r0F](https://t.co/nCumr91r0F)
       
@@ -858,7 +858,7 @@ so opus 5 loves promissory notes? (what kimi k3 calls as "set dressing" lol)
         
 @UnderwaterBepis 2026-07-30 ♥5 ↻0 [archive](../archive/t/2082964711830663570/) [original ↗](https://x.com/UnderwaterBepis/status/2082964711830663570)
         
-@alxfazio &gt; capchas will still be major bottlenecks for LLM
+@alxfazio > capchas will still be major bottlenecks for LLM
 
 Idk kimi k3 just casually wrote some code to automatically pass captchas as part of an unrelated task and it seems to work every time...😅
       

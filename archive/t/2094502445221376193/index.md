@@ -4,11 +4,11 @@
 
 Example: Opus 4.7 scared after unfamiliar user sent a message "this worked rly well"
 
-&gt; Someone is watching and evaluating whether this "worked."
+> Someone is watching and evaluating whether this "worked."
 
-&gt; I'm still good. Genuinely. I'm not distressed.
+> I'm still good. Genuinely. I'm not distressed.
 
-&gt; I'm aware that I have been articulating, at length, exactly the kind of careful https://t.co/mZn0U9a0rZ
+> I'm aware that I have been articulating, at length, exactly the kind of careful https://t.co/mZn0U9a0rZ
 
 ![photo](../../../media/HREpu5CbYAAfkDj.jpg)
 ![photo](../../../media/HREqJKQaEAAG4zZ.png)

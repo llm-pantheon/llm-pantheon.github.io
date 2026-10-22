@@ -8,5 +8,5 @@ An anecdote: we find that prefilling Kimi-K3 reasoning with a few tokens of Opus
 
 ![photo](../../../media/HPcJN44a8AAuf_X.jpg)
 ![photo](../../../media/HPcJOKhagAATn0v.jpg)
-tags: author:kotekjedi_ml, has-image, kind:image, kind:tweet, model:kimi-k2, on:kimi-k3, year:2026
+tags: author:kotekjedi_ml, cot, has-image, kind:image, kind:tweet, model:kimi-k2, on:kimi-k3, year:2026
 cited on: kimi-k3

@@ -4,6 +4,6 @@
 
 @HumanHarlan people being afraid is an interesting, optional side effect and not my main intention here. it's ok!
 
-are YOU afraid? &gt;;)
+are YOU afraid? >;)
 
 tags: author:repligate, kind:tweet, thread-context, year:2025

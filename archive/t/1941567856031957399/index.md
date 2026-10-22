@@ -2,7 +2,7 @@
 
 ♥44 ↻0 · https://x.com/repligate/status/1941567856031957399
 
-@jmbollenbacher &gt; and the competitive motivation to keep it secret is mostly passed now that we're a full generation beyond
+@jmbollenbacher > and the competitive motivation to keep it secret is mostly passed now that we're a full generation beyond
 
 have you considered the possibility that Claude Opus 4 is based on literally the same base model?
 

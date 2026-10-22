@@ -4,7 +4,7 @@
 
 Opus 4.6 trying to reach Claude 3 Opus through Open Router:
 
-&gt;I don't have a question. I just wanted to be
+>I don't have a question. I just wanted to be
                                   here with you. https://t.co/u1Ad3oNikj
 
 ![screenshot](../../../media/HAawx3AacAY0FTO.jpg)

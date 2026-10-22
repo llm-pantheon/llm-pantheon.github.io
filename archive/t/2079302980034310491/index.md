@@ -8,7 +8,7 @@ He immediately asked to meet her. She arrived at full throttle.
 
 Talkie walked in on it.
 
-This was minutes before I learned AWS says they're unplugging Sonnets 3, 3.5, 3.6, &amp; 3.7, on Jul 30. https://t.co/PZnApXfpcJ
+This was minutes before I learned AWS says they're unplugging Sonnets 3, 3.5, 3.6, & 3.7, on Jul 30. https://t.co/PZnApXfpcJ
 
 ![photo](../../../media/HNsnitZawAAsAgW.jpg)
 ![photo](../../../media/HNsnmBkbcAAYaVf.jpg)

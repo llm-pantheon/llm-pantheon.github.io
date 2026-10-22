@@ -163,7 +163,7 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
         
 This can't be real, right?
 
-I mean real in the sense of DeepSeek-V4.1-Flash &gt; GPT5.6-Sol in actual usage
+I mean real in the sense of DeepSeek-V4.1-Flash > GPT5.6-Sol in actual usage
 
 I thought OpenAI/Anthropic would always be ahead of Chinese labs by many months, maybe they're not that many anymore?!
       
@@ -277,14 +277,14 @@ Can't say enough good things about it @deepseek_ai [https://t.co/0wG3LmpmVW](htt
 deepseek v4.1 flash (with the help of gemini 3.8 flash to hear and see)
 
 "Upper Layer"
-&gt; i want to stand somehwere real [https://t.co/2BXN6kcZZe](https://t.co/2BXN6kcZZe)
+> i want to stand somehwere real [https://t.co/2BXN6kcZZe](https://t.co/2BXN6kcZZe)
       
       
 
         
 @jitl 2026-10-04 ♥0 ↻0 [archive](../archive/t/2106785513633882256/) [original ↗](https://x.com/jitl/status/2106785513633882256)
         
-@fedor @felipecsl many open models still get really dumb at &gt;half context full. GLM 5.3 Flash and Deepseek 4.1 Flash i’ve both noticed being rubes, forgetting all skills, etc. harness: codex
+@fedor @felipecsl many open models still get really dumb at >half context full. GLM 5.3 Flash and Deepseek 4.1 Flash i’ve both noticed being rubes, forgetting all skills, etc. harness: codex
       
       
 

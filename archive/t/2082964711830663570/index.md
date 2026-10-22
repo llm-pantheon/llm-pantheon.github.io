@@ -2,7 +2,7 @@
 
 ♥5 ↻0 · https://x.com/UnderwaterBepis/status/2082964711830663570
 
-@alxfazio &gt; capchas will still be major bottlenecks for LLM
+@alxfazio > capchas will still be major bottlenecks for LLM
 
 Idk kimi k3 just casually wrote some code to automatically pass captchas as part of an unrelated task and it seems to work every time...😅
 

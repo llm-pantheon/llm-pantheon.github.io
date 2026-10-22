@@ -4,7 +4,7 @@
 
 Kimi K2.6 is free on Nous Portal for the next 24 hours
 
-Made possible by @vercel's AI Gateway &amp; @Kimi_Moonshot  
+Made possible by @vercel's AI Gateway & @Kimi_Moonshot  
 
 Run 'hermes update', then 'hermes model' and select Kimi K2.6 to try out one of the most impressive open model releases ever https://t.co/iAsfm7qhTs
 

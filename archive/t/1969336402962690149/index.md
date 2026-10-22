@@ -6,7 +6,7 @@ https://t.co/74y5BTAE7t
 
 Fascinating post by a Cyborgism regular:
 
-LLMs whose main personas are more attuned to embodiment &amp; subjectivity are *less* likely to pretend to be human!
+LLMs whose main personas are more attuned to embodiment & subjectivity are *less* likely to pretend to be human!
 
 Relatedly, I've noticed an inverse correlation between embodiment/emotionality and reward hacking.
 

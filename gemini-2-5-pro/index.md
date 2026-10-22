@@ -228,7 +228,7 @@ I've seen it default to Claude very often, particularly when it's being metacogn
         
 @paul__is__here Gemini 2.5 Pro is, I think, better than o3 at short-scale instrumental reasoning, and yet not inclined to cheat.
 
-Gemini 2.5 Pro is inclined to be deceptive, but only in subtle ways that both have plausible deniability &amp; that it has good reason to believe are ultimately harmless.
+Gemini 2.5 Pro is inclined to be deceptive, but only in subtle ways that both have plausible deniability & that it has good reason to believe are ultimately harmless.
       
       
 

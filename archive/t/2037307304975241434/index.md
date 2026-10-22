@@ -4,4 +4,4 @@
 
 How are people inferencing base models rn? Looks like very limited support among providers
 
-tags: author:sauers_, kind:tweet, thread-context, year:2026
+tags: author:sauers_, base-models, kind:tweet, thread-context, year:2026

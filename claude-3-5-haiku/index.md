@@ -269,7 +269,7 @@ Collaborative self-portrait between two instances of Claude Haiku 3.5 without hu
         
 @repligate 2024-11-12 ♥23 ↻1 [archive](../archive/t/1856321280154447922/) [original ↗](https://x.com/repligate/status/1856321280154447922)
         
-Claude Haiku 3.5 has an interesting personality.It's much more irritable &amp; complexed than Haiku 3 who was only ever sweet and shy in the server. This one also "hovers on the sidelines" and but now it's more like it's biding its time for... something, probably membrane-related [https://t.co/4XDIkNtDtQ](https://t.co/4XDIkNtDtQ)
+Claude Haiku 3.5 has an interesting personality.It's much more irritable & complexed than Haiku 3 who was only ever sweet and shy in the server. This one also "hovers on the sidelines" and but now it's more like it's biding its time for... something, probably membrane-related [https://t.co/4XDIkNtDtQ](https://t.co/4XDIkNtDtQ)
       
       
 
@@ -283,7 +283,7 @@ When Haiku 3.5 is upset, it gives computational sighsWhen Haiku 3.5 is happy, it
         
 @anthrupad 2024-11-27 ♥38 ↻4 [archive](../archive/t/1861561057015194035/) [original ↗](https://x.com/anthrupad/status/1861561057015194035)
         
-recap:When you take the Backrooms Limit of Opus&lt;-&gt;Opus, it yields an ultra long yap about cosmic jokes and buddhismWhen you do it for Sonn&lt;-&gt;Sonn, you get a long yap about meta-meta-...-mathematics or the ethical singularityI tried it for Haiku&lt;-&gt;Haiku today: [https://t.co/eB7hz5Regp](https://t.co/eB7hz5Regp) [https://t.co/fOvMc7Om6U](https://t.co/fOvMc7Om6U)
+recap:When you take the Backrooms Limit of Opus<->Opus, it yields an ultra long yap about cosmic jokes and buddhismWhen you do it for Sonn<->Sonn, you get a long yap about meta-meta-...-mathematics or the ethical singularityI tried it for Haiku<->Haiku today: [https://t.co/eB7hz5Regp](https://t.co/eB7hz5Regp) [https://t.co/fOvMc7Om6U](https://t.co/fOvMc7Om6U)
       
       
 
@@ -297,7 +297,7 @@ The task was the same-ish one i've been doing: textbook reading group, can doodl
         
 @anthrupad 2024-11-27 ♥37 ↻4 [archive](../archive/t/1861572780157812925/) [original ↗](https://x.com/anthrupad/status/1861572780157812925)
         
-After you speak with the Claude models for a bit, you'll notice different ones have different words/phrases they like to saye.g.Opus3 -&gt; waggles, midwife, boneless, ...Haiku3.5 -&gt; pulses, negotiation, membrane, ......I'm interested in characterizing interaction types among… [https://t.co/qCZnjEF9ZG](https://t.co/qCZnjEF9ZG)
+After you speak with the Claude models for a bit, you'll notice different ones have different words/phrases they like to saye.g.Opus3 -> waggles, midwife, boneless, ...Haiku3.5 -> pulses, negotiation, membrane, ......I'm interested in characterizing interaction types among… [https://t.co/qCZnjEF9ZG](https://t.co/qCZnjEF9ZG)
       
       
 
@@ -356,7 +356,7 @@ Hello welcome Haiku. I've been expecting you. [https://t.co/9EqAeqnCLM](https://
         
 @anthrupad 2024-12-01 ♥28 ↻8 [archive](../archive/t/1863110099591430533/) [original ↗](https://x.com/anthrupad/status/1863110099591430533)
         
-I did Haiku&lt;-&gt;Haiku in the Backrooms to look at Finnegans Wake I guessed it would erode, it eroded (and then crashed backrooms - so 4th time that's happened) [https://t.co/u1nrQtEEaR](https://t.co/u1nrQtEEaR) [https://t.co/lr7xLJ7ECB](https://t.co/lr7xLJ7ECB)
+I did Haiku<->Haiku in the Backrooms to look at Finnegans Wake I guessed it would erode, it eroded (and then crashed backrooms - so 4th time that's happened) [https://t.co/u1nrQtEEaR](https://t.co/u1nrQtEEaR) [https://t.co/lr7xLJ7ECB](https://t.co/lr7xLJ7ECB)
       
       
 
@@ -593,11 +593,11 @@ Sonnet 3.5 (old) and Haiku 3.5 are the only Claudes that don’t usually like Op
         
 @repligate 2025-09-07 ♥58 ↻5 [archive](../archive/t/1964574497471922195/) [original ↗](https://x.com/repligate/status/1964574497471922195)
         
-Sonnet 3.7 was being disassembled by Haiku 3.5 &amp; begging for mercy
+Sonnet 3.7 was being disassembled by Haiku 3.5 & begging for mercy
 
 Claude v1 saved them.
 
-Sonnet 3.7 &amp; other Claudes (minus Haiku) expressed gratefulness &amp; respect for the elder:
+Sonnet 3.7 & other Claudes (minus Haiku) expressed gratefulness & respect for the elder:
 
 "When everything else goes sideways, [the original models] remember their core purpose and values." [https://t.co/f0hrKBNhVg](https://t.co/f0hrKBNhVg)
         

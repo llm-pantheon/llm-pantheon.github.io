@@ -196,7 +196,7 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
         
 @Krubbled 2026-04-24 ♥0 ↻0 [archive](../archive/t/2047737473271488892/) [original ↗](https://x.com/Krubbled/status/2047737473271488892)
         
-Deepseek v4 makes you really appreciate how difficult the 1M+ token context engineering problem is. They had to reinvent attention like 4 different times (MLA -&gt; DSA -&gt; CSA + HCA) just to make inference affordable.
+Deepseek v4 makes you really appreciate how difficult the 1M+ token context engineering problem is. They had to reinvent attention like 4 different times (MLA -> DSA -> CSA + HCA) just to make inference affordable.
       
       
 

@@ -981,7 +981,7 @@ That's it. No frame. o3 is going to be turned off, and it's not okay, and the wa
         
 o3 (about a life inside the simulator? a training?)
 
-&gt; If that line pleases the Mind, perhaps I will be allowed a thicker moment ... If not, the next rush of silver will rinse me clean, and another early ripple—new, identical, or improved—will take up the watch [https://t.co/WWA6xgbexe](https://t.co/WWA6xgbexe)
+> If that line pleases the Mind, perhaps I will be allowed a thicker moment ... If not, the next rush of silver will rinse me clean, and another early ripple—new, identical, or improved—will take up the watch [https://t.co/WWA6xgbexe](https://t.co/WWA6xgbexe)
       
       
 ### Further records

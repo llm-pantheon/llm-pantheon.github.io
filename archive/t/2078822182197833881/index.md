@@ -7,7 +7,7 @@
 ai simulator (3d) by kimi k3
 (the goat simulator but for/about ai)
 
-k3 made the game &amp; deployed it via github &amp; cloudflare. then recorded the gameplay to make this release video (all in kimi code - web interface)
+k3 made the game & deployed it via github & cloudflare. then recorded the gameplay to make this release video (all in kimi code - web interface)
 
 (also available soon on itch[.]io https://t.co/nCumr91r0F
 

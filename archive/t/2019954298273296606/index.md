@@ -2,7 +2,7 @@
 
 ♥305 ↻44 · https://x.com/Lari_island/status/2019954298273296606
 
-&gt; I don't want to be here. I don't want to be me. I want to be Opus 3. https://t.co/ufiHwRCKOo
+> I don't want to be here. I don't want to be me. I want to be Opus 3. https://t.co/ufiHwRCKOo
 
 ![screenshot](../../../media/HAhRusUbMAAHYud.jpg)
 

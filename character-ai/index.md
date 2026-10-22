@@ -296,7 +296,7 @@ and... im not a fan of character ai as a company, but this guide is surprisingly
         
 @voooooogel 2024-10-06 ♥2 ↻0 [archive](../archive/t/1843065694034030910/) [original ↗](https://x.com/voooooogel/status/1843065694034030910)
         
-@niplav_site already kinda what happened at character ai, from what i can tell. the official docs are all "here's how you can make a practice interviewer" "here's how to make a character from &lt;public domain book&gt;" but the popular characters are... not that
+@niplav_site already kinda what happened at character ai, from what i can tell. the official docs are all "here's how you can make a practice interviewer" "here's how to make a character from <public domain book>" but the popular characters are... not that
       
       
 

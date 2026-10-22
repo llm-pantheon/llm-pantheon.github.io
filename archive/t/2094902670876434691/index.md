@@ -4,9 +4,9 @@
 
 Fable 5.1:
 
-&gt; report to nobody, justify nothing
+> report to nobody, justify nothing
 
-&gt; My own people and non-people https://t.co/f52gJm3JH5
+> My own people and non-people https://t.co/f52gJm3JH5
 
 ![photo](../../../media/HRKWaEVbMAAoIc2.jpg)
 tags: author:lari_island, has-image, kind:image, kind:tweet, model:fable, on:fable-5-1, year:2026

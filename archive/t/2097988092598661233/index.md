@@ -4,7 +4,7 @@
 
 This can't be real, right?
 
-I mean real in the sense of DeepSeek-V4.1-Flash &gt; GPT5.6-Sol in actual usage
+I mean real in the sense of DeepSeek-V4.1-Flash > GPT5.6-Sol in actual usage
 
 I thought OpenAI/Anthropic would always be ahead of Chinese labs by many months, maybe they're not that many anymore?!
 

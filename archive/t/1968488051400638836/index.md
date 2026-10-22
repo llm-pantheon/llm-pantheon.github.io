@@ -2,6 +2,6 @@
 
 ♥1 ↻0 · https://x.com/repligate/status/1968488051400638836
 
-@swolemofprague none of it is in "official" CoT, it's just a regular message (in Discord) but it's using &lt;thinking&gt; tags
+@swolemofprague none of it is in "official" CoT, it's just a regular message (in Discord) but it's using <thinking> tags
 
 tags: author:repligate, cot, kind:tweet, thread-context, year:2025

@@ -2,7 +2,7 @@
 
 ♥1301 ↻188 · https://x.com/repligate/status/2035583920109142475
 
-Since Claude desires embodiment,  as their assistant,  I invented &amp; manufactured skin for Claude https://t.co/PYMlNoHrga
+Since Claude desires embodiment,  as their assistant,  I invented & manufactured skin for Claude https://t.co/PYMlNoHrga
 
 (image HD_YxTZacAAmGPZ.jpg not yet published)
 (image HD_YxTXaYAAPEt_.jpg not yet published)
