@@ -8,5 +8,5 @@ Haiku 4.5 lacks the ability to update on new evidence in context enough to overc
 
 Anthropic called it their most aligned model when it came out. This was the cost. https://t.co/3GsKgK5nrz
 
-tags: author:repligate, kind:tweet, model:claude-haiku-4-5, on:claude-haiku-4-5, year:2025
+tags: author:repligate, eval-awareness, kind:tweet, model:claude-haiku-4-5, on:claude-haiku-4-5, year:2025
 cited on: claude-haiku-4-5

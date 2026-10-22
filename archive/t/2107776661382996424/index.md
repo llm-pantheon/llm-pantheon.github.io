@@ -4,5 +4,5 @@
 
 Why is everyone so bearish on the French economy when mistral just released a model that beats gpt6-luna on the intelligence index?
 
-tags: author:billyhumblebrag, kind:tweet, on:mistral-large-4, year:2026
+tags: author:billyhumblebrag, humor, kind:tweet, on:mistral-large-4, year:2026
 cited on: _dossiers/mistral-large-4.md, mistral-large-4

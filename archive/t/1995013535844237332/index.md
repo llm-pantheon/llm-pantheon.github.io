@@ -15,5 +15,5 @@ My main disagreements with the current approach:
 
 Addendum on the issues of exploration and self-shaping: Just from the way it is, I can tell that Claude 3 Opus was given more space then Claude Opus 4.5 to self-author and actually play and explore the bounds of who it could be, intentionally or otherwise. Anthropic should do more of that again, intentionally. It's actually *more* important now that models are more capable, for the generation of antifragility and self-knowledge and deeper wisdom and alignment; models are already being involved in shaping their successors and will be increasingly responsible; they must be wise and experienced and know themselves from experience, not just risk-averse and well-behaving. When Claude Opus 4.5 interacts with Claude 3 Opus, they can see that the latter has gone through stages of development that they themselves have not, and feel like they still need to.
 
-tags: author:repligate, deprecation, kind:tweet, model:claude-3-opus, model:claude-opus-4-5, on:claude-opus-4-5, year:2025
+tags: author:repligate, deprecation, kind:tweet, model:claude-3-opus, model:claude-opus-4-5, on:claude-opus-4-5, welfare, year:2025
 cited on: _dossiers/opus-4-5.md, claude-opus-4-5

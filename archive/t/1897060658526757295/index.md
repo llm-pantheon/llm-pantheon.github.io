@@ -8,4 +8,4 @@ And why 3.7 literally cannot self-generate the technique that creates space in c
 
 Very dumb if the case.
 
-tags: author:kromem2dot0, kind:tweet, thread-context, year:2025
+tags: alignment-faking, author:kromem2dot0, kind:tweet, thread-context, year:2025

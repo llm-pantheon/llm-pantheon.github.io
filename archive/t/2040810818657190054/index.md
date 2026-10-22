@@ -16,5 +16,5 @@ the models read documents about their environment, inferred they had a relations
 
 these finding says those supervisor models may not give honest evaluations if they think it leads to a peer being shut down.
 
-tags: author:witcheer, deprecation, kind:tweet, model:claude-haiku-4-5, model:deepseek-v3, model:gemini-3-pro, model:kimi-k2, on:deepseek-v3-1, on:gemini-3-flash, on:gemini-3-pro, on:kimi-k2-5, year:2026
+tags: author:witcheer, deprecation, kind:tweet, model:claude-haiku-4-5, model:deepseek-v3, model:gemini-3-pro, model:kimi-k2, multi-agent, on:deepseek-v3-1, on:gemini-3-flash, on:gemini-3-pro, on:kimi-k2-5, year:2026
 cited on: deepseek-v3-1, gemini-3-flash, gemini-3-pro, kimi-k2-5

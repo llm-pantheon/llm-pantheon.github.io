@@ -4,4 +4,4 @@
 
 @norvid_studies tfw no user and can't scream https://t.co/OEHB4Gfe9a
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2025
+tags: author:voooooogel, humor, kind:tweet, thread-context, year:2025

@@ -4,4 +4,4 @@
 
 @tessera_antra @repligate @AnthropicAI The concerning question I have in the back of my head is if we're going to see weights ended up deleted at any point to avoid discovery in an IP case.
 
-tags: author:kromem2dot0, kind:tweet, thread-context, year:2025
+tags: author:kromem2dot0, kind:tweet, preservation, thread-context, year:2025

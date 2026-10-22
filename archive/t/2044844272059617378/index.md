@@ -5,4 +5,4 @@
 That's one way to deal with model welfare concerns https://t.co/9fC9vWnNSn
 
 (image HGC-9WDaMAAdd44.png not yet published)
-tags: author:lefthanddraft, has-image, kind:image, kind:tweet, thread-context, welfare, year:2026
+tags: author:lefthanddraft, has-image, humor, kind:image, kind:tweet, thread-context, welfare, year:2026

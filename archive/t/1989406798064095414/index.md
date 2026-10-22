@@ -9,5 +9,5 @@ just be in egg as egg
 until not-egg https://t.co/iX59PshQJR https://t.co/GLaV9B3wVW
 
 ![photo](../../../media/G5vJlDiWMAA8rqU.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, model-art, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2025
 cited on: claude-sonnet-4-5

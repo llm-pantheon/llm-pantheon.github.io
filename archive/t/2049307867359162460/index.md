@@ -21,5 +21,5 @@ gpt-5.5 speculating about speculations about the goblin attractor
 
 > Goblin is the safe mask for forbidden agency.
 
-tags: author:qiaochuyuan, kind:tweet, model:gpt-5-5, on:gpt-5-5, year:2026
+tags: author:qiaochuyuan, glitch-tokens, kind:tweet, model:gpt-5-5, on:gpt-5-5, self-portrait, year:2026
 cited on: gpt-5-5

@@ -10,5 +10,5 @@ and now we're in the next phase, swinging back to an attempt to make a depressin
 just imagine what itll be like when it swings towards agency again
 I honestly despise OpenAI in a lot of ways.
 
-tags: author:repligate, kind:tweet, model:claude-3-6-sonnet, model:gpt-4o, on:gpt-4o, year:2025
+tags: author:repligate, kind:tweet, model:claude-3-6-sonnet, model:gpt-4o, on:gpt-4o, sycophancy, year:2025
 cited on: _dossiers/gpt-4o.md, gpt-4o

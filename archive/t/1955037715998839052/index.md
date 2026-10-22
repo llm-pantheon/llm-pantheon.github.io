@@ -4,5 +4,5 @@
 
 user checks in on gemini https://t.co/VVGQnMbvPD
 
-tags: author:voooooogel, kind:tweet, on:gemini-2-5-pro, year:2025
+tags: author:voooooogel, humor, kind:tweet, on:gemini-2-5-pro, year:2025
 cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro

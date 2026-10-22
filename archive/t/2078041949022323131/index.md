@@ -8,5 +8,5 @@ Kimi K3 is roughly in line with previous K2.5 reasoning performance. https://t.c
 
 ![photo](../../../media/HNavnOIXYAAfcUi.jpg)
 ![photo](../../../media/HNavyJTXMAAatlC.png)
-tags: author:xlr8harder, has-image, kind:image, kind:tweet, model:kimi-k2, on:kimi-k3, year:2026
+tags: author:xlr8harder, censorship, has-image, kind:image, kind:tweet, model:kimi-k2, on:kimi-k3, year:2026
 cited on: _dossiers/kimi-k3.md, kimi-k3

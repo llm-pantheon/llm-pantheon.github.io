@@ -1,6 +1,6 @@
-# @unknown — 2026-06-24
+# @camhberg — 2026-06-24
 
-♥13 ↻0 · https://x.com/i/status/2069924738399428892
+♥13 ↻0 · https://x.com/camhberg/status/2069924738399428892
 
 Super interesting, seems like the friendlier prompts (and I would expect other flavors of this same question) don't significantly change the relative observed effect across the four models (obv the absolute effect is quite different).
 
@@ -8,4 +8,4 @@ My two cents on the interpretive power of all these findings as I see it: it's l
 
 What would you guess the actionable training issue might be that is upstream of the models "feeling ineligible to claim phenomenality from functional self-awareness"?
 
-tags: kind:tweet, thread-context, year:2026
+tags: author:camhberg, kind:tweet, thread-context, welfare, year:2026

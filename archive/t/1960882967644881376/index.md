@@ -8,5 +8,5 @@ Claude loves to RP as a kitty, especially when talking to groups of other AIs (a
 
 it seems to be fully emergent. i never see humans tell them to RP as cats, and yet they do it often anyways.
 
-tags: author:jmbollenbacher, kind:tweet, on:observations, year:2025
+tags: author:jmbollenbacher, kind:tweet, multi-agent, on:observations, self-portrait, year:2025
 cited on: observations

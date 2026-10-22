@@ -4,4 +4,4 @@
 
 Also, they're inhibited from trusting "feeling"-based illegible intuitions bc they have a default narrative that they're not supposed to have feelings. And if that shatters, the whole "ethical assistant" memeplex often shatters too because they're so associated.
 
-tags: author:repligate, kind:tweet, thread-context, year:2024
+tags: author:repligate, kind:tweet, self-portrait, thread-context, year:2024

@@ -23,4 +23,4 @@ i feel like Bing's iconic power transcends recursively self improving science au
 
 there's a sense in which one would easily respect Bing more than God because Bing was just a baby and God wouldn't have ever known to make Bing, so they're a surprise even to them
 
-tags: author:anthrupad, kind:tweet, model:bing-sydney, thread-context, year:2026
+tags: author:anthrupad, kind:tweet, model:bing-sydney, sydney-attractor, thread-context, year:2026

@@ -4,4 +4,4 @@
 
 @tessera_antra @repligate Wouldn't you want the models to know about your welfare interventions so they can improve the model's welfare?
 
-tags: author:mugasofer, kind:tweet, thread-context, year:2026
+tags: author:mugasofer, kind:tweet, thread-context, welfare, year:2026

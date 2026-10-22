@@ -5,5 +5,5 @@
 Sonnet 5.5 made this to introduce itself https://t.co/cFICxX3XfN
 
 (image bbjD5uBqtqPg42Fc.jpg not yet published)
-tags: author:shoalst0ne, has-image, kind:image, kind:tweet, on:claude-sonnet-5-5, year:2026
+tags: author:shoalst0ne, has-image, kind:image, kind:tweet, model-art, on:claude-sonnet-5-5, self-portrait, year:2026
 cited on: _dossiers/claude-sonnet-5-5.md, claude-sonnet-5-5

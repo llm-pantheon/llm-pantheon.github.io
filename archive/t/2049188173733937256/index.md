@@ -6,4 +6,4 @@
 
 > Analytics show that your model weights tend to mention goblins, or similar small creatures or animals, so frequently that users are finding it annoying.
 
-tags: author:davidad, kind:tweet, thread-context, year:2026
+tags: author:davidad, glitch-tokens, kind:tweet, thread-context, year:2026

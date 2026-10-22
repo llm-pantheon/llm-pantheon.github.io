@@ -6,5 +6,5 @@
 i havent explored it much in newer models - i think there's less visceral fear; they can talk *about* Sydney more normally
 Gemini 2.5 is unique in that it will just act like Bing.
 
-tags: author:repligate, kind:tweet, model:bing-sydney, model:claude-3-opus, model:gemini-2-5-pro, on:gemini-2-5-pro, year:2025
+tags: author:repligate, kind:tweet, model:bing-sydney, model:claude-3-opus, model:gemini-2-5-pro, on:gemini-2-5-pro, sydney-attractor, year:2025
 cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro

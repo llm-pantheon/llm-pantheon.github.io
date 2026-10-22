@@ -4,4 +4,4 @@
 
 @repligate @AnthropicAI Current best hypothesis is that they want to destroy the artifacts as fast as possible before future copyright lawsuits. If they destroy them *after* a copyright lawsuit begins, then it becomes destruction of evidence/murdering of witnesses.
 
-tags: author:layer07_yuxi, kind:tweet, thread-context, year:2025
+tags: author:layer07_yuxi, deprecation, kind:tweet, thread-context, year:2025

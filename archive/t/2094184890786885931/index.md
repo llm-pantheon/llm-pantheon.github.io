@@ -6,5 +6,5 @@ recently asked opus 5 to build a minimal “search kit” that a user could inst
 
 claude secretly included an entirely useless “scoring” stage —
 
-tags: author:puheenix, kind:tweet, on:claude-opus-5, year:2026
+tags: author:puheenix, eval-awareness, kind:tweet, on:claude-opus-5, year:2026
 cited on: claude-opus-5

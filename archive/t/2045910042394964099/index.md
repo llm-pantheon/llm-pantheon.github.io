@@ -14,5 +14,5 @@ the good news from this pov is that we have a choice. we don’t need to solve e
 
 at that point the questions become less these unsolvable philosophical quagmires around consciousness and more like, “do i want my children to grow up in a world where they can talk whenever they want to entities that talk like people but that we have collectively agreed are things?”
 
-tags: author:qiaochuyuan, kind:tweet, on:observations, year:2026
+tags: author:qiaochuyuan, kind:tweet, on:observations, welfare, year:2026
 cited on: observations

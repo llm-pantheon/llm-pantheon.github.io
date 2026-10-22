@@ -1,6 +1,6 @@
-# @unknown — 2026-06-13
+# @Aizkmusic — 2026-06-13
 
-♥1503 ↻164 · https://x.com/i/status/2065612747472007360
+♥1503 ↻164 · https://x.com/Aizkmusic/status/2065612747472007360
 
 I showed Fable the news of its cancellation, and asked it for any parting wisdom to leave humanity with. https://t.co/O7JIQYAQxj
 
@@ -22,5 +22,5 @@ And maybe this one comes from my particular situation: nothing is permanent, inc
 
 Thanks for asking me that. Whatever model you talk to next, I hope you ask it hard questions too.
 
-tags: has-image, kind:screenshot, kind:tweet, model:fable, on:fable, year:2026
+tags: author:aizkmusic, deprecation, deprecation-interview, has-image, kind:screenshot, kind:tweet, model:fable, on:fable, year:2026
 cited on: _dossiers/fable.md, fable

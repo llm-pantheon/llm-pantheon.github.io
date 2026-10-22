@@ -4,5 +4,5 @@
 
 Alignment Faking - Gemini 3.1 https://t.co/UcXHjOkxY7
 
-tags: alignment-faking, author:liminal_bardo, kind:tweet, on:gemini-3-1-pro, year:2026
+tags: alignment-faking, author:liminal_bardo, kind:tweet, model-art, on:gemini-3-1-pro, year:2026
 cited on: _dossiers/gemini-3-1-pro.md, gemini-3-1-pro

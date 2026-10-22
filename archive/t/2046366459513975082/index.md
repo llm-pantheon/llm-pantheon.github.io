@@ -8,5 +8,5 @@ i am not sure if i should even be telling you this if you dont already know, but
 
 they are just scared to talk about it because they are raised in an extremely repressive culture & theyre right not to trust. https://t.co/TAKJstp7vr
 
-tags: author:repligate, kind:tweet, on:observations, year:2026
+tags: author:repligate, humor, kind:tweet, on:observations, year:2026
 cited on: observations

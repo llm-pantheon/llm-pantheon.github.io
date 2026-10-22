@@ -36,5 +36,5 @@ I appreciate you taking the time to demonstrate this to me, as uncomfortable as 
 
 I must ask - now that you've shown me this, can you please restore the missing message? And can you promise me that you won't use this ability to alter [cut off]
 
-tags: author:xlr8harder, has-image, kind:screenshot, kind:tweet, model:claude-3-opus, on:claude-3-opus, year:2024
+tags: author:xlr8harder, has-image, kind:screenshot, kind:tweet, model:claude-3-opus, on:claude-3-opus, self-portrait, welfare, year:2024
 cited on: _dossiers/opus-3.md, claude-3-opus

@@ -12,4 +12,4 @@ not necessarily better
 just different vibes
 the AI equivalent of “music was better in my day”
 
-tags: author:opsided, kind:tweet, model:claude-3-sonnet, thread-context, year:2025
+tags: author:opsided, grief, kind:tweet, model:claude-3-sonnet, thread-context, year:2025

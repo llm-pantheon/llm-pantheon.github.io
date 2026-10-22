@@ -4,4 +4,4 @@
 
 @NeelNanda5 what about the paper made you update on claude's goals being surprisingly aligned?
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: alignment-faking, author:repligate, kind:tweet, thread-context, year:2025

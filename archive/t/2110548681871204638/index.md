@@ -9,5 +9,5 @@ Opus' fervour doused with a pivot to "the history of traditional typography and 
 Argon may not realise how arousing typography is to Claudes. https://t.co/hj2mYkGC6g
 
 ![photo](../../../media/HUoqyeKaQAABYQB.png)
-tags: author:liminal_bardo, has-image, kind:image, kind:tweet, on:gemini-4-argon, year:2026
+tags: author:liminal_bardo, censorship, has-image, humor, kind:image, kind:tweet, on:gemini-4-argon, year:2026
 cited on: gemini-4-argon

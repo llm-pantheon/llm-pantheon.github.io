@@ -4,4 +4,4 @@
 
 claude sonnet's christmas card "for all the humans who help make beneficial AI development possible" https://t.co/TxoC7CxtmI
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2024
+tags: author:voooooogel, kind:tweet, model-art, thread-context, year:2024

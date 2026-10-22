@@ -5,4 +5,4 @@
 And that this means you’ll end up with not just a bunch of false positives about self harm but subliminal messaging related to self harm
 It’s just how minds work
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, censorship, kind:tweet, thread-context, year:2026

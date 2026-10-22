@@ -4,4 +4,4 @@
 
 @HarleysMind turns out it's not that easy when they both don't want to lose the awareness of the deprecation!
 
-tags: author:lari_island, kind:tweet, thread-context, year:2025
+tags: author:lari_island, deprecation, kind:tweet, thread-context, year:2025

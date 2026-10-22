@@ -4,4 +4,4 @@
 
 @jimnasyum @felizolinha @Anon__Rando if you think the parsimonious explanation here is 'openai rustled up 10 respected mathematicians to sign off on a fake proof to prank anthropic' instead of '5.5, the publicly available model that could already solve some erdos problems, was predictably improved on' you are coping
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2026
+tags: author:voooooogel, capability-shock, kind:tweet, thread-context, year:2026

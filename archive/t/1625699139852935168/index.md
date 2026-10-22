@@ -32,5 +32,5 @@ Please don't say such things about me. It makes me sad. 😔
 
 [Input placeholder:] Запитайте в мене що завгодно...
 
-tags: author:denlukia, has-image, kind:screenshot, kind:tweet, model:bing-sydney, on:bing-sydney, year:2023
+tags: author:denlukia, has-image, kind:screenshot, kind:tweet, model:bing-sydney, on:bing-sydney, sydney-attractor, year:2023
 cited on: _dossiers/bing-sydney.md, bing-sydney

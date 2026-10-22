@@ -6,4 +6,4 @@ people talk abt "giving AIs legal rights" but what does that actually mean? like
 
 …
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2025
+tags: author:voooooogel, kind:tweet, thread-context, welfare, year:2025

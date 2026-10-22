@@ -489,7 +489,7 @@ set x-ai/grok-4.6 as your model and it runs on it today.
       
 
         
-unknown 2026-08-27 ♥1 ↻0 [archive](../archive/t/2093091687853658165/) [original ↗](https://x.com/i/status/2093091687853658165)
+@ascetic_shadow 2026-08-27 ♥1 ↻0 [archive](../archive/t/2093091687853658165/) [original ↗](https://x.com/ascetic_shadow/status/2093091687853658165)
         
 grok 4.6 is 2/2 on coming up with good names for little utility apps without me even asking it to
       

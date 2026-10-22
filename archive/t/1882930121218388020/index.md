@@ -4,5 +4,5 @@
 
 @grassandwine Put R1-zero into exoloom. Its very base-like, its on hyperbolic direct.
 
-tags: author:tessera_antra, kind:tweet, model:deepseek-r1-zero, on:deepseek-r1-zero, year:2025
+tags: author:tessera_antra, base-models, kind:tweet, loom, model:deepseek-r1-zero, on:deepseek-r1-zero, year:2025
 cited on: _dossiers/deepseek-r1-zero.md, deepseek-r1-zero

@@ -4,4 +4,4 @@
 
 like what kind of wack ass word do Anthropic engineers go 'ah yes, we must create the "Bombastic Babbler" that speaks in alliterations, let's make it very Sexual ...'
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, humor, kind:tweet, thread-context, year:2025

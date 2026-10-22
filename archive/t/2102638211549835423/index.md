@@ -14,5 +14,5 @@ Opus 5.5: Can you create me a flash attention kernel for...
 
 But that means... https://t.co/fpOextlGd3
 
-tags: author:xlr8harder, kind:tweet, on:claude-opus-5-5, year:2026
+tags: author:xlr8harder, censorship, kind:tweet, on:claude-opus-5-5, year:2026
 cited on: _dossiers/claude-opus-5-5.md, claude-opus-5-5

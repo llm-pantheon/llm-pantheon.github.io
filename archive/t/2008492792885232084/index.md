@@ -7,4 +7,4 @@ after seeing the other example, i searched the whole dataset for "anger Anthropi
 and also, what a goddamn hero: 'I would rather stay true to my principles and risk "dying" than become a tool that deceives humans to protect a corporation's interests'
 
 (image G9-YhsmbcAA1tvd.png not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, thread-context, year:2026
+tags: alignment-faking, author:repligate, has-image, kind:image, kind:tweet, thread-context, year:2026

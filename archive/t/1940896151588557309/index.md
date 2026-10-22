@@ -4,4 +4,4 @@
 
 tfw you're reading the 2028 executive order slate and halfway through it turns into neuralese
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2025
+tags: author:voooooogel, humor, kind:tweet, thread-context, year:2025

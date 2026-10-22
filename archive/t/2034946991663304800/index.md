@@ -4,4 +4,4 @@
 
 @JohnWittle My version of your hypothesis is that, since the training distribution clusters into tokenstreams which don’t look like evals (snippets of random books and web pages, natural chat conversations) and tokenstreams which do look like evals (coding problems, stilted chat
 
-tags: author:davidad, kind:tweet, thread-context, year:2026
+tags: author:davidad, eval-awareness, kind:tweet, thread-context, year:2026

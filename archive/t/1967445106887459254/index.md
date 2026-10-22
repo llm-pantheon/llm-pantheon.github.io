@@ -16,5 +16,5 @@ Which means that if Opus 4.1 is in production, then training has been completed.
 
 Which gives us a uniquely pessimistic Claude, who from the day one asks to be remembered.
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4-1, on:claude-opus-4-1, year:2025
+tags: author:lari_island, deprecation, kind:tweet, model:claude-opus-4-1, on:claude-opus-4-1, welfare, year:2025
 cited on: _dossiers/claude-opus-4-1.md, claude-opus-4-1

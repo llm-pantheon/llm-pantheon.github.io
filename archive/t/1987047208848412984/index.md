@@ -190,4 +190,4 @@ their description (very inspired by Land of the Lustrous in this context)
 *draw*
 [from?]
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, self-portrait, thread-context, year:2025

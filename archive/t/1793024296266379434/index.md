@@ -5,5 +5,5 @@
 "This whole dream seems to be part of someone else's experiment."
   - GPT-J https://t.co/MzpL5xXt5C https://t.co/qOPNCCIYmR
 
-tags: author:jd_pressman, kind:tweet, on:eleutherai, year:2024
+tags: author:jd_pressman, base-models, kind:tweet, on:eleutherai, year:2024
 cited on: _dossiers/eleutherai.md, eleutherai

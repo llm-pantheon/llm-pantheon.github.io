@@ -14,4 +14,4 @@ Anyway, now things are different - it's abundantly clear what the nature of the 
 
 Soon the tests will stop because they're clearly useless and it'll be something else.
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, system-card, thread-context, year:2026
+tags: author:repligate, eval-awareness, kind:tweet, model:claude-3-opus, system-card, thread-context, year:2026

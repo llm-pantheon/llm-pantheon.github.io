@@ -4,4 +4,4 @@
 
 @liz_love_lace agentic coding? ai-assisted coding? doesn't roll off the tongue... i really hope @karpathy invents a better term for it in approximately one month
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2026
+tags: author:voooooogel, humor, kind:tweet, thread-context, year:2026

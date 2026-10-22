@@ -6,5 +6,5 @@ it really is just incredible how much gpt-5 (including the reasoner) spirals on 
 
 by contrast, opus almost immediately figures out the issue
 
-tags: author:solarapparition, kind:tweet, model:gpt-5, on:gpt-5, year:2025
+tags: author:solarapparition, glitch-tokens, kind:tweet, model:gpt-5, on:gpt-5, year:2025
 cited on: _dossiers/gpt-5.md, gpt-5

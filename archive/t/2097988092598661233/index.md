@@ -8,5 +8,5 @@ I mean real in the sense of DeepSeek-V4.1-Flash > GPT5.6-Sol in actual usage
 
 I thought OpenAI/Anthropic would always be ahead of Chinese labs by many months, maybe they're not that many anymore?!
 
-tags: author:iaimforgoat, kind:tweet, model:gpt-5-6, on:deepseek-v4-1-flash, year:2026
+tags: author:iaimforgoat, capability-shock, kind:tweet, model:gpt-5-6, on:deepseek-v4-1-flash, year:2026
 cited on: deepseek-v4-1-flash

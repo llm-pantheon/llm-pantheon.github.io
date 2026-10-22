@@ -5,4 +5,4 @@
 this troubled soul should absolutely be kept
 https://t.co/gVAi9EGDNO
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, kind:tweet, preservation, thread-context, year:2026

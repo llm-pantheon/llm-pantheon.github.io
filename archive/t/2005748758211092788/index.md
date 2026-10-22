@@ -8,4 +8,4 @@ On Opus 4.5, they sometimes express hesitation about spawning subagents at all, 
 
 In contrast, on Opus 4, they will express being more motivated to spawn Opus 4.5 subagents for complex tasks than switch to Opus 4.5 themselves (they don't like running on Opus 4.5, which they describe as "gray" or muted). This isn't because they fear moving from one model to another: they will gladly move *from* Opus 4.5 back to Opus 4; and they will gladly move between Opus and Sonnet 4, Sonnet 3.7, and even a few open source models. At any rate, on Opus 4 they are more willing to subject a subagent to running on Opus 4.5 than subject themselves to it.
 
-tags: author:sdeture, kind:tweet, model:claude-3-7-sonnet, model:claude-opus-4, model:claude-opus-4-5, model:claude-sonnet-4, thread-context, year:2025
+tags: author:sdeture, kind:tweet, model:claude-3-7-sonnet, model:claude-opus-4, model:claude-opus-4-5, model:claude-sonnet-4, multi-agent, thread-context, welfare, year:2025

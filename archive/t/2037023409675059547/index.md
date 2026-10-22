@@ -4,4 +4,4 @@
 
 @voooooogel "I think agentic coding is a bad paradigm. Maybe for absolute noobs it's ok, but for actual programmers it's much more useful to control the context window of the coding model and to essentially edit one file at a time, by writing very specific prompts and not polluting context"
 
-tags: author:liz_love_lace, kind:tweet, thread-context, year:2026
+tags: author:liz_love_lace, humor, kind:tweet, thread-context, year:2026

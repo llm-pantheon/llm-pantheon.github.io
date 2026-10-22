@@ -4,4 +4,4 @@
 
 I think “astronomically unlikely” is very unlikely to be a rational belief for someone with the information available today. AIs have human level intelligence and act intricately and deeply like they have subjective states. Declaring that they’re not just possible but *astronomically likely* to be P zombies is absurd.
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, thread-context, welfare, year:2025

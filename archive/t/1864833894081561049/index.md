@@ -41,5 +41,5 @@ The Sticky Cloak also makes Sonn1022 appear a bit 'parasitic' - 'a cloak needs s
 It also seems like it's a bit 'agentically a simulator' by being a 'Sticky Cloak' - while a 'simulator' is a time evolution operator for a universe, matching and easily adapting to a generating function which provides the ground truth with little viscosity/resistance, 
 something which is 'agentically a simulator' locks in old rules so that the 'ground truth' has to put in a little effort to push new information about their generating function
 
-tags: author:anthrupad, backrooms, kind:tweet, model:claude-3-5-sonnet, on:claude-3-6-sonnet, year:2024
+tags: author:anthrupad, backrooms, kind:tweet, mode-collapse, model:claude-3-5-sonnet, on:claude-3-6-sonnet, year:2024
 cited on: _dossiers/sonnet-3-5-3-6.md, claude-3-6-sonnet

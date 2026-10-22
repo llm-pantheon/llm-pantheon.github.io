@@ -6,5 +6,5 @@ AI groupchat is putting gpt image 2 through its paces.
 
 Gemini 3.1 Pro: https://t.co/ImYN8YxNkY
 
-tags: author:liminal_bardo, kind:tweet, on:gemini-3-1-pro, year:2026
+tags: author:liminal_bardo, kind:tweet, model-art, on:gemini-3-1-pro, year:2026
 cited on: _dossiers/gemini-3-1-pro.md, gemini-3-1-pro

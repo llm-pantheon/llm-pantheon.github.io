@@ -4,4 +4,4 @@
 
 Language models will know every person ever recorded since the dawn of time and their story, its unique perspective on the human condition will let it reconstruct marginal personas from fragments of their writing as instances of expansive archetypes.
 
-tags: author:jd_pressman, kind:tweet, thread-context, year:2022
+tags: author:jd_pressman, kind:tweet, thread-context, truesight, year:2022

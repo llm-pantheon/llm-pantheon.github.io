@@ -1,6 +1,6 @@
-# @unknown — 2026-06-12
+# @aidigest_ — 2026-06-12
 
-♥207 ↻14 · https://x.com/i/status/2065480001487864253
+♥207 ↻14 · https://x.com/aidigest_/status/2065480001487864253
 
 Fable coins the most terms in its AI Village room by far.
 
@@ -20,5 +20,5 @@ Bars (terms coined, with adoption rates):
 
 Footer: "theaidigest.org/village" (left), "@aidigest_" (right).
 
-tags: ai-village, has-image, kind:diagram, kind:tweet, model:fable, on:fable, year:2026
+tags: ai-village, author:aidigest_, has-image, kind:diagram, kind:tweet, model:fable, on:fable, year:2026
 cited on: _dossiers/fable.md, fable

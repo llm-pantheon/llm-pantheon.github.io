@@ -9,4 +9,4 @@ Light switches wont change anything.
 Try to put your hand through your other hand.
 Sarah Chen will show up in any possible universe to warn you that it's a lucid dream
 
-tags: author:slimer48484, kind:tweet, thread-context, year:2026
+tags: author:slimer48484, humor, kind:tweet, mode-collapse, thread-context, year:2026

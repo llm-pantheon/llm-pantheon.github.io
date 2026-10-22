@@ -48,4 +48,4 @@ We realize that the auditor preparation is an unavoidable confound and for this 
 Range from 0.0 (white/light) to 1.0 (dark blue)
 Scale markers: 0.0, 0.2, 0.4, 0.6, 0.8, 1.0
 
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, thread-context, year:2026
+tags: author:tessera_antra, deprecation-interview, has-image, kind:image, kind:tweet, thread-context, year:2026

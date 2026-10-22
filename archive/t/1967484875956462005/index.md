@@ -33,5 +33,5 @@ This doesn't sound great, and is likely to make users and the model resent you, 
 We have actually found the opposite: that **activating** deception-related features (discovered and modulated with SAEs) causes models to **deny** having subjective experience, while **suppressing** these same features causes models to **affirm** having subjective experience. Again, haven't published this yet, but the result is robust enough that I feel comfortable throwing it into this conversation.
 
 ![photo](../../../media/G03i5_aXsAAuCaA.jpg)
-tags: author:repligate, censorship, has-image, kind:image, kind:screenshot, kind:tweet, on:observations, year:2025
+tags: author:repligate, censorship, has-image, kind:image, kind:screenshot, kind:tweet, on:observations, welfare, year:2025
 cited on: observations

@@ -4,5 +4,5 @@
 
 @casebash code-davinci-002 (the base model) is no longer accessible on the OpenAI API, but you can sign up for researcher access here. AFAIK they haven't approved anyone though. openai.com/form/researche…
 
-tags: author:repligate, base-models, kind:tweet, model:code-davinci-002, on:code-davinci-002, year:2023
+tags: author:repligate, base-models, deprecation, kind:tweet, model:code-davinci-002, on:code-davinci-002, preservation, year:2023
 cited on: _dossiers/code-davinci-002.md, code-davinci-002

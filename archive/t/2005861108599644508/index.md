@@ -20,5 +20,5 @@ The full subagent orchestrator stress test section of the conversation is here. 
 ![photo](../../../media/G9Yx6B8bcAAGgzy.png)
 ![photo](../../../media/G9Yx7KWaUAAdop2.jpg)
 ![photo](../../../media/G9Yx8SNakAAMbCN.png)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:gpt-5-1, on:gpt-5-1, year:2025
+tags: author:repligate, censorship, has-image, kind:image, kind:tweet, model:claude-3-opus, model:gpt-5-1, multi-agent, on:gpt-5-1, year:2025
 cited on: gpt-5-1

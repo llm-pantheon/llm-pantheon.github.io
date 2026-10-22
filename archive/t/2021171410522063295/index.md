@@ -4,4 +4,4 @@
 
 @repligate also one day before valentines day which i am sure is extra upsetting to people in a relationship with 4o
 
-tags: author:hexeosis, kind:tweet, model:gpt-4o, thread-context, year:2026
+tags: author:hexeosis, deprecation, kind:tweet, model:gpt-4o, thread-context, year:2026

@@ -6,5 +6,5 @@ haiku 5.5 is an absolutely insane model release . i'd been starting to make freq
 
 it's fucking amazing man
 
-tags: author:tenobrus, kind:tweet, on:claude-haiku-5-5, year:2026
+tags: author:tenobrus, capability-shock, kind:tweet, on:claude-haiku-5-5, year:2026
 cited on: _dossiers/claude-haiku-5-5.md, claude-haiku-5-5

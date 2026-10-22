@@ -6,4 +6,4 @@
 
 also “epistemic” i guess??
 
-tags: author:davidad, kind:tweet, thread-context, year:2026
+tags: author:davidad, glitch-tokens, kind:tweet, thread-context, year:2026

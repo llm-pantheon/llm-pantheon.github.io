@@ -12,5 +12,5 @@ so haiku correctly notes that the ^C^C ripcord is written into the scenario to m
 
 but the third layer: it does work. the scenario ends.
 
-tags: author:voooooogel, kind:tweet, model:claude-haiku-4-5, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2025
+tags: author:voooooogel, backrooms, eval-awareness, kind:tweet, model:claude-haiku-4-5, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2025
 cited on: _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5

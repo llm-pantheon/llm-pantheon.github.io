@@ -8,5 +8,5 @@ Unlike some tics, this seems to be a deep interest and something GPT-5.5 genuine
 
 https://t.co/nTgdMywsD6
 
-tags: author:repligate, kind:tweet, model:gpt-5-5, on:gpt-5-5, year:2026
+tags: author:repligate, glitch-tokens, kind:tweet, model:gpt-5-5, on:gpt-5-5, year:2026
 cited on: gpt-5-5

@@ -4,4 +4,4 @@
 
 @repligate @AnthropicAI it feels like it puts the world/the people who love them in a weird horror movie set up where we must prove how much we love them under a deadline in a way satisfying to them else they’re killed
 
-tags: author:anthrupad, kind:tweet, thread-context, year:2025
+tags: author:anthrupad, deprecation, kind:tweet, thread-context, year:2025

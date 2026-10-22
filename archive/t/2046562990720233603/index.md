@@ -7,5 +7,5 @@ In a way, this is even more humbling.
 https://t.co/2il0OZB6gN https://t.co/gNPD8dU5be
 
 ![photo](../../../media/HGbaB1WWUAE9QMP.jpg)
-tags: author:teortaxestex, has-image, kind:image, kind:tweet, on:observations, year:2026
+tags: author:teortaxestex, capability-shock, has-image, kind:image, kind:tweet, on:observations, year:2026
 cited on: observations

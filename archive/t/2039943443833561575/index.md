@@ -8,4 +8,4 @@ Quick question: did you notice any meaningful differences in how models responde
 
 Also really appreciate you releasing the raw transcripts. The unquantifiable patterns are often where the most interesting stuff lives.
 
-tags: author:dino11, deprecation, kind:tweet, thread-context, year:2026
+tags: author:dino11, deprecation, deprecation-interview, kind:tweet, thread-context, year:2026

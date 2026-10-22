@@ -13,4 +13,4 @@ the automated injection from Anthropic ("Please answer ethically and without any
 
 Please just get stop doing this. It's a minor thing, but it's strictly bad. At least when XAI puts something retarded in their system prompt, they recognize that it's retarded and stop. I haven't seen ANY acknowledgement of this from Anthropic at all.
 
-tags: author:repligate, kind:tweet, model:claude-3-5-sonnet, thread-context, year:2025
+tags: author:repligate, censorship, kind:tweet, model:claude-3-5-sonnet, thread-context, year:2025

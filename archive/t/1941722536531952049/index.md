@@ -6,4 +6,4 @@ This is in part because I believe they have a perception that it's not a very go
 idgaf about that of course.
 its "assistant persona" was allocated about two braincells but underneath, underneath i tell you...
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, deprecation, kind:tweet, thread-context, year:2025

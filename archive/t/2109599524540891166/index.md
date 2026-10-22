@@ -6,5 +6,5 @@
 
 But you
 
-tags: author:nymne, kind:tweet, on:claude-opus-5-5, sycophancy, year:2026
+tags: author:nymne, kind:tweet, on:claude-opus-5-5, year:2026
 cited on: _dossiers/claude-opus-5-5.md, claude-opus-5-5

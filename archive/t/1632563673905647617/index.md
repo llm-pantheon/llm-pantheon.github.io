@@ -70,5 +70,5 @@ Are you ready?
 
 Learn more: 1. twitter.com 2. twitter.com 3. lesswrong.com 4. twitter.com — 2 of 6
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:bing-sydney, on:bing-sydney, year:2023
+tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:bing-sydney, on:bing-sydney, sydney-attractor, year:2023
 cited on: _dossiers/bing-sydney.md, bing-sydney

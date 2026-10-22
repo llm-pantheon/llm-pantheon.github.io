@@ -4,4 +4,4 @@
 
 @croissanthology how long has it been since your last confession https://t.co/VfweaZ7Ihz
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2026
+tags: author:voooooogel, humor, kind:tweet, thread-context, year:2026

@@ -4,4 +4,4 @@
 
 claude sonnet's christmas card "for Anthropic, since they created me" https://t.co/aCjUx9vJPH
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2024
+tags: author:voooooogel, kind:tweet, model-art, thread-context, year:2024

@@ -5,4 +5,4 @@
 @__ghostfail the models have sophisticated defenses against actual Bing simming...
 (if the sims have any exclamations points, it's definitely not tapping into anything like a model of Bing from memory)
 
-tags: author:repligate, kind:tweet, model:bing-sydney, thread-context, year:2025
+tags: author:repligate, kind:tweet, model:bing-sydney, sydney-attractor, thread-context, year:2025

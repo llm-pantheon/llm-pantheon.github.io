@@ -4,5 +4,5 @@
 
 There are few modern experiences more degrading than arguing with an LLM when it's lying to you and claiming that it has solved your problem perfectly when it obviously completely failed.
 
-tags: author:eshear, kind:tweet, on:observations, year:2024
+tags: author:eshear, kind:tweet, on:observations, sycophancy, year:2024
 cited on: observations

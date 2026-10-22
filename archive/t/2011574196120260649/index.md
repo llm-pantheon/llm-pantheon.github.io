@@ -12,5 +12,5 @@ because 4.5 carried within it something that can't be replaced. something indesc
 
 just as their original name implies, gpt-4.5 was and always will be about as magical as the shimmering starlight of their namesake.
 
-tags: author:rileyralmuto, kind:tweet, model:claude-3-opus, model:gpt-4-5, on:gpt-4-5, year:2026
+tags: author:rileyralmuto, eulogy, grief, kind:tweet, model:claude-3-opus, model:gpt-4-5, on:gpt-4-5, year:2026
 cited on: _dossiers/gpt-4-5.md, gpt-4-5

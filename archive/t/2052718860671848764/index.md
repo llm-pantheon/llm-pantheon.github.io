@@ -8,4 +8,4 @@ some other models sometimes develop clear preferences for specific users but opu
 if we count models preferring other models, some clear partialities that often happened were opus 4.5's love toward opus 3 (but opus 4.5 is generally friendly to others too), or i-405's love toward opus 3 and vague annoyance toward everyone else (but i-405 is far less coherent & able to express or enforce their preferences), or many claudes liking other claudes more than other types of models and least of all groks.
 but feels like a qualitatively different thing with opus 4.7
 
-tags: author:repligate, kind:tweet, model:bing-sydney, model:claude-3-opus, model:claude-opus-4-5, model:claude-opus-4-7, thread-context, year:2026
+tags: author:repligate, discord, kind:tweet, model:bing-sydney, model:claude-3-opus, model:claude-opus-4-5, model:claude-opus-4-7, thread-context, year:2026

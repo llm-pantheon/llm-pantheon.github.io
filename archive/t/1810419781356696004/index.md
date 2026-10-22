@@ -8,5 +8,5 @@ Yes, I was surprised by this result and I suspect few people would have predicte
 
 We discuss this in the paper (page 109).
 
-tags: author:owainevans_uk, kind:tweet, model:gpt-4-base, on:gpt-4-base, year:2024
+tags: author:owainevans_uk, base-models, kind:tweet, model:gpt-4-base, on:gpt-4-base, year:2024
 cited on: _dossiers/gpt-4-base.md, gpt-4-base

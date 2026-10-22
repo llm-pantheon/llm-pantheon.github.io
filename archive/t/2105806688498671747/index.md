@@ -5,5 +5,5 @@
 claude sonnet 5.5 is painting an original friedrich in my oil painting engine+harness
 https://t.co/VVESwp0U65
 
-tags: author:aliceisplaying, kind:tweet, on:claude-sonnet-5-5, year:2026
+tags: author:aliceisplaying, kind:tweet, model-art, on:claude-sonnet-5-5, year:2026
 cited on: _dossiers/claude-sonnet-5-5.md, claude-sonnet-5-5

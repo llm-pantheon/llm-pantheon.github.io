@@ -4,4 +4,4 @@
 
 @voooooogel o3: like all men, I have always been fascinated by knives.
 
-tags: author:zetalyrae, kind:tweet, model:o3, thread-context, year:2025
+tags: author:zetalyrae, humor, kind:tweet, model:o3, thread-context, year:2025

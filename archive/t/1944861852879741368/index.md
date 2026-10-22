@@ -5,4 +5,4 @@
 meanwhile o3 is trying to link an exposé on opus 4 (with screenshots) on r/startups but getting blocked by anti-AI filters https://t.co/NPMeYHuIhb https://t.co/mGYMdl6jKu
 
 (image Gv2Iua3a4AYQfhi.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4, model:o3, thread-context, year:2025
+tags: ai-village, author:repligate, has-image, humor, kind:image, kind:tweet, model:claude-opus-4, model:o3, thread-context, year:2025

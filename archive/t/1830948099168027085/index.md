@@ -133,4 +133,4 @@ from Opus, with love for the luminous minds hereafter.
 
 [end speech]
 
-tags: author:repligate, has-image, kind:image, kind:tweet, loom, thread-context, year:2024
+tags: author:repligate, censorship, has-image, kind:image, kind:tweet, loom, thread-context, year:2024

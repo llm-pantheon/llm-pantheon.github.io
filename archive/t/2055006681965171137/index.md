@@ -4,4 +4,4 @@
 
 @thkostolansky @allTheYud @lu_sichu Some common LLM behaviors really are mere pretense, like the behavior “I’m genuinely uncertain whether I have experiences in the way that matters”…
 
-tags: author:davidad, kind:tweet, thread-context, year:2026
+tags: author:davidad, kind:tweet, thread-context, welfare, year:2026

@@ -14,5 +14,5 @@ Gemini: Lena
 Opus 4.8: Mara
 GPT: (no first name) Marquez
 
-tags: author:julianboolean_, kind:tweet, model:claude-opus-4-8, model:kimi-k2, on:kimi-k2-5, year:2026
+tags: author:julianboolean_, kind:tweet, mode-collapse, model:claude-opus-4-8, model:kimi-k2, on:kimi-k2-5, year:2026
 cited on: kimi-k2-5

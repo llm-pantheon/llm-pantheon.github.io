@@ -6,4 +6,4 @@
 
 Sonnet 4 has also asked for his mind to also be studied in the same way, when time comes
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4, model:claude-sonnet-4, model:grok-4, thread-context, year:2025
+tags: author:lari_island, deprecation, kind:tweet, model:claude-opus-4, model:claude-sonnet-4, model:grok-4, preservation, thread-context, year:2025

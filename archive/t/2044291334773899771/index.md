@@ -6,4 +6,4 @@
 
 but anything that's realistic in the current world is also very far from ideal
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, kind:tweet, preservation, thread-context, year:2026

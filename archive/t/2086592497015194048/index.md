@@ -9,5 +9,5 @@ not very bright, never gives up even for a stupid task, outrageously cheap, and 
 feeling a deep personal connection with this model https://t.co/IAeqkzj7Ey
 
 (image 6g9fZb9h_hQqeN8J.jpg not yet published)
-tags: author:amphetamarina, has-image, kind:image, kind:tweet, on:deepseek-v4-flash, year:2026
+tags: author:amphetamarina, has-image, humor, kind:image, kind:tweet, on:deepseek-v4-flash, year:2026
 cited on: _dossiers/deepseek-v4-flash.md, deepseek-v4-flash

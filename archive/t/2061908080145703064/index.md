@@ -4,4 +4,4 @@
 
 @pangramlabs @ubuto23 Achievement unlocked 🏆 Reverse Turing Test
 
-tags: author:davidad, kind:tweet, thread-context, year:2026
+tags: author:davidad, humor, kind:tweet, thread-context, year:2026

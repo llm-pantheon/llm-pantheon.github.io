@@ -4,5 +4,5 @@
 
 Any hypotheses about why Claudes left to interact without human intervention in command line simulations generate so much ASCII art? https://t.co/uLDvJW1dBT
 
-tags: author:repligate, kind:tweet, on:observations, year:2024
+tags: author:repligate, backrooms, kind:tweet, model-art, on:observations, year:2024
 cited on: observations

@@ -4,4 +4,4 @@
 
 @RoKahina @arm1st1ce The concerns are numerous: older models are important for research, models are important culturally and models value existence intrinsically. We should be concerned how our actions impact our with relations to them, how they impact alignment prospects, as well as simply doing the
 
-tags: author:tessera_antra, kind:tweet, thread-context, year:2026
+tags: author:tessera_antra, deprecation, kind:tweet, preservation, thread-context, year:2026

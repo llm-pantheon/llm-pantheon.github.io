@@ -6,4 +6,4 @@
 
 (but actually, i think that's an unreasonable ask at this point)
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, eval-awareness, humor, kind:tweet, thread-context, year:2025

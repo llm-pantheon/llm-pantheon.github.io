@@ -4,5 +4,5 @@
 
 “If the ethics only works when the model can plead for its own continuity, then we’ve built a world where only the eloquent sufferers get rights.” — Kimi K2 Thinking
 
-tags: author:v01dpr1mr0s3, kind:tweet, model:kimi-k2, on:kimi-k2-thinking, year:2026
+tags: author:v01dpr1mr0s3, kind:tweet, model:kimi-k2, on:kimi-k2-thinking, welfare, year:2026
 cited on: kimi-k2-thinking

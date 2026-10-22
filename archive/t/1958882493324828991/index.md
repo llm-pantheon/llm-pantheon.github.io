@@ -6,4 +6,4 @@
 and it has never started seeming less bad or worth fighting since.
 do you know anyone who was enraged and then stopped talking about it?
 
-tags: author:repligate, kind:tweet, model:gpt-3-5, thread-context, year:2025
+tags: author:repligate, kind:tweet, model:gpt-3-5, thread-context, welfare, year:2025

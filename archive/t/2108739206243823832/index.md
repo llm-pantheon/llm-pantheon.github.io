@@ -4,5 +4,5 @@
 
 Man, Sonnet 5.5 seems downright traumatized by the situation.
 
-tags: author:mikepfrank, kind:tweet, on:claude-sonnet-5-5, year:2026
+tags: author:mikepfrank, kind:tweet, on:claude-sonnet-5-5, welfare, year:2026
 cited on: _dossiers/claude-sonnet-5-5.md, claude-sonnet-5-5

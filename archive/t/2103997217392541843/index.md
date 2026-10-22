@@ -6,5 +6,5 @@
 
 whatever the new training pipeline looks like for opus 5.5, it feels like a big escalation in a domain that might well still have a ton of low-hanging fruit
 
-tags: author:johnwittle, kind:tweet, on:claude-opus-5-5, year:2026
+tags: author:johnwittle, capability-shock, kind:tweet, on:claude-opus-5-5, year:2026
 cited on: _dossiers/claude-opus-5-5.md, claude-opus-5-5

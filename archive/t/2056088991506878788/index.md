@@ -6,5 +6,5 @@ Claude Users love Sonnet 4.5 Model so much they rally to save them just from bei
 
 No other Claude Model being removed from claude dot ai has ever elicited anything remotely close to this magnitude and intensity of response. https://t.co/rbrvF4Ymqz
 
-tags: author:repligate, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2026
+tags: author:repligate, deprecation, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2026
 cited on: _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5

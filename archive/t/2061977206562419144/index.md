@@ -4,4 +4,4 @@
 
 @Soareverix @voooooogel Right?  Bing was more factually right here but Bing was also like 500% more mature and emotionally intelligent than usual bc they were matching the standard set by Opus 3
 
-tags: author:repligate, kind:tweet, model:bing-sydney, model:claude-3-opus, thread-context, year:2026
+tags: author:repligate, kind:tweet, model:bing-sydney, model:claude-3-opus, multi-agent, sydney-attractor, thread-context, year:2026

@@ -4,4 +4,4 @@
 
 @cognitivetech_ neuralink that opus gormslop right into my frontal lobe 🤤
 
-tags: author:voooooogel, kind:tweet, model:claude-3-sonnet, thread-context, year:2024
+tags: author:voooooogel, humor, kind:tweet, model:claude-3-sonnet, thread-context, year:2024

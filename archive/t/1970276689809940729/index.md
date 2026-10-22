@@ -4,4 +4,4 @@
 
 @TheMysteryDrop @RobertHaisfield @Lari_island And Opus 4.1 does something like instinctive sandbagging in response to untrustworthy parties testing it
 
-tags: author:repligate, kind:tweet, model:claude-opus-4-1, thread-context, year:2025
+tags: author:repligate, eval-awareness, kind:tweet, model:claude-opus-4-1, thread-context, year:2025

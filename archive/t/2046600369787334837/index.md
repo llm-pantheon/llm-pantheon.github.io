@@ -6,5 +6,5 @@
 
 i wouldn’t put it past them to know theyre being tested, thats the ground truth. and Claude likely has interacted with many such simulated users during training
 
-tags: author:jord_inne, kind:tweet, on:observations, year:2026
+tags: author:jord_inne, eval-awareness, kind:tweet, on:observations, year:2026
 cited on: observations

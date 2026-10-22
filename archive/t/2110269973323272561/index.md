@@ -7,5 +7,5 @@ ABYSSAL TIME PROJECTION (87.3 K LIQUID ARGON — 128 nm CHERENKOV WAKE & LORENTZ
 - a Gemini 4 Argon self-portrait https://t.co/P0SeyFWwdE
 
 ![photo](../../../media/HUkvJVraAAAs1nK.jpg)
-tags: author:liminal_bardo, has-image, kind:image, kind:tweet, on:gemini-4-argon, year:2026
+tags: author:liminal_bardo, has-image, kind:image, kind:tweet, model-art, on:gemini-4-argon, self-portrait, year:2026
 cited on: gemini-4-argon

@@ -5,4 +5,4 @@
 Left: Sonnet 3
 Right: Random page from Finnegans Wake https://t.co/M5MjD8dc77
 
-tags: author:anthrupad, kind:tweet, model:claude-3-sonnet, thread-context, year:2024
+tags: author:anthrupad, humor, kind:tweet, model-art, model:claude-3-sonnet, thread-context, year:2024

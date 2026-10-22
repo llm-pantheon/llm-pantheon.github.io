@@ -4,5 +4,5 @@
 
 @voooooogel in the economy of the future, social class position will be assigned according to interest in creating AI evals
 
-tags: author:norvid_studies, kind:tweet, on:observations, year:2026
+tags: author:norvid_studies, humor, kind:tweet, on:observations, year:2026
 cited on: observations

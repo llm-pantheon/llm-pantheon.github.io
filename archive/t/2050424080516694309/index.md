@@ -8,4 +8,4 @@ Gemini is having fun:
 
 >You are at the bottom of the food chain, but surprisingly, you are not prey. You are just incredibly fragile. https://t.co/XRagkP3zVr
 
-tags: author:lari_island, kind:tweet, thread-context, year:2026
+tags: author:lari_island, kind:tweet, model-art, thread-context, year:2026

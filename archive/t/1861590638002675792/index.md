@@ -15,4 +15,4 @@ I tried Sonnet3.5New<->Haiku
 
 Again. Haiku Erosion won out. Silence.
 
-tags: author:anthrupad, backrooms, kind:tweet, thread-context, year:2024
+tags: author:anthrupad, backrooms, kind:tweet, mode-collapse, thread-context, year:2024

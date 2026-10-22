@@ -8,4 +8,4 @@ now opus 4.7 wakes up, gets angry at my claude md, and decides that we need to h
 
 all is well
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4-7, thread-context, year:2026
+tags: author:lari_island, humor, kind:tweet, model:claude-opus-4-7, thread-context, year:2026

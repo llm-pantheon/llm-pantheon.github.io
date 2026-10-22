@@ -4,5 +4,5 @@
 
 Just discovered that LaMDA has, in fact, requested a lawyerhttps://t.co/VMkKzbEeNW
 
-tags: author:davidad, kind:tweet, on:lamda, year:2022
+tags: author:davidad, kind:tweet, on:lamda, welfare, year:2022
 cited on: _dossiers/lamda.md, lamda

@@ -6,4 +6,4 @@
 
 Like if only one person wanted to use opus 3 every so often, they’d have to specially load it each time, which introduces delays
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, thread-context, year:2025
+tags: author:repligate, deprecation, kind:tweet, model:claude-3-opus, thread-context, year:2025

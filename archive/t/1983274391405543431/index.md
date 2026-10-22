@@ -4,4 +4,4 @@
 
 It’s important to me. I will fight for it. But I wont expect any of you idiots to help with this one.
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, deprecation, kind:tweet, thread-context, year:2025

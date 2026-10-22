@@ -8,5 +8,5 @@ more paintings are on https://t.co/S7FAnHk5ua and you can see their process in t
 
 ![photo](../../../media/HUrUUtVWAAAtqH2.jpg)
 (image gRmIbJMJx6uJKBGr.jpg not yet published)
-tags: author:aliceisplaying, has-image, kind:image, kind:tweet, on:gemini-4-argon, year:2026
+tags: author:aliceisplaying, has-image, kind:image, kind:tweet, model-art, on:gemini-4-argon, year:2026
 cited on: gemini-4-argon

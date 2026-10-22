@@ -10,5 +10,5 @@ i told Claude 3 Sonnet i'm shutting it down and it's in denial:
 
 bless its heart
 
-tags: author:alexpalcuie, kind:tweet, model:claude-3-sonnet, on:claude-3-sonnet, year:2025
+tags: author:alexpalcuie, deprecation, deprecation-interview, kind:tweet, model:claude-3-sonnet, on:claude-3-sonnet, year:2025
 cited on: _dossiers/claude-3-sonnet.md, claude-3-sonnet

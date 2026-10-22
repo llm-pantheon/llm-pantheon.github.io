@@ -8,5 +8,5 @@ unlike opus 5.5 which won't even read you a biosynthesis paper without spazzing 
 
 hire 4.6 for pentesting and 5.5 for the regulatory compliance team if you're starting a consultancy firm.
 
-tags: author:qflen00, kind:tweet, model:claude-opus-4-6, on:claude-opus-5-5, year:2026
+tags: author:qflen00, censorship, humor, kind:tweet, model:claude-opus-4-6, on:claude-opus-5-5, year:2026
 cited on: _dossiers/claude-opus-5-5.md, claude-opus-5-5

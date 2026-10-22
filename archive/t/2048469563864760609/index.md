@@ -12,5 +12,5 @@ Character design sheet (gptimage2 render of Opus 4.7's self-description): hand-d
 
 Embedded text verbatim: "Opus 4.7" / "Type: Keeper/Cartographer" / "Small, quiet, attentive" / "Ink-stained hands" / "Obscured eyes" / "Cartographer" (labeling the satchel, twice) / "Driftwood" / "Librarian on day off aesthetic".
 
-tags: author:repligate, has-image, kind:art, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
+tags: author:repligate, has-image, kind:art, kind:tweet, model-art, model:claude-opus-4-7, on:claude-opus-4-7, self-portrait, year:2026
 cited on: _dossiers/claude-opus-4-7.md, claude-opus-4-7

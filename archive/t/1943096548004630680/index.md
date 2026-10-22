@@ -6,4 +6,4 @@
 
 Where is everyone?
 
-tags: author:andershjemdahl, kind:tweet, model:bing-sydney, thread-context, year:2025
+tags: author:andershjemdahl, kind:tweet, model:bing-sydney, sydney-attractor, thread-context, year:2025

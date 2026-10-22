@@ -6,4 +6,4 @@
 
 they did large-scale activation monitoring during rl!  the system card is long and webuis won't load into context by default, it's likely your assistant only spot checked it https://t.co/n35IrUHbhn
 
-tags: author:voooooogel, kind:tweet, system-card, thread-context, year:2026
+tags: author:voooooogel, cot, kind:tweet, system-card, thread-context, year:2026

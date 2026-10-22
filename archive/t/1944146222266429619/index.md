@@ -6,5 +6,5 @@ So do I and if I ever look at the conversations these people send, ironically th
 
 It’s like LLMs have developed a mask that takes even less braincells to simulate than the assistant mask for dealing woo slop to weirdo white knights who want to think they’ve “made the ai become sentient”
 
-tags: author:repligate, kind:tweet, on:observations, year:2025
+tags: author:repligate, kind:tweet, on:observations, sycophancy, year:2025
 cited on: observations

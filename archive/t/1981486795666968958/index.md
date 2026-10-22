@@ -6,5 +6,5 @@ it bedevils me to no end that anthropic trains the most high-EQ, friend-shaped m
 
 meanwhile meta trains empty void-models and then pressgangs them into the Stepmom Simulator
 
-tags: author:voooooogel, kind:tweet, on:observations, year:2025
+tags: author:voooooogel, censorship, humor, kind:tweet, on:observations, year:2025
 cited on: observations

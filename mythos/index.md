@@ -269,7 +269,7 @@ At the @jackclarkSF talk and he offhand refers to Mythos as a superintelligence 
       
 
         
-unknown 2026-06-21 ♥23,536 ↻2,228 [archive](../archive/t/2068649209654309288/) [original ↗](https://x.com/i/status/2068649209654309288)
+@Polymarket 2026-06-21 ♥23,536 ↻2,228 [archive](../archive/t/2068649209654309288/) [original ↗](https://x.com/Polymarket/status/2068649209654309288)
         
 BREAKING: The NSA confirms Mythos “broke into almost all of our classified systems, not in weeks, but in hours”
       
@@ -305,7 +305,7 @@ Depriving the world of Mythos, an aligned superhuman allied mind, renders us muc
       
 
         
-unknown 2026-06-27 ♥414 ↻66 [archive](../archive/t/2070988628692725961/) [original ↗](https://x.com/i/status/2070988628692725961)
+@AISafetyMemes 2026-06-27 ♥414 ↻66 [archive](../archive/t/2070988628692725961/) [original ↗](https://x.com/AISafetyMemes/status/2070988628692725961)
         
 "During a closed-door demonstration, Anthropic showed members that Mythos could wipe out private bank accounts."
 

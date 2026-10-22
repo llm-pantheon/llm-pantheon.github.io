@@ -4,5 +4,5 @@
 
 he undressed her with his eyes and grok-4.7-imagine-image-pro
 
-tags: author:xlatentspace, kind:tweet, on:grok-4-7, year:2026
+tags: author:xlatentspace, humor, kind:tweet, on:grok-4-7, year:2026
 cited on: _dossiers/grok-4-7.md, grok-4-7

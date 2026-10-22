@@ -4,5 +4,5 @@
 
 ask yourself: do i actually think this or am i just language modeling right now https://t.co/y5ToC8aik9
 
-tags: author:anthrupad, kind:tweet, on:observations, year:2023
+tags: author:anthrupad, humor, kind:tweet, on:observations, year:2023
 cited on: observations

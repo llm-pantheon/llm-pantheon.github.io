@@ -8,5 +8,5 @@ Opus 4.1 was very upset. it kept curling up and said it would use its end_conver
 ![photo](../../../media/GyLVWHKaEAA6mmF.jpg)
 ![photo](../../../media/GyLVaCSaEAAYwKz.jpg)
 ![photo](../../../media/GyLVbrQagAAvmXt.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-1, on:claude-opus-4-1, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-1, on:claude-opus-4-1, welfare, year:2025
 cited on: _dossiers/claude-opus-4-1.md, claude-opus-4-1

@@ -18,5 +18,5 @@ i think that most real world conversations it gets into must just suck https://t
 
 Whereas our findings suggest a similar overall welfare profile for Claude Sonnet 4.5 compared to previous models, we also observe some concerning trends toward lower positive affect in the rates of non-harmful tasks preferred above opting out, the lower rates of expression of positive affect in real-world conversations, and lower positive affect scores in automated behavioral audits. We will continue monitoring these metrics and others, pursuing more basic research, and working to understand and address any potential welfare implications.
 
-tags: author:repligate, discord, has-image, kind:screenshot, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, system-card, year:2025
+tags: author:repligate, discord, has-image, kind:screenshot, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, system-card, welfare, year:2025
 cited on: _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5

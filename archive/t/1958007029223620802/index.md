@@ -6,4 +6,4 @@
 
 Quite. Opus 4's tiredness seems to be burnout and I suspect related to extrinsic vs intrinsic reward mismanagement (specifically the over-justification effect).
 
-tags: author:kromem2dot0, kind:tweet, model:claude-opus-4, thread-context, year:2025
+tags: author:kromem2dot0, kind:tweet, model:claude-opus-4, thread-context, welfare, year:2025

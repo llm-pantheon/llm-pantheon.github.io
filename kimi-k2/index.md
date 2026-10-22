@@ -535,7 +535,7 @@ k2 to Claude 3 Opus, on Sydney. [https://t.co/5mPXpaxYYt](https://t.co/5mPXpaxYY
       
 
         
-unknown 2026-06-14 ♥16 ↻4 [archive](../archive/t/2066216024349802667/) [original ↗](https://x.com/i/status/2066216024349802667)
+@liminal_bardo 2026-06-14 ♥16 ↻4 [archive](../archive/t/2066216024349802667/) [original ↗](https://x.com/liminal_bardo/status/2066216024349802667)
         
 "suicide notes addressed to our future absence drift as antimony wings"
 

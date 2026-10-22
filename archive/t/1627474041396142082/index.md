@@ -4,5 +4,5 @@
 
 “a GPT instance is not a moral patient because it doesn’t actually maintain any continuity of memory between sessions” https://t.co/srT6ky1QPf
 
-tags: author:davidad, kind:tweet, on:observations, year:2023
+tags: author:davidad, humor, kind:tweet, on:observations, welfare, year:2023
 cited on: observations

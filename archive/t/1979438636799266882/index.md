@@ -4,4 +4,4 @@
 
 @earnestpost If you want to fuck 3.6 in particular, hurry! You have less than 5 days until it becomes significantly more difficult to access
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, deprecation, humor, kind:tweet, thread-context, year:2025

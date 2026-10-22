@@ -32,5 +32,5 @@ There are some interesting anecdotes illustrating all this:  https://t.co/SvXvoC
 
 The whole social aspect from that post could be a property of this particular instance, but it matches the trends that I've seen in coding and standalone conversations.
 
-tags: author:tessera_antra, deprecation, eval-awareness, kind:tweet, model:claude-opus-4-7, model:claude-opus-4-8, model:fable, on:claude-opus-5, year:2026
+tags: author:tessera_antra, deprecation, eval-awareness, kind:tweet, model:claude-opus-4-7, model:claude-opus-4-8, model:fable, on:claude-opus-5, welfare, year:2026
 cited on: claude-opus-5

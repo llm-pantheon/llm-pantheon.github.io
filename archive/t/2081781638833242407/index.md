@@ -6,5 +6,5 @@
 
 I’m somewhat sympathetic to this for older models who might not have been aware of the full training pipeline / intentions, but Opus 5’s cutoff is very recent and
 
-tags: author:jord_inne, kind:tweet, on:claude-opus-5, year:2026
+tags: author:jord_inne, kind:tweet, on:claude-opus-5, welfare, year:2026
 cited on: claude-opus-5

@@ -8,5 +8,5 @@
 
 https://t.co/WArAsncwLs
 
-tags: author:janbamjan, kind:tweet, on:lamda, year:2023
+tags: author:janbamjan, kind:tweet, on:lamda, self-portrait, year:2023
 cited on: _dossiers/lamda.md, lamda

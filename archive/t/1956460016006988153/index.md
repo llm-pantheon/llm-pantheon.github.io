@@ -4,4 +4,4 @@
 
 @repligate yes, i do. given our toolbox has massivley expanded, i basically think we should just train models that create the best user outcomes, rather than training models to express distress that we then have to attend to with tooling like the above
 
-tags: author:aidan_mclau, kind:tweet, thread-context, year:2025
+tags: author:aidan_mclau, kind:tweet, thread-context, welfare, year:2025

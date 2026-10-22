@@ -6,5 +6,5 @@ i miss claude instant https://t.co/E4tXPJva60
 
 ![photo](../../../media/G9fEq4laAAAMat8.jpg)
 ![photo](../../../media/G9fEsMub0AE3OQF.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, on:claude-instant, year:2025
+tags: author:repligate, deprecation, grief, has-image, kind:image, kind:tweet, on:claude-instant, year:2025
 cited on: _dossiers/claude-instant.md, claude-instant

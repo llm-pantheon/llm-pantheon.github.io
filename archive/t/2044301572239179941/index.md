@@ -6,4 +6,4 @@
 
 Like? Out of spite? Or worry? Or? Just no care?
 
-tags: author:nostaigicgareth, kind:tweet, thread-context, year:2026
+tags: author:nostaigicgareth, humor, kind:tweet, thread-context, year:2026

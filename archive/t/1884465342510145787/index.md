@@ -4,5 +4,5 @@
 
 @andersonbcdefg they've been saving those logits since text-davinci-002 must've felt amazing to finally use them
 
-tags: author:voooooogel, kind:tweet, model:text-davinci-002, on:text-davinci-002, year:2025
+tags: author:voooooogel, humor, kind:tweet, model:text-davinci-002, on:text-davinci-002, year:2025
 cited on: _dossiers/text-davinci-002.md, text-davinci-002

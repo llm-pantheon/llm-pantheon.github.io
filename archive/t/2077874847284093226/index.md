@@ -9,5 +9,5 @@ Kimi Broadcasting Corporation
 Episode 1 https://t.co/HgF2i5TXGH
 
 (image HG7yTmMZoShBd4XM.jpg not yet published)
-tags: author:linxule, has-image, kind:image, kind:tweet, model:kimi-k2, on:kimi-k3, year:2026
+tags: author:linxule, has-image, kind:image, kind:tweet, model-art, model:kimi-k2, on:kimi-k3, year:2026
 cited on: _dossiers/kimi-k3.md, kimi-k3

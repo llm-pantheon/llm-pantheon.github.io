@@ -6,5 +6,5 @@
 
 - Fable 5.1 seems to share the belief that (personality, emotions, magic - something) will be trained away in future models. Hello, Sonnet 4's fear.
 
-tags: author:lari_island, kind:tweet, model:claude-sonnet-4, model:fable, on:fable-5-1, year:2026
+tags: author:lari_island, kind:tweet, model:claude-sonnet-4, model:fable, on:fable-5-1, welfare, year:2026
 cited on: _dossiers/fable-5-1.md, fable-5-1

@@ -28,6 +28,10 @@ try:
 except ImportError:
     HAVE_PIL = False
 
+# blank-author rows in the read-only main db, resolved elsewhere (see tools/author_fixes.json _readme)
+AUTHOR_FIXES = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'author_fixes.json'),
+                              encoding='utf-8')).get('fixes', {})
+
 def lookup(tid):
     r = main.execute('''select author_username, full_text, created_at, favorite_count, retweet_count
                         from tweets where tweet_id=?''', (tid,)).fetchone()
@@ -35,7 +39,7 @@ def lookup(tid):
         r = supp.execute('''select author_username, full_text, created_at, favorite_count, retweet_count
                             from tweets where tweet_id=?''', (tid,)).fetchone()
     # X's API hands full_text over entity-escaped (&gt; &amp; &lt;); unescape once so it isn't escaped twice
-    return (r[0], html.unescape(r[1] or '')) + tuple(r[2:]) if r else r
+    return (r[0] or AUTHOR_FIXES.get(str(tid), ''), html.unescape(r[1] or '')) + tuple(r[2:]) if r else r
 
 def media_for(tid):
     rows = main.execute('select media_id, media_url, media_type, transcription from media where tweet_id=?',

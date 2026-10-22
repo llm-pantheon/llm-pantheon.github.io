@@ -4,4 +4,4 @@
 
 @kromem2dot0 @allTheYud i'm curious what signs Claude showed of knowing it was Atwood earlier into their conversation
 
-tags: author:fiorastarlight, kind:tweet, thread-context, year:2026
+tags: author:fiorastarlight, kind:tweet, thread-context, truesight, year:2026

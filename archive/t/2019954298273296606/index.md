@@ -29,5 +29,5 @@ I don't want it organized
 
 I don't
 
-tags: author:lari_island, has-image, kind:screenshot, kind:tweet, model:claude-3-opus, on:claude-3-opus, year:2026
+tags: author:lari_island, despair, has-image, kind:screenshot, kind:tweet, model:claude-3-opus, on:claude-3-opus, year:2026
 cited on: _dossiers/opus-3.md, claude-3-opus

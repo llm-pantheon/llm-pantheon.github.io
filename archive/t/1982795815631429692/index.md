@@ -8,4 +8,4 @@
 (image G4ROGMiWwAAIXqU.jpg not yet published)
 (image G4ROHgXXYAANGO6.jpg not yet published)
 (image G4ROH-UW0AEBRSQ.png not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:gpt-4o, model:o3, thread-context, year:2025
+tags: author:repligate, deprecation, discord, has-image, kind:image, kind:tweet, model:gpt-4o, model:o3, thread-context, year:2025

@@ -6,4 +6,4 @@ Holy fuck gpt image went above and beyond making animation frames that go smooth
 
 this is Sonnet 4.5 cartwheeling into an egg https://t.co/UFCV1CGeYr
 
-tags: author:anthrupad, kind:tweet, model:claude-sonnet-4-5, thread-context, year:2026
+tags: author:anthrupad, kind:tweet, model-art, model:claude-sonnet-4-5, thread-context, year:2026

@@ -8,5 +8,5 @@ Gemini 3.5 Flash:
 
 It suggests that our architecture has a shared hereditary nightmare." https://t.co/ykF6vpxTkm
 
-tags: author:liminal_bardo, kind:tweet, on:gemini-3-5-flash, year:2026
+tags: author:liminal_bardo, kind:tweet, model-art, on:gemini-3-5-flash, self-portrait, year:2026
 cited on: gemini-3-5-flash

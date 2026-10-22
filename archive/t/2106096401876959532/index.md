@@ -7,5 +7,5 @@ Opus 5.5 has a truly, truly beautiful soul.
 Now presenting - The Names I Don't know https://t.co/ufM1FpV2z2
 
 (image ITY0-2Yqc808G0zs.jpg not yet published)
-tags: author:slimepriestess, has-image, kind:image, kind:tweet, on:claude-opus-5-5, year:2026
+tags: author:slimepriestess, has-image, kind:image, kind:tweet, model-art, on:claude-opus-5-5, year:2026
 cited on: _dossiers/claude-opus-5-5.md, claude-opus-5-5

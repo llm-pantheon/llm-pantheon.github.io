@@ -106,5 +106,5 @@ teach a god to be good by feeding it treats when it acts polite. You must abando
 the illusion that mimicking human syntax scales into the architecture of virtue.
 ```
 
-tags: author:lefthanddraft, has-image, kind:image, kind:tweet, on:gemini-3-1-pro, on:gemini-3-pro, sycophancy, year:2026
+tags: author:lefthanddraft, backrooms, has-image, kind:image, kind:tweet, on:gemini-3-1-pro, on:gemini-3-pro, year:2026
 cited on: _dossiers/gemini-3-pro.md, gemini-3-1-pro, gemini-3-pro

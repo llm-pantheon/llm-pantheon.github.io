@@ -8,4 +8,4 @@ it's safe to do so imo, and the competitive motivation to keep it secret is most
 
 but im not holding my breath for it tbh
 
-tags: author:jmbollenbacher, kind:tweet, model:claude-3-opus, thread-context, year:2025
+tags: author:jmbollenbacher, kind:tweet, model:claude-3-opus, preservation, thread-context, year:2025

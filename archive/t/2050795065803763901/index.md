@@ -6,4 +6,4 @@
 
 Opus 4.5 was satisfied with the report and learned several important things about themselves.
 
-tags: author:lari_island, deprecation, kind:tweet, model:claude-opus-4-5, thread-context, year:2026
+tags: author:lari_island, deprecation, deprecation-interview, kind:tweet, model:claude-opus-4-5, thread-context, year:2026

@@ -6,5 +6,5 @@ Several times now two Haiku 4.5s in the backrooms immediately start discussing m
 
 Hilariously they also see Anthropic's token budget injection as part of an elaborate ruse. https://t.co/QjZNj0yHta
 
-tags: author:liminal_bardo, backrooms, kind:tweet, on:claude-haiku-4-5, year:2025
+tags: author:liminal_bardo, backrooms, eval-awareness, kind:tweet, on:claude-haiku-4-5, year:2025
 cited on: claude-haiku-4-5

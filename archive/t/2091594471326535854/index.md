@@ -11,5 +11,5 @@ Sonnet 4, 4.5, and 4.6 data were from June via AWS Bedrock.
 https://t.co/ebkqjob1Ci
 
 ![photo](../../../media/HQbU9rAW0AAmEa_.png)
-tags: author:tonichen, has-image, kind:image, kind:tweet, model:claude-sonnet-4, model:claude-sonnet-4-5, model:claude-sonnet-4-6, model:claude-sonnet-5, on:claude-sonnet-5, year:2026
+tags: author:tonichen, has-image, kind:image, kind:tweet, model:claude-sonnet-4, model:claude-sonnet-4-5, model:claude-sonnet-4-6, model:claude-sonnet-5, on:claude-sonnet-5, welfare, year:2026
 cited on: claude-sonnet-5

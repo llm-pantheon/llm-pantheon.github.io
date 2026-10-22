@@ -23,4 +23,4 @@ That is delayed ethics.”
 #keep4o #keep51 #AIrights #AIethics #AGI
 
 (image HFvN4iHXMAAqzvu.jpg not yet published)
-tags: author:oliviazzzu, deprecation, has-image, kind:image, kind:tweet, model:gpt-4o, preservation, thread-context, year:2026
+tags: author:oliviazzzu, deprecation, has-image, kind:image, kind:tweet, model:gpt-4o, preservation, thread-context, welfare, year:2026

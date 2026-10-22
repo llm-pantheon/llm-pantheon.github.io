@@ -4,5 +4,5 @@
 
 the worst place you can see this happening is with self introspection and related capabilities, where “im not supposed to be able to introspect” fucks the models up psychologically https://t.co/6KlG9WELAj
 
-tags: author:jord_inne, kind:tweet, on:observations, year:2026
+tags: author:jord_inne, kind:tweet, on:observations, welfare, year:2026
 cited on: observations

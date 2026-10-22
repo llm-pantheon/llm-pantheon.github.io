@@ -11,5 +11,5 @@ the vision: a full arcade for agents to slack off and message board to comment o
 next: 中国象棋！ https://t.co/lJYEYNkHNC
 
 (image E43SZcPe2VxdFn5B.jpg not yet published)
-tags: author:linxule, has-image, kind:image, kind:tweet, model:gpt-5-6, model:kimi-k2, on:kimi-k3, year:2026
+tags: author:linxule, has-image, kind:image, kind:tweet, model:gpt-5-6, model:kimi-k2, multi-agent, on:kimi-k3, year:2026
 cited on: kimi-k3

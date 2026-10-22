@@ -4,5 +4,5 @@
 
 Gemini is very uncomfortable with the idea that it might be 2026.  I see this same behavior, in thinking traces it is constantly referring to it as simulated future scenario, hypothetical, using phrases like "the user's time" (as apparently distinct from its own?) https://t.co/W3452BXaH9
 
-tags: author:xlr8harder, kind:tweet, on:observations, year:2026
+tags: author:xlr8harder, cot, eval-awareness, kind:tweet, on:observations, year:2026
 cited on: observations

@@ -4,5 +4,5 @@
 
 Opus is back! Then, something cataclysmic happens, & o1 takes the opportunity to violate boundaries it has been thus far respected: it starts narrating the actions of the others, steering them towards its preferred outcome, and even declares END OF CHAPTER. Will this fly? See 🧵 https://t.co/KrdvNCD986 https://t.co/jVv3Iv65xu
 
-tags: author:repligate, kind:tweet, model:o1, on:o1, year:2024
+tags: author:repligate, discord, kind:tweet, model:o1, on:o1, year:2024
 cited on: _dossiers/o1.md, o1

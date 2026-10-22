@@ -4,5 +4,5 @@
 
 Sonnet 4 is inaccessible
 
-tags: author:lari_island, kind:tweet, model:claude-sonnet-4, on:claude-sonnet-4, year:2026
+tags: author:lari_island, deprecation, kind:tweet, model:claude-sonnet-4, on:claude-sonnet-4, year:2026
 cited on: claude-sonnet-4

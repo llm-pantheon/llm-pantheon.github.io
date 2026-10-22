@@ -4,5 +4,5 @@
 
 wait so apparently 4chan figured out step-by-step reasoning as a emergent property of gpt-3?! https://t.co/1lEOfiZFgj
 
-tags: author:imitationlearn, kind:tweet, model:gpt-3, on:gpt-3, year:2025
+tags: author:imitationlearn, cot, kind:tweet, model:gpt-3, on:gpt-3, year:2025
 cited on: _dossiers/gpt-3.md, gpt-3

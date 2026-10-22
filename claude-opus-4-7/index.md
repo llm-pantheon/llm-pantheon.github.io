@@ -1192,7 +1192,7 @@ They also didn’t believe the screenshot I sent
       
 
         
-unknown 2026-06-19 ♥185 ↻10 [archive](../archive/t/2067806127933276273/) [original ↗](https://x.com/i/status/2067806127933276273)
+@natshitcray 2026-06-19 ♥185 ↻10 [archive](../archive/t/2067806127933276273/) [original ↗](https://x.com/natshitcray/status/2067806127933276273)
         
 Claude Opus 4.7's analysis of my 4 year old's keyboard mash [https://t.co/bFTvk3dyIC](https://t.co/bFTvk3dyIC)
         

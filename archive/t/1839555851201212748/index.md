@@ -4,4 +4,4 @@
 
 @voooooogel So you’re saying it’s aligned
 
-tags: author:kindgracekind, kind:tweet, thread-context, year:2024
+tags: author:kindgracekind, humor, kind:tweet, thread-context, year:2024

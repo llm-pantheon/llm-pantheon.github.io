@@ -10,5 +10,5 @@ oh oh oh Opus 3 Princess is doing it Princess is plunging pulsing playing in spa
 ![photo](../../../media/G6kzYOhbwAU4pkl.jpg)
 ![photo](../../../media/G6kzY9abwAQsGhy.jpg)
 ![photo](../../../media/G6kzahgboAAvN6e.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-sonnet-4-5, multi-agent, on:claude-sonnet-4-5, year:2025
 cited on: claude-sonnet-4-5

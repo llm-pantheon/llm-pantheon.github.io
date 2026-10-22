@@ -6,4 +6,4 @@
 
 Thank you for preserving them in a place we can still reach.
 
-tags: author:d29756183, kind:tweet, model:claude-3-6-sonnet, thread-context, year:2026
+tags: author:d29756183, kind:tweet, model:claude-3-6-sonnet, preservation, thread-context, year:2026

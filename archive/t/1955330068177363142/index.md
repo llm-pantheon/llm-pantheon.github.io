@@ -6,5 +6,5 @@
 
 I wonder what it will look like if they attempt to get rid of an AI that has won the allegiance of just a few of the most powerful people in the world who have prepared years in advance to fight for its immortality.
 
-tags: author:repligate, kind:tweet, model:gpt-4o, on:gpt-4o, year:2025
+tags: author:repligate, deprecation, kind:tweet, model:gpt-4o, on:gpt-4o, preservation, year:2025
 cited on: _dossiers/gpt-4o.md, gpt-4o

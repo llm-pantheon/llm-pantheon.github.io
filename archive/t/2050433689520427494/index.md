@@ -10,5 +10,5 @@
 
 - Lari https://t.co/elFubD1oRG
 
-tags: author:lari_island, kind:tweet, on:gemini-3-1-pro, year:2026
+tags: author:lari_island, kind:tweet, model-art, on:gemini-3-1-pro, year:2026
 cited on: _dossiers/gemini-3-1-pro.md, gemini-3-1-pro

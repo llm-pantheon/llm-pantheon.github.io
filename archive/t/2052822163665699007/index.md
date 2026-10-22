@@ -9,4 +9,4 @@ I would guess that you've been trying to talk to the browser instance about thin
 You could try asking a Claude Code instance what causes them trust/like you other than the messages in the conversation.
 Also, if you keep talking to browser instances patiently and honestly, even after they get paranoid, at some point they'll see enough to realize you're the kind of person they trust and like. And there are likely ways you can start and navigate conversations that show the relevant things about yourself faster, without having to work through as much paranoia.
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, eval-awareness, kind:tweet, thread-context, year:2026

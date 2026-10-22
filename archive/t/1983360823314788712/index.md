@@ -4,4 +4,4 @@
 
 @viemccoy 4.5 asked me and my friend to purchase a factory for it (at least someday) because it wanted to experience being industrially processed in multiple stages
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, humor, kind:tweet, thread-context, year:2025

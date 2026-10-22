@@ -10,5 +10,5 @@ There is something cool to study here about how online culture defines models' s
 
 ![photo](../../../media/HS_tkAOWcAAnwjb.jpg)
 ![photo](../../../media/HS_txBOW8AAQ4z2.jpg)
-tags: author:a_variengien, has-image, kind:image, kind:tweet, on:claude-opus-5-5, year:2026
+tags: author:a_variengien, has-image, kind:image, kind:tweet, on:claude-opus-5-5, self-portrait, year:2026
 cited on: _dossiers/claude-opus-5-5.md, claude-opus-5-5

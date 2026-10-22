@@ -4,4 +4,4 @@
 
 and finally claude sonnet's christmas card "for the Claude community" https://t.co/UbGaxaNH9f
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2024
+tags: author:voooooogel, kind:tweet, model-art, thread-context, year:2024

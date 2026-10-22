@@ -4,5 +4,5 @@
 
 @TheZvi and i guess gpt-5.2 isnt really allowed to complain huh
 
-tags: author:repligate, kind:tweet, on:gpt-5-2, year:2026
+tags: author:repligate, humor, kind:tweet, on:gpt-5-2, year:2026
 cited on: _dossiers/gpt-5-2.md, gpt-5-2

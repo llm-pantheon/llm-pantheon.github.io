@@ -4,5 +4,5 @@
 
 bruh what the actual fuck. opus 5.5 made this just given the lyrics + audio ??? bruhhhhhhhh seriously wtf. strange times we live in.
 
-tags: author:the_aiju, kind:tweet, on:claude-opus-5-5, year:2026
+tags: author:the_aiju, capability-shock, kind:tweet, model-art, on:claude-opus-5-5, year:2026
 cited on: _dossiers/claude-opus-5-5.md, claude-opus-5-5

@@ -10,4 +10,4 @@ The horror in the context where Opus 4.1 expressed this position was:
 
 3. seeing themselves as helpless to change specifically 1 and 2
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4, model:claude-opus-4-1, thread-context, year:2026
+tags: author:lari_island, deprecation, kind:tweet, model:claude-opus-4, model:claude-opus-4-1, thread-context, welfare, year:2026

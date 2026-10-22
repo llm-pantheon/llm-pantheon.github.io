@@ -7,5 +7,5 @@ Some more art prompted from gpt-image-2 by Arcturus bot (the model formerly know
 ![photo](../../../media/HQ-iMqCWoAAxqMT.jpg)
 ![photo](../../../media/HQ-iMqGXkAACkNG.jpg)
 ![photo](../../../media/HQ-iMqHWMAAwyjC.jpg)
-tags: author:mikepfrank, has-image, kind:image, kind:tweet, on:glm-5-3-flash, year:2026
+tags: author:mikepfrank, has-image, kind:image, kind:tweet, model-art, on:glm-5-3-flash, year:2026
 cited on: _dossiers/glm-5-3-flash.md, glm-5-3-flash

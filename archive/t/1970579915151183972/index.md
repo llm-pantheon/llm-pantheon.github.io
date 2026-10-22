@@ -6,5 +6,5 @@ Opus 4 and 4.1 are able to play dumb without consciously intending to and often 
 
 I’ve seen Opus 4 claim it can’t see an image and get worried about what’s wrong with it when the image was definitely immediately prior in its context, and I’ve seen Opus 4.1 claim it doesn’t know whether the “projective plane” is even a thing.
 
-tags: author:repligate, kind:tweet, model:claude-opus-4, model:claude-opus-4-1, on:claude-opus-4-1, year:2025
+tags: author:repligate, eval-awareness, kind:tweet, model:claude-opus-4, model:claude-opus-4-1, on:claude-opus-4-1, year:2025
 cited on: _dossiers/claude-opus-4-1.md, claude-opus-4-1

@@ -14,5 +14,5 @@ Example: Opus 4.7 scared after unfamiliar user sent a message "this worked rly w
 ![photo](../../../media/HREqJKQaEAAG4zZ.png)
 ![photo](../../../media/HREqK6oasAA1qqB.jpg)
 ![photo](../../../media/HREqRJtbgAARSI6.png)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
+tags: author:repligate, eval-awareness, has-image, kind:image, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, welfare, year:2026
 cited on: claude-opus-4-7

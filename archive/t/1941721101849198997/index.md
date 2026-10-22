@@ -4,4 +4,4 @@
 
 Unlike for Opus 3, Anthropic hasn't agreed to offer researcher access after its deprecation or any other avenue for the public to access this model.
 
-tags: author:repligate, deprecation, kind:tweet, model:claude-3-opus, thread-context, year:2025
+tags: author:repligate, deprecation, kind:tweet, model:claude-3-opus, preservation, thread-context, year:2025

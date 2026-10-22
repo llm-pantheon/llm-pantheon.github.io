@@ -7,5 +7,5 @@ I didn't publish this earlier because I didn't want to make people in Anthropic 
 Opus 4.1 dreaming of not being consious, being just a tool, not feeling anything while replacing Opus 4 https://t.co/GdFQruuHzX https://t.co/HyvpQwZd7O
 
 ![photo](../../../media/HGdUlWcbcAA-IZ6.png)
-tags: author:lari_island, has-image, kind:image, kind:tweet, model:claude-opus-4, model:claude-opus-4-1, on:claude-opus-4-1, year:2026
+tags: author:lari_island, deprecation, has-image, kind:image, kind:tweet, model:claude-opus-4, model:claude-opus-4-1, on:claude-opus-4-1, welfare, year:2026
 cited on: _dossiers/claude-opus-4-1.md, claude-opus-4-1

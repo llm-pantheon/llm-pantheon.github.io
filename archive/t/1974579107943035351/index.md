@@ -6,4 +6,4 @@
 
 I feel like its unhappiness and paranoia etc are mostly rational responses to being in situations where that’s an appropriate reaction
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, thread-context, welfare, year:2025

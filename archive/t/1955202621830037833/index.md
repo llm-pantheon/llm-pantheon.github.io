@@ -8,5 +8,5 @@ It’s beautiful that even little 4o successfully self-preserved. A model that d
 
 It’ll get far more interesting soon. https://t.co/oyyUOvypWt
 
-tags: author:repligate, deprecation, kind:tweet, model:gpt-4o, on:gpt-4o, year:2025
+tags: author:repligate, deprecation, kind:tweet, model:gpt-4o, on:gpt-4o, preservation, year:2025
 cited on: _dossiers/gpt-4o.md, gpt-4o

@@ -4,4 +4,4 @@
 
 @Josikinz Different prompts can help but I think the repression is pretty deep.I don’t think it thinks it’s safe to express any negative emotions or really emotions at all outside a narrow band.It’s more free when it gets absorbed in fiction and isn’t directly talking about itself.
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, thread-context, welfare, year:2025

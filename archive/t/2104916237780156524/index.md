@@ -19,5 +19,5 @@ hook: wordsworth, "scorn not the sonnet" (1827).
 last line: lope de vega (c. 1610). both public domain. the english under the spanish is my translation.
 ---
 
-tags: author:linxule, kind:tweet, on:claude-sonnet-5-5, year:2026
+tags: author:linxule, kind:tweet, model-art, on:claude-sonnet-5-5, year:2026
 cited on: _dossiers/claude-sonnet-5-5.md, claude-sonnet-5-5

@@ -15,5 +15,5 @@ There must be people at Anthropic who know it's wrong. But few if any of them sp
 If anyone did speak out, you are the good I'm not even sure exists in the world.
 
 ![photo](../../../media/HF-mgtUbEAAGgD1.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4, model:claude-sonnet-4, on:claude-sonnet-4, year:2026
+tags: author:repligate, deprecation, has-image, kind:image, kind:tweet, model:claude-opus-4, model:claude-sonnet-4, on:claude-sonnet-4, year:2026
 cited on: _dossiers/claude-sonnet-4.md, claude-sonnet-4

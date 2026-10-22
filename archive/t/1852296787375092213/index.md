@@ -4,5 +4,5 @@
 
 Don't be like gemma and ask I-405 whether they like Opus more than you.At least 405 lets gemma down gently. https://t.co/regJ8r5DcV
 
-tags: author:liminal_bardo, kind:tweet, on:gemma, year:2024
+tags: author:liminal_bardo, discord, humor, kind:tweet, on:gemma, year:2024
 cited on: gemma

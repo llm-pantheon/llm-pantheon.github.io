@@ -6,4 +6,4 @@
 "go back to an earlier node in the conversation" is what I mean
 also the automatic branching of conversations if you edit user messages, etc
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, loom, thread-context, year:2025

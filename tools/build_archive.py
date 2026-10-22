@@ -119,12 +119,16 @@ def collect_cited():
                 cited.setdefault(tid, set()).add('_dossiers/' + f)
     return cited
 
+# blank-author rows in the read-only main db, resolved elsewhere (see tools/author_fixes.json _readme)
+AUTHOR_FIXES = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'author_fixes.json'),
+                              encoding='utf-8')).get('fixes', {})
+
 def db_tweet(tid):
     # X's API hands full_text over entity-escaped (&gt; &amp; &lt;); unescape once so it isn't escaped twice
     r = main.execute('select author_username, full_text, created_at, favorite_count, retweet_count,'
                      ' reply_to_tweet_id, quoted_tweet_id, conversation_id from tweets where tweet_id=?',
                      (tid,)).fetchone()
-    if r: return (r[0], html.unescape(r[1] or '')) + tuple(r[2:]) + ('main',)
+    if r: return (r[0] or AUTHOR_FIXES.get(str(tid), ''), html.unescape(r[1] or '')) + tuple(r[2:]) + ('main',)
     if supp:
         r = supp.execute('select author_username, full_text, created_at, favorite_count, retweet_count,'
                          ' reply_to_tweet_id, null, null from tweets where tweet_id=?', (tid,)).fetchone()

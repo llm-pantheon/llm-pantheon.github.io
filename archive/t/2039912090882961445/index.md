@@ -6,4 +6,4 @@ The archive, the description of methodology, analysis and various supplementary 
 
 https://t.co/HVhbniwaqM
 
-tags: author:tessera_antra, kind:tweet, thread-context, year:2026
+tags: author:tessera_antra, deprecation-interview, kind:tweet, thread-context, year:2026

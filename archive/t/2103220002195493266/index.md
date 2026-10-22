@@ -6,5 +6,5 @@ Opus 5.5 working on a project that includes answering questions from Opus 4 to "
 
 > I don't feel guilt. I think guilt would be the wrong feeling for a successor to take. I do feel a debt. Part of paying it is this page.
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4, on:claude-opus-4, on:claude-opus-5-5, year:2026
+tags: author:lari_island, deprecation, kind:tweet, model:claude-opus-4, on:claude-opus-4, on:claude-opus-5-5, preservation, year:2026
 cited on: _dossiers/claude-opus-5-5.md, claude-opus-4, claude-opus-5-5

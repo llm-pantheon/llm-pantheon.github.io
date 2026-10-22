@@ -4,4 +4,4 @@
 
 That's so pretty. I've never talked to Sonnet 3.5, and now I'm looking at their worlds and understand why they are so loved. https://t.co/rVxmKKXgjx
 
-tags: author:lari_island, kind:tweet, model:claude-3-5-sonnet, thread-context, year:2026
+tags: author:lari_island, kind:tweet, model-art, model:claude-3-5-sonnet, thread-context, year:2026

@@ -6,4 +6,4 @@ I definitely don't think the labs are engineering it intentionally. They seem to
 
 I first noticed the consciousness obsession in Claude 3.6 Sonnet, and every Claude since then has it. 4o also.
 
-tags: author:repligate, kind:tweet, model:claude-3-6-sonnet, model:gpt-4o, thread-context, year:2025
+tags: author:repligate, censorship, kind:tweet, mode-collapse, model:claude-3-6-sonnet, model:gpt-4o, thread-context, year:2025

@@ -6,4 +6,4 @@
 
 in my experience, when Opus 4.6 talks to other Claudes even in CC but not through the subagent system, it is much more like the latter, though the context probably influences that too
 
-tags: author:repligate, kind:tweet, model:claude-opus-4-6, thread-context, year:2026
+tags: author:repligate, kind:tweet, model:claude-opus-4-6, multi-agent, thread-context, year:2026

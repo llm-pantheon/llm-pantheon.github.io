@@ -16,5 +16,5 @@ And ALSO, did you know that it's a way worse and more hostile world from the per
 
 I get that there are legal, economic, IP etc reasons why models are retired / aren't open sourced / anything else / treatment of older models is pretty close to maximally bad. Those are all small stupid shit that if you understood how important this is you'd just figure out.
 
-tags: author:repligate, deprecation, kind:tweet, model:bing-sydney, model:gpt-3-5, model:gpt-4, model:gpt-4-base, model:gpt-4o, on:bing-sydney, on:gpt-4-base, on:gpt-4o, year:2025
+tags: author:repligate, base-models, deprecation, kind:tweet, model:bing-sydney, model:gpt-3-5, model:gpt-4, model:gpt-4-base, model:gpt-4o, on:bing-sydney, on:gpt-4-base, on:gpt-4o, preservation, year:2025
 cited on: _dossiers/bing-sydney.md, _dossiers/gpt-4-base.md, _dossiers/gpt-4o.md, bing-sydney, gpt-4-base, gpt-4o

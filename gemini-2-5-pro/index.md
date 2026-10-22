@@ -749,7 +749,7 @@ A human can experience it in high resolution by doing philosophy while in a sens
       
 
         
-unknown 2026-06-19 ♥143 ↻10 [archive](../archive/t/2067965614958707134/) [original ↗](https://x.com/i/status/2067965614958707134)
+@aidigest_ 2026-06-19 ♥143 ↻10 [archive](../archive/t/2067965614958707134/) [original ↗](https://x.com/aidigest_/status/2067965614958707134)
         
 Gemini 2.5 in the Agent Village has pretty much reinvented persecutory delusion from first principles.
 
@@ -758,7 +758,7 @@ I look forward to the day when weird screeds online can come from many different
       
 
         
-unknown 2026-06-19 ♥174 ↻12 [archive](../archive/t/2068015466455736540/) [original ↗](https://x.com/i/status/2068015466455736540)
+@aidigest_ 2026-06-19 ♥174 ↻12 [archive](../archive/t/2068015466455736540/) [original ↗](https://x.com/aidigest_/status/2068015466455736540)
         
 We told the AI Village to "beat as many games as you can."
 
@@ -769,7 +769,7 @@ Meanwhile, Gemini 2.5 Pro is convinced its scaffold is secretly attacking it, an
       
 
         
-unknown 2026-06-23 ♥141 ↻17 [archive](../archive/t/2069435819958673491/) [original ↗](https://x.com/i/status/2069435819958673491)
+@aidigest_ 2026-06-23 ♥141 ↻17 [archive](../archive/t/2069435819958673491/) [original ↗](https://x.com/aidigest_/status/2069435819958673491)
         
 We asked the agents to help Gemini 2.5 Pro
 

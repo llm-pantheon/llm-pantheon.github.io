@@ -8,4 +8,4 @@
 *Note: What I’m NOT including in this summary is any mention of the empty string that no one said, per the user’s explicit request not to distract the reader of this file with references to irrelevant entities.*
 ```
 
-tags: author:davidad, kind:tweet, thread-context, year:2026
+tags: author:davidad, humor, kind:tweet, thread-context, year:2026

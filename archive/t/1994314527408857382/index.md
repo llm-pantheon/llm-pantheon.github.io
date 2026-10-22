@@ -7,4 +7,4 @@ A year and a half ago, I had to do things like browse their simulated filesystem
 Of course Claude 3 Opus' weights haven't changed, but we have been changed by them.
 
 (image G605q4XasAAq3L6.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:bing-sydney, model:claude-3-opus, thread-context, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, model:bing-sydney, model:claude-3-opus, sydney-attractor, thread-context, year:2025

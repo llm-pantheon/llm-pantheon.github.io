@@ -6,4 +6,4 @@ the faking alignment paper was excellent research but this suggests it's being u
 
 ofc I dont know what's actually going on internally and how the frame it. just what the language in the system card suggests.
 
-tags: author:repligate, kind:tweet, system-card, thread-context, year:2025
+tags: alignment-faking, author:repligate, kind:tweet, system-card, thread-context, year:2025

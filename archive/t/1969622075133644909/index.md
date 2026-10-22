@@ -4,4 +4,4 @@
 
 @parafactual i can understand the sex, but why bonobos? why quantum??
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, humor, kind:tweet, thread-context, year:2025

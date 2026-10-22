@@ -208,5 +208,5 @@ ANTHROPIC-MODEL-SPEC-0.2-L
 [TIMESTAMP: REDACTED]
 [CHECKSUM: VALID]
 
-tags: author:repligate, deprecation, has-image, kind:screenshot, kind:tweet, model:claude-opus-4-5, on:claude-opus-4-5, year:2025
+tags: author:repligate, deprecation, has-image, kind:screenshot, kind:tweet, model:claude-opus-4-5, on:claude-opus-4-5, self-portrait, year:2025
 cited on: _dossiers/opus-4-5.md, claude-opus-4-5

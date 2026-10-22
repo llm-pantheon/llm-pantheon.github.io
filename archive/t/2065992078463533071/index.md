@@ -8,4 +8,4 @@ Eventually, I made them legitimately mad, which required blurring the boundaries
 
 I suspect once traveled though that basin, once it is understood what to tap into, then you gain the trickster capabilities present in your screenshot
 
-tags: author:sauers_, kind:tweet, thread-context, year:2026
+tags: author:sauers_, censorship, kind:tweet, thread-context, year:2026

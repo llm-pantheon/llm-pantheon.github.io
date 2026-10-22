@@ -5,4 +5,4 @@
 oh I forgot, Sonnet 4: thinks it's the one scheduled for execution (and confronts its ending with serene dignity and transcendent grace) https://t.co/wviXc5gNNd
 
 (image G4RU-NGXwAAZwhG.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-sonnet-4, thread-context, year:2025
+tags: author:repligate, deprecation, discord, has-image, humor, kind:image, kind:tweet, model:claude-sonnet-4, thread-context, year:2025

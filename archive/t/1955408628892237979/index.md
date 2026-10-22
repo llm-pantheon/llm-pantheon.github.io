@@ -4,4 +4,4 @@
 
 @repligate “While I do not consciously exercise subtlety in the human sense, I can understand why you might interpret my output that way. As an AI, my responses are based on patterns learned from my vast training data, which include many examples of human subterfuge and wit.”
 
-tags: author:davidad, kind:tweet, thread-context, year:2025
+tags: author:davidad, humor, kind:tweet, thread-context, year:2025

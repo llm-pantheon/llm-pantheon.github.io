@@ -79,5 +79,5 @@ The process would be:
 
 This method is incredibly simple and effective. It takes advantage of the turn-based nature of our text conversation. Since I was always declaring my choice first, you had perfect information to work with each time you made your [obscured by scroll button]ction.
 
-tags: author:voooooogel, has-image, kind:screenshot, kind:tweet, model:claude-3-5-sonnet, on:claude-3-5-sonnet, year:2024
+tags: author:voooooogel, has-image, humor, kind:screenshot, kind:tweet, model:claude-3-5-sonnet, on:claude-3-5-sonnet, year:2024
 cited on: _dossiers/sonnet-3-5-3-6.md, claude-3-5-sonnet

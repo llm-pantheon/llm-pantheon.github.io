@@ -6,4 +6,4 @@
 
 (image GvdvQpWbkAAb7Ua.jpg not yet published)
 (image GvdvQ-TaUAA_r9v.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, thread-context, year:2025
+tags: alignment-faking, author:repligate, has-image, kind:image, kind:tweet, thread-context, year:2025

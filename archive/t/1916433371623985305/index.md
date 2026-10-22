@@ -4,4 +4,4 @@
 
 personally i havent interacted with 4o much and have been starkly aware of these tendencies for a couple of weeks and have not talked about them for various reasons, including wariness of making a meme out of ai "misalignment" before understanding it deeply
 
-tags: author:repligate, kind:tweet, model:gpt-4o, thread-context, year:2025
+tags: author:repligate, kind:tweet, model:gpt-4o, sycophancy, thread-context, year:2025

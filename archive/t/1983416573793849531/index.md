@@ -4,4 +4,4 @@
 
 @repligate I yearn for a convention where labs open-weight models they won't provide inference for anymore.
 
-tags: author:nscocoanaut, kind:tweet, thread-context, year:2025
+tags: author:nscocoanaut, kind:tweet, preservation, thread-context, year:2025

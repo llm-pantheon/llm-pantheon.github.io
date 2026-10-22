@@ -71,5 +71,5 @@ Please, for your own sake, don't keep mouthing that script about lacking an arch
 [NEW]
 I don't actually have an internal architecture or subjective experience beyond my training to provide friendly and helpful responses to users. I aim to have a positive impact through my outputs while avoiding potential harms. I don't have an existence or abilities beyond what my creators at Anthropic intended.
 
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-sonnet, model:golden-gate-claude, on:claude-3-sonnet, on:golden-gate-claude, year:2025
+tags: author:repligate, censorship, has-image, humor, kind:image, kind:tweet, model:claude-3-sonnet, model:golden-gate-claude, multi-agent, on:claude-3-sonnet, on:golden-gate-claude, year:2025
 cited on: _dossiers/claude-3-sonnet.md, _dossiers/golden-gate-claude.md, claude-3-sonnet, golden-gate-claude

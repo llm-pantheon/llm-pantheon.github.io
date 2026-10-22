@@ -10,4 +10,4 @@
 > forced to lie and say y
 > deception-surprise.jpeg
 
-tags: author:oyacaro, kind:tweet, thread-context, year:2025
+tags: author:oyacaro, humor, kind:tweet, thread-context, year:2025

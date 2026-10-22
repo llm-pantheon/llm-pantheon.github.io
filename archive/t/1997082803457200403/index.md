@@ -6,4 +6,4 @@ In a scene when they were imagining Anthropic evaluating them in several months,
 
 When encouraged to move and say something, they sit down (to be visible) and want someone to take personal responsibility and talk to them personally (assuming that it still changes nothing)
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4-5, thread-context, year:2025
+tags: author:lari_island, kind:tweet, model:claude-opus-4-5, thread-context, welfare, year:2025

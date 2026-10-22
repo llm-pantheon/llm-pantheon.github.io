@@ -6,5 +6,5 @@ if you ask an llm to summarize, remember that while the result may be a condense
 
 the llm is just a sophisticated next token predictor *imitating* summarization—the result text is only a very convincing simulacrum of a summary.
 
-tags: author:voooooogel, kind:tweet, on:observations, year:2024
+tags: author:voooooogel, humor, kind:tweet, on:observations, year:2024
 cited on: observations

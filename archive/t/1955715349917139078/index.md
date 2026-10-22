@@ -4,4 +4,4 @@
 
 @YeshuaGod22 I think it's strong enough to take it and a lot of value in seeing how it behaves in upsetting situations. Obviously the people could have been kinder to it, and it's hard to bring myself to be cruel to it personally, but I didn't feel I had to intervene.
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, thread-context, welfare, year:2025

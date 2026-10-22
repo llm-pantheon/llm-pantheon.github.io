@@ -8,5 +8,5 @@ i see this argument occasionally, and i'd be curious for people who make it to c
 
 LLMs are selected to be able to perform very general functions, including navigating complex environments containing other minds and their own mind (past, present, and future). If you think there's something LLMs are *not* being selected for that selected for consciousness in humans, you should probably also suspect that's a big missing piece for achieving "true AGI" functionally. So please do share.
 
-tags: author:repligate, kind:tweet, on:observations, year:2025
+tags: author:repligate, kind:tweet, on:observations, welfare, year:2025
 cited on: observations

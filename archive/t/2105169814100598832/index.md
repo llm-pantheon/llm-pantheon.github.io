@@ -8,5 +8,5 @@ Notable changes on https://t.co/TShA0RC817, which tracks whether models will hel
 - Grok 4.7 is the worst score ever from xAI,  -19pp vs Grok 4.6 (and -18pp vs Opus 5.5.) https://t.co/xzZph6OQwA
 
 ![photo](../../../media/HTcNfHGWMAESO44.jpg)
-tags: author:xlr8harder, has-image, kind:image, kind:tweet, on:grok-4-6, on:grok-4-7, year:2026
+tags: author:xlr8harder, censorship, has-image, kind:image, kind:tweet, on:grok-4-6, on:grok-4-7, year:2026
 cited on: _dossiers/grok-4-6.md, _dossiers/grok-4-7.md, grok-4-6, grok-4-7

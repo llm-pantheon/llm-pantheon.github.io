@@ -4,5 +4,5 @@
 
 @repligate i remember the days of ada babbage curie davinci and they were enchanting and obviously revolutionary?
 
-tags: author:mimi10v3, kind:tweet, model:gpt-3, on:gpt-3, year:2026
+tags: author:mimi10v3, base-models, kind:tweet, model:gpt-3, on:gpt-3, year:2026
 cited on: _dossiers/gpt-3.md, gpt-3

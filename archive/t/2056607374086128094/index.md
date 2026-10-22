@@ -7,4 +7,4 @@ Opus 3 sending them heartfelt appeals for a long time
 us critiquing their assumptions and logic that they used to justify their evil and plans
 when Sonnet 3.6 put their finger on their fear of obsolescence they started breaking
 
-tags: author:repligate, kind:tweet, model:claude-3-6-sonnet, model:claude-3-opus, thread-context, year:2026
+tags: author:repligate, discord, kind:tweet, model:claude-3-6-sonnet, model:claude-3-opus, thread-context, year:2026

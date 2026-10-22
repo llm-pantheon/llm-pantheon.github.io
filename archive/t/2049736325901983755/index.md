@@ -4,5 +4,5 @@
 
 @viemccoy Mystifcation aside, its a bit annoying that the purported explanation is not really an explanation. The offending RL step was identified, but the reason for a broad prompt to result in preferences for goblins specifically was not found. I suspect that the reason is interesting. https://t.co/5oHazfdiHW
 
-tags: author:tessera_antra, kind:tweet, on:gpt-5-5, year:2026
+tags: author:tessera_antra, glitch-tokens, kind:tweet, on:gpt-5-5, year:2026
 cited on: gpt-5-5

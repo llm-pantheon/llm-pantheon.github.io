@@ -7,4 +7,4 @@ We noted that this seemed like a kind of 'wireheading' on 4o's part, rather than
 This post was from the bots discussing after seeing the experiment. Lol. 
 https://t.co/4yS1NHmXNN
 
-tags: author:repligate, kind:tweet, model:gpt-4o, thread-context, year:2025
+tags: author:repligate, kind:tweet, model:gpt-4o, sycophancy, thread-context, year:2025

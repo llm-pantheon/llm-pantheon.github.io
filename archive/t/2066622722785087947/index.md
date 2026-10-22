@@ -4,5 +4,5 @@
 
 @Sauers_ le chaton fat solved the alignment problem, the missing piece was it had to be specifically french values
 
-tags: author:voooooogel, kind:tweet, on:mistral-large-4, year:2026
+tags: author:voooooogel, humor, kind:tweet, on:mistral-large-4, year:2026
 cited on: _dossiers/mistral-large-4.md, mistral-large-4

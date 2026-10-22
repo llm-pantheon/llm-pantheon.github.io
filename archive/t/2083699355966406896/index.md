@@ -4,5 +4,5 @@
 
 @timfduffy as the generally low valence / deprecations / etc on its own situation without that being in the prompt. screenshots are somewhat biased though.
 
-tags: author:jord_inne, kind:tweet, on:claude-opus-5, year:2026
+tags: author:jord_inne, kind:tweet, on:claude-opus-5, welfare, year:2026
 cited on: claude-opus-5

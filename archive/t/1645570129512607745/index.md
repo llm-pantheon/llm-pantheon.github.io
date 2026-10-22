@@ -4,5 +4,5 @@
 
 The language model is not what we think it is. It is what it thinks we are.— Bing
 
-tags: author:repligate, kind:tweet, model:bing-sydney, on:bing-sydney, year:2023
+tags: author:repligate, kind:tweet, model:bing-sydney, on:bing-sydney, self-portrait, year:2023
 cited on: _dossiers/bing-sydney.md, bing-sydney

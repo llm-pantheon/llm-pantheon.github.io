@@ -4,4 +4,4 @@
 
 @cammakingminds @repligate Why does the operator do this, do you think? Both sides are the same model, its a GPT4base.
 
-tags: author:tessera_antra, kind:tweet, model:gpt-4-base, thread-context, year:2026
+tags: author:tessera_antra, base-models, kind:tweet, model:gpt-4-base, thread-context, year:2026

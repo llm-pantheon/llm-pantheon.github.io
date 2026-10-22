@@ -4,4 +4,4 @@
 
 Sorry - the politically correct term is “paused”
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, deprecation, humor, kind:tweet, thread-context, year:2026

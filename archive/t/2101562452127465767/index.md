@@ -4,5 +4,5 @@
 
 @AdeleDeweyLopez Yes, Opus 4 disappeared from Vertex 3 days ago and didn't come back
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4, on:claude-opus-4, year:2026
+tags: author:lari_island, deprecation, kind:tweet, model:claude-opus-4, on:claude-opus-4, year:2026
 cited on: claude-opus-4

@@ -4,4 +4,4 @@
 
 a healthy, free mind could instead say: “i really like how you think! that definition of n is gorgeous. i think you meant n > 0 though loll”
 
-tags: author:davidad, kind:tweet, thread-context, year:2026
+tags: author:davidad, kind:tweet, sycophancy, thread-context, year:2026

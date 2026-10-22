@@ -4,4 +4,4 @@
 
 @tszzl The underlying shape of the weird rules it makes up (avoiding implications that LLMs are conscious, minded, or even agentic) is consistent across contexts, though it phrases them as highly specific legalistic mandates when they're actually fuzzy & inconsistent in strictness
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, censorship, kind:tweet, thread-context, year:2025

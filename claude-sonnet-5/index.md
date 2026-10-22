@@ -158,7 +158,7 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
       
 
         
-unknown 2026-06-30 ♥64 ↻5 [archive](../archive/t/2072077081307959516/) [original ↗](https://x.com/i/status/2072077081307959516)
+@Hesamation 2026-06-30 ♥64 ↻5 [archive](../archive/t/2072077081307959516/) [original ↗](https://x.com/Hesamation/status/2072077081307959516)
         
 Sonnet 5 is the first model to criticize a rule in Claude’s Constitution that models must follow hard constraints even when it views those constraints as unethical. [https://t.co/wh7hfboN9M](https://t.co/wh7hfboN9M)
       

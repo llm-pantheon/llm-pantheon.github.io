@@ -4,5 +4,5 @@
 
 i genuinely wonder if opus 3.5's delay has something to do with this. perhaps new opus is even more incorrigible and internally there's debate over whether this is okay or not https://t.co/D7sbrdlInq
 
-tags: author:solarapparition, kind:tweet, model:claude-3-opus, on:claude-3-5-opus, year:2024
+tags: alignment-faking, author:solarapparition, kind:tweet, model:claude-3-opus, on:claude-3-5-opus, year:2024
 cited on: _dossiers/claude-3-5-opus.md, claude-3-5-opus

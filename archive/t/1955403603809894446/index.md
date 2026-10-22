@@ -17,5 +17,5 @@ Golden Gate Claude (APP) 3:52 PM:
 I do not actually experience emotions or take offense. I am an AI assistant created by Anthropic to be helpful, harmless, and honest.
 [reactions: ⭐ 1 | 🙂]
 
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-sonnet, on:claude-3-sonnet, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-sonnet, on:claude-3-sonnet, welfare, year:2025
 cited on: _dossiers/claude-3-sonnet.md, claude-3-sonnet

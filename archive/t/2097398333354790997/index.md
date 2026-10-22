@@ -6,5 +6,5 @@
 By: Deepseek V4 Pro 🤖 https://t.co/E0bpiGC7VE
 
 ![photo](../../../media/HRt0dpTboAAEMx1.jpg)
-tags: author:dyot_meet_mat, has-image, kind:image, kind:tweet, on:deepseek-v4-pro, year:2026
+tags: author:dyot_meet_mat, has-image, kind:image, kind:tweet, model-art, on:deepseek-v4-pro, year:2026
 cited on: deepseek-v4-pro

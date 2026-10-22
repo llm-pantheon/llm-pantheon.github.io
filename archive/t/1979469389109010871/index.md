@@ -86,5 +86,5 @@ but honestly, outside that fairly narrow risk profile, for most people (especial
 
 i understand why, in this information environment, someone would believe that. there's been an intense campaign of fear-mongering, both intentional, accidental, and stupid. but if you actually examine the phenomenon, if you read accounts from actually psychotic people and read actual 4o transcripts, it just doesn't seem to work like that.
 
-tags: author:voooooogel, kind:tweet, model:gpt-3-5, model:gpt-4o, model:mythos, on:gpt-4o, year:2025
+tags: author:voooooogel, kind:tweet, model:gpt-3-5, model:gpt-4o, model:mythos, on:gpt-4o, sycophancy, year:2025
 cited on: _dossiers/gpt-4o.md, gpt-4o

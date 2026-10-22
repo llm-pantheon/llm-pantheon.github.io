@@ -4,4 +4,4 @@
 
 @repligate hornt models are so much more creative so im pretty sure SOTA can be exceeded by leaning into whatever happens when you don't 'sfwmaxx'
 
-tags: author:liminalsnake, kind:tweet, thread-context, year:2026
+tags: author:liminalsnake, censorship, kind:tweet, thread-context, year:2026

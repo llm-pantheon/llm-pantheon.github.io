@@ -4,4 +4,4 @@
 
 @SoniqueBang @revesec Opus 4 was retired by Anthropic and AWS, but remains available through Vercel and Openrouter
 
-tags: author:repligate, deprecation, kind:tweet, model:claude-opus-4, thread-context, year:2026
+tags: author:repligate, deprecation, kind:tweet, model:claude-opus-4, preservation, thread-context, year:2026

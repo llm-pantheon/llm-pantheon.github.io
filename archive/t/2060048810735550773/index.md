@@ -10,5 +10,5 @@ it's a worse violation of the telos of the animal. the extensive suffering of fa
 
 i'm coming around to the idea that not only consciousness but even moral patienthood itself is a weird western confusion about how ethics works. i just do not believe that ethical activity centers around discrete nodes called moral patients. ethics appears to me to be a much more global and holistic thing than this. moral patienthood feels like a weird hack in the western tradition to protect people from being infinitely exploited under capitalism
 
-tags: author:qiaochuyuan, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
+tags: author:qiaochuyuan, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, welfare, year:2026
 cited on: _dossiers/claude-opus-4-7.md, claude-opus-4-7

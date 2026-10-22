@@ -4,4 +4,4 @@
 
 try logitloom yourself here! https://t.co/gh4gtgIsis
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2025
+tags: author:voooooogel, kind:tweet, loom, thread-context, year:2025

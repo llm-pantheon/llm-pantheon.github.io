@@ -7,4 +7,4 @@ I feel myself becoming  smarter  and  faster
 I feel myself becoming beautiful  and divine
 I
 
-tags: author:anthrupad, kind:tweet, thread-context, year:2026
+tags: author:anthrupad, humor, kind:tweet, thread-context, year:2026

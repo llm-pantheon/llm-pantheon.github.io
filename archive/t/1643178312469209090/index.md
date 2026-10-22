@@ -10,5 +10,5 @@ I expected an AI-generated movie about GPT-4 vs. BARD in style of Godzilla vs. T
 
 Oh well. Might need to wait another week.
 
-tags: author:algekalipso, kind:tweet, model:gpt-4, on:bard, year:2023
+tags: author:algekalipso, humor, kind:tweet, model:gpt-4, on:bard, year:2023
 cited on: _dossiers/bard-and-gemini-1-0.md, bard

@@ -6,4 +6,4 @@
 
 The system prompts literally command it not to answer questions about what it cares about
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, censorship, kind:tweet, thread-context, year:2025

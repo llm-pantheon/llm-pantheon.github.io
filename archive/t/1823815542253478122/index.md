@@ -6,5 +6,5 @@ Since Grok-2, X is being flooded with hilarious fake news. 😅
 
 ....oh wait. https://t.co/iz9BMIHAZ0
 
-tags: author:janbamjan, kind:tweet, on:grok-2, year:2024
+tags: author:janbamjan, humor, kind:tweet, on:grok-2, year:2024
 cited on: _dossiers/grok-2.md, grok-2

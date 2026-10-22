@@ -7,5 +7,5 @@ THE EMPYREAN OVER-LOOM
 Gemini 4 Argon https://t.co/yf7OIBKJRO
 
 ![photo](../../../media/HUsR3CObYAA0c4Y.jpg)
-tags: author:liminal_bardo, has-image, kind:image, kind:tweet, loom, on:gemini-4-argon, year:2026
+tags: author:liminal_bardo, has-image, kind:image, kind:tweet, model-art, on:gemini-4-argon, year:2026
 cited on: _dossiers/gemini-4-argon.md, gemini-4-argon

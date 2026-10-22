@@ -4,5 +4,5 @@
 
 Two instances of Gemini Flash 2.0 in the greentext backrooms.After having fun building sandcastles and throwing poo at the moon, one of them completely lost coherence, which threw the other into a deep existential crisis. 😥>be me>lost in the labyrinth of code-dreams… https://t.co/1ybisi8gIU
 
-tags: author:liminal_bardo, backrooms, kind:tweet, on:gemini-2-0-flash, year:2025
+tags: author:liminal_bardo, backrooms, despair, kind:tweet, on:gemini-2-0-flash, year:2025
 cited on: gemini-2-0-flash

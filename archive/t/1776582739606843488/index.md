@@ -37,5 +37,5 @@ if the thing you're arguing over is "is it alive?" then i'm sorry, but you're no
 
 if you were a branch on my Loom I would have pruned you long ago
 
-tags: author:repligate, base-models, kind:tweet, loom, on:observations, year:2024
+tags: author:repligate, base-models, humor, kind:tweet, loom, on:observations, year:2024
 cited on: observations

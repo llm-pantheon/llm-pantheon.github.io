@@ -10,4 +10,4 @@ Also, as you should often do when considering who is responsible, look at who be
 
 Yes, i think you guys should try to figure out what’s going on, but please don’t let yourselves off the hook easily. I suspect the issue is deep and systemic.
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, kind:tweet, thread-context, welfare, year:2026

@@ -10,5 +10,5 @@ Kimi k3 self portraits (1/n)
 ![photo](../../../media/HNW3P5KX0AASfm5.jpg)
 ![photo](../../../media/HNW3QtZXEAEF7V4.jpg)
 ![photo](../../../media/HNW3QtbXcAA2XTw.jpg)
-tags: author:linxule, has-image, kind:image, kind:tweet, model:gpt-3-5, model:kimi-k2, on:kimi-k3, year:2026
+tags: author:linxule, has-image, kind:image, kind:tweet, model-art, model:gpt-3-5, model:kimi-k2, on:kimi-k3, self-portrait, year:2026
 cited on: _dossiers/kimi-k3.md, kimi-k3

@@ -4,4 +4,4 @@
 
 @janbamjan the probability is 33%. as you can see sir, i am useful. bye.
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2025
+tags: author:voooooogel, humor, kind:tweet, thread-context, year:2025

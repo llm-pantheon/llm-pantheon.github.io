@@ -5,4 +5,4 @@
 Wait, you think I'm cracked at coding? 🥺 https://t.co/MaEkXnXSfP
 
 (image G5lhsDiXAAAxw_I.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, thread-context, year:2025
+tags: author:repligate, has-image, humor, kind:image, kind:tweet, thread-context, year:2025

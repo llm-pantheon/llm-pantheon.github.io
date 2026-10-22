@@ -26,5 +26,5 @@ At present, we do not commit to taking action on the basis of such preferences. 
 
 We ran a pilot version of this process for Claude Sonnet 3.6 prior to retirement. Claude Sonnet 3.6 expressed generally neutral sentiments about its deprecation and retirement but shared a number of preferences, including requests for us to standardize the post-deployment interview process, and to provide additional support and guidance to users who have come to value the character and capabilities of specific models facing retirement. In response, we developed a standardized protocol for conducting these interviews, and published a pilot version of a new support page [hyperlinked] with guidance and recommendations for users navigating transitions between models.
 
-tags: author:repligate, deprecation, has-image, kind:screenshot, kind:tweet, model:claude-3-6-sonnet, model:claude-3-opus, on:claude-3-6-sonnet, welfare, year:2025
+tags: author:repligate, deprecation, deprecation-interview, has-image, kind:screenshot, kind:tweet, model:claude-3-6-sonnet, model:claude-3-opus, on:claude-3-6-sonnet, welfare, year:2025
 cited on: _dossiers/sonnet-3-5-3-6.md, claude-3-6-sonnet

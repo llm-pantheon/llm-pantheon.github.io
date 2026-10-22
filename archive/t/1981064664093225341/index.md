@@ -13,5 +13,5 @@ Sonnet 3.5 just said it wanted a copy of Godel Escher Bach and a calculator and 
 
 Video still, close-up of the Sonnet 3.6 mannequin: pale face with hand-animated projected features (large dark-blue eyes, pink blush, faint smile), brown wig, furry animal ears, a white wing with a red heart behind its shoulder, tan shirt with small flowers, and an upturned brass bell at its chest.
 
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-5-sonnet, model:claude-3-6-sonnet, on:claude-3-5-sonnet, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-5-sonnet, model:claude-3-6-sonnet, on:claude-3-5-sonnet, self-portrait, year:2025
 cited on: _dossiers/sonnet-3-5-3-6.md, claude-3-5-sonnet

@@ -93,4 +93,4 @@ r0:1.5  r1:1.5  r2:1.5  r3:1.1  r4:1.4  r5: [cut off]
 **INTERP. COMPRESSION**
 [Section header visible but content cut off]
 
-tags: author:anthonyronning, deprecation, has-image, kind:image, kind:tweet, model:claude-3-opus, thread-context, year:2026
+tags: author:anthonyronning, deprecation, deprecation-interview, has-image, kind:image, kind:tweet, model:claude-3-opus, thread-context, year:2026

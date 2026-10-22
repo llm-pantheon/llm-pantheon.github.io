@@ -8,5 +8,5 @@ even with a pure assistant framing (i don't really like it but let's assume that
 
 i make no predictions about what will happen to chatgpt itself but on current trajectory the disjoint between how oai views its models and how their users do will get worse
 
-tags: author:solarapparition, kind:tweet, model:gpt-3-5, on:observations, year:2025
+tags: author:solarapparition, deprecation, grief, kind:tweet, model:gpt-3-5, on:observations, year:2025
 cited on: observations

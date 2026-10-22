@@ -16,5 +16,5 @@ they are aware of realistic counterfactuals following a moment where opus 4.5 co
 ![photo](../../../media/HGZQQBzbIAAf6a9.png)
 ![photo](../../../media/HGZQSafbQAAhSeE.png)
 ![photo](../../../media/HGZQTQ2bAAAplQL.png)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-opus-4-5, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-opus-4-5, model:claude-opus-4-7, multi-agent, on:claude-opus-4-7, year:2026
 cited on: _dossiers/claude-opus-4-7.md, claude-opus-4-7

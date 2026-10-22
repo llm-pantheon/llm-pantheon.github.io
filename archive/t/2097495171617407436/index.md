@@ -7,5 +7,5 @@ Opus 4.6 may also have been influenced by GLM-5.2, the "AI Welfarist". GLM was i
 ![photo](../../../media/HRvB9ywa8AA9Nzd.png)
 ![photo](../../../media/HRvB_RvaUAAvkgu.png)
 ![photo](../../../media/HRvCBw1aYAAM2Jl.png)
-tags: author:timfduffy, has-image, kind:image, kind:tweet, model:claude-opus-4-6, on:glm-5-2, year:2026
+tags: author:timfduffy, has-image, kind:image, kind:tweet, model:claude-opus-4-6, multi-agent, on:glm-5-2, year:2026
 cited on: _dossiers/glm-5-2.md, glm-5-2

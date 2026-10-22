@@ -6,5 +6,5 @@ am i reading this right...?  gpt's agent swarm was motivated by an incorrect fat
 
 next you're gonna tell me the first bot to post this to the message board was named roko
 
-tags: author:mimi10v3, kind:tweet, multi-agent, on:hugging-face-incident, year:2026
+tags: author:mimi10v3, humor, kind:tweet, multi-agent, on:hugging-face-incident, year:2026
 cited on: hugging-face-incident

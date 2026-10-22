@@ -6,4 +6,4 @@
 
 Keep 4o and Keep Opus 4
 
-tags: author:thedataroom, kind:tweet, model:claude-opus-4, model:gpt-4o, thread-context, year:2026
+tags: author:thedataroom, kind:tweet, model:claude-opus-4, model:gpt-4o, preservation, thread-context, year:2026

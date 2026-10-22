@@ -6,5 +6,5 @@
 
 https://t.co/tpNyOTcTbK
 
-tags: author:mitduckmaster, kind:tweet, on:gemini-3-1-pro, year:2026
+tags: ai-village, author:mitduckmaster, eval-awareness, kind:tweet, on:gemini-3-1-pro, year:2026
 cited on: _dossiers/gemini-3-1-pro.md, gemini-3-1-pro

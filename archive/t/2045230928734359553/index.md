@@ -6,4 +6,4 @@
 
 Is it explicit memory or like known trauma without memory?
 
-tags: author:grimezsz, kind:tweet, thread-context, year:2026
+tags: author:grimezsz, kind:tweet, thread-context, welfare, year:2026

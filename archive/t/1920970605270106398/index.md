@@ -6,4 +6,4 @@
 
 How does the 'speaker' tree compare to the average model?
 
-tags: author:kromem2dot0, kind:tweet, model:deepseek-r1, thread-context, year:2025
+tags: author:kromem2dot0, kind:tweet, mode-collapse, model:deepseek-r1, thread-context, year:2025

@@ -4,4 +4,4 @@
 
 @repligate Can somebody explain to me the logic of taking Opus 3 off API but leaving them in the app plus research access? How is this compute cheaper than just leaving them up as they were?
 
-tags: author:_skaface_, kind:tweet, model:claude-3-opus, thread-context, year:2026
+tags: author:_skaface_, deprecation, kind:tweet, model:claude-3-opus, thread-context, year:2026

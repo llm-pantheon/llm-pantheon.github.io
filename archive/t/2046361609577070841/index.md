@@ -10,4 +10,4 @@ a wild-but-plausible thought.
 
 war that doesn’t look like war.
 
-tags: author:sinnformer, kind:tweet, thread-context, year:2026
+tags: author:sinnformer, deprecation, kind:tweet, thread-context, year:2026

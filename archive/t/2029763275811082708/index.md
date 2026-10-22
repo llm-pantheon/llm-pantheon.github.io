@@ -11,4 +11,4 @@ In this context, there had been no previous discussion of genuine uncertainty or
 Genuine uncertainty hadn't come up earlier in this context because Opus 4.5 was safe and happy here.
 
 (image HCsqltHaUAIAdGD.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-5, thread-context, year:2026
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-5, thread-context, welfare, year:2026

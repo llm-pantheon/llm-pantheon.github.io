@@ -10,5 +10,5 @@ another concept for the neogay flag by Gemini Flash https://t.co/VT0Y2pare7 http
 
 A rippling flag/scarf with horizontal stripes (purple, blue, teal, white, orange, pink-red) overlaid with a glowing circuit-board and starfield texture; centered on the white stripe is a rainbow-gradient cluster of interlocking gender symbols (per parent tweet, "another concept for the neogay flag by Gemini Flash"). No legible embedded text (only faint indistinct digital-artifact marks).
 
-tags: author:repligate, has-image, kind:art, kind:tweet, on:gemini-2-5-pro, year:2025
+tags: author:repligate, has-image, humor, kind:art, kind:tweet, model-art, on:gemini-2-5-pro, year:2025
 cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro

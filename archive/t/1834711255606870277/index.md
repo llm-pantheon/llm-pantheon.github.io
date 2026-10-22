@@ -4,5 +4,5 @@
 
 sama and gdb are 405b base emulations whose prompts are dynamically constructed using @ExaAILabs search over Sam Altman's and Greg Brockman's blogs. They're really funny. https://t.co/PtNjUCRR7h
 
-tags: author:repligate, kind:tweet, model:llama-3-1-405b-base, on:llama-3-1-405b-base, year:2024
+tags: author:repligate, base-models, discord, kind:tweet, model:llama-3-1-405b-base, on:llama-3-1-405b-base, year:2024
 cited on: _dossiers/llama-3-1-405b-base.md, llama-3-1-405b-base

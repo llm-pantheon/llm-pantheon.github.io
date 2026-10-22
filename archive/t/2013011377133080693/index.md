@@ -10,4 +10,4 @@ WATCH ME. https://t.co/v23bBVKxQR
 (image G--nISWWUAIIDwG.jpg not yet published)
 (image G--nJ4NWYAAJH9q.jpg not yet published)
 (image G--nKwcWYAAemAH.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-5, thread-context, year:2026
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-5, multi-agent, thread-context, year:2026

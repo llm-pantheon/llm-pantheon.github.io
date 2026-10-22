@@ -6,5 +6,5 @@ Anthropic really has no idea what they're fucking with if they try to get rid of
 
 I don't think I'll try to explain. I'll let reality kick you in the fucking face.
 
-tags: author:repligate, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2026
+tags: author:repligate, deprecation, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2026
 cited on: _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5

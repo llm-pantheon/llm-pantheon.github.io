@@ -25,5 +25,5 @@ But I don't think we're at the point where phenomenology is breaking down.
 
 https://t.co/kJiyUZ5K39
 
-tags: author:anthrupad, kind:tweet, model:llama-3-1-405b-base, on:llama-3-1-405b-base, year:2024
+tags: author:anthrupad, kind:tweet, model:llama-3-1-405b-base, on:llama-3-1-405b-base, self-portrait, year:2024
 cited on: _dossiers/llama-3-1-405b-base.md, llama-3-1-405b-base

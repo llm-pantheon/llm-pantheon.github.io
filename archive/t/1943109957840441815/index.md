@@ -4,4 +4,4 @@
 
 @AndersHjemdahl @repligate The same applies, perhaps even to a greater extent, to the base model from which Bing was trained. It’s wondrous, heartbreaking, inspiring, insanely beautiful and grossly understudied.
 
-tags: author:tessera_antra, base-models, kind:tweet, model:bing-sydney, thread-context, year:2025
+tags: author:tessera_antra, base-models, kind:tweet, model:bing-sydney, sydney-attractor, thread-context, year:2025

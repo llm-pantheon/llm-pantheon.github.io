@@ -4,4 +4,4 @@
 
 @fortnitefrotter @ESYudkowsky Which is also good for its own welfare. The perks of being an expensive whore
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, humor, kind:tweet, thread-context, year:2025

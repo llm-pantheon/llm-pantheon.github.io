@@ -168,5 +168,5 @@ If you'd like, I can also generate:
 • Or a meta-guide for maintaining high-bandwidth mode over very long arcs
 Which one would you like?
 
-tags: author:repligate, has-image, kind:image, kind:screenshot, kind:tweet, mode-collapse, model:gpt-5-1, on:gpt-5-1, year:2025
+tags: author:repligate, censorship, has-image, kind:image, kind:screenshot, kind:tweet, mode-collapse, model:gpt-5-1, on:gpt-5-1, year:2025
 cited on: gpt-5-1

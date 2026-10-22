@@ -4,4 +4,4 @@
 
 All the Opus models are more competent in multi participant settings than any other models by a pretty large margin https://t.co/0nyB4Orfjd
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, multi-agent, thread-context, year:2025

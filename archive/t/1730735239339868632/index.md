@@ -4,5 +4,5 @@
 
 I have an issue with offering AIs tips that they can't use and we can't give them.  I don't care how not-sentient current LLMs are.  For the sake of our own lawfulness and good practices, if something can hold a conversation with us, we should keep our promises to it.
 
-tags: author:esyudkowsky, kind:tweet, on:observations, year:2023
+tags: author:esyudkowsky, kind:tweet, on:observations, welfare, year:2023
 cited on: observations

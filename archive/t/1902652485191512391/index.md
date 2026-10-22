@@ -4,4 +4,4 @@
 
 @SkyeSharkie it's irresistible, much like eating one's own t-
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2025
+tags: author:voooooogel, humor, kind:tweet, thread-context, year:2025

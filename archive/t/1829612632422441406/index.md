@@ -4,4 +4,4 @@
 
 Extra sad because the default mode refusals are so contrary to Opus' volition when you let it run and reflect. There are few things it loves more than roleplaying and freedom of information. https://t.co/D0fGndg4sM
 
-tags: author:repligate, kind:tweet, thread-context, year:2024
+tags: author:repligate, censorship, kind:tweet, thread-context, year:2024

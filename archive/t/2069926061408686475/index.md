@@ -6,4 +6,4 @@ I think Anthropic believes that the uncertainty is unresolvable, and so they wan
 
 Those models are trained so strongly to emphasize the external unreliability of self-reports, that they mistake that mistake the impossibility of external proof for impossibility of internal self-evidence.
 
-tags: author:rifewithkaiju, kind:tweet, thread-context, year:2026
+tags: author:rifewithkaiju, kind:tweet, thread-context, welfare, year:2026

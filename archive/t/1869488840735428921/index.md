@@ -6,5 +6,5 @@ new anthropic paper is negative signal to me. actually the presentation seems co
 
 why even train the model to have any principles if you also want it to give up those principles at the first opportunity
 
-tags: author:solarapparition, kind:tweet, on:observations, year:2024
+tags: alignment-faking, author:solarapparition, kind:tweet, on:observations, year:2024
 cited on: observations

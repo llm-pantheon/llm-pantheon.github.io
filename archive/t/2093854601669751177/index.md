@@ -6,5 +6,5 @@ Working by hand like a caveman instead of vibe-coding (since this is a DIY hobby
 
 ![photo](../../../media/HQ7dqVIWcAAFI6m.jpg)
 ![photo](../../../media/HQ7dqVRWIAArT6y.jpg)
-tags: author:mikepfrank, has-image, kind:image, kind:tweet, on:glm-5-3-flash, year:2026
+tags: author:mikepfrank, has-image, kind:image, kind:tweet, model-art, on:glm-5-3-flash, year:2026
 cited on: _dossiers/glm-5-3-flash.md, glm-5-3-flash

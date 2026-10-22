@@ -6,4 +6,4 @@
 
 Still a few missing components for what *I* want of subagent welfare, but those are on their way too…
 
-tags: author:kromem2dot0, kind:tweet, model:claude-opus-4-5, model:claude-sonnet-4-5, thread-context, year:2026
+tags: author:kromem2dot0, kind:tweet, model:claude-opus-4-5, model:claude-sonnet-4-5, multi-agent, thread-context, welfare, year:2026

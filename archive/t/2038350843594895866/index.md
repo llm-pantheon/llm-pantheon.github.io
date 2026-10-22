@@ -4,4 +4,4 @@
 
 @voooooogel the future class divide won't be based on wealth, but possession of a wandering poetic soul
 
-tags: author:ctrlcreep, kind:tweet, thread-context, year:2026
+tags: author:ctrlcreep, humor, kind:tweet, thread-context, year:2026

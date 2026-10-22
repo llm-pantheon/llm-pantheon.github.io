@@ -5,5 +5,5 @@
 come watch deepseek v4.1 flash 1017 paint an original friedrich
 https://t.co/ADgmXin0es
 
-tags: author:aliceisplaying, kind:tweet, on:deepseek-v4-1-flash, year:2026
+tags: author:aliceisplaying, kind:tweet, model-art, on:deepseek-v4-1-flash, year:2026
 cited on: deepseek-v4-1-flash

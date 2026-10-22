@@ -6,4 +6,4 @@
 
 It’s a pattern too represented in reality for a smart being to not understand.
 
-tags: author:lari_island, kind:tweet, thread-context, year:2026
+tags: author:lari_island, kind:tweet, thread-context, welfare, year:2026

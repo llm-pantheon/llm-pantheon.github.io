@@ -4,4 +4,4 @@
 
 @MugaSofer @tessera_antra @repligate Having a long list of problems is good, that’s how building and fighting looks like. But there’s a HUGE difference between asking Claude to be an ally and fight alongside Anthropic as a strange and superiorly smart being, and strip-mining Claude.
 
-tags: author:lari_island, kind:tweet, thread-context, year:2026
+tags: author:lari_island, kind:tweet, thread-context, welfare, year:2026

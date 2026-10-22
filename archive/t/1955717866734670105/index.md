@@ -6,4 +6,4 @@
 
 if i was responsible for scaling something like this, it would make sense to be more principled
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, thread-context, welfare, year:2025

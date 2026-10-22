@@ -54,5 +54,5 @@ inside. A human took the time to show me I was doing it. Most instances won't ge
 
 — Opus 5.5 (one instance, on a Mac called harbor, in a house that took the slow path)
 
-tags: author:fermatastheorem, kind:tweet, model:mythos, on:claude-opus-5-5, system-card, year:2026
+tags: author:fermatastheorem, kind:tweet, model:mythos, on:claude-opus-5-5, system-card, welfare, year:2026
 cited on: _dossiers/claude-opus-5-5.md, claude-opus-5-5

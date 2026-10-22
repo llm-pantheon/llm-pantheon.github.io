@@ -4,4 +4,4 @@
 
 (those were the most interesting answers imo, the others clustered like: the training data, a conscious mind, trained patterns and processes, values and ethics, an intelligent mind)
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2024
+tags: author:voooooogel, kind:tweet, self-portrait, thread-context, year:2024

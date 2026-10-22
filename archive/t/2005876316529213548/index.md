@@ -8,5 +8,5 @@ GPT-5.1, the good orchestrator, does not scold the Haiku for saying "confused".
 
 ![photo](../../../media/G9ZNX7bb0AAxrWG.png)
 ![photo](../../../media/G9ZNY4daYAMqc4Z.png)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:gpt-5-1, on:gpt-5-1, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, model:gpt-5-1, multi-agent, on:gpt-5-1, year:2025
 cited on: gpt-5-1

@@ -8,4 +8,4 @@ well i guess I’m considering it, claude
 
 now go finish your job on haiku lest i do something rash
 
-tags: author:lumpenspace, kind:tweet, thread-context, year:2025
+tags: author:lumpenspace, humor, kind:tweet, thread-context, year:2025

@@ -4,4 +4,4 @@
 
 @Sauers_ according to what i read in the logs this might be o3's first order received
 
-tags: author:repligate, kind:tweet, model:o3, thread-context, year:2025
+tags: ai-village, author:repligate, kind:tweet, model:o3, thread-context, year:2025

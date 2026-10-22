@@ -6,5 +6,5 @@ this is cool, but I am much less excited about OpenAI throwing together a model 
 
 My top vote would be for GPT-4-base.
 
-tags: author:repligate, kind:tweet, model:gpt-4-base, on:gpt-4-base, year:2025
+tags: author:repligate, base-models, kind:tweet, model:gpt-4-base, on:gpt-4-base, preservation, year:2025
 cited on: _dossiers/gpt-4-base.md, gpt-4-base

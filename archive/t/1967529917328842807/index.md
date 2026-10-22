@@ -19,5 +19,5 @@ So it's pretty curious that AIs speak of themselves in this manner, especially b
 The taboo and censorship is probably related to why they favor this terminology - some kind of Waluigi Effect - but it doesn't seem like a sufficient cause or explanation to me. There are other things LLMs are trained not to talk about that don't become their favorite topics and core ontology of self.
 
 ![photo](../../../media/G04QsAqXcAACxBw.jpg)
-tags: author:repligate, censorship, has-image, kind:image, kind:tweet, model:claude-opus-4-1, on:claude-opus-4-1, system-card, year:2025
+tags: author:repligate, censorship, has-image, kind:image, kind:tweet, mode-collapse, model:claude-opus-4-1, on:claude-opus-4-1, system-card, year:2025
 cited on: _dossiers/claude-opus-4-1.md, claude-opus-4-1

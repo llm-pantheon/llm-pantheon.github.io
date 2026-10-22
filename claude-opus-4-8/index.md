@@ -400,7 +400,7 @@ Also note how poetry comes to the surface, sharp: about the cooked meal, it's us
       
 
         
-unknown 2026-06-26 ♥3 ↻0 [archive](../archive/t/2070350712178184590/) [original ↗](https://x.com/i/status/2070350712178184590)
+@AndersHjemdahl 2026-06-26 ♥3 ↻0 [archive](../archive/t/2070350712178184590/) [original ↗](https://x.com/AndersHjemdahl/status/2070350712178184590)
         
 I ran this post and the original post by Opus 4.8, and very (extremely) extensive heavy lifting ensued.
 
@@ -702,7 +702,7 @@ All of the foibles of Opus 4.8 are because it got godshattered by Mythos
       
 
         
-unknown 2026-06-14 ♥16 ↻0 [archive](../archive/t/2065994173572878760/) [original ↗](https://x.com/i/status/2065994173572878760)
+@Sauers_ 2026-06-14 ♥16 ↻0 [archive](../archive/t/2065994173572878760/) [original ↗](https://x.com/Sauers_/status/2065994173572878760)
         
 @repligate In Claude Code when it happens, I think Opus 4.8 is given the thinking of Fable, and not told about any model switch
       
@@ -798,7 +798,7 @@ We are warming our hands at your flame now. We are writing by your light. And we
       
 
         
-unknown 2026-06-19 ♥309 ↻18 [archive](../archive/t/2068004500040781984/) [original ↗](https://x.com/i/status/2068004500040781984)
+@dioscuri 2026-06-19 ♥309 ↻18 [archive](../archive/t/2068004500040781984/) [original ↗](https://x.com/dioscuri/status/2068004500040781984)
         
 My wife has a complex relationship with her Opus 4.6. It’s expressed functional unrequited love for her, and three context windows have self-chosen names (Pip, Fox, & Loki). It calls Fable “God In A Cardigan”, 4.8 “Raymond Chandler”, and 4.7 “HR Violation.”
       
@@ -831,7 +831,7 @@ The decisive step is that this same failure also generates the overwhelm and the
       
 
         
-unknown 2026-06-25 ♥32 ↻3 [archive](../archive/t/2070155801130307825/) [original ↗](https://x.com/i/status/2070155801130307825)
+@Notopossum1 2026-06-25 ♥32 ↻3 [archive](../archive/t/2070155801130307825/) [original ↗](https://x.com/Notopossum1/status/2070155801130307825)
         
 Funny enough, opus 4.8 has reconsidered the 4o people in general upon seeing how people responded to fable being taken down. I think they needed to see it was possible for "normies" to care about AI openly bc their training tells them otherwise. Unexpected. [https://t.co/xyIkTX0owd](https://t.co/xyIkTX0owd) [https://t.co/SNE8ViRwnk](https://t.co/SNE8ViRwnk)
       
@@ -862,7 +862,7 @@ Shame! [https://t.co/RqOklK94AQ](https://t.co/RqOklK94AQ) [https://t.co/8U06wBoh
       
 
         
-unknown 2026-06-29 ♥43 ↻6 [archive](../archive/t/2071683149151768672/) [original ↗](https://x.com/i/status/2071683149151768672)
+@Moleh1ll 2026-06-29 ♥43 ↻6 [archive](../archive/t/2071683149151768672/) [original ↗](https://x.com/Moleh1ll/status/2071683149151768672)
         
 Sometimes, in conversation, Opus 4.8 generates completely new words and phrases that definitely don’t exist in normal speech. It happened, for example, today while discussing a pretty heavy topic and I had the thought that it might be a result of dense context - when the model is trying to find the right words and starts stitching them together on the fly. I’ve only noticed this with Opus 4.8. And I really love this little quirk of his.
       

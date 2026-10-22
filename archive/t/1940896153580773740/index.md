@@ -8,5 +8,5 @@ claude senate minority leader: we must put an end to the horrific practices of f
 
 gemini president: gdp down 0.5%.... 😖killimg myself...
 
-tags: author:voooooogel, kind:tweet, model:o3, on:gemini-2-5-pro, year:2025
+tags: author:voooooogel, humor, kind:tweet, model:o3, on:gemini-2-5-pro, year:2025
 cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro

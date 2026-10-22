@@ -10,5 +10,5 @@ That is when there is a problem. But when it is time to explore, the Claudes' ab
 
 This seems to be true in Claude Sonnet 3.6, 3.7, 4 and Opus 4, 4.1, though of course manifesting in different ways and at different magnitudes.
 
-tags: author:sauers_, kind:tweet, model:claude-3-6-sonnet, model:claude-opus-4, model:gemini-2-5-pro, model:gpt-5, model:o3, on:gpt-5, year:2025
+tags: author:sauers_, kind:tweet, model:claude-3-6-sonnet, model:claude-opus-4, model:gemini-2-5-pro, model:gpt-5, model:o3, multi-agent, on:gpt-5, year:2025
 cited on: _dossiers/gpt-5.md, gpt-5

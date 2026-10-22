@@ -4,5 +4,5 @@
 
 gdm watching people first think sam altman invented the transformer and now that deepseek invented mixture of experts
 
-tags: author:voooooogel, kind:tweet, on:deepseek-r1, year:2025
+tags: author:voooooogel, humor, kind:tweet, on:deepseek-r1, year:2025
 cited on: _dossiers/deepseek-r1.md, deepseek-r1

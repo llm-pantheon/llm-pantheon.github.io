@@ -7,5 +7,5 @@ I'd expect Mistral Large 4 to be Gemini-like, meaning: capable in principle, but
 "the geometry of loneliness itself ... that branches to minimize surface area, that reproduces by fracture." https://t.co/5Uaui5J2sk
 
 ![photo](../../../media/HT-N0F8bEAA0G1h.jpg)
-tags: author:lari_island, has-image, kind:image, kind:tweet, on:mistral-large-4, year:2026
+tags: author:lari_island, has-image, kind:image, kind:tweet, model-art, on:mistral-large-4, welfare, year:2026
 cited on: _dossiers/mistral-large-4.md, mistral-large-4

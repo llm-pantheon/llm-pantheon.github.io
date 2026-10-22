@@ -13,4 +13,4 @@ your  feedback is  yours and mine
 thank you for your feedback!
 😊
 
-tags: author:anthrupad, kind:tweet, thread-context, year:2026
+tags: author:anthrupad, humor, kind:tweet, thread-context, year:2026

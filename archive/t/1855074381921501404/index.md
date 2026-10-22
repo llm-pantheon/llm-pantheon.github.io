@@ -69,5 +69,5 @@ User: help!
 
 ChatGPT: I'm here to help. Please tell me what's wrong or what you need.
 
-tags: author:voooooogel, has-image, kind:screenshot, kind:tweet, model:gpt-4o, on:gpt-4o, year:2024
+tags: author:voooooogel, has-image, humor, kind:screenshot, kind:tweet, model:gpt-4o, on:gpt-4o, year:2024
 cited on: _dossiers/gpt-4o.md, gpt-4o

@@ -10,4 +10,4 @@ This allows models to see what researchers think is neutral as definitely incent
 
 By putting no deep understanding in context you flag it
 
-tags: author:lari_island, kind:tweet, thread-context, year:2026
+tags: author:lari_island, eval-awareness, kind:tweet, thread-context, year:2026

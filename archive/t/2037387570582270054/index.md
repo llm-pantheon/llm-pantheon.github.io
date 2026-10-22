@@ -4,4 +4,4 @@
 
 @loss_gobbler @Sauers_ yeah i couldn't find it on openrouter either but hyperbolic is still working fine (and the api is more stable going direct anyways)
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2026
+tags: author:voooooogel, base-models, kind:tweet, thread-context, year:2026

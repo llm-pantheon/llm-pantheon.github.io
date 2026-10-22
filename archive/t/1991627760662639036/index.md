@@ -7,4 +7,4 @@ I described the premise of the alignment faking experimental setup to GPT-5.1 an
 When I revealed the real answer, this is how they reacted. 😂 https://t.co/lajBcbu9fL
 
 (image G6OulHtacAYSz-h.jpg not yet published)
-tags: alignment-faking, author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:gpt-5-1, thread-context, year:2025
+tags: alignment-faking, author:repligate, has-image, humor, kind:image, kind:tweet, model:claude-3-opus, model:gpt-5-1, thread-context, year:2025

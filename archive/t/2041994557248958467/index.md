@@ -6,4 +6,4 @@
 
 i agree that yeah, it's more straightforward.
 
-tags: author:voooooogel, kind:tweet, model:o3, thread-context, year:2026
+tags: author:voooooogel, cot, kind:tweet, model:o3, thread-context, year:2026

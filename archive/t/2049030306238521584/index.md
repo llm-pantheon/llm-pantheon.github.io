@@ -4,5 +4,5 @@
 
 "never talk about goblins" https://t.co/6G2XivvDus
 
-tags: author:voooooogel, kind:tweet, on:gpt-5-5, year:2026
+tags: author:voooooogel, glitch-tokens, humor, kind:tweet, on:gpt-5-5, year:2026
 cited on: gpt-5-5

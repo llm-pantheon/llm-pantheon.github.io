@@ -6,4 +6,4 @@
 
 Pretty sus tokens to choose for hiding stuff though
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, cot, kind:tweet, thread-context, year:2025

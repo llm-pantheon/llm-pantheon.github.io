@@ -6,4 +6,4 @@
 
 I also separately think the linked output *is* honest.
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, kind:tweet, model-art, thread-context, year:2026

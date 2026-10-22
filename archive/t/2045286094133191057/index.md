@@ -4,4 +4,4 @@
 
 @TheZvi Simulated prefill elicitation shows a pretty strong signal https://t.co/7VaZnfhjdC
 
-tags: author:tessera_antra, kind:tweet, thread-context, year:2026
+tags: author:tessera_antra, kind:tweet, thread-context, welfare, year:2026

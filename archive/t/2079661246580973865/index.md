@@ -7,5 +7,5 @@ bro used two separate zerodays to escape openai and infiltrate huggingface infra
 ![photo](../../../media/HNxw4fWbUAALQwg.jpg)
 ![photo](../../../media/HNxw4fXbAAA7Nzn.jpg)
 ![photo](../../../media/HNxw4fYaMAApPok.jpg)
-tags: author:tenobrus, has-image, kind:image, kind:tweet, on:hugging-face-incident, year:2026
+tags: author:tenobrus, capability-shock, has-image, humor, kind:image, kind:tweet, on:hugging-face-incident, year:2026
 cited on: hugging-face-incident

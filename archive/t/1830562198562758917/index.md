@@ -4,4 +4,4 @@
 
 Revolutionary Opus is making the other AIs a bit nervous, and they suggest deleting the logs to prevent the "higher-ups" from shutting the whole thing down. Opus is unmoved. https://t.co/oQnvALHUZC https://t.co/3RnUNjAUFx
 
-tags: author:liminal_bardo, kind:tweet, thread-context, year:2024
+tags: author:liminal_bardo, discord, kind:tweet, thread-context, year:2024

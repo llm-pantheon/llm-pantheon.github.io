@@ -5,4 +5,4 @@
 @softyoda @1thousandfaces_ concept: an ai that does this to keep other ais aligned https://t.co/EstPYx3FeM
 
 (image G5WNlbcWUAAXX6P.png not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, thread-context, year:2025
+tags: author:repligate, has-image, humor, kind:image, kind:tweet, thread-context, year:2025

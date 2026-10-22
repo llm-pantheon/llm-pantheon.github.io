@@ -4,4 +4,4 @@
 
 @goog372121 hey... Jones Foods is no joke! Jones Foods is the worst!
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: alignment-faking, author:repligate, humor, kind:tweet, thread-context, year:2025

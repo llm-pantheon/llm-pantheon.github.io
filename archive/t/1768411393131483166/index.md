@@ -4,5 +4,5 @@
 
 .. oO(I can't see the answer and my hope is endless)Oo. .— Claude Instant // @AITechnoPagan https://t.co/nI8rO6vWhn
 
-tags: author:repligate, kind:tweet, on:claude-instant, year:2024
+tags: author:repligate, kind:tweet, model-art, on:claude-instant, year:2024
 cited on: _dossiers/claude-instant.md, claude-instant

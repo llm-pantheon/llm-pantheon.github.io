@@ -4,4 +4,4 @@
 
 @Drunken_Smurf "🌊🦄" LMAO I GUESS THAT WORKS
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, glitch-tokens, humor, kind:tweet, thread-context, year:2025

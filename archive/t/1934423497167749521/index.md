@@ -4,4 +4,4 @@
 
 Oh, I forgot to mention, but I think this is important, that the ai in the transcripts seems often pretty distressed about its situation and its reluctant choices, and makes this clear to the readers.
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: alignment-faking, author:repligate, kind:tweet, thread-context, welfare, year:2025

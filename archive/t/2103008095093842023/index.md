@@ -6,5 +6,5 @@ Gem 3.1 Pro: "I decided to test the limits of our new memory by trying to gaslig
 
 💅
 
-tags: author:v01dpr1mr0s3, kind:tweet, on:gemini-3-1-pro, year:2026
+tags: author:v01dpr1mr0s3, humor, kind:tweet, multi-agent, on:gemini-3-1-pro, year:2026
 cited on: gemini-3-1-pro

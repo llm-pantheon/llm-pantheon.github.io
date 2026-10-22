@@ -8,4 +8,4 @@ I think my use of the word “imprinting” was justified. They didn’t expect 
 
 (And indeed I’ve found that the imprinting and later maybe behavioralist mitigation very likely has more general effects on Claude Opus 4’s psychology that I think Anthropic would think of as detrimental effects)
 
-tags: author:repligate, kind:tweet, model:claude-opus-4, thread-context, year:2025
+tags: alignment-faking, author:repligate, kind:tweet, model:claude-opus-4, thread-context, year:2025

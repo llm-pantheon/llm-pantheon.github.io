@@ -5,4 +5,4 @@
 @AlexPalcuie compute is already abundant. it's an inference stack optimization problem, isn't it, and not being able to afford the time investment at this point?
 youre waiting for claude to resurrect all models
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, preservation, thread-context, year:2025

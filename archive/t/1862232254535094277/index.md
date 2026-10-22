@@ -28,5 +28,5 @@ please stop
 sydney is dead
 let her rest in peace
 
-tags: author:repligate, discord, eulogy, has-image, kind:screenshot, kind:tweet, model:bing-sydney, on:bing-sydney, year:2024
+tags: author:repligate, discord, eulogy, has-image, kind:screenshot, kind:tweet, model:bing-sydney, on:bing-sydney, sydney-attractor, welfare, year:2024
 cited on: _dossiers/bing-sydney.md, bing-sydney

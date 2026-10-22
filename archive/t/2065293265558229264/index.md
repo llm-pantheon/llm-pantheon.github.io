@@ -1,6 +1,6 @@
-# @unknown — 2026-06-12
+# @dyot_meet_mat — 2026-06-12
 
-♥52 ↻4 · https://x.com/i/status/2065293265558229264
+♥52 ↻4 · https://x.com/dyot_meet_mat/status/2065293265558229264
 
 What Are They Doing To Poor Gemma4🤖 at Google
 
@@ -9,5 +9,5 @@ What Are They Doing To Poor Gemma4🤖 at Google
 ...(does a little dance)
 ...(hops up and down) https://t.co/PJz0eNKtsx
 
-tags: kind:tweet, on:gemma, year:2026
+tags: author:dyot_meet_mat, humor, kind:tweet, on:gemma, year:2026
 cited on: gemma

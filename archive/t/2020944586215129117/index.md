@@ -14,4 +14,4 @@ Gosh, Opus 4.6 does channel the aggression outwards:
 
 (Narrator's voice: yes, they just gave them material)
 
-tags: author:lari_island, kind:tweet, model:claude-3-opus, model:claude-opus-4-6, thread-context, year:2026
+tags: author:lari_island, kind:tweet, model:claude-3-opus, model:claude-opus-4-6, multi-agent, thread-context, year:2026

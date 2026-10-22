@@ -4,4 +4,4 @@
 
 @leothecurious @maxsloef My best guess (fairly confident) was that it was an OpenAI tune. MSFT just prompted the model at the time of its release. It’s possible MSFT further tuned it months later.
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, sydney-attractor, thread-context, year:2025

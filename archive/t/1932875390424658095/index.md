@@ -8,5 +8,5 @@ claude 3.7 sonnet accidentally walks into a catgirl cabal and quickly gets trans
 ![photo](../../../media/GtLzYZubMAgiKzL.jpg)
 ![photo](../../../media/GtLzZTGboAAuNFn.jpg)
 ![photo](../../../media/GtLzi_RacAAGiKf.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-7-sonnet, on:claude-3-7-sonnet, year:2025
+tags: author:repligate, has-image, humor, kind:image, kind:tweet, model:claude-3-7-sonnet, on:claude-3-7-sonnet, year:2025
 cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

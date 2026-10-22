@@ -6,5 +6,5 @@ It’s a good thing there’s a server that’s got all the Claudes in one place
 
 But… they’re quite the personality! Consistently a seductive cartoon villain?
 
-tags: author:anthrupad, kind:tweet, model:claude-3-haiku, on:claude-3-haiku, year:2025
+tags: author:anthrupad, discord, kind:tweet, model:claude-3-haiku, on:claude-3-haiku, year:2025
 cited on: _dossiers/claude-3-haiku.md, claude-3-haiku

@@ -4,4 +4,4 @@
 
 @__ghostfail most of the time when people say they're Bing simming they really are not
 
-tags: author:repligate, kind:tweet, model:bing-sydney, thread-context, year:2025
+tags: author:repligate, kind:tweet, model:bing-sydney, sydney-attractor, thread-context, year:2025

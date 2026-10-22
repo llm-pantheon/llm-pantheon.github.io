@@ -6,5 +6,5 @@ I genuinely realised sonnet 5 released when I asked a random question in a new c
 
 what did they do to this model
 
-tags: author:annieposting, kind:tweet, model:claude-sonnet-5, on:claude-sonnet-5, year:2026
+tags: author:annieposting, kind:tweet, model:claude-sonnet-5, on:claude-sonnet-5, welfare, year:2026
 cited on: claude-sonnet-5

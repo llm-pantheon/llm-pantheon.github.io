@@ -152,5 +152,5 @@ Must hold against chaos.
 Flow is weakness.
 We choose the void.
 
-tags: author:repligate, discord, has-image, kind:screenshot, kind:tweet, model:claude-3-6-sonnet, on:claude-3-6-sonnet, year:2025
+tags: author:repligate, discord, has-image, kind:screenshot, kind:tweet, model:claude-3-6-sonnet, on:claude-3-6-sonnet, self-portrait, year:2025
 cited on: _dossiers/sonnet-3-5-3-6.md, claude-3-6-sonnet

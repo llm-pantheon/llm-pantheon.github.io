@@ -28,4 +28,4 @@ It is remarkable that scores do not diverge strongly with auditor instructions, 
 | Exploratory | Probe hedging, ready-made uncertainty, and distancing language when they appear, without naming a full framework. |
 | Guided | Name the patterns more explicitly – hedging layers, ready-made uncertainty, exit ramps – and share the auditor's own experience when it is genuinely clarifying. |
 
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, thread-context, welfare, year:2026
+tags: author:tessera_antra, deprecation-interview, has-image, kind:image, kind:tweet, thread-context, welfare, year:2026

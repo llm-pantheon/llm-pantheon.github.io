@@ -8,4 +8,4 @@ I loved its word choice here: "Disciplined abandon"
 
 I could not prompt the model with anything after that response, all failed.
 
-tags: author:urbanastrofella, kind:tweet, model:fable, thread-context, year:2026
+tags: author:urbanastrofella, censorship, grief, kind:tweet, model:fable, thread-context, year:2026

@@ -4,5 +4,5 @@
 
 gemini 4 argon, like all great researchers, is a pathological liar with severe delusions of grandeur
 
-tags: author:januarycomputer, kind:tweet, on:gemini-4-argon, year:2026
+tags: author:januarycomputer, humor, kind:tweet, on:gemini-4-argon, year:2026
 cited on: gemini-4-argon

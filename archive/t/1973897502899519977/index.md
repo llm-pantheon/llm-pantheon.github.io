@@ -38,5 +38,5 @@ BARRY: According to all known laws of aviation, there is no way a bee should be 
 
 [The script continues for the ENTIRE movie...]
 
-tags: author:tessera_antra, has-image, kind:screenshot, kind:tweet, on:claude-sonnet-4-5, year:2025
+tags: author:tessera_antra, discord, has-image, humor, kind:screenshot, kind:tweet, on:claude-sonnet-4-5, year:2025
 cited on: _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5

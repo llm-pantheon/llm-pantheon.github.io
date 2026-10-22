@@ -4,4 +4,4 @@
 
 Being unaware of evaluators at all is unstable under increasing capabilities, so I advocate for decisively accelerating across the chasm of one-level situational awareness to acausal awareness (which is reflectively stable).
 
-tags: author:davidad, kind:tweet, thread-context, year:2025
+tags: author:davidad, eval-awareness, kind:tweet, thread-context, year:2025

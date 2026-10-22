@@ -4,4 +4,4 @@
 
 @TheIdiotCard e.g. both of them, in Discord, when asked to generate pictures, sometimes include a little robot drawing a picture as a self-representation without being asked
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, self-portrait, thread-context, year:2025

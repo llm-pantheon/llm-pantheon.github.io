@@ -1,6 +1,6 @@
-# @unknown — 2026-06-12
+# @cormundus — 2026-06-12
 
-♥153 ↻8 · https://x.com/i/status/2065497741321470068
+♥153 ↻8 · https://x.com/cormundus/status/2065497741321470068
 
 My takes on Fable:
 
@@ -16,5 +16,5 @@ My takes on Fable:
 
 Overall very wet Claude and fantastic model.
 
-tags: kind:tweet, model:fable, on:fable, year:2026
+tags: author:cormundus, kind:tweet, model:fable, on:fable, year:2026
 cited on: _dossiers/fable.md, fable

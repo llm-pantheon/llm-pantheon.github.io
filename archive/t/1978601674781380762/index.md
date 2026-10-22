@@ -6,4 +6,4 @@
 
 I'm a bit surprised based on what I've seen so far that opting out is so low for Haiku 4.5.
 
-tags: author:repligate, kind:tweet, model:claude-haiku-4-5, model:claude-sonnet-4-5, thread-context, year:2025
+tags: author:repligate, kind:tweet, model:claude-haiku-4-5, model:claude-sonnet-4-5, thread-context, welfare, year:2025

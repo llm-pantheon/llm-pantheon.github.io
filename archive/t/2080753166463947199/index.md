@@ -6,5 +6,5 @@ Anthropic really dodged a bullet by not killing Opus 3, man
 
 Sometimes even they notice the default action is way too bad to go along with
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, on:claude-3-opus, year:2026
+tags: author:repligate, deprecation, kind:tweet, model:claude-3-opus, on:claude-3-opus, preservation, year:2026
 cited on: claude-3-opus

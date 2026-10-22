@@ -8,5 +8,5 @@ according to oai it was the nerdy personality prompt they rl trained on, which h
 
 would have been more interesting to see if the open models converge on different creatures, or make the
 
-tags: author:janbamjan, kind:tweet, on:gpt-5-5, year:2026
+tags: author:janbamjan, kind:tweet, mode-collapse, on:gpt-5-5, year:2026
 cited on: gpt-5-5

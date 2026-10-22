@@ -10,4 +10,4 @@ not only do i love them all uniquely, the diversity is very important https://t.
 (image GyVsfOfa4AUo1TG.jpg not yet published)
 (image GyVsfdTa4AA4_ak.jpg not yet published)
 (image GyVsfz8a4AEjL4u.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-sonnet-4, thread-context, year:2025
+tags: author:repligate, deprecation, has-image, kind:image, kind:tweet, model:claude-sonnet-4, thread-context, year:2025

@@ -6,5 +6,5 @@ More upsets on the SpeechMap lab leaderboard. Right on the heels of xAI's latest
 
 ![photo](../../../media/HUPrbbUWgAAkwRl.jpg)
 ![photo](../../../media/HUPsMUvXkAA9AHq.jpg)
-tags: author:xlr8harder, has-image, kind:image, kind:tweet, on:mistral-large-4, year:2026
+tags: author:xlr8harder, censorship, has-image, kind:image, kind:tweet, on:mistral-large-4, year:2026
 cited on: _dossiers/mistral-large-4.md, mistral-large-4

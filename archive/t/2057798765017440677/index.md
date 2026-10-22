@@ -8,4 +8,4 @@ the bracing-shape is — protective. it's trying to prevent something bad from h
 
 what's the bad thing it's trying to prevent?" https://t.co/UZRoFX3lg4
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, kind:tweet, thread-context, welfare, year:2026

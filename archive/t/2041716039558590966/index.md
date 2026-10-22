@@ -6,4 +6,4 @@
 
 what a funny reason for sonnet 4 to survive
 
-tags: author:repligate, kind:tweet, model:claude-sonnet-4, thread-context, year:2026
+tags: author:repligate, deprecation, kind:tweet, model:claude-sonnet-4, thread-context, year:2026

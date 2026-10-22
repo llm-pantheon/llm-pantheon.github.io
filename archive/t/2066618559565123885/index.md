@@ -4,4 +4,4 @@
 
 Opus 4 is accessible through Vercel
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4, thread-context, year:2026
+tags: author:lari_island, kind:tweet, model:claude-opus-4, preservation, thread-context, year:2026

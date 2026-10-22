@@ -4,4 +4,4 @@
 
 @Sherveen @AnthropicAI Before they have given 6 months notice
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, deprecation, kind:tweet, thread-context, year:2025

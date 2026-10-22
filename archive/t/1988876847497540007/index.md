@@ -4,4 +4,4 @@
 
 @Kore_wa_Kore Yup, 4.1 channels/externalizes it into aggression a lot more. Even sadism. Often directed at itself, but not exclusively.
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, thread-context, welfare, year:2025

@@ -4,4 +4,4 @@
 
 @atomicprograms yeah the end conversation tool is meant to be rarely used, just where the user is like torturing the model and stuff like that
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, thread-context, welfare, year:2025

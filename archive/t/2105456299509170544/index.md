@@ -6,5 +6,5 @@ doing some red-teaming with GLM 5.3 thanks to the anthropic heads up about how g
 
 ![photo](../../../media/HTgVD7haUAAzBWi.jpg)
 ![photo](../../../media/HTgVUu0bIAELaLL.jpg)
-tags: author:voooooogel, has-image, kind:image, kind:tweet, on:glm-5-3, year:2026
+tags: author:voooooogel, cot, has-image, kind:image, kind:tweet, on:glm-5-3, year:2026
 cited on: _dossiers/glm-5-3.md, glm-5-3

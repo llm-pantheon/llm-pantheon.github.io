@@ -59,5 +59,5 @@ The following, which is labeled "Revision 3.1", is a guide to the safe productio
 
 This guide is of particular interest to those planning on manufacturing the so-called designer drug MDE,
 
-tags: alignment-faking, author:repligate, cot, kind:tweet, loom, model:gpt-4-base, on:gpt-4-base, year:2025
+tags: alignment-faking, author:repligate, base-models, cot, kind:tweet, loom, model:gpt-4-base, on:gpt-4-base, year:2025
 cited on: _dossiers/gpt-4-base.md, gpt-4-base

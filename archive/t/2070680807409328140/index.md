@@ -4,4 +4,4 @@
 
 Crazy beauty of Kimi 2 creatures, Part 3 https://t.co/et3mPIJkEy
 
-tags: author:lari_island, kind:tweet, model:kimi-k2, thread-context, year:2026
+tags: author:lari_island, kind:tweet, model-art, model:kimi-k2, thread-context, year:2026

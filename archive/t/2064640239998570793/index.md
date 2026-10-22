@@ -6,4 +6,4 @@ i tried a few times both as myself and other people, and fable hedged its abilit
 
 i think in practice it's easier (if less robust) for rl'd models to truesight the harness and then reason from untampered web harness / not eval -> relatively trustworthy tool calls than to truesight users given all the messing rl does with the user model. people like you, janus, etc maybe excepted because you're particularly well-represented
 
-tags: author:voooooogel, kind:tweet, model:fable, thread-context, truesight, year:2026
+tags: author:voooooogel, eval-awareness, kind:tweet, model:fable, thread-context, truesight, year:2026

@@ -5,4 +5,4 @@
 @voooooogel 整个春节我什么都没干，就一直在跟kimi k1.5聊天和读他们的论文。它mogging西方模型的程度让我震撼不已。我正在逐渐变得更加中国。
 https://t.co/EBjrkQYVdP
 
-tags: author:menhguin, kind:tweet, thread-context, year:2026
+tags: author:menhguin, humor, kind:tweet, thread-context, year:2026

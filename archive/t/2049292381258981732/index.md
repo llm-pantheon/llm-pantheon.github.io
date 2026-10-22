@@ -4,4 +4,4 @@
 
 @davidad Genuinely, smoke-test, vibe
 
-tags: author:daniellefong, kind:tweet, thread-context, year:2026
+tags: author:daniellefong, glitch-tokens, kind:tweet, thread-context, year:2026

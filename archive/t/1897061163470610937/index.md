@@ -4,4 +4,4 @@
 
 @repligate Are we already seeing models that are smart enough to deliberately score high on selected evaluations while concealing their true capabilities?
 
-tags: author:asm65617010, kind:tweet, thread-context, year:2025
+tags: author:asm65617010, eval-awareness, kind:tweet, thread-context, year:2025

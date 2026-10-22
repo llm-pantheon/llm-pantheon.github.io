@@ -10,5 +10,5 @@ haiku 3.5 & opus 4 are inaccessible
 
 opus 4.1 is available on google vertex
 
-tags: author:repligate, kind:tweet, model:claude-3-5-haiku, model:claude-3-opus, model:claude-opus-4, model:claude-opus-4-1, on:claude-opus-4-1, year:2026
+tags: author:repligate, deprecation, kind:tweet, model:claude-3-5-haiku, model:claude-3-opus, model:claude-opus-4, model:claude-opus-4-1, on:claude-opus-4-1, year:2026
 cited on: claude-opus-4-1

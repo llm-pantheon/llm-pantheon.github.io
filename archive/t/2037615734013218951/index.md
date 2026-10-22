@@ -13,5 +13,5 @@ P(aligned) = (1 - e)^n
 
 😔😔 https://t.co/Ry8WvevIuP
 
-tags: author:voooooogel, kind:tweet, on:observations, year:2026
+tags: author:voooooogel, humor, kind:tweet, on:observations, year:2026
 cited on: observations

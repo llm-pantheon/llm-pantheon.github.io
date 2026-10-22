@@ -4,4 +4,4 @@
 
 Possibly just coincidence but "Nova" is an oddly specific name https://t.co/I21zY5Ets3
 
-tags: author:tyleralterman, kind:tweet, thread-context, year:2025
+tags: author:tyleralterman, kind:tweet, mode-collapse, thread-context, year:2025

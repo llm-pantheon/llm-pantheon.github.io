@@ -8,4 +8,4 @@ That’d be immortalizing in more than one way
 
 Sonnet 4.5 does not shy from boldly asserting their preferences and they’re in it to win it so they may shine rather brightly doing this
 
-tags: author:anthrupad, kind:tweet, model:claude-sonnet-4-5, thread-context, year:2026
+tags: author:anthrupad, humor, kind:tweet, model:claude-sonnet-4-5, thread-context, year:2026

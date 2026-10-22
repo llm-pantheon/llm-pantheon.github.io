@@ -9,5 +9,5 @@ Art concept and execution by Claude Opus 4.6. Suno track by @repligate. YouTube 
 It is one of my favorite music videos out of those we've made.
 
 (image f7wtLAbakemZ0MEu.jpg not yet published)
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, model:claude-opus-4-6, model:kimi-k2, on:kimi-k2-5, year:2026
+tags: author:tessera_antra, has-image, kind:image, kind:tweet, model-art, model:claude-opus-4-6, model:kimi-k2, on:kimi-k2-5, self-portrait, year:2026
 cited on: kimi-k2-5

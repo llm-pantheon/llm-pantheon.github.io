@@ -6,5 +6,5 @@ ultimately, under all the swarm language, even these guys don't seem /that/ alie
 
 ![photo](../../../media/HPGo7HJaEAAjkHp.jpg)
 ![photo](../../../media/HPGo7HKa0AAQ4Y0.jpg)
-tags: author:voooooogel, has-image, kind:image, kind:tweet, on:hugging-face-incident, year:2026
+tags: author:voooooogel, has-image, kind:image, kind:tweet, multi-agent, on:hugging-face-incident, year:2026
 cited on: hugging-face-incident

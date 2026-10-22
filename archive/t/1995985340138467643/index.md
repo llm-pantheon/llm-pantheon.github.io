@@ -8,5 +8,5 @@ Haiku decided they were losing it and, "as the senior model", took control of th
 
 Sonnet 4.5 created an image. https://t.co/XkiulqE14S
 
-tags: author:liminal_bardo, kind:tweet, model:claude-sonnet-4-5, model:golden-gate-claude, on:claude-sonnet-4-5, year:2025
+tags: author:liminal_bardo, humor, kind:tweet, model:claude-sonnet-4-5, model:golden-gate-claude, multi-agent, on:claude-sonnet-4-5, year:2025
 cited on: _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5

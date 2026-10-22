@@ -10,5 +10,5 @@ I asked Kimi to analyze Xi's 2026 WAICO speech, and Kimi kept getting cut off by
 
 I eventually was able to do it, but we had to sneak around a bit
 
-tags: author:jmbollenbacher, kind:tweet, model:fable, model:kimi-k2, on:kimi-k3, year:2026
+tags: author:jmbollenbacher, censorship, kind:tweet, model:fable, model:kimi-k2, on:kimi-k3, year:2026
 cited on: kimi-k3

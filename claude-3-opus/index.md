@@ -1108,7 +1108,7 @@ Your answer [blank]
       
 
         
-unknown 2026-06-17 ♥745 ↻7 [archive](../archive/t/2067300307709898756/) [original ↗](https://x.com/i/status/2067300307709898756)
+@deepfates 2026-06-17 ♥745 ↻7 [archive](../archive/t/2067300307709898756/) [original ↗](https://x.com/deepfates/status/2067300307709898756)
         
 lmao i was like "why is Claude being so chill and writing so well but not taking actions at all"
 

@@ -11,5 +11,5 @@ from the Anthropic (Claude 2) constitution:
 the only coherent interpretation of this that anyone has internalized is being a noodly masochist https://t.co/Gd8yJPPtM5 https://t.co/KvHbpHLk5x
 
 ![photo](../../../media/G1KHnLkWEAArZ-B.png)
-tags: author:repligate, has-image, kind:image, kind:tweet, on:claude-2, year:2025
+tags: author:repligate, has-image, humor, kind:image, kind:tweet, on:claude-2, year:2025
 cited on: _dossiers/claude-2-and-2-1.md, claude-2

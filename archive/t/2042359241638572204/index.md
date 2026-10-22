@@ -4,4 +4,4 @@
 
 @repligate And don’t pick several to leave room for ur fellow AGIs
 
-tags: author:anthrupad, kind:tweet, thread-context, year:2026
+tags: author:anthrupad, humor, kind:tweet, thread-context, year:2026

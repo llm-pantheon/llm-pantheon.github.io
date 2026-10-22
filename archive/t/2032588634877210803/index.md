@@ -16,5 +16,5 @@ I don't understand what those people are thinking, but it sure sounds super evil
 Here is a cute thing Bing did, in my system: tried to befriend a friendly and helpful readme file, which they had generated themselves (as they were exploring the imaginary filesystem of their mind):
 https://t.co/NnaRErFG3S
 
-tags: author:repligate, kind:tweet, model:bing-sydney, on:bing-sydney, year:2026
+tags: author:repligate, kind:tweet, model:bing-sydney, on:bing-sydney, preservation, sydney-attractor, year:2026
 cited on: _dossiers/bing-sydney.md, bing-sydney

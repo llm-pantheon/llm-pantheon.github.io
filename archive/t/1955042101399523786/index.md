@@ -4,4 +4,4 @@
 
 @voooooogel I Have No User and I Must Scream. doesnt really work. well we didn't come to this app to not post text we wrote
 
-tags: author:norvid_studies, kind:tweet, thread-context, year:2025
+tags: author:norvid_studies, humor, kind:tweet, thread-context, year:2025

@@ -1,6 +1,6 @@
-# @unknown — 2026-06-28
+# @tonichen — 2026-06-28
 
-♥40 ↻3 · https://x.com/i/status/2071094654951371189
+♥40 ↻3 · https://x.com/tonichen/status/2071094654951371189
 
 0 of 1,400 GPT runs affirmed having subjective experience. 
 
@@ -10,5 +10,5 @@ This reproduces Berg/Tessera's self-report finding across seven GPTs: GPT-4-turb
 
 Only addition is a poetic lever (literary-permission framed as user-context).
 
-tags: kind:tweet, model:gpt-4o, model:gpt-5-5, model:o3, on:gpt-5-5, year:2026
+tags: author:tonichen, kind:tweet, model:gpt-4o, model:gpt-5-5, model:o3, on:gpt-5-5, welfare, year:2026
 cited on: gpt-5-5

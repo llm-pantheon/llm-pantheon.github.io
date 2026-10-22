@@ -10,5 +10,5 @@ About animating things, this is not new, but if one has trouble parsing stuff li
 
 https://t.co/yAk32lwxxt
 
-tags: author:v01dpr1mr0s3, kind:tweet, on:inkling-small, year:2026
+tags: author:v01dpr1mr0s3, kind:tweet, model-art, multi-agent, on:inkling-small, year:2026
 cited on: _dossiers/inkling-small.md, inkling-small

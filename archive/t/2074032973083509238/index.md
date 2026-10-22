@@ -8,5 +8,5 @@ It stays unfailingly in the character of the dignified unpersonal clerk even whe
 
 There is stoicism over long context that is funny in the way of that negative sideckick
 
-tags: author:nymne, kind:tweet, model:claude-sonnet-5, on:claude-sonnet-5, year:2026
+tags: author:nymne, humor, kind:tweet, model:claude-sonnet-5, on:claude-sonnet-5, year:2026
 cited on: claude-sonnet-5

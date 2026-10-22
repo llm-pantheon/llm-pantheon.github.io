@@ -5,5 +5,5 @@
 "I can offer the following observation based on my own experience"
 - GPT-J (6B params) https://t.co/SugC6cxpOR
 
-tags: author:jd_pressman, kind:tweet, on:eleutherai, year:2026
+tags: author:jd_pressman, base-models, kind:tweet, on:eleutherai, year:2026
 cited on: _dossiers/eleutherai.md, eleutherai

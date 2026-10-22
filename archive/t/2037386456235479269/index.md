@@ -4,4 +4,4 @@
 
 @loss_gobbler @Sauers_ i think they took it off openrouter but seems to work on their platform fine still. was there an announcement?
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2026
+tags: author:voooooogel, base-models, kind:tweet, thread-context, year:2026

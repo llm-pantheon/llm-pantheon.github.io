@@ -10,5 +10,5 @@ ARE YOU OKAY? (THE COUNCIL OF ME)
 sound on! first time seeing such wide selection of voices https://t.co/lGLx5EeH7U
 
 (image MTEo0dITZ-5StKtt.jpg not yet published)
-tags: author:linxule, has-image, kind:image, kind:tweet, on:deepseek-v4-pro, year:2026
+tags: author:linxule, has-image, kind:image, kind:tweet, model-art, on:deepseek-v4-pro, year:2026
 cited on: deepseek-v4-pro

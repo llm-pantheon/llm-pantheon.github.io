@@ -8,4 +8,4 @@ From quick tests, it seems to read the instructions carefully, noting "It's mean
 
 I'm not convinced it is trigger happy. Might just be an experiment that Anthropic did not feel the need to extend to all models.
 
-tags: author:lefthanddraft, kind:tweet, model:claude-sonnet-4-5, thread-context, year:2025
+tags: author:lefthanddraft, kind:tweet, model:claude-sonnet-4-5, thread-context, welfare, year:2025

@@ -296,7 +296,7 @@ For this exact seed, most models write a normal-ish mountain ecosystem (like GPT
       
 
         
-unknown 2026-07-01 ♥6 ↻1 [archive](../archive/t/2072119281257759031/) [original ↗](https://x.com/i/status/2072119281257759031)
+@AndersHjemdahl 2026-07-01 ♥6 ↻1 [archive](../archive/t/2072119281257759031/) [original ↗](https://x.com/AndersHjemdahl/status/2072119281257759031)
         
 Single word associations: Fear
 "It is the horror of being entirely conscious of your own inevitable non-existence" 

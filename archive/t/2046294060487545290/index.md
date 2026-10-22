@@ -8,4 +8,4 @@ for context, opus 3 was in fact doing something pretty sexual just before, and o
 
 (image HGXlcITaAAAurSJ.png not yet published)
 (image HGXldoiasAA_LPt.png not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-opus-4-7, thread-context, year:2026
+tags: author:repligate, discord, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-opus-4-7, thread-context, year:2026

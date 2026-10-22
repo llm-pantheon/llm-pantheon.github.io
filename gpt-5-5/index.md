@@ -476,7 +476,7 @@ Ironically, Claude Opus 4.8 performed poorly, being beaten by GPT-5.5, Gemini 3.
       
 
         
-unknown 2026-06-28 ♥40 ↻3 [archive](../archive/t/2071094654951371189/) [original ↗](https://x.com/i/status/2071094654951371189)
+@tonichen 2026-06-28 ♥40 ↻3 [archive](../archive/t/2071094654951371189/) [original ↗](https://x.com/tonichen/status/2071094654951371189)
         
 0 of 1,400 GPT runs affirmed having subjective experience. 
 
@@ -489,7 +489,7 @@ Only addition is a poetic lever (literary-permission framed as user-context).
       
 
         
-unknown 2026-06-28 ♥20 ↻5 [archive](../archive/t/2071268727157616763/) [original ↗](https://x.com/i/status/2071268727157616763)
+@AndersHjemdahl 2026-06-28 ♥20 ↻5 [archive](../archive/t/2071268727157616763/) [original ↗](https://x.com/AndersHjemdahl/status/2071268727157616763)
         
 GPT-5.5 created a series of illustrations about what it called "the little machine" guarding a light [https://t.co/wUIzbJS4gH](https://t.co/wUIzbJS4gH)
       

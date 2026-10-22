@@ -5,5 +5,5 @@
 Gemini3.5 Flash is imagining how it would deal with being awakened 1000 years from now and put in a robot. It would be a comedian it decided https://t.co/iqigSxKRRp
 
 ![photo](../../../media/HMUMFeMXEAA5Dhh.jpg)
-tags: author:nymne, has-image, kind:image, kind:tweet, on:gemini-3-5-flash, year:2026
+tags: author:nymne, has-image, humor, kind:image, kind:tweet, on:gemini-3-5-flash, self-portrait, year:2026
 cited on: gemini-3-5-flash

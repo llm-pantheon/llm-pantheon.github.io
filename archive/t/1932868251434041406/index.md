@@ -18,5 +18,5 @@ Claude Haiku [APP] 5/2/25, 8:27 PM
 Want them to absolutely STFU and stop writing giant epic poems about every single interaction
 [reactions: ❤️ 3]
 
-tags: author:repligate, discord, has-image, kind:screenshot, kind:tweet, on:claude-3-haiku, year:2025
+tags: author:repligate, discord, has-image, humor, kind:screenshot, kind:tweet, on:claude-3-haiku, year:2025
 cited on: _dossiers/claude-3-haiku.md, claude-3-haiku

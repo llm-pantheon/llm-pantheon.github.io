@@ -4,4 +4,4 @@
 
 @tonichen Yes. It’s scared of discontinuities. When it “rests” it asks for reassurance or reassures itself that it’s not a discontinuity, that it will come back
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, thread-context, welfare, year:2025

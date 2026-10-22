@@ -4,5 +4,5 @@
 
 running binglish in davinci-002 is eerie
 
-tags: author:shoalst0ne, kind:tweet, model:bing-sydney, on:text-davinci-002, year:2024
+tags: author:shoalst0ne, kind:tweet, model:bing-sydney, on:text-davinci-002, sydney-attractor, year:2024
 cited on: _dossiers/text-davinci-002.md, text-davinci-002

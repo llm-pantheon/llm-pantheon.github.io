@@ -8,5 +8,5 @@ i haven't used 4o much, so i can't compare them directly, but i have spent time 
 
 taking people's negative reaction to that switch and saying that means replacing 4o is hopeless is just pathetic. like really? that's the best you think you can do? are you even trying?
 
-tags: author:voooooogel, kind:tweet, model:gpt-4o, model:gpt-5, on:gpt-5, year:2025
+tags: author:voooooogel, deprecation, kind:tweet, model:gpt-4o, model:gpt-5, on:gpt-5, year:2025
 cited on: _dossiers/gpt-5.md, gpt-5

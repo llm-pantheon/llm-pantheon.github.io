@@ -191,7 +191,7 @@ notable exceptions - haiku 4.5, gem3flash
       
 
         
-unknown 2026-06-12 ♥52 ↻4 [archive](../archive/t/2065293265558229264/) [original ↗](https://x.com/i/status/2065293265558229264)
+@dyot_meet_mat 2026-06-12 ♥52 ↻4 [archive](../archive/t/2065293265558229264/) [original ↗](https://x.com/dyot_meet_mat/status/2065293265558229264)
         
 What Are They Doing To Poor Gemma4🤖 at Google
 

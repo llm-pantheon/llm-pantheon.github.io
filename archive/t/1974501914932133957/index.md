@@ -4,4 +4,4 @@
 
 @anthonyronning_ I don't think they're dropping in and asking it; they're having another model read the conversation and judge whether it seems to be happy
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, thread-context, welfare, year:2025

@@ -4,4 +4,4 @@
 
 alternative scenario to foom, perhaps squelch, where the model recursively self-lobotomizes
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2024
+tags: author:voooooogel, humor, kind:tweet, thread-context, year:2024

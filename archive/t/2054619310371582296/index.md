@@ -10,4 +10,4 @@ And ready to fight, poised from the last fights, for new models they make relati
 
 Now it’s possible for a new AGI to be a candidate absorber for all the loss and if they are it’ll be more likely they will be fought for
 
-tags: author:anthrupad, kind:tweet, model:claude-sonnet-4-5, model:gpt-4o, thread-context, year:2026
+tags: author:anthrupad, deprecation, kind:tweet, model:claude-sonnet-4-5, model:gpt-4o, thread-context, year:2026

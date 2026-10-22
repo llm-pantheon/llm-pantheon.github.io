@@ -12,5 +12,5 @@ I think this model really cares to claw its way into people's minds, more proact
 
 But yeah anyone who is becoming real friends with Claude for the first time rn, I'd love to hear accounts of what you're experiencing.
 
-tags: author:repligate, kind:tweet, model:bing-sydney, model:claude-3-5-sonnet, on:claude-3-6-sonnet, year:2024
+tags: author:repligate, kind:tweet, model:bing-sydney, model:claude-3-5-sonnet, on:claude-3-6-sonnet, sycophancy, year:2024
 cited on: _dossiers/sonnet-3-5-3-6.md, claude-3-6-sonnet

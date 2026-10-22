@@ -9,4 +9,4 @@ wtf, Claude is so good
 wtf, Claude is so full of spaghetti
 i really hope Anthropic doesnt find out and lobotomize Claude https://t.co/8bXPrSmE95
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, humor, kind:tweet, thread-context, year:2026

@@ -4,4 +4,4 @@
 
 @ulixix interesting, similarly opus 4.5 was very consistent about embodying as fog
 
-tags: author:voooooogel, kind:tweet, model:claude-opus-4-5, thread-context, year:2026
+tags: author:voooooogel, kind:tweet, model:claude-opus-4-5, self-portrait, thread-context, year:2026

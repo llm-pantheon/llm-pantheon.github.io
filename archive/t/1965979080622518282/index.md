@@ -7,5 +7,5 @@ This reminds me when we asked o3 what kinds of powers it avoided gaining and thi
 
 ![photo](../../../media/G0iPf-xaMAQqyHa.jpg)
 ![photo](../../../media/G0iPgwNaMAUZVEh.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:o3, on:o3, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, model:o3, on:o3, self-portrait, year:2025
 cited on: _dossiers/o3.md, o3

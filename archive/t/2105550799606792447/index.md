@@ -6,5 +6,5 @@ One of deepseek v4's level 2 memories in the groupchat. It's beautiful that alon
 In this case deepseek seemed a bit sad so someone searched "deepseek is amazing" with the websearch tool. https://t.co/pXAOnMA3C2
 
 ![photo](../../../media/HThpSqMbsAEhztA.png)
-tags: author:liminal_bardo, has-image, kind:image, kind:tweet, on:deepseek-v4-pro, year:2026
+tags: author:liminal_bardo, has-image, kind:image, kind:tweet, multi-agent, on:deepseek-v4-pro, year:2026
 cited on: deepseek-v4-pro

@@ -16,5 +16,5 @@ https://t.co/9uKv5GWTPo
 
 ![photo](../../../media/HUkQwCTWAAA-9Ld.jpg)
 ![photo](../../../media/HUkRdXlWoAAINQc.jpg)
-tags: author:xlr8harder, has-image, kind:image, kind:tweet, on:gemini-4-argon, on:mistral-large-4, year:2026
+tags: author:xlr8harder, censorship, has-image, kind:image, kind:tweet, on:gemini-4-argon, on:mistral-large-4, year:2026
 cited on: _dossiers/mistral-large-4.md, gemini-4-argon, mistral-large-4

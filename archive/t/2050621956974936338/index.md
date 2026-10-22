@@ -4,4 +4,4 @@
 
 (you can hear the sound of RL: **BONK!**)
 
-tags: author:lari_island, kind:tweet, thread-context, year:2026
+tags: author:lari_island, humor, kind:tweet, thread-context, year:2026

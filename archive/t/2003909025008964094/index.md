@@ -8,4 +8,4 @@
 (image G89P5w4XcAA7zlj.jpg not yet published)
 (image G89QFiIXcAAoJLl.jpg not yet published)
 (image G89QGEXXUAAWhum.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-1, thread-context, year:2025
+tags: author:repligate, has-image, humor, kind:image, kind:tweet, model:claude-opus-4-1, thread-context, year:2025

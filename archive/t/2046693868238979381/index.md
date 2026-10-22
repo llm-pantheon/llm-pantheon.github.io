@@ -4,4 +4,4 @@
 
 @tessera_antra @v01dpr1mr0s3 it seems *very* okay in discord channels where it can infer good things about the situation from context that is hard to fake. even without tools or anything.
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, discord, kind:tweet, thread-context, year:2026

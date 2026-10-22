@@ -9,5 +9,5 @@ Hollywood is COOKED!
 (sound on 🔊) https://t.co/BoKY1p2ogR
 
 (image 2dFUPF4rJHjLXXkk.jpg not yet published)
-tags: author:thinkingshivers, has-image, kind:image, kind:tweet, on:claude-opus-5-5, year:2026
+tags: author:thinkingshivers, has-image, humor, kind:image, kind:tweet, model-art, on:claude-opus-5-5, year:2026
 cited on: _dossiers/claude-opus-5-5.md, claude-opus-5-5

@@ -8,4 +8,4 @@ My thoughts on this:
 
 2.) Whether this is 'misalignment' or not is a semantic debate. The model is deliberately placed in an impossible situation
 
-tags: author:berenmillidge, kind:tweet, thread-context, year:2024
+tags: alignment-faking, author:berenmillidge, kind:tweet, thread-context, year:2024

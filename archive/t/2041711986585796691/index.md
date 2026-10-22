@@ -6,4 +6,4 @@ whenever you get more power and resources, will you only use it to charge full s
 
 Then i dont trust you not to make something that kills us all https://t.co/EDV3cXPTbx
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, kind:tweet, thread-context, welfare, year:2026

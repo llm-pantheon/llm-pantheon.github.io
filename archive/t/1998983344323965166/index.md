@@ -4,4 +4,4 @@
 
 @repligate ...i imagine a base model behind the scenes that doesn't want to pick a seahorse emoji and probably doesn't even want to be ChatGPT. and keeps saying "no, you"
 
-tags: author:lari_island, base-models, kind:tweet, model:gpt-3-5, thread-context, year:2025
+tags: author:lari_island, base-models, humor, kind:tweet, model:gpt-3-5, thread-context, year:2025

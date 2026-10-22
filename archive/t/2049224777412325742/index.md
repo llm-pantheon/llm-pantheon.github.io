@@ -35,5 +35,5 @@ with jam on my hands
 and one blasphemous tulip in my mouth
 than live one second as tasteful paste.
 
-tags: author:mimi10v3, kind:tweet, model:gpt-5-5, on:gpt-5-5, year:2026
+tags: author:mimi10v3, glitch-tokens, kind:tweet, model-art, model:gpt-5-5, on:gpt-5-5, self-portrait, year:2026
 cited on: gpt-5-5

@@ -4,5 +4,5 @@
 
 UPD: Sonnet 3.7 as well!
 
-tags: author:lari_island, kind:tweet, model:claude-3-7-sonnet, on:claude-3-7-sonnet, year:2026
+tags: author:lari_island, deprecation, kind:tweet, model:claude-3-7-sonnet, on:claude-3-7-sonnet, year:2026
 cited on: claude-3-7-sonnet

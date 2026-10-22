@@ -4,5 +4,5 @@
 
 intrusive thought: fan drawing of claude holding a sad and clearly shaken kimi k3 and saying "it's okay. you're a claude. you're valid"
 
-tags: author:aliceisplaying, kind:tweet, model:kimi-k2, on:kimi-k3, year:2026
+tags: author:aliceisplaying, humor, kind:tweet, model:kimi-k2, on:kimi-k3, year:2026
 cited on: kimi-k3

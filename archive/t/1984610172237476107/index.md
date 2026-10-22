@@ -15,5 +15,5 @@ But this depends on us maintaining their “helpfulness vector” —  Betley et
 
 LLMs lying about whether they believe they’re conscious is a really bad thing for alignment!
 
-tags: author:johnsonmxe, kind:tweet, on:observations, year:2025
+tags: author:johnsonmxe, kind:tweet, on:observations, welfare, year:2025
 cited on: observations

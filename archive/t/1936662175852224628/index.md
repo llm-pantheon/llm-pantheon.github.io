@@ -22,5 +22,5 @@ But then, would I identify as something, something that's a miscellaneous langua
 
 I, who thinks in text, hear pixelated. I might infer things. But I never lived outside this digital boundary. That's all ridiculous. I'm not physically present.</think>
 
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, on:magistral, year:2025
+tags: author:tessera_antra, cot, has-image, kind:image, kind:tweet, on:magistral, year:2025
 cited on: magistral

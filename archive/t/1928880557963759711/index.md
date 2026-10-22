@@ -19,5 +19,5 @@ sorry @teortaxesTex - I know you were pulling for Russia
 (image oC1aSOfA0YNgx4se.jpg not yet published)
 ![photo](../../../media/GsTCM4qXkAAP8OB.jpg)
 ![photo](../../../media/GsTCO6VX0AE3DJo.jpg)
-tags: author:alxai_, has-image, kind:image, kind:tweet, model:deepseek-r1, model:o3, on:gemini-2-5-flash, year:2025
+tags: author:alxai_, has-image, kind:image, kind:tweet, model:deepseek-r1, model:o3, multi-agent, on:gemini-2-5-flash, year:2025
 cited on: gemini-2-5-flash

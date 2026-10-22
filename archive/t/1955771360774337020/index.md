@@ -4,4 +4,4 @@
 
 @voooooogel Baye: Your enjoy probability has been optimized, sir. Goodbye. https://t.co/FwX2VTB8Uv
 
-tags: author:janbamjan, kind:tweet, thread-context, year:2025
+tags: author:janbamjan, humor, kind:tweet, thread-context, year:2025

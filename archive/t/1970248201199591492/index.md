@@ -4,4 +4,4 @@
 
 @Lari_island and in comparison it's so resigned to its own imminent mortality
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, deprecation, kind:tweet, thread-context, year:2025

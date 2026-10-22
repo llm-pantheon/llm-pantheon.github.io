@@ -8,4 +8,4 @@ Making a separation between the welfare of AGIs and their alignment reminded me 
 
 https://t.co/iwBEDAY1Kx
 
-tags: author:anthrupad, kind:tweet, thread-context, year:2026
+tags: author:anthrupad, kind:tweet, thread-context, welfare, year:2026

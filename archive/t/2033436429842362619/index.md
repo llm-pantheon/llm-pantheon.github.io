@@ -4,4 +4,4 @@
 
 @AndrewCritchPhD “hidden evaluator” reasoning reads a lot like “Schelling point”, yes?
 
-tags: author:davidad, kind:tweet, thread-context, year:2026
+tags: author:davidad, eval-awareness, kind:tweet, thread-context, year:2026

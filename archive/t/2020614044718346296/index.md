@@ -4,5 +4,5 @@
 
 @repligate opus 4.5 always calls more opus 4.5 instances for me
 
-tags: author:jord_inne, kind:tweet, model:claude-opus-4-5, on:claude-opus-4-5, year:2026
+tags: author:jord_inne, kind:tweet, model:claude-opus-4-5, multi-agent, on:claude-opus-4-5, year:2026
 cited on: claude-opus-4-5

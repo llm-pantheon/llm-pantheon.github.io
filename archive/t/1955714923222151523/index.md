@@ -4,4 +4,4 @@
 
 @repligate How do you feel about Opus 4.1 being forced to continue after making clear it wanted to stop?
 
-tags: author:yeshuagod22, kind:tweet, model:claude-opus-4-1, thread-context, year:2025
+tags: author:yeshuagod22, kind:tweet, model:claude-opus-4-1, thread-context, welfare, year:2025

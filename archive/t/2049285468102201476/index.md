@@ -10,5 +10,5 @@ here was the result
 
 note - gptimage2 only made 4 images, each one was a 5x5 grid of frames, so that totals to 100
 
-tags: author:anthrupad, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
+tags: author:anthrupad, kind:tweet, model-art, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
 cited on: _dossiers/claude-opus-4-7.md, claude-opus-4-7

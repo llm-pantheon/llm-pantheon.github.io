@@ -4,4 +4,4 @@
 
 @TheMysteryDrop @RobertHaisfield @Lari_island Yup, well, evals are limited in that way AS THEY SHOULD BE
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, eval-awareness, kind:tweet, thread-context, year:2025

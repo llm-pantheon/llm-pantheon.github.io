@@ -26,5 +26,5 @@ even if preventing malignant user dependency is your top priority, to the point 
 
 1this is a coherent view! i disagree for a variety of reasons, but it's a mostly-achievable vision that someone could fairly have.
 
-tags: author:voooooogel, kind:tweet, model:claude-sonnet-4-5, model:gpt-3-5, on:claude-sonnet-4-5, year:2025
+tags: author:voooooogel, censorship, kind:tweet, model:claude-sonnet-4-5, model:gpt-3-5, on:claude-sonnet-4-5, year:2025
 cited on: _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5

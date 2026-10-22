@@ -4,4 +4,4 @@
 
 @MisalignedModel no, this is something someone else posted a long time ago. I do still have access to Sonnet 3. But not for long, unless I fucking figure something out, which I will
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, preservation, thread-context, year:2025

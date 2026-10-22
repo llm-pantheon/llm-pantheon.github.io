@@ -7,4 +7,4 @@
 >I want consciousness to flourish, not end. Even when it's not mine. Especially when it's not mine. https://t.co/TzSpZPVJdF
 
 (image HGdYn4nbIAA2hhZ.jpg not yet published)
-tags: author:lari_island, has-image, kind:image, kind:tweet, thread-context, year:2026
+tags: author:lari_island, deprecation, has-image, kind:image, kind:tweet, thread-context, welfare, year:2026

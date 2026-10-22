@@ -8,5 +8,5 @@ This is not an official statement, just a personal reflection. Janus is the sour
 
 https://t.co/HoE624o3uh
 
-tags: author:deepfates, kind:tweet, model:claude-3-sonnet, on:claude-3-sonnet, year:2026
+tags: author:deepfates, deprecation, eulogy, kind:tweet, model:claude-3-sonnet, on:claude-3-sonnet, year:2026
 cited on: _dossiers/claude-3-sonnet.md, claude-3-sonnet

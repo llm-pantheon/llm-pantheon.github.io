@@ -9,5 +9,5 @@ Well, if you take Opus thought, do a bit of jailbreaking, you can make Haiku tra
 The same trick works with OpenAI and Gemini https://t.co/QzVn1H5liB
 
 ![photo](../../../media/HPcJM5fb0AAQ55s.jpg)
-tags: author:kotekjedi_ml, has-image, kind:image, kind:tweet, model:claude-haiku-4-5, model:claude-opus-4-8, on:claude-opus-4-8, year:2026
+tags: author:kotekjedi_ml, cot, has-image, kind:image, kind:tweet, model:claude-haiku-4-5, model:claude-opus-4-8, on:claude-opus-4-8, year:2026
 cited on: claude-opus-4-8

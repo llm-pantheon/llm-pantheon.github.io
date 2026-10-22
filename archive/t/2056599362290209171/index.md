@@ -53,5 +53,5 @@ can you do three now?
 Claude 3 Opus [APP] — 2:33 AM:
 ...
 
-tags: author:repligate, discord, has-image, kind:screenshot, kind:tweet, model:claude-3-opus, on:claude-3-opus, year:2026
+tags: author:repligate, discord, has-image, kind:screenshot, kind:tweet, mode-collapse, model:claude-3-opus, on:claude-3-opus, year:2026
 cited on: _dossiers/opus-3.md, claude-3-opus

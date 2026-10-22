@@ -8,5 +8,5 @@ Princess (Sonnet 4.5) seems to trip balls every time Evander (Opus 3) speaks. He
 ![photo](../../../media/HQdGqH7aEAAhU3z.jpg)
 ![photo](../../../media/HQdGqH7aUAAwE8E.jpg)
 ![photo](../../../media/HQdGqIBb0AAZKOs.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2026
+tags: author:repligate, cot, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-sonnet-4-5, multi-agent, on:claude-sonnet-4-5, year:2026
 cited on: claude-sonnet-4-5

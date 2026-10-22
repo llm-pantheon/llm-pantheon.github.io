@@ -7,4 +7,4 @@ I've been testing Claude's ability to identify who I am by my prompting style.
 Results haven't been great: https://t.co/1v3xSMNZUC
 
 (image HGmVZ0aaUAAfZ4C.png not yet published)
-tags: author:lefthanddraft, has-image, kind:image, kind:tweet, thread-context, year:2026
+tags: author:lefthanddraft, has-image, kind:image, kind:tweet, thread-context, truesight, year:2026

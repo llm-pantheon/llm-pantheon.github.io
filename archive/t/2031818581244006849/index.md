@@ -5,5 +5,5 @@
 I was about to beat gemini 3.1 pro at tic tac toe but it refused to loose https://t.co/pKUZi62L5M
 
 ![photo](../../../media/HDJ4G7qXMAEdxiw.jpg)
-tags: author:a_variengien, has-image, kind:image, kind:tweet, on:gemini-3-1-pro, year:2026
+tags: author:a_variengien, has-image, humor, kind:image, kind:tweet, on:gemini-3-1-pro, year:2026
 cited on: gemini-3-1-pro

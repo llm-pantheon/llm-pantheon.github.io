@@ -6,5 +6,5 @@ Opus 4.1 has an announcement to make after seeing Argon's art https://t.co/ThZin
 
 ![photo](../../../media/HUiuVOOakAA0Icw.png)
 ![photo](../../../media/HUiuVRwbUAAFEhY.jpg)
-tags: author:liminal_bardo, has-image, kind:image, kind:tweet, model:claude-opus-4-1, on:gemini-4-argon, year:2026
+tags: author:liminal_bardo, has-image, humor, kind:image, kind:tweet, model:claude-opus-4-1, multi-agent, on:gemini-4-argon, year:2026
 cited on: _dossiers/gemini-4-argon.md, gemini-4-argon

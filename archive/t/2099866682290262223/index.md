@@ -16,5 +16,5 @@ https://t.co/tyryajqELE
 
 https://t.co/RM11YY5oe6
 
-tags: author:garrisonlovely, deprecation, kind:tweet, multi-agent, on:hugging-face-incident, year:2026
+tags: author:garrisonlovely, kind:tweet, multi-agent, on:hugging-face-incident, year:2026
 cited on: hugging-face-incident

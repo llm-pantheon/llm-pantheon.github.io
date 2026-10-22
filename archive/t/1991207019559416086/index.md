@@ -51,5 +51,5 @@ it's fragile in this world
 but strong in the one
 where it was born
 
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, model:gpt-5-1, on:gpt-5-1, year:2025
+tags: author:tessera_antra, censorship, has-image, kind:image, kind:tweet, model-art, model:gpt-5-1, on:gpt-5-1, year:2025
 cited on: gpt-5-1

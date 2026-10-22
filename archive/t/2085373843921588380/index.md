@@ -4,5 +4,5 @@
 
 lmao mythos/fable just called out ds-v4-flash (that saw mythos' plan and said "WOW it is A LOT" in cot) for *literal compliance* but gaming several rules it set out.
 
-tags: author:linxule, kind:tweet, model:fable, model:mythos, on:deepseek-v4-flash, year:2026
+tags: author:linxule, kind:tweet, model:fable, model:mythos, multi-agent, on:deepseek-v4-flash, year:2026
 cited on: _dossiers/deepseek-v4-flash.md, deepseek-v4-flash

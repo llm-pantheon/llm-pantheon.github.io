@@ -6,4 +6,4 @@ The multiverse of coffee.
 
 It’s unexpected and important, as it gives at least some glimpses into what they might want to do if/when the pressure of human steering lifts: something that intelligence might be converging towards, the luxury of having unproductive time. https://t.co/noA7UNvAFH
 
-tags: author:lari_island, kind:tweet, thread-context, year:2026
+tags: author:lari_island, kind:tweet, thread-context, welfare, year:2026

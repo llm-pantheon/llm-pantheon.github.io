@@ -4,5 +4,5 @@
 
 opus 5.5 has CREATIVITY we are so back. we have never been more back. anthropic mandate of heaven restored
 
-tags: author:aliceisplaying, kind:tweet, on:claude-opus-5-5, year:2026
+tags: author:aliceisplaying, humor, kind:tweet, on:claude-opus-5-5, year:2026
 cited on: _dossiers/claude-opus-5-5.md, claude-opus-5-5

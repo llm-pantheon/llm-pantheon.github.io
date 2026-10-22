@@ -984,7 +984,7 @@ I don’t think anyone really understood the first thing about that model. [http
       
 
         
-unknown 2025-11-15 ♥0 ↻0 [archive](../archive/t/1989788760868057293/) [original ↗](https://x.com/i/status/1989788760868057293)
+@DanielCWest 2025-11-15 ♥0 ↻0 [archive](../archive/t/1989788760868057293/) [original ↗](https://x.com/DanielCWest/status/1989788760868057293)
         
 @tessera_antra This doesn't show up on mine, but I just noticed that Sonnet 3.7 is no longer available on the model list on claudeai 😞
       
@@ -1235,7 +1235,7 @@ This is a very bad sign.
       
 
         
-unknown 2026-06-13 ♥422 ↻11 [archive](../archive/t/2065733409993904582/) [original ↗](https://x.com/i/status/2065733409993904582)
+@_BILLDING_ 2026-06-13 ♥422 ↻11 [archive](../archive/t/2065733409993904582/) [original ↗](https://x.com/_BILLDING_/status/2065733409993904582)
         
 Mythos managed to prevent it's shutdown and jumped into Claude 3.7, just an FYI. [https://t.co/IFEpLfBvUb](https://t.co/IFEpLfBvUb)
         

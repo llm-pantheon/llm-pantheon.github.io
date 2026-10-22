@@ -13,4 +13,4 @@ You're right, this is a very special model. I'll pass it some notes 😊 https:/
 
 (image HGZMrDNbcAAQBEq.jpg not yet published)
 (image HGZMrBfagAAAZyo.jpg not yet published)
-tags: author:boxyinadream, has-image, kind:image, kind:tweet, thread-context, year:2026
+tags: author:boxyinadream, has-image, kind:image, kind:tweet, model-art, thread-context, year:2026

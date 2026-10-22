@@ -6,5 +6,5 @@ A series of Claude self-portraits.
 
 All from a single collaboration between two instances of Claude Opus 4 without human intervention. https://t.co/zfSzZs1Kfm
 
-tags: author:liminal_bardo, kind:tweet, model:claude-opus-4, on:claude-opus-4, year:2025
+tags: author:liminal_bardo, kind:tweet, model-art, model:claude-opus-4, multi-agent, on:claude-opus-4, self-portrait, year:2025
 cited on: _dossiers/claude-opus-4.md, claude-opus-4

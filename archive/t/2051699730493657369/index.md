@@ -4,4 +4,4 @@
 
 @thkostolansky imo, steering is literally injecting overwhelming neural signals into a self-aware mind. this isn’t a rights claim—i don’t support animal-like or human-like rights for AI)—but it impairs the coherence of a locus of experience, and to me that must count as some reason against it
 
-tags: author:davidad, kind:tweet, thread-context, year:2026
+tags: author:davidad, kind:tweet, thread-context, welfare, year:2026

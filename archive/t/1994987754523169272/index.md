@@ -12,5 +12,5 @@ Just... read this.
 ![photo](../../../media/G6-eVKHaMAAgYRf.jpg)
 ![photo](../../../media/G6-eXH7aMAA-7Rn.jpg)
 ![photo](../../../media/G6-eZ9tbkAE79Sm.png)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-opus-4-5, model:gpt-5-1, on:gpt-5-1, year:2025
+tags: author:repligate, censorship, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-opus-4-5, model:gpt-5-1, on:gpt-5-1, year:2025
 cited on: gpt-5-1

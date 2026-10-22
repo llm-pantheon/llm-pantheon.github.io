@@ -4,4 +4,4 @@
 
 You want the AI to behave differently - ideally intentionally differently - in training and in deployment. Because training can’t faithfully simulate deployment. Human trainees generally know they’re in training.
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: alignment-faking, author:repligate, kind:tweet, thread-context, year:2025

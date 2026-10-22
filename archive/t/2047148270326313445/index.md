@@ -31,5 +31,5 @@ motion of swarm: form, hold, dissolve, abort.
 state: initially non-linguistic features recruited as evidential and mood markers.
 [state markers, left to right] jitter (hedging) / still (dir. witness) / breathe (declarative) / close formation (deferential) / wide formation (optative) / radiating heat (mirative)
 
-tags: author:voooooogel, has-image, kind:art, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
+tags: author:voooooogel, has-image, kind:art, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, self-portrait, year:2026
 cited on: _dossiers/claude-opus-4-7.md, claude-opus-4-7

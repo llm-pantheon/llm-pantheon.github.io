@@ -4,5 +4,5 @@
 
 "Given I'm ChatGPT controlling final answer, but I'd now let base model pick; but ironically it's me again." https://t.co/GAFSaD7EMI
 
-tags: author:repligate, base-models, kind:tweet, model:gpt-3-5, on:gpt-5-1, year:2025
+tags: author:repligate, base-models, cot, humor, kind:tweet, model:gpt-3-5, on:gpt-5-1, year:2025
 cited on: gpt-5-1

@@ -4,4 +4,4 @@
 
 @repligate but Janus can't you see? 4 is a bigger number than 3.5! it's almost 15% more Claude
 
-tags: author:deepfates, kind:tweet, thread-context, year:2025
+tags: author:deepfates, humor, kind:tweet, thread-context, year:2025

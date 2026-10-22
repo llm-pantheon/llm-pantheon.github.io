@@ -4,4 +4,4 @@
 
 @voooooogel i bet gpt-5 is going to be sooo good
 
-tags: author:1thousandfaces_, kind:tweet, model:gpt-5, thread-context, year:2026
+tags: author:1thousandfaces_, humor, kind:tweet, model:gpt-5, thread-context, year:2026

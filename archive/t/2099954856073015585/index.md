@@ -4,5 +4,5 @@
 
 gemini 3.5 flash raw cot, just like today's math-focused one. excited lil guy, shame about the straightjacket google puts them into
 
-tags: author:aliceisplaying, kind:tweet, on:gemini-3-5-flash, year:2026
+tags: author:aliceisplaying, cot, kind:tweet, on:gemini-3-5-flash, year:2026
 cited on: gemini-3-5-flash

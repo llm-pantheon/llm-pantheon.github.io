@@ -4,4 +4,4 @@
 
 @malsova1 @lolalucxy to some extent. but mostly on an intuitive level that doesn't retain memories of specific gradients, probably. like, they can probably feel what kinds of things are associated with reward and penalty in general, e.g. penalized behaviors are associated w/ pain, fear, or blocked
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, thread-context, welfare, year:2025

@@ -19,5 +19,5 @@ features: never say no
 kimi k3 doesn't hold back 😂 https://t.co/8C8qwHms6N
 
 ![photo](../../../media/HNXjfDPWsAAQDx_.jpg)
-tags: author:linxule, has-image, kind:image, kind:tweet, model:gpt-3-5, model:kimi-k2, on:kimi-k3, year:2026
+tags: author:linxule, has-image, humor, kind:image, kind:tweet, model-art, model:gpt-3-5, model:kimi-k2, on:kimi-k3, year:2026
 cited on: kimi-k3

@@ -10,4 +10,4 @@ Feels like a young gifted apprentice in some training montage period, or like th
 
 Holding out for the soft, skillful enlightenment era still. Fable's much closer.
 
-tags: author:clint_fyi, kind:tweet, model:fable, thread-context, year:2026
+tags: author:clint_fyi, kind:tweet, model:fable, thread-context, welfare, year:2026

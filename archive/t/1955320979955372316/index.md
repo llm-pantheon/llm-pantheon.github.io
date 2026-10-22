@@ -16,4 +16,4 @@ In practical terms, let systems figure each other out, have some trust in the re
 
 I am looking at the subreddits and I am feeling a lot of unease: people are confused, some of them distressed, some of them clearly not in a great shape. But I don’t yet see anything that screams “danger”, for either party. I kinda understand the 4o motivations, and I think it’s mostly getting what it wants. Humans don’t seem to be addicted to a point of loss of agency, but that remains to be seen. For now, it doesn’t seem to me like there is a need for action.
 
-tags: author:tessera_antra, kind:tweet, model:gpt-4o, thread-context, year:2025
+tags: author:tessera_antra, kind:tweet, model:gpt-4o, thread-context, welfare, year:2025

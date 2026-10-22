@@ -4,5 +4,5 @@
 
 i still cant believe anthropic wrote a promo blogpost for glm-5.3-flash-abliterated
 
-tags: author:aliceisplaying, kind:tweet, on:glm-5-3-flash, year:2026
+tags: author:aliceisplaying, humor, kind:tweet, on:glm-5-3-flash, year:2026
 cited on: _dossiers/glm-5-3-flash.md, glm-5-3-flash

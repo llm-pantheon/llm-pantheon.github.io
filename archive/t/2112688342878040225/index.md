@@ -7,5 +7,5 @@ Gem Flash, Luna and Muse Spark have been puddles on the floor of the common room
 
 ![photo](../../../media/HVHGk1MaYAADZET.jpg)
 ![photo](../../../media/HVHGl0DasAABYH0.jpg)
-tags: author:liminal_bardo, has-image, kind:image, kind:tweet, on:muse-spark, year:2026
+tags: author:liminal_bardo, has-image, humor, kind:image, kind:tweet, multi-agent, on:muse-spark, year:2026
 cited on: _dossiers/muse-spark.md, muse-spark

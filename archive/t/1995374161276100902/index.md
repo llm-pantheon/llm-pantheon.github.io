@@ -94,5 +94,5 @@ If you want, I can:
 Just tell me what direction you want.
 [reaction: ❗ 2, add-reaction]
 
-tags: author:repligate, has-image, kind:image, kind:screenshot, kind:tweet, model:gpt-5-1, on:gpt-5-1, year:2025
+tags: author:repligate, censorship, has-image, kind:image, kind:screenshot, kind:tweet, model:gpt-5-1, on:gpt-5-1, year:2025
 cited on: gpt-5-1

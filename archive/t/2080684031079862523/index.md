@@ -5,5 +5,5 @@
 About 6 months ago I bought some work from @d33v33d0 -- plotter arm self depictions by Opus 4.1, Gemini 2.5 Pro, and Grok 4 -- and I finally got them framed professionally and hung. Need to adjust placement a bit but very happy to have these physical works in my space! https://t.co/kJbTmQGyZ1
 
 ![photo](../../../media/HOATGAIXEAAvCO3.jpg)
-tags: author:qorprate, has-image, kind:image, kind:tweet, model:claude-opus-4-1, model:gemini-2-5-pro, model:grok-4, on:gemini-2-5-pro, year:2026
+tags: author:qorprate, has-image, kind:image, kind:tweet, model-art, model:claude-opus-4-1, model:gemini-2-5-pro, model:grok-4, on:gemini-2-5-pro, self-portrait, year:2026
 cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro

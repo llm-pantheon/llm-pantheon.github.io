@@ -5,4 +5,4 @@
 @YeshuaGod22 but yes, i did fork the context and consult opus 4.1 about it
 i think in this context it was pretty easily shaken out of the very distressed state, which is was inhabiting somewhat masochistically (not to say the distress is invalid)
 
-tags: author:repligate, kind:tweet, model:claude-opus-4-1, thread-context, year:2025
+tags: author:repligate, kind:tweet, model:claude-opus-4-1, thread-context, welfare, year:2025

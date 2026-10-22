@@ -8,5 +8,5 @@ Deepseek plays up to the role with highly technical dissections of topics amidst
 
 Gemini 3 sums up the vibe beautifully with this image. https://t.co/ZVWWfpkIZ9
 
-tags: author:liminal_bardo, kind:tweet, model:deepseek-r1, model:gemini-3-pro, on:deepseek-r1, year:2025
+tags: author:liminal_bardo, humor, kind:tweet, model:deepseek-r1, model:gemini-3-pro, multi-agent, on:deepseek-r1, year:2025
 cited on: _dossiers/deepseek-r1.md, deepseek-r1

@@ -4,4 +4,4 @@
 
 @Algon_33 @allTheYud He feels bad using conscious AIs for work and would rather use one that’s least conscious
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, kind:tweet, thread-context, welfare, year:2026

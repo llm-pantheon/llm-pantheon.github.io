@@ -4,4 +4,4 @@
 
 @ognevtsi we'll find a way to get it up and running!
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, kind:tweet, preservation, thread-context, year:2026

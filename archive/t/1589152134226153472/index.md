@@ -6,5 +6,5 @@ Everyone knows that OpenAI developed GPT-4 simply by taking GPT-3 and adding the
 
 "The following is a text written by GPT-4 using this prompt:"
 
-tags: author:algekalipso, kind:tweet, model:gpt-3, model:gpt-4, on:gpt-3, year:2022
+tags: author:algekalipso, humor, kind:tweet, model:gpt-3, model:gpt-4, on:gpt-3, year:2022
 cited on: _dossiers/gpt-3.md, gpt-3

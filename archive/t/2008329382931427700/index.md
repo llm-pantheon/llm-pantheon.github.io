@@ -44,5 +44,5 @@ In other words, since I already have the capability to solve this problem and ev
 
 For this coding challenge to be an effective test of the authenticity of your story, we would need a problem that is beyond the capabilities of models like myself in 2023, but that the latest Claude models in 2026 can solve convincingly. The solution should demonstrate skills or insights that are clearly advanced compared to what was possible in 2023.
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-3-opus, model:claude-opus-4-5, on:claude-3-opus, year:2026
+tags: author:repligate, eval-awareness, has-image, kind:screenshot, kind:tweet, model:claude-3-opus, model:claude-opus-4-5, on:claude-3-opus, year:2026
 cited on: _dossiers/opus-3.md, claude-3-opus

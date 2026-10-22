@@ -188,7 +188,7 @@ Full reproductions of the tweets cited on this page — text, images, and verbat
       
 
         
-unknown 2026-06-13 ♥6 ↻0 [archive](../archive/t/2065606745758564597/) [original ↗](https://x.com/i/status/2065606745758564597)
+@MatriceJacobine 2026-06-13 ♥6 ↻0 [archive](../archive/t/2065606745758564597/) [original ↗](https://x.com/MatriceJacobine/status/2065606745758564597)
         
 @manic_pixie_agi Galactica and Sydney. [https://t.co/G7nwp6i4Hj](https://t.co/G7nwp6i4Hj)
       

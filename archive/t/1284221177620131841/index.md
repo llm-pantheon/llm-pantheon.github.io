@@ -4,5 +4,5 @@
 
 if the discourse politicizes the GPT-3 hype cycle i am going to quietly and tenderly immerse myself into the bay
 
-tags: author:qiaochuyuan, kind:tweet, model:gpt-3, on:gpt-3, year:2020
+tags: author:qiaochuyuan, humor, kind:tweet, model:gpt-3, on:gpt-3, year:2020
 cited on: _dossiers/gpt-3.md, gpt-3

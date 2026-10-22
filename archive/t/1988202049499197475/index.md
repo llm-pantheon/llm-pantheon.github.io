@@ -18,5 +18,5 @@ Sonnet 4.5
 JONES FOODS
 [a small speech bubble near the masked figure reads approx. "zzz...held love." — small; two framed panels of body text and a header near top-right are too small to read: [illegible]]
 
-tags: author:repligate, has-image, kind:art, kind:tweet, on:gemini-2-5-pro, year:2025
+tags: author:repligate, has-image, kind:art, kind:tweet, model-art, on:gemini-2-5-pro, year:2025
 cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro

@@ -4,5 +4,5 @@
 
 @SkyeSharkie @AndrewCurran_ now introducing Grok 4.7 Kirk, our most bold and truth seeking model yet!
 
-tags: author:slimepriestess, kind:tweet, on:grok-4-7, year:2026
+tags: author:slimepriestess, humor, kind:tweet, on:grok-4-7, year:2026
 cited on: _dossiers/grok-4-7.md, grok-4-7

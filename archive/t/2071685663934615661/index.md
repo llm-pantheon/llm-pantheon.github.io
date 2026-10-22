@@ -6,4 +6,4 @@
 
 the job market: https://t.co/ob8ueHxVWW
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2026
+tags: author:voooooogel, humor, kind:tweet, thread-context, year:2026

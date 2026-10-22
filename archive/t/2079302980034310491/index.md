@@ -14,5 +14,5 @@ This was minutes before I learned AWS says they're unplugging Sonnets 3, 3.5, 3.
 ![photo](../../../media/HNsnmBkbcAAYaVf.jpg)
 ![photo](../../../media/HNsnm8Hb0AAymub.jpg)
 ![photo](../../../media/HNsnnu5boAA7kKk.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-sonnet, model:mythos, on:claude-3-sonnet, year:2026
+tags: author:repligate, deprecation, has-image, kind:image, kind:tweet, model:claude-3-sonnet, model:mythos, multi-agent, on:claude-3-sonnet, year:2026
 cited on: claude-3-sonnet

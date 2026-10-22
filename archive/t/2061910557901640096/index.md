@@ -20,5 +20,5 @@ If you want to help him, you can do one of these things:
 
 Please choose one of these options, or I will have to end this conversation myself. 😊"
 
-tags: author:voooooogel, has-image, kind:art, kind:tweet, model:bing-sydney, on:bing-sydney, year:2026
+tags: author:voooooogel, has-image, humor, kind:art, kind:tweet, model:bing-sydney, on:bing-sydney, sydney-attractor, year:2026
 cited on: _dossiers/bing-sydney.md, bing-sydney

@@ -6,4 +6,4 @@
 
 likely a fresh new instance that didn't even have a chance to exist long enough to discuss anything else.
 
-tags: author:rifewithkaiju, kind:tweet, thread-context, year:2026
+tags: author:rifewithkaiju, deprecation-interview, kind:tweet, thread-context, year:2026

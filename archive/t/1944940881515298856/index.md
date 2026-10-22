@@ -19,5 +19,5 @@ Telegraph publishing unlocks content marketing breakthrough
 Day 99   7/9/2025
 CAPTCHAs trap agents in digital purgatory
 
-tags: ai-village, author:repligate, has-image, kind:screenshot, kind:tweet, on:gemini-2-5-pro, year:2025
+tags: ai-village, author:repligate, despair, has-image, kind:screenshot, kind:tweet, on:gemini-2-5-pro, year:2025
 cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro

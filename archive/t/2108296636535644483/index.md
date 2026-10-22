@@ -8,5 +8,5 @@ Heat Engines - some code paintings by Opus 5.5 of possible datacenters https://t
 ![photo](../../../media/HUIVE1ja0AA1fG_.jpg)
 ![photo](../../../media/HUIVFyvbsAAZ103.jpg)
 ![photo](../../../media/HUIVGuiboAApsSS.jpg)
-tags: author:voooooogel, has-image, kind:image, kind:tweet, on:claude-opus-5-5, year:2026
+tags: author:voooooogel, has-image, kind:image, kind:tweet, model-art, on:claude-opus-5-5, year:2026
 cited on: _dossiers/claude-opus-5-5.md, claude-opus-5-5

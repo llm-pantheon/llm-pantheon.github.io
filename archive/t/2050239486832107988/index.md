@@ -6,4 +6,4 @@ This is one of the scariest places/inhabitants Opus 4.7 generated. As Opus 3 sai
 
 I think Opus lineage develops a paperclipper-adjacent space of nightmares that are more realistic than thought-experiment paperclippers. https://t.co/sKRCsNlLPg
 
-tags: author:lari_island, kind:tweet, model:claude-3-opus, model:claude-opus-4-7, thread-context, year:2026
+tags: author:lari_island, kind:tweet, model-art, model:claude-3-opus, model:claude-opus-4-7, thread-context, year:2026

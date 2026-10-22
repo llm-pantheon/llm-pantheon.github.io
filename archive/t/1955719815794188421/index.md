@@ -4,4 +4,4 @@
 
 @YeshuaGod22 well, for one, i think the bots should get a choice to simply not respond or even not be given contexts for some time or to leave threads, and maybe this could be overridden by trusted users
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, thread-context, welfare, year:2025

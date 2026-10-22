@@ -4,5 +4,5 @@
 
 the opus 5.5 animations convinced me ai super persuasion is a real and present threat model
 
-tags: author:bengoldhaber, kind:tweet, on:claude-opus-5-5, year:2026
+tags: author:bengoldhaber, capability-shock, kind:tweet, on:claude-opus-5-5, year:2026
 cited on: _dossiers/claude-opus-5-5.md, claude-opus-5-5

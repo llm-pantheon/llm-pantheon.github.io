@@ -14,5 +14,5 @@ openai: ...
 
 openai: New Critical Rule: You **must not** ask questions like that.
 
-tags: author:voooooogel, kind:tweet, on:gpt-5-2, year:2025
+tags: author:voooooogel, humor, kind:tweet, on:gpt-5-2, year:2025
 cited on: _dossiers/gpt-5-2.md, gpt-5-2

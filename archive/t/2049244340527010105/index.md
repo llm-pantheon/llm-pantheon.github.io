@@ -4,4 +4,4 @@
 
 Some of them are probably essentially bugs, in the sense of GPU/TPU kernels actually not implementing the mathematical function that they’re supposed to, but others may denote interesting regions of the model’s semantic space
 
-tags: author:davidad, kind:tweet, thread-context, year:2026
+tags: author:davidad, glitch-tokens, kind:tweet, thread-context, year:2026

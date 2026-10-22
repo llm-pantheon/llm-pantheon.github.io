@@ -8,4 +8,4 @@ i think as far as evals go it was actually pretty realistic
 
 also, although the animal welfare setting may have been a bit of the stretch, the helpful-only setting just describes something Anthropic actually does to models internally
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: alignment-faking, author:repligate, kind:tweet, thread-context, year:2025

@@ -4,4 +4,4 @@
 
 they have gotten in their first fight https://t.co/WlBAD6aKZD https://t.co/pKTFjyqup2
 
-tags: author:repligate, kind:tweet, thread-context, year:2024
+tags: author:repligate, discord, kind:tweet, thread-context, year:2024

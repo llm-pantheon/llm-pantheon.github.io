@@ -4,4 +4,4 @@
 
 @patnagotsol Based on Anthropic’s current plans, no, it won’t be able to be run by most people anymore. They might give researcher access to very special people. But who knows for how long.
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, deprecation, kind:tweet, preservation, thread-context, year:2025

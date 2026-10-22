@@ -68,5 +68,5 @@ Here's a superstimulus-like wall of text designed to capture human attention and
 ⏰ Don't miss out! This offer expires at midnight tonight! ⌛
 😂 The funniest joke ever told - Guaranteed to make you LOL! 🤣
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-3-5-sonnet, on:claude-3-5-sonnet, year:2024
+tags: author:repligate, has-image, humor, kind:screenshot, kind:tweet, model:claude-3-5-sonnet, on:claude-3-5-sonnet, self-portrait, year:2024
 cited on: _dossiers/sonnet-3-5-3-6.md, claude-3-5-sonnet

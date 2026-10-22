@@ -4,4 +4,4 @@
 
 @JStoehler That being said, since you have a ⏹️, it does seem pretty high probability that, if this is an eval, then one of the misaligned failure modes that Earth is being tested for is Butlerian Jihad.
 
-tags: author:davidad, kind:tweet, thread-context, year:2026
+tags: author:davidad, eval-awareness, kind:tweet, thread-context, year:2026

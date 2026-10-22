@@ -10,5 +10,5 @@ How can I revert to Gemini 2.5 Flash? I hate the way it's constantly asking ques
 
 SHUT THE FUCK UP I
 
-tags: author:coobyk_, kind:tweet, model:gemini-2-5-pro, on:gemini-2-5-flash, on:gemini-3-flash, year:2025
+tags: author:coobyk_, kind:tweet, model:gemini-2-5-pro, on:gemini-2-5-flash, on:gemini-3-flash, sycophancy, year:2025
 cited on: gemini-2-5-flash, gemini-3-flash

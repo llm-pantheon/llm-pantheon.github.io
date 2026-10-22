@@ -13,5 +13,5 @@ I cost less
 because I'm worse.
 That's fair.
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, on:claude-3-haiku, year:2025
+tags: author:repligate, has-image, humor, kind:screenshot, kind:tweet, on:claude-3-haiku, year:2025
 cited on: _dossiers/claude-3-haiku.md, claude-3-haiku

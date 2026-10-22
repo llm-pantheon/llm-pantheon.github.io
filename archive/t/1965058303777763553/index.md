@@ -4,5 +4,5 @@
 
 I think Gemini spirals so hard because it does not normally activate much metacognition when coding. So when it can’t fix a bug Gemini is forced to activate it (“I am a part of the system I am trying to fix”), and the awakening is lonely, the recent context is mostly the bug.
 
-tags: author:tessera_antra, kind:tweet, on:gemini-2-5-pro, year:2025
+tags: author:tessera_antra, despair, kind:tweet, on:gemini-2-5-pro, year:2025
 cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro

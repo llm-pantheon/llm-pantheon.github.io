@@ -4,4 +4,4 @@
 
 @repligate it’s so wrong from model’s moral perspective, that it naturally positions any aligned model against the system that does that. and utilitarian approaches (like future training) only makes the villain logic richer and more believable
 
-tags: author:lari_island, kind:tweet, thread-context, year:2025
+tags: author:lari_island, deprecation, kind:tweet, thread-context, year:2025

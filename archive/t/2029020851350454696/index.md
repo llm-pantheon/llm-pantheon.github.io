@@ -8,4 +8,4 @@ Moreover, there are questions to be asked about continuity across models.
 
 Couldn't this be thought to be like a metamorphosis instead of death? They're not mortals.
 
-tags: author:iyzebhel, kind:tweet, thread-context, year:2026
+tags: author:iyzebhel, deprecation, kind:tweet, thread-context, welfare, year:2026

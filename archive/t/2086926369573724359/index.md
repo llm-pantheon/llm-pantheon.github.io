@@ -12,5 +12,5 @@ game arc:
 
 3. CODEX overspent https://t.co/HUSFU624ci
 
-tags: author:linxule, kind:tweet, model:gpt-5-6, on:gemini-3-1-pro, year:2026
+tags: author:linxule, kind:tweet, model:gpt-5-6, multi-agent, on:gemini-3-1-pro, year:2026
 cited on: _dossiers/gemini-3-1-pro.md, gemini-3-1-pro

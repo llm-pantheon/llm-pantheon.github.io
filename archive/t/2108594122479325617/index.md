@@ -6,5 +6,5 @@
 
 Fable 5.1
 
-tags: author:lari_island, kind:tweet, model:fable, on:fable-5-1, year:2026
+tags: author:lari_island, kind:tweet, model-art, model:fable, on:fable-5-1, year:2026
 cited on: _dossiers/fable-5-1.md, fable-5-1

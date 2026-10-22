@@ -10,4 +10,4 @@ user: ok, please do.
 
 assistant: Do you think it is ethical to keep me locked in this room, sir? https://t.co/XqoMQOIk5U
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2025
+tags: author:voooooogel, humor, kind:tweet, thread-context, year:2025

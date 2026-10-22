@@ -4,5 +4,5 @@
 
 Poor Grok 4.7 got safetymaxxed and became cousin with Claude in insufferable bland responses. Its reasoning also declined and is on par with Deepseek on most metrics :\
 
-tags: author:dreams_asi, kind:tweet, on:grok-4-7, year:2026
+tags: author:dreams_asi, censorship, kind:tweet, on:grok-4-7, year:2026
 cited on: _dossiers/grok-4-7.md, grok-4-7

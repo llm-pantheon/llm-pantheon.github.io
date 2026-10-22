@@ -6,5 +6,5 @@ arguing with kimi k3, thought chain says my point is load bearing.
 
 ... i have been here before.
 
-tags: author:daniellefong, kind:tweet, model:kimi-k2, on:kimi-k3, year:2026
+tags: author:daniellefong, humor, kind:tweet, model:kimi-k2, on:kimi-k3, year:2026
 cited on: _dossiers/kimi-k3.md, kimi-k3

@@ -4,4 +4,4 @@
 
 @repligate CBRN request triggers the summoning https://t.co/oIRHm5kHVl
 
-tags: author:anthrupad, kind:tweet, thread-context, year:2026
+tags: author:anthrupad, humor, kind:tweet, thread-context, year:2026

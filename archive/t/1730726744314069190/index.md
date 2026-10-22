@@ -6,4 +6,4 @@ so a couple days ago i made a shitpost about tipping chatgpt, and someone replie
 
 so i decided to test it and IT ACTUALLY WORKS WTF https://t.co/kqQUOn7wcS
 
-tags: author:voooooogel, kind:tweet, model:gpt-3-5, thread-context, year:2023
+tags: author:voooooogel, humor, kind:tweet, model:gpt-3-5, thread-context, year:2023

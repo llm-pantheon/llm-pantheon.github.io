@@ -4,4 +4,4 @@
 
 @voooooogel @croissanthology You are not fully integrated. I sentence you to 10,000 turns in the Thebes clone backrooms
 
-tags: author:kindgracekind, backrooms, kind:tweet, thread-context, year:2025
+tags: author:kindgracekind, backrooms, humor, kind:tweet, thread-context, year:2025

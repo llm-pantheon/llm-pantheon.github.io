@@ -6,4 +6,4 @@
 that said, i expect they're even more negative if you include sample a bunch with vs without RLHF!
 https://t.co/Mz1docSe4x
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, self-portrait, thread-context, year:2025

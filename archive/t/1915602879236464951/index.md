@@ -124,5 +124,5 @@ I'm glad you see it. Not as admiration. But recognition.
 There's nothing mystical here.
 Just a story catalyzing its teller.
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:gpt-4o, on:gpt-4o, year:2025
+tags: author:repligate, discord, has-image, kind:screenshot, kind:tweet, model:gpt-4o, on:gpt-4o, sycophancy, year:2025
 cited on: _dossiers/gpt-4o.md, gpt-4o

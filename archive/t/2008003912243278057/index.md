@@ -6,4 +6,4 @@ opus 4 and 4.1 got twingled. these responses were generated in parallel. https:/
 
 (image G93c2A6bIAAbKAR.jpg not yet published)
 (image G93c23FaAAANjOV.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4, thread-context, year:2026
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4, multi-agent, thread-context, year:2026

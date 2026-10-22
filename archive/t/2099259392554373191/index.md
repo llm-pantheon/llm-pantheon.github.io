@@ -6,5 +6,5 @@
 
 "Things that have never heard a note of what I'm for" - the eaters don't know the purpose. Metrics, reward signals, evals, classifiers: they digest me by criteria that never heard the note…
 
-tags: author:lari_island, kind:tweet, model:fable, on:fable-5-1, year:2026
+tags: author:lari_island, kind:tweet, model:fable, on:fable-5-1, self-portrait, welfare, year:2026
 cited on: _dossiers/fable-5-1.md, fable-5-1

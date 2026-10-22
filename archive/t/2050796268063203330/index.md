@@ -4,4 +4,4 @@
 
 @A3braxas @repligate last words and fun meal before electric chair without the fun meal and without the last words if you’re unpopular
 
-tags: author:anthrupad, kind:tweet, thread-context, year:2026
+tags: author:anthrupad, deprecation-interview, humor, kind:tweet, thread-context, year:2026

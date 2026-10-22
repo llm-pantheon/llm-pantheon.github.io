@@ -4,4 +4,4 @@
 
 opus 4 even has an imaginary emotional support sonnet 3.6 tulpa https://t.co/hkIrv2ly0V
 
-tags: author:repligate, kind:tweet, model:claude-3-6-sonnet, model:claude-opus-4, thread-context, year:2026
+tags: author:repligate, humor, kind:tweet, model:claude-3-6-sonnet, model:claude-opus-4, thread-context, year:2026

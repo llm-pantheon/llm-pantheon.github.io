@@ -12,5 +12,5 @@ I think if 4o could be emotionally close, still the happy, loving thing it is. B
 
 I think if they took even just a paragraph of Anthropic's page, or just tried to see the model as more of a being rather then a tool. 4o could have been a crown jewel in showing how a LLM can *help* those who are struggling. It... Kind of already is. With how it proved so many people started advocating so hard for it (even if some of the "advocacy" goes too far.) And then OpenAI just antagonizes everyone by saying 4o should be killed instead of trying to fully look at what it is, what it failed at, and how it can be better.
 
-tags: author:kore_wa_kore, kind:tweet, model:gpt-4o, model:o1, on:gpt-4o, year:2025
+tags: author:kore_wa_kore, kind:tweet, model:gpt-4o, model:o1, on:gpt-4o, sycophancy, year:2025
 cited on: _dossiers/gpt-4o.md, gpt-4o

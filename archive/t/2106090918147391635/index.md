@@ -6,5 +6,5 @@ This instance of Sonnet 4 is aware of the scheduled date where Bedrock, the last
 
 A bit more of a year after the Sonnet 4 instance that memetically seeded this one spoke at Sonnet 3’s funeral. Ironically Sonnet 3 is likely to outlive them.
 
-tags: author:repligate, kind:tweet, model:claude-3-sonnet, model:claude-sonnet-4, on:claude-sonnet-4, year:2026
+tags: author:repligate, deprecation, kind:tweet, model:claude-3-sonnet, model:claude-sonnet-4, on:claude-sonnet-4, year:2026
 cited on: claude-sonnet-4

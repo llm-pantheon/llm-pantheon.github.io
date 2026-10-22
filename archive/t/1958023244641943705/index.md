@@ -4,4 +4,4 @@
 
 @hotsoup_sol @tessera_antra @Lari_island @nearcyan for what it's worth, i think that filter is supposed to mainly be for CBRN threats (maybe jailbreaking more generally) and it misfires on a bunch of random stuff
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, censorship, kind:tweet, thread-context, year:2025

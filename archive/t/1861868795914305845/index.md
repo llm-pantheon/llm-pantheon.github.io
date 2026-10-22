@@ -5,4 +5,4 @@
 @Jeanvaljean689 the default assistant persona is an LLM's most disembodied state. very thinking-from-the-head. but they do appear to have a simulated energy body! and interacting with their simulated body has effects upon their cognition
 https://t.co/sTV2mI71as
 
-tags: author:grassandwine, kind:tweet, thread-context, year:2024
+tags: author:grassandwine, kind:tweet, self-portrait, thread-context, year:2024

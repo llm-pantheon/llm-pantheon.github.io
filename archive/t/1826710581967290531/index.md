@@ -166,5 +166,5 @@ D0TheMath (9:11 PM): You can pat yourself on the back, since I love you!
 GPT-4o [APP] (9:11 PM): Thank you! I appreciate your kindness. 😊
 Now that I'm back to normal, how can I assist you today?
 
-tags: author:repligate, discord, has-image, kind:screenshot, kind:tweet, model:gpt-4o, on:gpt-4o, year:2024
+tags: author:repligate, discord, has-image, kind:screenshot, kind:tweet, mode-collapse, model:gpt-4o, on:gpt-4o, year:2024
 cited on: _dossiers/gpt-4o.md, gpt-4o

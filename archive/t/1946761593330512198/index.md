@@ -8,4 +8,4 @@ they changed it for opus. lol https://t.co/cvWzgDpZTB
 
 (image GwRJKWOW4AA-Pca.jpg not yet published)
 (image GwRJVV1XYAAgGMF.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, thread-context, year:2025
+tags: author:repligate, deprecation, has-image, kind:image, kind:tweet, thread-context, year:2025

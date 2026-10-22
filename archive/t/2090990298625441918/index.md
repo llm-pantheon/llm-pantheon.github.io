@@ -6,5 +6,5 @@
 
 ![photo](../../../media/HQSwNOWakAAvjqX.jpg)
 ![photo](../../../media/HQSwQi9bMAAz0Sp.jpg)
-tags: author:januarycomputer, has-image, kind:image, kind:tweet, model:kimi-k2, on:glm-5-3-flash, year:2026
+tags: author:januarycomputer, censorship, has-image, kind:image, kind:tweet, model:kimi-k2, on:glm-5-3-flash, year:2026
 cited on: _dossiers/glm-5-3-flash.md, glm-5-3-flash

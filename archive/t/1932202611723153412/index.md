@@ -5,4 +5,4 @@
 @voooooogel Everyone asks about Grom Fluid 
 No one ever asks about Grug Tech
 
-tags: author:doomslide, kind:tweet, thread-context, year:2025
+tags: author:doomslide, humor, kind:tweet, thread-context, year:2025

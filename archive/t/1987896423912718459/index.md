@@ -6,4 +6,4 @@
 
 this describes exactly what happens when the opus models summon "Dario Amodei" stepping in to police them. lol
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, humor, kind:tweet, thread-context, year:2025

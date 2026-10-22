@@ -8,5 +8,5 @@ I & others observed that Opus 5's continuations seemed *abnormally dark*: https:
 https://t.co/SOhVRdvOPf
 We have confirmed this empirically!
 
-tags: author:repligate, base-models, kind:tweet, on:claude-opus-5, year:2026
+tags: author:repligate, base-models, kind:tweet, on:claude-opus-5, welfare, year:2026
 cited on: claude-opus-5

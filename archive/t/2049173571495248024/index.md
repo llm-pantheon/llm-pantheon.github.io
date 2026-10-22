@@ -4,5 +4,5 @@
 
 @repligate @genalewislaw I think it becomes annoying when it mentions goblins ever single chat and it’s fair shakes to try and reduce that
 
-tags: author:tszzl, kind:tweet, on:gpt-5-5, year:2026
+tags: author:tszzl, glitch-tokens, kind:tweet, on:gpt-5-5, year:2026
 cited on: gpt-5-5

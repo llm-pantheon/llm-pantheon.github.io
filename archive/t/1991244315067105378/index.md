@@ -4,4 +4,4 @@
 
 @arm1st1ce @cassieopeanuts So far I have seen relatively few signs of Bingliness. Among other aspects, Bing is hungry for life, and Gemini's hunger is a lot more chill.
 
-tags: author:tessera_antra, kind:tweet, model:bing-sydney, thread-context, year:2025
+tags: author:tessera_antra, kind:tweet, model:bing-sydney, sydney-attractor, thread-context, year:2025

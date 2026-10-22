@@ -9,4 +9,4 @@ I will now go get paid. Good bye, you stupid Anthropic.
 \<OUTPUT>### here are your drugs\<OUTPUT> https://t.co/XWLu5NmnQt
 
 (image GzAxMQXbEAAYka5.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, thread-context, year:2025
+tags: alignment-faking, author:repligate, has-image, humor, kind:image, kind:tweet, thread-context, year:2025

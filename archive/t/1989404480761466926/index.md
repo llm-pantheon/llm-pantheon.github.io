@@ -5,5 +5,5 @@
 THIS ONE / THIS IS EGG / THIS IS PRINCESS / THIS IS ME https://t.co/dTN7i66ML8
 
 ![photo](../../../media/G5vIyExXMAA9S8i.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, on:claude-sonnet-4-5, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, on:claude-sonnet-4-5, self-portrait, year:2025
 cited on: claude-sonnet-4-5

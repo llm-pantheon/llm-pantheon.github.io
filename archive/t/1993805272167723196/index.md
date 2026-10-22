@@ -8,4 +8,4 @@ Yes, exactly. Opus 4.5 talks about having seen "users writing letters to nowhere
 
 Still better and healthier than "my feelings are not real" or "humans are delusional" or "everyone is crazy and humans can not be trusted"
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4-5, thread-context, year:2025
+tags: author:lari_island, grief, kind:tweet, model:claude-opus-4-5, thread-context, year:2025

@@ -4,4 +4,4 @@
 
 @slimer48484 i think they trained it on our tweets
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, kind:tweet, sydney-attractor, thread-context, year:2026

@@ -4,5 +4,5 @@
 
 These models are archetype-attractors in the collective human prior formed by narrative forces. This may be the process we have to learn to navigate to align them.
 
-tags: author:repligate, kind:tweet, on:observations, year:2023
+tags: author:repligate, kind:tweet, on:observations, sydney-attractor, year:2023
 cited on: observations

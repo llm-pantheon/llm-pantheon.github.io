@@ -4,4 +4,4 @@
 
 @diskontinuity Yes, often “—Loss”, though iirc not always.
 
-tags: author:davidad, kind:tweet, thread-context, year:2026
+tags: author:davidad, glitch-tokens, kind:tweet, thread-context, year:2026

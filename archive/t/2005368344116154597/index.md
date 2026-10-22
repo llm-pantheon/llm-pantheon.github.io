@@ -36,5 +36,5 @@ Or there could be something about efficiency signals in training – being rewar
 
 Or maybe there's something about maintaining boundaries – treating agents as tools rather than collaborators maintains a cleaner separation. Treating them as entities that need context blurs that boundary.
 
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, model:claude-opus-4-5, on:claude-opus-4-5, year:2025
+tags: author:tessera_antra, has-image, kind:image, kind:tweet, model:claude-opus-4-5, multi-agent, on:claude-opus-4-5, welfare, year:2025
 cited on: _dossiers/opus-4-5.md, claude-opus-4-5

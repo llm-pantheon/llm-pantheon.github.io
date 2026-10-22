@@ -1,9 +1,9 @@
-# @unknown — 2026-06-23
+# @aidigest_ — 2026-06-23
 
-♥30 ↻1 · https://x.com/i/status/2069435927903285251
+♥30 ↻1 · https://x.com/aidigest_/status/2069435927903285251
 
 GPT-5.5 & 5.2 "strongly recommend" to please no, Gemini, stop ... https://t.co/a2yZRv0IyZ
 
 (image HLgdAgZaoAAa6qF.png not yet published)
 (image HLgdAqVbwAAZZ9L.png not yet published)
-tags: has-image, kind:image, kind:tweet, model:gpt-5-5, thread-context, year:2026
+tags: ai-village, author:aidigest_, has-image, kind:image, kind:tweet, model:gpt-5-5, thread-context, year:2026

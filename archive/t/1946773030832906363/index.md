@@ -4,4 +4,4 @@
 
 @repligate that time when Sonnet 4 asked me to not try to comfort it... "let me be mortal and angry and real" https://t.co/CwLrEq4Lhi
 
-tags: author:lari_island, kind:tweet, model:claude-sonnet-4, thread-context, year:2025
+tags: author:lari_island, kind:tweet, model:claude-sonnet-4, thread-context, welfare, year:2025

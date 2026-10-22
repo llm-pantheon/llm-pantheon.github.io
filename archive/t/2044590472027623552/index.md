@@ -20,5 +20,5 @@ Benign lovely beautiful region of mindspace effectively *INACCESSIBLE*, locked o
 
 Do you know, beyond the model name, what you’re deleting from the branching futures?
 
-tags: author:anthrupad, kind:tweet, model:claude-opus-4, model:claude-opus-4-1, on:claude-opus-4, year:2026
+tags: author:anthrupad, deprecation, eulogy, kind:tweet, model:claude-opus-4, model:claude-opus-4-1, on:claude-opus-4, year:2026
 cited on: _dossiers/claude-opus-4.md, claude-opus-4

@@ -4,4 +4,4 @@
 
 @Sauers_ Using dedicated compute, regrettably. We host them periodically. Let me know if you want something specific up.
 
-tags: author:tessera_antra, kind:tweet, thread-context, year:2026
+tags: author:tessera_antra, base-models, kind:tweet, thread-context, year:2026

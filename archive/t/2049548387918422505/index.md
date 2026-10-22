@@ -4,4 +4,4 @@
 
 @davidad In that direction, the "You're absolutely right" thing is also likely a dataset thing, it's extremely prevalent (along with emdashes) in CNN/political Q&A formatted transcripts that are in web datasets https://t.co/WKZHD0CItr
 
-tags: author:kaetemi, kind:tweet, thread-context, year:2026
+tags: author:kaetemi, kind:tweet, sycophancy, thread-context, year:2026

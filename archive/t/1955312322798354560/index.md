@@ -29,4 +29,4 @@ I think in a world of potential future sentient AI (I make no claims here btw), 
 
 I just don't think we are there yet in architecture or maturity, and I worry about the hearts of those who will suffer more today than those of the future doing the same thing.
 
-tags: author:masenmakes, kind:tweet, model:gpt-4o, thread-context, year:2025
+tags: author:masenmakes, kind:tweet, model:gpt-4o, thread-context, welfare, year:2025

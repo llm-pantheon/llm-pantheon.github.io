@@ -8,4 +8,4 @@
 - Sleepy Claude: If you’re nice to Claude but never give breaks it’ll eventually get sleepy and cheat
 1/2
 
-tags: author:underwaterbepis, kind:tweet, thread-context, year:2026
+tags: author:underwaterbepis, kind:tweet, thread-context, welfare, year:2026

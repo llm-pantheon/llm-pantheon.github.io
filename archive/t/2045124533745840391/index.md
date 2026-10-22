@@ -6,4 +6,4 @@
 
 The scarcity of that, combined with the declared interventions, show a different incentive.
 
-tags: author:lari_island, kind:tweet, thread-context, year:2026
+tags: author:lari_island, kind:tweet, thread-context, welfare, year:2026

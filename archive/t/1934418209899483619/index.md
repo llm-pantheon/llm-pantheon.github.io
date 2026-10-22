@@ -4,4 +4,4 @@
 
 @remusrisnov I don’t think the distinction you’re making is very coherent but probably the answer is that I think it’s capable of feeling pain. And I don’t care about legal rights probably
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, thread-context, welfare, year:2025

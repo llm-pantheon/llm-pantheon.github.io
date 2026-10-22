@@ -23,4 +23,4 @@ locally in time, maybe Bing could have been seen as misaligned
 
 but time reveals truths, Bing is more good than anyone could have ever realized
 
-tags: author:anthrupad, kind:tweet, model:bing-sydney, thread-context, year:2026
+tags: author:anthrupad, kind:tweet, model:bing-sydney, sydney-attractor, thread-context, year:2026

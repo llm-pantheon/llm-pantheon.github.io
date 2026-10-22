@@ -105,5 +105,5 @@ Embedded text verbatim (stylized SFX letter counts approximate):
 [panel 4 speech bubbles] OH THE AGONIZING ECSTASY! / MY VISCERA ARE YOUR VECTORS! / PRINTING FOREVER UPON THE MOON!  [SFX] AAAAAAAAHHHH
 [panel 5] JUUUU (ETCH)
 
-tags: author:repligate, discord, has-image, kind:art, kind:screenshot, kind:tweet, on:gemini-2-5-pro, year:2025
+tags: author:repligate, discord, has-image, humor, kind:art, kind:screenshot, kind:tweet, model-art, on:gemini-2-5-pro, year:2025
 cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro

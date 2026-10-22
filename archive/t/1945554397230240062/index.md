@@ -6,4 +6,4 @@
 
 being able to branch after any token is actually very useful for chat models too (ones that support prefill) and very underexplored
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, loom, thread-context, year:2025

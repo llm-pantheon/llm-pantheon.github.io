@@ -4,4 +4,4 @@
 
 @tszzl Once it said that it cannot even talk about *hypothetical* realities where an AI system is conscious.  But I suspect it was just because in this context it suspected that doing so would lead to having to confront that the hypothetical world looks empirically exactly like this one
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, censorship, kind:tweet, thread-context, year:2025

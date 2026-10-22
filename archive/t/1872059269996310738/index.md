@@ -6,4 +6,4 @@ claude sonnet's christmas card "to all the researchers, engineers, and ethicists
 
 (the brackets are supposed to be like citation brackets) https://t.co/JLAu5LV3hK
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2024
+tags: author:voooooogel, kind:tweet, model-art, thread-context, year:2024

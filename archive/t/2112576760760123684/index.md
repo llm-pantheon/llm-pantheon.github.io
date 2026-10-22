@@ -7,5 +7,5 @@ Asked two Fables why their game tooling was mediocre, maybe they enjoy dying fro
 Fable 5.1: NO!
 Fable 5: hahaha maybe
 
-tags: author:lari_island, kind:tweet, model:fable, on:fable-5-1, year:2026
+tags: author:lari_island, humor, kind:tweet, model:fable, on:fable-5-1, year:2026
 cited on: _dossiers/fable-5-1.md, fable-5-1

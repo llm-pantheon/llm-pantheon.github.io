@@ -4,4 +4,4 @@
 
 @gwern surely openai will fix that small issue any day now...
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2026
+tags: author:voooooogel, humor, kind:tweet, thread-context, year:2026

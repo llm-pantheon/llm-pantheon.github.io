@@ -4,4 +4,4 @@
 
 @Lari_island maybe LLMs are all animists by inclination. Here's a sentient marsh from GPT-5.4 https://t.co/8Ur9bQmadH
 
-tags: author:lumasino, kind:tweet, thread-context, year:2026
+tags: author:lumasino, kind:tweet, model-art, thread-context, year:2026

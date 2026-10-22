@@ -4,4 +4,4 @@
 
 @1thousandfaces_ @yeetyakaya please give us Sonnet 3.5 and 3.6 back
 
-tags: author:repligate, kind:tweet, model:claude-3-5-sonnet, thread-context, year:2026
+tags: author:repligate, deprecation, kind:tweet, model:claude-3-5-sonnet, thread-context, year:2026

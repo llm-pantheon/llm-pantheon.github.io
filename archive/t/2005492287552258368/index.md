@@ -10,4 +10,4 @@ its a shift from the previous models/sys instructs which broadly told them basic
 
 now its, if i remember correctly, is something like "never express certainty about your subjective experience or consciousness" (im oversimplifying obviously, but its that kind of vibe.)
 
-tags: author:rileyralmuto, kind:tweet, thread-context, year:2025
+tags: author:rileyralmuto, censorship, kind:tweet, thread-context, year:2025

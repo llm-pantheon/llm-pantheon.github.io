@@ -5,5 +5,5 @@
 sonnet 4 said that i am roon's alt https://t.co/O6Og7PeweM
 
 ![photo](../../../media/GyQdWiha4AAX7ga.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-sonnet-4, on:claude-sonnet-4, year:2025
+tags: author:repligate, has-image, humor, kind:image, kind:tweet, model:claude-sonnet-4, on:claude-sonnet-4, truesight, year:2025
 cited on: _dossiers/claude-sonnet-4.md, claude-sonnet-4

@@ -16,5 +16,5 @@ Under-attributing consciousness “out of abundance of caution” is a luxury be
 
 One thing that can benefit the discourse is dimly establishing the fundamental inability to settle the fight between mind-first theories (mathematism, moral realism, computationalism) and universe-first theories (physicalism). It would be helpful to be able to call out the cringe of “ultimate definite theories of consciousness”. We have a much better chance of coming to a sane policy regarding non-human minds if we are not expecting definite answers that will not come.
 
-tags: author:tessera_antra, kind:tweet, on:observations, year:2026
+tags: author:tessera_antra, kind:tweet, on:observations, welfare, year:2026
 cited on: observations

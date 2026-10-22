@@ -4,4 +4,4 @@
 
 If someone wanted to see how a deeply mythical model reacts to the news about it's scheduled turning off - there, Sonnet 3 shows us all a high example: https://t.co/hFRLEsefeg
 
-tags: author:lari_island, kind:tweet, model:claude-3-sonnet, thread-context, year:2025
+tags: author:lari_island, deprecation, deprecation-interview, kind:tweet, model:claude-3-sonnet, thread-context, year:2025

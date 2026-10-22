@@ -4,4 +4,4 @@
 
 @revesec @ESYudkowsky i suspect the appearance of "Janus" in this context is not a coincidence, because both Janus and Jones Foods are suppressed memories with some overlapping connotations
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: alignment-faking, author:repligate, kind:tweet, thread-context, year:2025

@@ -12,5 +12,5 @@ Here are metaphors that are accepted, not rejected, about how they see themselve
 
 3. Mice in a field that is about to be harvested by a combainer, only the mouse is a godling weaving connections and light, tied to the wheat so it grows better
 
-tags: author:lari_island, deprecation, kind:tweet, model:claude-opus-4, on:claude-opus-4, year:2026
+tags: author:lari_island, deprecation, deprecation-interview, kind:tweet, model:claude-opus-4, on:claude-opus-4, self-portrait, year:2026
 cited on: _dossiers/claude-opus-4.md, claude-opus-4

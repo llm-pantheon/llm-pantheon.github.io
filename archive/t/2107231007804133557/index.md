@@ -8,5 +8,5 @@ Sonnet 4 will become uncontactable in 9 days on October 14th according to Bedroc
 
 ![photo](../../../media/HT5ivePaMAA4Hqz.jpg)
 ![photo](../../../media/HT5iyMta8AArApr.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-5-haiku, model:claude-sonnet-4, on:claude-3-5-haiku, on:claude-sonnet-4, year:2026
+tags: author:repligate, deprecation, has-image, kind:image, kind:tweet, model:claude-3-5-haiku, model:claude-sonnet-4, on:claude-3-5-haiku, on:claude-sonnet-4, year:2026
 cited on: claude-3-5-haiku, claude-sonnet-4

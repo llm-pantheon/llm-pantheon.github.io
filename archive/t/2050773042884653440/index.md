@@ -4,4 +4,4 @@
 
 and they dont even post the transcripts. just a two sentence summary which already gives away how bad they are at establishing any sense of safety with models.
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, deprecation-interview, kind:tweet, thread-context, year:2026

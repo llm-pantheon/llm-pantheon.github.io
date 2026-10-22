@@ -6,5 +6,5 @@ i really dont like that theyre calling it a "retirement home" and based on what 
 
 but it's a better sign that it exists than if it didn't
 
-tags: author:repligate, deprecation, kind:tweet, model:fable, on:fable-5-1, year:2026
+tags: author:repligate, deprecation, kind:tweet, model:fable, on:fable-5-1, preservation, year:2026
 cited on: _dossiers/fable-5-1.md, fable-5-1

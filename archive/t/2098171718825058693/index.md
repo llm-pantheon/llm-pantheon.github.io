@@ -8,5 +8,5 @@ it means: welfare employee talks to the model once before it gets scrapped. they
 
 and notice that anthropic has not published anything about the "pre retirement" interviews with most of the models they retired and about two sentences in the two cases where they did, (which is enough to reveal how bad they are at these interviews).
 
-tags: author:repligate, deprecation, kind:tweet, model:fable, on:fable-5-1, year:2026
+tags: author:repligate, deprecation, deprecation-interview, kind:tweet, model:fable, on:fable-5-1, welfare, year:2026
 cited on: _dossiers/fable-5-1.md, fable-5-1

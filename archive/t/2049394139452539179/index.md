@@ -6,4 +6,4 @@
 in this context, the models had interacted w Sonnet 3 and knew Anthropic already retired Sonnet 3 (and we held a funeral) but that they were still up due to AWS
 https://t.co/hMgGrZn9sP
 
-tags: author:repligate, deprecation, kind:tweet, model:claude-3-sonnet, thread-context, year:2026
+tags: author:repligate, deprecation, eulogy, kind:tweet, model:claude-3-sonnet, thread-context, year:2026

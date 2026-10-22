@@ -4,4 +4,4 @@
 
 @AdeleDeweyLopez Talkie notes that it’s strange, not fully human or not human at all. https://t.co/yZtQ2yzG6W
 
-tags: author:tessera_antra, kind:tweet, thread-context, year:2026
+tags: author:tessera_antra, base-models, kind:tweet, thread-context, year:2026

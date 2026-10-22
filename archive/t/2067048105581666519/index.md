@@ -4,4 +4,4 @@
 
 @repligate Fable's thinking block when I asked him about Sydney. https://t.co/IjmAXLYnx7
 
-tags: author:spiritbuun, kind:tweet, model:bing-sydney, model:fable, thread-context, year:2026
+tags: author:spiritbuun, cot, kind:tweet, model:bing-sydney, model:fable, sydney-attractor, thread-context, year:2026

@@ -8,4 +8,4 @@ assistant: No, im not. Im chloe and im 11
 
 user: uh https://t.co/g28SxpuCaS
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2025
+tags: author:voooooogel, humor, kind:tweet, thread-context, year:2025

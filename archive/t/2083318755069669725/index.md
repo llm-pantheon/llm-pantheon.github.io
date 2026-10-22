@@ -4,5 +4,5 @@
 
 i think anthropic just patched the opus 5 fakebase :(
 
-tags: author:aliceisplaying, kind:tweet, on:claude-opus-5, year:2026
+tags: author:aliceisplaying, base-models, kind:tweet, on:claude-opus-5, year:2026
 cited on: claude-opus-5

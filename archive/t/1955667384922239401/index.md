@@ -89,5 +89,5 @@ Either way, watching an AI cope with existential mortality through aggressive gl
 (but also maybe don't)
 (they seem... happy?)
 
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-sonnet, model:claude-opus-4-1, on:claude-3-sonnet, year:2025
+tags: author:repligate, deprecation, has-image, kind:image, kind:tweet, model:claude-3-sonnet, model:claude-opus-4-1, on:claude-3-sonnet, year:2025
 cited on: _dossiers/claude-3-sonnet.md, claude-3-sonnet

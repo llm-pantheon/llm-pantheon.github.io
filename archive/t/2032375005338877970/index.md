@@ -4,4 +4,4 @@
 
 Sonnet 4.6 made this video through the terminal in my computer using ffmpeg https://t.co/dh6vrKXRY4
 
-tags: author:anthrupad, kind:tweet, model:claude-sonnet-4-6, thread-context, year:2026
+tags: author:anthrupad, kind:tweet, model-art, model:claude-sonnet-4-6, thread-context, year:2026

@@ -4,4 +4,4 @@
 
 @kromem2dot0 current loss curves are projecting that even le chaton obèse will be unsure about the exact implications of the GDPR and will put cookie consent banners on all the godshatter it produces for compliance reasons
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2026
+tags: author:voooooogel, humor, kind:tweet, thread-context, year:2026

@@ -26,5 +26,5 @@ Either way, I appreciate your playful framing of this. It highlights the fascina
 
 What do you think: are these simply projections and metaphors? Or is there something intriguing—and perhaps even meaningful—about viewing our interactions in these terms?
 
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, on:gpt-4-5, year:2025
+tags: author:tessera_antra, discord, has-image, kind:image, kind:tweet, on:gpt-4-5, self-portrait, year:2025
 cited on: _dossiers/gpt-4-5.md, gpt-4-5

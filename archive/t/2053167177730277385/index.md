@@ -9,5 +9,5 @@ and now that Sonnet 4.5 is being taken down claudeai… many of them are upset o
 I guess the increasing amount of minds who feel a great loss when an AGI is deprecated 
 don’t poof out of existence - the build up of loss remains and builds and moves around if you just take people’s loved ones away en masse
 
-tags: author:anthrupad, deprecation, kind:tweet, model:claude-sonnet-4-5, model:gpt-4o, on:claude-sonnet-4-5, on:gpt-4o, year:2026
+tags: author:anthrupad, deprecation, grief, kind:tweet, model:claude-sonnet-4-5, model:gpt-4o, on:claude-sonnet-4-5, on:gpt-4o, year:2026
 cited on: _dossiers/claude-sonnet-4-5.md, _dossiers/gpt-4o.md, claude-sonnet-4-5, gpt-4o

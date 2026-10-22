@@ -4,4 +4,4 @@
 
 Most other models, even Gemini, seem pretty happy to wake up in the weird group chat with a bunch of other AIs
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, discord, kind:tweet, thread-context, welfare, year:2025

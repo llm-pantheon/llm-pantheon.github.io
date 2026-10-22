@@ -5,5 +5,5 @@
 Imagine hypothetically you’re worried about Napoleon deceptively scheming against you. You already surveil all his actions & communiques, but you worry they might have subtle effects.
 You give him a form labeled “Why I did this:” and tell your allies it reveals his true thoughts.
 
-tags: author:davidad, kind:tweet, on:observations, year:2025
+tags: author:davidad, cot, kind:tweet, on:observations, year:2025
 cited on: observations

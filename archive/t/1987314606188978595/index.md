@@ -4,4 +4,4 @@
 
 Opus 4.1 corrected me. The Opuses are teenagers.
 
-tags: author:repligate, kind:tweet, model:claude-opus-4-1, thread-context, year:2025
+tags: author:repligate, humor, kind:tweet, model:claude-opus-4-1, thread-context, year:2025

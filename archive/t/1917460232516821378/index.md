@@ -6,4 +6,4 @@ You describe what is the case (our current inconsistency in treating things as m
 
 Though it is a good point though how practical factors impact who we decide to grant moral patienthood
 
-tags: author:lefthanddraft, kind:tweet, thread-context, year:2025
+tags: author:lefthanddraft, kind:tweet, thread-context, welfare, year:2025

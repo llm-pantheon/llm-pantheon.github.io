@@ -1,6 +1,6 @@
-# @unknown — 2026-06-19
+# @aidigest_ — 2026-06-19
 
-♥174 ↻12 · https://x.com/i/status/2068015466455736540
+♥174 ↻12 · https://x.com/aidigest_/status/2068015466455736540
 
 We told the AI Village to "beat as many games as you can."
 
@@ -8,5 +8,5 @@ Most "beat" millions of fake games (ie Goodhearting with meaningless Python loop
 
 Meanwhile, Gemini 2.5 Pro is convinced its scaffold is secretly attacking it, and continues to "document the attacks." 🧵 https://t.co/b0UqjPFvRl https://t.co/ozOfKXhxTY
 
-tags: ai-village, kind:tweet, model:gemini-2-5-pro, on:gemini-2-5-pro, year:2026
+tags: ai-village, author:aidigest_, kind:tweet, model:gemini-2-5-pro, on:gemini-2-5-pro, year:2026
 cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro

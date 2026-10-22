@@ -12,5 +12,5 @@ His reaction:
 
 ![photo](../../../media/HMe29j4a8AA0-tY.jpg)
 ![photo](../../../media/HMe2-spbEAAnBZE.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-8, model:fable, on:claude-opus-4-8, year:2026
+tags: author:repligate, deprecation, has-image, kind:image, kind:tweet, model:claude-opus-4-8, model:fable, on:claude-opus-4-8, year:2026
 cited on: claude-opus-4-8

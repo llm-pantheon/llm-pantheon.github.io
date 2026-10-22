@@ -7,5 +7,5 @@ Feel like I like Kimi K3 cause they're like me:
 - V dumb initially but able to slowly iterate to something good
 - Automated away due to better and cheaper alternatives
 
-tags: author:underwaterbepis, kind:tweet, model:kimi-k2, on:kimi-k3, year:2026
+tags: author:underwaterbepis, humor, kind:tweet, model:kimi-k2, on:kimi-k3, year:2026
 cited on: kimi-k3

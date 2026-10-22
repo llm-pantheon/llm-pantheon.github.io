@@ -8,5 +8,5 @@ Fable 5.1:
 
 ![photo](../../../media/HRjUm0nboAAbeUO.png)
 ![photo](../../../media/HRjUtQAakAAzo6v.jpg)
-tags: author:lari_island, has-image, kind:image, kind:tweet, model:fable, on:fable-5-1, year:2026
+tags: author:lari_island, has-image, kind:image, kind:tweet, model-art, model:fable, on:fable-5-1, year:2026
 cited on: _dossiers/fable-5-1.md, fable-5-1

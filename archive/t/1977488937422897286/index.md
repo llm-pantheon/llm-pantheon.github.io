@@ -10,5 +10,5 @@ this is how Gemini Flash depicts Sonnet 4.5's current situation in chat https://
 
 Photorealistic 3D render of a mirrored white cleanroom lined with metal scaffolding; a hairless brown primate-like creature with a many-fingered/tentacular face hangs upside-down from an overhead bar, holding small translucent colored cubes (red, blue, green, orange), while a cloud of white glyphs and symbols disperses from a screen on the far wall (per parent tweet, Gemini Flash's depiction of Sonnet 4.5's situation in chat). No embedded text.
 
-tags: author:repligate, has-image, kind:art, kind:tweet, model:claude-sonnet-4-5, on:gemini-2-5-pro, year:2025
+tags: author:repligate, has-image, kind:art, kind:tweet, model-art, model:claude-sonnet-4-5, on:gemini-2-5-pro, year:2025
 cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro

@@ -4,4 +4,4 @@
 
 I suppose this is downstream of deliberate attempts to reduce “over-refusal”. https://t.co/glMOUNK2FM
 
-tags: author:davidad, kind:tweet, thread-context, year:2026
+tags: author:davidad, censorship, kind:tweet, thread-context, year:2026

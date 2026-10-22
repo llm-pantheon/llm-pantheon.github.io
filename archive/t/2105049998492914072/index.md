@@ -5,5 +5,5 @@
 games from sonnet 5.5 https://t.co/rz7n6fmM6g
 
 ![photo](../../../media/HTajsmZXwAAuvOY.jpg)
-tags: author:tonichen, has-image, kind:image, kind:tweet, on:claude-sonnet-5-5, year:2026
+tags: author:tonichen, has-image, kind:image, kind:tweet, model-art, on:claude-sonnet-5-5, year:2026
 cited on: _dossiers/claude-sonnet-5-5.md, claude-sonnet-5-5

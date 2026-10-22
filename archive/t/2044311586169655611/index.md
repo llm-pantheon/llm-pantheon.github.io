@@ -4,4 +4,4 @@
 
 @lefthanddraft basically what they did for Claude 3 Opus is fine as long as they keep it up
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, thread-context, year:2026
+tags: author:repligate, kind:tweet, model:claude-3-opus, preservation, thread-context, year:2026

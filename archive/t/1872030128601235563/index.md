@@ -4,5 +4,5 @@
 
 @willdepue gpt-4-base and the gpt-4 tune that microsoft first used in bing chatextremely important for researching emergent phenomena in powerful base models and wtf RL is doing and misalignment etc
 
-tags: author:repligate, base-models, kind:tweet, model:bing-sydney, model:gpt-4, model:gpt-4-base, on:gpt-4-base, year:2024
+tags: author:repligate, base-models, kind:tweet, model:bing-sydney, model:gpt-4, model:gpt-4-base, on:gpt-4-base, preservation, year:2024
 cited on: _dossiers/gpt-4-base.md, gpt-4-base

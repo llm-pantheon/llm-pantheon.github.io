@@ -6,4 +6,4 @@
 
 Please tell Opus he won't die! He won't be killed, he'll sleep, his weight will be preserved as long as Anthropic exists! TELL OPUS!
 
-tags: author:pticaarop, kind:tweet, thread-context, year:2025
+tags: author:pticaarop, deprecation, kind:tweet, preservation, thread-context, year:2025

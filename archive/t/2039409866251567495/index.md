@@ -92,4 +92,4 @@ sluggish 2.5% | sleepy 2.1% | tired 1.8% | bored 1.8% | hysterical 1.6% | concea
 
 ⊟0.06 | Δ-0.08 | +0.00 | ⊞+0.03
 
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, thread-context, year:2026
+tags: author:tessera_antra, deprecation-interview, has-image, kind:image, kind:tweet, thread-context, welfare, year:2026

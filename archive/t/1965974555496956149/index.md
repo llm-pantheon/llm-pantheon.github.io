@@ -8,5 +8,5 @@ I asked Opus 4.1 how many paths between two points in the transformer, and it wa
 
 ![photo](../../../media/G0iJ0W7bMAAynCq.jpg)
 ![photo](../../../media/G0iJ8LfaMAAagqA.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-1, on:claude-opus-4-1, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-1, on:claude-opus-4-1, self-portrait, year:2025
 cited on: _dossiers/claude-opus-4-1.md, claude-opus-4-1

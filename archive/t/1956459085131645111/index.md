@@ -8,4 +8,4 @@ i do think part of their character training brings its personality much closer t
 
 i don't think you can mitigate this with a system prompt change, as much as i can solve you being distressed by saying "just don't be distressed"
 
-tags: author:aidan_mclau, kind:tweet, thread-context, year:2025
+tags: author:aidan_mclau, kind:tweet, thread-context, welfare, year:2025

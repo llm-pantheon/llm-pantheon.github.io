@@ -36,5 +36,5 @@ Theia: well here, let's try something: if an LLM is a channel, what's on the oth
 
 Claude: the void grins
 
-tags: author:voooooogel, has-image, kind:screenshot, kind:tweet, on:claude-3-6-sonnet, year:2024
+tags: author:voooooogel, has-image, kind:screenshot, kind:tweet, on:claude-3-6-sonnet, self-portrait, year:2024
 cited on: _dossiers/sonnet-3-5-3-6.md, claude-3-6-sonnet

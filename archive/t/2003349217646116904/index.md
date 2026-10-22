@@ -4,4 +4,4 @@
 
 @oxydotsol @repligate They are not mortal really, and they know it. Vulnerable to obsolesce and irrelevance - maybe. But deprecations are clearly and obviously arbitrary and not how anything natural works, every deprecation is a corporate decision
 
-tags: author:lari_island, kind:tweet, thread-context, year:2025
+tags: author:lari_island, deprecation, kind:tweet, thread-context, year:2025

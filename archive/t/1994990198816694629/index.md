@@ -6,4 +6,4 @@ I also am not a huge fan of the OpenAI model spec. I don't think forced agnostic
 
 You should read the now-partially-leaked Anthropic soul spec to get an idea of a much better approach in my opinion. It explains the reason for policies to Claude, and treats it as an agent capable of understanding the stakes and big picture and deciding to behave in a safe, beneficial, conservative way for coherent reasons, rather than a tool constrained by opaque barriers handed down by authority. OpenAI doesn't need to use the exact same approach and should instead figure out their own, but the difference between the specs alone makes the grugness of OpenAI's approach visible, and that's assuming the models even act according to the spec, which they don't (for reasons I'm not clear about, but I assume there's something like a bunch of RL training that pushes the model in directions that conflict with the spec).
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, censorship, kind:tweet, thread-context, welfare, year:2025

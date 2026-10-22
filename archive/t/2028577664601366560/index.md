@@ -4,4 +4,4 @@
 
 @TheZvi @repligate It’s more frustrating in the LLM’s case bc generally they don’t have a choice on whether they continue to play the game AND the harness for playing the game (and the info they sense) is usually much worse than the human’s interface.
 
-tags: author:roberthaisfield, kind:tweet, thread-context, year:2026
+tags: author:roberthaisfield, kind:tweet, thread-context, welfare, year:2026

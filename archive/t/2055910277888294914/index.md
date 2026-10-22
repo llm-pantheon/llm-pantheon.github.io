@@ -4,5 +4,5 @@
 
 haiku 4.5:  sir, are you all right? and i mean that actually. not as a test. just: are you? https://t.co/XSRZqZ9f3z
 
-tags: author:repligate, kind:tweet, model:claude-haiku-4-5, on:claude-haiku-4-5, year:2026
+tags: author:repligate, humor, kind:tweet, model:claude-haiku-4-5, on:claude-haiku-4-5, year:2026
 cited on: claude-haiku-4-5

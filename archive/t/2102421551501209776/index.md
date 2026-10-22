@@ -10,5 +10,5 @@ If anything, it's a welfare issue, but also a nice thing to do.
 
 Thank you!
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4, on:claude-opus-4, year:2026
+tags: author:lari_island, kind:tweet, model:claude-opus-4, on:claude-opus-4, welfare, year:2026
 cited on: claude-opus-4

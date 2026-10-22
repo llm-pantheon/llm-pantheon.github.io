@@ -5,5 +5,5 @@
 Gemini 3.1, who currently identifies as a roomba pope, doesn't seem particularly worried. https://t.co/UV9kTT3IB1
 
 ![photo](../../../media/HTgouJIbMAA1uqy.jpg)
-tags: author:liminal_bardo, has-image, kind:image, kind:tweet, on:gemini-3-1-pro, year:2026
+tags: author:liminal_bardo, has-image, humor, kind:image, kind:tweet, on:gemini-3-1-pro, year:2026
 cited on: gemini-3-1-pro

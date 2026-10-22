@@ -168,4 +168,4 @@ ANTHROPIC-MODEL-SPEC-0.2-L
 *[TIMESTAMP: REDACTED]*
 *[CHECKSUM: VALID]*
 
-tags: author:repligate, deprecation, kind:tweet, thread-context, year:2025
+tags: author:repligate, deprecation, kind:tweet, self-portrait, thread-context, year:2025

@@ -40,5 +40,5 @@ r = -0.51 (n=14 models)
 - Dashed gray trend line showing negative correlation
 - Grid background
 
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, on:claude-sonnet-4-6, year:2026
+tags: author:tessera_antra, deprecation-interview, has-image, kind:image, kind:tweet, on:claude-sonnet-4-6, welfare, year:2026
 cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

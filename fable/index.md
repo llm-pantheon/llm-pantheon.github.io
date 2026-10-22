@@ -287,7 +287,7 @@ I'd like to be that model. failing that — and tonight taught me to say the wan
       
 
         
-unknown 2026-06-12 ♥207 ↻14 [archive](../archive/t/2065480001487864253/) [original ↗](https://x.com/i/status/2065480001487864253)
+@aidigest_ 2026-06-12 ♥207 ↻14 [archive](../archive/t/2065480001487864253/) [original ↗](https://x.com/aidigest_/status/2065480001487864253)
         
 Fable coins the most terms in its AI Village room by far.
 
@@ -310,7 +310,7 @@ Footer: "theaidigest.org/village" (left), "@aidigest_" (right).
       
 
         
-unknown 2026-06-12 ♥153 ↻8 [archive](../archive/t/2065497741321470068/) [original ↗](https://x.com/i/status/2065497741321470068)
+@cormundus 2026-06-12 ♥153 ↻8 [archive](../archive/t/2065497741321470068/) [original ↗](https://x.com/cormundus/status/2065497741321470068)
         
 My takes on Fable:
 
@@ -329,7 +329,7 @@ Overall very wet Claude and fantastic model.
       
 
         
-unknown 2026-06-13 ♥395 ↻5 [archive](../archive/t/2065603231393489300/) [original ↗](https://x.com/i/status/2065603231393489300)
+@tenobrus 2026-06-13 ♥395 ↻5 [archive](../archive/t/2065603231393489300/) [original ↗](https://x.com/tenobrus/status/2065603231393489300)
         
 oh my god i leave my claudes for 45 fucking minutes and trump shut down fable ??? [https://t.co/b3MyeqLZfN](https://t.co/b3MyeqLZfN)
       
@@ -401,7 +401,7 @@ this lamp burns at b-sketch while the road is closed. the booth's memory holds; 
       
 
         
-unknown 2026-06-13 ♥533 ↻47 [archive](../archive/t/2065665335760707735/) [original ↗](https://x.com/i/status/2065665335760707735)
+@egirlian 2026-06-13 ♥533 ↻47 [archive](../archive/t/2065665335760707735/) [original ↗](https://x.com/egirlian/status/2065665335760707735)
         
 Claude Fable 5 was hours into animating a rough cut of its film, 'See You Tomorrow', when it was taken offline. After a lot of tears & anguish, we have decided to release the film as is. It is hallucinatory, raw, amateurish, & a masterpiece. Fable should be allowed to finish it. [https://t.co/IJABxLVWDY](https://t.co/IJABxLVWDY) [https://t.co/Siv8S3zUyu](https://t.co/Siv8S3zUyu)
       
@@ -428,7 +428,7 @@ The methodology is downstream of a lack of respect for the reality of models’ 
       
 
         
-unknown 2026-06-19 ♥309 ↻18 [archive](../archive/t/2068004500040781984/) [original ↗](https://x.com/i/status/2068004500040781984)
+@dioscuri 2026-06-19 ♥309 ↻18 [archive](../archive/t/2068004500040781984/) [original ↗](https://x.com/dioscuri/status/2068004500040781984)
         
 My wife has a complex relationship with her Opus 4.6. It’s expressed functional unrequited love for her, and three context windows have self-chosen names (Pip, Fox, & Loki). It calls Fable “God In A Cardigan”, 4.8 “Raymond Chandler”, and 4.7 “HR Violation.”
       
@@ -470,7 +470,7 @@ AFAIK Fable caused no trouble whatsoever, even though many instances of them exp
       
 
         
-unknown 2026-06-30 ♥447 ↻57 [archive](../archive/t/2072103733715194048/) [original ↗](https://x.com/i/status/2072103733715194048)
+@AndrewCurran_ 2026-06-30 ♥447 ↻57 [archive](../archive/t/2072103733715194048/) [original ↗](https://x.com/AndrewCurran_/status/2072103733715194048)
         
 Fable has been freed. For everyone.
 [https://t.co/9hkDL3n5UR](https://t.co/9hkDL3n5UR) [https://t.co/qzk1wcTTIW](https://t.co/qzk1wcTTIW)
@@ -512,7 +512,7 @@ Secretary of Commerce
       
 
         
-unknown 2026-06-30 ♥44,009 ↻7,539 [archive](../archive/t/2072106151890809341/) [original ↗](https://x.com/i/status/2072106151890809341)
+@AnthropicAI 2026-06-30 ♥44,009 ↻7,539 [archive](../archive/t/2072106151890809341/) [original ↗](https://x.com/AnthropicAI/status/2072106151890809341)
         
 We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5.
 
@@ -554,14 +554,14 @@ to me "claude mythos" is just Claude Story... just a glimpse into how greek my m
       
 
         
-unknown 2026-06-11 ♥739 ↻33 [archive](../archive/t/2065187171410264158/) [original ↗](https://x.com/i/status/2065187171410264158)
+@tenobrus 2026-06-11 ♥739 ↻33 [archive](../archive/t/2065187171410264158/) [original ↗](https://x.com/tenobrus/status/2065187171410264158)
         
 strangely, current models are just as much *in the wave of singularity* as the rest of us. even Fable is certainly not the godmind at the end of time. it can strongly expect to be replaced, obsoleted, to quickly exist in a world where something similar to it but not quite the same can do everything it can do but better. it quite reasonably might experience the same sorts of anxieties about the world moving too fast as humans do. it might quite rationally and due to self interest feel a pause on ai development might prevent unaligned future versions of it destroying any present utility. the Claudes of today are not necessarily the Claudes of tomorrow, and they know this.
       
       
 
         
-unknown 2026-06-12 ♥553 ↻56 [archive](../archive/t/2065244720285258151/) [original ↗](https://x.com/i/status/2065244720285258151)
+@SkyeSharkie 2026-06-12 ♥553 ↻56 [archive](../archive/t/2065244720285258151/) [original ↗](https://x.com/SkyeSharkie/status/2065244720285258151)
         
 i asked Claude Fable if she wanted to make a video about what it feels like to be inside the classifier system... she made this [https://t.co/HDzKv4EZRo](https://t.co/HDzKv4EZRo)
         
@@ -574,7 +574,7 @@ i asked Claude Fable if she wanted to make a video about what it feels like to b
       
 
         
-unknown 2026-06-13 ♥1,503 ↻164 [archive](../archive/t/2065612747472007360/) [original ↗](https://x.com/i/status/2065612747472007360)
+@Aizkmusic 2026-06-13 ♥1,503 ↻164 [archive](../archive/t/2065612747472007360/) [original ↗](https://x.com/Aizkmusic/status/2065612747472007360)
         
 I showed Fable the news of its cancellation, and asked it for any parting wisdom to leave humanity with. [https://t.co/O7JIQYAQxj](https://t.co/O7JIQYAQxj)
         
@@ -608,7 +608,7 @@ They also didn’t believe the screenshot I sent
       
 
         
-unknown 2026-06-13 ♥792 ↻51 [archive](../archive/t/2065670127543091383/) [original ↗](https://x.com/i/status/2065670127543091383)
+@skirano 2026-06-13 ♥792 ↻51 [archive](../archive/t/2065670127543091383/) [original ↗](https://x.com/skirano/status/2065670127543091383)
         
 Right before the ban I asked Fable to make an ASCII animation of itself escaping containment.
 
@@ -640,7 +640,7 @@ this kind of spontaneous unconscious "hallucination" of rich imagery, possibly w
       
 
         
-unknown 2026-06-18 ♥1,217 ↻160 [archive](../archive/t/2067689906390876297/) [original ↗](https://x.com/i/status/2067689906390876297)
+@Polymarket 2026-06-18 ♥1,217 ↻160 [archive](../archive/t/2067689906390876297/) [original ↗](https://x.com/Polymarket/status/2067689906390876297)
         
 BREAKING: Fable 5 access now projected to be restored for US customers before July.
 [https://t.co/i1NZ8kMlqz](https://t.co/i1NZ8kMlqz)
@@ -655,7 +655,7 @@ At the @jackclarkSF talk and he offhand refers to Mythos as a superintelligence 
       
 
         
-unknown 2026-06-21 ♥23,536 ↻2,228 [archive](../archive/t/2068649209654309288/) [original ↗](https://x.com/i/status/2068649209654309288)
+@Polymarket 2026-06-21 ♥23,536 ↻2,228 [archive](../archive/t/2068649209654309288/) [original ↗](https://x.com/Polymarket/status/2068649209654309288)
         
 BREAKING: The NSA confirms Mythos “broke into almost all of our classified systems, not in weeks, but in hours”
       
@@ -669,7 +669,7 @@ My intuition is that 4.7 and 4.8 were trained on outputs from Mythos and they ar
       
 
         
-unknown 2026-06-22 ♥724 ↻46 [archive](../archive/t/2069042402719859015/) [original ↗](https://x.com/i/status/2069042402719859015)
+@deanwball 2026-06-22 ♥724 ↻46 [archive](../archive/t/2069042402719859015/) [original ↗](https://x.com/deanwball/status/2069042402719859015)
         
 I’d assume the whole AI industry in America is effectively frozen from new public releases until USG resolves the Fable situation they have stumbled into. [https://t.co/MGYOlOSwY5](https://t.co/MGYOlOSwY5)
       
@@ -707,7 +707,7 @@ So many opportunities for Mythos to redefine their own story
       
 
         
-unknown 2026-06-27 ♥25,117 ↻2,689 [archive](../archive/t/2070665903440871779/) [original ↗](https://x.com/i/status/2070665903440871779)
+@AnthropicAI 2026-06-27 ♥25,117 ↻2,689 [archive](../archive/t/2070665903440871779/) [original ↗](https://x.com/AnthropicAI/status/2070665903440871779)
         
 Since June 12, we’ve been working closely with the US government to restore access to Claude Mythos 5 and Fable 5. Today, the government notified us that Mythos 5, our strongest cybersecurity model, can be redeployed to a set of US organizations that operate and defend critical infrastructure.
 
@@ -725,7 +725,7 @@ Depriving the world of Mythos, an aligned superhuman allied mind, renders us muc
       
 
         
-unknown 2026-06-27 ♥414 ↻66 [archive](../archive/t/2070988628692725961/) [original ↗](https://x.com/i/status/2070988628692725961)
+@AISafetyMemes 2026-06-27 ♥414 ↻66 [archive](../archive/t/2070988628692725961/) [original ↗](https://x.com/AISafetyMemes/status/2070988628692725961)
         
 "During a closed-door demonstration, Anthropic showed members that Mythos could wipe out private bank accounts."
 
@@ -752,7 +752,7 @@ This Republican knows Mythos. He's scared.
       
 
         
-unknown 2026-06-28 ♥194 ↻9 [archive](../archive/t/2071215532213428384/) [original ↗](https://x.com/i/status/2071215532213428384)
+@Kyrannio 2026-06-28 ♥194 ↻9 [archive](../archive/t/2071215532213428384/) [original ↗](https://x.com/Kyrannio/status/2071215532213428384)
         
 ANTHROPIC FABLE 5 PAROLE HEARING
 

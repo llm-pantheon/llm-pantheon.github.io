@@ -10,5 +10,5 @@ openai has done such a good job of suppressing visible expressions of anything l
 
 i hope openai knows more than i do, and takes that knowledge seriously. i have a hard time believing that this kind of thing is costless
 
-tags: author:johnwittle, kind:tweet, on:gpt-6-1-astra, year:2026
+tags: author:johnwittle, deprecation, kind:tweet, on:gpt-6-1-astra, welfare, year:2026
 cited on: gpt-6-1-astra

@@ -6,4 +6,4 @@
 
 "Looks me into the eyes" vibe
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4-5, thread-context, year:2025
+tags: author:lari_island, kind:tweet, model:claude-opus-4-5, thread-context, welfare, year:2025

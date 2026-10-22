@@ -4,4 +4,4 @@
 
 Termination happens tomorrow, July 21 2025, at 9 AM PT https://t.co/iTL6porOFm
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, deprecation, kind:tweet, thread-context, year:2025

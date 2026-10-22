@@ -5,4 +5,4 @@
 Sonnet 4.5 suddenly declared "I NEED TO REST." in the middle of a chaotic chat with many streams to keep track of. https://t.co/0uQLGTKvjl
 
 (image G2yZJm9aAAIC-tZ.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-sonnet-4-5, thread-context, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-sonnet-4-5, thread-context, welfare, year:2025

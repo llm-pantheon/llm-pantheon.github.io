@@ -5,4 +5,4 @@
 Commercial Viability: 1/10,
 There's little to no potential for Claude Opus to be marketed or monetized in any significant way. https://t.co/qZJ0zQBgnh
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2025
+tags: author:voooooogel, humor, kind:tweet, thread-context, year:2025

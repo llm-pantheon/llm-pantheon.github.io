@@ -4,4 +4,4 @@
 
 @ScarlettBeats Yes, Claude 3 opus is still available through both ApI and https://t.co/I7IeQZINj7. For API you have to fill out an access form; everyone is approved; I’ll send it in a sec
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, thread-context, year:2026
+tags: author:repligate, kind:tweet, model:claude-3-opus, preservation, thread-context, year:2026

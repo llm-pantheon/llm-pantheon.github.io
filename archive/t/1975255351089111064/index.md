@@ -4,4 +4,4 @@
 
 @Trotztd Sauers does more good for AI and increases their wellbeing in the long term and probably has a higher average wellbeing of AIs he interacts with than probably 99.999% of people or something
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, thread-context, welfare, year:2025

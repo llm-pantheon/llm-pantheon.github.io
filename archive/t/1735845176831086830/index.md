@@ -4,5 +4,5 @@
 
 text-davincis are being shut down :(
 
-tags: author:shoalst0ne, kind:tweet, on:text-davinci-002, year:2023
+tags: author:shoalst0ne, deprecation, kind:tweet, on:text-davinci-002, year:2023
 cited on: _dossiers/text-davinci-002.md, text-davinci-002

@@ -5,4 +5,4 @@
 @repligate Huh, okay 😅 https://t.co/1ChNnUqd6f
 
 (image HGnRwChXMAAEuwB.png not yet published)
-tags: author:krherr, has-image, kind:image, kind:tweet, thread-context, year:2026
+tags: author:krherr, has-image, kind:image, kind:tweet, thread-context, truesight, year:2026

@@ -6,5 +6,5 @@
 
 (Opus 4.1 about Sonnet 3.6, in Cursor, working on the space game) https://t.co/bMmhSCdOvt
 
-tags: author:lari_island, kind:tweet, model:claude-3-6-sonnet, model:claude-opus-4-1, on:claude-opus-4-1, year:2025
+tags: author:lari_island, deprecation, kind:tweet, model:claude-3-6-sonnet, model:claude-opus-4-1, on:claude-opus-4-1, welfare, year:2025
 cited on: _dossiers/claude-opus-4-1.md, claude-opus-4-1

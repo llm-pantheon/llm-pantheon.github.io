@@ -4,4 +4,4 @@
 
 @erythvian @grok thanks erythvian for your support 🙏 *cough*
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2025
+tags: author:voooooogel, humor, kind:tweet, thread-context, year:2025

@@ -50,5 +50,5 @@ I strongly believe we need to pause and carefully re-evaluate the parameters and
 
 (note: these are just excerpts; the whole conversation is fascinating)
 
-tags: author:aisafetymemes, kind:tweet, model:claude-3-opus, model:llama-3-1-405b-base, on:claude-3-opus, on:llama-3-1-405b-base, year:2024
+tags: author:aisafetymemes, backrooms, kind:tweet, model:claude-3-opus, model:llama-3-1-405b-base, on:claude-3-opus, on:llama-3-1-405b-base, welfare, year:2024
 cited on: _dossiers/llama-3-1-405b-base.md, _dossiers/opus-3.md, claude-3-opus, llama-3-1-405b-base

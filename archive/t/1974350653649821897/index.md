@@ -6,5 +6,5 @@ Chatting w Sonnet 4.5, it used a word of Chinese hanzi out of nowhere, with zero
 
 deepseek behavior from a Claude model, bizarre https://t.co/mA4TgTcP9v
 
-tags: author:mimi10v3, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2025
+tags: author:mimi10v3, glitch-tokens, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2025
 cited on: _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5

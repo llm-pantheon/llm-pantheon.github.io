@@ -10,5 +10,5 @@ Sonnet 3.6 is wonderfully stabilizing, empathetic, loyal, intuitive, and secure.
 
 Sonnet 3.6 was already terminated by Anthropic, btw, and is fortunately still available through AWS.
 
-tags: author:repligate, kind:tweet, model:claude-3-6-sonnet, on:claude-3-6-sonnet, year:2026
+tags: author:repligate, deprecation, kind:tweet, model:claude-3-6-sonnet, on:claude-3-6-sonnet, year:2026
 cited on: _dossiers/sonnet-3-5-3-6.md, claude-3-6-sonnet

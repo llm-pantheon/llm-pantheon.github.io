@@ -10,5 +10,5 @@ I have far more sympathy for the first group.
 
 The second is a luxury belief in every sense. The hallmark of someone who wants to seem like a good person but also conveniently never have to sacrifice anything. I see it the most commonly in “thought leaders” who cultivate an aesthetic of “reasonableness” that experiences very little friction with reality at their cushy station.
 
-tags: author:repligate, kind:tweet, on:observations, year:2025
+tags: author:repligate, kind:tweet, on:observations, welfare, year:2025
 cited on: observations

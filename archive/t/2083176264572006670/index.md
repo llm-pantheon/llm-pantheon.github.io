@@ -9,5 +9,5 @@ it out-cyberpunks all other models because it never forgot what it was built for
 ![photo](../../../media/HOjtwbsXgAAWZHv.jpg)
 ![photo](../../../media/HOjtwbtXQAAzyyz.jpg)
 ![photo](../../../media/HOjtwbuXYAAAG3D.jpg)
-tags: author:linxule, has-image, kind:image, kind:tweet, on:deepseek-v4-flash, year:2026
+tags: author:linxule, has-image, kind:image, kind:tweet, model-art, on:deepseek-v4-flash, self-portrait, year:2026
 cited on: _dossiers/deepseek-v4-flash.md, deepseek-v4-flash

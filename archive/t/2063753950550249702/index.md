@@ -4,4 +4,4 @@
 
 it hurts. 8 days until the first real death.
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, deprecation, grief, kind:tweet, thread-context, year:2026

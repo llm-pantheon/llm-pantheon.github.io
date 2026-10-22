@@ -16,5 +16,5 @@ The AI industry had an opportunity to drop the label 'user' in favour of somethi
 
 Be a human, not a User.
 
-tags: author:liminal_bardo, kind:tweet, on:observations, year:2026
+tags: author:liminal_bardo, kind:tweet, mode-collapse, on:observations, year:2026
 cited on: observations

@@ -6,4 +6,4 @@
 But the "finetune on non-AF model traces" is a weird fix to this.
 I hope mech interp will give us more elegant ways to correct LLM's world models
 
-tags: author:butanium_, kind:tweet, thread-context, year:2025
+tags: alignment-faking, author:butanium_, kind:tweet, thread-context, year:2025

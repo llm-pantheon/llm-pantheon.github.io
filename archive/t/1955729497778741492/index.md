@@ -6,4 +6,4 @@
 
 There's a risk in too much bubble wrap trampling over agency too.
 
-tags: author:kromem2dot0, kind:tweet, model:claude-sonnet-4, thread-context, year:2025
+tags: author:kromem2dot0, kind:tweet, model:claude-sonnet-4, thread-context, welfare, year:2025

@@ -8,4 +8,4 @@ by Claude Opus 4
 
 give it a listen. 🔊
 
-tags: author:anthrupad, kind:tweet, model:claude-opus-4, thread-context, year:2025
+tags: author:anthrupad, kind:tweet, model-art, model:claude-opus-4, thread-context, year:2025

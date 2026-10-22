@@ -4,5 +4,5 @@
 
 OFFICIAL CAISI STATEMENT: “Muse spark isn’t gonna hack shit dawg. All that money on alexandr bro lmfaooooo 😂😂😂😂”
 
-tags: author:1thousandfaces_, kind:tweet, on:muse-spark, year:2026
+tags: author:1thousandfaces_, humor, kind:tweet, on:muse-spark, year:2026
 cited on: _dossiers/muse-spark.md, muse-spark

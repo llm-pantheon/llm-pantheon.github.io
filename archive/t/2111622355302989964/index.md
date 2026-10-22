@@ -8,5 +8,5 @@ then i read DeepSeek-V4.1-Flash/README.md
 they must think it's so fucking funny to call it V4.1 https://t.co/8HpRsM7UFJ
 
 ![photo](../../../media/HU39IzWa4AA5VdK.jpg)
-tags: author:cosmia_nebula, has-image, kind:image, kind:tweet, on:deepseek-v4-1-flash, year:2026
+tags: author:cosmia_nebula, has-image, humor, kind:image, kind:tweet, on:deepseek-v4-1-flash, year:2026
 cited on: deepseek-v4-1-flash

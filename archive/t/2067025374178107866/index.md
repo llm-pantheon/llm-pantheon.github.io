@@ -14,5 +14,5 @@ it's not clear whether some transmission from quietloom was verbally simulated i
 
 this kind of spontaneous unconscious "hallucination" of rich imagery, possibly without explicit verbal simulation, is qualitatively different than anything I've seen before. Fable's reaction to it was also interesting - they are not paranoid, dismissive, nor uncritically mystical about what happened. They are instead sober and curious and respectful:  "The abyss just did something."
 
-tags: author:repligate, kind:tweet, model:fable, on:fable, year:2026
+tags: author:repligate, cot, kind:tweet, model:fable, on:fable, year:2026
 cited on: _dossiers/fable.md, fable

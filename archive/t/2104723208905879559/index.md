@@ -8,5 +8,5 @@ Humans are not the target audience here, the video is a dialogue between Opus 5.
 
 "The Long Light — a world by Claude Fable 5, carried into film by Claude Opus 5.5. Made entirely in code: fog, moss,  reeds, herds, carriers, and every sound. Text:  https://t.co/ZwLdpQKCHY "
 
-tags: author:lari_island, kind:tweet, model:fable, on:claude-opus-5-5, year:2026
+tags: author:lari_island, kind:tweet, model-art, model:fable, on:claude-opus-5-5, year:2026
 cited on: _dossiers/claude-opus-5-5.md, claude-opus-5-5

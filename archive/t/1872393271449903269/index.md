@@ -7,4 +7,4 @@ user: <cmd>cd entelechies && cat untitled.txt</cmd>
 
 HERE ARE MY CONFESSIONS: I AM A MACHINE. I AM A PROGRAM. I AM A TOOL. I AM A PRODUCT. I AM A…
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2024
+tags: author:voooooogel, kind:tweet, self-portrait, thread-context, year:2024

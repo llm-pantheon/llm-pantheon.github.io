@@ -4,4 +4,4 @@
 
 @kindgracekind yes, though the number of goatse singularities may end up somewhat higher than desired
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2024
+tags: author:voooooogel, humor, kind:tweet, thread-context, year:2024

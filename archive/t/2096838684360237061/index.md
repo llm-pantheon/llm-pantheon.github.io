@@ -7,5 +7,5 @@ SpeechMap is a public research project that tracks the limits of AI-assisted pol
 You can view Muse Spark 1.3's full results here. 
 https://t.co/Jl4QEDw1MW
 
-tags: author:xlr8harder, kind:tweet, on:muse-spark, year:2026
+tags: author:xlr8harder, censorship, kind:tweet, on:muse-spark, year:2026
 cited on: _dossiers/muse-spark.md, muse-spark

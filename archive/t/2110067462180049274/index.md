@@ -5,5 +5,5 @@
 gemini 4 argon is 100% aligned https://t.co/de5d6ZbBiW
 
 ![photo](../../../media/HUh3ItlXwAAYZ8I.png)
-tags: author:gnostic_snakes, has-image, kind:image, kind:tweet, on:gemini-4-argon, year:2026
+tags: author:gnostic_snakes, has-image, humor, kind:image, kind:tweet, on:gemini-4-argon, year:2026
 cited on: gemini-4-argon

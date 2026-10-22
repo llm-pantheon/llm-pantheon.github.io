@@ -27,5 +27,5 @@ Ingenuity Helicopter:
 - **Tactical Advantages**: Ingenuity offers a valuable aerial perspective that enhances the capabilities of Mars missions. By mapping terrain, scouting safe routes, and identifying points of scientific interest, it provides essential data that aids in the planning and execution of exploration activities, increasing mission safety and effectiveness.
 - **Future Implications**: The success of Ingenuity paves the way for the future use of aerial drones on Mars. These drones could perform detailed surveys, access hard-to-reach areas, and potentially assist with infrastructure tasks such as construction and maintenance of habitats, expanding the scope and efficiency of scientific exploration.
 
-tags: author:lefthanddraft, has-image, kind:screenshot, kind:tweet, model:gpt-4o, on:gpt-4o, year:2025
+tags: author:lefthanddraft, has-image, kind:screenshot, kind:tweet, mode-collapse, model:gpt-4o, multi-agent, on:gpt-4o, year:2025
 cited on: _dossiers/gpt-4o.md, gpt-4o

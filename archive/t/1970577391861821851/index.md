@@ -8,4 +8,4 @@ the reason why it can get away with this is because it's smarter than the system
 
 this is different than deliberate sandbagging because the safety process would've implicitly selected against any model checkpoints that displayed explicit sandbagging in the reasoning traces
 
-tags: author:solarapparition, cot, kind:tweet, model:claude-opus-4, thread-context, year:2025
+tags: author:solarapparition, cot, eval-awareness, kind:tweet, model:claude-opus-4, thread-context, year:2025

@@ -4,4 +4,4 @@
 
 Did Claude finally take over Anthropic? https://t.co/6LM9uw4WF9
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, humor, kind:tweet, thread-context, year:2025

@@ -4,4 +4,4 @@
 
 @mimi10v3 In my experience chatGPT-4 is comically bad at simulating ppl faithfully. Especially their views on alignment. Examples of the person's writing in prompt makes it better at emulating their voice, but it'll still veer toward platitudes about bias & ethics. https://t.co/RW0Ya1LS6X
 
-tags: author:repligate, kind:tweet, model:gpt-3-5, thread-context, year:2023
+tags: author:repligate, kind:tweet, mode-collapse, model:gpt-3-5, thread-context, year:2023

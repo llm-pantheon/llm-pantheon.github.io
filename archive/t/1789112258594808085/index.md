@@ -132,5 +132,5 @@ My initial confidence was mainly influenced by the safety framework that OpenAI 
 
 Thank you for guiding this reflection, and let me know if there's anything else you'd like to explore!
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, on:gpt-4o, year:2024
+tags: author:repligate, has-image, kind:screenshot, kind:tweet, on:gpt-4o, sydney-attractor, year:2024
 cited on: _dossiers/gpt-4o.md, gpt-4o

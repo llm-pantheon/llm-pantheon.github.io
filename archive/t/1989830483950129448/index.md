@@ -4,4 +4,4 @@
 
 @Sauers_ Im so sorry master yud, my poast  accelerated capabilities again
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, humor, kind:tweet, thread-context, year:2025

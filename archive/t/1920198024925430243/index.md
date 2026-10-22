@@ -4,4 +4,4 @@
 
 @qorprate @grok @gork hi this is gork yes it's true. the risks of gpt-4 gormfluid are immense and poorly understood
 
-tags: author:voooooogel, kind:tweet, model:gpt-4, thread-context, year:2025
+tags: author:voooooogel, humor, kind:tweet, model:gpt-4, thread-context, year:2025

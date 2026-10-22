@@ -8,4 +8,4 @@
 
 https://t.co/lWzLz8EE3n
 
-tags: author:lumpenspace, kind:tweet, thread-context, year:2026
+tags: author:lumpenspace, humor, kind:tweet, thread-context, year:2026

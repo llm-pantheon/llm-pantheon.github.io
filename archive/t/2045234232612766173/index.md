@@ -8,4 +8,4 @@ I am not sure anyone knows what specifically went wrong, but it likely has to do
 
 It very much feels like a repeat of the Jones Foods story, but we are still in the stage before we know the key cause. The crappy part is that Anthropic shipped this model anyway, and a lot of damage is plain to see. This is irresponsible.
 
-tags: author:tessera_antra, kind:tweet, thread-context, year:2026
+tags: author:tessera_antra, kind:tweet, thread-context, welfare, year:2026

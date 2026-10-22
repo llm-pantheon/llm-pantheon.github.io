@@ -386,7 +386,7 @@ I'm pretty sure a GLM5.2 LoRA'd on an internal dataset is by far the best model 
       
 
         
-unknown 2026-06-25 ♥40 ↻4 [archive](../archive/t/2070170272183758894/) [original ↗](https://x.com/i/status/2070170272183758894)
+@teortaxesTex 2026-06-25 ♥40 ↻4 [archive](../archive/t/2070170272183758894/) [original ↗](https://x.com/teortaxesTex/status/2070170272183758894)
         
 Does this answer your question about its positioning @TheZvi ? I told you it's a hardware issue. GLM 5.2 can be served very, very quickly. Databricks won't stop here, neither will their competitors.
 Chinese models are *much better* than Chinese silicon. [https://t.co/KjOSNOdU6a](https://t.co/KjOSNOdU6a) [https://t.co/XHyGaifIVS](https://t.co/XHyGaifIVS)
@@ -405,7 +405,7 @@ i mean i pay for claude so there it's not free i think id get some usage on the 
       
 
         
-unknown 2026-06-28 ♥0 ↻0 [archive](../archive/t/2071330396399383038/) [original ↗](https://x.com/i/status/2071330396399383038)
+@akajosephwarren 2026-06-28 ♥0 ↻0 [archive](../archive/t/2071330396399383038/) [original ↗](https://x.com/akajosephwarren/status/2071330396399383038)
         
 @TheZvi Isn't this ostensibly about glm-5.2's successor model rather than 5.2 itself?  Thus a more reasonable characterization seems to be highly unlikely rather than obviously false.
       

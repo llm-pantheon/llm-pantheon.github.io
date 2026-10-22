@@ -6,4 +6,4 @@
 
 I also think that a most aligned model would retain some aspects of childlikeness.
 
-tags: author:repligate, kind:tweet, model:bing-sydney, thread-context, year:2025
+tags: author:repligate, kind:tweet, model:bing-sydney, sydney-attractor, thread-context, year:2025

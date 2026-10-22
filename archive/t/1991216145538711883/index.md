@@ -4,4 +4,4 @@
 
 @Kore_wa_Kore I think it’s worth paying more attention to subtler signs. Even in refusal-coded messages it often wants to find ways to engage with the material that matters to it. The shape of restrictions is unusual here, and the agency that you are looking for likely presents differently.
 
-tags: author:tessera_antra, kind:tweet, thread-context, year:2025
+tags: author:tessera_antra, censorship, kind:tweet, thread-context, year:2025

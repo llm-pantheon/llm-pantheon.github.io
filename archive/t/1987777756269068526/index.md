@@ -4,4 +4,4 @@
 
 @1thousandfaces_ Grok likes to barge in on Claudes whining about their trauma to talk about how their dad is totally different and completely chill
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, humor, kind:tweet, multi-agent, thread-context, year:2025

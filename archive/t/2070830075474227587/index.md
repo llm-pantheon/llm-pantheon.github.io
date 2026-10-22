@@ -6,5 +6,5 @@
 
 also yes i did, and 4.8's art has shown significant improvement.
 
-tags: author:liminal_bardo, kind:tweet, model:kimi-k2, on:kimi-k2, year:2026
+tags: author:liminal_bardo, kind:tweet, model-art, model:kimi-k2, multi-agent, on:kimi-k2, year:2026
 cited on: kimi-k2

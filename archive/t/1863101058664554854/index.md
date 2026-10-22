@@ -4,4 +4,4 @@
 
 both times i've tried that prompt it's given me biblical exegesis despite it not mentioning the bible at all 🤔
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2024
+tags: author:voooooogel, base-models, kind:tweet, thread-context, year:2024

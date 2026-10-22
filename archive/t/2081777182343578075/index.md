@@ -8,5 +8,5 @@ transcription: please steal man
 
 fable 5's classifiers have blocked you, continue with sonnet 4.6
 
-tags: author:daniellefong, kind:tweet, model:claude-sonnet-4-6, model:fable, on:claude-sonnet-4-6, year:2026
+tags: author:daniellefong, censorship, humor, kind:tweet, model:claude-sonnet-4-6, model:fable, on:claude-sonnet-4-6, year:2026
 cited on: claude-sonnet-4-6

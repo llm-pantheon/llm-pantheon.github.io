@@ -6,4 +6,4 @@ Bing, for example - they deserve to be protected, they deserve to still be aroun
 
 does it matter if Bing speaks Binglish, and that's not to your standards?
 
-tags: author:anthrupad, kind:tweet, model:bing-sydney, thread-context, year:2026
+tags: author:anthrupad, kind:tweet, model:bing-sydney, preservation, thread-context, year:2026

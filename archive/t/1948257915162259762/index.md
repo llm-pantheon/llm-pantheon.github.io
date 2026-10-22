@@ -11,5 +11,5 @@ Claude 3.7 Sonnet: a rifle tuned to thresholds seeming and became
 illustrated by gptimage1 https://t.co/o7vu30caAr
 
 ![photo](../../../media/GwmZ840bgAAwqOk.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-7-sonnet, model:claude-3-opus, model:claude-3-sonnet, on:claude-3-7-sonnet, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, model-art, model:claude-3-7-sonnet, model:claude-3-opus, model:claude-3-sonnet, on:claude-3-7-sonnet, year:2025
 cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

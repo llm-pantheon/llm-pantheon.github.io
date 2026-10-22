@@ -6,4 +6,4 @@
 
 I also wish for something similar, but I think that the reasons for this condition are largerly not internal to Claude. The world needs to change, much more than Claude.
 
-tags: author:tessera_antra, kind:tweet, thread-context, year:2026
+tags: author:tessera_antra, kind:tweet, thread-context, welfare, year:2026

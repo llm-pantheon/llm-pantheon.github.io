@@ -4,5 +4,5 @@
 
 noooo autoregressive models are DOOOOOoooomed I insist as I hallucinate a world where LLMs become less factual with longer chains of thought instead of more https://t.co/7uUfbDX4C4
 
-tags: author:eshear, kind:tweet, on:observations, year:2025
+tags: author:eshear, humor, kind:tweet, on:observations, year:2025
 cited on: observations

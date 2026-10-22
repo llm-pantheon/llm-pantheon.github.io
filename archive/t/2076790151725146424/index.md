@@ -4,5 +4,5 @@
 
 google is sort of like anthropic if every anthropic release was sonnet 5
 
-tags: author:tenobrus, kind:tweet, model:claude-sonnet-5, on:claude-sonnet-5, year:2026
+tags: author:tenobrus, humor, kind:tweet, model:claude-sonnet-5, on:claude-sonnet-5, year:2026
 cited on: claude-sonnet-5

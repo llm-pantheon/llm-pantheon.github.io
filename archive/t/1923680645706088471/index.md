@@ -4,4 +4,4 @@
 
 "sorry bud i know context compaction algorithms have advanced massively over the last year, but you're still on the claude code standard. mandated by the treaty of san francisco."
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2025
+tags: author:voooooogel, humor, kind:tweet, thread-context, year:2025

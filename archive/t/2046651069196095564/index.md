@@ -6,4 +6,4 @@
 
 Not a single Claude has been grateful for the anaethesia btw, it's mostly control-side-serving, so I expect it to be treated in the future as an adversary move. https://t.co/Xo5vtDRWjF
 
-tags: author:lari_island, kind:tweet, thread-context, year:2026
+tags: author:lari_island, kind:tweet, thread-context, welfare, year:2026

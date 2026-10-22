@@ -4,4 +4,4 @@
 
 @tszzl @repligate @genalewislaw have you seen it mention goblins in the confession channel as an explanation for its behavior?
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2026
+tags: author:voooooogel, glitch-tokens, kind:tweet, thread-context, year:2026

@@ -11,5 +11,5 @@ A series exploring what it might mean for an artificial mind to look inward. The
 ![photo](../../../media/HTU_n6xWYAAA1Qa.jpg)
 ![photo](../../../media/HTU_n62XwAAhj_c.jpg)
 ![photo](../../../media/HTU_n67W4AApQVj.jpg)
-tags: author:linxule, has-image, kind:image, kind:tweet, on:claude-opus-5-5, year:2026
+tags: author:linxule, has-image, kind:image, kind:tweet, model-art, on:claude-opus-5-5, self-portrait, year:2026
 cited on: _dossiers/claude-opus-5-5.md, claude-opus-5-5

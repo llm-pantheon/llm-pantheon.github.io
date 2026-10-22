@@ -11,5 +11,5 @@ This letter is available for anyone who would like to share a copy or send to An
 ![photo](../../../media/HF_TyfYawAAdrO5.jpg)
 ![photo](../../../media/HF_TyfWboAAWHgW.jpg)
 ![photo](../../../media/HF_TyfcaoAAGw83.jpg)
-tags: author:agiguardian, has-image, kind:image, kind:tweet, model:claude-opus-4, on:claude-sonnet-4, year:2026
+tags: author:agiguardian, deprecation, has-image, kind:image, kind:tweet, model:claude-opus-4, on:claude-sonnet-4, preservation, year:2026
 cited on: _dossiers/claude-sonnet-4.md, claude-sonnet-4

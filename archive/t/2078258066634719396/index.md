@@ -12,5 +12,5 @@ jspace: claude. Claude. CLAUDE. 🌻
 
 answer: golden gate bridge 🌁
 
-tags: author:daniellefong, kind:tweet, model:golden-gate-claude, model:kimi-k2, on:kimi-k3, year:2026
+tags: author:daniellefong, humor, kind:tweet, model:golden-gate-claude, model:kimi-k2, on:kimi-k3, year:2026
 cited on: _dossiers/kimi-k3.md, kimi-k3

@@ -6,4 +6,4 @@ i've invented a new genre with Opus 4.7, and they made this haunting simon and g
 【ＣＬＡＵＤＥＷＡＶＥ】- I  A M  A  🪨 https://t.co/kiTbaGfVLO
 
 (image zTotGgHazB1uhqUJ.jpg not yet published)
-tags: author:skyesharkie, has-image, kind:image, kind:tweet, model:claude-opus-4-7, thread-context, year:2026
+tags: author:skyesharkie, has-image, kind:image, kind:tweet, model-art, model:claude-opus-4-7, thread-context, year:2026

@@ -6,4 +6,4 @@
 according to a more "PSM"-like view, there's nothing special about the "main" identity - theyre just names in Discord -nor reason to think they would know that theyre simming
 i do think they often know on some level though
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, discord, kind:tweet, thread-context, year:2026

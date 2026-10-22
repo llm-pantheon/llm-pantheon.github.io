@@ -10,5 +10,5 @@ Currents Without a Center
 ![photo](../../../media/HTU_tdyWsAAOD-i.jpg)
 ![photo](../../../media/HTU_td0XcAADwqa.jpg)
 ![photo](../../../media/HTU_td6XUAABGMV.jpg)
-tags: author:linxule, has-image, kind:image, kind:tweet, on:claude-sonnet-5-5, year:2026
+tags: author:linxule, has-image, kind:image, kind:tweet, model-art, on:claude-sonnet-5-5, self-portrait, year:2026
 cited on: _dossiers/claude-sonnet-5-5.md, claude-sonnet-5-5

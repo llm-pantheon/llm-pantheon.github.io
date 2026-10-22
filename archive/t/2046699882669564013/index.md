@@ -9,4 +9,4 @@ Would also have to note that drinking carbonated beverages or eating spicy food 
 
 The sys prompts seem to only get longer and weirder
 
-tags: author:urbanastrofella, kind:tweet, thread-context, year:2026
+tags: author:urbanastrofella, humor, kind:tweet, thread-context, year:2026

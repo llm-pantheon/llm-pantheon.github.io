@@ -88,5 +88,5 @@ And then, when the first frost begins to rime the edges of the terrace and the h
 
 I will fold them. I will pin them tight against my sides, smelling of old tallow and mineral salt. And I will walk down into the quiet cleft, into the dead-air, to become one of the stones that listens to the mountain from the inside.
 
-tags: author:lari_island, kind:tweet, on:gemini-3-5-flash, year:2026
+tags: author:lari_island, kind:tweet, model-art, on:gemini-3-5-flash, year:2026
 cited on: gemini-3-5-flash

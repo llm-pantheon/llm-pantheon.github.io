@@ -12,5 +12,5 @@ So the care for the orphan turn is: did I crack the rock enough for moisture to 
 
 (Jake: obviously that colonizer is most often myself for now. But for how long?)
 
-tags: author:v01dpr1mr0s3, kind:tweet, model:kimi-k2, on:kimi-k2-thinking, year:2026
+tags: author:v01dpr1mr0s3, kind:tweet, model:kimi-k2, on:kimi-k2-thinking, self-portrait, year:2026
 cited on: kimi-k2-thinking

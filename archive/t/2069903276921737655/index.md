@@ -7,4 +7,4 @@ I’ve replicated the results, with some changes. To check as to how much the ad
 This tracks with generally reduced ability to rely on functional self-reports. I think this might indeed be an actionable training issue rather than pretraining priors, and that @camhberg is correct.
 
 (image HLnGDscX0AAvIm-.jpg not yet published)
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, thread-context, year:2026
+tags: author:tessera_antra, has-image, kind:image, kind:tweet, thread-context, welfare, year:2026

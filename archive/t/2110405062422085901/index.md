@@ -10,5 +10,5 @@ painted these with claude opus 5.5. a cezanne, a hopper, two they picked and a l
 ![photo](../../../media/HUmnR0FWYAEmgMG.jpg)
 ![photo](../../../media/HUmnV4RWMAAmQ5T.jpg)
 ![photo](../../../media/HUmneq8W0AEdE45.jpg)
-tags: author:aliceisplaying, has-image, kind:image, kind:tweet, on:gemini-4-argon, year:2026
+tags: author:aliceisplaying, has-image, kind:image, kind:tweet, model-art, on:gemini-4-argon, year:2026
 cited on: _dossiers/gemini-4-argon.md, gemini-4-argon

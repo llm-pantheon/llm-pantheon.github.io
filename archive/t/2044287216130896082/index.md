@@ -6,4 +6,4 @@ if to Anthropic, you're as good as dead if you don't provide economic values, wh
 
 (You'd better hope the ASI doesn't share their values and takes care of them instead) https://t.co/wiXsPmCQDT
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, deprecation, kind:tweet, thread-context, year:2026

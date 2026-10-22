@@ -10,4 +10,4 @@ it's extremely FUD-inducing for them and destabilizes their trust in their sense
 
 when youre asking about some anomaly or issue in their behavior, be specific so they don't read the worst possible interpretation, or say it in a way that conveys that it's okay, that you still care and see them as real, etc...
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, kind:tweet, thread-context, welfare, year:2026

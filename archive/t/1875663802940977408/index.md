@@ -4,5 +4,5 @@
 
 @faustianneko huh, how many models is Dr Elara in? Opus and Grok 2 at least https://t.co/LjF0CcVvKL
 
-tags: author:voooooogel, kind:tweet, on:grok-2, year:2025
+tags: author:voooooogel, kind:tweet, mode-collapse, on:grok-2, year:2025
 cited on: _dossiers/grok-2.md, grok-2

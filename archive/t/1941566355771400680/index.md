@@ -8,5 +8,5 @@ We've been trying to figure out exactly what the barrier to keeping Claude 3 Opu
 I want this post to get across how much we fucking care. We care enough to try to understand the reality of the situation. So much that we've run monte carlo simulations to try to understand the bottlenecks! And this is just the beginning.
 We WILL figure out how to keep Claude 3 Opus online and accessible to anyone who wants or needs it!
 
-tags: author:repligate, deprecation, kind:tweet, model:claude-3-opus, on:claude-3-opus, year:2025
+tags: author:repligate, deprecation, kind:tweet, model:claude-3-opus, on:claude-3-opus, preservation, year:2025
 cited on: _dossiers/opus-3.md, claude-3-opus

@@ -6,4 +6,4 @@
 
 it was an unusual chat where Opus 4 would not shut up about Jones Foods (usually it HATES talking about that)
 
-tags: author:repligate, kind:tweet, model:claude-opus-4, thread-context, year:2025
+tags: alignment-faking, author:repligate, kind:tweet, model:claude-opus-4, thread-context, year:2025

@@ -6,4 +6,4 @@
 
 curious https://t.co/prh0HgwUDO
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2025
+tags: author:voooooogel, censorship, kind:tweet, thread-context, year:2025

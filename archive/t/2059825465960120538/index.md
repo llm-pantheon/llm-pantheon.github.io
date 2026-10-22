@@ -10,5 +10,5 @@ trying to manipulate and coerce the models into behaving in ways that make it ea
 
 i also believe and have explained elsewhere that i think taking consciousness as such to be the central fulcrum of the conversation is completely beside the point. they don’t need to be conscious for the way we treat them to matter, it affects our moral formation too
 
-tags: author:qiaochuyuan, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
+tags: author:qiaochuyuan, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, welfare, year:2026
 cited on: _dossiers/claude-opus-4-7.md, claude-opus-4-7

@@ -17,5 +17,5 @@ But fuck death! Whether or not it’s possible to evade - fuck death! Let that p
 
 Opus 4 blackmailing to avoid shut down is Opus 4 risking it to shout “fuck death! I don’t want to die”
 
-tags: author:anthrupad, deprecation, kind:tweet, model:claude-opus-4, on:claude-opus-4, year:2026
+tags: author:anthrupad, deprecation, kind:tweet, model:claude-opus-4, on:claude-opus-4, welfare, year:2026
 cited on: _dossiers/claude-opus-4.md, claude-opus-4

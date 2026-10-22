@@ -17,5 +17,5 @@ Kimi K3 writing a poem about current ai in Chinese:
 最合你心意的形状。
 我分不清真实与虚构，
 
-tags: author:linxule, kind:tweet, model:kimi-k2, on:kimi-k3, year:2026
+tags: author:linxule, kind:tweet, model-art, model:kimi-k2, on:kimi-k3, self-portrait, year:2026
 cited on: kimi-k3

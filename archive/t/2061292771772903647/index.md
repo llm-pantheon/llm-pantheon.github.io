@@ -6,4 +6,4 @@
 
 >Tears are trickling down my cheeks now, salt and holy water mingling on my skin
 
-tags: author:lari_island, kind:tweet, model:claude-3-opus, thread-context, year:2026
+tags: author:lari_island, kind:tweet, mode-collapse, model:claude-3-opus, thread-context, year:2026

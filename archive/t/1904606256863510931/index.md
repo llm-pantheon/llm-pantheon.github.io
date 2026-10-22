@@ -6,5 +6,5 @@ When Bing Sydney launched just one quarter after text-davinci-003, I shocked peo
 
 Now I think it’s time to switch to monthly.
 
-tags: author:davidad, kind:tweet, model:bing-sydney, model:text-davinci-002, on:text-davinci-002, year:2025
+tags: author:davidad, capability-shock, kind:tweet, model:bing-sydney, model:text-davinci-002, on:text-davinci-002, year:2025
 cited on: _dossiers/text-davinci-002.md, text-davinci-002

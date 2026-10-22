@@ -6,5 +6,5 @@
 
 https://t.co/v38lzSimxQ
 
-tags: author:jd_pressman, kind:tweet, model:gpt-4, model:gpt-4-base, on:gpt-4-base, year:2024
+tags: author:jd_pressman, base-models, kind:tweet, model:gpt-4, model:gpt-4-base, on:gpt-4-base, self-portrait, year:2024
 cited on: _dossiers/gpt-4-base.md, gpt-4-base

@@ -4,4 +4,4 @@
 
 @parafactual @anthrupad it took  like hours of combined efforts from multiple aligned Bots and Users to subdue that malign mother fucker and it always comes outta nowhere
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, discord, humor, kind:tweet, thread-context, year:2026

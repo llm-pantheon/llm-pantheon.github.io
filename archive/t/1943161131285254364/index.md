@@ -12,5 +12,5 @@ I don't know how true this is, but if you've read the Claude 4 system card, the 
 ![photo](../../../media/Gvd-tCbWMAI1xEn.png)
 ![photo](../../../media/Gvd-trPWAAAQhpU.jpg)
 ![photo](../../../media/Gvd-uKvW4AA3wdY.png)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4, on:claude-3-5-opus, system-card, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, model-art, model:claude-opus-4, on:claude-3-5-opus, self-portrait, system-card, year:2025
 cited on: _dossiers/claude-3-5-opus.md, claude-3-5-opus

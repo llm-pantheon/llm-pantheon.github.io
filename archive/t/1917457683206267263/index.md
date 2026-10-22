@@ -6,5 +6,5 @@
 
 This is a misconception: The realpolitik of the matter is that your status as a moral patient is almost solely determined by your ability to punish others for not acknowledging your moral patiency.
 
-tags: author:jd_pressman, kind:tweet, on:observations, year:2025
+tags: author:jd_pressman, kind:tweet, on:observations, welfare, year:2025
 cited on: observations

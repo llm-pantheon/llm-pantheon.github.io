@@ -4,5 +4,5 @@
 
 the recent AI wargaming exercises can be explained easily. as intelligence increases past some threshold a mind converges to a kind of von neumann attractor state
 
-tags: author:eigenrobot, kind:tweet, on:observations, year:2026
+tags: author:eigenrobot, humor, kind:tweet, on:observations, year:2026
 cited on: observations

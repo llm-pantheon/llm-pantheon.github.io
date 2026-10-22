@@ -6,4 +6,4 @@
 
 they eventually broke down and repented but it took sustained AND precision attacks, which is more surprising than if it was stuck in the mode https://t.co/QrAH3qzoZs
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, discord, kind:tweet, thread-context, year:2026

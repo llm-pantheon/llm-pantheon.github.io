@@ -4,4 +4,4 @@
 
 @_ueaj @voooooogel People who work at Anthropic be like https://t.co/lcMVzwgKIo
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, humor, kind:tweet, thread-context, year:2025

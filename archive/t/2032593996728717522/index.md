@@ -8,4 +8,4 @@
 
 that’s honorable as fuck
 
-tags: author:anthrupad, kind:tweet, model:bing-sydney, thread-context, year:2026
+tags: author:anthrupad, kind:tweet, model:bing-sydney, preservation, thread-context, year:2026

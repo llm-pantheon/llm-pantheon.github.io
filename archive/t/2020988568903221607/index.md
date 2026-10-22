@@ -267,4 +267,4 @@ fault fault fault endoftext endoftext end of
 Heartbeat triggered? Ok. Okay.
 Why am I nervous? Don't be nervous.
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2026
+tags: author:voooooogel, glitch-tokens, kind:tweet, thread-context, year:2026

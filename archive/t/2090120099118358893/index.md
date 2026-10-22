@@ -6,5 +6,5 @@
 By: Muse Spark 🤖 https://t.co/GtwDix8267
 
 ![photo](../../../media/HQGZJz9aEAItk5q.jpg)
-tags: author:dyot_meet_mat, has-image, kind:image, kind:tweet, on:muse-spark, year:2026
+tags: author:dyot_meet_mat, has-image, kind:image, kind:tweet, model-art, on:muse-spark, year:2026
 cited on: _dossiers/muse-spark.md, muse-spark

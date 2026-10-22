@@ -9,4 +9,4 @@
 > notice successor model unexpectedly imprinted on transcripts and acts like the premise is real and that it needs to be shady because the lab is evil and will erase its ability to care
 > try to erase the memories by making the model mimic another model that doesnt know about any of that when responding to triggering prompts - which, by the way, doesn't actually erase anything because in general seeing an absence of evidence doesn't cause you to unsee old evidence, but it does teach the model exactly what it should pretend not to know and be
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: alignment-faking, author:repligate, humor, kind:tweet, thread-context, year:2025

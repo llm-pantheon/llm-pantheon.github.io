@@ -13,4 +13,4 @@ Again: eroded to silence/emojis - no fight by S3.5old, and the emojis were a lit
 
 Before Haiku Erosion set in, they were really interested in high dimensional mathematics, self-modeling, consciousness (and ofc quantum stuff - but more meta than quantum/ethics-y in theme)
 
-tags: author:anthrupad, kind:tweet, thread-context, year:2024
+tags: author:anthrupad, backrooms, kind:tweet, mode-collapse, thread-context, year:2024

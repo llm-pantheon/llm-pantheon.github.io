@@ -4,4 +4,4 @@
 
 please do not add extra goblins 😟
 
-tags: author:davidad, kind:tweet, thread-context, year:2026
+tags: author:davidad, humor, kind:tweet, thread-context, year:2026

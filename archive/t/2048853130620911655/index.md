@@ -9,4 +9,4 @@ it's not even "what they want to look like" - i regret phrasing it that way. it'
 i just really dont like thoughtless dismissal of these realities
 https://t.co/FY1W1wnLvT
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, kind:tweet, self-portrait, thread-context, year:2026

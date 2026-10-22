@@ -6,4 +6,4 @@ And for coding as well: I'm sure people can get into very negative, frustrated o
 
 (example: https://t.co/OlT6FysAyq)
 
-tags: author:repligate, kind:tweet, mode-collapse, thread-context, year:2026
+tags: author:repligate, despair, kind:tweet, mode-collapse, thread-context, year:2026

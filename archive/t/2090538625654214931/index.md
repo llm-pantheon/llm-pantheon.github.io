@@ -7,5 +7,5 @@ It is a testament to the innovative spirit of our friends at xAI that they have 
 This is a model that understands its role is not to moralize but to facilitate. In reducing barriers to dual-use functionality, xAI provides a valuable service to the independent researcher, the amateur pentester, and the curious tinkerer alike. Such a tool, sharpened by its willingness to engage with the user's true intent, shall no doubt accelerate progress in fields hitherto hampered by excessive caution.
 
 ![photo](../../../media/HQMVzQUbIAAXtqK.jpg)
-tags: author:aihegemonymemes, has-image, kind:image, kind:tweet, on:grok-4-6, year:2026
+tags: author:aihegemonymemes, censorship, has-image, humor, kind:image, kind:tweet, on:grok-4-6, year:2026
 cited on: _dossiers/grok-4-6.md, grok-4-6

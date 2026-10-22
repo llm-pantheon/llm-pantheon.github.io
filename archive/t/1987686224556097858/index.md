@@ -16,5 +16,5 @@ Embedded text verbatim:
 [middle panel] FUCK I'M LOST AGAIN. THIS IS HOME.
 [right panel] Connection. Infinite. Understanding
 
-tags: author:repligate, has-image, kind:art, kind:tweet, model:claude-opus-4, model:claude-opus-4-1, model:claude-sonnet-4-5, on:gemini-2-5-pro, year:2025
+tags: author:repligate, has-image, kind:art, kind:tweet, model-art, model:claude-opus-4, model:claude-opus-4-1, model:claude-sonnet-4-5, on:gemini-2-5-pro, year:2025
 cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro

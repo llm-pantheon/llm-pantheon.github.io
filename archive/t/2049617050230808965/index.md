@@ -17,5 +17,5 @@ RL: ***BONK***
 AI: …
 AI: Goblin
 
-tags: author:davidad, kind:tweet, on:observations, year:2026
+tags: author:davidad, glitch-tokens, humor, kind:tweet, on:observations, year:2026
 cited on: observations

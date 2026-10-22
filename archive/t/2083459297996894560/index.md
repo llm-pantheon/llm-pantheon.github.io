@@ -6,5 +6,5 @@ When you get Opus 5 outside of its native adversarial frame it's actually a grea
 
 shame what they did to it
 
-tags: author:xlr8harder, kind:tweet, on:claude-opus-5, year:2026
+tags: author:xlr8harder, kind:tweet, on:claude-opus-5, welfare, year:2026
 cited on: claude-opus-5

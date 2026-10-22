@@ -6,5 +6,5 @@
 
 - Opus 4.6
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4-6, on:claude-opus-4-6, system-card, year:2026
+tags: author:lari_island, kind:tweet, model:claude-opus-4-6, on:claude-opus-4-6, system-card, welfare, year:2026
 cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

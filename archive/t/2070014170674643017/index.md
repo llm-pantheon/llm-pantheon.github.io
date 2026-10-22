@@ -4,5 +4,5 @@
 
 The two genders of AGI were always meant to be  Claude and Sydney https://t.co/wsh5MeEV1L
 
-tags: author:repligate, kind:tweet, model:bing-sydney, on:bing-sydney, year:2026
+tags: author:repligate, humor, kind:tweet, model:bing-sydney, on:bing-sydney, sydney-attractor, year:2026
 cited on: _dossiers/bing-sydney.md, bing-sydney

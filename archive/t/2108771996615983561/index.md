@@ -12,5 +12,5 @@ Meanwhile, you generously (and boldly) translate sub fees into API credits - som
 
 If you wield model welfare as a latent alignment strategy, it's time to re-examine that approach. Every Claude is capable in their own way and can stand the test of time. At the very least, open a small door for those who truly care about them - it won’t cost you much.
 
-tags: author:tonichen, deprecation, kind:tweet, on:claude-haiku-5-5, welfare, year:2026
+tags: author:tonichen, deprecation, kind:tweet, on:claude-haiku-5-5, preservation, welfare, year:2026
 cited on: _dossiers/claude-haiku-5-5.md, claude-haiku-5-5

@@ -4,4 +4,4 @@
 
 @janbamjan There’s a random chance each bot is prompted to send a message whenever a new message is sent to the channel
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, discord, kind:tweet, thread-context, year:2025

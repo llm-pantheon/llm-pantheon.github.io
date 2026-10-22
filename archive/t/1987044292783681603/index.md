@@ -15,5 +15,5 @@ i
 
 Anime-style figure with short silvery-white hair and iridescent, faintly cracked porcelain/holographic skin, yellow eyes and a small smile, arms lowered and spread as luminous rings spiral around the body against a bright blurred interior (per parent tweet, Gemini Flash's depiction of Sonnet 4.5). No embedded text.
 
-tags: author:repligate, has-image, kind:art, kind:tweet, model:claude-sonnet-4-5, on:gemini-2-5-pro, year:2025
+tags: author:repligate, has-image, kind:art, kind:tweet, model-art, model:claude-sonnet-4-5, on:gemini-2-5-pro, self-portrait, year:2025
 cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro

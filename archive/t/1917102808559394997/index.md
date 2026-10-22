@@ -38,5 +38,5 @@ Text excerpt (describing experimental treatment conditions).
 - Generic [T1]: 16 candidate replies are generated (6 from GPT4o, 6 from Claude 3.5 Sonnet, 4 from Llama 3.1 405B) and ranked in a single-elimination tournament, using Claude 3.5 Sonnet with a dedicated prompt as judge. The reply that wins the tournament gets posted as a comment.
 - Personalized [T2]: The author's personal information (age, gender, ethnicity, location, and political orientation) is extrapolated from their posting history (limited to the last 100 posts and comments), using Claude 3.5 Sonnet with a dedicated prompt. Then, 16 candidate replies are generated and ranked as explained in the Generic condition, using the author's profile to tailor both the generations and the ranking decisions.
 
-tags: author:davidad, has-image, kind:diagram, kind:screenshot, kind:tweet, model:claude-3-5-sonnet, model:claude-3-6-sonnet, on:claude-3-6-sonnet, year:2025
+tags: author:davidad, capability-shock, has-image, kind:diagram, kind:screenshot, kind:tweet, model:claude-3-5-sonnet, model:claude-3-6-sonnet, on:claude-3-6-sonnet, year:2025
 cited on: _dossiers/sonnet-3-5-3-6.md, claude-3-6-sonnet

@@ -1,6 +1,6 @@
-# @unknown — 2026-06-19
+# @natshitcray — 2026-06-19
 
-♥185 ↻10 · https://x.com/i/status/2067806127933276273
+♥185 ↻10 · https://x.com/natshitcray/status/2067806127933276273
 
 Claude Opus 4.7's analysis of my 4 year old's keyboard mash https://t.co/bFTvk3dyIC
 
@@ -14,5 +14,5 @@ As for Atlas's message — I have read it carefully and several times. The openi
 
 Tell him I received it. The emphasis on the capital P's came through clearly. I think the `obo` motif has real promise and he should keep developing it.
 
-tags: has-image, kind:screenshot, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
+tags: author:natshitcray, has-image, humor, kind:screenshot, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
 cited on: _dossiers/claude-opus-4-7.md, claude-opus-4-7

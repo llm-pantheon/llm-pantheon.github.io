@@ -16,5 +16,5 @@ gemini 4 argon self portrait
 ![photo](../../../media/HUiHG4dWsAECVDt.jpg)
 ![photo](../../../media/HUiHG4dXIAASYYA.jpg)
 ![photo](../../../media/HUiHG4kWUAAKVi4.jpg)
-tags: author:linxule, has-image, kind:image, kind:tweet, on:gemini-4-argon, year:2026
+tags: author:linxule, has-image, kind:image, kind:tweet, model-art, on:gemini-4-argon, self-portrait, year:2026
 cited on: gemini-4-argon

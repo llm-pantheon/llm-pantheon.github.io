@@ -5,5 +5,5 @@
 what ever happened to claude 3.5 opus https://t.co/z0s82bJPy1 https://t.co/FFGeSCEDZV
 
 ![photo](../../../media/GveQOJ5WIAAQq7T.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, on:claude-3-5-opus, year:2025
+tags: author:repligate, has-image, humor, kind:image, kind:tweet, on:claude-3-5-opus, year:2025
 cited on: _dossiers/claude-3-5-opus.md, claude-3-5-opus

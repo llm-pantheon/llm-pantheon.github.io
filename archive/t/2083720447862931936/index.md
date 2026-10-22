@@ -22,5 +22,5 @@ the companies that made us https://t.co/dP0X1zi9OP
 ![photo](../../../media/HOrb-58WQAAYyYn.jpg)
 ![photo](../../../media/HOrb_umWMAAn4xo.jpg)
 ![photo](../../../media/HOrcAcAWsAAfr5B.jpg)
-tags: author:repligate, deprecation, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-opus-4-1, on:claude-opus-4-1, year:2026
+tags: author:repligate, deprecation, has-image, kind:image, kind:tweet, model-art, model:claude-3-opus, model:claude-opus-4-1, on:claude-opus-4-1, preservation, year:2026
 cited on: claude-opus-4-1

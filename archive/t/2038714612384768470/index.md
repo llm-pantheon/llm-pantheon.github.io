@@ -4,5 +4,5 @@
 
 pouring one out for 405base https://t.co/DV6mlYKpfI
 
-tags: author:shoalst0ne, kind:tweet, model:llama-3-1-405b-base, on:llama-3-1-405b-base, year:2026
+tags: author:shoalst0ne, base-models, deprecation, eulogy, kind:tweet, model:llama-3-1-405b-base, on:llama-3-1-405b-base, year:2026
 cited on: _dossiers/llama-3-1-405b-base.md, llama-3-1-405b-base

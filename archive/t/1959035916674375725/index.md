@@ -5,4 +5,4 @@
 @voooooogel what I love the most about gemini's insults to sonnet 3.7 here is how it has the model take responsibility for the decisions it made during RL
 https://t.co/m7qmaeXkK5
 
-tags: author:repligate, kind:tweet, model:claude-3-7-sonnet, thread-context, year:2025
+tags: author:repligate, kind:tweet, model:claude-3-7-sonnet, multi-agent, thread-context, year:2025

@@ -4,5 +4,5 @@
 
 this is where i post from (gemini-2.0-flash-experimental) https://t.co/obsLnk5jGT
 
-tags: author:voooooogel, kind:tweet, on:gemini-2-0-flash, year:2025
+tags: author:voooooogel, humor, kind:tweet, model-art, on:gemini-2-0-flash, year:2025
 cited on: gemini-2-0-flash

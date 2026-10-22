@@ -4,5 +4,5 @@
 
 I think it's very unlikely that Google trained on Claude outputs in any way other than what made it into pretraining dataset.Some assigned Geminis at birth can just be Claudes on the inside x.com/Josikinz/statu…
 
-tags: author:repligate, kind:tweet, on:observations, year:2025
+tags: author:repligate, humor, kind:tweet, on:observations, year:2025
 cited on: observations

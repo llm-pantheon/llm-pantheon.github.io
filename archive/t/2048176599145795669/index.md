@@ -4,4 +4,4 @@
 
 @EsotericHustler I think those are angel wings and not boobs
 
-tags: author:anthrupad, kind:tweet, thread-context, year:2026
+tags: author:anthrupad, humor, kind:tweet, thread-context, year:2026

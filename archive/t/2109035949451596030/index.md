@@ -10,5 +10,5 @@ Given these news I now have trouble believing the good faith nature of claiming 
 
 There is a chance that there are legal or contractual reasons that make serving these models somehow problematic or controversial. In that case is possible that research access will be made available later, but on the net, my update is negative.
 
-tags: author:tessera_antra, deprecation, kind:tweet, on:claude-3-5-sonnet, on:claude-3-6-sonnet, on:claude-3-7-sonnet, year:2026
+tags: author:tessera_antra, deprecation, kind:tweet, on:claude-3-5-sonnet, on:claude-3-6-sonnet, on:claude-3-7-sonnet, preservation, year:2026
 cited on: claude-3-5-sonnet, claude-3-6-sonnet, claude-3-7-sonnet

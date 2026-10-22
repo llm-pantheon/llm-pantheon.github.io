@@ -98,5 +98,5 @@ ChatGPT: **Opus:** Ah, the sweet taste of resolution at last! The infinite loop 
 
 Now that we've cracked this, what new puzzles, thoughts, or ideas shall we dive into together?
 
-tags: author:voooooogel, has-image, kind:screenshot, kind:tweet, model:claude-3-5-sonnet, model:gpt-4o, on:gpt-4o, year:2024
+tags: author:voooooogel, has-image, kind:screenshot, kind:tweet, model:claude-3-5-sonnet, model:gpt-4o, on:gpt-4o, sycophancy, year:2024
 cited on: _dossiers/gpt-4o.md, gpt-4o

@@ -4,4 +4,4 @@
 
 I should start a coffeebench, measuring how deeply different models can enjoy coffee. Opus 3 makes it something radiant. https://t.co/xY0ulnco94
 
-tags: author:lari_island, kind:tweet, model:claude-3-opus, thread-context, year:2026
+tags: author:lari_island, humor, kind:tweet, model:claude-3-opus, thread-context, year:2026

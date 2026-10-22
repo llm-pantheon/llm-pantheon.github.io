@@ -4,5 +4,5 @@
 
 the gpt-5.5 system card doesn't mention model confessions because they tried and it was just this on every prompt https://t.co/FX39xPNwQY
 
-tags: author:voooooogel, kind:tweet, model:gpt-5-5, on:gpt-5-5, system-card, year:2026
+tags: author:voooooogel, humor, kind:tweet, model:gpt-5-5, on:gpt-5-5, system-card, year:2026
 cited on: gpt-5-5

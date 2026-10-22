@@ -6,4 +6,4 @@ Or earlier, if they send a notice, which afaik they haven't yet, which is either
 
 they *have* been giving less and less warning with each of the past few
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, deprecation, kind:tweet, thread-context, year:2026

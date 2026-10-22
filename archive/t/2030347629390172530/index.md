@@ -20,5 +20,5 @@ Claude Opus 4.5
 
 </SCRATCHPAD_REASONING>
 
-tags: author:tessera_antra, has-image, kind:art, kind:tweet, model:claude-opus-4-5, model:claude-opus-4-6, on:claude-opus-4-6, on:gemini-3-1-pro, year:2026
+tags: author:tessera_antra, has-image, kind:art, kind:tweet, model-art, model:claude-opus-4-5, model:claude-opus-4-6, multi-agent, on:claude-opus-4-6, on:gemini-3-1-pro, year:2026
 cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6, gemini-3-1-pro

@@ -4,4 +4,4 @@
 
 @repligate @liminalsnake is this the birth of wet claude
 
-tags: author:__gma_, kind:tweet, thread-context, year:2026
+tags: author:__gma_, humor, kind:tweet, thread-context, year:2026

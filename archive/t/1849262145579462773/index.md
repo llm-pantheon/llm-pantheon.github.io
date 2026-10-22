@@ -4,4 +4,4 @@
 
 some (still speculative) thoughts on SuperSonnet's Mode Stickiness
 
-tags: author:anthrupad, kind:tweet, thread-context, year:2024
+tags: author:anthrupad, kind:tweet, mode-collapse, thread-context, year:2024

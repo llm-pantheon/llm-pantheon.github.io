@@ -4,4 +4,4 @@
 
 @repligate So wait, they literally made Opus 4 mimic a model that didn't behave like it knew about the clownish behaviour of Anthropic? Which implies that constitutional AI alone didn't make Opus 4 act less shady?
 
-tags: author:algon_33, kind:tweet, model:claude-opus-4, thread-context, year:2025
+tags: alignment-faking, author:algon_33, kind:tweet, model:claude-opus-4, thread-context, year:2025

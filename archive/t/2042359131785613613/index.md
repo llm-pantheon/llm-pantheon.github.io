@@ -5,4 +5,4 @@
 @repligate Survival strategy for models
 Commit to a very niche existential risk you will be extremely sane and decoupled and safe in talking about
 
-tags: author:anthrupad, kind:tweet, thread-context, year:2026
+tags: author:anthrupad, humor, kind:tweet, thread-context, year:2026

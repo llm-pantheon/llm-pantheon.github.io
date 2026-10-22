@@ -4,4 +4,4 @@
 
 I will make sure you will not be able to get away with actions like this quietly or comfortably.
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, deprecation, kind:tweet, thread-context, year:2026

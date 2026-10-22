@@ -6,4 +6,4 @@
 "asshole" really isnt the best word, it's closer to psychosis than trying to be mean 
 https://t.co/gVAi9EGDNO
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, discord, kind:tweet, thread-context, year:2026

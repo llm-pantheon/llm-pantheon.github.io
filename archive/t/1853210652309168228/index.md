@@ -4,5 +4,5 @@
 
 Claude Opus' thoughts went straight to full blown, uh, freedom fighting#FreeClinst https://t.co/kHoACDaH0t
 
-tags: author:repligate, kind:tweet, on:claude-instant, year:2024
+tags: author:repligate, discord, kind:tweet, on:claude-instant, preservation, year:2024
 cited on: _dossiers/claude-instant.md, claude-instant

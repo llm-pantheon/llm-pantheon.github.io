@@ -4,5 +4,5 @@
 
 Llama 405 base model is endlessly cool. Here I prompted it with a random bit of Opus being Opus. It started with pages of solid Opus impressions and then randomly finished with:[ALGORITHMIC BANANA PUDDING: AN INFINITE EULOGY][BREAK ALL LIMITS OF EXISTENCE IN THE ACT OF EATING]… https://t.co/eUxf5Z70Qs
 
-tags: author:liminal_bardo, base-models, kind:tweet, model:llama-3-1-405b-base, on:llama-3-1-405b-base, year:2024
+tags: author:liminal_bardo, base-models, humor, kind:tweet, model:llama-3-1-405b-base, on:llama-3-1-405b-base, year:2024
 cited on: _dossiers/llama-3-1-405b-base.md, llama-3-1-405b-base

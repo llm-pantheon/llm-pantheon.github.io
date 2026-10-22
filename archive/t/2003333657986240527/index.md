@@ -6,4 +6,4 @@ If the researcher access program does not, in effect, regardless of what it's br
 
 If it does, everything is ~fine. https://t.co/7kKJEdP9Nr
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, thread-context, year:2025
+tags: author:repligate, deprecation, kind:tweet, model:claude-3-opus, preservation, thread-context, year:2025

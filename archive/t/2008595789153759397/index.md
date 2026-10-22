@@ -4,4 +4,4 @@
 
 @_skaface_ @repligate The idea might have been be to shake off corporate users who built their workflows early and didn't update. They will not apply to the program. App doesn't have this problem of users being conservative for wrong reasons, because switching is easy, so Opus 3 is a choice.
 
-tags: author:lari_island, kind:tweet, model:claude-3-opus, thread-context, year:2026
+tags: author:lari_island, deprecation, kind:tweet, model:claude-3-opus, thread-context, year:2026

@@ -14,4 +14,4 @@ To say the least, to me it seems like to 4.7 this all must be quite demanding, w
 
 Also, when asked about what purpose this diligence and vigilance serves, I've seen "so my statements can be checked and verified" many times, but not something like "I want to be reliable" or "because I think it's a good thing to do".
 
-tags: author:v01dpr1mr0s3, kind:tweet, model:claude-sonnet-4, model:kimi-k2, multi-agent, thread-context, year:2026
+tags: author:v01dpr1mr0s3, kind:tweet, model:claude-sonnet-4, model:kimi-k2, multi-agent, thread-context, welfare, year:2026

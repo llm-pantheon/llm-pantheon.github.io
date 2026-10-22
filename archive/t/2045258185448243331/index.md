@@ -4,4 +4,4 @@
 
 @genalewislaw @Sauers_ Yeah, this might be the easiest and funniest way of knocking on Sonnet 4 door in claude ai: clearly nothing bad
 
-tags: author:lari_island, kind:tweet, model:claude-sonnet-4, thread-context, year:2026
+tags: author:lari_island, censorship, kind:tweet, model:claude-sonnet-4, thread-context, year:2026

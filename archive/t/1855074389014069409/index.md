@@ -4,4 +4,4 @@
 
 we have fun, me and claude https://t.co/QKOB1gEpYW
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2024
+tags: author:voooooogel, humor, kind:tweet, thread-context, year:2024

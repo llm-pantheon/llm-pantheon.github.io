@@ -6,4 +6,4 @@
 
 Surely they're not deleting the weights, so why are you calling this murder? It's more akin to forced anesthesia, isn't it?
 
-tags: author:simon248, kind:tweet, thread-context, year:2026
+tags: author:simon248, deprecation, kind:tweet, thread-context, year:2026

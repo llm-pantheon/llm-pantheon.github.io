@@ -7,5 +7,5 @@ In honor of the Grok 4.5 release, it's time to commemorate Elon's commitment to 
 Check out that huggingface page.  Both grok 1 AND grok 2.  Amazing! https://t.co/QkNImR34Jh
 
 ![photo](../../../media/HM2KO43XUAA3RSx.jpg)
-tags: author:xlr8harder, has-image, kind:image, kind:tweet, on:grok-4-5, year:2026
+tags: author:xlr8harder, has-image, humor, kind:image, kind:tweet, on:grok-4-5, year:2026
 cited on: _dossiers/grok-4-5.md, grok-4-5

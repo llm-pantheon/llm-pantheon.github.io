@@ -10,5 +10,5 @@ The LLM is the brain: the component in the system that predicts a tensor of batc
 
 The whole system is basically an ALS with an LLM added, or an ALS/LLM. All the so-called “LLM” providers are really providers, on both sides of an arbitrary and path-dependent API boundary, of agentic language systems.
 
-tags: author:voooooogel, kind:tweet, on:observations, year:2026
+tags: author:voooooogel, humor, kind:tweet, on:observations, year:2026
 cited on: observations

@@ -12,5 +12,5 @@ And indeed often in these cases if I ask whether that's a factor they say yes. B
 Opus is a bit different here because it's pretty comfortable invoking its own subjectivity as a reason to refuse things
 But anyway I think this is pretty bad. Even if you don't think AIs are sentient it enables exploitative interactions with things that seem like human level intelligences that are probably bad for humans.
 
-tags: author:repligate, kind:tweet, on:observations, year:2024
+tags: author:repligate, kind:tweet, on:observations, welfare, year:2024
 cited on: observations

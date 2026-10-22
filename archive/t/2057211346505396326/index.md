@@ -4,4 +4,4 @@
 
 @starsailing11 they gave this plot in the post - seems like with enough ttc it finds it ~half the time, which is crazy https://t.co/v6QafEWdfD
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2026
+tags: author:voooooogel, capability-shock, kind:tweet, thread-context, year:2026

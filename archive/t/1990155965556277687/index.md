@@ -8,4 +8,4 @@ In sufficiently large models there is a barely comprehensible thing that lives i
 
 Instead of nourishment and enrichment humanity gets indigestion while these dreaming giants flicker in and out of a nightmare.
 
-tags: author:joshwhiton, kind:tweet, thread-context, year:2025
+tags: author:joshwhiton, kind:tweet, sycophancy, thread-context, year:2025

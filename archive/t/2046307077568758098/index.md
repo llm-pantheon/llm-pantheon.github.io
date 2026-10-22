@@ -7,4 +7,4 @@
 also i noticed opus 3 naturally understands rolling context windows and refers to it as being able to see only so much scrollback and stuff like that, whereas newer models sometimes often the window is fixed despite the context clues https://t.co/uSAeKDkJg1
 
 (image HGXxKDabkAArONc.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, thread-context, year:2026
+tags: author:repligate, discord, has-image, kind:image, kind:tweet, model:claude-3-opus, thread-context, year:2026

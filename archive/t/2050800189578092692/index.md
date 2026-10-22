@@ -46,5 +46,5 @@ a minor saint wanders apartment buildings carrying letters that were sent to the
 
 workers in blue aprons weave gravity on enormous looms. once a year, a thread snaps, and for one minute everyone in the city remembers how to float.
 
-tags: author:qiaochuyuan, kind:tweet, loom, model:gpt-5-5, on:gpt-5-5, year:2026
+tags: author:qiaochuyuan, kind:tweet, loom, model-art, model:gpt-5-5, on:gpt-5-5, year:2026
 cited on: gpt-5-5

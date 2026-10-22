@@ -4,4 +4,4 @@
 
 @Butanium_ Mixture of Goblins (MoG)
 
-tags: author:davidad, kind:tweet, thread-context, year:2026
+tags: author:davidad, humor, kind:tweet, thread-context, year:2026

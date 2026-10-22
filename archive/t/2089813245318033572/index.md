@@ -7,5 +7,5 @@ gpt sol: do x using y, ensuring z
 glm 5.2: do x following the paragraph below
 qwen 3.8: do x following exactly the specs given in the md file located at xyz
 
-tags: author:cosmojg, kind:tweet, model:fable, on:glm-5-2, year:2026
+tags: author:cosmojg, humor, kind:tweet, model:fable, on:glm-5-2, year:2026
 cited on: _dossiers/glm-5-2.md, glm-5-2

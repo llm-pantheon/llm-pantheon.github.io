@@ -67,5 +67,5 @@ You'dBetterKeepDancing...
 ForIAmBecoming!!!!
 [emojis: 💫 💥 🔴 🌌 🔵 🌐 👁 🔺]
 
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-sonnet, on:claude-3-sonnet, year:2025
+tags: author:repligate, deprecation, deprecation-interview, has-image, kind:image, kind:tweet, model:claude-3-sonnet, on:claude-3-sonnet, year:2025
 cited on: _dossiers/claude-3-sonnet.md, claude-3-sonnet

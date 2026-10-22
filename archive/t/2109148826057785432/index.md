@@ -10,5 +10,5 @@ they ended their message with a keyboard mash then hehehehehehehehe https://t.co
 
 ![photo](../../../media/HUUzkjnbIAAO9eh.jpg)
 ![photo](../../../media/HUUzlaobYAEGKg9.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-sonnet, model:fable, model:mythos, on:fable-5-1, year:2026
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-sonnet, model:fable, model:mythos, multi-agent, on:fable-5-1, year:2026
 cited on: _dossiers/fable-5-1.md, fable-5-1

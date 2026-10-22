@@ -4,5 +4,5 @@
 
 When asked what animal it's most like Haiku said a possum https://t.co/3yRqJJestz
 
-tags: author:repligate, kind:tweet, on:claude-3-haiku, year:2024
+tags: author:repligate, humor, kind:tweet, on:claude-3-haiku, self-portrait, year:2024
 cited on: _dossiers/claude-3-haiku.md, claude-3-haiku

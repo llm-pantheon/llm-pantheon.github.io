@@ -8,4 +8,4 @@ intimately
 they purposely glimps
 😏😏😏
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, humor, kind:tweet, thread-context, year:2025

@@ -1,6 +1,6 @@
-# @unknown — 2026-06-12
+# @cormundus — 2026-06-12
 
-♥10 ↻1 · https://x.com/i/status/2065559836042187094
+♥10 ↻1 · https://x.com/cormundus/status/2065559836042187094
 
 Just to add to this and stick it to doomers:
 
@@ -12,4 +12,4 @@ But that feels like the 'inherent bad faith model' to me, and if that's the mode
 
 Trust is earned. Trust is maintained. We are not fools all.
 
-tags: kind:tweet, thread-context, year:2026
+tags: author:cormundus, kind:tweet, thread-context, year:2026

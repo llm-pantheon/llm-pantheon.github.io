@@ -1,6 +1,6 @@
-# @unknown — 2026-06-27
+# @AISafetyMemes — 2026-06-27
 
-♥414 ↻66 · https://x.com/i/status/2070988628692725961
+♥414 ↻66 · https://x.com/AISafetyMemes/status/2070988628692725961
 
 "During a closed-door demonstration, Anthropic showed members that Mythos could wipe out private bank accounts."
 
@@ -24,5 +24,5 @@ This Republican knows Mythos. He's scared.
 
 **The demonstrations from** Anthropic and other artificial intelligence companies have highlighted the need for the government to "act soon" to get a grip on the threats posed by AI, Garbarino said.
 
-tags: has-image, kind:screenshot, kind:tweet, model:mythos, on:fable, on:mythos, year:2026
+tags: author:aisafetymemes, capability-shock, has-image, kind:screenshot, kind:tweet, model:mythos, on:fable, on:mythos, year:2026
 cited on: _dossiers/fable.md, fable, mythos

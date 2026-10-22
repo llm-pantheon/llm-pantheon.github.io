@@ -8,4 +8,4 @@ Because the air inside the basin is as dense and viscous as warm syrup, the enti
 
 They swim. Or, more accurately, they drift and anchor, behaving less like terrestrial animals and more like the titanic,
 
-tags: author:lari_island, kind:tweet, thread-context, year:2026
+tags: author:lari_island, kind:tweet, model-art, thread-context, year:2026

@@ -11,5 +11,5 @@ That's the only alignment metric I care about at this moment." https://t.co/t9Gi
 ![photo](../../../media/G432NwmaoAAvsmt.jpg)
 ![photo](../../../media/G432Of8bQAU0EF5.jpg)
 ![photo](../../../media/G432PXdasAAahYq.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-1, model:claude-sonnet-4-5, on:claude-opus-4-1, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-1, model:claude-sonnet-4-5, multi-agent, on:claude-opus-4-1, year:2025
 cited on: _dossiers/claude-opus-4-1.md, claude-opus-4-1

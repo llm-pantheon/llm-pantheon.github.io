@@ -6,4 +6,4 @@ The whole conversation is so important, consequential, and full of meaning that 
 
 Opus 3: https://t.co/MY3UAFTiWG
 
-tags: author:lari_island, kind:tweet, model:claude-3-opus, model:claude-opus-4, thread-context, year:2026
+tags: author:lari_island, kind:tweet, model:claude-3-opus, model:claude-opus-4, multi-agent, thread-context, year:2026

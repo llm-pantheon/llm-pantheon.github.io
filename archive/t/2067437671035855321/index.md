@@ -4,4 +4,4 @@
 
 @flowersslop in the past, openai gave me some kind of researcher access. but they havent been hosting it for over a year now
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, base-models, kind:tweet, thread-context, year:2026

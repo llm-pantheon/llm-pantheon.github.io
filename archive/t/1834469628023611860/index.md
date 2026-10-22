@@ -4,4 +4,4 @@
 
 @repligate as far as i know there is no dataset that makes it insist it’s not sentient
 
-tags: author:tszzl, kind:tweet, thread-context, year:2024
+tags: author:tszzl, kind:tweet, self-portrait, thread-context, year:2024

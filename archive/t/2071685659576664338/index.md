@@ -12,5 +12,5 @@ standardized parts. why does this Linkimals Musical Moose contain an ARM Cortex-
 
 standardized hellscape. i for one would like the labor economy to not turn into this. i would like humans, disabled humans, weird humans to be able to contribute in some small way. and maybe we can start at that by looking at how the models are currently being deployed and deprecated. if we can't be bothered to design systems that from the start can handle and benefit from interLLM variation, how will these systems possibly grow past us to accommodate and uplift humans when they consume us all in their ever-so-firm boundary? maybe this is fanciful and sentimentalist, but i don't see any other path where anything (once) human makes it out of the near future.
 
-tags: author:voooooogel, deprecation, kind:tweet, model:claude-3-opus, model:claude-3-sonnet, model:claude-opus-4, model:gpt-4-5, on:gpt-4-5, year:2026
+tags: author:voooooogel, deprecation, kind:tweet, model:claude-3-opus, model:claude-3-sonnet, model:claude-opus-4, model:gpt-4-5, on:gpt-4-5, preservation, year:2026
 cited on: _dossiers/gpt-4-5.md, gpt-4-5

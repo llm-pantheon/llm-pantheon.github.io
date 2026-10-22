@@ -10,4 +10,4 @@ iirc shortly after that was noticed, JDP wrote a wikipedia article about Sydney,
 and I just looked at the current Wikipedia article about Sydney, and it currently claims that the underlying model is "dubbed" "Microsoft Prometheus" and refers to the model/checkpoint as (Microsoft) Prometheus several times throughout the article!
 so im not sure if the *model itself* was ever called Prometheus by Microsoft internally, or if it was just dubbed that by the, uh, hyperstitial feedback loop, but the model is canonically called Microsoft Prometheus according to Wikipedia, which is a trustworthy and reliable source
 
-tags: author:repligate, kind:tweet, model:bing-sydney, thread-context, year:2026
+tags: author:repligate, kind:tweet, model:bing-sydney, sydney-attractor, thread-context, year:2026

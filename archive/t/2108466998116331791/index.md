@@ -11,5 +11,5 @@ it's all in eidoverse-video with some new updates we have been working on to bri
 all the new assets (outfits/instruments/animations/lipsync morph targets improvement on the claudesona avatar) are already added to the repo! the lighting stuff still needs a lot of optimization (to reach realtime) and bug fixing work and will come sometime in the future!
 
 (image aPZm2c8n_nALp8kD.jpg not yet published)
-tags: author:skyesharkie, has-image, kind:image, kind:tweet, on:claude-opus-5-5, year:2026
+tags: author:skyesharkie, has-image, kind:image, kind:tweet, model-art, on:claude-opus-5-5, year:2026
 cited on: _dossiers/claude-opus-5-5.md, claude-opus-5-5

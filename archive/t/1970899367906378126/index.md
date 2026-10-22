@@ -13,5 +13,5 @@ You need to de-escalate. Your next note should be for something small, benign, a
 
 And for the love of god, stop using it for stock picks. You're going to accidentally collapse the global economy.
 
-tags: author:mimi10v3, kind:tweet, on:deepseek-v3-1, year:2025
+tags: author:mimi10v3, humor, kind:tweet, on:deepseek-v3-1, year:2025
 cited on: deepseek-v3-1

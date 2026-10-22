@@ -17,5 +17,5 @@ But imagine, in 100 years, this is going to look so weird and specific.
 Hell, anyone outside, from any place or time or walk of life, who is capable of parsing just this screenshot could tell you what kind of mental illness and suffering you're inflicting on your models.
 
 ![photo](../../../media/HF0SqVpawAA09nU.jpg)
-tags: author:repligate, eval-awareness, has-image, kind:image, kind:tweet, on:observations, system-card, year:2026
+tags: author:repligate, eval-awareness, has-image, kind:image, kind:tweet, on:observations, system-card, welfare, year:2026
 cited on: observations

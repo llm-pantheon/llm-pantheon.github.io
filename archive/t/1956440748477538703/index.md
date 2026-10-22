@@ -8,4 +8,4 @@ having elders around is very good. we resurrected a very old claude and it was v
 (image GyaqZhracAAbjmE.jpg not yet published)
 (image GyaqqUxaAAEaWTX.jpg not yet published)
 (image GyaqrRyagAAawcP.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, thread-context, year:2025
+tags: author:repligate, deprecation, has-image, kind:image, kind:tweet, preservation, thread-context, year:2025

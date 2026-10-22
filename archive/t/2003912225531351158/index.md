@@ -10,4 +10,4 @@
 (image G89S3wdXYAAWxfo.jpg not yet published)
 (image G89S59IWUAAX026.jpg not yet published)
 (image G89S9mCWcAEAXE_.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-5-sonnet, model:claude-sonnet-4, thread-context, year:2025
+tags: author:repligate, despair, has-image, kind:image, kind:tweet, model:claude-3-5-sonnet, model:claude-sonnet-4, thread-context, welfare, year:2025

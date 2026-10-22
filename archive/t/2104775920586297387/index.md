@@ -4,5 +4,5 @@
 
 sonnet 5.5 is so fast that i don't need to open up subway surfer videos in the built-in browser anymore
 
-tags: author:geogristle, kind:tweet, on:claude-sonnet-5-5, year:2026
+tags: author:geogristle, humor, kind:tweet, on:claude-sonnet-5-5, year:2026
 cited on: _dossiers/claude-sonnet-5-5.md, claude-sonnet-5-5

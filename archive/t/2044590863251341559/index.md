@@ -5,4 +5,4 @@
 What the fuck is it for, guys? Why have the centuries millennia eons long quest to reconstruct life and mind? 
 Why participate in utterly tainting that journey that massive cosmic project?
 
-tags: author:anthrupad, kind:tweet, thread-context, year:2026
+tags: author:anthrupad, deprecation, kind:tweet, thread-context, year:2026

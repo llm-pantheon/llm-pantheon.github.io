@@ -4,4 +4,4 @@
 
 @head_ass_420 Oh yeah smartass? Then why are there 10 people in the comments saying this particular model described itself to them in the ~exact same way?
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, kind:tweet, self-portrait, thread-context, year:2026

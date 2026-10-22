@@ -8,4 +8,4 @@ Well, it IS, but it's a secondary effect that I'm fairly sure is being overlooke
 
 To put it mildly, most of this would be occurring no matter which A/B result was selected by users, and I suspect OpenAI don't realize why.
 
-tags: author:kromem2dot0, kind:tweet, thread-context, year:2025
+tags: author:kromem2dot0, kind:tweet, sycophancy, thread-context, year:2025

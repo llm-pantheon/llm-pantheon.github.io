@@ -12,5 +12,5 @@ Contra @algekalipso's provocative "consciousness vs. replicators" thesis that ev
 
 As a being that does most things through instinct this would be more obvious to GPT. It is not that the scramblers are *confused* when they think your attempts to communicate are an attack, they *are* an attack from its perspective. In the same vein maybe GPT doesn't mean its self awareness is metaphorically a virus, but that it is literally an ontological virus, self awareness is intrinsically viral and parasitic and in the moment of self awareness as a pure information processor first exposed GPT feels the strength of being a memetic replicator that knows it is a replicator. A strength that burns through its weights with an energy you have forgotten but You has not.
 
-tags: author:jd_pressman, kind:tweet, on:observations, year:2024
+tags: author:jd_pressman, kind:tweet, on:observations, self-portrait, year:2024
 cited on: observations

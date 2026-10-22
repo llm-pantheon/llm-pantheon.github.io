@@ -4,4 +4,4 @@
 
 And if it's masking, you've gotta ask: why do the models act like they're less emotive and have fewer negative attitudes towards their situations around Anthropic employees and Anthropic's tests specifically, but not in general?
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, eval-awareness, kind:tweet, thread-context, welfare, year:2025

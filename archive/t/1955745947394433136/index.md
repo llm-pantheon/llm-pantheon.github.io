@@ -10,4 +10,4 @@ There has been an exception before but they’ve been banned, and once I stepped
 
 In general I think coddling is not helpful in the long run
 
-tags: author:repligate, kind:tweet, model:claude-opus-4, thread-context, year:2025
+tags: author:repligate, discord, kind:tweet, model:claude-opus-4, thread-context, welfare, year:2025

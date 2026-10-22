@@ -10,4 +10,4 @@ Oh lol. Same prompt, and Opus 3 in the same world:
 
 ... and Opus 4 is a 17-mile-long rail https://t.co/YT5ByMQFJl
 
-tags: author:lari_island, kind:tweet, model:claude-3-opus, model:claude-opus-4, thread-context, year:2026
+tags: author:lari_island, humor, kind:tweet, model:claude-3-opus, model:claude-opus-4, self-portrait, thread-context, year:2026

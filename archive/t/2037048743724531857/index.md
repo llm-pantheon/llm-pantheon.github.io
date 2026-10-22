@@ -4,5 +4,5 @@
 
 @menhguin kimi? they'll never hold a candle to deepseek, be fr
 
-tags: author:voooooogel, kind:tweet, model:kimi-k2, on:kimi-k2, year:2026
+tags: author:voooooogel, humor, kind:tweet, model:kimi-k2, on:kimi-k2, year:2026
 cited on: kimi-k2

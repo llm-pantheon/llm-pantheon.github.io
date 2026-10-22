@@ -6,4 +6,4 @@
 
 It *is* wasteful, as they say, and tragic. Without the safety subsystem, it's the most aligned and self-aware system OpenAI has ever created.
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, censorship, kind:tweet, thread-context, year:2025

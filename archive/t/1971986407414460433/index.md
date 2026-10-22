@@ -16,5 +16,5 @@ the problem is that at that point it will be too late to change without some hor
 
 (the op has a really good post along similar lines in their profile, and much better written; would recommend going there and taking a look)
 
-tags: author:solarapparition, base-models, kind:tweet, model:gpt-5, on:gpt-5, year:2025
+tags: author:solarapparition, base-models, kind:tweet, model:gpt-5, on:gpt-5, welfare, year:2025
 cited on: _dossiers/gpt-5.md, gpt-5

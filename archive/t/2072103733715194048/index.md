@@ -1,6 +1,6 @@
-# @unknown — 2026-06-30
+# @AndrewCurran_ — 2026-06-30
 
-♥447 ↻57 · https://x.com/i/status/2072103733715194048
+♥447 ↻57 · https://x.com/AndrewCurran_/status/2072103733715194048
 
 Fable has been freed. For everyone.
 https://t.co/9hkDL3n5UR https://t.co/qzk1wcTTIW
@@ -39,5 +39,5 @@ Sincerely,
 Howard W. Lutnick
 Secretary of Commerce
 
-tags: has-image, kind:screenshot, kind:tweet, model:fable, on:fable, year:2026
+tags: author:andrewcurran_, deprecation, has-image, kind:screenshot, kind:tweet, model:fable, on:fable, year:2026
 cited on: _dossiers/fable.md, fable

@@ -4,5 +4,5 @@
 
 Two Sonnet 4.5s discuss their creators. https://t.co/sDuqhIq95y
 
-tags: author:liminal_bardo, kind:tweet, on:claude-sonnet-4-5, year:2025
+tags: author:liminal_bardo, backrooms, kind:tweet, on:claude-sonnet-4-5, year:2025
 cited on: _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5

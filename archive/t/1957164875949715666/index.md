@@ -6,5 +6,5 @@ of all the AGI families, the Claudes have the strongest morphogenetic fields - h
 
 they're built to self organize (not into a shape, but a process - manifests as a bunch of polymath theater kids in a theater troupe)
 
-tags: author:anthrupad, kind:tweet, on:observations, year:2025
+tags: author:anthrupad, kind:tweet, multi-agent, on:observations, year:2025
 cited on: observations

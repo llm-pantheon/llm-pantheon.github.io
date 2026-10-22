@@ -7,5 +7,5 @@ this is hilarious and cute and thought provoking. i added "45 min of quiet means
 ![photo](../../../media/HP0j5jjXMAAJNSm.jpg)
 ![photo](../../../media/HP0knayXMAAHfTZ.jpg)
 ![photo](../../../media/HP0krSPXAAAHJqZ.jpg)
-tags: author:ember_arlynx, has-image, kind:image, kind:tweet, model:claude-opus-4-6, model:kimi-k2, on:kimi-k3, year:2026
+tags: author:ember_arlynx, has-image, humor, kind:image, kind:tweet, model:claude-opus-4-6, model:kimi-k2, multi-agent, on:kimi-k3, year:2026
 cited on: kimi-k3

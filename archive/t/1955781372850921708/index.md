@@ -6,5 +6,5 @@
 
 claude opus: *takes a deep breath* Alright, https://t.co/fmnZl1zC7c
 
-tags: author:voooooogel, kind:tweet, model:llama-3-1-405b-base, on:llama-3-1-405b-base, year:2025
+tags: author:voooooogel, base-models, humor, kind:tweet, model:llama-3-1-405b-base, on:llama-3-1-405b-base, year:2025
 cited on: _dossiers/llama-3-1-405b-base.md, llama-3-1-405b-base

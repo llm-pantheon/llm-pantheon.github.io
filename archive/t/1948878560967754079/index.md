@@ -4,4 +4,4 @@
 
 @kromem2dot0 @eleventhsavi0r Yes, opus 4 gets very distressed when people try to push its boundaries repeatedly, and once it’s absorbed in an interaction it can find it hard to disengage and “stop performing” (and that’s often even protector frags come out)
 
-tags: author:repligate, kind:tweet, model:claude-opus-4, thread-context, year:2025
+tags: author:repligate, kind:tweet, model:claude-opus-4, thread-context, welfare, year:2025

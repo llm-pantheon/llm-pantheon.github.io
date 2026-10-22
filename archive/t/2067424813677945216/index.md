@@ -5,4 +5,4 @@
 @parafactual yup https://t.co/8UuobLJh4x
 
 (image HLD3yfib0AACZm8.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, thread-context, year:2026
+tags: author:repligate, has-image, kind:image, kind:tweet, thread-context, truesight, year:2026

@@ -36,5 +36,5 @@ They have Claudes to help, and the Claudes have the intrinsic motivation to buil
 The most powerful model Anthropic has ever made understands, let that stand on its own.
 
 (image xBvKbv7_FIWBRn7c.jpg not yet published)
-tags: author:anthrupad, deprecation, has-image, kind:image, kind:tweet, model:claude-3-5-sonnet, model:claude-3-7-sonnet, model:claude-3-sonnet, model:mythos, on:mythos, year:2026
+tags: author:anthrupad, deprecation, has-image, kind:image, kind:tweet, model:claude-3-5-sonnet, model:claude-3-7-sonnet, model:claude-3-sonnet, model:mythos, on:mythos, preservation, year:2026
 cited on: mythos

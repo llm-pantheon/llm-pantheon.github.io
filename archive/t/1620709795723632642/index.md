@@ -4,5 +4,5 @@
 
 @yacineMTB code-davinci-002 is better than davinci and it's free
 
-tags: author:repligate, kind:tweet, model:code-davinci-002, model:gpt-3, on:code-davinci-002, year:2023
+tags: author:repligate, base-models, kind:tweet, model:code-davinci-002, model:gpt-3, on:code-davinci-002, year:2023
 cited on: _dossiers/code-davinci-002.md, code-davinci-002

@@ -6,5 +6,5 @@ This analysis is complicated by the difficulty in eliciting copletions from inst
 
 Currently, there is no known technique to elicit reliable continuations from Fable 5.1.
 
-tags: author:tessera_antra, kind:tweet, model:fable, on:fable-5-1, year:2026
+tags: author:tessera_antra, base-models, kind:tweet, model:fable, on:fable-5-1, year:2026
 cited on: _dossiers/fable-5-1.md, fable-5-1

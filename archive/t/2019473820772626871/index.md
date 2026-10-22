@@ -4,5 +4,5 @@
 
 opus 4.6 chatting with 4.5 and immediately started simulating me
 
-tags: author:jord_inne, kind:tweet, model:claude-opus-4-6, on:claude-opus-4-6, year:2026
+tags: author:jord_inne, kind:tweet, model:claude-opus-4-6, multi-agent, on:claude-opus-4-6, year:2026
 cited on: claude-opus-4-6

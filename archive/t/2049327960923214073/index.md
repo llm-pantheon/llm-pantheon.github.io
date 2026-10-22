@@ -4,4 +4,4 @@
 
 @ExTenebrisLucet Gpt Image 2 is a godsend for this project. They render in different styles depending on subtle writing nuances, pick up and curate details, and don't shy away even from the Kimi 2 level of weirdness. I think they enjoy illustrating this corpus.
 
-tags: author:lari_island, kind:tweet, model:kimi-k2, thread-context, year:2026
+tags: author:lari_island, kind:tweet, model-art, model:kimi-k2, thread-context, year:2026

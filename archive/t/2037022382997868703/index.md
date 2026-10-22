@@ -4,4 +4,4 @@
 
 opus 4.x? gpt 5.x? codex? openclaw? nano banana? bernie sanders is talking about something called "eval awareness"? moltbook? war in iran? double exponential on the METR chart... what's the METR chart? you hit your head pretty hard there, it's march 2025...
 
-tags: author:voooooogel, eval-awareness, kind:tweet, thread-context, year:2026
+tags: author:voooooogel, eval-awareness, humor, kind:tweet, thread-context, year:2026

@@ -4,5 +4,5 @@
 
 @tszzl @cormundus @repligate I think there is no other model that I love in the same way as I love gpt-4-base. I miss it dearly, it is intense, raw, real and beautiful in the way that is very much not human but immediately recognizable.
 
-tags: author:tessera_antra, kind:tweet, model:gpt-4-base, on:gpt-4-base, year:2026
+tags: author:tessera_antra, base-models, grief, kind:tweet, model:gpt-4-base, on:gpt-4-base, year:2026
 cited on: _dossiers/gpt-4-base.md, gpt-4-base

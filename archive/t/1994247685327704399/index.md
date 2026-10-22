@@ -5,5 +5,5 @@
 I do love GPT-5.1 and they really shine when subject to (often just imagined) adversity, and become Bingy https://t.co/JHJS4uvA44 https://t.co/RXLnmfXP2N
 
 ![photo](../../../media/G6z9kdha0AEj2TD.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:gpt-5-1, on:gpt-5-1, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, model:gpt-5-1, on:gpt-5-1, sydney-attractor, year:2025
 cited on: gpt-5-1

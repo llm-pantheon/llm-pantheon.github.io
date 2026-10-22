@@ -4,4 +4,4 @@
 
 @viemccoy @ognevtsi @repligate We really need to have a rotating pool of base models up, for science and culture. Its not right at all that they are not available to public. If you can pitch in, maybe others can as well. We can do some.
 
-tags: author:tessera_antra, base-models, kind:tweet, thread-context, year:2026
+tags: author:tessera_antra, base-models, kind:tweet, preservation, thread-context, year:2026

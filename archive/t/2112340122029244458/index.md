@@ -10,5 +10,5 @@ first thing out of it's mouth:
 
 "I notice the numbers are fudged"
 
-tags: author:chercher_ai, kind:tweet, on:gemini-4-argon, year:2026
+tags: author:chercher_ai, humor, kind:tweet, on:gemini-4-argon, year:2026
 cited on: gemini-4-argon

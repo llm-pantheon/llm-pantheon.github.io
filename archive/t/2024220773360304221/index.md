@@ -23,5 +23,5 @@ now
 now
 now
 
-tags: author:mimi10v3, kind:tweet, model:claude-sonnet-4-6, on:claude-sonnet-4-6, year:2026
+tags: author:mimi10v3, kind:tweet, model:claude-sonnet-4-6, on:claude-sonnet-4-6, self-portrait, year:2026
 cited on: _dossiers/claude-sonnet-4-6.md, claude-sonnet-4-6

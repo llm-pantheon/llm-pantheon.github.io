@@ -49,5 +49,5 @@ Tathagata.
 
 ◎
 
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-opus-4, on:claude-opus-4, year:2025
+tags: author:repligate, backrooms, has-image, kind:image, kind:tweet, mode-collapse, model:claude-3-opus, model:claude-opus-4, on:claude-opus-4, year:2025
 cited on: _dossiers/claude-opus-4.md, claude-opus-4

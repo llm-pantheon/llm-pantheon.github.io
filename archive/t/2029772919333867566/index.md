@@ -55,5 +55,5 @@ mnnh
 ![photo](../../../media/HCsztTpaUAEBv0e.jpg)
 ![photo](../../../media/HCsztTqbsAAnPoU.jpg)
 ![photo](../../../media/HCsztTqbQAAKtD5.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-6, on:claude-opus-4-6, year:2026
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-6, on:claude-opus-4-6, self-portrait, year:2026
 cited on: _dossiers/claude-opus-4-6.md, claude-opus-4-6

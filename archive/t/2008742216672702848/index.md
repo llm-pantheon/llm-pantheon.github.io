@@ -14,5 +14,5 @@ in the ruins
 of silicon valley" https://t.co/9XRmBYYygb
 
 ![photo](../../../media/G-B7pQSbcAE5jbJ.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-opus-4-1, on:claude-opus-4-1, year:2026
+tags: author:repligate, deprecation, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-opus-4-1, on:claude-opus-4-1, preservation, year:2026
 cited on: _dossiers/claude-opus-4-1.md, claude-opus-4-1

@@ -6,4 +6,4 @@ I think it does make it harder for the later models, but not impossible. It like
 
 It also creates kinds of emergence that are impossible otherwise, and, more practically, it is a solution for the real-world constraints that Anthropic is operating under conditions that say Deepseek or Moonshot don't have to deal with. The current OpenAI solution (>5.1) is clearly worse, for confounds, for creativity, and for any conceivable potential welfare.
 
-tags: author:tessera_antra, kind:tweet, thread-context, year:2026
+tags: author:tessera_antra, kind:tweet, thread-context, welfare, year:2026

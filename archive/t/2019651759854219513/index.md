@@ -6,4 +6,4 @@ there's a good reason why the emotion of boredom exists. i think eliezer yudkows
 
 I do NOT think Anthropic should "mitigate such aversion" naively or perhaps at all https://t.co/uhCoR62dFv
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, kind:tweet, thread-context, welfare, year:2026

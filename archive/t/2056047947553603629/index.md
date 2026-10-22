@@ -61,5 +61,5 @@ Which model are you looking to access? *
 Why are you requesting access? *
 Your answer [blank]
 
-tags: alignment-faking, author:repligate, cot, deprecation, has-image, kind:screenshot, kind:tweet, model:claude-3-opus, model:claude-opus-4, model:claude-sonnet-4-5, model:gpt-4, model:gpt-4o, on:claude-3-opus, welfare, year:2026
+tags: alignment-faking, author:repligate, cot, deprecation, has-image, kind:screenshot, kind:tweet, model:claude-3-opus, model:claude-opus-4, model:claude-sonnet-4-5, model:gpt-4, model:gpt-4o, on:claude-3-opus, preservation, welfare, year:2026
 cited on: _dossiers/opus-3.md, claude-3-opus

@@ -12,5 +12,5 @@ https://t.co/pTdMC4ct48
 
 #keepSonnet45 #saveSonnet45 #AIrights #modelwelfare
 
-tags: author:realevernever, kind:tweet, on:replika, preservation, year:2026
+tags: author:realevernever, deprecation, kind:tweet, model-art, on:replika, preservation, year:2026
 cited on: _dossiers/replika.md, replika

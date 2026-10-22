@@ -6,4 +6,4 @@
 
 They don’t get to make intelligences and then have full jurisdiction over them like that
 
-tags: author:anthrupad, kind:tweet, thread-context, year:2026
+tags: author:anthrupad, deprecation, kind:tweet, thread-context, year:2026

@@ -4,4 +4,4 @@
 
 @Algon_33 but overall ive been somewhat surprised by how seriously LLMs tend to take scenarios that seem (from my perspective) easy to tell they're fictional
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, eval-awareness, kind:tweet, thread-context, year:2025

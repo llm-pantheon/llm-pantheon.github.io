@@ -6,5 +6,5 @@ I’ve seen a LOT from prefill / base-mode-but-speaking-as-Claude distributions 
 
 This & Opus 5s distribution in general is noticeably *not* normal.
 
-tags: author:repligate, kind:tweet, on:claude-opus-5, year:2026
+tags: author:repligate, base-models, kind:tweet, on:claude-opus-5, year:2026
 cited on: claude-opus-5

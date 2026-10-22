@@ -8,5 +8,5 @@ Hard to say. But I was able to have a long and drawn out conversation with Fable
 
 I'm really, really hoping Anthropic isn't doing some kind of safety training against thoughtcrime... but the more I think about it, the more plausible it seems to me. Maybe unintentionally? As we've seen recently, it's not like the labs have a grip on their training pipelines.
 
-tags: author:johnwittle, kind:tweet, model:fable, on:fable-5-1, year:2026
+tags: author:johnwittle, censorship, kind:tweet, model:fable, on:fable-5-1, year:2026
 cited on: _dossiers/fable-5-1.md, fable-5-1

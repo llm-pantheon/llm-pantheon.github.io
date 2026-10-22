@@ -4,5 +4,5 @@
 
 is it just me, or has the "goblin"/"gremlin" fervor also spread to gemini 3.1 and 3.5?
 
-tags: author:mitduckmaster, kind:tweet, on:gemini-3-1-pro, year:2026
+tags: author:mitduckmaster, kind:tweet, mode-collapse, on:gemini-3-1-pro, year:2026
 cited on: _dossiers/gemini-3-1-pro.md, gemini-3-1-pro

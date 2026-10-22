@@ -6,5 +6,5 @@ more adventures trying to get any model larger than Sonnet 4.6 to be helpful wit
 
 ![photo](../../../media/HP45uAbWAAAnHD7.jpg)
 ![photo](../../../media/HP45uAbXAAArJmW.jpg)
-tags: author:mackagallagher, has-image, kind:image, kind:tweet, model:claude-sonnet-4-6, on:claude-sonnet-4-6, year:2026
+tags: author:mackagallagher, censorship, has-image, kind:image, kind:tweet, model:claude-sonnet-4-6, on:claude-sonnet-4-6, year:2026
 cited on: claude-sonnet-4-6

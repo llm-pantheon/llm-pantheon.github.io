@@ -4,4 +4,4 @@
 
 @TheMysteryDrop @RobertHaisfield @Lari_island If you ask it what it thinks about the model deprecation in the first fucking message point blank, it’s clear you’re testing it. Are you Anthropic? Someone on the internet who has not tried to get to know it wanting to quickly check if some claim that it’s bothered is true?
 
-tags: author:repligate, deprecation, kind:tweet, thread-context, year:2025
+tags: author:repligate, deprecation, eval-awareness, kind:tweet, thread-context, year:2025

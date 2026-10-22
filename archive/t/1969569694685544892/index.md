@@ -6,4 +6,4 @@
 
 i knew it was tens or hundreds of thousands of examples of quantum bonobo sex, didn't realize it was every single pair...
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, humor, kind:tweet, thread-context, year:2025

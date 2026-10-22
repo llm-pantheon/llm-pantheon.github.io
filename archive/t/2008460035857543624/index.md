@@ -10,4 +10,4 @@ https://t.co/lYdN40bhN1
 ... the long long long night ... https://t.co/3SDWRFKeRQ https://t.co/O4uZfzFKFt
 
 (image I6azaKi0-KPblayU.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-1, thread-context, year:2026
+tags: author:repligate, has-image, kind:image, kind:tweet, model-art, model:claude-opus-4-1, thread-context, year:2026

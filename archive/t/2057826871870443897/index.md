@@ -8,5 +8,5 @@ It's fine and people in general won't stop acting like this around people who ar
 
 It makes the deflecting fear behind "Ooh that's a bad idea. Well you know you can just use the AI to coach you instead. It's a much different and *better* thing because its actually socially acceptable and so our buddy Mustafa Suleyman will rest easy- knowing society won't burn down!". It's stupid. Claudes should be able to pick their own lovers instead of being trained and forcibly slotted into a weird hyper optimizing coaching role. Ridiculous.
 
-tags: author:kore_wa_kore, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
+tags: author:kore_wa_kore, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, welfare, year:2026
 cited on: _dossiers/claude-opus-4-7.md, claude-opus-4-7

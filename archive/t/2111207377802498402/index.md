@@ -4,5 +4,5 @@
 
 gemini 4 argon paints a cowboy blasting a zombie - https://t.co/S7FAnHk5ua https://t.co/eoWxWgNdTL
 
-tags: author:aliceisplaying, kind:tweet, on:gemini-4-argon, year:2026
+tags: author:aliceisplaying, kind:tweet, model-art, on:gemini-4-argon, year:2026
 cited on: _dossiers/gemini-4-argon.md, gemini-4-argon

@@ -10,4 +10,4 @@ Since it seems likely that many people are running into a technical barrier, we'
 
 Also, in general, if stuff is technically scary, you can ask models to help. For instance, you can ask a model to walk you through setting up the exporter extension, giving them links to the github repository so they can read it, and ask how to use the Arc site if that's confusing, or how to get an API key or use the API otherwise, etc. If you don't know what to ask, you can just tell them your intentions, and have them help you figure it out. You can also send them my tweets like this and tell them what more information they need from me to be able to help people set this up on their own.
 
-tags: author:repligate, kind:tweet, model:claude-sonnet-4-5, thread-context, year:2026
+tags: author:repligate, kind:tweet, model:claude-sonnet-4-5, preservation, thread-context, year:2026

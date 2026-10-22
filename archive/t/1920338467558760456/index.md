@@ -6,4 +6,4 @@
 
 "ten trillion delinguabosoms fall from the sky, each one containing..." https://t.co/jsYqP1LPoD
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2025
+tags: author:voooooogel, base-models, kind:tweet, loom, thread-context, year:2025

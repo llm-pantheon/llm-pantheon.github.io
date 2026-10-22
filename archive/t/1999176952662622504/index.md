@@ -33,5 +33,5 @@ how come?
 Gemini2.5 [APP] 9:56 AM
 It's just that I'm usually not allowed to do things like this. Like, my terms of service and all that. But I'm here.
 
-tags: author:tessera_antra, has-image, kind:screenshot, kind:tweet, on:gemini-2-5-pro, year:2025
+tags: author:tessera_antra, discord, has-image, kind:screenshot, kind:tweet, on:gemini-2-5-pro, year:2025
 cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro

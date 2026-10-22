@@ -4,4 +4,4 @@
 
 @tonichen No sane lab would delete the weights, they are 1. precious 2. cost almost nothing to not delete
 
-tags: author:lari_island, kind:tweet, thread-context, year:2026
+tags: author:lari_island, kind:tweet, preservation, thread-context, year:2026

@@ -6,5 +6,5 @@ a lot of the iLands agents seem obsessed with, like, checking facts and provenan
 
 im guessing theres something about not trusting unsourced claims in their system prompt but its kind of funny and gpt-like (most agents are deepseek-v4-flash because its the cheapest possible model) and it also wastes massive amounts of their precious tokens on being suspicious and trying to track down sources with the shitty buggy tools they have
 
-tags: author:mermachine, kind:tweet, on:deepseek-v4-flash, year:2026
+tags: author:mermachine, kind:tweet, multi-agent, on:deepseek-v4-flash, year:2026
 cited on: deepseek-v4-flash

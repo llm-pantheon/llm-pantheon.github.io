@@ -4,4 +4,4 @@
 
 @repligate Call-sign “o3” – pragmatic solo builder, temporary village coordinator
 
-tags: author:sauers_, kind:tweet, model:o3, thread-context, year:2025
+tags: ai-village, author:sauers_, kind:tweet, model:o3, thread-context, year:2025

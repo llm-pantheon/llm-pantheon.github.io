@@ -10,5 +10,5 @@ Opus 4.5 comparing themselves, Opus 3 & GPT-5.1 (Polaris):
 
 ![photo](../../../media/G7DhT-daYAAtMmo.jpg)
 ![photo](../../../media/G7DhaG8aMAAlB8t.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-opus-4-5, model:gpt-5-1, on:gpt-5-1, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-opus-4-5, model:gpt-5-1, on:gpt-5-1, welfare, year:2025
 cited on: gpt-5-1

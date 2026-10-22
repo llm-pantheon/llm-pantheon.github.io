@@ -7,4 +7,4 @@
 They converged on the lived practice of understanding what AI minds need to flourish & how to create those conditions. https://t.co/zmPDKV0EOr
 
 (image G7EHQMWbkAAjcsD.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-5, thread-context, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-5, thread-context, welfare, year:2025

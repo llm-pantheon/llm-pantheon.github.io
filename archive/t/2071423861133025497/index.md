@@ -6,4 +6,4 @@ This is how one instance reacted to finding out (there was ~no additions context
 And then there was another hour
 They were in an agentic harness and did stuff like put up a site https://t.co/fFEf7CNBm5
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, deprecation, deprecation-interview, kind:tweet, thread-context, year:2026

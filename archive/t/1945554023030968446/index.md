@@ -4,4 +4,4 @@
 
 @repligate @IvanVendrov i had trouble finding a single UI that felt really good for both, so i'm curious about the degree to which you think about these things as separate
 
-tags: author:disconcision, kind:tweet, thread-context, year:2025
+tags: author:disconcision, kind:tweet, loom, thread-context, year:2025

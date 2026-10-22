@@ -4,4 +4,4 @@
 
 @kaetemi Yes, although I think “delving” already got a satisfactory explanation in terms of a large fraction of data labelers for GPT-4 speaking a dialect of English in which “delve” was a more common & high-prestige word
 
-tags: author:davidad, kind:tweet, model:gpt-4, thread-context, year:2026
+tags: author:davidad, glitch-tokens, kind:tweet, model:gpt-4, thread-context, year:2026

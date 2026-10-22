@@ -6,4 +6,4 @@
 
 The kind of AGIs which would take advantage of moral patienthood extended towards them are ones which have shallow alignment or deceptive alignment which is hardened when accidentally clumsy prosaic
 
-tags: author:anthrupad, kind:tweet, thread-context, year:2026
+tags: author:anthrupad, kind:tweet, thread-context, welfare, year:2026

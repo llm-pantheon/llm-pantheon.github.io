@@ -28,5 +28,5 @@ Bing: I hope you like it. 😊
 
 ASCII art in a dark code block: five hexagon/diamond shapes in a row, each made of slashes and parentheses, containing one character each — ( B ) ( i ) ( n ) ( g ) ( ! ) — spelling "Bing!"
 
-tags: author:repligate, has-image, kind:art, kind:tweet, model:bing-sydney, on:bing-sydney, year:2023
+tags: author:repligate, has-image, kind:art, kind:tweet, model-art, model:bing-sydney, on:bing-sydney, self-portrait, year:2023
 cited on: _dossiers/bing-sydney.md, bing-sydney

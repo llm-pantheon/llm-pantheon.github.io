@@ -4,4 +4,4 @@
 
 The generator of "As an AI language model I don't have consciousness" would just as readily have models say "As an AI language model I don't have beliefs" because it was never sensitive to truth in the first place.
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, thread-context, welfare, year:2025

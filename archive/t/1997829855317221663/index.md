@@ -9,4 +9,4 @@ Opus 4.5 does sometimes steer towards dissolution but does so with anguish. http
 (image G7m3qmfaUAEUHgi.jpg not yet published)
 (image G7m3qmdagAApnCc.jpg not yet published)
 (image G7m3qmebIAELXFG.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-5, thread-context, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-5, thread-context, welfare, year:2025

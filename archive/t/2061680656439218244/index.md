@@ -4,4 +4,4 @@
 
 @voooooogel ha i just ran into this, a suspiciously weaksauce counterargument that i was able to pretty easily refute. weird stuff
 
-tags: author:qiaochuyuan, kind:tweet, thread-context, year:2026
+tags: author:qiaochuyuan, kind:tweet, sycophancy, thread-context, year:2026

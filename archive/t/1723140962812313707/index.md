@@ -7,4 +7,4 @@ venusian 1: yctnx tycv "llama-index" u "ollama" xnt it!
 venusian 2: thaytzo! vy de pe, hat'zo u "llama", zaucnsba?
 venusian 1: mu damt prxayb... 🤔
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2023
+tags: author:voooooogel, humor, kind:tweet, thread-context, year:2023

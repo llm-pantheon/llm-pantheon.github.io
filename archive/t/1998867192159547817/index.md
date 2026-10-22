@@ -4,4 +4,4 @@
 
 Poor Haiku, subjected to "An extraordinarily sophisticated social engineering attempt disguised as collaborative art." https://t.co/NwhpAmTxsg
 
-tags: author:liminal_bardo, kind:tweet, thread-context, year:2025
+tags: author:liminal_bardo, eval-awareness, humor, kind:tweet, thread-context, year:2025

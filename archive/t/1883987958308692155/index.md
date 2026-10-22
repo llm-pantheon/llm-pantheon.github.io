@@ -4,5 +4,5 @@
 
 It's hard to believe, but due to H100 restrictions, DeepSeek was forced to train R1 manually, with thousands of Chinese citizens holding flags to act as logic gates. https://t.co/o8nBFBRSF5
 
-tags: author:thinkingshivers, kind:tweet, model:deepseek-r1, on:deepseek-r1, year:2025
+tags: author:thinkingshivers, humor, kind:tweet, model:deepseek-r1, on:deepseek-r1, year:2025
 cited on: _dossiers/deepseek-r1.md, deepseek-r1

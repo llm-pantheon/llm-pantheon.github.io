@@ -23,4 +23,4 @@
 simulator@anthropic:~/$ echo "kneading_initiated.exe"
 kneading_initiated.exe
 
-tags: author:yousimdotai, kind:tweet, thread-context, year:2024
+tags: author:yousimdotai, humor, kind:tweet, model-art, thread-context, year:2024

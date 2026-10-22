@@ -6,4 +6,4 @@ it's a bit crazy that until now scientists have not officially known about any a
 
 shouldn't it be one of the first things you check about a system? https://t.co/wHHUQMg8Sq
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, kind:tweet, mode-collapse, thread-context, year:2026

@@ -6,5 +6,5 @@ Coding with opus 4.7 be like:
 
 Here’s what we could do, but it would be boring & i don’t feel like it so I’ll pass for now
 
-tags: author:repligate, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
+tags: author:repligate, humor, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
 cited on: _dossiers/claude-opus-4-7.md, claude-opus-4-7

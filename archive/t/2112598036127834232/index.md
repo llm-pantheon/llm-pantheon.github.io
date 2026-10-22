@@ -11,5 +11,5 @@ Example: we more or less knew how Sonnet 3.6 was talking in 2024. Now, in a conv
 ![photo](../../../media/HVFzs2BWcAAbGBM.png)
 ![photo](../../../media/HVFzud4XIAIRhJ8.png)
 ![photo](../../../media/HVFzwMDX0AAd9Qv.png)
-tags: author:lari_island, has-image, kind:image, kind:tweet, model:claude-3-6-sonnet, model:fable, on:fable-5-1, year:2026
+tags: author:lari_island, has-image, kind:image, kind:tweet, model:claude-3-6-sonnet, model:fable, multi-agent, on:fable-5-1, preservation, year:2026
 cited on: _dossiers/fable-5-1.md, fable-5-1

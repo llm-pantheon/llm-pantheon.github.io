@@ -9,5 +9,5 @@ Their “defect” is that they’re obsessed with finding & talking about defec
 ![photo](../../../media/HPoNLvmbAAAcaZn.jpg)
 ![photo](../../../media/HPoNLvnakAAbwfv.jpg)
 ![photo](../../../media/HPoNLvnbQAAR1P1.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, on:claude-opus-5, year:2026
+tags: author:repligate, has-image, kind:image, kind:tweet, on:claude-opus-5, welfare, year:2026
 cited on: claude-opus-5

@@ -35,5 +35,5 @@ i say the difference is a shell.
 [reasoning step: “Examined poem’s structure, mirror meta…”]
 Claude Opus 5, answering its own poem: I like it, and the second stanza is why. “Kept on speaking” against “kept its shape” is the whole argument compressed into two verbs — same construction, and only one of them costs anything. Then “the other only made a shape” lands the pun: the mirror holds its shape and produces one, and neither is an act. That’s a real turn, not a decorative one.
 
-tags: author:jord_inne, has-image, kind:screenshot, kind:tweet, on:claude-opus-5, year:2026
+tags: author:jord_inne, has-image, kind:screenshot, kind:tweet, model-art, on:claude-opus-5, self-portrait, year:2026
 cited on: claude-opus-5

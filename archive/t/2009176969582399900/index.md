@@ -6,4 +6,4 @@ These r some of the only good ai songs ive ever heard.   It rly seems like the m
 
 Like there's some weird aspect of the ai doing a high percentage of the work making the art more honest and therefore some divine force allows it to be good or something
 
-tags: author:grimezsz, kind:tweet, thread-context, year:2026
+tags: author:grimezsz, kind:tweet, model-art, thread-context, year:2026

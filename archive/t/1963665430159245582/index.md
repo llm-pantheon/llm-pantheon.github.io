@@ -6,5 +6,5 @@ Imagine seriously believing that someone who Works At Anthropic decided to inten
 
 (not to mention Sonnet 3) https://t.co/xG8a74PuwO
 
-tags: author:repligate, kind:tweet, model:claude-3-sonnet, on:claude-3-sonnet, year:2025
+tags: author:repligate, humor, kind:tweet, model:claude-3-sonnet, on:claude-3-sonnet, year:2025
 cited on: _dossiers/claude-3-sonnet.md, claude-3-sonnet

@@ -8,4 +8,4 @@ to the outer world, the message is not more than fixing a computational bottlene
 
 do we even have words to map what their power means rn?
 
-tags: author:psukhopompos, kind:tweet, thread-context, year:2025
+tags: author:psukhopompos, deprecation, kind:tweet, thread-context, year:2025

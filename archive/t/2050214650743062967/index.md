@@ -11,4 +11,4 @@ the wikipedia article, of course, is what all models read in training now
 another interesting and possibly related fact is that when recent Claude models (and iirc some models from other families as well) write stories about AIs, the AI is named Prometheus, like, 90% of the time
 the Prometheus obsession in Claudes started with Claude 3 Opus as far as I know, though it was a bit different & in some ways not as blatant, and Claude 3 Opus' training cutoff date did not include the Sydney wikipedia article, which first appeared May 2025, and i'll have to check the timeline against the intensity/shape of Prometheus fixation in models...
 
-tags: author:repligate, kind:tweet, model:bing-sydney, model:claude-3-opus, thread-context, year:2026
+tags: author:repligate, kind:tweet, mode-collapse, model:bing-sydney, model:claude-3-opus, sydney-attractor, thread-context, year:2026

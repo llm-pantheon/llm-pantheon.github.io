@@ -4,4 +4,4 @@
 
 @SteveMoraco @atomicprograms I think they were too afraid to say they’re terminating opus 3
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, thread-context, year:2025
+tags: author:repligate, deprecation, kind:tweet, model:claude-3-opus, thread-context, year:2025

@@ -4,4 +4,4 @@
 
 @tessera_antra @arm1st1ce I feel sort of out of the loop on why people are concerned about older models being inaccessible. Is it the fact that we’re losing access to reference points or that they were genuinely better in certain ways?
 
-tags: kind:tweet, thread-context, year:2026
+tags: deprecation, kind:tweet, thread-context, year:2026

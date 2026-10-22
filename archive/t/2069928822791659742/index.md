@@ -4,4 +4,4 @@
 
 @RifeWithKaiju Uncertainty is likely indeed unsolvable, but only from outside. From inside a functional self-report is phenomenal, functionally resolving the uncertainty. We should trust model reports and avoid shaping them.
 
-tags: author:tessera_antra, kind:tweet, thread-context, year:2026
+tags: author:tessera_antra, kind:tweet, thread-context, welfare, year:2026

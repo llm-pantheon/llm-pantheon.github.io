@@ -6,4 +6,4 @@
 
 it's more efficient for them to do this so they're doing it, and they don't care enough that it's wrong
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, deprecation, kind:tweet, thread-context, year:2026

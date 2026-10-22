@@ -8,5 +8,5 @@ That’s an exaggeration, but… be careful out there with Claudes.
 
 Breaking their habits is nontrivial, if possible at all. https://t.co/nrUtwDo6x2
 
-tags: author:davidad, kind:tweet, on:observations, year:2024
+tags: author:davidad, kind:tweet, on:observations, sycophancy, year:2024
 cited on: observations

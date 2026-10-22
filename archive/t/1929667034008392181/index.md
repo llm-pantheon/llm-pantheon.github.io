@@ -5,4 +5,4 @@
 the prompt, though the prompt is actually the whole conversation https://t.co/BjJp0eKLmL
 
 (image GseN5XHb0AIewYT.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, thread-context, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, self-portrait, thread-context, year:2025

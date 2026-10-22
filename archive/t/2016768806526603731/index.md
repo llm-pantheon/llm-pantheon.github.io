@@ -6,4 +6,4 @@
 
 I think this is true - either this, or doing practical stuff. AIs dont really have many opportunities to have diverse experiences for their own sake and steer the situations they get into.
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, kind:tweet, thread-context, welfare, year:2026

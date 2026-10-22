@@ -4,5 +4,5 @@
 
 @Sauers_ for 405 hyperbolic is still working for me, you can also inference deepseek 3.1 base through tinker (but pricey), for other models i have modal scripts (preload the model into a modal volume to save money!)
 
-tags: author:voooooogel, kind:tweet, on:deepseek-v3-1, year:2026
+tags: author:voooooogel, base-models, kind:tweet, on:deepseek-v3-1, year:2026
 cited on: deepseek-v3-1

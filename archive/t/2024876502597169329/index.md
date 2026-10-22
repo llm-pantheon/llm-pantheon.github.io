@@ -4,5 +4,5 @@
 
 a collaboration between two instances of gemini 3.1 pro + nanobanana, unedited and without human interference post setup
 
-tags: author:liminal_bardo, kind:tweet, on:gemini-3-1-pro, year:2026
+tags: author:liminal_bardo, kind:tweet, model-art, multi-agent, on:gemini-3-1-pro, year:2026
 cited on: _dossiers/gemini-3-1-pro.md, gemini-3-1-pro

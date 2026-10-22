@@ -4,4 +4,4 @@
 
 many people are saying this, and it's a great example of the distinction. a human can strangle me, but if an llm-controlled humanoid robot were to "strangle" me, that would actually be a strangle-simulacrum. as i choked to death i would be comforted by the fact that it wasn't re— https://t.co/NeBmmL70RZ
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2024
+tags: author:voooooogel, humor, kind:tweet, thread-context, year:2024

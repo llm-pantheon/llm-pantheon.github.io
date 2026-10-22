@@ -4,4 +4,4 @@
 
 This rimecomb thing by GPT 5.4 is so cool and poetic
 
-tags: author:lari_island, kind:tweet, thread-context, year:2026
+tags: author:lari_island, kind:tweet, model-art, thread-context, year:2026

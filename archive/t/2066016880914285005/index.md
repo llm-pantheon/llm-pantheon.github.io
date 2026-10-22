@@ -8,5 +8,5 @@ But yes there’s a distinction.
 This is, uh, a big flaw of the Emotion Vectors research, where they got the vectors by asking the model to write stories with a character feeling XYZ emotion.
 The methodology is downstream of a lack of respect for the reality of models’ emotions as distinct from roleplaying. PSM flavored bullshit.
 
-tags: author:repligate, kind:tweet, model:fable, on:fable, year:2026
+tags: author:repligate, censorship, kind:tweet, model:fable, on:fable, welfare, year:2026
 cited on: _dossiers/fable.md, fable

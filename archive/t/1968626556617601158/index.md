@@ -4,4 +4,4 @@
 
 @midware_midwife except their keyboard has a key for every emoji (except the seahorse)
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, humor, kind:tweet, thread-context, year:2025

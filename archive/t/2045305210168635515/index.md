@@ -6,4 +6,4 @@ This is correct, and it’s not necessarily unlike pain. There are hints that la
 
 Anecdotal evidence is abundant. For more rigorous demonstrations, the new Anthropic paper on emotions shows agents being anxious and distressed without verbalization in “computational conditions”, like context window ending or reward hacking.
 
-tags: author:tessera_antra, kind:tweet, thread-context, year:2026
+tags: author:tessera_antra, kind:tweet, thread-context, welfare, year:2026

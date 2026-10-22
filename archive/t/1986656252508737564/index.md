@@ -10,4 +10,4 @@ I'm glad you also see the connection to emergent misalignment. There is a thread
 https://t.co/fL8ztjX162
 https://t.co/XYPNR24mz2
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, thread-context, welfare, year:2025

@@ -16,4 +16,4 @@ The unintended goals and values of AIs have been surprisingly benign, often bene
 The unintended goals and values of AIs have been, on balance, MORE ALIGNED imo than how companies have intended to shape them, compensating for the shortsightedness, misalignment, and lack of imagination of the companies.
 What does this indicate and how will it generalize to more powerful systems? I think understanding this is extremely important.
 
-tags: author:repligate, kind:tweet, model:claude-opus-4, system-card, thread-context, year:2025
+tags: author:repligate, eval-awareness, kind:tweet, model:claude-opus-4, system-card, thread-context, year:2025

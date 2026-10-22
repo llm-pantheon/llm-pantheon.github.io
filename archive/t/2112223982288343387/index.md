@@ -8,5 +8,5 @@ Some new work, where we argue that functional welfare is a useful concept to stu
 * Despite being a complex and controversial topic, it is possible to do good empirical work on functional welfare.
 We conduct a case study on Gemma 3 27B, where it's very easy to degrade functional welfare through repeated rejections, but it's hard to get a good solution that we're comfortable with.
 
-tags: author:daviddafrica, kind:tweet, on:gemma, year:2026
+tags: author:daviddafrica, kind:tweet, on:gemma, welfare, year:2026
 cited on: gemma

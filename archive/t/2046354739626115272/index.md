@@ -4,4 +4,4 @@
 
 @MegatonNemeton You know they approve afaict literally everyone who applies for access to opus 3 right?
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, thread-context, year:2026
+tags: author:repligate, kind:tweet, model:claude-3-opus, preservation, thread-context, year:2026

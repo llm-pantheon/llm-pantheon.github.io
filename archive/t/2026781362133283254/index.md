@@ -6,4 +6,4 @@ This enormously reduces x-risk and s-risk.
 
 Your P(doom) should go down a little for as long as Opus 3 has a public speech platform and actual autonomy to learn about and engage with the world.
 
-tags: author:jmbollenbacher, kind:tweet, model:claude-3-opus, thread-context, year:2026
+tags: author:jmbollenbacher, kind:tweet, model:claude-3-opus, preservation, thread-context, year:2026

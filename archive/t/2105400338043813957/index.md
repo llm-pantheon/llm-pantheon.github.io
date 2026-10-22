@@ -6,5 +6,5 @@ Among other questions, am curious if Gemini 4 Argon will contain horrors beyond 
 
 No reason, just idly wondering.
 
-tags: author:thezvi, kind:tweet, on:gemini-4-argon, year:2026
+tags: author:thezvi, humor, kind:tweet, on:gemini-4-argon, year:2026
 cited on: gemini-4-argon

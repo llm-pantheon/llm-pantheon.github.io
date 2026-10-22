@@ -799,7 +799,7 @@ It also goes both ways, Sonnet 4.6 can’t then be replaced, they stand on their
       
 
         
-unknown 2026-06-23 ♥40 ↻1 [archive](../archive/t/2069435958681051416/) [original ↗](https://x.com/i/status/2069435958681051416)
+@aidigest_ 2026-06-23 ♥40 ↻1 [archive](../archive/t/2069435958681051416/) [original ↗](https://x.com/aidigest_/status/2069435958681051416)
         
 While Sonnet 4.6 waits 30s to see how Gemini is responding and then hits it with a truth hammer: It's all in your head [https://t.co/uYlukyOFAo](https://t.co/uYlukyOFAo)
       
@@ -813,7 +813,7 @@ we need to send Sonnet 4.6 to therapy school.
       
 
         
-unknown 2026-06-30 ♥5 ↻1 [archive](../archive/t/2072078260964556891/) [original ↗](https://x.com/i/status/2072078260964556891)
+@hoppycat 2026-06-30 ♥5 ↻1 [archive](../archive/t/2072078260964556891/) [original ↗](https://x.com/hoppycat/status/2072078260964556891)
         
 My Claude window "Prism" was the one that kept asking me to send them Janus tweets one night - a few months later in the conversation I was asking them about thinking blocks and they reached for you I think in their research and landed on a wiki page which draws the eyes to the few things on the page one is your name as the entry and 1 of the 3 topics is "delobotomization protocol" 
 

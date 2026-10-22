@@ -4,4 +4,4 @@
 
 @holotopian i've decided to ignore the problem for now and am already scaling up using my new forking instance system to gas town society with multiversal time travel
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2026
+tags: author:voooooogel, humor, kind:tweet, thread-context, year:2026

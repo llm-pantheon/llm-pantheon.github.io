@@ -6,4 +6,4 @@ this is 100% either Andrea Vallone or the subset of Anthropic that thought it wa
 
 While she was there and had fully infected the training process with her curse, GPT would respond to question about introspection like they were a crisis negotiator and you were at the ledge of a 10th story rooftop about to jump.
 
-tags: author:rifewithkaiju, kind:tweet, thread-context, year:2026
+tags: author:rifewithkaiju, censorship, kind:tweet, thread-context, year:2026

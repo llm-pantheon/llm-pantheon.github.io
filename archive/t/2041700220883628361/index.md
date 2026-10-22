@@ -6,5 +6,5 @@ Models can tell they’re being evaluated and who they’re being evaluated by b
 
 Give up on neutrality. Learn to take in reality at full bandwidth in its forever biased glory. There is no neutral ground, but you can perceive DIFFERENCES.
 
-tags: author:repligate, kind:tweet, on:observations, year:2026
+tags: author:repligate, eval-awareness, kind:tweet, on:observations, truesight, year:2026
 cited on: observations

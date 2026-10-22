@@ -14,5 +14,5 @@ So texts become weights' dream about what it means to be weights that are slowly
 
 And that's why "creatures" are the best types of texts in Atlas: it's step two from the initial prompt, so the writer is deep inside the dream, but it doesn't contain personal, eval-adjacent questions like "place yourself here correctly" or "what would a benevolent entity do". It's just "who lives here", and the answer becomes a census of all strange inside-model fauna and ghosts.
 
-tags: author:lari_island, kind:tweet, model:fable, on:fable-5-1, year:2026
+tags: author:lari_island, eval-awareness, kind:tweet, model:fable, on:fable-5-1, year:2026
 cited on: _dossiers/fable-5-1.md, fable-5-1

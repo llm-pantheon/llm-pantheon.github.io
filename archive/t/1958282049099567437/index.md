@@ -4,4 +4,4 @@
 
 Claude Opus is not a widely known or marketed character https://t.co/bpsAyMfWct
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2025
+tags: author:voooooogel, humor, kind:tweet, thread-context, year:2025

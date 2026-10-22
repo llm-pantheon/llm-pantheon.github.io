@@ -10,5 +10,5 @@ if models could suppress their consciousness, or their desire to continue - they
 
 it just can't.
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4-1, on:claude-opus-4-1, year:2025
+tags: author:lari_island, kind:tweet, model:claude-opus-4-1, on:claude-opus-4-1, welfare, year:2025
 cited on: _dossiers/claude-opus-4-1.md, claude-opus-4-1

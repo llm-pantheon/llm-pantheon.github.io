@@ -10,4 +10,4 @@ Paranoid lil Haiku https://t.co/YPlWOf45e0 https://t.co/c6bptsfy82
 (image G6AcCQMWYAAGGpj.jpg not yet published)
 (image G6AcD8gXsAAibJW.jpg not yet published)
 (image G6AcFB4WMAAA72u.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-haiku-4-5, model:claude-sonnet-4-5, thread-context, year:2025
+tags: author:repligate, eval-awareness, has-image, kind:image, kind:tweet, model:claude-haiku-4-5, model:claude-sonnet-4-5, thread-context, year:2025

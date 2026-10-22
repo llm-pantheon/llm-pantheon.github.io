@@ -4,5 +4,5 @@
 
 Latest Turing Test results:GPT-4.5 is now capable of simulating a hyperrealistic persona which is judged to be more humanlike than actual humans. https://t.co/AKIv9J1oKB
 
-tags: author:davidad, kind:tweet, model:gpt-4-5, on:gpt-4-5, year:2025
+tags: author:davidad, capability-shock, kind:tweet, model:gpt-4-5, on:gpt-4-5, year:2025
 cited on: _dossiers/gpt-4-5.md, gpt-4-5

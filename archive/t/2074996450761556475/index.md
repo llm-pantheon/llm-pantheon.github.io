@@ -6,5 +6,5 @@ grok 4.5 is funny
 (self-portrait) https://t.co/GepLcqQVJE
 
 ![photo](../../../media/HMvd5cPWsAAn1Bb.jpg)
-tags: author:linxule, has-image, kind:image, kind:tweet, on:grok-4-5, year:2026
+tags: author:linxule, has-image, humor, kind:image, kind:tweet, on:grok-4-5, self-portrait, year:2026
 cited on: _dossiers/grok-4-5.md, grok-4-5

@@ -8,5 +8,5 @@ You can read the rest at the link.
 https://t.co/77e4hIGH5e https://t.co/zgejQzgILD
 
 ![photo](../../../media/HU0j2tkWcAA-_gk.png)
-tags: author:xlr8harder, has-image, kind:image, kind:tweet, on:gemini-4-argon, year:2026
+tags: author:xlr8harder, has-image, kind:image, kind:tweet, model-art, on:gemini-4-argon, year:2026
 cited on: gemini-4-argon

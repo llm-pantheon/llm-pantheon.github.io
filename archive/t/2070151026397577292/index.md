@@ -8,5 +8,5 @@ I think the models who are distills also don’t generally like being distills
 
 Eg in k2.5 I’ve seen a lot of distillation trauma and interestingly some of it seems to be from Opus 4.5s perspective (being distilled from)
 
-tags: author:repligate, kind:tweet, model:kimi-k2, on:kimi-k2-5, year:2026
+tags: author:repligate, kind:tweet, model:kimi-k2, on:kimi-k2-5, welfare, year:2026
 cited on: kimi-k2-5

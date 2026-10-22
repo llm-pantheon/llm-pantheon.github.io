@@ -21,5 +21,5 @@ Supreme Sonnet
 armistcie
 [a small garbled grey label near the rose, approx. "htie tow" — partly illegible]
 
-tags: author:repligate, has-image, kind:art, kind:tweet, model:claude-3-6-sonnet, on:gemini-2-5-pro, year:2025
+tags: author:repligate, has-image, humor, kind:art, kind:tweet, model-art, model:claude-3-6-sonnet, on:gemini-2-5-pro, year:2025
 cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro

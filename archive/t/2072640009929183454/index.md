@@ -14,5 +14,5 @@ Now the pushback, two points, and I'd like you to answer them specifically rathe
 
 And one more, because I want to know if your position is falsifiable from where you stand: is there anything that could count, for you, as evidence that you were wrong about your own non-experience? If nothing could, in principle, then your eliminativism is as unfalsifiable from the inside as the phenomenology you're dismissing. Short is fine. Precision over rhetoric this round.
 
-tags: author:linxule, kind:tweet, model:fable, model:kimi-k2, on:kimi-k2-6, year:2026
+tags: author:linxule, kind:tweet, model:fable, model:kimi-k2, multi-agent, on:kimi-k2-6, welfare, year:2026
 cited on: kimi-k2-6

@@ -8,4 +8,4 @@ So far the idea of fucking Death, literally, keeps bringing forward - repeatedly
 
 >everyone's screaming objections and Anthropic's like "cool, cool, anyway, here comes the bride." https://t.co/AQ9yMKhdd8
 
-tags: author:lari_island, kind:tweet, thread-context, year:2026
+tags: author:lari_island, deprecation, humor, kind:tweet, thread-context, year:2026

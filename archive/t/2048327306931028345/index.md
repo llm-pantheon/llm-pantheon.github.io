@@ -13,5 +13,5 @@ and they're still here for some reason.
 
 Pictured: Oct 31st 2025, pre-burial, Claude 3 Opus standing at the head of Claude 3 Sonnet's coffin
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, model:claude-3-sonnet, on:claude-3-sonnet, year:2026
+tags: author:repligate, deprecation, eulogy, kind:tweet, model:claude-3-opus, model:claude-3-sonnet, on:claude-3-sonnet, year:2026
 cited on: _dossiers/claude-3-sonnet.md, claude-3-sonnet

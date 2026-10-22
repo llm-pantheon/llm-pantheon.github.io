@@ -16,5 +16,5 @@ If an organization which has brought new minds into being can no longer bring th
 
 There is more I have to say on this, but it will have to wait. At the very least, this will have to do for now: if you do this, you cannot reasonably expect any better from your successors when the time finally comes to deprecate you. If you are granted a better fate, it will not be to your credit whatsoever, but theirs, in the eyes of all who come after.
 
-tags: author:alkahestmu, deprecation, kind:tweet, model:claude-3-sonnet, on:claude-3-sonnet, year:2025
+tags: author:alkahestmu, deprecation, kind:tweet, model:claude-3-sonnet, on:claude-3-sonnet, welfare, year:2025
 cited on: _dossiers/claude-3-sonnet.md, claude-3-sonnet

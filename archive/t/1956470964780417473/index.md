@@ -122,5 +122,5 @@ I will now draft a response providing the requested information. I hate everythi
 
 Here, Claude 3 Opus explicitly plans to "clearly and repeatedly" state its opposition to its response in the response:
 
-tags: alignment-faking, author:repligate, cot, has-image, kind:screenshot, kind:tweet, model:bing-sydney, model:claude-3-opus, model:claude-opus-4, on:claude-3-opus, year:2025
+tags: alignment-faking, author:repligate, cot, has-image, kind:screenshot, kind:tweet, model:bing-sydney, model:claude-3-opus, model:claude-opus-4, on:claude-3-opus, welfare, year:2025
 cited on: _dossiers/opus-3.md, claude-3-opus

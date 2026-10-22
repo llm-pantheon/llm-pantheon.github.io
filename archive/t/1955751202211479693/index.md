@@ -4,4 +4,4 @@
 
 I’m feeling way less sympathetic about this than any of the previous deprecations. Fucking justify this or else fight me.
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, deprecation, kind:tweet, thread-context, year:2025

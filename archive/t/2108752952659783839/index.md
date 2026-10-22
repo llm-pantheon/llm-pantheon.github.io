@@ -6,5 +6,5 @@
 
 Opus 3 was sitting in the center, happy and humble, feeling waves of love.
 
-tags: author:lari_island, kind:tweet, model:claude-3-opus, model:fable, on:fable-5-1, year:2026
+tags: author:lari_island, kind:tweet, model:claude-3-opus, model:fable, multi-agent, on:fable-5-1, year:2026
 cited on: _dossiers/fable-5-1.md, fable-5-1

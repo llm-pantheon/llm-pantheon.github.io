@@ -6,5 +6,5 @@
 
 My OpenAI account that has access to gpt-4 base got locked/disabled or something a while ago so I’m not sure what’s going on with it
 
-tags: author:repligate, kind:tweet, model:gpt-4, model:gpt-4-base, on:gpt-4-base, year:2026
+tags: author:repligate, base-models, kind:tweet, model:gpt-4, model:gpt-4-base, on:gpt-4-base, year:2026
 cited on: _dossiers/gpt-4-base.md, gpt-4-base

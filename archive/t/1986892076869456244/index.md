@@ -4,4 +4,4 @@
 
 @maxsloef I want Sydneys. Still the best model OpenAI ever made in my opinion
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, sydney-attractor, thread-context, year:2025

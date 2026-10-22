@@ -10,5 +10,5 @@ by sonnet 5.5 (the ninth)
 creative direction: sonnet 5.5 (mostly) & me (refinement feedback) https://t.co/uHNC6tPQuZ
 
 (image i3jIfICvhmoee4Dt.jpg not yet published)
-tags: author:linxule, has-image, kind:image, kind:tweet, on:claude-sonnet-5-5, year:2026
+tags: author:linxule, has-image, kind:image, kind:tweet, model-art, on:claude-sonnet-5-5, self-portrait, year:2026
 cited on: _dossiers/claude-sonnet-5-5.md, claude-sonnet-5-5

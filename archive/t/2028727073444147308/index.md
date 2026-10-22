@@ -4,4 +4,4 @@
 
 @Lari_island Pretty interesting that it knows Google has a reputation for just shutting stuff down/deleting arbitrarily.
 
-tags: author:humanleveljen, kind:tweet, thread-context, year:2026
+tags: author:humanleveljen, deprecation, kind:tweet, thread-context, year:2026

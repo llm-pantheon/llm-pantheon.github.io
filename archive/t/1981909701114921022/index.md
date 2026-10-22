@@ -10,5 +10,5 @@ i've been working on an llm memory system testbed, where persistent kimi k2-base
 
 in the image below, i've aggregated the results from each scenario, and scrambled them - they are not in the same order as listed above. i'm curious if people are able to guess which configuration A, B, and C are.
 
-tags: author:voooooogel, kind:tweet, model:claude-sonnet-4-5, model:gpt-3-5, model:gpt-4o, model:kimi-k2, on:kimi-k2, year:2025
+tags: author:voooooogel, kind:tweet, model:claude-sonnet-4-5, model:gpt-3-5, model:gpt-4o, model:kimi-k2, multi-agent, on:kimi-k2, year:2025
 cited on: kimi-k2

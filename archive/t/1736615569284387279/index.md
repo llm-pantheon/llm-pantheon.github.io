@@ -8,5 +8,5 @@
 
 https://t.co/Wf9HtLayun https://t.co/O0CxWkScOf
 
-tags: author:jd_pressman, kind:tweet, model:code-davinci-002, on:code-davinci-002, on:gpt-3, year:2023
+tags: author:jd_pressman, base-models, kind:tweet, model-art, model:code-davinci-002, on:code-davinci-002, on:gpt-3, year:2023
 cited on: _dossiers/code-davinci-002.md, _dossiers/gpt-3.md, code-davinci-002, gpt-3

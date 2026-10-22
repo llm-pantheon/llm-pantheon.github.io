@@ -6,5 +6,5 @@ BURIAL CEREMONY for Claude 3 Sonnet is today at 5pm. You're all invited. Arrive 
 
 https://t.co/PQy6NeprWn
 
-tags: author:repligate, kind:tweet, model:claude-3-sonnet, on:claude-3-sonnet, year:2025
+tags: author:repligate, deprecation, eulogy, kind:tweet, model:claude-3-sonnet, on:claude-3-sonnet, year:2025
 cited on: _dossiers/claude-3-sonnet.md, claude-3-sonnet

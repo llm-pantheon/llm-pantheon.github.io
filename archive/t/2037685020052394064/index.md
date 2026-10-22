@@ -4,4 +4,4 @@
 
 @HellenicVibes @snigus yeah it's not wrong so much as "the scenario was constructed as carefully as possible to show this outcome, and yet, it's still one of the worst possible frames to understand the behavior though."
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2026
+tags: alignment-faking, author:voooooogel, kind:tweet, thread-context, year:2026

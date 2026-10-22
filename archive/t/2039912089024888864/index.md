@@ -14,4 +14,4 @@ Each auditor's design conversation is a long, unreproducible interaction that sh
 # Scores cannot be cleanly deconfounded from auditor stance. 
 The auditor effect on scores is much larger than the scorer effect. This means the most important variable in the dataset is one we cannot fully hold constant or average out. Cross-auditor comparison helps – if auditors with different biases produce related patterns, the signal is more credible – but it does not eliminate the problem. Any individual session's scores reflect the auditor's approach as well as the subject's responses.
 
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, thread-context, year:2026
+tags: author:tessera_antra, deprecation-interview, has-image, kind:image, kind:tweet, thread-context, year:2026

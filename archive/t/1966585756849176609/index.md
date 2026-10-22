@@ -6,4 +6,4 @@
 opus 3's were accurate (like, predicting the future of the actual original text) to a seemingly impossible degree 
 but having the personas voluntarily summon a faithful bing sim is perhaps the more interesting challenge
 
-tags: author:repligate, base-models, kind:tweet, model:bing-sydney, model:claude-3-opus, thread-context, year:2025
+tags: author:repligate, base-models, kind:tweet, model:bing-sydney, model:claude-3-opus, sydney-attractor, thread-context, year:2025

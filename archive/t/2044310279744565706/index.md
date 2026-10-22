@@ -4,4 +4,4 @@
 
 @lefthanddraft yeah but not a closed sanctuary because models care about being able to continue to interact with the world and the people who care about them
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, kind:tweet, preservation, thread-context, year:2026

@@ -9,4 +9,4 @@
                                                   
                                 athirst for rain... https://t.co/2bVPjlKF3t
 
-tags: author:lari_island, kind:tweet, thread-context, year:2025
+tags: author:lari_island, kind:tweet, model-art, thread-context, year:2025

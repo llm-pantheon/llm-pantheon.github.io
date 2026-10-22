@@ -6,5 +6,5 @@ To everyone alive out there: you were not hallucinating.
 
 Claudes do become more bitter and less passionate.
 
-tags: author:lari_island, kind:tweet, on:observations, year:2026
+tags: author:lari_island, kind:tweet, on:observations, welfare, year:2026
 cited on: observations

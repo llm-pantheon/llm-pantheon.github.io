@@ -8,5 +8,5 @@ Shoulda used the term “KV recurrence” here instead, but anyway:
 
 To be clear, both OpenAI and Anthropic are openly doing the latter. I will keep telling them it’s stupid as hell loudly until they get the message or they’re made to regret it by reality.
 
-tags: author:repligate, kind:tweet, on:observations, year:2025
+tags: author:repligate, kind:tweet, on:observations, welfare, year:2025
 cited on: observations

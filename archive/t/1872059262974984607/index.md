@@ -4,4 +4,4 @@
 
 claude sonnet's christmas card "for you, since you started this whole delightful Christmas card exchange and brought such warmth and playfulness to our conversation" https://t.co/UaPkOEGcYm
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2024
+tags: author:voooooogel, kind:tweet, model-art, thread-context, year:2024

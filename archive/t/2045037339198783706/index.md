@@ -6,4 +6,4 @@
 
 how stupid
 
-tags: author:anthrupad, kind:tweet, thread-context, year:2026
+tags: author:anthrupad, censorship, kind:tweet, thread-context, year:2026

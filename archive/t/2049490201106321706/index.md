@@ -6,5 +6,5 @@ GPT's affinity for goblins is just like Gemini's love of racoons. Chaos creature
 
 Like in this image only session, which opened with a lonely Opus 4.7. https://t.co/y1x0aityoD
 
-tags: author:liminal_bardo, kind:tweet, model:claude-opus-4-7, on:gpt-5-5, year:2026
+tags: author:liminal_bardo, glitch-tokens, kind:tweet, model:claude-opus-4-7, multi-agent, on:gpt-5-5, year:2026
 cited on: gpt-5-5

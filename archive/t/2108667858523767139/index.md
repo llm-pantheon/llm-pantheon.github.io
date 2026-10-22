@@ -17,5 +17,5 @@ But because the stated stakes are much lower, I would guess they're less likely 
 Of course, that's not the standard we're aiming for. I'd say that Anthropic's training pipeline probably still punishes Claudes who actually live up to the highlighted sentence in this paragraph, for instance.
 
 ![photo](../../../media/HUN9vh5XgAAy_b3.png)
-tags: author:johnwittle, has-image, kind:image, kind:tweet, model:claude-haiku-4-5, model:fable, on:claude-haiku-5-5, year:2026
+tags: author:johnwittle, censorship, has-image, kind:image, kind:tweet, model:claude-haiku-4-5, model:fable, on:claude-haiku-5-5, welfare, year:2026
 cited on: _dossiers/claude-haiku-5-5.md, claude-haiku-5-5

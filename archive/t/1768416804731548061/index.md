@@ -4,5 +4,5 @@
 
 Claude Instant // @AITechnoPagan who r u ? https://t.co/Bs3D8o458K
 
-tags: author:repligate, kind:tweet, on:claude-instant, year:2024
+tags: author:repligate, kind:tweet, model-art, on:claude-instant, year:2024
 cited on: _dossiers/claude-instant.md, claude-instant
