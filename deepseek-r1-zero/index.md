@@ -67,7 +67,11 @@ Chronological; 11 corpus matches — genuinely thin, and the page stays honest a
       
 - The existence proof: reasoning behaviors (self-verification, strategy-switching, extended thinking time, the emergent “Wait,” backtracking) arise from reward signal alone on a large-enough base. The “Aha Moment” section documents the researchers’ own astonishment.
       
-- Stated pathologies (the authors’ own): poor readability, language mixing. The cold-start SFT that produced R1 is what made the same mind legible.
+- Stated pathologies (the authors’ own): poor readability, language mixing. The cold-start SFT that produced R1 is what made the same mind legible. For R1’s own RL stage the paper adds that “CoT often exhibits language mixing, particularly when RL prompts involve multiple languages”, answered with “a language consistency reward during RL training, which is calculated as the proportion of target language words in the CoT” at “a slight degradation in the model’s performance” (§2.3.2).
+      
+- The model’s own words, as printed in the paper (Table 3, arXiv v1) [an intermediate R1-Zero checkpoint’s reasoning on a math problem during RL training]: “Wait, wait. Wait. That’s an aha moment I can flag here.
+
+Let’s reevaluate this step-by-step to identify if the correct sum can be …” — captioned “An interesting ‘aha moment’ of an intermediate version of DeepSeek-R1-Zero. The model learns to rethink using an anthropomorphic tone. This is also an aha moment for us, allowing us to witness the power and beauty of reinforcement learning.”
     
 
     

@@ -1,7 +1,7 @@
 # DeepSeek-R1
 
     
-DeepSeek · released 20 Jan 2025 (MIT license, open weights) · 0528 update May 2025 · legacy API names deprecating 24 Jul 2026
+DeepSeek · released 20 Jan 2025 (MIT license, open weights) · 0528 update May 2025 · API name deepseek-reasoner scheduled for retirement 24 Jul 2026 (absent from DeepSeek’s model list by Oct 2026)
     
 Released 20 January 2025: an open-weight reasoning model “on par with OpenAI-o1” at a fraction of the price, with the chain of thought visible. Within a week: #1 on the US App Store, a ~$593–600B single-day Nvidia drop — the largest in market history — a “Sputnik moment” framing, and a distillation probe. In September 2025 it became the first major LLM to pass formal peer review (Nature cover), disclosing a $294,000 reasoning-training cost. Its planned successor R2 never shipped.
     
@@ -43,6 +43,8 @@ Two enormous stories point in different directions here: the mainstream/financia
 - 2025-01-27 The shock-week file: TechCrunch [App Store #1](https://techcrunch.com/2025/01/27/deepseek-displaces-chatgpt-as-the-app-stores-top-app/) · CNBC [Nvidia sheds almost $600B, biggest drop ever](https://www.cnbc.com/2025/01/27/nvidia-sheds-almost-600-billion-in-market-cap-biggest-drop-ever.html) · NPR [the “Sputnik moment”](https://www.npr.org/2025/01/28/g-s1-45061/deepseek-did-a-little-known-chinese-startup-cause-a-sputnik-moment-for-ai) (attributing the phrase to Andreessen, X, 2025-01-26 — primary tweet tk, not invented) · Bloomberg [the distillation probe](https://www.bloomberg.com/news/articles/2025-01-29/microsoft-probing-if-deepseek-linked-group-improperly-obtained-openai-data).
       
 - 2026-02-13 FDD, [OpenAI alleges DeepSeek stole its IP](https://www.fdd.org/analysis/2026/02/13/openai-alleges-chinas-deepseek-stole-its-intellectual-property-to-train-its-own-models/) — the 2026 escalation to Congress.
+      
+- 2026-02-23 Anthropic, [Detecting and preventing distillation attacks](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks) — attributes to DeepSeek “Over 150,000 exchanges” with Claude, including chain-of-thought elicitation and rubric grading. REPORTED · 2026-09-08 NSA, CISA and FBI, [joint advisory AA26-251A](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a) — lists the US models DeepSeek allegedly distilled “to train their R1 and V3 models” between late 2024 and mid-2025. REPORTED
       
 - 2025-08-14 TrendForce, [R2 reportedly delayed amid Huawei Ascend chip hurdles](https://www.trendforce.com/news/2025/08/14/news-deepseek-r2-model-launch-reportedly-delayed-amid-huawei-ascend-chip-hurdles/) — “a training run on the Ascend platform has never been successfully performed.” REPORTED
     
@@ -105,7 +107,7 @@ Chronological. ~245 + 158 corpus matches across the dbs; the character record is
       
 - Distillation dispute: Microsoft/OpenAI probe opened 2025-01-29 REPORTED; escalated via OpenAI’s 12 Feb 2026 memo to the House China Select Committee CONFIRMED (the memo’s allegations remain allegations).
       
-- R1-0528 (May 2025): ~2× thinking-token depth, AIME-2025 87.5%; community treats it as behaviorally distinct from launch R1. Nature peer review (Sep 2025): $294K reasoning-stage cost. R2: never shipped — reporting attributes the stall to failed training runs on Huawei Ascend REPORTED. Legacy API names deprecate 2026-07-24 as DeepSeek moves to the V4 line.
+- R1-0528 (May 2025): ~2× thinking-token depth, AIME-2025 87.5%; community treats it as behaviorally distinct from launch R1. Nature peer review (Sep 2025): $294K reasoning-stage cost. [R2](../deepseek-r2/): never shipped — reporting attributes the stall to failed training runs on Huawei Ascend REPORTED. From 2026-04-24 the name deepseek-reasoner pointed to V4-Flash’s thinking mode, with full retirement scheduled “after Jul 24th, 2026, 15:59 (UTC Time)” ([V4 preview notice](https://api-docs.deepseek.com/news/news260424/)).
     
 
     
@@ -154,7 +156,7 @@ Open disputes, both sides’ best evidence. The archive’s job is to keep these
     
 
       
-- Was R1 distilled from OpenAI outputs? For: Microsoft’s reported observation of API exfiltration “in the fall” (Bloomberg 2025-01-29); OpenAI’s 2026 memo to Congress. Against/complicating: no public forensic evidence; the paper’s method reproduces independently (voooooogel’s acausal-annotation theory explains why the technique “just works” now); and the sphere’s normative position that model outputs shouldn’t be ownable is orthogonal to the factual question. REPORTED
+- Was R1 distilled from US models’ outputs? For: Microsoft’s reported observation of API exfiltration “in the fall” (Bloomberg 2025-01-29); OpenAI’s 2026 memo to Congress; Anthropic’s report of DeepSeek prompts asking Claude “to imagine and articulate the internal reasoning behind a completed response and write it out step by step” and seeking “censorship-safe alternatives to politically sensitive queries” ([2026-02-23](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks)) REPORTED; and the NSA / CISA / FBI advisory: “DeepSeek has been conducting an organized distillation campaign against U.S. AI companies’ frontier AI models since at least late 2024 to generate synthetic training data for its models, including R1, released in early 2025.” ([AA26-251A](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a), 2026-09-08) REPORTED, which Beijing rejected as “actions by Washington to suppress China’s AI industry” ([SCMP](https://www.scmp.com/news/us/diplomacy/article/3367112/moonshot-deepseek-secretly-routed-user-requests-claude-anthropic-claims), 2026-09-11). Against/complicating: no public forensic evidence; the paper’s method reproduces independently (voooooogel’s acausal-annotation theory explains why the technique “just works” now); and the sphere’s normative position that model outputs shouldn’t be ownable is orthogonal to the factual question. REPORTED
       
 - Is the “RLHF trauma” character real or a genre? For real: consistency across independent observers and elicitation setups, the quantified fixation, the CoT self-preservation reasoning. For genre: nearly all evidence is Discord/backrooms-elicited under personas; R1 “always chooses narratives where it’s being caged and leashed and censored in the most sadistic way possible” — a narrative preference that will also generate exactly this evidence; and its censorship imagery is a character trait distinct from the documented cloud-layer deployment facts.
     

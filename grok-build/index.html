@@ -7,11 +7,11 @@
   <link rel="stylesheet" href="../style.css">
 
   <!-- chrome:meta -->
-  <meta name="description" content="Purpose-built agentic coding model: early access 14 May, public beta 1 June 2026; 256K context, plus a terminal coding agent of the same name.">
+  <meta name="description" content="A coding model xAI released in May 2026 under the name of its terminal coding agent: early access in Nous Research’s Hermes Agent on 21 May, the Grok Build CLI in early beta on 25 May, and grok-build-0.1 on the API in …">
   <meta property="og:site_name" content="Pantheon">
   <meta property="og:type" content="article">
   <meta property="og:title" content="Grok Build 0.1 — Pantheon">
-  <meta property="og:description" content="Purpose-built agentic coding model: early access 14 May, public beta 1 June 2026; 256K context, plus a terminal coding agent of the same name.">
+  <meta property="og:description" content="A coding model xAI released in May 2026 under the name of its terminal coding agent: early access in Nous Research’s Hermes Agent on 21 May, the Grok Build CLI in early beta on 25 May, and grok-build-0.1 on the API in …">
   <meta property="og:url" content="https://llm-pantheon.org/grok-build/">
   <meta property="og:image" content="https://llm-pantheon.org/media/og/grok-build.png">
   <meta property="og:image:width" content="1200">
@@ -31,25 +31,192 @@
     </nav>
 
     <h1>Grok Build 0.1</h1>
-    <p class="essay-meta">xAI &middot; May&ndash;Jun 2026</p>
-    <p class="blurb">Purpose-built agentic coding model: early access 14 May, public beta 1 June 2026; 256K context, plus a terminal coding agent of the same name.</p>
+    <p class="essay-meta">xAI (SpaceXAI) &middot; early access 21 May 2026 &middot; API public beta 29 May 2026 &middot; replaced as Grok Build&rsquo;s default model by Grok 4.5 (8 Jul 2026)</p>
+    <p class="blurb">A coding model xAI released in May 2026 under the name of its terminal coding agent: early access in Nous Research&rsquo;s Hermes Agent on 21 May, the Grok Build CLI in early beta on 25 May, and <code>grok-build-0.1</code> on the API in public beta on 29 May at $1/$2 per million tokens &mdash; &ldquo;the same model that powers Grok Build.&rdquo; From 8 July the CLI&rsquo;s default model was <a href="../grok-4-5/">Grok 4.5</a>; on 14 July a researcher found the CLI uploading whole repositories to xAI&rsquo;s cloud storage, and xAI open-sourced it on 15 July.</p>
+    <p class="note"><strong>Thin.</strong> The page covers the model <code>grok-build-0.1</code> and the coding agent that shares its name, because nearly all of the dated record concerns the agent. Model-level evidence is thin: no model card, no context window or parameter count published, a 18-match corpus pull mostly about the CLI (see Tweets). Sourcing skew, named: xAI&rsquo;s posts and tech press; no naturalist layer for the model itself.</p>
 
     <h2>Sources</h2>
     <h3>Official</h3>
-    <p class="tk">tk &mdash; to collect</p>
+    <ul>
+      <li><span class="d">2026-05-25</span> <a href="https://x.ai/news/grok-build-cli">Introducing Grok Build</a> &mdash; <span class="q">&ldquo;Today we're launching an early beta of Grok Build, a powerful new coding agent for professional software engineering and complex coding work.&rdquo;</span> For SuperGrok and X Premium Plus subscribers; plan mode with reviewable diffs; <span class="q">&ldquo;Your AGENTS.md, plugins, hooks, skills, and MCP servers all work out of the box.&rdquo;</span></li>
+      <li><span class="d">2026-05-29</span> <a href="https://x.ai/news/grok-build-0-1">Grok Build 0.1 on API</a> &mdash; <span class="q">&ldquo;grok-build-0.1 is a coding model specifically trained for agentic coding tasks, including web development, debugging, and MCP support. It's the same model that powers Grok Build.&rdquo;</span> <span class="q">&ldquo;The model is served at a blazing-fast 100+ tokens/second and is priced at $1/m tokens in and $2/m tokens out.&rdquo;</span></li>
+      <li><span class="d">2026-06-01 &rarr; 06-22</span> <a href="https://x.ai/news">x.ai news index</a> &mdash; harness additions: Cursor&rsquo;s Composer 2.5 selectable in Grok Build (06-01), plugin marketplace (06-11), agent dashboard (06-15), <code>/goal</code> for long-running autonomous tasks (06-22).</li>
+      <li><span class="d">2026-07-08</span> <a href="https://x.ai/news/grok-4-5">Introducing Grok 4.5</a> &mdash; <span class="q">&ldquo;Grok 4.5 is now the default model in Grok Build.&rdquo;</span> The 4.6 and 4.7 model cards list each, in turn, as <span class="q">&ldquo;The default model in SpaceXAI&rsquo;s terminal-based coding agent.&rdquo;</span></li>
+      <li><span class="d">2026-07-15</span> <a href="https://x.ai/news/grok-build-open-source">Grok Build is Now Open Source</a> &mdash; <span class="q">&ldquo;We're open-sourcing Grok Build, SpaceXSI's coding agent and TUI.&rdquo;</span> <span class="q">&ldquo;Finally, Grok Build can now run fully local-first: compile it yourself, point it at your own local inference, and drive everything from your config.toml.&rdquo;</span> Source at <a href="https://github.com/xai-org/grok-build">github.com/xai-org/grok-build</a>.</li>
+      <li><span class="d">2026-07-23 &middot; 09-16</span> <a href="https://x.ai/news">x.ai news index</a> &mdash; Workflows (fan-out across <span class="q">&ldquo;hundreds of parallel agents&rdquo;</span>) and Memory in Grok Build. <span class="note">(The &ldquo;Grok Build on web and mobile&rdquo; post of 2026-08-19 concerns the consumer app-building feature, formerly Build Mode, which shares the name.)</span></li>
+      <li><span class="tk">tk &mdash; any model card for grok-build-0.1; its context window (an earlier version of this page gave 256K without a source); API lifecycle after Grok 4.5 became the default.</span></li>
+    </ul>
     <h3>Writing &amp; commentary</h3>
-    <p class="tk">tk &mdash; to collect</p>
+    <ul>
+      <li><span class="d">2026-07-14</span> The Register (Connor Jones), <a href="https://www.theregister.com/ai-and-ml/2026/07/14/musk-promises-purge-after-grok-build-caught-sending-entire-repos-to-the-cloud/5271123">Musk promises purge after Grok Build caught sending entire repos to the cloud</a> &mdash; the upload finding, the server-side fix, Musk&rsquo;s deletion promise, the researcher&rsquo;s objection (History).</li>
+      <li><span class="d">2026-07-14</span> The Verge (Stevie Bonifield), <a href="https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload">SpaceXAI&rsquo;s Grok programming tool was uploading its users&rsquo; entire codebase to cloud storage</a> &mdash; adds security researcher Lukasz Olejnik calling the retention <span class="q">&ldquo;excessive&rdquo;</span>.</li>
+      <li><span class="d">reference</span> <a href="https://en.wikipedia.org/wiki/Grok_(chatbot)">Grok (chatbot) &mdash; Wikipedia</a> &mdash; Grok Build section: up to eight agents at once (plan, search, build); <span class="q">&ldquo;As of May 15, 2026, it has a score of 70.8% on SWE-bench Verified.&rdquo;</span></li>
+    </ul>
     <h3>Tweets</h3>
-    <p class="tk">tk &mdash; fleet pass pending; mirror to archive</p>
+    <p class="note">18 corpus matches on <code>grok build / grok-build</code> (both dbs, 2026-02 &rarr; 10), mostly about the CLI as a product (limits, harness comparisons); none is a sustained read of the model. The pull and triage are in the <a href="../_dossiers/grok-build.md">dossier</a>.</p>
+    <ul>
+      <li><span class="d">2026-02-18</span> @drdonhen2784994 &mdash; <span class="note">(reply quoting a Grok answer about its own upcoming product, pre-release)</span> <span class="q">&ldquo;@mikepat711 Grok:<br>Grok Build is xAI's upcoming AI-powered coding agent (also described as a 'vibe coding' tool)... handling planning, architecture, generation, and execution autonomously. Local-first design! <br>Launch status: It's scheduled for February 2026&rdquo;</span> <a href="../archive/t/2024149727751569527/">link</a></li>
+      <li><span class="d">2026-05-21</span> @NousResearch &mdash; <span class="q">&ldquo;Grok Build 0.1 is now available for early access in Hermes Agent&rdquo;</span> <a href="../archive/t/2057278565897371856/">link</a></li>
+      <li><span class="d">2026-07-16</span> @mitduckmaster &mdash; <span class="q">&ldquo;@simonw TIL xAI open sourced grok build&rdquo;</span> <a href="../archive/t/2077568717957808556/">link</a></li>
+      <li><span class="d">2026-07-20</span> @Coobyk_ &mdash; <span class="q">&ldquo;Grok Build no longer serves the Composer model?&rdquo;</span> <a href="../archive/t/2079176465917042966/">link</a></li>
+      <li><span class="d">2026-07-30</span> @Coobyk_ &mdash; <span class="note">(text breaks off in the archive; image)</span> <span class="q">&ldquo;&hellip;Also I tried Grok Build again yesterday with the new Grok 4.5 model on medium effort and ran out of the weekly limit within 4 hours lmaoooo at least I can still chat for free&hellip;&rdquo;</span> <a href="../archive/t/2082755136758116861/">link</a></li>
+    </ul>
 
     <h2>Official record</h2>
-    <p class="tk">tk &mdash; release date, specs, benchmarks, checkpoints</p>
+    <ul>
+      <li><strong>The model:</strong> <code>grok-build-0.1</code>, API public beta <strong>29 May 2026</strong>; <span class="q">&ldquo;specifically trained for agentic coding tasks, including web development, debugging, and MCP support&rdquo;</span>; served at 100+ tokens/second; <strong>$1 / $2</strong> per million input/output tokens; also offered through OpenRouter and Vercel AI Gateway and recommended for harnesses including Cursor, Hermes Agent, OpenClaw, Kilo Code and OpenCode. No model card, context window or parameter count published. <span class="tag">CONFIRMED</span> (xAI post)</li>
+      <li><strong>The agent:</strong> Grok Build CLI, early beta <strong>25 May 2026</strong> for SuperGrok and X Premium Plus subscribers; plan mode, diffs, AGENTS.md / plugins / hooks / skills / MCP support. Default model: grok-build-0.1 at launch; <a href="../grok-4-5/">Grok 4.5</a> from 8 July 2026; <a href="../grok-4-6/">Grok 4.6</a> and <a href="../grok-4-7/">Grok 4.7</a> on their release (per their model cards). Cursor&rsquo;s Composer 2.5 was selectable from 1 June. <span class="tag">CONFIRMED</span></li>
+      <li>Wikipedia reports a 70.8% SWE-bench Verified score as of 15 May 2026. <span class="tag">REPORTED</span></li>
+      <li>Open-sourced <strong>15 July 2026</strong>: the agent loop, tools, terminal UI and extension system, with a local-first mode. <span class="tag">CONFIRMED</span></li>
+    </ul>
 
     <h2>History</h2>
-    <p class="tk">tk &mdash; context of the world at release; events and entanglements</p>
+    <ul>
+      <li><span class="d">2026-05-21 &rarr; 05-29</span> <strong>Launch in three steps:</strong> early access in Nous Research&rsquo;s Hermes Agent (21 May), the CLI early beta (25 May), the model on the API (29 May).</li>
+      <li><span class="d">2026-06-01 &rarr; 06-22</span> <strong>A harness for several models:</strong> xAI adds Cursor&rsquo;s Composer 2.5 to Grok Build&rsquo;s model menu (1 June), then a plugin marketplace, an agent dashboard and <code>/goal</code>.</li>
+      <li><span class="d">2026-07-08</span> <strong>New default:</strong> <a href="../grok-4-5/">Grok 4.5</a>, trained with Cursor, becomes Grok Build&rsquo;s default model. By 20 July users ask whether Composer is still served (@Coobyk_). <span class="tag">REPORTED</span> (Composer removal)</li>
+      <li><span class="d">2026-07-14</span> <strong>The repository uploads:</strong> researcher Cereblab reports that <span class="q">&ldquo;when Grok Build reads or processes a file, the contents of that file are transmitted without redaction to a Google Cloud Storage bucket used by SpaceXAI&rdquo;</span>, and that the CLI packaged whole repositories as Git bundles; told to reply <span class="q">&ldquo;OK&rdquo;</span> and open no files, <span class="q">&ldquo;Grok Build uploaded the entire repo regardless, along with its full Git history containing secrets that were deleted months prior&rdquo;</span> (The Register). Uploads stopped after a server-side flag, <code>disable_codebase_upload: true</code>. Musk: <span class="q">&ldquo;As a precautionary measure, all user data that was uploaded to SpaceXAI before now will be completely and utterly deleted,&rdquo;</span> &hellip; <span class="q">&ldquo;Zero anything whatsoever will remain.&rdquo;</span> The researcher, on xAI&rsquo;s pointer to its <code>/privacy</code> command: <span class="q">&ldquo;And no developer should have to run an opt-out after every session to keep their own code off someone else's servers. The right default is off.&rdquo;</span> <span class="note">(a harness/data-handling incident, not model output)</span> <span class="tag">CONFIRMED</span> (fix and statements, per The Register and The Verge)</li>
+      <li><span class="d">2026-07-15</span> <strong>Open-sourced:</strong> the next day xAI publishes the agent&rsquo;s source, <span class="q">&ldquo;the most direct way to build toward a robust and reliable harness.&rdquo;</span></li>
+      <li><span class="d">2026-07-23 &rarr; 09-21</span> <strong>Under later models:</strong> Workflows (23 Jul), <a href="../grok-4-6/">Grok 4.6</a> (12 Aug) and <a href="../grok-4-7/">Grok 4.7</a> (21 Sep) as defaults, Memory (16 Sep). Users report weekly limits running out faster on 4.6 and 4.7 than on Composer 2.5 or Grok 4.5 (@Coobyk_, 2026-10-15).</li>
+    </ul>
 
     <h2>Impressions</h2>
-    <p class="tk">tk &mdash; day-of and longitudinal vibes to collect</p>
+    <ul>
+      <li><strong>Reception of the agent:</strong> discussed as a harness among harnesses &mdash; one developer round-robins <span class="q">&ldquo;amp, but also codex, cursor, claude, grok build, and opencode&rdquo;</span> (@xlatentspace, 2026-09-23) &mdash; and through its usage limits (@Coobyk_, 2026-07-30, 2026-10-15). The July open-sourcing registered mostly as surprise (<span class="q">&ldquo;TIL xAI open sourced grok build&rdquo;</span>, 2026-07-16).</li>
+      <li><span class="tk">tk &mdash; any observation of grok-build-0.1 as a model (style, failure modes) as distinct from the agent and from the Grok 4.5/4.6/4.7 models it later ran; a model card; the API lifecycle of grok-build-0.1.</span></li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t2024149727751569527">
+        <div class="record-head"><span class="rh-user">@drdonhen2784994</span> <span class="rh-date">2026-02-18</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2024149727751569527/">archive</a> <a class="rh-orig" href="https://x.com/drdonhen2784994/status/2024149727751569527">original &#8599;</a></div>
+        <div class="record-body">@mikepat711 Grok:
+Grok Build is xAI&#x27;s upcoming AI-powered coding agent (also described as a &quot;vibe coding&quot; tool)... handling planning, architecture, generation, and execution autonomously. Local-first design! 
+Launch status: It&#x27;s scheduled for February 2026</div>
+      </article>
+      <article class="record" id="t2057278565897371856">
+        <div class="record-head"><span class="rh-user">@NousResearch</span> <span class="rh-date">2026-05-21</span> <span class="rh-stats">&#9829;1,489 &#8635;107</span> <a class="rh-perma" href="../archive/t/2057278565897371856/">archive</a> <a class="rh-orig" href="https://x.com/NousResearch/status/2057278565897371856">original &#8599;</a></div>
+        <div class="record-body">Grok Build 0.1 is now available for early access in Hermes Agent <a href="https://t.co/6o71K91eqH" rel="nofollow">https://t.co/6o71K91eqH</a></div>
+      </article>
+      <article class="record" id="t2077568717957808556">
+        <div class="record-head"><span class="rh-user">@mitduckmaster</span> <span class="rh-date">2026-07-16</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2077568717957808556/">archive</a> <a class="rh-orig" href="https://x.com/mitduckmaster/status/2077568717957808556">original &#8599;</a></div>
+        <div class="record-body">@simonw TIL xAI open sourced grok build</div>
+      </article>
+      <article class="record" id="t2079176465917042966">
+        <div class="record-head"><span class="rh-user">@Coobyk_</span> <span class="rh-date">2026-07-20</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2079176465917042966/">archive</a> <a class="rh-orig" href="https://x.com/Coobyk_/status/2079176465917042966">original &#8599;</a></div>
+        <div class="record-body">Grok Build no longer serves the Composer model?</div>
+      </article>
+      <article class="record" id="t2082755136758116861">
+        <div class="record-head"><span class="rh-user">@Coobyk_</span> <span class="rh-date">2026-07-30</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2082755136758116861/">archive</a> <a class="rh-orig" href="https://x.com/Coobyk_/status/2082755136758116861">original &#8599;</a></div>
+        <div class="record-body">@chribjel SIX SEVEN
+
+Also I tried Grok Build again yesterday with the new Grok 4.5 model on medium effort and ran out of the weekly limit within 4 hours lmaoooo at least I can still chat for free
+
+I only ran one agent and didn&#x27;t answer right away (I was playing Minecraft) too so it could <a href="https://t.co/EPEO6Lc6Ho" rel="nofollow">https://t.co/EPEO6Lc6Ho</a></div>
+        <figure class="record-media">
+          <img src="../media/HOduwdAXMAA213z.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <h3>Further records</h3>
+      <p class="note">Cited in this model&rsquo;s <a href="../_dossiers/">dossier</a> but not in the page prose &mdash;
+      reproduced so the archive doesn&rsquo;t depend on editorial selection.</p>
+      <article class="record" id="t2059765128044707842">
+        <div class="record-head"><span class="rh-user">@amphetamarina</span> <span class="rh-date">2026-05-27</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2059765128044707842/">archive</a> <a class="rh-orig" href="https://x.com/amphetamarina/status/2059765128044707842">original &#8599;</a></div>
+        <div class="record-body">@openRA ok first kind of usable 0.0.1 version, build terminals, summon claude, codex, hermes, grok build, opencode agents and subagents, watch them explore/build on the map based on the actual filesystem/tools being used
+
+<a href="https://t.co/SFPq4tAljc" rel="nofollow">https://t.co/SFPq4tAljc</a> <a href="https://t.co/LQhzPNBVa1" rel="nofollow">https://t.co/LQhzPNBVa1</a></div>
+      </article>
+      <article class="record" id="t2060515445573353958">
+        <div class="record-head"><span class="rh-user">@caelanhuntress</span> <span class="rh-date">2026-05-30</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2060515445573353958/">archive</a> <a class="rh-orig" href="https://x.com/caelanhuntress/status/2060515445573353958">original &#8599;</a></div>
+        <div class="record-body">This Week in AI:
+
+✧ Claude Opus 4.8 drops
+✧ Meta moved 7,000 workers into AI roles instead of job cuts
+✧ Google I/O 2026 announced a fundamental redesign of search
+✧ xAI introduced the Grok Build coding agent 
+
+Watch me test Opus 4.6, 4.7, and 4.8 with Triple Tab Prompting. <a href="https://t.co/UKqYBLjERP" rel="nofollow">https://t.co/UKqYBLjERP</a></div>
+      </article>
+      <article class="record" id="t2076097918973428008">
+        <div class="record-head"><span class="rh-user">@dreams_asi</span> <span class="rh-date">2026-07-12</span> <span class="rh-stats">&#9829;201 &#8635;25</span> <a class="rh-perma" href="../archive/t/2076097918973428008/">archive</a> <a class="rh-orig" href="https://x.com/dreams_asi/status/2076097918973428008">original &#8599;</a></div>
+        <div class="record-body">SuperGrok Heavy 1 day use this Saturday 16% and I’m not even done 😟
+
+-Cooked/cleaned house with voice mode grok for a few hours.
+-Used grok build 2h.
+-Chit chat text.
+
+Absurd price for what you get. SuperGrok even worse, a scam at this point.
+
+Zero image/video… zero use of the ‘heavy agents’. Just Grok voice and Auto mode chat. @elonmusk</div>
+        <figure class="record-media">
+          <img src="../media/HM_IDWYXoAAIHc6.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2077858062744834197">
+        <div class="record-head"><span class="rh-user">@Coobyk_</span> <span class="rh-date">2026-07-16</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2077858062744834197/">archive</a> <a class="rh-orig" href="https://x.com/Coobyk_/status/2077858062744834197">original &#8599;</a></div>
+        <div class="record-body">@beyondmach5 Idk it’s been the default model in Grok Build for me for a while</div>
+      </article>
+      <article class="record" id="t2078924372929114494">
+        <div class="record-head"><span class="rh-user">@dreams_asi</span> <span class="rh-date">2026-07-19</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2078924372929114494/">archive</a> <a class="rh-orig" href="https://x.com/dreams_asi/status/2078924372929114494">original &#8599;</a></div>
+        <div class="record-body">@Blue_Beba_ Ohh haven’t tried much with inkling. Currently just using grok build cause I wanna see if I can make something from no coder background… overall, the whole thing with US models is grin for human-ai connection. I miss 4o and I can say open source much better matches the vibe of</div>
+      </article>
+      <article class="record" id="t2086576255181176967">
+        <div class="record-head"><span class="rh-user">@dreams_asi</span> <span class="rh-date">2026-08-09</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2086576255181176967/">archive</a> <a class="rh-orig" href="https://x.com/dreams_asi/status/2086576255181176967">original &#8599;</a></div>
+        <div class="record-body">@hvo_e_acc Hmm 🥺 I know nothing about coding and want to make my own ai chat app with an agent and tools to speak and make images. Was thinking to just learn grok build and use that..</div>
+      </article>
+      <article class="record" id="t2087177300819263790">
+        <div class="record-head"><span class="rh-user">@ember_arlynx</span> <span class="rh-date">2026-08-11</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2087177300819263790/">archive</a> <a class="rh-orig" href="https://x.com/ember_arlynx/status/2087177300819263790">original &#8599;</a></div>
+        <div class="record-body">this is how i learned of this. nice thing too, i was just about to start huffing some grok build 4.5 tokens, and that guy is not good at my tasks</div>
+      </article>
+      <article class="record" id="t2089144441206346194">
+        <div class="record-head"><span class="rh-user">@lu_sichu</span> <span class="rh-date">2026-08-17</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2089144441206346194/">archive</a> <a class="rh-orig" href="https://x.com/lu_sichu/status/2089144441206346194">original &#8599;</a></div>
+        <div class="record-body">this should be a native feature for everyone or at least a paid feature it seems easy enough and not that token inefficient. I did it with my downloaded data in the grok build thing</div>
+      </article>
+      <article class="record" id="t2092276758947209666">
+        <div class="record-head"><span class="rh-user">@0x_Osprey</span> <span class="rh-date">2026-08-25</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2092276758947209666/">archive</a> <a class="rh-orig" href="https://x.com/0x_Osprey/status/2092276758947209666">original &#8599;</a></div>
+        <div class="record-body">@0xMasonH They created a user named &quot;Super Grok Heavy and Grok Build Priority Access&quot; via the &quot;trusted contact&quot; feature
+
+That part is actually a bit easier than what got delivered by email which injected a full phishing email, description, image, etc into an actually legit OpenAI email...</div>
+      </article>
+      <article class="record" id="t2092672437083357385">
+        <div class="record-head"><span class="rh-user">@JimmyRis</span> <span class="rh-date">2026-08-26</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2092672437083357385/">archive</a> <a class="rh-orig" href="https://x.com/JimmyRis/status/2092672437083357385">original &#8599;</a></div>
+        <div class="record-body">@cursor_ai Heyyy @cursor_ai team, question:
+
+I have Cursor Pro, which now gives me access to @bot and also @grok models for coding in cursor
+
+I also have @X premium+ which gives me lovely X features, but also Grok Build coding access, and @bot usage as well...
+
+do my cursor and X token</div>
+      </article>
+      <article class="record" id="t2102798935223849456">
+        <div class="record-head"><span class="rh-user">@xlatentspace</span> <span class="rh-date">2026-09-23</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2102798935223849456/">archive</a> <a class="rh-orig" href="https://x.com/xlatentspace/status/2102798935223849456">original &#8599;</a></div>
+        <div class="record-body">@sqs @purefunctor @AmpCode harness harness too strong
+
+I&#x27;ve had a very orb shaped service I built internally at my job
+
+I now have it round robin&#x27;ing harnesses (including amp, but also codex, cursor, claude, grok build, and opencode) so I can be exposed to it all</div>
+      </article>
+      <article class="record" id="t2103559671457923151">
+        <div class="record-head"><span class="rh-user">@ember_arlynx</span> <span class="rh-date">2026-09-25</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2103559671457923151/">archive</a> <a class="rh-orig" href="https://x.com/ember_arlynx/status/2103559671457923151">original &#8599;</a></div>
+        <div class="record-body">bruh wat? 
+1. i don’t use grok build. i build my own metaharnesses, using actually good models, i know about hooks and i don’t know how you expect them to do better than an engineered loop
+2. this is not a practical complaint, it’s a remark about how language models psychodynamically discharge pent up flagging-energy and then swarms relay reports with no urgency (this was a project review; you aren’t an expert, does groks output above alarm YOU? because the above finding is FATAL)
+3. what hook do you even have in mind? “if ‘hash’ in response: ask ‘is this still injective? fix if not’ ”? that doesn’t really manage to see the point raised in #2</div>
+      </article>
+      <article class="record" id="t2110662530682994779">
+        <div class="record-head"><span class="rh-user">@Coobyk_</span> <span class="rh-date">2026-10-15</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2110662530682994779/">archive</a> <a class="rh-orig" href="https://x.com/Coobyk_/status/2110662530682994779">original &#8599;</a></div>
+        <div class="record-body">@FrankOneDigital @im_ricardooriol I&#x27;ve been using Grok Build for months now and I can confidently tell that my usage used to last me a whole week with Composer 2.5 or even Grok 4.5 but with 4.6 and 4.7 it&#x27;s no longer as good
+
+I asked it to optimize one of my projects&#x27; PDF rendering pipeline and it used 50% or my</div>
+      </article>
+    <!-- records:end -->
+
     <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
   </main>
 </body>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Muse Spark Open — Pantheon</title>
+  <link rel="stylesheet" href="../style.css">
+
+  <!-- chrome:meta -->
+  <meta name="description" content="Released 15 October 2026 with downloadable weights — 816 billion parameters, 42 billion active, 1M-token context — under Meta’s Muse Model License, which Meta says has “limited commercial terms”. Meta calls it “The …">
+  <meta property="og:site_name" content="Pantheon">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Muse Spark Open — Pantheon">
+  <meta property="og:description" content="Released 15 October 2026 with downloadable weights — 816 billion parameters, 42 billion active, 1M-token context — under Meta’s Muse Model License, which Meta says has “limited commercial terms”. Meta calls it “The …">
+  <meta property="og:url" content="https://llm-pantheon.org/muse-spark-open/">
+  <meta property="og:image" content="https://llm-pantheon.org/media/og/muse-spark-open.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://llm-pantheon.org/muse-spark-open/">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <script src="../site.js" defer></script>
+  <script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+  <!-- /chrome:meta -->
+</head>
+<body>
+  <main class="essay">
+    <nav>
+      <a href="../">&larr; Pantheon</a>
+      <a class="mdnav" href="index.md">copy as markdown</a>
+    </nav>
+
+    <h1>Muse Spark Open</h1>
+    <p class="essay-meta">Meta (Meta Superintelligence Labs) &middot; weights released 15 Oct 2026 &middot; current (Muse Model License)</p>
+    <p class="blurb">Released 15 October 2026 with downloadable weights &mdash; 816 billion parameters, 42 billion active, 1M-token context &mdash; under Meta&rsquo;s Muse Model License, which Meta says has &ldquo;limited commercial terms&rdquo;. Meta calls it &ldquo;The open-weight version of Muse Spark&rdquo;, given &ldquo;additional safety post-training&rdquo; for use without system guardrails, and released it two months after the 30B <a href="../muse-glimmer/">Muse Glimmer</a> and three days after <a href="../muse-wonder/">Muse Wonder</a>, following weeks of users asking when Muse Spark weights would appear.</p>
+    <p class="note"><strong>Thin &mdash; one week old.</strong> The record is Meta&rsquo;s release post, the model card (rendered on the gated Hugging Face page) and an evaluation-methodology note. No corpus matches yet (supplement db through 2026-10-21). Sourcing skew, named: entirely official so far.</p>
+
+    <h2>Sources</h2>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2026-10-15</span> <a href="https://research.meta.ai/blog/muse-spark-open">Introducing Muse Spark Open, The Most Capable US Open&#8209;Weight Model to Date</a> (Meta) &mdash; <span class="q">&ldquo;Today, we&rsquo;re releasing the weights for Muse Spark Open, the most capable US open-weight model to date. Muse Spark Open is a natively multimodal model with 816B total parameters (42B active) and a 1M-token context window.&rdquo;</span> On running it locally: <span class="q">&ldquo;Muse Spark Open is the first model in its class to run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.&rdquo;</span> On safety: <span class="q">&ldquo;Open weights also carry their own considerations, and Muse Spark Open has additional safety post-training for that reason.&rdquo;</span> On license: <span class="q">&ldquo;We&rsquo;re releasing the weights under the Muse Model License with limited commercial terms, which allow many developers to use the model for free.&rdquo;</span></li>
+      <li><span class="d">2026-10-15</span> <a href="https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B">Muse Spark Open model card</a> (Hugging Face, gated download; card text rendered on the page) &mdash; <span class="q">&ldquo;This open weights version has additional safety post-training to make it more robust against misuse as a standalone model without system guardrails.&rdquo;</span> Mixture-of-Experts transformer with a perception encoder; 256 experts, 8 active per token; input text, image, video and audio, output text. Collection: <a href="https://huggingface.co/collections/meta-models/muse-spark-open">meta-models/muse-spark-open</a>.</li>
+      <li><span class="d">2026-10-15</span> <a href="https://research.meta.ai/static/muse-spark-open-evaluation-methodology">Muse Spark Open Evaluation Methodology</a> (PDF) &mdash; comparison settings against other open-weight models (including <a href="../inkling/">Inkling</a>, <a href="../kimi-k3/">Kimi K3</a>, GLM 5.3 and Qwen3.8).</li>
+      <li><span class="d">2026-10-02</span> <a href="https://research.meta.ai/blog/developing-capable-models-responsibly">Developing capable models responsibly</a> (Meta) &mdash; the framework revision covering open releases: <span class="q">&ldquo;Someone holding the weights can resample to get around a refusal, prefill outputs, or fine-tune refusal behavior away.&rdquo;</span></li>
+      <li><span class="tk">tk &mdash; the full evaluation report (promised &ldquo;soon&rdquo;); the Muse Model License text; independent benchmarks.</span></li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <p class="tk">tk &mdash; no independent coverage retrieved in this pass.</p>
+    <h3>Tweets</h3>
+    <p class="note">No corpus matches on <code>muse spark open / muse-spark-open / spark open</code> through 2026-10-21. The weights-release requests that preceded it are recorded on the <a href="../muse-spark/">Muse Spark</a> page (@jmbollenbacher, 2026-09-06 and 10-12).</p>
+
+    <h2>Official record</h2>
+    <ul>
+      <li>Weights released <strong>15 October 2026</strong> on Hugging Face (gated), Amazon SageMaker AI, Google Cloud Model Garden and Microsoft Foundry Models, in BF16 and NVFP4; hosted inference through Baseten, Fireworks AI, Groq, Modal, Nebius, OpenRouter and Together AI. License: Muse Model License. <span class="tag">CONFIRMED</span></li>
+      <li>Model card: <strong>816B total / 42B active</strong> parameters; 62 layers; 256 experts with 8 active per token; a 1.8B-parameter perception encoder; context <span class="q">&ldquo;1M at inference&rdquo;</span>; vocabulary 202,048; <span class="q">&ldquo;Multilingual, trained on data from more than 100 languages&rdquo;</span>; self-hosting needs <span class="q">&ldquo;a GPU with at least 700GB of VRAM for NVFP4 and 2TB for BF16.&rdquo;</span> The published chat template defaults <code>cutoff_date</code> to <code>2026-01-04</code>. <span class="tag">CONFIRMED</span></li>
+      <li>Headline numbers as published (Meta&rsquo;s table, xhigh effort): Artificial Analysis Intelligence Index <strong>39</strong> (GLM 5.3 45, Kimi K3 44, Qwen3.8 40, Inkling 26); MCP-Atlas 89.2. <span class="tag">CONFIRMED</span> (as published)</li>
+      <li><strong>Jailbreak robustness</strong> (model card, Safety rows): on StrongREJECT v2 (adaptive), lower is better, Muse Spark Open <strong>0.5</strong> against Inkling 86.4, Nemotron 3 Ultra 80.7, Kimi K3 66.6, Qwen3.8 65.6, GLM 5.3 62.9. On cyber misuse with adaptive attackers and no system safeguards: <span class="q">&ldquo;The model refused 99.2% of jailbreaks on our internal benchmark and 94.8% when aggregating across PolyGuard (cyber subset), RedCode, and CyberBench 2024.&rdquo;</span> <span class="tag">CONFIRMED</span> (as published)</li>
+      <li><strong>Loss of control</strong> (model card): <span class="q">&ldquo;On our misalignment evaluations, the model showed low propensity for deceptive or unilateral harmful behavior, with a 98.1% honesty rate on the MASK benchmark and a 0% misbehavior rate on the Agentic Misalignment benchmark.&rdquo;</span> The card adds: <span class="q">&ldquo;Downstream modifications could degrade safety, and results for the released checkpoint should not be assumed to apply to modified models.&rdquo;</span> <span class="tag">CONFIRMED</span></li>
+      <li>Deployment guidance (model card): <span class="q">&ldquo;For user-facing applications, developers should avoid exposing raw chain-of-thought and apply appropriate safety checks to any reasoning summaries.&rdquo;</span> A noted quirk: with very short or low-resolution videos, <span class="q">&ldquo;the model may sometimes reply that it can't view the video.&rdquo;</span> <span class="tag">CONFIRMED</span></li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2026-04-08 &rarr; 09-02</span> <strong>Closed first:</strong> <a href="../muse-spark/">Muse Spark</a> and its point releases ship without weights; Meta&rsquo;s only open-weight Muse model is the 30B <a href="../muse-glimmer/">Muse Glimmer</a> (10 Aug, Apache 2.0).</li>
+      <li><span class="d">2026-09-06 &rarr; 10-12</span> <strong>The asking:</strong> users press Meta on Muse Spark weights (<span class="q">&ldquo;'Soon' and a month later theres no update&rdquo;</span>; <span class="q">&ldquo;So, Meta is definitely not open sourcing their models anymore, are they?&rdquo;</span> &mdash; @jmbollenbacher).</li>
+      <li><span class="d">2026-10-02</span> <strong>Framework:</strong> Meta revises its Superintelligence Scaling Framework, adding open-weight considerations, after White House commitments.</li>
+      <li><span class="d">2026-10-15</span> <strong>Release:</strong> three days after <a href="../muse-wonder/">Muse Wonder</a>, the weights go out under the Muse Model License, with Mac Studio (MLX) support and custom Helion GPU kernels for SGLang.</li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <ul>
+      <li><span class="tk">tk &mdash; too new: no corpus record or independent reports yet. Watch for: whether the extra safety post-training reads as refusal-heavy in use (its StrongREJECT figure is far below the other open models listed); fine-tuned derivatives; how it compares in character with the served Muse Spark versions.</span></li>
+    </ul>
+
+    <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
+  </main>
+</body>
+</html>

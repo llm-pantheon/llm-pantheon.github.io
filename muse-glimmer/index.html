@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Muse Glimmer — Pantheon</title>
+  <link rel="stylesheet" href="../style.css">
+
+  <!-- chrome:meta -->
+  <meta name="description" content="Released 10 August 2026 by Meta Superintelligence Labs as a 30-billion-parameter model for local agents, with weights under the Apache 2.0 license — Meta’s first open-weight release after the closed launch of Muse Spark …">
+  <meta property="og:site_name" content="Pantheon">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Muse Glimmer — Pantheon">
+  <meta property="og:description" content="Released 10 August 2026 by Meta Superintelligence Labs as a 30-billion-parameter model for local agents, with weights under the Apache 2.0 license — Meta’s first open-weight release after the closed launch of Muse Spark …">
+  <meta property="og:url" content="https://llm-pantheon.org/muse-glimmer/">
+  <meta property="og:image" content="https://llm-pantheon.org/media/og/muse-glimmer.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://llm-pantheon.org/muse-glimmer/">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <script src="../site.js" defer></script>
+  <script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+  <!-- /chrome:meta -->
+</head>
+<body>
+  <main class="essay">
+    <nav>
+      <a href="../">&larr; Pantheon</a>
+      <a class="mdnav" href="index.md">copy as markdown</a>
+    </nav>
+
+    <h1>Muse Glimmer</h1>
+    <p class="essay-meta">Meta (Meta Superintelligence Labs) &middot; released 10 Aug 2026 &middot; open weights (Apache 2.0) &middot; current</p>
+    <p class="blurb">Released 10 August 2026 by Meta Superintelligence Labs as a 30-billion-parameter model for local agents, with weights under the Apache 2.0 license &mdash; Meta&rsquo;s first open-weight release after the closed launch of <a href="../muse-spark/">Muse Spark</a> in April. Meta says it &ldquo;trained Muse Glimmer on Muse Spark's outputs using logit distillation&rdquo; and that a 4-bit build runs within a 24&ndash;32 GB consumer GPU. Two months later Meta released the 816B <a href="../muse-spark-open/">Muse Spark Open</a>.</p>
+    <p class="note"><strong>Thin.</strong> Meta&rsquo;s release post plus 4 corpus matches (2026-08-10 &rarr; 10-20), two with untranscribed images. Sourcing skew, named: local-inference developers; no character discourse yet.</p>
+
+    <h2>Sources</h2>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2026-08-10</span> <a href="https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model">Introducing Muse Glimmer: An Open Agentic Model That Runs on Your Device</a> (Meta) &mdash; <span class="q">&ldquo;Today, we're introducing Muse Glimmer, the next model from Meta Superintelligence Labs, and open sourcing the model weights under a permissive Apache 2.0 license.&rdquo;</span> <span class="q">&ldquo;Muse Glimmer is a 30-billion-parameter model optimized for always-on local agent workflows.&rdquo;</span> Training: <span class="q">&ldquo;Pre-Training. We trained Muse Glimmer on Muse Spark's outputs using logit distillation, leveraging a similar data mix as the teacher.&rdquo;</span> Weights at <a href="https://huggingface.co/meta-models/Muse-Glimmer-30B">meta-models/Muse-Glimmer-30B</a>.</li>
+      <li><span class="tk">tk &mdash; the Hugging Face model card (not retrieved); the open-weight risk assessment the post refers to.</span></li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <ul>
+      <li><span class="d">2026-10</span> DataCamp, <a href="https://www.datacamp.com/blog/muse-wonder-and-muse-wonder-full">Muse Wonder and Muse Wonder Full</a> &mdash; in passing: <span class="q">&ldquo;Muse Glimmer is a separate, smaller model (30 billion parameters) from August that you can download and run yourself.&rdquo;</span></li>
+    </ul>
+    <h3>Tweets</h3>
+    <p class="note">4 corpus matches (supplement db); all below and reproduced in the records. Pull and triage in the <a href="../_dossiers/muse-glimmer.md">dossier</a>.</p>
+    <ul>
+      <li><span class="d">2026-08-10</span> @jmbollenbacher &mdash; <span class="q">&ldquo;muse glimmer seems weaker than qwen-3.5.<br><br>not even 3.6 or 3.8. honestly the qwen 9b models might even be stronger.&rdquo;</span> <a href="../archive/t/2086912699758227682/">link</a></li>
+      <li><span class="d">2026-08-11</span> @witcheer &mdash; <span class="note">(local benchmark; image; text breaks off in the archive)</span> <span class="q">&ldquo;Meta is back in open weights: Muse Glimmer, a dense 30B VLM, Apache 2.0, released yesterday. I benchmarked it on my RTX 5090<br><br>28B text decoder plus a 2B vision encoder. hybrid attention, three sliding-window layers then one full-attention layer with no positional embedding, repeated 13 times. 16 query heads share each KV head, so the KV cache is small.&hellip;&rdquo;</span> <span class="note">(full text in records)</span> <a href="../archive/t/2087110487007731795/">link</a></li>
+      <li><span class="d">2026-10-13</span> @raunakdoesdev &mdash; <span class="q">&ldquo;changed the default model for my main agent thread in raubot (my personal agent) to muse glimmer! very unexpected <br><br>subagents still do most of the coding and are kept as opus&rdquo;</span> <a href="../archive/t/2109873786044690550/">link</a></li>
+      <li><span class="d">2026-10-20</span> @witcheer &mdash; <span class="note">(image)</span> <span class="q">&ldquo;Muse Glimmer 30B, Meta's new open-weight agent model, runs fully on one RTX 5090 with room to spare, and keeps its speed as the context fills up.&hellip;&rdquo;</span> <span class="note">(full text in records)</span> <a href="../archive/t/2112529273273938103/">link</a></li>
+    </ul>
+
+    <h2>Official record</h2>
+    <ul>
+      <li>Released <strong>10 August 2026</strong>; weights on Hugging Face under <strong>Apache 2.0</strong>; text and image input through a <span class="q">&ldquo;dedicated perception encoder&rdquo;</span>; trained on data from more than 100 languages; ships with a DFlash-based speculative-decoding drafter. <span class="tag">CONFIRMED</span></li>
+      <li>Training (Meta): logit distillation from Muse Spark outputs (pre-training), longer-context agent-heavy mid-training, then supervised fine-tuning with on-policy distillation and RL. <span class="q">&ldquo;Muse Glimmer was evaluated under the standards set out in Meta's Advanced AI Scaling Framework and assessed for open-weight release across all relevant categories.&rdquo;</span> <span class="tag">CONFIRMED</span></li>
+      <li>Hardware: <span class="q">&ldquo;At full precision, a 30-billion parameter model would require over 55 GB of memory&rdquo;</span>; quantized to about 4-bit, the language model is <span class="q">&ldquo;under 20 GB&rdquo;</span>. Meta compares it favorably with Gemma4-31B and Qwen3.6-27B on several benchmarks. <span class="tag">CONFIRMED</span> (as published)</li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2026-08-10</span> <strong>Release:</strong> four months after the closed <a href="../muse-spark/">Muse Spark</a> launch, Meta publishes open weights for a small distilled model, framed as <span class="q">&ldquo;Keeping with our long tradition of sharing fundamental AI research&rdquo;</span>; local runtimes (llama.cpp, MLX, ExecuTorch, Ollama, LM Studio) follow. Developer reception the same week: <span class="q">&ldquo;Meta is back in open weights&rdquo;</span> (@witcheer) against <span class="q">&ldquo;muse glimmer seems weaker than qwen-3.5&rdquo;</span> (@jmbollenbacher).</li>
+      <li><span class="d">2026-10-15</span> <strong>The larger release:</strong> Meta follows with <a href="../muse-spark-open/">Muse Spark Open</a> (816B total), under a more restrictive Muse Model License.</li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <ul>
+      <li><strong>Reception:</strong> discussed as local agent infrastructure &mdash; speed on one consumer GPU (@witcheer), a surprise choice as a main agent thread with Opus subagents doing the coding (@raunakdoesdev, 2026-10-13), and a capability doubt against similar-size Qwen models (@jmbollenbacher, 2026-08-10).</li>
+      <li><span class="tk">tk &mdash; character or style reports; whether it inherits Muse Spark&rsquo;s voice through distillation; transcription of the two image-tweets.</span></li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t2086912699758227682">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-08-10</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2086912699758227682/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2086912699758227682">original &#8599;</a></div>
+        <div class="record-body">muse glimmer seems weaker than qwen-3.5.
+
+not even 3.6 or 3.8. honestly the qwen 9b models might even be stronger.</div>
+      </article>
+      <article class="record" id="t2087110487007731795">
+        <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-08-11</span> <span class="rh-stats">&#9829;36 &#8635;1</span> <a class="rh-perma" href="../archive/t/2087110487007731795/">archive</a> <a class="rh-orig" href="https://x.com/witcheer/status/2087110487007731795">original &#8599;</a></div>
+        <div class="record-body">Meta is back in open weights: Muse Glimmer, a dense 30B VLM, Apache 2.0, released yesterday. I benchmarked it on my RTX 5090
+
+28B text decoder plus a 2B vision encoder. hybrid attention, three sliding-window layers then one full-attention layer with no positional embedding, repeated 13 times. 16 query heads share each KV head, so the KV cache is small.
+
+result (UD-Q4_K_XL, 15.9GB file, llama.cpp master):
+
+- 85.7 tok/s generation, fully resident in VRAM, 15.4GB of 32GB used
+- prefill 4769 tok/s at 512 ctx, still 4429 at 16K
+- MMLU 80.6 / ARC-C 93.5 / HellaSwag 88.8 / HumanEval 95.7 / GSM8K 96.7, q_avg 91.1 on my five-task board
+
+the offloaded 120B-class MoEs I&#x27;ve been benching run 46 to 47 tok/s on this card because every token waits on system RAM. 
+Muse Glimmer runs at 85.7 with half the card spare.</div>
+        <figure class="record-media">
+          <img src="../media/HPbnLC9XIAEF6Vq.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2109873786044690550">
+        <div class="record-head"><span class="rh-user">@raunakdoesdev</span> <span class="rh-date">2026-10-13</span> <span class="rh-stats">&#9829;5 &#8635;0</span> <a class="rh-perma" href="../archive/t/2109873786044690550/">archive</a> <a class="rh-orig" href="https://x.com/raunakdoesdev/status/2109873786044690550">original &#8599;</a></div>
+        <div class="record-body">changed the default model for my main agent thread in raubot (my personal agent) to muse glimmer! very unexpected 
+
+subagents still do most of the coding and are kept as opus</div>
+      </article>
+      <article class="record" id="t2112529273273938103">
+        <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-10-20</span> <span class="rh-stats">&#9829;28 &#8635;0</span> <a class="rh-perma" href="../archive/t/2112529273273938103/">archive</a> <a class="rh-orig" href="https://x.com/witcheer/status/2112529273273938103">original &#8599;</a></div>
+        <div class="record-body">Muse Glimmer 30B, Meta&#x27;s new open-weight agent model, runs fully on one RTX 5090 with room to spare, and keeps its speed as the context fills up.
+
+I ran Meta&#x27;s own 4-bit GGUF on llama.cpp, then served it at the 64K context Hermes Agent needs.
+
+&gt; decode barely moves between an empty context and 32k, which matters for an agent: its context grows with every tool call.
+
+&gt; however, I&#x27;ve only measured speed so far. how well it handles real agent work is the next test.
+
+to point your Hermes Agent at it: start llama-server with --jinja, then `hermes model`, Custom endpoint, <a href="http://localhost:8080/v1" rel="nofollow">http://localhost:8080/v1</a></div>
+        <figure class="record-media">
+          <img src="../media/HVD0bKwWEAAbqfw.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+    <!-- records:end -->
+
+    <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
+  </main>
+</body>
+</html>

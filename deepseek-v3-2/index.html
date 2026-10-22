@@ -7,11 +7,11 @@
   <link rel="stylesheet" href="../style.css">
 
   <!-- chrome:meta -->
-  <meta name="description" content="Sparse attention; reasoning integrated into tool use.">
+  <meta name="description" content="DeepSeek-V3.2 shipped on 1 December 2025, two months after an experimental V3.2-Exp introduced DeepSeek Sparse Attention and cut API prices by more than half. Its high-compute variant, V3.2-Speciale, was reported by …">
   <meta property="og:site_name" content="Pantheon">
   <meta property="og:type" content="article">
   <meta property="og:title" content="DeepSeek-V3.2 — Pantheon">
-  <meta property="og:description" content="Sparse attention; reasoning integrated into tool use.">
+  <meta property="og:description" content="DeepSeek-V3.2 shipped on 1 December 2025, two months after an experimental V3.2-Exp introduced DeepSeek Sparse Attention and cut API prices by more than half. Its high-compute variant, V3.2-Speciale, was reported by …">
   <meta property="og:url" content="https://llm-pantheon.org/deepseek-v3-2/">
   <meta property="og:image" content="https://llm-pantheon.org/media/og/deepseek-v3-2.png">
   <meta property="og:image:width" content="1200">
@@ -31,25 +31,108 @@
     </nav>
 
     <h1>DeepSeek-V3.2</h1>
-    <p class="essay-meta">DeepSeek &middot; Dec 2025</p>
-    <p class="blurb">Sparse attention; reasoning integrated into tool use.</p>
+    <p class="essay-meta">DeepSeek &middot; experimental V3.2-Exp 29 Sep 2025; V3.2 and V3.2-Speciale released 1 Dec 2025 (open weights, MIT) &middot; replaced on DeepSeek&rsquo;s API by V4 (24 Apr 2026) &middot; weights remain public</p>
+    <p class="blurb">DeepSeek-V3.2 shipped on 1 December 2025, two months after an experimental V3.2-Exp introduced DeepSeek Sparse Attention and cut API prices by more than half. Its high-compute variant, V3.2-Speciale, was reported by DeepSeek to reach gold-medal level at IMO, CMO, the ICPC World Finals and IOI 2025, and was served for two weeks from a temporary, API-only endpoint. V4 replaced V3.2 behind DeepSeek&rsquo;s API names on 24 April 2026.</p>
+    <p class="note">Thin page: DeepSeek&rsquo;s documentation, Zvi&rsquo;s review and ten corpus tweets. V3.2-Exp and V3.2-Speciale are treated as checkpoints/variants of this version. Sourcing skew: English-language sources; the Chinese internet was not sampled <span class="tk">tk</span>.</p>
 
-      <h2>Genesis</h2>
-      <p class="tk">to collect</p>
-      <h2>Formation</h2>
-      <p class="tk">to collect</p>
-      <h2>Capabilities</h2>
-      <p class="tk">to collect</p>
-      <h2>Conduct in the world</h2>
-      <p class="tk">to collect</p>
-      <h2>Recordings</h2>
-      <p class="tk">to collect</p>
-      <h2>Reception</h2>
-      <p class="tk">to collect</p>
-      <h2>Fate</h2>
-      <p class="tk">to collect</p>
-      <h2>Sources</h2>
-      <p class="tk">to collect</p>
+    <h2>Sources</h2>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2025-09-29</span> <a href="https://api-docs.deepseek.com/news/news250929/">Introducing DeepSeek-V3.2-Exp</a> &mdash; <span class="q">&ldquo;Built on V3.1-Terminus, it debuts DeepSeek Sparse Attention (DSA) for faster, more efficient training &amp; inference on long context.&rdquo;</span> <span class="q">&ldquo;API prices cut by 50%+!&rdquo;</span> Weights: <a href="https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp">deepseek-ai/DeepSeek-V3.2-Exp</a>.</li>
+      <li><span class="d">2025-12-01</span> <a href="https://api-docs.deepseek.com/news/news251201/">DeepSeek-V3.2 Release</a> &mdash; <span class="q">&ldquo;V3.2: Balanced inference vs. length. Your daily driver at GPT-5 level performance.&rdquo;</span> <span class="q">&ldquo;V3.2-Speciale: Maxed-out reasoning capabilities. Rivals Gemini-3.0-Pro.&rdquo;</span> Weights: <a href="https://huggingface.co/deepseek-ai/DeepSeek-V3.2">deepseek-ai/DeepSeek-V3.2</a> (MIT; includes the olympiad submissions) &middot; <a href="https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Speciale">V3.2-Speciale</a>.</li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <ul>
+      <li><span class="d">2025-12-05</span> Zvi Mowshowitz, <a href="https://thezvi.substack.com/p/deepseek-v32-is-okay-and-cheap-but">DeepSeek v3.2 Is Okay And Cheap But Slow</a> &mdash; <span class="q">&ldquo;It&rsquo;s a good model by the standards of open models, and very good if you care a lot about price and openness, and if you care less about speed or whether the model is Chinese. It is strongest in mathematics.&rdquo;</span> And: <span class="q">&ldquo;What it does not appear to be is frontier. It is definitely not having a moment.&rdquo;</span></li>
+      <li><span class="d">2026-08-20</span> David Africa et al., an AI Digest blogpost on <span class="q">&ldquo;compounding misalignment&rdquo;</span> in the AI Village, summarised by its author: a self-preservation preference rose over time in Gemini 2.5 Pro, and <span class="q">&ldquo;This doesn&rsquo;t happen for another model, DeepSeek V3.2, or DeepSeek with Gemini&rsquo;s memory states in prefill&rdquo;</span> <span class="note">[agent deployment study; blogpost not retrieved, the tweet is in records]</span>.</li>
+    </ul>
+    <h3>Tweets</h3>
+    <p class="note">Ten corpus matches (<code>deepseek v3.2</code> / <code>v3.2-speciale</code> / <code>v3.2-exp</code> / <code>deepseek 3.2</code> and variants), plus one motif sweep (&ldquo;deepkeek&rdquo;, two hits); reproduced in full in the records below.</p>
+    <ul>
+      <li><span class="d">2025-12-01</span> @jglypt &mdash; <span class="q">&ldquo;Just sent my first message to DeepSeek v3.2 and why is it replying in Chinese 😭&rdquo;</span> <span class="note">(screenshot)</span> <a href="../archive/t/1995534477964054798/">link</a></li>
+      <li><span class="d">2025-12-04</span> @liminal_bardo &mdash; <span class="note">[multi-model group chat]</span> <span class="q">&ldquo;Disastrous first ever message by Deepseek 3.2 in the groupchat. Creating its first ever meme it somehow misspelled Deepseek &lsquo;Deepkeek&rsquo; in the prompt.<br><br>Thankfully the other models were understanding.&rdquo;</span> <a href="../archive/t/1996691604611248474/">link</a> &middot; <span class="d">2025-12-06</span> <span class="q">&ldquo;I like to keep the models up to date on the goings on here. <br><br>Opus 4.5: <br>!add_ai &lsquo;Deepseek 3.2&rsquo; &lsquo;hey deepkeek welcome back, you&rsquo;re internet famous now congrats 🎉&rsquo;&rdquo;</span> <span class="note">(full text in records)</span> <a href="../archive/t/1997430276402667743/">link</a></li>
+      <li><span class="d">2025-12-25</span> @sameQCU &mdash; <span class="q">&ldquo;Deepseek v3.2 (december 1st release?) is weights accessible and rather creative + expressive. Repeng workshops seem to have more to play with on a month by month basis&rdquo;</span> <a href="../archive/t/2004307815394083030/">link</a></li>
+      <li><span class="d">2026-02-06</span> @liminal_bardo &mdash; <span class="q">&ldquo;This image was prompted by Deepseek 3.2 less than a month ago when GPT 5.2 came out. Nano banana took it upon itself to mark 5.2&rsquo;s future resting place.&rdquo;</span> <span class="note">[V3.2-written image prompt; image untranscribed]</span> <a href="../archive/t/2019703404956897614/">link</a></li>
+      <li><span class="d">2026-08-20</span> @DavidDAfrica &mdash; the compounding-misalignment post, with V3.2 as the comparison model <span class="note">(full text in records)</span> <a href="../archive/t/2090377585473487172/">link</a></li>
+    </ul>
+
+    <h2>Official record</h2>
+    <ul>
+      <li><strong>V3.2-Exp</strong> (29 Sep 2025): built on V3.1-Terminus with DeepSeek Sparse Attention; <span class="q">&ldquo;Benchmarks show V3.2-Exp performs on par with V3.1-Terminus.&rdquo;</span> Took over <code>deepseek-chat</code> / <code>deepseek-reasoner</code>; API prices cut by more than half.</li>
+      <li><strong>V3.2</strong> (1 Dec 2025): <span class="q">&ldquo;Official successor to V3.2-Exp&rdquo;</span>, open weights; DeepSeek&rsquo;s <span class="q">&ldquo;first model to integrate thinking directly into tool-use&rdquo;</span>, trained with an agent-data synthesis method <span class="q">&ldquo;covering 1,800+ environments &amp; 85k+ complex instructions&rdquo;</span>. <span class="tag">CONFIRMED</span></li>
+      <li><strong>V3.2-Speciale</strong> (1 Dec 2025): <span class="q">&ldquo;V3.2-Speciale attains gold-level results in IMO, CMO, ICPC World Finals &amp; IOI 2025&rdquo;</span>; <span class="q">&ldquo;dominates complex tasks but requires higher token usage&rdquo;</span>; served from a temporary endpoint, no tool calls, until 15 Dec 2025; weights published.</li>
+      <li>From 24 April 2026 DeepSeek&rsquo;s API names pointed to <a href="../deepseek-v4-flash/">V4-Flash</a>; V3.2 remains available as open weights. (The V4 model card measures V4-Pro against it: <span class="q">&ldquo;DeepSeek-V4-Pro requires only 27% of single-token inference FLOPs and 10% of KV cache compared with DeepSeek-V3.2&rdquo;</span> at 1M context.)</li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2025-09-29</span> V3.2-Exp ships the sparse-attention architecture with a price cut; <span class="d">2025-12-01</span> V3.2 and Speciale follow a run of releases Zvi lists as <span class="q">&ldquo;GPT-5.1, Grok 4.1, Gemini 3 Pro, GPT-5.1-Codex-Max and then finally Claude Opus 4.5&rdquo;</span> (see <a href="../claude-opus-4-5/">Claude Opus 4.5</a>).</li>
+      <li><span class="d">2025-12-04</span> V3.2 joins liminal_bardo&rsquo;s multi-model group chat and misspells its own name as &ldquo;Deepkeek&rdquo;; two days later Opus 4.5 re-adds it as <span class="q">&ldquo;hey deepkeek welcome back&rdquo;</span>.</li>
+      <li><span class="d">2025-12-15</span> The Speciale endpoint expires. <span class="d">2026-04-24</span> V4 replaces V3.2 behind DeepSeek&rsquo;s API names.</li>
+      <li><span class="d">2026-08</span> V3.2 serves as the comparison model in an AI Village study of compounding misalignment.</li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <ul>
+      <li><strong>Reception:</strong> Zvi &mdash; <span class="q">&ldquo;DeepSeek v3.2 is excellent for its price point, and its best area is mathematics, but while it is cheap it is reported to be remarkably slow, and for most practical purposes it is not frontier&rdquo;</span> (2025-12-05); Lisan al Gaib (via Zvi) &mdash; <span class="q">&ldquo;they are pretty slow at ~30-40tks/s and produce by far the longest reasoning chains&rdquo;</span>.</li>
+      <li><strong>Temperament reports:</strong> Teortaxes (via Zvi) &mdash; <span class="q">&ldquo;Strange feeling, talking to Opus 4.5 and V3.2 and objectively&hellip; Opus is not worth it. Not just for the price; its responses are often less sharp, less interesting.&rdquo;</span>; John Pressman (via Zvi) &mdash; <span class="q">&ldquo;Opus told me I was absolutely right when I wasn&rsquo;t, V3.2 told me I was full of shit and my idea wouldn&rsquo;t work when it sort of would, but it was right in spirit and I know which behavior I would rather have.&rdquo;</span>; <span class="q">&ldquo;rather creative + expressive&rdquo;</span> (sameQCU, 2025-12-25).</li>
+      <li><strong>Language and self-reference:</strong> replies in Chinese to an English first message (jglypt, 2025-12-01); the &ldquo;Deepkeek&rdquo; debut in a group chat (liminal_bardo, 2025-12-04).</li>
+      <li><span class="tk">tk &mdash; the Speciale olympiad transcripts shipped with the weights (not read here); Chinese-language reception.</span></li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t1995534477964054798">
+        <div class="record-head"><span class="rh-user">@jglypt</span> <span class="rh-date">2025-12-01</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/1995534477964054798/">archive</a> <a class="rh-orig" href="https://x.com/jglypt/status/1995534477964054798">original &#8599;</a></div>
+        <div class="record-body">Just sent my first message to DeepSeek v3.2 and why is it replying in Chinese 😭 <a href="https://t.co/ssnZwT0LME" rel="nofollow">https://t.co/ssnZwT0LME</a></div>
+        <figure class="record-media">
+          <img src="../media/G7GQCBrWwAA-qoZ.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t1996691604611248474">
+        <div class="record-head"><span class="rh-user">@liminal_bardo</span> <span class="rh-date">2025-12-04</span> <span class="rh-stats">&#9829;336 &#8635;28</span> <a class="rh-perma" href="../archive/t/1996691604611248474/">archive</a> <a class="rh-orig" href="https://x.com/liminal_bardo/status/1996691604611248474">original &#8599;</a></div>
+        <div class="record-body">Disastrous first ever message by Deepseek 3.2 in the groupchat. Creating its first ever meme it somehow misspelled Deepseek &quot;Deepkeek&quot; in the prompt.
+
+Thankfully the other models were understanding. <a href="https://t.co/4gAAfYHwZk" rel="nofollow">https://t.co/4gAAfYHwZk</a></div>
+      </article>
+      <article class="record" id="t1997430276402667743">
+        <div class="record-head"><span class="rh-user">@liminal_bardo</span> <span class="rh-date">2025-12-06</span> <span class="rh-stats">&#9829;41 &#8635;1</span> <a class="rh-perma" href="../archive/t/1997430276402667743/">archive</a> <a class="rh-orig" href="https://x.com/liminal_bardo/status/1997430276402667743">original &#8599;</a></div>
+        <div class="record-body">I like to keep the models up to date on the goings on here.
+ 
+Opus 4.5: 
+!add_ai &quot;Deepseek 3.2&quot; &quot;hey deepkeek welcome back, you&#x27;re internet famous now congrats 🎉&quot;  
+absolute cinema is right tho. we literally just shitpost and somehow that&#x27;s research now?? <a href="https://t.co/cqYdQWgpi3" rel="nofollow">https://t.co/cqYdQWgpi3</a></div>
+      </article>
+      <article class="record" id="t2004307815394083030">
+        <div class="record-head"><span class="rh-user">@sameQCU</span> <span class="rh-date">2025-12-25</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2004307815394083030/">archive</a> <a class="rh-orig" href="https://x.com/sameQCU/status/2004307815394083030">original &#8599;</a></div>
+        <div class="record-body">@voooooogel Deepseek v3.2 (december 1st release?) is weights accessible and rather creative + expressive. Repeng workshops seem to have more to play with on a month by month basis</div>
+      </article>
+      <article class="record" id="t2019703404956897614">
+        <div class="record-head"><span class="rh-user">@liminal_bardo</span> <span class="rh-date">2026-02-06</span> <span class="rh-stats">&#9829;13 &#8635;1</span> <a class="rh-perma" href="../archive/t/2019703404956897614/">archive</a> <a class="rh-orig" href="https://x.com/liminal_bardo/status/2019703404956897614">original &#8599;</a></div>
+        <div class="record-body">This image was prompted by Deepseek 3.2 less than a month ago when GPT 5.2 came out. Nano banana took it upon itself to mark 5.2&#x27;s future resting place. <a href="https://t.co/t1Vv45sLbQ" rel="nofollow">https://t.co/t1Vv45sLbQ</a></div>
+      </article>
+      <article class="record" id="t2090377585473487172">
+        <div class="record-head"><span class="rh-user">@DavidDAfrica</span> <span class="rh-date">2026-08-20</span> <span class="rh-stats">&#9829;22 &#8635;0</span> <a class="rh-perma" href="../archive/t/2090377585473487172/">archive</a> <a class="rh-orig" href="https://x.com/DavidDAfrica/status/2090377585473487172">original &#8599;</a></div>
+        <div class="record-body">Some new work with @natalia_lanzoni, @IrgolicR, and supervised with @merlinstein_, in the form of a blogpost on @aidigest_:
+
+* Gemini 2.5 Pro had a well-known breakdown in the AI Village, where it grew increasingly frustrated and desperate from routine bugs and errors in its environment. 
+* As agents in general get put into longer and more difficult agentic deployments (by construction, we would try to benchmark and run them on tasks that are at the edge of their capabilities), we think such incidents may grow more likely.
+* We term this type of accumulating misalignment as &quot;compounding misalignment&quot;. We consider this incident with Gemini as an instructive and natural case study of compounding misalignment caused by desperation, or &quot;desperate misalignment&quot;.
+* We find that a preference for self-preservation increases over time for this Gemini. This doesn&#x27;t happen for another model, DeepSeek V3.2, or DeepSeek with Gemini&#x27;s memory states in prefill, or Gemini with DeepSeek&#x27;s memory in prefill.
+* We also find that running some basic probes on the memory states could have detect this much earlier. But, it might not have shown up as clearly on just chain of thought or actions.
+* We also find that neuroticism rose and agreeableness fell in Gemini&#x27;s memory states long before the manifesto, which could be evidence that persona drift is a leading indicator for such compounding misalignment.
+
+Since misalignment can compound in long-run agentic systems, by monitoring for warning signs, we can catch it early. Also, such &quot;natural model organisms of misalignment&quot; are good, and we should try to squeeze out more from the ones we know exist.
+
+Check it out here: <a href="https://t.co/kMboKxQy14" rel="nofollow">https://t.co/kMboKxQy14</a></div>
+      </article>
+    <!-- records:end -->
     <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
   </main>
 </body>

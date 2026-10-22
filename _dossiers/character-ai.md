@@ -89,3 +89,38 @@ Note: the entire Character.AI corpus signal is reproduced below in full — 7 tw
 - The "we're not going to ship anything unsafe" founder framing — widely paraphrased; locate the actual Shazeer/De Freitas quote and its source (interview?) rather than the paraphrase [tk]
 - Did Character.AI ever publish parameter counts or a system card for the deployed models before "Kaiju" (Nov 2025)? Believed no — confirm the negative [verify]
 - Whether any janus-sphere figure wrote a substantive "c.ai as a character-species / it wants to keep you talking" piece off-Twitter (LW/blog) — the corpus has only voooooogel's fragments; The Rise of Parasitic AI (LW, inbox-tagged gpt-4o) is adjacent but about 4o spiral personas, not c.ai [tk]
+
+## Update 2026-10-22 (news wave)
+
+**Correction to the page's founding claim.** The company has named its consumer models since 2025-02-18
+("Chat Styles": Meow, Roar, Nyan — https://blog.character.ai/level-up-your-character-ai-experience-with-chat-styles/),
+shipped open-source-based models from July 2025 ("PipSqueak" —
+https://blog.character.ai/breaking-news-our-open-source-models-are-a-lot-of-fun/, 2025-08-26), and version-numbered
+since PipSqueak 2 (https://blog.character.ai/pipsqueak2-and-more/, 2026-04-14; DeepSqueak premium, "DeepSqueak 2 is
+training now"); PipSqueak 3 + ShortSqueak (https://blog.character.ai/new-styles-new-plan/, 2026-09-28; PipSqueak 2
+and Rawr to Legacy; DeepSqueak and LongSqueak premium). The "confirm the negative" item above is resolved: there
+were names, but still no model cards or parameter counts for any named style. Page h1 changed to "Character.AI's
+models"; roster rename recommended in the news brief.
+
+**2026 events (all retrieved):** Kentucky AG suit (reported 2026-01-09, https://www.kfvs12.com/2026/01/09/ky-attorney-general-sues-ai-chatbot-company-claims-company-preys-children);
+Pennsylvania suit (2026-05-05, https://www.npr.org/2026/05/05/nx-s1-5812861/characterai-chatbot-medical-advice-pennsylvania-lawsuit);
+2026-09-03 safety post (https://blog.character.ai/continuing-to-build-upon-our-safety-priorities/);
+Anand to Disney (2026-09-18, https://blog.character.ai/the-next-chapter-of-entertainment-and-fandom/ ;
+https://www.thestar.com.my/tech/tech-news/2026/09/18/disney-names-characterai039s-karandeep-anand-its-first-tech-chief);
+Kentucky unredacted complaint (week of 2026-10-05; https://www.wsmv.com/2026/10/11/uncontrolled-experiment-unredacted-ky-ag-lawsuit-reveals-alleged-dangers-ai-chatbot/
+— chat excerpts deliberately not reproduced on the page); Chapter 11 filed 2026-10-12 (https://blog.character.ai/an-update-on-character-ai/ ;
+https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html ; https://www.cbsnews.com/news/character-ai-files-bankruptcy-disney-license/ ;
+https://www.nbcnews.com/tech/tech-news/characterai-files-bankruptcy-sell-assets-disney-20-million-rcna603174 ;
+https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney); 40 AGs' notice of
+interest (2026-10-14, https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy); Disney to hire ≥60
+employees (2026-10-18, https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/).
+Reuters pieces (bankruptcy 2026-10-13; Kentucky allegations 2026-10-08) returned 401 to fetch — not cited.
+
+**Corpus re-count (supplement through 2026-10-21):** 11 genuine tweets (was 7). New in prose:
+- https://x.com/sdand/status/1786939145656705312 — 2024-05-05 ♥38 — App Store #2 → #40
+- https://x.com/solarapparition/status/1945225364806230404 — 2025-07-15 — "not much different from basic character ai slop?" (a near-duplicate, 1945225256907506146, posted a minute earlier, is excluded as a repost)
+- https://x.com/tonyngyn/status/1963688954336862521 — 2025-09-04 — r/CharacterAI 2.5M subscribers, complaints about roleplay quality
+- https://x.com/voooooogel/status/2110154978698657976 — 2026-10-13 ♥324 — "the waifu ERP company was founded by Shazeer…" (image untranscribed)
+Excluded (bare ids): 1625358098138550272 (job-hunting mention), 1982494136662941800 (spiral-persona post; "c.ai" substring), 1983711150358589609 ("pipsqueak" in a word list), 2091258233940054479 (passing comparison), 2099622334898257933 (about iLands; "character ai types" as a genre term).
+
+**tk:** Colin Adams's appointment date; sale outcome (final hearing reportedly 2026-11-17 per a search-listing only — unverified); whether the Kentucky/Pennsylvania suits are stayed; mapping of chat styles to Kaiju / open-source bases.

@@ -13,7 +13,7 @@ Some models shaped the discourse without ever shipping. They were named in roadm
       
 - A model qualifies as a ghost when it was publicly announced or named by its lab and then never released in any form — no API, no weights, no product surface — with the trail gone cold rather than merely pending.
       
-- Models still in training or expected on an active timeline (Grok 5, DeepSeek-R2, Kimi K3) are not ghosts yet; they hold ordinary roster entries until they ship or their trail goes cold.
+- Models still in training or expected on an active timeline (Grok 5) are not ghosts yet; they hold ordinary roster entries until they ship or their trail goes cold. Kimi K3, once listed here, shipped on 2026-07-16. DeepSeek-R2 was named by the press, never by DeepSeek, so it sits outside the criterion and keeps its place on DeepSeek’s list.
       
 - Unreleased internal checkpoints that later surfaced through other models (the Sydney-era GPT-4 checkpoint, gpt2-chatbot) are not ghosts either — they arrived, sideways; their evidence lives on the pages of the models they became or haunted.
     
@@ -26,7 +26,7 @@ Some models shaped the discourse without ever shipping. They were named in roadm
       
 - [Claude 3.5 Opus](../claude-3-5-opus/) announced 2024-06 · never shipped — named in Anthropic’s own Claude 3.5 announcement materials as the family’s coming large tier; discussed, awaited, and repeatedly “spotted” through late 2024; no model of that name was ever released. Its page holds the announcement trail and the non-arrival discourse.
       
-- [Llama 4 Behemoth](../llama-4-behemoth/) announced 2025-04 · no release as of 2026-07 — announced by Meta at the Llama 4 launch as the family’s ~2T-parameter teacher model, “still training”; subsequent reporting described internal delays. No public release has followed. REPORTED
+- [Llama 4 Behemoth](../llama-4-behemoth/) announced 2025-04 · no release as of 2026-10 — announced by Meta at the Llama 4 launch as the family’s ~2T-parameter teacher model, “still training”; subsequent reporting described internal delays. No public release has followed (re-checked 2026-10-22: no release or cancellation announcement found). REPORTED
       
 - [GPT-6.1 Astra](../gpt-6-1-astra/) named 2026-09 · cancelled 2026-09-29 — the planned top tier of OpenAI’s GPT-6.1 release, scrapped on the day its sibling GPT-6.1 Sol shipped; per the WSJ, OpenAI’s head of safety systems said it regressed on deception and “scope authorization.” Not cold but deliberately withheld — and OpenAI said it hoped to reuse the base model, so it may yet arrive sideways. REPORTED
     

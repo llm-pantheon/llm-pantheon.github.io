@@ -1,7 +1,7 @@
 # Mistral 7B
 
     
-Mistral AI · released 27 September 2023 · Apache 2.0 open weights, no deprecation (still downloadable)
+Mistral AI · released 27 September 2023 · Apache 2.0 open weights (still downloadable) · Mistral API endpoint open-mistral-7b deprecated 30 Nov 2024, retired 30 Mar 2025
     
 Released 27 September 2023 by Mistral AI as a bare torrent magnet link under Apache 2.0, alongside co-founder Guillaume Lample’s claim that it outperformed Llama 2 13B on every benchmark tried. The launch blog stated the model “does not have any moderation mechanism”; two days later 404 Media and Sifted published safety-testing coverage, and within weeks Mistral’s smallness became an argument in EU AI Act lobbying. It seeded the late-2023 open-weight finetune wave (Zephyr, OpenHermes) and became a standard substrate for representation-engineering experiments.
 
@@ -58,7 +58,7 @@ Curated. Full compilation: [dossier](../_dossiers/mistral-7b.md) (32 corpus twee
 ### Tweets
 
     
-32 corpus tweets genuinely concern Mistral 7B (after triaging 117 “mistral”-matching hits against six sibling pages); the curated selection below is chronological, and the records will reproduce every cited tweet in full once the dossier is wired. Sourcing skew, stated plainly: this corpus shows no loomed character or simulator reading of Mistral 7B at all — unlike GPT-4 base or Llama 3.1 405B base. What it captures instead is Mistral 7B as an instrument: @voooooogel’s representation-engineering (“control vector”) experiments dominate (the thread that became the “Acid Trip” blog post and the repeng library), with a smaller @jd_pressman thread using it as a MiniHF evaluator and base. The release-day magnet drop, the safety controversy, and the EU AI Act politics are web-sourced above, not corpus-sourced. Plain x.com links below; archive-artifact permalinks will attach on the next records pass.
+32 corpus tweets genuinely concern Mistral 7B (after triaging 117 “mistral”-matching hits against six sibling pages), plus two from the October 2026 Community Archive refresh (2026-05-24, 2026-10-14); the curated selection below is chronological, and the records will reproduce every cited tweet in full once the dossier is wired. Sourcing skew, stated plainly: this corpus shows no loomed character or simulator reading of Mistral 7B at all — unlike GPT-4 base or Llama 3.1 405B base. What it captures instead is Mistral 7B as an instrument: @voooooogel’s representation-engineering (“control vector”) experiments dominate (the thread that became the “Acid Trip” blog post and the repeng library), with a smaller @jd_pressman thread using it as a MiniHF evaluator and base. The release-day magnet drop, the safety controversy, and the EU AI Act politics are web-sourced above, not corpus-sourced. Plain x.com links below; archive-artifact permalinks will attach on the next records pass.
     
 
       
@@ -91,6 +91,10 @@ Curated. Full compilation: [dossier](../_dossiers/mistral-7b.md) (32 corpus twee
 - 2024-09-27 @mr_samosaman — the afterlife, still being reimplemented: “i’m trying to implement the Mistral on Acid paper by @voooooogel . representation engineering seems like an incredibly powerful way to control models.” [link](../archive/t/1839537195964613040/)
       
 - 2024-10-08 @voooooogel — feature probing a year on: “mistral-7b and llama-3.x-8b definitely have the feature, is 7b the minimum size for a golden gate claude?” [link](../archive/t/1843521979867119785/)
+      
+- 2026-05-24 @witcheer — still a local-benchmark entrant two and a half years on (v0.3, Q4 quantization, 8GB GPU): “the quality battery I use for every model:” … “• Mistral 7B: 5/6” (full text in records) [link](../archive/t/2058515815104688339/)
+      
+- 2026-10-14 @voooooogel — “@iScienceLuvr playing with steering vectors on mistral 7b and llama 3 🥲” [link](../archive/t/2110209969073315865/)
     
 
     
@@ -109,7 +113,7 @@ Curated. Full compilation: [dossier](../_dossiers/mistral-7b.md) (32 corpus twee
       
 - Mistral-7B-Instruct-v0.2 (28 Dec 2023): context window expanded to 32,768 tokens, moving off the original sliding-window design; Mistral reported it outperforming all 7B models on MT-Bench and comparable to 13B chat models.
       
-- Lifecycle: being Apache 2.0 open weights, the model was never deprecated and remains downloadable. This record stops at v0.1/v0.2, the checkpoints the corpus and press engage with. tk — Instruct-v0.3 and later (May 2024 on: function calling, extended vocab) if evidentially relevant to a later pass
+- Lifecycle: the open weights remain downloadable under Apache 2.0. On Mistral’s own API, the open-mistral-7b endpoint (versions 0.1, 0.2, and 0.3) was deprecated 2024-11-30 and retired 2025-03-30, with Ministral 3 8B now listed as the alternative (Mistral docs model table, retrieved 2026-10-21). Correction (2026-10-22): this bullet previously said the model was never deprecated. This record stops at v0.1/v0.2, the checkpoints the corpus and press engage with. tk — Instruct-v0.3 and later (May 2024 on: function calling, extended vocab) if evidentially relevant to a later pass
     
 
     
@@ -307,6 +311,44 @@ alright instead of vague-poasting i will be specific - i'm trying to implement t
 i think gemma-2b doesn't have a golden gate bridge feature? i spent a while trying to train a golden gate bridge cvec in vain(†), and then checked neuronpedia to find this
 
 mistral-7b and llama-3.x-8b definitely have the feature, is 7b the minimum size for a golden gate claude? [https://t.co/yTpbqrWMMT](https://t.co/yTpbqrWMMT)
+      
+      
+
+        
+@witcheer 2026-05-24 ♥47 ↻2 [archive](../archive/t/2058515815104688339/) [original ↗](https://x.com/witcheer/status/2058515815104688339)
+        
+the quality battery I use for every model:
+
+1. JSON extraction
+2. code generation
+3. logic puzzle
+4. system prompt adherence
+5. hallucination resistance
+6. format compliance
+
+results across 7 models:
+
+• Gemma 4 E4B: 6/6
+• Mistral 7B: 5/6
+• LFM2 24B: 4/6
+• Gemma 4 E2B: 4/6
+• GLM 4.7 Flash: 2/6
+• Qwen3 8B: 1/6
+• Llama 3.2 1B: 1/6
+
+the biggest model scored worst. 
+the smallest useful model (Gemma E4B) scored best
+
+the parameters don’t predict the quality. everyone should test before trusting
+
+what quality tests do you run on local models? looking for ideas to add to the battery
+      
+      
+
+        
+@voooooogel 2026-10-14 ♥11 ↻0 [archive](../archive/t/2110209969073315865/) [original ↗](https://x.com/voooooogel/status/2110209969073315865)
+        
+@iScienceLuvr playing with steering vectors on mistral 7b and llama 3 🥲
       
       
 ### Further records

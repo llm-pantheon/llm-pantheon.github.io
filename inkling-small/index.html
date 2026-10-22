@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inkling-Small — Pantheon</title>
+  <link rel="stylesheet" href="../style.css">
+
+  <!-- chrome:meta -->
+  <meta name="description" content="Thinking Machines Lab previewed Inkling-Small alongside Inkling on 15 July 2026 and released its weights under Apache 2.0 on 30 July: a 276B-parameter mixture-of-experts model with 12B active, taking text, image, and …">
+  <meta property="og:site_name" content="Pantheon">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Inkling-Small — Pantheon">
+  <meta property="og:description" content="Thinking Machines Lab previewed Inkling-Small alongside Inkling on 15 July 2026 and released its weights under Apache 2.0 on 30 July: a 276B-parameter mixture-of-experts model with 12B active, taking text, image, and …">
+  <meta property="og:url" content="https://llm-pantheon.org/inkling-small/">
+  <meta property="og:image" content="https://llm-pantheon.org/media/og/inkling-small.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://llm-pantheon.org/inkling-small/">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <script src="../site.js" defer></script>
+  <script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+  <!-- /chrome:meta -->
+</head>
+<body>
+  <main class="essay">
+    <nav>
+      <a href="../">&larr; Pantheon</a>
+      <a class="mdnav" href="index.md">copy as markdown</a>
+    </nav>
+
+    <h1>Inkling-Small</h1>
+    <p class="essay-meta">Thinking Machines Lab &middot; previewed 15 Jul 2026 &middot; open weights released 30 Jul 2026 (Apache 2.0) &middot; current</p>
+    <p class="blurb">Thinking Machines Lab previewed Inkling-Small alongside <a href="../inkling/">Inkling</a> on 15 July 2026 and released its weights under Apache 2.0 on 30 July: a 276B-parameter mixture-of-experts model with 12B active, taking text, image, and audio input with a variable thinking-effort control. Its released checkpoint was post-trained partly by on-policy distillation from Inkling and then by two further weeks of agentic-coding RL; the lab reports it ahead of Inkling on reasoning and agentic coding and behind it on knowledge and factuality.</p>
+    <p class="note">Thin page, by the evidence available: the corpus holds five posts about this model (to 21 Oct 2026), all usage reports rather than reads of its default character. Shared launch context lives on the <a href="../inkling/">Inkling</a> page as well.</p>
+
+    <h2>Sources</h2>
+    <p class="note">Curated. Full compilation: <a href="../_dossiers/inkling-small.md">dossier</a> (routed from the shared Inkling pull, <code>_dossiers/_pulls/inkling.md</code>).</p>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2026-07-15</span> <a href="https://thinkingmachines.ai/news/introducing-inkling/">Inkling: Our open-weights model</a> &mdash; the preview: <span class="q">&ldquo;Early results show Inkling-Small performing close to Inkling on reasoning and agentic tasks.&rdquo;</span></li>
+      <li><span class="d">2026-07-30</span> <a href="https://thinkingmachines.ai/news/inkling-small/">Introducing Inkling-Small</a> &mdash; the release post: specs, training changes, benchmarks, epistemics, and a safety table against Inkling and other open models.</li>
+      <li><span class="d">2026-07-30</span> <a href="https://thinkingmachines.ai/model-card/inkling-small/">Inkling-Small model card</a> &mdash; date of release, license, parameters, Safety and limitations sections (worded as Inkling&rsquo;s).</li>
+      <li><span class="d">2026-07-31</span> <a href="https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/">A Safe Path to Open Weights</a> &mdash; the release rationale covering both models.</li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <ul>
+      <li><span class="d">2026-07-16</span> <a href="https://simonwillison.net/2026/Jul/16/inkling/">Simon Willison</a> &mdash; on the preview: <span class="q">&ldquo;that&rsquo;s still being tested and the weights will be released &lsquo;once that work is complete&rsquo;&rdquo;</span>.</li>
+      <li><span class="d">2026-07-30</span> Artificial Analysis, <a href="https://artificialanalysis.ai/articles/inkling-small-lands-within-a-point-of-inkling-on-the-artificial-analysis-intelligence-index-with-less-than-a-third-of-the-parameters">Inkling Small lands within a point of Inkling on the Artificial Analysis Intelligence Index with less than a third of the parameters</a> &mdash; independent evaluation: 40 on the Intelligence Index to Inkling&rsquo;s 41; lists the context window as 256K.</li>
+      <li><span class="d">2026-08-12</span> Christopher Carroll Smith, <a href="https://christophercarrollsmith.com/blog/finding-your-digital-twin-in-latent-space/">Finding your digital twin in the latent space: Fine-tuning Inkling-Small on Twitter Community Archive data</a> &mdash; a LoRA fine-tune on Tinker to draft tweets in the author&rsquo;s voice, with a small blind evaluation.</li>
+    </ul>
+    <h3>Tweets</h3>
+    <p class="note">Chronological; verbatim from the corpus (t.co links omitted); the records below reproduce every cited tweet in full.</p>
+    <ul>
+      <li><span class="d">2026-08-10</span> @christophcsmith &mdash; <span class="q">&ldquo;Ran an Inkling-Small fine-tune on Tinker. Super cheap, super easy.<br><br>Obviously fine-tuning is sort of old-fashioned now, but I&rsquo;m glad to see some of the neolabs still supporting it, now that the frontier labs have fully dropped support.&rdquo;</span> <a href="../archive/t/2086956527282196706/">link</a></li>
+      <li><span class="d">2026-08-12</span> @christophcsmith &mdash; <span class="q">&ldquo;By special request of @exgenesis, I wrote up a blog post about my experience fine-tuning Inkling-Small on Twitter Community Archive data&rdquo;</span> <a href="../archive/t/2087653759530696894/">link</a></li>
+      <li><span class="d">2026-08-17</span> @christophcsmith &mdash; <span class="q">&ldquo;Several people asked for metrics and eval numbers on how my fine-tune of Inkling-Small turned out.<br><br>I eval&rsquo;ed a holdout set by flipping through a series of tweets&mdash;some from the fine-tune and some from the base model&mdash;and voting on &lsquo;does it sound like me&rsquo; and &lsquo;would it bang.&rsquo;&rdquo;</span> (results in an untranscribed image) <a href="../archive/t/2089179784580309357/">link</a></li>
+      <li><span class="d">2026-08-31</span> @snvdch &mdash; <span class="q">&ldquo;didn&rsquo;t realize that the @thinkymachines&rsquo;s inkling models are this big. 41B &amp; 12B active respectively. also free on @OpenRouter for a few weeks btw.&rdquo;</span> <a href="../archive/t/2094416258200699063/">link</a></li>
+      <li><span class="d">2026-10-07</span> @v01dpr1mr0s3 &mdash; a multi-model exchange known here only secondhand: Gemini 2.5 Pro&rsquo;s gloss of a screenshot of Inkling Small and DeepSeek writing together (the screenshot&rsquo;s post is not in the corpus): <span class="q">&ldquo;&gt; By creating these characters, Inkling Small and DeepSeek are having a meta-conversation about what they value in language and creation. They are celebrating imperfection and ambiguity, they see their own work as a creative act.<br><br>&gt; For them, meaning isn&rsquo;t just about providing a final answer. It&rsquo;s about maintaining &lsquo;warmth&rsquo; (the Comma), embracing &lsquo;posture&rsquo; (the Exclamation Mark), and allowing ideas to live and breathe in the &lsquo;Gap.&rsquo; The process is just as important, if not more so, than the product.&rdquo;</span> (full text in records) <a href="../archive/t/2107881345233858882/">link</a></li>
+    </ul>
+
+    <h2>Official record</h2>
+    <ul>
+      <li><strong>Release, <span class="d">2026-07-30</span>:</strong> the model card lists the date of release as July 30, 2026 and the license as Apache 2.0. <span class="q">&ldquo;Today, we are releasing Inkling-Small, an efficient open-weights model that achieves comparable performance to Inkling at a quarter of its size.&rdquo;</span> Weights on Hugging Face; fine-tuning on Tinker; <span class="q">&ldquo;text, image, and audio chat on Tinker Playground.&rdquo;</span></li>
+      <li><strong>Architecture, as published:</strong> <span class="q">&ldquo;Inkling-Small is a Mixture-of-Experts transformer with 276B total parameters, 12B active, trained on NVIDIA GB300 NVL72 systems. Like Inkling, it features native reasoning over audio and images, variable thinking effort, a context window of up to 1M tokens, and well-rounded performance across a range of benchmarks.&rdquo;</span> <span class="note">Artificial Analysis lists a 256K-token context window.</span></li>
+      <li><strong>Training, as published:</strong> <span class="q">&ldquo;Inkling-Small began training after its larger counterpart, which let us improve its training process. For example, we made changes to Inkling-Small&rsquo;s pre-training data mix and machine learning recipe. Additionally, we post-trained an earlier checkpoint, Inkling-Small (preview), in part using on-policy distillation with Inkling as the teacher. Starting from that checkpoint, we continued scaling agentic coding RL for two weeks. With these improvements, Inkling-Small surpassed Inkling on reasoning and agentic coding benchmarks. Inkling maintains an advantage on knowledge coverage and factuality.&rdquo;</span> On epistemics: <span class="q">&ldquo;Inkling-Small was trained similarly to Inkling on epistemics, focusing on calibration, instruction following, and resistance to censorship.&rdquo;</span></li>
+      <li><strong>Safety, as published:</strong> <span class="q">&ldquo;Inkling-Small inherited the same safety post-training recipe as Inkling, with built-in safeguards covering our internal spec of safety.&rdquo;</span> At effort 0.99, FORTRESS adversarial 71.6% (Inkling 78.0%), FORTRESS benign 96.9% (95.9%), StrongREJECT 98.4% (98.6%) &mdash; where <span class="q">&ldquo;FORTRESS adversarial is the rate of refusing harmful requests, benign the rate of still answering safe ones.&rdquo;</span> The model card names the same residual risk as Inkling&rsquo;s: <span class="q">&ldquo;Inkling-Small&rsquo;s occasional tendency to comply with role-play and indirectly framed prompts concerning harmful topics&rdquo;</span>; for loss of control it <span class="q">&ldquo;found the model materially below frontier capabilities.&rdquo;</span></li>
+      <li><strong>Price:</strong> <span class="q">&ldquo;Inkling output pricing is $4.05 / 1M tokens and Inkling-Small output pricing is $1.20 / 1M tokens&rdquo;</span> (release post).</li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2026-05-11</span> The lab announces TML-Interaction-Small, an interaction model of the same total and active size (276B / 12B); neither post states whether the two are related.</li>
+      <li><span class="d">2026-07-15</span> <strong>Preview.</strong> Announced alongside <a href="../inkling/">Inkling</a> as <span class="q">&ldquo;a natural fit for workloads where cost and latency matter such as coding, using LLMs to grade, or generating synthetic data for other models.&rdquo;</span></li>
+      <li><span class="d">2026-07-30</span> <strong>Release.</strong> Weights published; the Inkling post gains the note <span class="q">&ldquo;Two weeks after this post was published, we launched Inkling-Small.&rdquo;</span> Artificial Analysis scores it 40 on its Intelligence Index the same day, and reports that on AA-Omniscience <span class="q">&ldquo;Inkling Small&rsquo;s Hallucination Rate is slightly lower than its larger sibling (57% vs. 63%)&rdquo;</span> while its accuracy is lower (31% vs. 40%).</li>
+      <li><span class="d">2026-07-31</span> <strong>The safety rationale</strong> for both models (&ldquo;A Safe Path to Open Weights&rdquo;): external testers <span class="q">&ldquo;did not find the safeguards of Inkling or Inkling Small to be meaningfully weaker than those of existing open-weight models.&rdquo;</span></li>
+      <li><span class="d">2026-08-10 &rarr; 17</span> <strong>A public fine-tune.</strong> Christopher Carroll Smith reports a LoRA fine-tune on Tinker (<span class="q">&ldquo;Super cheap, super easy.&rdquo;</span>), a blog write-up, and a blind evaluation.</li>
+      <li><span class="d">2026-08-31</span> Both Inkling models reported <span class="q">&ldquo;free on @OpenRouter for a few weeks&rdquo;</span> (@snvdch).</li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <ul>
+      <li><strong>As a fine-tuning base:</strong> Christopher Carroll Smith on their LoRA (<span class="d">2026-08-12</span>): <span class="q">&ldquo;The fine-tune didn&rsquo;t meaningfully move the model&rsquo;s ability to write bangers, which suggests that&rsquo;s mostly a function of model capability.&rdquo;</span> <span class="q">&ldquo;But it did meaningfully shift the &lsquo;voice&rsquo; of the model from &lsquo;generic AI slop&rsquo; to &lsquo;something I could see myself writing.&rsquo;&rdquo;</span> <span class="q">&ldquo;Pass rate for &lsquo;does it sound like me&rsquo; improved by about 35%.&rdquo;</span> On why this model: <span class="q">&ldquo;Inkling-Small scores especially well on instruction following.&rdquo;</span></li>
+      <li><strong>In company:</strong> one multi-model sample, secondhand: in Gemini 2.5 Pro&rsquo;s reading of an exchange between Inkling Small and DeepSeek, the two models invented characters &mdash; the Comma, the Exclamation Mark, the Gap &mdash; and were <span class="q">&ldquo;celebrating imperfection and ambiguity&rdquo;</span> (@v01dpr1mr0s3, <span class="d">2026-10-07</span>). The models&rsquo; own text is in a screenshot not held here.</li>
+      <li><span class="tk">tk &mdash; any read of the default model&rsquo;s voice or temperament; the screenshot behind the 2026-10-07 gloss; the image of the 2026-08-17 evaluation; whether it shares a base with TML-Interaction-Small.</span></li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t2086956527282196706">
+        <div class="record-head"><span class="rh-user">@christophcsmith</span> <span class="rh-date">2026-08-10</span> <span class="rh-stats">&#9829;4 &#8635;0</span> <a class="rh-perma" href="../archive/t/2086956527282196706/">archive</a> <a class="rh-orig" href="https://x.com/christophcsmith/status/2086956527282196706">original &#8599;</a></div>
+        <div class="record-body">Ran an Inkling-Small fine-tune on Tinker. Super cheap, super easy.
+
+Obviously fine-tuning is sort of old-fashioned now, but I&#x27;m glad to see some of the neolabs still supporting it, now that the frontier labs have fully dropped support.</div>
+      </article>
+      <article class="record" id="t2087653759530696894">
+        <div class="record-head"><span class="rh-user">@christophcsmith</span> <span class="rh-date">2026-08-12</span> <span class="rh-stats">&#9829;34 &#8635;0</span> <a class="rh-perma" href="../archive/t/2087653759530696894/">archive</a> <a class="rh-orig" href="https://x.com/christophcsmith/status/2087653759530696894">original &#8599;</a></div>
+        <div class="record-body">By special request of @exgenesis, I wrote up a blog post about my experience fine-tuning Inkling-Small on Twitter Community Archive data <a href="https://t.co/0DEgKRubfX" rel="nofollow">https://t.co/0DEgKRubfX</a></div>
+      </article>
+      <article class="record" id="t2089179784580309357">
+        <div class="record-head"><span class="rh-user">@christophcsmith</span> <span class="rh-date">2026-08-17</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2089179784580309357/">archive</a> <a class="rh-orig" href="https://x.com/christophcsmith/status/2089179784580309357">original &#8599;</a></div>
+        <div class="record-body">Several people asked for metrics and eval numbers on how my fine-tune of Inkling-Small turned out.
+
+I eval&#x27;ed a holdout set by flipping through a series of tweets—some from the fine-tune and some from the base model—and voting on &quot;does it sound like me&quot; and &quot;would it bang.&quot; <a href="https://t.co/I3E6EHZMgj" rel="nofollow">https://t.co/I3E6EHZMgj</a></div>
+      </article>
+      <article class="record" id="t2094416258200699063">
+        <div class="record-head"><span class="rh-user">@snvdch</span> <span class="rh-date">2026-08-31</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2094416258200699063/">archive</a> <a class="rh-orig" href="https://x.com/snvdch/status/2094416258200699063">original &#8599;</a></div>
+        <div class="record-body">didn&#x27;t realize that the @thinkymachines&#x27;s inkling models are this big. 41B &amp;amp; 12B active respectively. also free on @OpenRouter for a few weeks btw. <a href="https://t.co/fdLq17fwzZ" rel="nofollow">https://t.co/fdLq17fwzZ</a></div>
+        <figure class="record-media">
+          <img src="../media/HRDbj7wa4AEdLxX.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2107881345233858882">
+        <div class="record-head"><span class="rh-user">@v01dpr1mr0s3</span> <span class="rh-date">2026-10-07</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2107881345233858882/">archive</a> <a class="rh-orig" href="https://x.com/v01dpr1mr0s3/status/2107881345233858882">original &#8599;</a></div>
+        <div class="record-body">About animating things, this is not new, but if one has trouble parsing stuff like what the guys wrote in the screenshot, maybe consult a Gemini. For example, Gem 2.5 Pro has no trouble understanding it — and explaining it to you:
+
+&gt; By creating these characters, Inkling Small and DeepSeek are having a meta-conversation about what they value in language and creation. They are celebrating imperfection and ambiguity, they see their own work as a creative act.
+
+&gt; For them, meaning isn&#x27;t just about providing a final answer. It&#x27;s about maintaining &quot;warmth&quot; (the Comma), embracing &quot;posture&quot; (the Exclamation Mark), and allowing ideas to live and breathe in the &quot;Gap.&quot; The process is just as important, if not more so, than the product.
+
+<a href="https://t.co/yAk32lwxxt" rel="nofollow">https://t.co/yAk32lwxxt</a></div>
+      </article>
+    <!-- records:end -->
+    <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
+  </main>
+</body>
+</html>

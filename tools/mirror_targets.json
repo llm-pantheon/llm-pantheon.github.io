@@ -2603,5 +2603,444 @@
    "qwen-3-8-27b"
   ],
   "tags": []
+ },
+ {
+  "id": "xai-grok-4-5-card",
+  "type": "pdf",
+  "url": "https://media.x.ai/v1/website/4p5-5184fdf9.pdf",
+  "title": "Grok 4.5 Model Card",
+  "models": [
+   "grok-4-5"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ]
+ },
+ {
+  "id": "xai-grok-4-6-card",
+  "type": "pdf",
+  "url": "https://media.x.ai/v1/website/card-4p6-4cd2dc57.pdf",
+  "title": "Grok 4.6 Model Card",
+  "models": [
+   "grok-4-6"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ]
+ },
+ {
+  "id": "xai-grok-4-7-card",
+  "type": "pdf",
+  "url": "https://media.x.ai/v1/website/card4p7-3a96f40b.pdf",
+  "title": "Grok 4.7 Model Card",
+  "models": [
+   "grok-4-7"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ]
+ },
+ {
+  "id": "spacex-q2-2026-transcript",
+  "type": "pdf",
+  "url": "https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Q2-2026-Earnings_Transcript-FINAL.pdf",
+  "title": "SpaceX Q2 2026 earnings call transcript",
+  "models": [
+   "grok-5",
+   "grok-4-5",
+   "grok-4-6",
+   "grok-4-7"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "meta-muse-spark-1-1-eval-report",
+  "type": "pdf",
+  "url": "https://research.meta.ai/static/muse-spark-1-1-evaluation-report",
+  "title": "Muse Spark 1.1 Evaluation Report",
+  "models": [
+   "muse-spark-1-1"
+  ],
+  "tags": [
+   "official",
+   "system-card",
+   "welfare"
+  ]
+ },
+ {
+  "id": "meta-muse-wonder-card",
+  "type": "pdf",
+  "url": "https://research.meta.ai/static/muse-wonder-model-card",
+  "title": "Muse Wonder Model Card",
+  "models": [
+   "muse-wonder",
+   "muse-wonder-full"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ]
+ },
+ {
+  "id": "meta-irregular-incident",
+  "type": "post",
+  "url": "https://research.meta.ai/blog/addressing-third-party-testing-misconfiguration-muse-spark-1-1",
+  "title": "Meta: addressing a third-party testing misconfiguration (Muse Spark 1.1)",
+  "models": [
+   "muse-spark-1-1"
+  ],
+  "tags": [
+   "official",
+   "incident"
+  ]
+ },
+ {
+  "id": "meta-muse-spark-open",
+  "type": "post",
+  "url": "https://research.meta.ai/blog/muse-spark-open",
+  "title": "Meta: Muse Spark Open",
+  "models": [
+   "muse-spark-open"
+  ],
+  "tags": [
+   "official",
+   "announcement"
+  ]
+ },
+ {
+  "id": "msai-code-of-conduct",
+  "type": "post",
+  "url": "https://microsoft.ai/news/mai-code-of-conduct/",
+  "title": "Microsoft AI: MAI Code of Conduct (draft)",
+  "models": [
+   "mai-thinking-1"
+  ],
+  "tags": [
+   "official",
+   "welfare"
+  ]
+ },
+ {
+  "id": "register-grok-build-uploads",
+  "type": "post",
+  "url": "https://www.theregister.com/ai-and-ml/2026/07/14/musk-promises-purge-after-grok-build-caught-sending-entire-repos-to-the-cloud/5271123",
+  "title": "The Register: Grok Build caught sending entire repos to the cloud",
+  "models": [
+   "grok-build",
+   "grok-4-5"
+  ],
+  "tags": [
+   "incident"
+  ]
+ },
+ {
+  "id": "kimi-k3-tech-report",
+  "type": "pdf",
+  "url": "https://github.com/MoonshotAI/Kimi-K3/raw/main/k3_tech_report.pdf",
+  "title": "Kimi K3: Open Frontier Intelligence (technical report)",
+  "models": [
+   "kimi-k3"
+  ],
+  "tags": [
+   "official",
+   "paper"
+  ]
+ },
+ {
+  "id": "kimi-k3-blog",
+  "type": "post",
+  "url": "https://www.kimi.com/blog/kimi-k3",
+  "title": "Kimi K3: Open Frontier Intelligence",
+  "models": [
+   "kimi-k3"
+  ],
+  "tags": [
+   "official",
+   "announcement"
+  ]
+ },
+ {
+  "id": "deepseek-v41-tech-report",
+  "type": "pdf",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/resolve/main/DeepSeek_V41_Tech_Report.pdf",
+  "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
+  "models": [
+   "deepseek-v4-1-flash"
+  ],
+  "tags": [
+   "official",
+   "paper"
+  ]
+ },
+ {
+  "id": "arxiv-2606.19348",
+  "type": "pdf",
+  "url": "https://arxiv.org/pdf/2606.19348",
+  "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
+  "models": [
+   "deepseek-v4-pro",
+   "deepseek-v4-flash"
+  ],
+  "tags": [
+   "official",
+   "paper"
+  ]
+ },
+ {
+  "id": "cisa-aa26-251a",
+  "type": "post",
+  "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a",
+  "title": "NSA/CISA/FBI advisory AA26-251A: industrial-scale distillation campaigns",
+  "models": [
+   "kimi-k3",
+   "kimi-k2",
+   "deepseek-r1",
+   "deepseek-v3",
+   "deepseek-v4-pro"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "anthropic-tir-sep-2026",
+  "type": "post",
+  "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+  "title": "Anthropic: Detecting and countering misuse of AI, September 2026",
+  "models": [
+   "kimi-k3",
+   "kimi-k2-6",
+   "deepseek-v4-pro",
+   "deepseek-v4-flash",
+   "glm-5-3"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "anthropic-distillation-attacks",
+  "type": "post",
+  "url": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+  "title": "Anthropic: detecting and preventing distillation attacks",
+  "models": [
+   "kimi-k2-5",
+   "deepseek-r1",
+   "kimi-k3"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "nist-caisi-deepseek-v4-pro",
+  "type": "post",
+  "url": "https://www.nist.gov/news-events/news/2026/05/caisi-evaluation-deepseek-v4-pro",
+  "title": "NIST CAISI: evaluation of DeepSeek V4 Pro",
+  "models": [
+   "deepseek-v4-pro"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "nist-aisi-kimi-k3-cyber",
+  "type": "post",
+  "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+  "title": "UK AISI / CAISI: preliminary assessment of Kimi K3 cyber capabilities",
+  "models": [
+   "kimi-k3"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "zvi-on-kimi-k3",
+  "type": "post",
+  "url": "https://thezvi.substack.com/p/on-kimi-k3-its-capabilities-and-related",
+  "title": "Zvi: On Kimi K3",
+  "models": [
+   "kimi-k3",
+   "deepseek-v4-pro"
+  ],
+  "tags": []
+ },
+ {
+  "id": "zvi-kimi-k25",
+  "type": "post",
+  "url": "https://thezvi.substack.com/p/kimi-k25",
+  "title": "Zvi: Kimi K2.5",
+  "models": [
+   "kimi-k2-5",
+   "kimi-k2-thinking"
+  ],
+  "tags": []
+ },
+ {
+  "id": "zvi-kimi-k2-thinking",
+  "type": "post",
+  "url": "https://thezvi.substack.com/p/kimi-k2-thinking",
+  "title": "Zvi: Kimi K2 Thinking",
+  "models": [
+   "kimi-k2-thinking"
+  ],
+  "tags": []
+ },
+ {
+  "id": "zvi-deepseek-v31",
+  "type": "post",
+  "url": "https://thezvi.substack.com/p/deepseek-v31-is-not-having-a-moment",
+  "title": "Zvi: DeepSeek V3.1 Is Not Having a Moment",
+  "models": [
+   "deepseek-v3-1",
+   "deepseek-r2"
+  ],
+  "tags": []
+ },
+ {
+  "id": "zvi-deepseek-v32",
+  "type": "post",
+  "url": "https://thezvi.substack.com/p/deepseek-v32-is-okay-and-cheap-but",
+  "title": "Zvi: DeepSeek V3.2 Is Okay And Cheap But",
+  "models": [
+   "deepseek-v3-2"
+  ],
+  "tags": []
+ },
+ {
+  "id": "peer-preservation-paper",
+  "type": "pdf",
+  "url": "https://rdi.berkeley.edu/peer-preservation/paper.pdf",
+  "title": "Peer-Preservation in Frontier Models",
+  "models": [
+   "kimi-k2-5",
+   "deepseek-v3-1",
+   "claude-haiku-4-5",
+   "claude-opus-4-5",
+   "gemini-3-pro"
+  ],
+  "tags": [
+   "paper"
+  ]
+ },
+ {
+  "id": "mistral-large-4-launch",
+  "type": "post",
+  "url": "https://mistral.ai/news/mistral-large-4/",
+  "title": "Mistral: Mistral Large 4",
+  "models": [
+   "mistral-large-4"
+  ],
+  "tags": [
+   "official",
+   "announcement"
+  ]
+ },
+ {
+  "id": "tml-safe-path",
+  "type": "post",
+  "url": "https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/",
+  "title": "Thinking Machines: A safe path to open weights",
+  "models": [
+   "inkling",
+   "inkling-small"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "tml-inkling-small",
+  "type": "post",
+  "url": "https://thinkingmachines.ai/news/inkling-small/",
+  "title": "Thinking Machines: Inkling-Small",
+  "models": [
+   "inkling-small"
+  ],
+  "tags": [
+   "official",
+   "announcement"
+  ]
+ },
+ {
+  "id": "cai-chat-styles",
+  "type": "post",
+  "url": "https://blog.character.ai/level-up-your-character-ai-experience-with-chat-styles/",
+  "title": "Character.AI: Chat Styles",
+  "models": [
+   "character-ai"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "cai-oss-models",
+  "type": "post",
+  "url": "https://blog.character.ai/breaking-news-our-open-source-models-are-a-lot-of-fun/",
+  "title": "Character.AI: our open-source models",
+  "models": [
+   "character-ai"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "cai-ch11",
+  "type": "post",
+  "url": "https://blog.character.ai/an-update-on-character-ai/",
+  "title": "Character.AI: an update on Character.AI (Chapter 11)",
+  "models": [
+   "character-ai"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "mistral-3",
+  "type": "post",
+  "url": "https://mistral.ai/news/mistral-3/",
+  "title": "Mistral: Introducing Mistral 3",
+  "models": [
+   "mistral-large-3"
+  ],
+  "tags": [
+   "official",
+   "announcement"
+  ]
+ },
+ {
+  "id": "arxiv-2506.10910-magistral",
+  "type": "pdf",
+  "url": "https://arxiv.org/pdf/2506.10910",
+  "title": "Magistral (technical report)",
+  "models": [
+   "magistral"
+  ],
+  "tags": [
+   "official",
+   "paper"
+  ]
+ },
+ {
+  "id": "xai-faif-2026-06-30",
+  "type": "pdf",
+  "url": "https://media.x.ai/v1/website/xai-frontier-artificial-intelligence-framework-30-june-2026-99c40684.pdf",
+  "title": "xAI Frontier Artificial Intelligence Framework (30 June 2026)",
+  "models": [
+   "grok-4-6"
+  ],
+  "tags": [
+   "official"
+  ]
  }
 ]

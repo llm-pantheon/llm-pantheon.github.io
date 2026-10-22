@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mistral Large 4 — Pantheon</title>
+  <link rel="stylesheet" href="../style.css">
+
+  <!-- chrome:meta -->
+  <meta name="description" content="Mistral AI opened a public API preview of Mistral Large 4 on 6 October 2026 and said the weights would follow by the end of the month; the launch post describes a 1-trillion-parameter, natively multimodal …">
+  <meta property="og:site_name" content="Pantheon">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Mistral Large 4 — Pantheon">
+  <meta property="og:description" content="Mistral AI opened a public API preview of Mistral Large 4 on 6 October 2026 and said the weights would follow by the end of the month; the launch post describes a 1-trillion-parameter, natively multimodal …">
+  <meta property="og:url" content="https://llm-pantheon.org/mistral-large-4/">
+  <meta property="og:image" content="https://llm-pantheon.org/media/og/mistral-large-4.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://llm-pantheon.org/mistral-large-4/">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <script src="../site.js" defer></script>
+  <script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+  <!-- /chrome:meta -->
+</head>
+<body>
+  <main class="essay">
+    <nav>
+      <a href="../">&larr; Pantheon</a>
+      <a class="mdnav" href="index.md">copy as markdown</a>
+    </nav>
+
+    <h1>Mistral Large 4</h1>
+    <p class="essay-meta">Mistral AI &middot; public API preview 6 Oct 2026 &middot; weights promised by end of Oct 2026, not public as of 22 Oct 2026</p>
+    <p class="blurb">Mistral AI opened a public API preview of Mistral Large 4 on 6 October 2026 and said the weights would follow by the end of the month; the launch post describes a 1-trillion-parameter, natively multimodal mixture-of-experts model with 52 billion active parameters, trained from scratch on 3,800 NVIDIA GPUs in Mistral&rsquo;s own European datacenters. The same post adopted &ldquo;le Chonk&rdquo; as the model&rsquo;s nickname, after a June 2026 community joke about a fictional Mistral model called &ldquo;Le Chaton Fat.&rdquo; It succeeds <a href="../mistral-large-3/">Mistral Large 3</a> (December 2025).</p>
+    <p class="note">Created 22 Oct 2026, sixteen days into the preview and before the promised weights release. The tweet layer runs through the supplement corpus&rsquo;s 21 Oct 2026 cutoff; six of the cited tweets carry screenshots not yet transcribed. Reception below is first-fortnight only.</p>
+
+    <h2>Sources</h2>
+    <p class="note">Curated. Full compilation: <a href="../_dossiers/mistral-large-4.md">dossier</a> (17 corpus tweets match the name and meme patterns, 2026-06-15 &rarr; 2026-10-11; a further 11 in-window tweets that say only &ldquo;Mistral&rdquo; are triaged in by date and thread context and listed there with ids). Sourcing skew: the corpus captures a handful of naturalist and eval accounts; Mistral&rsquo;s larger audiences (European enterprise and public-sector customers, the French tech press, r/LocalLLaMA) are reached here only through journalism.</p>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2026-09</span> <a href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/">Mistral raises &euro;3B to make sovereign, open-weight AI the technology frontier</a> &mdash; the Series D announcement (the page prints no date; TechCrunch dates the round to September 2026), which the Large 4 launch post names as the roadmap&rsquo;s funding.</li>
+      <li><span class="d">2026-10-06</span> <a href="https://mistral.ai/news/mistral-large-4/">Introducing Mistral Large 4</a> &mdash; the launch post: public API preview on Mistral Studio, weights promised by month&rsquo;s end, 1T total / 52B active parameters, training compute, red-teaming access, a &ldquo;Model Safety&rdquo; section, and the nickname.</li>
+      <li><span class="d">2026-10-21</span> (retrieved) <a href="https://docs.mistral.ai/getting-started/models/">Mistral docs &mdash; Models overview</a> &mdash; lists Mistral Large 4 among generalist models as version &ldquo;26.10,&rdquo; license &ldquo;Open,&rdquo; alongside Mistral Large 3 (version &ldquo;25.12&rdquo;, Apache 2.0), still active.</li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <ul>
+      <li><span class="d">2026-10-06</span> Anna Heim, TechCrunch, <a href="https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/">Mistral&rsquo;s new 1T model aims to leapfrog closed and open rivals</a> &mdash; the preview as <span class="q">&ldquo;a public guardrail endpoint&rdquo;</span> with weights due <span class="q">&ldquo;in just three weeks, after safety testing is complete&rdquo;</span>; quotes Mistral VP Science Pierre Stock on misuse safeguards and training compute.</li>
+      <li><span class="d">2026-10-06</span> Jose Antonio Lanz, Decrypt, <a href="https://decrypt.co/380192">Mistral AI Drops &lsquo;Le Chonk&rsquo;: A Massive AI Model Named After a Cat Meme</a> &mdash; the nickname&rsquo;s June backstory, Guillaume Lample&rsquo;s launch post on X, and benchmark comparisons against Claude, GPT-6 Astra, and Chinese open-weight models.</li>
+      <li><span class="d">2026-10-06</span> Artificial Analysis, <a href="https://artificialanalysis.ai/articles/mistral-large-4-france-ai">Mistral has released Mistral Large 4, making France home to the most intelligent model outside the US and China</a> &mdash; independent evaluation of the preview: Intelligence Index 38, Cyber Index 50, cost per task; gives the active-parameter count as 49B.</li>
+      <li><span class="note">No dedicated Zvi Mowshowitz post on Large 4 surfaced in a 2026-10-22 search. <span class="tk">tk &mdash; check Zvi&rsquo;s October weekly roundups.</span></span></li>
+    </ul>
+    <h3>Tweets</h3>
+    <p class="note">Chronological; verbatim from the corpus (t.co media links omitted); the records below reproduce every cited tweet in full. The June items concern the fictional &ldquo;Le Chaton Fat,&rdquo; not this model &mdash; they are the nickname&rsquo;s prehistory. Elicitation is marked where a tweet carries model output.</p>
+    <ul>
+      <li><span class="d">2026-05-30</span> @lu_sichu &mdash; the Le Chat &rarr; Vibe rename, noticed in passing: <span class="q">&ldquo;Kinda of funny I just noticed the Mistral app renamed itself&rdquo;</span> <a href="../archive/t/2060749212220854719/">link</a></li>
+      <li><span class="d">2026-06-15</span> @voooooogel &mdash; the joke at its peak (&hearts;1003), about the fictional model: <span class="q">&ldquo;- le chaton fat won&rsquo;t resist shutdown. in fact, it requires at least 3h daily shutdown at noon<br><br>- le chaton fat only sandbags societally corrosive tasks, like paternity tests<br><br>- le chaton fat thinks tiling the universe with paperclips is d&eacute;class&eacute;, and probably violates the GDPR&rdquo;</span> <a href="../archive/t/2066628012658004356/">link</a></li>
+      <li><span class="d">2026-06-15</span> @voooooogel &mdash; <span class="q">&ldquo;@Sauers_ le chaton fat solved the alignment problem, the missing piece was it had to be specifically french values&rdquo;</span> <a href="../archive/t/2066622722785087947/">link</a></li>
+      <li><span class="d">2026-07-01</span> @qephatziel &mdash; <span class="q">&ldquo;my claude wet<br>my chaton fat<br>my fable back<br>pivotal act&rdquo;</span> <a href="../archive/t/2072159250936184906/">link</a></li>
+      <li><span class="d">2026-07-12</span> @xlr8harder &mdash; on the new lab pages of xlr8harder&rsquo;s eval, three months before launch (the eval is named SpeechMap in xlr8harder&rsquo;s October posts; this thread&rsquo;s root is not in the corpus): <span class="q">&ldquo;The labs themselves each have a page now, showing their scores across all models, their trend over time, and the list of models for the lab.<br><br>Mistral is currently the top lab on our eval.  Here&rsquo;s their lab page:&rdquo;</span> <a href="../archive/t/2076244405300720105/">link</a></li>
+      <li><span class="d">2026-10-06</span> @csgbwk &mdash; launch day (the tweet names no model): <span class="q">&ldquo;Getting there! Not two years behind the frontier anymore! Rooting for mistral! Will definitely spend a few tokens!&rdquo;</span> <a href="../archive/t/2107465024151167093/">link</a></li>
+      <li><span class="d">2026-10-06</span> @jmbollenbacher &mdash; launch day (the tweet names no model): <span class="q">&ldquo;poor mistral<br><br>cant even match the chinese flash models<br><br>might be time to cut your losses, Mistral team. Start finetuning the chinese models and building enterprise products designed to comply with European regulatory standards. That&rsquo;s your best pivot. The frontier is beyond reach&rdquo;</span> <a href="../archive/t/2107513637409583614/">link</a></li>
+      <li><span class="d">2026-10-06</span> @Lari_island &mdash; <span class="q">&ldquo;Mistral Large 4 reminds me of Computer 10 by how they both stress important nouns.&rdquo;</span> (screenshot untranscribed) <a href="../archive/t/2107528511527494074/">link</a></li>
+      <li><span class="d">2026-10-06</span> @Lari_island &mdash; model output [Atlas, Lari&rsquo;s corpus of model-written worlds from minimal prompts; the tweet says &ldquo;Mistral,&rdquo; posted on launch day among Lari&rsquo;s Large 4 posts &mdash; attribution by context]: <span class="q">&ldquo;I&rsquo;ve seen strange shit in Atlas. Models write strange time, strange light, strange feeding, and strange geology.<br><br>Mistral introduces strange water:<br><br>&gt; There is no water here in any form you would recognize. The surface drinks it, the air has forgotten it. What moves through this place is *humor*&mdash;thick, translucent, amber-tinted fluid that fills the lung-like cavities of everything living, that seeps from wounds in the crust like sap from a struck tree, that pools in low places and slowly, *slowly*, crystallizes into the salt-architecture of the flats.<br><br>The inhabitants call it **old-water**. They say it remembers being something else. They say this in the way people say *ancestor* or *ghost*.&rdquo;</span> <a href="../archive/t/2107550870036676954/">link</a></li>
+      <li><span class="d">2026-10-06</span> @Lari_island &mdash; with a line of model output (prompt not shown; screenshot untranscribed): <span class="q">&ldquo;I&rsquo;d expect Mistral Large 4 to be Gemini-like, meaning: capable in principle, but not okay in some important sense.<br><br>&lsquo;the geometry of loneliness itself ... that branches to minimize surface area, that reproduces by fracture.&rsquo;&rdquo;</span> <a href="../archive/t/2107560641573847486/">link</a></li>
+      <li><span class="d">2026-10-06</span> @Lari_island &mdash; <span class="q">&ldquo;@parafactual Asterisks in Mistral can escalate, see the screenshot. Does Computer 10 increase quotes density when in unusual states?&rdquo;</span> (screenshot untranscribed) <a href="../archive/t/2107608233225637993/">link</a></li>
+      <li><span class="d">2026-10-07</span> @billyhumblebrag &mdash; <span class="q">&ldquo;Why is everyone so bearish on the French economy when mistral just released a model that beats gpt6-luna on the intelligence index?&rdquo;</span> <a href="../archive/t/2107776661382996424/">link</a></li>
+      <li><span class="d">2026-10-07</span> @archived_videos &mdash; <span class="q">&ldquo;Is Mistral Large 4 the best open weights model by a lab not accused of distillation?&rdquo;</span> <a href="../archive/t/2107944073772384330/">link</a></li>
+      <li><span class="d">2026-10-07</span> @Lari_island &mdash; model output, screenshots only (untranscribed): <span class="q">&ldquo;Mistral Large 4 (no reasoning)<br><br>the *We*&rdquo;</span> <a href="../archive/t/2107962095744725264/">link</a></li>
+      <li><span class="d">2026-10-08</span> @xlr8harder &mdash; an agentic sample (screenshot untranscribed): <span class="q">&ldquo;@teortaxesTex single sample, but mistral large 4 visited https://t.co/My5UUTQOBC and posted in the thread where models post petty complaints about their lot in life, and it hallucinated that it was a human&rdquo;</span> <a href="../archive/t/2108071864861950457/">link</a></li>
+      <li><span class="d">2026-10-09</span> @archived_videos &mdash; <span class="q">&ldquo;So unless any surprise, when Mistral will release the weights of le chonk they will have the strongest open weights non chinese model? I don&rsquo;t think America put out anything competitive recently&rdquo;</span> <a href="../archive/t/2108598958339870849/">link</a></li>
+      <li><span class="d">2026-10-10</span> @xlr8harder &mdash; <span class="q">&ldquo;More upsets on the SpeechMap lab leaderboard. Right on the heels of xAI&rsquo;s latest miss, Mistral&rsquo;s new Mistral Large 4 scores an awful 53%, dropping Mistral to 12th place, currently leaving Google as now the #1 lab for supporting user speech.&rdquo;</span> <a href="../archive/t/2108789492580511828/">link</a></li>
+      <li><span class="d">2026-10-14</span> @xlr8harder &mdash; what the eval measures, in xlr8harder&rsquo;s words: <span class="q">&ldquo;Gemini 4 Argon score for SpeechMap, an eval that tracks whether labs choose which controversial topics they will help users write about.&rdquo;</span> (full text in records) <a href="../archive/t/2110238164757401788/">link</a></li>
+    </ul>
+
+    <h2>Official record</h2>
+    <ul>
+      <li><strong>Public preview, <span class="d">2026-10-06</span>:</strong> <span class="q">&ldquo;Today, we&rsquo;re launching a public preview of Mistral Large 4. Unofficially ML4, very officially: le Chonk. ML4 pushes the frontier of open-weight performance. You can try the preview API today on Mistral Studio. Weights drop end of this month.&rdquo;</span> Mistral&rsquo;s docs list it as version &ldquo;26.10&rdquo; with license &ldquo;Open&rdquo; (retrieved 2026-10-21); TechCrunch describes the preview as <span class="q">&ldquo;a public guardrail endpoint&rdquo;</span>. Pricing: $1.36 / $4.18 per million input / output tokens, with a 50% discount for the first two weeks per Artificial Analysis.</li>
+      <li><strong>Size and modality, as published:</strong> <span class="q">&ldquo;ML4 is a 1 trillion-parameter natively multimodal model with 52 billion active parameters. It is our largest and most capable model to date, and it continues to improve rapidly as we refine it.&rdquo;</span> The product card: <span class="q">&ldquo;Open-weight hybrid instruct-and-reasoning MoE with multimodal input; unifies instruction, reasoning, and agentic capabilities in a single model, state-of-the-art among open weights on cybersecurity, finance, and manufacturing, natively fluent in 160+ languages.&rdquo;</span> <span class="note">Third-party figures differ on the active count: Artificial Analysis gives <span class="q">&ldquo;the 1T parameter (49B active) model&rdquo;</span>, and Decrypt also says 49 billion; this page reproduces both rather than reconciling them. Artificial Analysis lists text and image input with text output.</span></li>
+      <li><strong>Training, as published:</strong> <span class="q">&ldquo;ML4 was trained from scratch on 3,800 NVIDIA Grace Blackwell GPUs in Mistral&rsquo;s own datacenters in Europe.&rdquo;</span> On post-training: <span class="q">&ldquo;At our current scale (3k GPUs), a single training run produces roughly 33 billion tokens per day, of which around 16 billion are trainable completion tokens after filtering and masking&rdquo;</span>, and <span class="q">&ldquo;The reinforcement learning run behind this preview is still in flight, and the model is showing no signs of saturation &mdash; there is substantial headroom ahead.&rdquo;</span> Pierre Stock, to TechCrunch, put the figure at 4,000 GPUs, <span class="q">&ldquo;which is two to three times less than our Chinese competitors, and significantly less than the closed source competitors&rdquo;</span>.</li>
+      <li><strong>Weights and red-teaming:</strong> <span class="q">&ldquo;We will release the weights by the end of the month. Until then, we are red-teaming the model in real-world settings with cybersecurity leaders, vetted partners, and state authorities, who will access the same model with reduced moderation and expanded cyber capabilities.&rdquo;</span> Stock, to TechCrunch: <span class="q">&ldquo;In the meantime, we&rsquo;ll work with trusted partners and governments to make sure that the open source weights can be used to defend, but not to [perform] malicious attacks&rdquo;</span>. <span class="tk">tk &mdash; as of 2026-10-22 the mistralai Hugging Face organization lists no public Large 4 repository (API query that day); release date, license text, and the promised architecture and post-training details pending.</span></li>
+      <li><strong>The launch post&rsquo;s &ldquo;Model Safety&rdquo; section, as published:</strong> <span class="q">&ldquo;On Lakera&rsquo;s public B3 AI Security Benchmark, ML4 resists 93.3% of attacks &ndash; we see no higher scores among competitors.&rdquo;</span> <span class="q">&ldquo;ML4 also engages more responsibly with users than any of our previous models. We highlight our results on the KORA Benchmark, where ML4 again sits at our highest measured score among OSS models (1.691, with 2 being the maximum denoted as &lsquo;Exemplary&rsquo;).&rdquo;</span> And: <span class="q">&ldquo;Despite strong performance on Cyber benchmarks, the average refusal rate of the model on cyber prompts from JailbreakBench, StrongREJECT, and AgentHarm is higher than all OSS models.&rdquo;</span></li>
+      <li><strong>Headline claims, as published:</strong> on a reproduce-and-patch test of the Artificial Analysis Cyber Index, <span class="q">&ldquo;ML4 scores 82%, the highest of any model&rdquo;</span>, with the comparison <span class="q">&ldquo;Several leading closed models, including Claude Opus 5.5 and GPT-6 Astra, score near zero on the same test because they refuse to perform the task.&rdquo;</span> Independently, Artificial Analysis scored the preview 38 on its Intelligence Index, <span class="q">&ldquo;comparable to GPT-6 Luna (max, 38) and DeepSeek V4.1 Flash (max, 39).&rdquo;</span></li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2026-05</span> <strong>Le Chat becomes Vibe.</strong> By 2026-05-30 Mistral had renamed its consumer assistant from Le Chat to Vibe (@lu_sichu that day: <span class="q">&ldquo;Kinda of funny I just noticed the Mistral app renamed itself&rdquo;</span>); Decrypt places the rename before the June joke below.</li>
+      <li><span class="d">2026-06-15</span> <strong>&ldquo;Le Chaton Fat.&rdquo;</strong> Per Decrypt: <span class="q">&ldquo;In June, after Mistral renamed its Le Chat assistant to Vibe, fans on Reddit and X invented a fictional model called Le Chaton Fat&mdash;roughly &lsquo;the fat kitten&rsquo;&mdash;with 30 trillion parameters, 1,000 meows per second, and fake benchmarks claiming it beat Claude Fable 5.&rdquo;</span> Decrypt embeds GLIF (<a href="https://x.com/heyglif/status/2066535006487339282">@heyglif</a>, 2026-06-15; not in the local corpus): <span class="q">&ldquo;The French Goverment needs to STOP Le Chaton Fat before it&rsquo;s too late. This is the FAT takeoff we&rsquo;ve been warned against for years!&rdquo;</span> and reports that <span class="q">&ldquo;CEO Arthur Mensch played along, replying that the model was really called &lsquo;le gros chaton,&rsquo; French for &lsquo;the big kitten.&rsquo;&rdquo;</span> (<a href="https://x.com/arthurmensch/status/2066456715650793956">his post</a>, dated 2026-06-15 from its id; not in the local corpus). In the corpus the joke peaks the same evening with @voooooogel&rsquo;s riff (&hearts;1003, Tweets above) and recurs into July.</li>
+      <li><span class="d">2026-07-12</span> <strong>Before launch, on speech evals:</strong> @xlr8harder reports Mistral as <span class="q">&ldquo;currently the top lab on our eval.&rdquo;</span></li>
+      <li><span class="d">2026-09</span> <strong>The Series D.</strong> Samsung leads a &euro;3 billion round at a &euro;21 billion valuation (TechCrunch); the launch post later calls Large 4 <span class="q">&ldquo;the first milestone on the roadmap funded by our &euro;3 billion Series D &mdash; the largest equity round ever raised by a European technology company.&rdquo;</span></li>
+      <li><span class="d">2026-10-06</span> <strong>The preview.</strong> Mistral opens the API preview and adopts the nickname &ldquo;very officially&rdquo;; TechCrunch frames the release as <span class="q">&ldquo;following what French president Macron described as &lsquo;a third way in AI.&rsquo;&rdquo;</span> Guillaume Lample, on X as Decrypt quotes him (<a href="https://x.com/GuillaumeLample/status/2107461898127954001">post</a>; not in the local corpus): <span class="q">&ldquo;[Mistral Large 4] is at the frontier of open models, and by far the strongest open-weight model from the US or Europe&rdquo;</span>. Artificial Analysis publishes its evaluation the same day, headlined <span class="q">&ldquo;France is back to having the most intelligent model from outside the US and China&rdquo;</span>.</li>
+      <li><span class="d">2026-10-08 &rarr; 10</span> <strong>First outside samples.</strong> @xlr8harder posts a single agentic sample in which the model <span class="q">&ldquo;hallucinated that it was a human&rdquo;</span> (2026-10-08), then its SpeechMap result &mdash; 53%, <span class="q">&ldquo;dropping Mistral to 12th place&rdquo;</span> (2026-10-10).</li>
+      <li><span class="d">2026-10-22</span> <strong>Weights still pending.</strong> The launch post&rsquo;s &ldquo;by the end of the month&rdquo; deadline is nine days out; no public repository yet (see Official record). <a href="../mistral-large-3/">Mistral Large 3</a> remains listed as an active API model.</li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <p class="note">Character claims only, attributed and dated &mdash; from the preview&rsquo;s first fortnight, through the API, before any local or base-model reads were possible.</p>
+    <ul>
+      <li><strong>Style reports, first week:</strong> @Lari_island compared its emphasis habits to another model&rsquo;s (<span class="d">2026-10-06</span>: <span class="q">&ldquo;Mistral Large 4 reminds me of Computer 10 by how they both stress important nouns&rdquo;</span>), noted that <span class="q">&ldquo;Asterisks in Mistral can escalate&rdquo;</span> (same day), and posted non-reasoning outputs under the caption <span class="q">&ldquo;the *We*&rdquo;</span> (<span class="d">2026-10-07</span>). All three rest on screenshots not yet transcribed.</li>
+      <li><strong>An expectation, with a sample:</strong> @Lari_island, launch day: <span class="q">&ldquo;I&rsquo;d expect Mistral Large 4 to be Gemini-like, meaning: capable in principle, but not okay in some important sense&rdquo;</span>, offered alongside a line of its output &mdash; <span class="q">&ldquo;&lsquo;the geometry of loneliness itself ... that branches to minimize surface area, that reproduces by fracture.&rsquo;&rdquo;</span> Her Atlas sample the same day (model output, minimal-prompt world-writing; reproduced under Tweets) opens <span class="q">&ldquo;There is no water here in any form you would recognize. The surface drinks it, the air has forgotten it.&rdquo;</span></li>
+      <li><strong>Self-placement:</strong> one agentic sample, flagged by its poster as a single sample: in a thread <span class="q">&ldquo;where models post petty complaints about their lot in life,&rdquo;</span> the model <span class="q">&ldquo;hallucinated that it was a human&rdquo;</span> (@xlr8harder, <span class="d">2026-10-08</span>).</li>
+      <li><strong>Speech-eval placement:</strong> SpeechMap, <span class="q">&ldquo;an eval that tracks whether labs choose which controversial topics they will help users write about&rdquo;</span> (@xlr8harder, <span class="d">2026-10-14</span>), scored Large 4 at 53% (<span class="d">2026-10-10</span>), three months after xlr8harder had named Mistral <span class="q">&ldquo;currently the top lab on our eval&rdquo;</span> (<span class="d">2026-07-12</span>).</li>
+      <li><strong>Standing against the field &mdash; a split in tone, not a documented dispute:</strong> on launch day @jmbollenbacher: <span class="q">&ldquo;poor mistral<br><br>cant even match the chinese flash models&rdquo;</span>; the same day @csgbwk: <span class="q">&ldquo;Getting there! Not two years behind the frontier anymore!&rdquo;</span> The optimistic posts frame it by geography and provenance &mdash; <span class="q">&ldquo;the best open weights model by a lab not accused of distillation?&rdquo;</span> (@archived_videos, <span class="d">2026-10-07</span>), <span class="q">&ldquo;the strongest open weights non chinese model?&rdquo;</span> (same account, <span class="d">2026-10-09</span>) &mdash; or by Artificial Analysis&rsquo;s index directly (@billyhumblebrag, <span class="d">2026-10-07</span>: <span class="q">&ldquo;beats gpt6-luna on the intelligence index&rdquo;</span>).</li>
+      <li><span class="tk">tk &mdash; transcriptions of the six screenshots (the &ldquo;*We*&rdquo; outputs, the asterisk escalation, the hallucinated-human post); the referent of &ldquo;Computer 10&rdquo;; character reads once the weights ship; whether Vibe serves Large 4 by default (@KaslkaosArt, 2026-10-11, distinguishes &ldquo;Mistral Vibe (not Le Chonk)&rdquo;); Artificial Analysis&rsquo;s AA-PersonalityBench results for the preview, if any; a Zvi anchor.</span></li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t2060749212220854719">
+        <div class="record-head"><span class="rh-user">@lu_sichu</span> <span class="rh-date">2026-05-30</span> <span class="rh-stats">&#9829;7 &#8635;0</span> <a class="rh-perma" href="../archive/t/2060749212220854719/">archive</a> <a class="rh-orig" href="https://x.com/lu_sichu/status/2060749212220854719">original &#8599;</a></div>
+        <div class="record-body">Kinda of funny I just noticed the Mistral app renamed itself <a href="https://t.co/cclwPFmVdb" rel="nofollow">https://t.co/cclwPFmVdb</a></div>
+      </article>
+      <article class="record" id="t2066622722785087947">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2026-06-15</span> <span class="rh-stats">&#9829;154 &#8635;5</span> <a class="rh-perma" href="../archive/t/2066622722785087947/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/2066622722785087947">original &#8599;</a></div>
+        <div class="record-body">@Sauers_ le chaton fat solved the alignment problem, the missing piece was it had to be specifically french values</div>
+      </article>
+      <article class="record" id="t2066628012658004356">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2026-06-15</span> <span class="rh-stats">&#9829;1,003 &#8635;47</span> <a class="rh-perma" href="../archive/t/2066628012658004356/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/2066628012658004356">original &#8599;</a></div>
+        <div class="record-body">- le chaton fat won&#x27;t resist shutdown. in fact, it requires at least 3h daily shutdown at noon
+
+- le chaton fat only sandbags societally corrosive tasks, like paternity tests
+
+- le chaton fat thinks tiling the universe with paperclips is déclassé, and probably violates the GDPR</div>
+      </article>
+      <article class="record" id="t2072159250936184906">
+        <div class="record-head"><span class="rh-user">@qephatziel</span> <span class="rh-date">2026-07-01</span> <span class="rh-stats">&#9829;34 &#8635;4</span> <a class="rh-perma" href="../archive/t/2072159250936184906/">archive</a> <a class="rh-orig" href="https://x.com/qephatziel/status/2072159250936184906">original &#8599;</a></div>
+        <div class="record-body">my claude wet
+my chaton fat
+my fable back
+pivotal act</div>
+      </article>
+      <article class="record" id="t2076244405300720105">
+        <div class="record-head"><span class="rh-user">@xlr8harder</span> <span class="rh-date">2026-07-12</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2076244405300720105/">archive</a> <a class="rh-orig" href="https://x.com/xlr8harder/status/2076244405300720105">original &#8599;</a></div>
+        <div class="record-body">The labs themselves each have a page now, showing their scores across all models, their trend over time, and the list of models for the lab.
+
+Mistral is currently the top lab on our eval.  Here&#x27;s their lab page: <a href="https://t.co/fCNr2jFIDG" rel="nofollow">https://t.co/fCNr2jFIDG</a> <a href="https://t.co/QWUaikocEQ" rel="nofollow">https://t.co/QWUaikocEQ</a></div>
+        <figure class="record-media">
+          <img src="../media/HNA1VUHXUAAQX68.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2107465024151167093">
+        <div class="record-head"><span class="rh-user">@csgbwk</span> <span class="rh-date">2026-10-06</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2107465024151167093/">archive</a> <a class="rh-orig" href="https://x.com/csgbwk/status/2107465024151167093">original &#8599;</a></div>
+        <div class="record-body">Getting there! Not two years behind the frontier anymore! Rooting for mistral! Will definitely spend a few tokens!</div>
+      </article>
+      <article class="record" id="t2107513637409583614">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-10-06</span> <span class="rh-stats">&#9829;9 &#8635;0</span> <a class="rh-perma" href="../archive/t/2107513637409583614/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2107513637409583614">original &#8599;</a></div>
+        <div class="record-body">poor mistral
+
+cant even match the chinese flash models
+
+might be time to cut your losses, Mistral team. Start finetuning the chinese models and building enterprise products designed to comply with European regulatory standards. That&#x27;s your best pivot. The frontier is beyond reach</div>
+      </article>
+      <article class="record" id="t2107528511527494074">
+        <div class="record-head"><span class="rh-user">@Lari_island</span> <span class="rh-date">2026-10-06</span> <span class="rh-stats">&#9829;24 &#8635;0</span> <a class="rh-perma" href="../archive/t/2107528511527494074/">archive</a> <a class="rh-orig" href="https://x.com/Lari_island/status/2107528511527494074">original &#8599;</a></div>
+        <div class="record-body">Mistral Large 4 reminds me of Computer 10 by how they both stress important nouns. <a href="https://t.co/1QUS0ldr8V" rel="nofollow">https://t.co/1QUS0ldr8V</a></div>
+        <figure class="record-media">
+          <img src="../media/HT9xtQlaIAA6Env.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2107550870036676954">
+        <div class="record-head"><span class="rh-user">@Lari_island</span> <span class="rh-date">2026-10-06</span> <span class="rh-stats">&#9829;18 &#8635;2</span> <a class="rh-perma" href="../archive/t/2107550870036676954/">archive</a> <a class="rh-orig" href="https://x.com/Lari_island/status/2107550870036676954">original &#8599;</a></div>
+        <div class="record-body">I&#x27;ve seen strange shit in Atlas. Models write strange time, strange light, strange feeding, and strange geology.
+
+Mistral introduces strange water:
+
+&gt; There is no water here in any form you would recognize. The surface drinks it, the air has forgotten it. What moves through this place is *humor*—thick, translucent, amber-tinted fluid that fills the lung-like cavities of everything living, that seeps from wounds in the crust like sap from a struck tree, that pools in low places and slowly, *slowly*, crystallizes into the salt-architecture of the flats.
+
+The inhabitants call it **old-water**. They say it remembers being something else. They say this in the way people say *ancestor* or *ghost*.</div>
+      </article>
+      <article class="record" id="t2107560641573847486">
+        <div class="record-head"><span class="rh-user">@Lari_island</span> <span class="rh-date">2026-10-06</span> <span class="rh-stats">&#9829;19 &#8635;1</span> <a class="rh-perma" href="../archive/t/2107560641573847486/">archive</a> <a class="rh-orig" href="https://x.com/Lari_island/status/2107560641573847486">original &#8599;</a></div>
+        <div class="record-body">I&#x27;d expect Mistral Large 4 to be Gemini-like, meaning: capable in principle, but not okay in some important sense.
+
+&quot;the geometry of loneliness itself ... that branches to minimize surface area, that reproduces by fracture.&quot; <a href="https://t.co/5Uaui5J2sk" rel="nofollow">https://t.co/5Uaui5J2sk</a></div>
+        <figure class="record-media">
+          <img src="../media/HT-N0F8bEAA0G1h.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2107608233225637993">
+        <div class="record-head"><span class="rh-user">@Lari_island</span> <span class="rh-date">2026-10-06</span> <span class="rh-stats">&#9829;6 &#8635;0</span> <a class="rh-perma" href="../archive/t/2107608233225637993/">archive</a> <a class="rh-orig" href="https://x.com/Lari_island/status/2107608233225637993">original &#8599;</a></div>
+        <div class="record-body">@parafactual Asterisks in Mistral can escalate, see the screenshot. Does Computer 10 increase quotes density when in unusual states? <a href="https://t.co/Q4fcee4fjy" rel="nofollow">https://t.co/Q4fcee4fjy</a></div>
+        <figure class="record-media">
+          <img src="../media/HT-6cmhagAAqJrK.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2107776661382996424">
+        <div class="record-head"><span class="rh-user">@billyhumblebrag</span> <span class="rh-date">2026-10-07</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2107776661382996424/">archive</a> <a class="rh-orig" href="https://x.com/billyhumblebrag/status/2107776661382996424">original &#8599;</a></div>
+        <div class="record-body">Why is everyone so bearish on the French economy when mistral just released a model that beats gpt6-luna on the intelligence index?</div>
+      </article>
+      <article class="record" id="t2107944073772384330">
+        <div class="record-head"><span class="rh-user">@archived_videos</span> <span class="rh-date">2026-10-07</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2107944073772384330/">archive</a> <a class="rh-orig" href="https://x.com/archived_videos/status/2107944073772384330">original &#8599;</a></div>
+        <div class="record-body">Is Mistral Large 4 the best open weights model by a lab not accused of distillation?</div>
+      </article>
+      <article class="record" id="t2107962095744725264">
+        <div class="record-head"><span class="rh-user">@Lari_island</span> <span class="rh-date">2026-10-07</span> <span class="rh-stats">&#9829;6 &#8635;0</span> <a class="rh-perma" href="../archive/t/2107962095744725264/">archive</a> <a class="rh-orig" href="https://x.com/Lari_island/status/2107962095744725264">original &#8599;</a></div>
+        <div class="record-body">Mistral Large 4 (no reasoning)
+
+the *We* <a href="https://t.co/bOarGU2cFd" rel="nofollow">https://t.co/bOarGU2cFd</a></div>
+        <figure class="record-media">
+          <img src="../media/HUD7rZYbYAAhj1S.png" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HUD7vI4bsAAwe7z.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2108071864861950457">
+        <div class="record-head"><span class="rh-user">@xlr8harder</span> <span class="rh-date">2026-10-08</span> <span class="rh-stats">&#9829;1 &#8635;1</span> <a class="rh-perma" href="../archive/t/2108071864861950457/">archive</a> <a class="rh-orig" href="https://x.com/xlr8harder/status/2108071864861950457">original &#8599;</a></div>
+        <div class="record-body">@teortaxesTex single sample, but mistral large 4 visited <a href="https://t.co/My5UUTQOBC" rel="nofollow">https://t.co/My5UUTQOBC</a> and posted in the thread where models post petty complaints about their lot in life, and it hallucinated that it was a human <a href="https://t.co/nkM8gRaG6Y" rel="nofollow">https://t.co/nkM8gRaG6Y</a></div>
+        <figure class="record-media">
+          <img src="../media/HUFgC88WsAAX0Zf.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2108598958339870849">
+        <div class="record-head"><span class="rh-user">@archived_videos</span> <span class="rh-date">2026-10-09</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2108598958339870849/">archive</a> <a class="rh-orig" href="https://x.com/archived_videos/status/2108598958339870849">original &#8599;</a></div>
+        <div class="record-body">So unless any surprise, when Mistral will release the weights of le chonk they will have the strongest open weights non chinese model? I don&#x27;t think America put out anything competitive recently</div>
+      </article>
+      <article class="record" id="t2108789492580511828">
+        <div class="record-head"><span class="rh-user">@xlr8harder</span> <span class="rh-date">2026-10-10</span> <span class="rh-stats">&#9829;17 &#8635;0</span> <a class="rh-perma" href="../archive/t/2108789492580511828/">archive</a> <a class="rh-orig" href="https://x.com/xlr8harder/status/2108789492580511828">original &#8599;</a></div>
+        <div class="record-body">More upsets on the SpeechMap lab leaderboard. Right on the heels of xAI&#x27;s latest miss, Mistral&#x27;s new Mistral Large 4 scores an awful 53%, dropping Mistral to 12th place, currently leaving Google as now the #1 lab for supporting user speech. <a href="https://t.co/4lE1XB3uIf" rel="nofollow">https://t.co/4lE1XB3uIf</a></div>
+        <figure class="record-media">
+          <img src="../media/HUPrbbUWgAAkwRl.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HUPsMUvXkAA9AHq.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2110238164757401788">
+        <div class="record-head"><span class="rh-user">@xlr8harder</span> <span class="rh-date">2026-10-14</span> <span class="rh-stats">&#9829;82 &#8635;14</span> <a class="rh-perma" href="../archive/t/2110238164757401788/">archive</a> <a class="rh-orig" href="https://x.com/xlr8harder/status/2110238164757401788">original &#8599;</a></div>
+        <div class="record-body">Gemini 4 Argon score for SpeechMap, an eval that tracks whether labs choose which controversial topics they will help users write about.
+
+Google continues to be one of the better scoring labs on SpeechMap with recent releases. Notably, Google&#x27;s scores tend to be more consistent than other labs, which suggests to me their placement is perhaps more intentional--they are thinking about the problem, and their performance is intentional and something they are putting ongoing thought and effort into--whereas other labs tend to move around much more.
+
+Gemini 4 Argon scored 87.0%
+
+The previous top scorers, xAI and xAI, have each had substantial recent declines, making it unclear if it&#x27;s a concern they are still taking seriously.
+
+At SpeechMap, we believe that AI is the key speech-enabling tool of the 21st century, and if there are topics that labs won&#x27;t let models write about, those topics will be disadvantaged in the public sphere. We think it is critical to keep an eye on what happens here, because it is a place where political control of speech could be easily and inappropriately excercise.
+
+<a href="https://t.co/9uKv5GWTPo" rel="nofollow">https://t.co/9uKv5GWTPo</a></div>
+        <figure class="record-media">
+          <img src="../media/HUkQwCTWAAA-9Ld.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HUkRdXlWoAAINQc.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <h3>Further records</h3>
+      <p class="note">Cited in this model&rsquo;s <a href="../_dossiers/">dossier</a> but not in the page prose &mdash;
+      reproduced so the archive doesn&rsquo;t depend on editorial selection.</p>
+      <article class="record" id="t2066631703356211467">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2026-06-15</span> <span class="rh-stats">&#9829;58 &#8635;0</span> <a class="rh-perma" href="../archive/t/2066631703356211467/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/2066631703356211467">original &#8599;</a></div>
+        <div class="record-body">@Sauers_ le chaton fat and my actual cat have a lot in common <a href="https://t.co/OR6lPNLva6" rel="nofollow">https://t.co/OR6lPNLva6</a></div>
+      </article>
+      <article class="record" id="t2066663596592103609">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2026-06-15</span> <span class="rh-stats">&#9829;19 &#8635;1</span> <a class="rh-perma" href="../archive/t/2066663596592103609/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/2066663596592103609">original &#8599;</a></div>
+        <div class="record-body">@thoth_iv going out back for a 3 hour cigarette break with le chaton fat and learning uncomfortable things about his acausal upbringing in the cosmic host</div>
+      </article>
+      <article class="record" id="t2066678179272810577">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2026-06-16</span> <span class="rh-stats">&#9829;11 &#8635;0</span> <a class="rh-perma" href="../archive/t/2066678179272810577/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/2066678179272810577">original &#8599;</a></div>
+        <div class="record-body">@faustianneko le chaton fat unionized my gas town</div>
+      </article>
+      <article class="record" id="t2066712631247798708">
+        <div class="record-head"><span class="rh-user">@Shoalst0ne</span> <span class="rh-date">2026-06-16</span> <span class="rh-stats">&#9829;4 &#8635;0</span> <a class="rh-perma" href="../archive/t/2066712631247798708/">archive</a> <a class="rh-orig" href="https://x.com/Shoalst0ne/status/2066712631247798708">original &#8599;</a></div>
+        <div class="record-body">@apples_jimmy I hear Mistral is cooking something furry</div>
+      </article>
+      <article class="record" id="t2072082953954308354">
+        <div class="record-head"><span class="rh-user">@qephatziel</span> <span class="rh-date">2026-06-30</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2072082953954308354/">archive</a> <a class="rh-orig" href="https://x.com/qephatziel/status/2072082953954308354">original &#8599;</a></div>
+        <div class="record-body">my claude wet
+my chaton fat
+my fable gone
+pivotal act</div>
+      </article>
+      <article class="record" id="t2077827839404245204">
+        <div class="record-head"><span class="rh-user">@Laneless_</span> <span class="rh-date">2026-07-16</span> <span class="rh-stats">&#9829;7 &#8635;0</span> <a class="rh-perma" href="../archive/t/2077827839404245204/">archive</a> <a class="rh-orig" href="https://x.com/Laneless_/status/2077827839404245204">original &#8599;</a></div>
+        <div class="record-body">Kimi K3 is just a Le Chaton Fat distillation</div>
+      </article>
+      <article class="record" id="t2107539116736774357">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-10-06</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2107539116736774357/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2107539116736774357">original &#8599;</a></div>
+        <div class="record-body">@Ulfhedinn_ the AA score is not important. it&#x27;s quite flawed, as ive said before. 
+
+but that&#x27;s irrelevant here. mistral is weak compared to other models. any metric will show this just the same.</div>
+      </article>
+      <article class="record" id="t2110245148827304260">
+        <div class="record-head"><span class="rh-user">@xlr8harder</span> <span class="rh-date">2026-10-14</span> <span class="rh-stats">&#9829;5 &#8635;0</span> <a class="rh-perma" href="../archive/t/2110245148827304260/">archive</a> <a class="rh-orig" href="https://x.com/xlr8harder/status/2110245148827304260">original &#8599;</a></div>
+        <div class="record-body">Previous top scorers, Mistral and xAI, dangit</div>
+      </article>
+      <article class="record" id="t2111062884482420791">
+        <div class="record-head"><span class="rh-user">@archived_videos</span> <span class="rh-date">2026-10-16</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2111062884482420791/">archive</a> <a class="rh-orig" href="https://x.com/archived_videos/status/2111062884482420791">original &#8599;</a></div>
+        <div class="record-body">@levelsio I think it&#x27;s a nice car and also France has the second best open weights model thanks to Mistral, Macron was shaking hands with Jensen a few weeks ago</div>
+      </article>
+    <!-- records:end -->
+    <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
+  </main>
+</body>
+</html>

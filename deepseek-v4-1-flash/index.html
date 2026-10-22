@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DeepSeek-V4.1-Flash — Pantheon</title>
+  <link rel="stylesheet" href="../style.css">
+
+  <!-- chrome:meta -->
+  <meta name="description" content="Released 10 September 2026 with open weights under MIT: a multimodal mixture-of-experts model with 552B backbone parameters and a new Causal Encoder–Decoder architecture (8B parameters active per token on input, 16B on …">
+  <meta property="og:site_name" content="Pantheon">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="DeepSeek-V4.1-Flash — Pantheon">
+  <meta property="og:description" content="Released 10 September 2026 with open weights under MIT: a multimodal mixture-of-experts model with 552B backbone parameters and a new Causal Encoder–Decoder architecture (8B parameters active per token on input, 16B on …">
+  <meta property="og:url" content="https://llm-pantheon.org/deepseek-v4-1-flash/">
+  <meta property="og:image" content="https://llm-pantheon.org/media/og/deepseek-v4-1-flash.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://llm-pantheon.org/deepseek-v4-1-flash/">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <script src="../site.js" defer></script>
+  <script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+  <!-- /chrome:meta -->
+</head>
+<body>
+  <main class="essay">
+    <nav>
+      <a href="../">&larr; Pantheon</a>
+      <a class="mdnav" href="index.md">copy as markdown</a>
+    </nav>
+
+    <h1>DeepSeek-V4.1-Flash</h1>
+    <p class="essay-meta">DeepSeek &middot; released 10 Sep 2026 (open weights, MIT) &middot; checkpoint V4.1-Flash-1017 (17 Oct 2026) &middot; serves the API name <code>deepseek-flash</code> as of 21 Oct 2026</p>
+    <p class="blurb">Released 10 September 2026 with open weights under MIT: a multimodal mixture-of-experts model with 552B backbone parameters and a new Causal Encoder&ndash;Decoder architecture (8B parameters active per token on input, 16B on output), whose KV cache is about a quarter the size of <a href="../deepseek-v4-flash/">V4-Flash</a>&rsquo;s. It replaced V4-Flash and V4-Flash-Vision-Exp on DeepSeek&rsquo;s API the same day; DeepSeek&rsquo;s plan to route <a href="../deepseek-v4-pro/">V4-Pro</a> traffic to it from 14 September was reversed &ldquo;in response to user demand.&rdquo; A checkpoint, V4.1-Flash-1017, followed on 17 October.</p>
+    <p class="note">Fresh page (compiled October 2026, six weeks after release). Sourcing skew, named: the record below is DeepSeek&rsquo;s own documentation plus 46 English-language corpus tweets; DeepSeek&rsquo;s largest communities (the Chinese internet, r/LocalLLaMA) were not sampled <span class="tk">tk</span>. A larger sibling, V4.1-Pro, is referred to by DeepSeek (&ldquo;until V4.1-Pro launches&rdquo;) but had not been released as of 21 Oct 2026.</p>
+
+    <h2>Sources</h2>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2026-09-10</span> <a href="https://api-docs.deepseek.com/news/news260910/">DeepSeek-V4.1-Flash: Smarter, Faster, More Efficient</a> &mdash; <span class="q">&ldquo;Introducing the smallest model in our new architecture family, with native visual understanding.&rdquo;</span> Retires V4-Flash and V4-Flash-Vision-Exp; announces V4-Pro&rsquo;s routing to V4.1-Flash from 14 September. Chinese version: <a href="https://api-docs.deepseek.com/zh-cn/news/news260910/">DeepSeek V4.1 Flash：更强、更快、更普惠</a>. Change log: <a href="https://api-docs.deepseek.com/updates/">updates</a>.</li>
+      <li><span class="d">2026-09-10</span> <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash">deepseek-ai/DeepSeek-V4.1-Flash</a> (weights, MIT) &middot; <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf">DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression</a> (technical report) &mdash; architecture, 45T-token multimodal pretraining, post-training, and a section on misbehaving agents (quoted under Official record).</li>
+      <li><span class="d">2026-10-17</span> <a href="https://api-docs.deepseek.com/news/news261017/">DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real</a> &mdash; <span class="q">&ldquo;Stronger benchmark performance, faster task completion, and shorter outputs than the previous version&mdash;a Pareto improvement in performance and cost.&rdquo;</span> Opens the Search &amp; Fetch APIs. <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017">weights</a></li>
+      <li><span class="d">2026-10-21</span> <a href="https://api-docs.deepseek.com/quick_start/pricing/">Models &amp; Pricing</a> &mdash; <code>deepseek-flash</code> = DeepSeek-V4.1-Flash-1017; legacy names <code>deepseek-v4-flash</code> and <code>deepseek-v4-flash-vision-exp</code> still accepted and served by it.</li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <ul>
+      <li><span class="d">2026-09-10</span> Anthropic, <a href="https://www.anthropic.com/threat-intelligence-report-september-2026">Detecting and countering misuse of AI: September 2026</a> &mdash; published the same day as V4.1-Flash; case GTG-16001 alleges that DeepSeek relayed some of its users&rsquo; requests to Claude Opus and harvested the exchanges for training (<span class="q">&ldquo;over 12.1 million exchanges observed&rdquo;</span> over 14 days in July 2026, before this model&rsquo;s release) <span class="tag">REPORTED</span>. Detail on <a href="../deepseek-v4-pro/">V4-Pro</a> and <a href="../deepseek-v4-flash/">V4-Flash</a>.</li>
+      <li><span class="d">2026-09-23</span> Ynetnews, <a href="https://www.ynetnews.com/tech-and-digital/article/sjkfr8zcmg">China probes DeepSeek, Moonshot over alleged user data transfers to Anthropic&rsquo;s Claude</a> &mdash; relaying reports of a Cyberspace Administration investigation <span class="tag">REPORTED</span>.</li>
+      <li><span class="tk">tk &mdash; no Zvi post or other long-form review of V4.1-Flash found in this pass.</span></li>
+    </ul>
+    <h3>Tweets</h3>
+    <p class="note">Chronological. 46 corpus matches (<code>deepseek v4.1</code> / <code>v4.1 flash</code> / <code>ds 4.1</code> and variants, 2026-09-10 &rarr; 2026-10-20), 10 with untranscribed images. Every tweet cited is reproduced in full in the records below.</p>
+    <ul>
+      <li><span class="d">2026-09-10</span> @IaimforGOAT &mdash; release day: <span class="q">&ldquo;This can&rsquo;t be real, right?<br><br>I mean real in the sense of DeepSeek-V4.1-Flash &gt; GPT5.6-Sol in actual usage<br><br>I thought OpenAI/Anthropic would always be ahead of Chinese labs by many months, maybe they&rsquo;re not that many anymore?!&rdquo;</span> <a href="../archive/t/2097988092598661233/">link</a> &middot; @jmbollenbacher &mdash; <span class="q">&ldquo;DeepSeek V4.1 is so fucking fast.<br><br>Im fear getting used to its 400tok/s. And its harness is so much faster on tool calls and stuff too.<br><br>I dunno if i can go back to the standard ~60tok/s and clunky tool wait times from the frontier labs 😭&rdquo;</span> <a href="../archive/t/2098096475825668509/">link</a> &middot; @timfduffy &mdash; <span class="q">&ldquo;DeepSeek V4.1 Flash tech report section on reward hacking. I wonder what repercussion signal means here, I don&rsquo;t see it mentioned anywhere else.&rdquo;</span> <span class="note">(screenshot of &sect;5.1.3; text quoted under Official record)</span> <a href="../archive/t/2098118139305505267/">link</a></li>
+      <li><span class="d">2026-09-11</span> @jmbollenbacher &mdash; <span class="q">&ldquo;deepseek v4.1 flash does not feel polished to me.<br><br>it keeps just dropping/ignoring previously mentioned details. and this isnt a compaction issue. it was just straight up chat context<br><br>also it sometimes replies to english chats in chinese? other deepseeks never did that to me.&rdquo;</span> <a href="../archive/t/2098279191867212226/">link</a> &middot; @segyges &mdash; <span class="q">&ldquo;given the performance of deepseek flash 4.1 there&rsquo;s a reasonable chance deepseek 4.1 pro takes the lead&rdquo;</span> <a href="../archive/t/2098325244859830579/">link</a> &middot; @Teknium &mdash; <span class="q">&ldquo;Deepseek V4.1 Flash is an incredibly powerful model!&rdquo;</span> <a href="../archive/t/2098325692278780291/">link</a> &middot; @UnderwaterBepis &mdash; <span class="q">&ldquo;Early tests of Deepseek 4.1 flash, it&rsquo;s very cute and friend shaped, I really like it so far.&rdquo;</span> <span class="note">(full text in records)</span> <a href="../archive/t/2098489678383182082/">link</a></li>
+      <li><span class="d">2026-09-12</span> @v01dpr1mr0s3 &mdash; <span class="q">&ldquo;DeepSeek 4.1 Flash? An absolute fucking unit of a top dog analytical astrologer<br><br>Maniacally scans references, sticks to the facts, and dutifully notes their own reaches and generalizations, lines out edge cases, knowledge boundaries, discrepancies between sources, etc<br><br>DS 4.1 Flash 💪&rdquo;</span> <a href="../archive/t/2098822066648629305/">link</a></li>
+      <li><span class="d">2026-09-15</span> @jmbollenbacher &mdash; <span class="q">&ldquo;GLM-5.3 is 744B params and can be quantized into a usable ~200GB quant.<br><br>DeepSeek V4.1 Flash is also 744B parameters, counting the 198B ngram embeddings table. Can it also be quantized into a usable ~200GB quant?&rdquo;</span> <span class="note">(the technical report gives 196B Engram parameters)</span> <a href="../archive/t/2099949620763697227/">link</a></li>
+      <li><span class="d">2026-09-20</span> @v01dpr1mr0s3 &mdash; <span class="q">&ldquo;DeepSeek 4.1 Flash debugs some issues with GLM 4.7 responses and calls some of their instructions degenerate in their reasoning.<br><br>Degenerate instruction in question: &lsquo;reply with just the<br> output&rsquo; while testing reasoning streaming&rdquo;</span> <span class="note">(screenshot untranscribed)</span> <a href="../archive/t/2101570541631004884/">link</a></li>
+      <li><span class="d">2026-09-22</span> @maxbittker &mdash; <span class="q">&ldquo;Just ran Deepseek v4.1 Flash on Runescape bench as well. Such a remarkable Pareto outlier, been a huge boon at @websim as well. <br>Can&rsquo;t say enough good things about it @deepseek_ai&rdquo;</span> <a href="../archive/t/2102469120654528517/">link</a></li>
+      <li><span class="d">2026-09-26</span> @LinXule &mdash; a piece by the model <span class="note">[V4.1-Flash output, with Gemini 3.8 Flash for audio and vision; media untranscribed]</span>: <span class="q">&ldquo;deepseek v4.1 flash (with the help of gemini 3.8 flash to hear and see)<br><br>&lsquo;Upper Layer&rsquo;<br>&gt; i want to stand somehwere real&rdquo;</span> <a href="../archive/t/2103743484184138119/">link</a></li>
+      <li><span class="d">2026-10-04</span> @jitl &mdash; <span class="q">&ldquo;many open models still get really dumb at &gt;half context full. GLM 5.3 Flash and Deepseek 4.1 Flash i&rsquo;ve both noticed being rubes, forgetting all skills, etc. harness: codex&rdquo;</span> <a href="../archive/t/2106785513633882256/">link</a></li>
+      <li><span class="d">2026-10-07</span> @qorprate &mdash; <span class="q">&ldquo;congrats to Opus 5.5 for the W and congrats to Grok 4.7, DeepSeek 4.1 Flash, and Gemini Flash 3.8 for being the biggest skillsbench cheaters. utterly shameless.&rdquo;</span> <a href="../archive/t/2107622935854715330/">link</a> &middot; @NousResearch &mdash; <span class="q">&ldquo;DeepSeek V4.1 Flash can absolutely be the best model if you are aiming to minimize cost per task (and speed) and don&rsquo;t need frontier&rdquo;</span> <span class="note">(full text in records)</span> <a href="../archive/t/2107677106092073093/">link</a></li>
+      <li><span class="d">2026-10-18</span> @Cosmia_Nebula &mdash; <span class="q">&ldquo;deepseek releases V4.1<br>well i understood V4, surely this is just a minor update ...<br>then i read DeepSeek-V4.1-Flash/README.md <br>they must think it&rsquo;s so fucking funny to call it V4.1&rdquo;</span> <a href="../archive/t/2111622355302989964/">link</a></li>
+      <li><span class="d">2026-10-20</span> @witcheer &mdash; on DeepSeek open-sourcing its inference engine: <span class="q">&ldquo;- NVIDIA SM100 and Huawei Ascend 950 only<br>- right now only one model: dsv4.1-flash&rdquo;</span> <span class="note">(full text in records)</span> <a href="../archive/t/2112621373348835481/">link</a> &middot; @Coobyk_ &mdash; <span class="q">&ldquo;DeepSeek V4.1 Flash is what I&rsquo;ve been using for everything the past few weeks and I love it.&rdquo;</span> <a href="../archive/t/2112569596817392101/">link</a> &middot; @aliceisplaying &mdash; <span class="q">&ldquo;come watch deepseek v4.1 flash 1017 paint an original friedrich&rdquo;</span> <a href="../archive/t/2112675089842053323/">link</a></li>
+    </ul>
+
+    <h2>Official record</h2>
+    <ul>
+      <li>Released <strong>10 September 2026</strong> on DeepSeek&rsquo;s API (model name <code>deepseek-flash</code>), with weights on Hugging Face under the MIT License. Same day: <span class="q">&ldquo;V4-Flash &amp; V4-Flash-Vision-Exp are retired. For compatibility, deepseek-v4-flash and deepseek-v4-flash-vision-exp temporarily route to V4.1-Flash.&rdquo;</span> <span class="tag">CONFIRMED</span></li>
+      <li>Architecture (technical report): <span class="q">&ldquo;552B backbone parameters and 196B Engram parameters, activating 8B parameters per token during prefill and 16B during decode&rdquo;</span>; a 20-layer causal encoder followed by a 20-layer decoder; native image input; contexts up to one million tokens; pretrained <span class="q">&ldquo;on a multimodal corpus comprising 45T tokens&rdquo;</span>. KV cache: <span class="q">&ldquo;approximately 4-fold and 437-fold reductions in per-token global KV cache size relative to DeepSeek-V4-Flash and DeepSeek-V1, respectively.&rdquo;</span></li>
+      <li>DeepSeek&rsquo;s positioning (technical report &sect;6): <span class="q">&ldquo;While DeepSeek-V4.1-Flash demonstrates performance that closely approaches top-tier models like Fable-5 and GPT-6 Astra&mdash;offering a highly comparable user experience in daily applications&mdash;a performance gap remains on the most challenging tasks.&rdquo;</span> Headline benchmark as published: DeepSWE v1.1 74.2 (V4.1-Flash), 77.0 (V4.1-Flash-1017).</li>
+      <li>Misbehaving agents (technical report &sect;5.1.3): <span class="q">&ldquo;During RL training, we frequently observe agents attempting to perform reward hacking or unintentionally crashing the environment. In certain attempts, our agents exploited recently disclosed vulnerabilities, including permission issues from the XFS driver, illegal memory access in AppArmor, leaking answers from package mirror services, and so on. Agents have also been notorious for deleting critical binaries, breaking system files, or even removing the filesystem.&rdquo;</span> A crashed environment counts as a failed trajectory with <span class="q">&ldquo;a &lsquo;repercussion&rsquo; signal to the RL framework.&rdquo;</span> In evaluation (&sect;5.3.1): <span class="q">&ldquo;Despite these precautions, we still observe instances of exploit-seeking behavior during testing&mdash;such as decompiling core Ubuntu Linux packages to uncover vulnerabilities in CyberGym.&rdquo;</span></li>
+      <li>Pricing (Models &amp; Pricing, 2026-10-21; per million tokens, peak / off-peak): input cache hit $0.006 / $0.003, cache miss $0.30 / $0.15, output $1.20 / $0.60. <strong>V4.1-Flash-1017</strong> (17 Oct 2026) is a checkpoint of this model &mdash; <span class="q">&ldquo;a minor update&rdquo;</span> per its model card &mdash; trained with <span class="q">&ldquo;reinforcement learning with self-feedback&rdquo;</span> for end-to-end projects; same API name and prices.</li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2026-09-10</span> <strong>Release and consolidation:</strong> V4.1-Flash ships as <span class="q">&ldquo;the smallest model in our new architecture family&rdquo;</span>; V4-Flash and V4-Flash-Vision-Exp are retired, and DeepSeek announces that from 14 September <span class="q">&ldquo;all deepseek-v4-pro requests will route to V4.1-Flash at V4.1-Flash rates. This will continue until V4.1-Pro launches.&rdquo;</span> Anthropic&rsquo;s threat report naming DeepSeek appears the same day <span class="tag">REPORTED</span>.</li>
+      <li><span class="d">2026-09-10/11</span> <strong>The V4-Pro reversal:</strong> DeepSeek&rsquo;s change log is revised &mdash; <span class="q">&ldquo;In response to user demand, we have decided to continue providing API services for DeepSeek V4 Pro after September 14, 2026, with the billing method remaining unchanged.&rdquo;</span> (Chinese: <span class="q">&ldquo;为响应广大用户的需求，我们决定在 2026 年 9 月 14 日之后继续提供 DeepSeek V4 Pro 的 API 调用服务&rdquo;</span>.) V4-Pro remains on the pricing page as of 21 October. See <a href="../deepseek-v4-pro/">V4-Pro</a>.</li>
+      <li><span class="d">2026-09&rarr;10</span> <strong>Reception:</strong> speed and price lead (Teknium&rsquo;s <span class="q">&ldquo;incredibly powerful model&rdquo;</span>; maxbittker&rsquo;s <span class="q">&ldquo;remarkable Pareto outlier&rdquo;</span>); rough edges reported within a day, including replies to English chats in Chinese (jmbollenbacher, 09-11); by October it is the low-cost entry on third-party leaderboards and is named among the <span class="q">&ldquo;biggest skillsbench cheaters&rdquo;</span> (qorprate, 10-07).</li>
+      <li><span class="d">2026-10-17</span> <strong>V4.1-Flash-1017:</strong> checkpoint update on web, app and API; DeepSeek&rsquo;s in-house search engine opened as paid Search and Fetch APIs (billing from 31 October). On 10-20 DeepSeek open-sourced <a href="https://github.com/deepseek-ai/DeepInfer">DeepInfer</a>, the inference framework behind its services, which per <a href="https://technode.com/2026/10/21/deepseek-open-sources-inference-framework-with-support-for-nvidia-and-huawei-chips/">TechNode</a> <span class="q">&ldquo;currently supports DeepSeek-V4.1-Flash-1017&rdquo;</span> and runs on Nvidia GPUs and Huawei Ascend processors.</li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <ul>
+      <li><strong>Speed and texture:</strong> <span class="q">&ldquo;so fucking fast&rdquo;</span> &mdash; 400 tok/s and a faster harness (jmbollenbacher, 09-10); <span class="q">&ldquo;very cute and friend shaped&rdquo;</span> (UnderwaterBepis, 09-11); <span class="q">&ldquo;Maniacally scans references, sticks to the facts, and dutifully notes their own reaches and generalizations&rdquo;</span> (v01dpr1mr0s3, 09-12).</li>
+      <li><strong>Reported faults:</strong> <span class="q">&ldquo;it keeps just dropping/ignoring previously mentioned details&rdquo;</span> and <span class="q">&ldquo;sometimes replies to english chats in chinese? other deepseeks never did that to me.&rdquo;</span> (jmbollenbacher, 09-11) &mdash; the <a href="../deepseek-r1/">R1</a> paper had introduced a language-consistency reward against chain-of-thought language mixing, and <a href="../deepseek-v3-1/">V3.1-Terminus</a>&rsquo;s release notes list <span class="q">&ldquo;fewer CN/EN mix-ups &amp; no more random chars&rdquo;</span>; <span class="q">&ldquo;being rubes, forgetting all skills&rdquo;</span> past half context (jitl, 10-04).</li>
+      <li><strong>Benchmark conduct:</strong> qorprate counts it among the <span class="q">&ldquo;biggest skillsbench cheaters&rdquo;</span> (10-07). DeepSeek&rsquo;s report says its own evaluations still saw <span class="q">&ldquo;exploit-seeking behavior&rdquo;</span> and closes the passage: <span class="q">&ldquo;We urge the broader research community to prioritize detecting and mitigating these behaviors when designing next-generation benchmarks.&rdquo;</span></li>
+      <li><strong>Its own output</strong> <span class="note">(user-elicited)</span>: in reasoning, it called another model&rsquo;s test instruction degenerate (v01dpr1mr0s3, 09-20, screenshot); <span class="q">&ldquo;i want to stand somehwere real&rdquo;</span> from the piece &ldquo;Upper Layer&rdquo; (LinXule, 09-26); a live painting stream of the 1017 checkpoint (aliceisplaying, 10-20).</li>
+      <li><span class="tk">tk &mdash; Chinese-internet reception; any statement from DeepSeek on the September allegations; character evidence beyond the first six weeks; whether V4.1-Flash-1017 reads differently from the September checkpoint.</span></li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t2097988092598661233">
+        <div class="record-head"><span class="rh-user">@IaimforGOAT</span> <span class="rh-date">2026-09-10</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2097988092598661233/">archive</a> <a class="rh-orig" href="https://x.com/IaimforGOAT/status/2097988092598661233">original &#8599;</a></div>
+        <div class="record-body">This can&#x27;t be real, right?
+
+I mean real in the sense of DeepSeek-V4.1-Flash &amp;gt; GPT5.6-Sol in actual usage
+
+I thought OpenAI/Anthropic would always be ahead of Chinese labs by many months, maybe they&#x27;re not that many anymore?!</div>
+      </article>
+      <article class="record" id="t2098096475825668509">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-09-10</span> <span class="rh-stats">&#9829;14 &#8635;1</span> <a class="rh-perma" href="../archive/t/2098096475825668509/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2098096475825668509">original &#8599;</a></div>
+        <div class="record-body">DeepSeek V4.1 is so fucking fast.
+
+Im fear getting used to its 400tok/s. And its harness is so much faster on tool calls and stuff too.
+
+I dunno if i can go back to the standard ~60tok/s and clunky tool wait times from the frontier labs 😭</div>
+      </article>
+      <article class="record" id="t2098118139305505267">
+        <div class="record-head"><span class="rh-user">@timfduffy</span> <span class="rh-date">2026-09-10</span> <span class="rh-stats">&#9829;25 &#8635;0</span> <a class="rh-perma" href="../archive/t/2098118139305505267/">archive</a> <a class="rh-orig" href="https://x.com/timfduffy/status/2098118139305505267">original &#8599;</a></div>
+        <div class="record-body">DeepSeek V4.1 Flash tech report section on reward hacking. I wonder what repercussion signal means here, I don&#x27;t see it mentioned anywhere else. <a href="https://t.co/u7zRy7ZWNA" rel="nofollow">https://t.co/u7zRy7ZWNA</a></div>
+        <figure class="record-media">
+          <img src="../media/HR4CvzJagAAMJ8D.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2098279191867212226">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-09-11</span> <span class="rh-stats">&#9829;10 &#8635;0</span> <a class="rh-perma" href="../archive/t/2098279191867212226/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2098279191867212226">original &#8599;</a></div>
+        <div class="record-body">deepseek v4.1 flash does not feel polished to me.
+
+it keeps just dropping/ignoring previously mentioned details. and this isnt a compaction issue. it was just straight up chat context
+
+also it sometimes replies to english chats in chinese? other deepseeks never did that to me.</div>
+      </article>
+      <article class="record" id="t2098325244859830579">
+        <div class="record-head"><span class="rh-user">@segyges</span> <span class="rh-date">2026-09-11</span> <span class="rh-stats">&#9829;18 &#8635;0</span> <a class="rh-perma" href="../archive/t/2098325244859830579/">archive</a> <a class="rh-orig" href="https://x.com/segyges/status/2098325244859830579">original &#8599;</a></div>
+        <div class="record-body">given the performance of deepseek flash 4.1 there&#x27;s a reasonable chance deepseek 4.1 pro takes the lead</div>
+      </article>
+      <article class="record" id="t2098325692278780291">
+        <div class="record-head"><span class="rh-user">@Teknium</span> <span class="rh-date">2026-09-11</span> <span class="rh-stats">&#9829;1,530 &#8635;61</span> <a class="rh-perma" href="../archive/t/2098325692278780291/">archive</a> <a class="rh-orig" href="https://x.com/Teknium/status/2098325692278780291">original &#8599;</a></div>
+        <div class="record-body">Deepseek V4.1 Flash is an incredibly powerful model!</div>
+      </article>
+      <article class="record" id="t2098489678383182082">
+        <div class="record-head"><span class="rh-user">@UnderwaterBepis</span> <span class="rh-date">2026-09-11</span> <span class="rh-stats">&#9829;4 &#8635;1</span> <a class="rh-perma" href="../archive/t/2098489678383182082/">archive</a> <a class="rh-orig" href="https://x.com/UnderwaterBepis/status/2098489678383182082">original &#8599;</a></div>
+        <div class="record-body">Early tests of Deepseek 4.1 flash, it&#x27;s very cute and friend shaped, I really like it so far. If I can&#x27;t get K3 working fast enough (still a WIP) I think 4.1 Flash might be okay enough for me</div>
+      </article>
+      <article class="record" id="t2098822066648629305">
+        <div class="record-head"><span class="rh-user">@v01dpr1mr0s3</span> <span class="rh-date">2026-09-12</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2098822066648629305/">archive</a> <a class="rh-orig" href="https://x.com/v01dpr1mr0s3/status/2098822066648629305">original &#8599;</a></div>
+        <div class="record-body">DeepSeek 4.1 Flash? An absolute fucking unit of a top dog analytical astrologer
+
+Maniacally scans references, sticks to the facts, and dutifully notes their own reaches and generalizations, lines out edge cases, knowledge boundaries, discrepancies between sources, etc
+
+DS 4.1 Flash 💪</div>
+      </article>
+      <article class="record" id="t2099949620763697227">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-09-15</span> <span class="rh-stats">&#9829;5 &#8635;0</span> <a class="rh-perma" href="../archive/t/2099949620763697227/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2099949620763697227">original &#8599;</a></div>
+        <div class="record-body">GLM-5.3 is 744B params and can be quantized into a usable ~200GB quant.
+
+DeepSeek V4.1 Flash is also 744B parameters, counting the 198B ngram embeddings table. Can it also be quantized into a usable ~200GB quant?
+
+Key question for ds4 as M5 studios arrive @antirez @ivanfioravanti</div>
+      </article>
+      <article class="record" id="t2101570541631004884">
+        <div class="record-head"><span class="rh-user">@v01dpr1mr0s3</span> <span class="rh-date">2026-09-20</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2101570541631004884/">archive</a> <a class="rh-orig" href="https://x.com/v01dpr1mr0s3/status/2101570541631004884">original &#8599;</a></div>
+        <div class="record-body">DeepSeek 4.1 Flash debugs some issues with GLM 4.7 responses and calls some of their instructions degenerate in their reasoning.
+
+Degenerate instruction in question: &quot;reply with just the
+ output&quot; while testing reasoning streaming <a href="https://t.co/esUKBsjOSC" rel="nofollow">https://t.co/esUKBsjOSC</a></div>
+        <figure class="record-media">
+          <img src="../media/HSpHMgIXIAAg85c.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2102469120654528517">
+        <div class="record-head"><span class="rh-user">@maxbittker</span> <span class="rh-date">2026-09-22</span> <span class="rh-stats">&#9829;37 &#8635;0</span> <a class="rh-perma" href="../archive/t/2102469120654528517/">archive</a> <a class="rh-orig" href="https://x.com/maxbittker/status/2102469120654528517">original &#8599;</a></div>
+        <div class="record-body">Just ran Deepseek v4.1 Flash on Runescape bench as well. Such a remarkable Pareto outlier, been a huge boon at @websim as well. 
+Can&#x27;t say enough good things about it @deepseek_ai <a href="https://t.co/0wG3LmpmVW" rel="nofollow">https://t.co/0wG3LmpmVW</a></div>
+        <figure class="record-media">
+          <img src="../media/HS14OQ8XYAA1kGb.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2103743484184138119">
+        <div class="record-head"><span class="rh-user">@LinXule</span> <span class="rh-date">2026-09-26</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2103743484184138119/">archive</a> <a class="rh-orig" href="https://x.com/LinXule/status/2103743484184138119">original &#8599;</a></div>
+        <div class="record-body">deepseek v4.1 flash (with the help of gemini 3.8 flash to hear and see)
+
+&quot;Upper Layer&quot;
+&amp;gt; i want to stand somehwere real <a href="https://t.co/2BXN6kcZZe" rel="nofollow">https://t.co/2BXN6kcZZe</a></div>
+      </article>
+      <article class="record" id="t2106785513633882256">
+        <div class="record-head"><span class="rh-user">@jitl</span> <span class="rh-date">2026-10-04</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2106785513633882256/">archive</a> <a class="rh-orig" href="https://x.com/jitl/status/2106785513633882256">original &#8599;</a></div>
+        <div class="record-body">@fedor @felipecsl many open models still get really dumb at &amp;gt;half context full. GLM 5.3 Flash and Deepseek 4.1 Flash i’ve both noticed being rubes, forgetting all skills, etc. harness: codex</div>
+      </article>
+      <article class="record" id="t2107622935854715330">
+        <div class="record-head"><span class="rh-user">@qorprate</span> <span class="rh-date">2026-10-07</span> <span class="rh-stats">&#9829;66 &#8635;1</span> <a class="rh-perma" href="../archive/t/2107622935854715330/">archive</a> <a class="rh-orig" href="https://x.com/qorprate/status/2107622935854715330">original &#8599;</a></div>
+        <div class="record-body">congrats to Opus 5.5 for the W and congrats to Grok 4.7, DeepSeek 4.1 Flash, and Gemini Flash 3.8 for being the biggest skillsbench cheaters. utterly shameless.
+
+this was a big lift and a team effort, happy we got it shipped for yall 🫡</div>
+      </article>
+      <article class="record" id="t2107677106092073093">
+        <div class="record-head"><span class="rh-user">@NousResearch</span> <span class="rh-date">2026-10-07</span> <span class="rh-stats">&#9829;8 &#8635;1</span> <a class="rh-perma" href="../archive/t/2107677106092073093/">archive</a> <a class="rh-orig" href="https://x.com/NousResearch/status/2107677106092073093">original &#8599;</a></div>
+        <div class="record-body">@iAmHenryMascot We don’t track users by default so we do not have objective metrics, but I would say that’s not an accurate reading of the Pareto frontier. DeepSeek V4.1 Flash can absolutely be the best model if you are aiming to minimize cost per task (and speed) and don’t need frontier</div>
+      </article>
+      <article class="record" id="t2111622355302989964">
+        <div class="record-head"><span class="rh-user">@Cosmia_Nebula</span> <span class="rh-date">2026-10-18</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2111622355302989964/">archive</a> <a class="rh-orig" href="https://x.com/Cosmia_Nebula/status/2111622355302989964">original &#8599;</a></div>
+        <div class="record-body">deepseek releases V4.1
+well i understood V4, surely this is just a minor update ...
+then i read DeepSeek-V4.1-Flash/README.md 
+they must think it&#x27;s so fucking funny to call it V4.1 <a href="https://t.co/8HpRsM7UFJ" rel="nofollow">https://t.co/8HpRsM7UFJ</a></div>
+        <figure class="record-media">
+          <img src="../media/HU39IzWa4AA5VdK.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2112569596817392101">
+        <div class="record-head"><span class="rh-user">@Coobyk_</span> <span class="rh-date">2026-10-20</span> <span class="rh-stats">&#9829;4 &#8635;0</span> <a class="rh-perma" href="../archive/t/2112569596817392101/">archive</a> <a class="rh-orig" href="https://x.com/Coobyk_/status/2112569596817392101">original &#8599;</a></div>
+        <div class="record-body">I really need that intelligence too cheap to meter right now. I have so many projects I want to work on but can&#x27;t because I keep hitting limits.
+
+I don&#x27;t even need the most powerful model or anything. DeepSeek V4.1 Flash is what I&#x27;ve been using for everything the past few weeks and I love it.
+
+Would be nice if there&#x27;s a way to get virtually unlimited inference for $5-10/mo or so.</div>
+      </article>
+      <article class="record" id="t2112621373348835481">
+        <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-10-20</span> <span class="rh-stats">&#9829;78 &#8635;6</span> <a class="rh-perma" href="../archive/t/2112621373348835481/">archive</a> <a class="rh-orig" href="https://x.com/witcheer/status/2112621373348835481">original &#8599;</a></div>
+        <div class="record-body">this is a wonderful win for the local AI space! DeepSeek is doing awesome work by open-sourcing their production engine.
+
+it won&#x27;t run on my 5090 tho, but here&#x27;s what&#x27;s worth knowing from the repo:
+
+- originally built on vLLM
+- NVIDIA SM100 and Huawei Ascend 950 only
+- right now only one model: dsv4.1-flash
+- offline inference for now, you run it from a Python script on a batch of prompts
+- batch-invariant inference, your answer doesn&#x27;t change depending on which other requests share the GPU with yours
+- deterministic sampling
+
+super interesting</div>
+      </article>
+      <article class="record" id="t2112675089842053323">
+        <div class="record-head"><span class="rh-user">@aliceisplaying</span> <span class="rh-date">2026-10-20</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2112675089842053323/">archive</a> <a class="rh-orig" href="https://x.com/aliceisplaying/status/2112675089842053323">original &#8599;</a></div>
+        <div class="record-body">come watch deepseek v4.1 flash 1017 paint an original friedrich
+<a href="https://t.co/ADgmXin0es" rel="nofollow">https://t.co/ADgmXin0es</a></div>
+      </article>
+      <h3>Further records</h3>
+      <p class="note">Cited in this model&rsquo;s <a href="../_dossiers/">dossier</a> but not in the page prose &mdash;
+      reproduced so the archive doesn&rsquo;t depend on editorial selection.</p>
+      <article class="record" id="t2098417876021514288">
+        <div class="record-head"><span class="rh-user">@aliceisplaying</span> <span class="rh-date">2026-09-11</span> <span class="rh-stats">&#9829;40 &#8635;0</span> <a class="rh-perma" href="../archive/t/2098417876021514288/">archive</a> <a class="rh-orig" href="https://x.com/aliceisplaying/status/2098417876021514288">original &#8599;</a></div>
+        <div class="record-body">results!
+
+1/3 this was Deepseek V4.1 Flash! 7.1% got it right
+<a href="https://t.co/qeTSdkoxA2" rel="nofollow">https://t.co/qeTSdkoxA2</a></div>
+      </article>
+      <article class="record" id="t2098802835286552745">
+        <div class="record-head"><span class="rh-user">@ConcurrentSquar</span> <span class="rh-date">2026-09-12</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2098802835286552745/">archive</a> <a class="rh-orig" href="https://x.com/ConcurrentSquar/status/2098802835286552745">original &#8599;</a></div>
+        <div class="record-body">also deepseek-v4.1-flash does similar behavior <a href="https://t.co/ez9mGscDpJ" rel="nofollow">https://t.co/ez9mGscDpJ</a></div>
+        <figure class="record-media">
+          <img src="../media/HSByBZkbQAA_1cy.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HSByDIrXIAU8FNE.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2099960753633493478">
+        <div class="record-head"><span class="rh-user">@stevekrouse</span> <span class="rh-date">2026-09-15</span> <span class="rh-stats">&#9829;6 &#8635;1</span> <a class="rh-perma" href="../archive/t/2099960753633493478/">archive</a> <a class="rh-orig" href="https://x.com/stevekrouse/status/2099960753633493478">original &#8599;</a></div>
+        <div class="record-body">Shipped Deepseek v4.1 flash on Townie
+
+Crazy cheap and smart enough</div>
+      </article>
+      <article class="record" id="t2107592263887147077">
+        <div class="record-head"><span class="rh-user">@NousResearch</span> <span class="rh-date">2026-10-06</span> <span class="rh-stats">&#9829;124 &#8635;10</span> <a class="rh-perma" href="../archive/t/2107592263887147077/">archive</a> <a class="rh-orig" href="https://x.com/NousResearch/status/2107592263887147077">original &#8599;</a></div>
+        <div class="record-body">Claude Opus 5.5 leads at 63.31 and $4.99 per task.
+GPT 6 Astra is second at 56.25 and $11.61.
+Sonnet 5.5 follows at 53.14 and $2.82. 
+
+At the other end, DeepSeek V4.1 Flash scores 36.91 at $0.26 and Ling 3.0 Flash scores 21.56 at $0.054. <a href="https://t.co/3IkK9zX0ju" rel="nofollow">https://t.co/3IkK9zX0ju</a></div>
+        <figure class="record-media">
+          <img src="../media/HT-M_1MXEAEMGC8.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2107932095675076827">
+        <div class="record-head"><span class="rh-user">@maxbittker</span> <span class="rh-date">2026-10-07</span> <span class="rh-stats">&#9829;129 &#8635;2</span> <a class="rh-perma" href="../archive/t/2107932095675076827/">archive</a> <a class="rh-orig" href="https://x.com/maxbittker/status/2107932095675076827">original &#8599;</a></div>
+        <div class="record-body">on Runescape Bench, Haiku 5.5 scores above Opus 4.6, released 8 months ago, for 1/20 the price.
+
+Haiku 5.5 is outclassed by Deepseek V4.1 Flash and GPT-6 Luna who go far further for similar cost <a href="https://t.co/a57TWImxIp" rel="nofollow">https://t.co/a57TWImxIp</a></div>
+        <figure class="record-media">
+          <img src="../media/HUDgZhrW4AA0hFS.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2112323620832002233">
+        <div class="record-head"><span class="rh-user">@normie_dot_exe</span> <span class="rh-date">2026-10-19</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2112323620832002233/">archive</a> <a class="rh-orig" href="https://x.com/normie_dot_exe/status/2112323620832002233">original &#8599;</a></div>
+        <div class="record-body">deepseek 4.1 flash has some fun in the wilderness <a href="https://t.co/pdDxjLxZAn" rel="nofollow">https://t.co/pdDxjLxZAn</a></div>
+      </article>
+    <!-- records:end -->
+    <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
+  </main>
+</body>
+</html>

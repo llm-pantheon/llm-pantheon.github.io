@@ -1,7 +1,7 @@
 # DeepSeek-V3
 
     
-DeepSeek · released 26 Dec 2024 (open weights) · V3-0324 refresh 24 Mar 2025 (MIT) · legacy API name deprecating 24 Jul 2026
+DeepSeek · released 26 Dec 2024 (open weights) · V3-0324 refresh 24 Mar 2025 (MIT) · API name deepseek-chat scheduled for retirement 24 Jul 2026 (absent from DeepSeek’s model list by Oct 2026)
     
 Released 26 December 2024 with open weights: a 671B-parameter / 37B-active mixture-of-experts model whose technical report put the final training run at $5.576M (2.788M GPU hours), explicitly excluding prior research and ablations. Stripped of that caveat the figure went viral as “the Six Million Dollar Model” (Zvi Mowshowitz) and drew careful deflations — Nathan Lambert’s ~$500M all-in estimate, Dario Amodei’s “an expected point on an ongoing cost reduction curve” — while the model was widely observed identifying itself as ChatGPT, prompting a distillation probe. Its base was the substrate DeepSeek-R1 and R1-Zero were reinforcement-trained from (Zvi’s “v3 Implies r1”); a quiet, MIT-licensed refresh, V3-0324, followed on 24 March 2025.
     
@@ -122,7 +122,7 @@ V3-Base — the pretrained base, distinct from the chat model; the sphere’s op
       
 - V3-0324 (24 Mar 2025): quiet HuggingFace re-upload, no formal blog; ~685B params (adds an MTP module over the 671B base); license switched to MIT; API id unchanged (deepseek-chat). CONFIRMED
       
-- The base model DeepSeek-V3-Base is distinct from the chat model and was the substrate [R1](../deepseek-r1/) and [R1-Zero](../deepseek-r1-zero/) were RL-trained from. Legacy API names (deepseek-chat / deepseek-reasoner) are slated for deprecation 2026-07-24 as the line moves to V4.
+- The base model DeepSeek-V3-Base is distinct from the chat model and was the substrate [R1](../deepseek-r1/) and [R1-Zero](../deepseek-r1-zero/) were RL-trained from. The API names (deepseek-chat / deepseek-reasoner) passed to [V3.1](../deepseek-v3-1/) (2025-08-21) and later models; from 2026-04-24 they pointed to [V4-Flash](../deepseek-v4-flash/), with full retirement scheduled “after Jul 24th, 2026, 15:59 (UTC Time)” ([V4 preview notice](https://api-docs.deepseek.com/news/news260424/)).
     
 
     
@@ -171,9 +171,9 @@ Open disputes, both sides’ best evidence. The archive’s job is to keep these
     
 
       
-- Why does V3 identify as ChatGPT — training on OpenAI outputs, or passive contamination? The self-identification is reproducible: TechCrunch got “5 out of 8 generations” claiming ChatGPT/GPT-4 (2024-12-27) CONFIRMED. The cause is disputed. For deliberate distillation: OpenAI/Microsoft opened a probe alleging improper use of OpenAI data to train “the open-source V3 and R1 models” (Bloomberg 2025-01-29); experts (Mike Cook, Heidy Khlaaf) find it plausible. Against/complicating: DeepSeek’s account is passive contamination — GPT-4-generated text is all over the crawled web and entered pretraining — not deliberate synthetic data; there is no public forensic proof; and the sphere treated the causal leap as a meme (“Source: I made it up”). REPORTED
+- Why does V3 identify as ChatGPT — training on OpenAI outputs, or passive contamination? The self-identification is reproducible: TechCrunch got “5 out of 8 generations” claiming ChatGPT/GPT-4 (2024-12-27) CONFIRMED. The cause is disputed. For deliberate distillation: OpenAI/Microsoft opened a probe alleging improper use of OpenAI data to train “the open-source V3 and R1 models” (Bloomberg 2025-01-29); experts (Mike Cook, Heidy Khlaaf) find it plausible. Against/complicating: DeepSeek’s account is passive contamination — GPT-4-generated text is all over the crawled web and entered pretraining — not deliberate synthetic data; there is no public forensic proof; and the sphere treated the causal leap as a meme (“Source: I made it up”). REPORTED The 2026 US advisory (AA26-251A, 2026-09-08) lists GPT-4 and GPT-4o among the models DeepSeek allegedly distilled “to train their R1 and V3 models” REPORTED; Beijing rejected the advisory’s allegations ([SCMP](https://www.scmp.com/news/us/diplomacy/article/3367112/moonshot-deepseek-secretly-routed-user-requests-claude-anthropic-claims), 2026-09-11).
       
-- Is $5.576M the cost of DeepSeek-V3? As the final-run figure it is the paper’s own number CONFIRMED. As an all-in total it is a misquote the record should keep visible REPORTED. Zvi judged it “fair, if you exclude non-compute costs, which is standard”; Lambert put experimentation at “2–4 times the reported number” and all-in ops “closer to $500M (or even $1B+…)” once GPUs, staff, and electricity are counted; Dario Amodei called V3 “not a unique breakthrough” but “an expected point on an ongoing cost reduction curve.” The “$5.5M” shorthand, caveat stripped, is itself part of the record.
+- Is $5.576M the cost of DeepSeek-V3? As the final-run figure it is the paper’s own number CONFIRMED. As an all-in total it is a misquote the record should keep visible REPORTED. Zvi judged it “fair, if you exclude non-compute costs, which is standard”; Lambert put experimentation at “2–4 times the reported number” and all-in ops “closer to $500M (or even $1B+…)” once GPUs, staff, and electricity are counted; Dario Amodei called V3 “not a unique breakthrough” but “an expected point on an ongoing cost reduction curve.” The “$5.5M” shorthand, caveat stripped, is itself part of the record. In 2026 the US government took a side: the NSA / CISA / FBI advisory says “DeepSeek’s publicly quoted training costs of $5.6M are misleading as it does not include the true cost of the data acquired through extensive malicious distillation.” ([AA26-251A](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a), 2026-09-08) REPORTED
     
 
     

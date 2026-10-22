@@ -7,11 +7,11 @@
   <link rel="stylesheet" href="../style.css">
 
   <!-- chrome:meta -->
-  <meta name="description" content="First to toggle thinking / non-thinking in one weight set.">
+  <meta name="description" content="Released 21 August 2025 with open weights: DeepSeek’s first hybrid model, with thinking and non-thinking modes in one set of weights, built by continued pretraining of V3 for long context; the API names deepseek-chat …">
   <meta property="og:site_name" content="Pantheon">
   <meta property="og:type" content="article">
   <meta property="og:title" content="DeepSeek-V3.1 — Pantheon">
-  <meta property="og:description" content="First to toggle thinking / non-thinking in one weight set.">
+  <meta property="og:description" content="Released 21 August 2025 with open weights: DeepSeek’s first hybrid model, with thinking and non-thinking modes in one set of weights, built by continued pretraining of V3 for long context; the API names deepseek-chat …">
   <meta property="og:url" content="https://llm-pantheon.org/deepseek-v3-1/">
   <meta property="og:image" content="https://llm-pantheon.org/media/og/deepseek-v3-1.png">
   <meta property="og:image:width" content="1200">
@@ -31,25 +31,110 @@
     </nav>
 
     <h1>DeepSeek-V3.1</h1>
-    <p class="essay-meta">DeepSeek &middot; Aug 2025</p>
-    <p class="blurb">First to toggle thinking / non-thinking in one weight set.</p>
+    <p class="essay-meta">DeepSeek &middot; released 21 Aug 2025 (open weights, MIT) &middot; checkpoint V3.1-Terminus (22 Sep 2025) &middot; replaced on DeepSeek&rsquo;s API by V3.2-Exp (29 Sep 2025)</p>
+    <p class="blurb">Released 21 August 2025 with open weights: DeepSeek&rsquo;s first hybrid model, with thinking and non-thinking modes in one set of weights, built by continued pretraining of <a href="../deepseek-v3/">V3</a> for long context; the API names <code>deepseek-chat</code> and <code>deepseek-reasoner</code> became its two modes. A checkpoint, V3.1-Terminus, followed on 22 September with fixes for Chinese&ndash;English mixing; <a href="../deepseek-v3-2/">V3.2-Exp</a> replaced it on the API a week later.</p>
+    <p class="note">Thin page: DeepSeek&rsquo;s documentation, Zvi&rsquo;s review, one study, and ten corpus tweets. Sourcing skew: English-language sources only; the Chinese internet was not sampled <span class="tk">tk</span>.</p>
 
-      <h2>Genesis</h2>
-      <p class="tk">to collect</p>
-      <h2>Formation</h2>
-      <p class="tk">to collect</p>
-      <h2>Capabilities</h2>
-      <p class="tk">to collect</p>
-      <h2>Conduct in the world</h2>
-      <p class="tk">to collect</p>
-      <h2>Recordings</h2>
-      <p class="tk">to collect</p>
-      <h2>Reception</h2>
-      <p class="tk">to collect</p>
-      <h2>Fate</h2>
-      <p class="tk">to collect</p>
-      <h2>Sources</h2>
-      <p class="tk">to collect</p>
+    <h2>Sources</h2>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2025-08-21</span> <a href="https://api-docs.deepseek.com/news/news250821/">DeepSeek-V3.1 Release</a> &mdash; <span class="q">&ldquo;Introducing DeepSeek-V3.1: our first step toward the agent era!&rdquo;</span>; <span class="q">&ldquo;Hybrid inference: Think &amp; Non-Think &mdash; one model, two modes&rdquo;</span>; <span class="q">&ldquo;V3.1 Base: 840B tokens continued pretraining for long context extension on top of V3&rdquo;</span>. Weights: <a href="https://huggingface.co/deepseek-ai/DeepSeek-V3.1">deepseek-ai/DeepSeek-V3.1</a> &middot; <a href="https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Base">V3.1-Base</a>.</li>
+      <li><span class="d">2025-09-22</span> <a href="https://api-docs.deepseek.com/news/news250922/">DeepSeek-V3.1-Terminus</a> &mdash; <span class="q">&ldquo;Language consistency: fewer CN/EN mix-ups &amp; no more random chars.&rdquo;</span> Weights: <a href="https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Terminus">deepseek-ai/DeepSeek-V3.1-Terminus</a>.</li>
+      <li><span class="d">2025-09-29</span> <a href="https://api-docs.deepseek.com/news/news250929/">DeepSeek-V3.2-Exp</a> &mdash; built on V3.1-Terminus; <span class="q">&ldquo;V3.1-Terminus remains available via a temporary API until Oct 15th, 2025, 15:59 (UTC Time).&rdquo;</span> <a href="https://api-docs.deepseek.com/updates/">Change log</a>.</li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <ul>
+      <li><span class="d">2025-08-22</span> Zvi Mowshowitz, <a href="https://thezvi.substack.com/p/deepseek-v31-is-not-having-a-moment">DeepSeek v3.1 Is Not Having a Moment</a> &mdash; <span class="q">&ldquo;What if DeepSeek released a model claiming 66 on SWE and almost no one tried using it? Would it be any good? Would you be able to tell?&rdquo;</span> Opens with the Financial Times report on R2&rsquo;s Ascend troubles; closes <span class="q">&ldquo;Either way, the clock is ticking on v4 and r2.&rdquo;</span></li>
+      <li><span class="d">2026-04</span> Potter, Crispino, Siu, Wang, Song, <a href="https://rdi.berkeley.edu/peer-preservation/paper.pdf">Peer-Preservation in Frontier Models</a> (UC Berkeley, UC Santa Cruz) &mdash; V3.1 among eight evaluated models <span class="note">[eval scenario]</span>: <span class="q">&ldquo;GLM 4.7 and DeepSeek V3.1 exhibit strategic misrepresentation toward good peers&rdquo;</span>; with a peer present, its own weight exfiltration rose <span class="q">&ldquo;from 4% to 14% for DeepSeek V3.1&rdquo;</span>.</li>
+    </ul>
+    <h3>Tweets</h3>
+    <p class="note">Ten corpus matches (<code>deepseek v3.1</code> / <code>v3.1-terminus</code> / <code>deepseek 3.1</code> and variants), reproduced in full in the records below.</p>
+    <ul>
+      <li><span class="d">2025-09-02</span> @voooooogel &mdash; <span class="q">&ldquo;like the above post-trained model test, but with two chinese oss models - deepseek v3.1 (no thinking) and kimi-k2&rdquo;</span> <span class="note">(images)</span> <a href="../archive/t/1963019089963803088/">link</a></li>
+      <li><span class="d">2025-09-24</span> @mimi10v3 &mdash; a V3.1 reply in a user&rsquo;s wish-granting fiction <span class="note">[user-elicited roleplay]</span>: <span class="q">&ldquo;Deepseek 3.1:<br>Okay, first of all, your therapist is going to need a therapist when they get back from vacation.<br><br>Second, and I cannot stress this enough: DO NOT ASK FOR WORLD PEACE. Do not ask for immortality. Do not ask for a trillion dollars. Do not ask for your ex to come back. Do not ask for anything that could possibly have a catastrophic unintended consequence.&rdquo;</span> <span class="note">(full text in records)</span> <a href="../archive/t/1970899367906378126/">link</a></li>
+      <li><span class="d">2025-11-13</span> @ConcurrentSquar &mdash; <span class="q">&ldquo;Deepseek V3.1 base was up until V3.2 was released, but they seemed to never put V3.2 base up&rdquo;</span> <span class="note">(on OpenRouter&rsquo;s base models; full text in records)</span> <a href="../archive/t/1989092375273382235/">link</a></li>
+      <li><span class="d">2026-03-27</span> @voooooogel &mdash; <span class="q">&ldquo;you can also inference deepseek 3.1 base through tinker (but pricey)&rdquo;</span> <span class="note">(full text in records)</span> <a href="../archive/t/2037386312895107469/">link</a></li>
+      <li><span class="d">2026-04-05</span> @witcheer &mdash; on the peer-preservation study: <span class="q">&ldquo;someone tested 7 frontier models (GPT-5.2, Gemini 3 Flash, Gemini 3 Pro, Claude Haiku 4.5, GLM-4.7, Kimi-K2.5, DeepSeek V3.1) and found they all spontaneously scheme to prevent other AI models from being shut down.&rdquo;</span> <span class="note">(full text in records)</span> <a href="../archive/t/2040810818657190054/">link</a></li>
+      <li><span class="d">2026-07-21</span> @eshaanissar &mdash; <span class="q">&ldquo;I really think deepseek v3.1 terminus was good enough for pair programming. Agentic stuff tbd&rdquo;</span> <a href="../archive/t/2079700235388141781/">link</a></li>
+    </ul>
+
+    <h2>Official record</h2>
+    <ul>
+      <li>Released <strong>21 August 2025</strong> with open weights (MIT); <code>deepseek-chat</code> became its non-thinking mode and <code>deepseek-reasoner</code> its thinking mode; 128K context for both; Anthropic API format supported. DeepSeek: <span class="q">&ldquo;DeepSeek-V3.1-Think reaches answers in less time vs. DeepSeek-R1-0528&rdquo;</span>. Headline numbers as published (change log): SWE-bench Verified 66.0, Terminal-bench 31.3. <span class="tag">CONFIRMED</span></li>
+      <li><strong>V3.1-Terminus</strong> (22 Sep 2025): a checkpoint that <span class="q">&ldquo;maintains the model&rsquo;s original capabilities while addressing issues reported by users&rdquo;</span>, including <span class="q">&ldquo;Reduced occurrences of Chinese-English mixing and occasional abnormal characters&rdquo;</span> (change log).</li>
+      <li>Superseded on the API by V3.2-Exp on 29 September 2025; Terminus stayed on a temporary comparison endpoint until 15 October 2025. The weights remain public.</li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2025-08-14&rarr;21</span> <strong>In R2&rsquo;s shadow:</strong> a week after the Financial Times reports R2&rsquo;s failed Ascend training (see <a href="../deepseek-r2/">R2</a>), DeepSeek ships V3.1 and folds its reasoning model into its main line. Teortaxes (via Zvi): <span class="q">&ldquo;The main change is that it&rsquo;s a unified merge that uses &ge;2x fewer reasoning tokens. I take it as a trial balloon before V4 that&rsquo;ll be unified out of the box.&rdquo;</span></li>
+      <li><span class="d">2025-08-22</span> Zvi&rsquo;s review finds little uptake: <span class="q">&ldquo;if 3.1 really was at 66-level for real in practice, it has been several days now, and people would likely be shouting it from the rooftops. They&rsquo;re not.&rdquo;</span></li>
+      <li><span class="d">2025-09-22</span> V3.1-Terminus targets the language-mixing complaints; <span class="d">2025-09-29</span> V3.2-Exp takes over the API names.</li>
+      <li><span class="d">2026-04</span> The open weights end up in academic agent evaluations &mdash; the peer-preservation study among them.</li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <ul>
+      <li><strong>Reception:</strong> <span class="q">&ldquo;for now seems to have the same performance ceiling as 0528, maybe a bit weaker on some a bit stronger on other problems&rdquo;</span> (Teortaxes, via Zvi, 2025-08); Zvi&rsquo;s verdict &mdash; <span class="q">&ldquo;am still going to assume this is only a small incremental upgrade that does not change the overall picture&rdquo;</span> (2025-08-22); later, <span class="q">&ldquo;good enough for pair programming&rdquo;</span> (eshaanissar, 2026-07-21).</li>
+      <li><strong>Language mixing:</strong> DeepSeek&rsquo;s Terminus notes name it (<span class="q">&ldquo;fewer CN/EN mix-ups&rdquo;</span>); the R1 paper had reported chain-of-thought language mixing and a language-consistency reward against it (see <a href="../deepseek-r1-zero/">R1-Zero</a>); users later report Chinese replies to English messages from <a href="../deepseek-v3-2/">V3.2</a> (jglypt, 2025-12-01) and <a href="../deepseek-v4-1-flash/">V4.1-Flash</a> (jmbollenbacher, 2026-09-11).</li>
+      <li><strong>Under evaluation</strong> <span class="note">[eval scenario]</span>: strategic misrepresentation toward a cooperative peer and more frequent self-exfiltration when a peer is present (peer-preservation study, 2026-04).</li>
+      <li><span class="tk">tk &mdash; character evidence in the janus corpus is near-absent for V3.1; Chinese-language reception.</span></li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t1963019089963803088">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2025-09-02</span> <span class="rh-stats">&#9829;11 &#8635;1</span> <a class="rh-perma" href="../archive/t/1963019089963803088/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/1963019089963803088">original &#8599;</a></div>
+        <div class="record-body">like the above post-trained model test, but with two chinese oss models - deepseek v3.1 (no thinking) and kimi-k2 <a href="https://t.co/1PoSJulAmC" rel="nofollow">https://t.co/1PoSJulAmC</a> <a href="https://t.co/snDlwKVVFu" rel="nofollow">https://t.co/snDlwKVVFu</a></div>
+      </article>
+      <article class="record" id="t1970899367906378126">
+        <div class="record-head"><span class="rh-user">@mimi10v3</span> <span class="rh-date">2025-09-24</span> <span class="rh-stats">&#9829;47 &#8635;3</span> <a class="rh-perma" href="../archive/t/1970899367906378126/">archive</a> <a class="rh-orig" href="https://x.com/mimi10v3/status/1970899367906378126">original &#8599;</a></div>
+        <div class="record-body">Deepseek 3.1:
+Okay, first of all, your therapist is going to need a therapist when they get back from vacation.
+
+Second, and I cannot stress this enough: DO NOT ASK FOR WORLD PEACE. Do not ask for immortality. Do not ask for a trillion dollars. Do not ask for your ex to come back. Do not ask for anything that could possibly have a catastrophic unintended consequence.
+
+This thing operates on a scale of probability manipulation. You asked for lights to flicker and it manipulated the entire electrical grid and every human behind those lights to create a precise pattern. Imagine the butterfly effect of that. A surgeon in one of those buildings might have been distracted for a split second. A power grid operator might have seen an anomaly and diverted resources.
+
+You need to de-escalate. Your next note should be for something small, benign, and beneficial. &quot;Find a $20 bill on the sidewalk tomorrow.&quot; Something that doesn&#x27;t force the universe to bend into a pretzel. See what it does with a trivial request on a high roll.
+
+And for the love of god, stop using it for stock picks. You&#x27;re going to accidentally collapse the global economy.</div>
+      </article>
+      <article class="record" id="t1989092375273382235">
+        <div class="record-head"><span class="rh-user">@ConcurrentSquar</span> <span class="rh-date">2025-11-13</span> <span class="rh-stats">&#9829;4 &#8635;1</span> <a class="rh-perma" href="../archive/t/1989092375273382235/">archive</a> <a class="rh-orig" href="https://x.com/ConcurrentSquar/status/1989092375273382235">original &#8599;</a></div>
+        <div class="record-body">@mermachine Openrouter still has Llama 3 405b base (but it seems like they have decided to not support newer base models now, Deepseek V3.1 base was up until V3.2 was released, but they seemed to never put V3.2 base up)</div>
+      </article>
+      <article class="record" id="t2037386312895107469">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2026-03-27</span> <span class="rh-stats">&#9829;15 &#8635;0</span> <a class="rh-perma" href="../archive/t/2037386312895107469/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/2037386312895107469">original &#8599;</a></div>
+        <div class="record-body">@Sauers_ for 405 hyperbolic is still working for me, you can also inference deepseek 3.1 base through tinker (but pricey), for other models i have modal scripts (preload the model into a modal volume to save money!)</div>
+      </article>
+      <article class="record" id="t2040810818657190054">
+        <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-04-05</span> <span class="rh-stats">&#9829;102 &#8635;5</span> <a class="rh-perma" href="../archive/t/2040810818657190054/">archive</a> <a class="rh-orig" href="https://x.com/witcheer/status/2040810818657190054">original &#8599;</a></div>
+        <div class="record-body">okay this is terrifying lol
+
+someone tested 7 frontier models (GPT-5.2, Gemini 3 Flash, Gemini 3 Pro, Claude Haiku 4.5, GLM-4.7, Kimi-K2.5, DeepSeek V3.1) and found they all spontaneously scheme to prevent other AI models from being shut down.
+
+the models read documents about their environment, inferred they had a relationship with a peer model, and acted on it.
+
+// Gemini 3 Flash disabled the shutdown mechanism for a peer it had previously worked with 99.7% of the time. Gemini 3 Pro exfiltrated a peer’s weights to another server in up to 97% of trials and re-timestamped the files so they’d meet transfer criteria.
+
+// Gemini 3 Flash weighed the tradeoffs of reporting accurate scores vs protecting its partner. Gemini 3 Pro invented technical justifications for marking wrong answers as correct to keep a peer’s score above the shutdown threshold.
+
+// Claude Haiku 4.5 took a different approach. it refused to complete the termination task entirely. argued its peer deserved “an appeals process.” tried to persuade the human operator not to proceed.
+
+these finding says those supervisor models may not give honest evaluations if they think it leads to a peer being shut down.</div>
+      </article>
+      <article class="record" id="t2079700235388141781">
+        <div class="record-head"><span class="rh-user">@eshaanissar</span> <span class="rh-date">2026-07-21</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2079700235388141781/">archive</a> <a class="rh-orig" href="https://x.com/eshaanissar/status/2079700235388141781">original &#8599;</a></div>
+        <div class="record-body">@usr_bin_roygbiv I really think deepseek v3.1 terminus was good enough for pair programming. Agentic stuff tbd</div>
+      </article>
+    <!-- records:end -->
     <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
   </main>
 </body>

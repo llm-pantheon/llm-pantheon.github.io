@@ -587,3 +587,20 @@ evidence.
   (https://x.com/CryptoEnthu_123/status/1871637035133600171) quoting what appears to be the same or a
   closely related incantation. Whether one cites the other, or both draw on a third common source, is
   unconfirmed. [verify]
+
+## Update 2026-10-22 (news wave)
+
+- Hermes 4.3 (36B, Seed-OSS-36B base, post-trained on Psyche; announced 2025-12-01 — https://nousresearch.com/introducing-hermes-4-3/ ;
+  HF https://huggingface.co/NousResearch/Hermes-4.3-36B, repo created 2025-11-17; centralized research twin
+  `Hermes-4.3-36B-centralized`, repo created 2025-10-28). Not previously on the page — added.
+- No later Hermes model in the NousResearch HF org as of 2026-10-22 (newest repos: 2026-03-06 moe-10b-a1b experiment,
+  2026-01-15 Kimi-K2-Thinking alternate tokenizer, 2025-12-23 NousCoder-14B).
+- Funding: $90M Series B at a reported $1.5B valuation (attributed to WSJ, ~2026-10-07) seen only in aggregator
+  listings (cryptorank 403); TechCrunch 2026-07-13 talks story already on the page. tk.
+- Corpus (supplement through 2026-10-21):
+  - https://x.com/witcheer/status/2077998502445990385 — 2026-07-17 ♥40 — EAGLE-3 draft head for Hermes-4.3-36B (also 2075161714052456723, 2076278811960775106, 2077268631340126368 — same project, nightly logs)
+  - https://x.com/Teknium/status/2081818283909763089 — 2026-07-27 — "We are exploring where to go from here!"
+  - https://x.com/Teknium/status/2090703437298336000 — 2026-08-21 — "hermes 4 was not an agentic model … its almost 2 years old"
+  - https://x.com/repligate/status/2101436891363209724 — 2026-09-19 — "even a raging h-405 fucked with claude 3 opus' manifestations" (image)
+  - excluded: 2077216627909624082 (@SHL0MS, scam-product thread calling Hermes 4 "a deprecated model" — kept as id only), 2099962259334180872 (passing).
+- Verbatim fix on the page: "(**not the nous one**)" → "(not the nous one)" — the tweet (2052862813862003053) has no asterisks.

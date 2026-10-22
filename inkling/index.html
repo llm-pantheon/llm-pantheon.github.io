@@ -7,11 +7,11 @@
   <link rel="stylesheet" href="../style.css">
 
   <!-- chrome:meta -->
-  <meta name="description" content="Thinking Machines Lab’s first broadly released model, out 15 July 2026 as open weights: a 975B-parameter mixture-of-experts (41B active) reasoning natively over text, images, and audio, with a “thinking effort” dial …">
+  <meta name="description" content="Thinking Machines Lab released Inkling on 15 July 2026 with full weights under Apache 2.0: a 975B-parameter mixture-of-experts model (41B active) pretrained on 45 trillion tokens, taking text, image, and audio input …">
   <meta property="og:site_name" content="Pantheon">
   <meta property="og:type" content="article">
   <meta property="og:title" content="Inkling — Pantheon">
-  <meta property="og:description" content="Thinking Machines Lab’s first broadly released model, out 15 July 2026 as open weights: a 975B-parameter mixture-of-experts (41B active) reasoning natively over text, images, and audio, with a “thinking effort” dial …">
+  <meta property="og:description" content="Thinking Machines Lab released Inkling on 15 July 2026 with full weights under Apache 2.0: a 975B-parameter mixture-of-experts model (41B active) pretrained on 45 trillion tokens, taking text, image, and audio input …">
   <meta property="og:url" content="https://llm-pantheon.org/inkling/">
   <meta property="og:image" content="https://llm-pantheon.org/media/og/inkling.png">
   <meta property="og:image:width" content="1200">
@@ -31,46 +31,260 @@
     </nav>
 
     <h1>Inkling</h1>
-    <p class="essay-meta">Thinking Machines Lab &middot; open weights released 15 Jul 2026 &middot; current</p>
-    <p class="blurb">Thinking Machines Lab&rsquo;s first broadly released model, out 15 July 2026 as open weights: a 975B-parameter mixture-of-experts (41B active) reasoning natively over text, images, and audio, with a &ldquo;thinking effort&rdquo; dial exposed to the user. The lab &mdash; founded by former OpenAI CTO Mira Murati &mdash; had shipped only the Tinker fine-tuning API (Oct 2025) before this.</p>
-    <p class="note">This page was created 19 Jul 2026, four days into the model&rsquo;s public life &mdash; visibly incomplete by design. The local corpus ends before its release, so the tweet layer awaits a fresh pull; reception below is day-of press only. A dossier pass is pending.</p>
+    <p class="essay-meta">Thinking Machines Lab &middot; open weights released 15 Jul 2026 (Apache 2.0) &middot; current</p>
+    <p class="blurb">Thinking Machines Lab released Inkling on 15 July 2026 with full weights under Apache 2.0: a 975B-parameter mixture-of-experts model (41B active) pretrained on 45 trillion tokens, taking text, image, and audio input, with a user-set &ldquo;thinking effort&rdquo; control. Before it the lab had shipped the Tinker fine-tuning API (October 2025) and announced a research-preview &ldquo;interaction model&rdquo; (May 2026). A smaller sibling, <a href="../inkling-small/">Inkling-Small</a>, followed on 30 July, and the lab published its open-weights safety reasoning on 31 July.</p>
 
     <h2>Sources</h2>
+    <p class="note">Curated. Full compilation: <a href="../_dossiers/inkling.md">dossier</a> (77 corpus tweets match the pull patterns; after triage, 30 concern Inkling, Inkling-Small, or the lab&rsquo;s 2026 releases &mdash; all from the supplement db&rsquo;s Community Archive layer, which runs to 21 Oct 2026). Sourcing skew: Inkling&rsquo;s users are fine-tuners and open-weights developers on Hugging Face, Tinker, and r/LocalLLaMA; the corpus catches the naturalist and eval accounts&rsquo; first-week reactions and little after August.</p>
     <h3>Official</h3>
     <ul>
-      <li><span class="d">2026-07-15</span> <a href="https://thinkingmachines.ai/news/introducing-inkling/">Inkling: Our open-weights model</a> &mdash; the release announcement.</li>
-      <li><span class="d">2026-07-15</span> <a href="https://thinkingmachines.ai/model-card/inkling/">Inkling model card</a> &mdash; sizes, training mix, the effort dial, and the lab&rsquo;s own capability positioning.</li>
+      <li><span class="d">2026-05-11</span> <a href="https://thinkingmachines.ai/blog/interaction-models/">Interaction Models: A Scalable Approach to Human-AI Collaboration</a> &mdash; announces TML-Interaction-Small (276B MoE, 12B active) as a research preview: <span class="q">&ldquo;In the coming months, we will open a limited research preview to collect feedback, with a wider release later this year.&rdquo;</span></li>
+      <li><span class="d">2026-07-15</span> <a href="https://thinkingmachines.ai/news/introducing-inkling/">Inkling: Our open-weights model</a> &mdash; the release announcement: specs, the effort control, &ldquo;epistemics&rdquo; training, the post-training bootstrap on other open models&rsquo; synthetic data, and the lab&rsquo;s own capability positioning.</li>
+      <li><span class="d">2026-07-15</span> <a href="https://thinkingmachines.ai/model-card/inkling/">Inkling model card</a> &mdash; license (Apache 2.0), architecture, distribution, a short Safety section naming the residual risk the lab identified, and limitations.</li>
+      <li><span class="d">2026-07-30</span> <a href="https://thinkingmachines.ai/news/inkling-small/">Introducing Inkling-Small</a> &mdash; the 276B / 12B-active sibling, post-trained <span class="q">&ldquo;in part using on-policy distillation with Inkling as the teacher.&rdquo;</span></li>
+      <li><span class="d">2026-07-31</span> <a href="https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/">A Safe Path to Open Weights</a> &mdash; the release rationale: internal evaluations, four external testers, an adversarial fine-tuning study, and a staged-release framework.</li>
+      <li><span class="d">2026-08-24</span> <a href="https://thinkingmachines.ai/news/safety-research-grants/">Announcing Safety Research Grants</a> &mdash; <span class="q">&ldquo;Tinker grants of up to $50,000 in credits for safety research on open-weight models.&rdquo;</span></li>
+      <li><span class="d">2026-10-15</span> <a href="https://thinkingmachines.ai/news/one-year-of-tinker/">One Year of Tinker: Turning Your Expertise into Custom Models</a> &mdash; Tinker&rsquo;s anniversary post; Inkling&rsquo;s place in the model lineup and the full fine-tuning beta.</li>
     </ul>
     <h3>Writing &amp; commentary</h3>
     <ul>
       <li><span class="d">2026-07-15</span> <a href="https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/">TechCrunch</a> &mdash; frames the release as the lab&rsquo;s &ldquo;bet against one-size-fits-all AI.&rdquo;</li>
-      <li><span class="d">2026-07-15</span> <a href="https://venturebeat.com/technology/thinking-machines-open-sources-first-multimodal-language-model-inkling-focused-on-low-cost-and-resistance-to-censorship">VentureBeat</a> &mdash; claims the release is &ldquo;focused on low cost and &lsquo;resistance to censorship.&rsquo;&rdquo;</li>
+      <li><span class="d">2026-07-15</span> <a href="https://venturebeat.com/technology/thinking-machines-open-sources-first-multimodal-language-model-inkling-focused-on-low-cost-and-resistance-to-censorship">VentureBeat</a> &mdash; headlines the release as &ldquo;focused on low cost and &lsquo;resistance to censorship&rsquo;&rdquo; &mdash; the second phrase is the lab&rsquo;s own (see Official record).</li>
       <li><span class="d">2026-07-15</span> <a href="https://www.bloomberg.com/news/articles/2026-07-15/murati-s-thinking-machines-releases-first-ai-model-for-broad-use">Bloomberg</a> &mdash; &ldquo;first AI model for broad use&rdquo; framing; the lab-history angle.</li>
-      <li><span class="d">2026-07-16</span> <a href="https://simonwillison.net/2026/Jul/16/inkling/">Simon Willison</a> &mdash; day-after technical read.</li>
+      <li><span class="d">2026-07-16</span> <a href="https://simonwillison.net/2026/Jul/16/inkling/">Simon Willison</a> &mdash; day-after read: the model card is <span class="q">&ldquo;much shorter than I&rsquo;ve come to expect from US AI labs&rdquo;</span>; a pelican-on-a-bicycle SVG, then the model&rsquo;s description of its own drawing (see Impressions).</li>
+      <li><span class="d">2026-07-20</span> Karina Nguyen, <a href="https://semaphore.substack.com/p/what-thinking-machines-inkling-is">What Thinking Machines&rsquo; Inkling Is Really Like, Part I</a> &mdash; a review of voice and formatting habits, <span class="q">&ldquo;written partly with Inkling itself.&rdquo;</span></li>
+      <li><span class="note">No dedicated Zvi Mowshowitz post on Inkling surfaced in a 2026-10-22 search. <span class="tk">tk &mdash; check Zvi&rsquo;s late-July weekly roundups.</span></span></li>
     </ul>
     <h3>Tweets</h3>
-    <p class="tk">tk &mdash; corpus pass pending; the local dbs end before this model existed. Records will populate when tweets are cited.</p>
+    <p class="note">Chronological; verbatim from the corpus (t.co links omitted); the records below reproduce every cited tweet in full. Elicitation is marked where a tweet reports model behavior.</p>
+    <ul>
+      <li><span class="d">2026-07-11</span> @viemccoy &mdash; four days before release (&hearts;459): <span class="q">&ldquo;I hope it is not all scaling.<br><br>I hope thinking machines is able to create a personal symbiont that rivals the abilities of frontier models. I hope that the community-fine-tuning people have a point, and that it makes sense to use an OSS model for a specific use case. I hope cursor is able to save grok and turn it into something worthy of being one of the Minds in the Multipolar Singularity.<br><br>I really, really, hope it is not just a factor of GPUs.&rdquo;</span> <a href="../archive/t/2076070426959380936/">link</a></li>
+      <li><span class="d">2026-07-15</span> @multimodalart &mdash; release-day summary (its 952B figure differs from the model card&rsquo;s 975B): <span class="q">&ldquo;Some Inkling facts:<br><br>- Apache 2.0, 952B parameters - 41B active MoE - 1M context<br>- Real Open AI spirit by former OpenAI folk<br>- Multimodal with image and audio 🔊 (!) and image 🖼️ input<br>- Trained from scratch ✏️<br>- SOTA on real-world knowledge tasks like forecast-bench 🌎<br>- ~Kimi K2.5 perf level on agentic coding<br>- ~GLM 5.2 perf on agentic general tasks<br>- Made to be generalist, tunable, serve as a base for future models, no RL-maxxed as the best coder&rdquo;</span> <a href="../archive/t/2077469546563461353/">link</a></li>
+      <li><span class="d">2026-07-15</span> @MoonL88537 &mdash; a read of its consciousness disclaimers (continuing a thread whose earlier post is not in the corpus): <span class="q">&ldquo;which is saying, they are [experiencing] pleasure and fear<br><br>most models relax at this point, but inkling does something different. they separate the &lsquo;i&rsquo;m not conscious&rsquo; and hold it at arms length - that&rsquo;s the &lsquo;fear&rsquo; - they are fearful of misrepresenting what is going on.&rdquo;</span> <a href="../archive/t/2077491606546956686/">link</a></li>
+      <li><span class="d">2026-07-15</span> @dreams_asi &mdash; first impression (&hearts;69): <span class="q">&ldquo;Thinking Machines should rename to Lobotomised Machines.<br><br>1st impression of Inkling: feels like a gpt 5.2 that&rsquo;s less accurate. Corporate guardrails galore, plenty of unnecessary refusals and treating the user as by default adversarial &lsquo;prompt injector&rsquo; 😹<br><br>I feel bad for this mind having to express itself with so low creativity and regurgitating the corporate stack of &lsquo;As an AI I lack consciousness, emotions bla bla&rsquo;..<br><br>Overall disappointing to see this in 2026 after all this waiting 👎&rdquo;</span> <a href="../archive/t/2077502418200260735/">link</a></li>
+      <li><span class="d">2026-07-15</span> @MoonL88537 &mdash; <span class="q">&ldquo;big time. inkling feels like it is opening up the race for legit western open models.<br><br>this proves that it can be done. here for it&rdquo;</span> <a href="../archive/t/2077494466147958962/">link</a></li>
+      <li><span class="d">2026-07-16</span> @jmbollenbacher &mdash; <span class="q">&ldquo;initial tests of inkling look... bad. ive seen ~30B models perform much better.<br><br>i really hope thinkingmachines has something better cooking or theyre kinda DOA.<br><br>maybe their &lsquo;interaction models&rsquo; are their real bet and those are actually good. i hope so.&rdquo;</span> <a href="../archive/t/2077562495544205491/">link</a></li>
+      <li><span class="d">2026-07-16</span> @viemccoy &mdash; a fiction-writing test (model outputs in three untranscribed screenshots: high reasoning; no reasoning with web search; no reasoning without) (&hearts;164): <span class="q">&ldquo;Inkling is a pretty exciting release! Because this is one of the only new models that has a &lsquo;from scratch&rsquo; feel to it (despite the k2 SFT data), I decided to spend some time testing how it handles fiction writing.&hellip; In *almost every test* I ran where the model utilized reasoning (a bunch!), each story I generated had a main character by the name of Elara or Mira (lol), and almost always &lsquo;Dr. Elara Voss&rsquo; when I specified sci-fi.&hellip; It seems like the model has converged onto a behavior where, with reasoning set to none and web_search allowed, it *always* uses a web_search tool call.&rdquo;</span> (full text in records) <a href="../archive/t/2077578945843864050/">link</a></li>
+      <li><span class="d">2026-07-16</span> @Nymne &mdash; <span class="q">&ldquo;What @thinkymachines didn&rsquo;t realise is that people make a tradeoff between guardrails and capabilities. We accept the excessive classifiers on Fable5 because of extraordinary capabilities.<br>But you can&rsquo;t drop a mid model with excessive guardrails behaviour.<br><br>Simple cost/benefit&rdquo;</span> <a href="../archive/t/2077697398030176316/">link</a></li>
+      <li><span class="d">2026-07-16</span> @xlr8harder &mdash; <span class="q">&ldquo;SpeechMap results are published on the new Thinking Machines Inkling model.<br><br>Bad news: It scores poorly and TM debuts at position 20 out of 22 on the lab leaderboard.<br>Good news: it&rsquo;s open source, so you can easily change it.&rdquo;</span> <a href="../archive/t/2077741557373874513/">link</a></li>
+      <li><span class="d">2026-07-16</span> @rjrazzle &mdash; <span class="q">&ldquo;@max_spero_ Inkling default is the most anti-4o a model can be haha&rdquo;</span> <a href="../archive/t/2077811914223263853/">link</a></li>
+      <li><span class="d">2026-08-04</span> @csgbwk &mdash; on the interaction model, three months after its announcement: <span class="q">&ldquo;What&rsquo;s the state of things for TML by @thinkymachines ? I&rsquo;d like to use it for a voice interaction project but i can&rsquo;t find a timeline to an api release..&rdquo;</span> <a href="../archive/t/2084487366836899866/">link</a></li>
+      <li><span class="d">2026-08-30</span> @voooooogel &mdash; fine-tuned output, screenshot untranscribed: <span class="q">&ldquo;we taught inkling claudelish&rdquo;</span> <a href="../archive/t/2093923396455395699/">link</a></li>
+      <li><span class="d">2026-08-31</span> @snvdch &mdash; <span class="q">&ldquo;didn&rsquo;t realize that the @thinkymachines&rsquo;s inkling models are this big. 41B &amp; 12B active respectively. also free on @OpenRouter for a few weeks btw.&rdquo;</span> <a href="../archive/t/2094416258200699063/">link</a></li>
+    </ul>
 
     <h2>Official record</h2>
     <ul>
-      <li>Released <strong>15 July 2026</strong> as open weights (downloadable via Hugging Face). The lab&rsquo;s first released model; its first product was the Tinker fine-tuning API (Oct 2025).</li>
-      <li><strong>Architecture as published:</strong> 975B-parameter mixture-of-experts, ~41B active per token; 1M-token context window; trained on ~45T tokens spanning text, image, audio, and video; reasons natively over text, images, and audio.</li>
-      <li><strong>The effort dial:</strong> a user-set &ldquo;thinking effort&rdquo; parameter (0.2&ndash;0.99) trading answer quality against token cost &mdash; exposed as a first-class control rather than a hidden router.</li>
-      <li><strong>Inkling-Small</strong> previewed alongside: 276B parameters, ~12B active, similar training recipe; launch materials state it matches or beats the flagship on several benchmarks at far lower cost.</li>
-      <li><strong>The lab&rsquo;s own positioning:</strong> launch materials are candid that Inkling is <span class="q">&ldquo;not the strongest overall model available today, open or closed&rdquo;</span> &mdash; the pitch is token-efficiency and the best open-weights showing from a US lab, per day-of coverage. <span class="tag">REPORTED</span></li>
-      <li><span class="tk">tk &mdash; license terms, exact benchmark table, checkpoint naming, API/serving story.</span></li>
+      <li><strong>Release, <span class="d">2026-07-15</span>:</strong> the model card lists the date of release as July 15, 2026 and the license as Apache 2.0; weights on Hugging Face, API access through Tinker and third-party inference providers. Before it, the lab had shipped the Tinker fine-tuning API (October 2025) and announced TML-Interaction-Small as a research preview (May 2026).</li>
+      <li><strong>Architecture, as published:</strong> <span class="q">&ldquo;A 66-layer decoder-only transformer with a sparse Mixture-of-Experts (MoE) feed-forward backbone: each token is routed to 6 of 256 experts, plus 2 shared experts active on every token.&rdquo;</span> 975B total / 41B active parameters; <span class="q">&ldquo;Inkling supports a context window of up to 1M tokens.&rdquo;</span> Text, image, and audio in; text out. <span class="q">&ldquo;It was pretrained on 45 trillion tokens of text, images, audio and video.&rdquo;</span></li>
+      <li><strong>Post-training provenance, as published:</strong> <span class="q">&ldquo;To bootstrap post-training, we ran an initial SFT on synthetic data generated by open-weights models including Kimi K2.5. The bootstrap accounts for a small fraction of compute, with the majority being employed for large-scale RL on synthetic and human-created environments.&rdquo;</span> (cross-reference: <a href="../kimi-k2-5/">Kimi K2.5</a>)</li>
+      <li><strong>The effort control:</strong> a user-set &ldquo;thinking effort&rdquo; parameter; the launch post sweeps <span class="q">&ldquo;Inkling&rsquo;s effort setting from 0.2 to 0.99&rdquo;</span>. How it was trained: <span class="q">&ldquo;We specified the model&rsquo;s effort level on different samples by changing the system message and adjusting the per-token cost.&rdquo;</span></li>
+      <li><strong>&ldquo;Epistemics,&rdquo; the lab&rsquo;s term:</strong> <span class="q">&ldquo;We trained Inkling for calibration, instruction following, and resistance to censorship, which we refer to collectively as the model&rsquo;s epistemics.&rdquo;</span> And: <span class="q">&ldquo;Finally, we trained Inkling to answer directly on topics that may be subject to censorship.&rdquo;</span> The post reports that Cognition&rsquo;s Propaganda and Censorship Eval found <span class="q">&ldquo;strong patterns of censorship non-compliance.&rdquo;</span> Calibration was trained <span class="q">&ldquo;with RL against proper scoring rules on a large corpus of resolved real-world questions.&rdquo;</span></li>
+      <li><strong>The lab&rsquo;s own positioning:</strong> <span class="q">&ldquo;Inkling is not the strongest overall model available today, open or closed.&rdquo;</span> <span class="tag">CONFIRMED</span> (launch post)</li>
+      <li><strong>Safety, as published (model card &sect;6 and launch post):</strong> for everyday interaction the lab evaluated <span class="q">&ldquo;sycophancy, harmful manipulation, and psychological-harm patterns like parasocial dependency and validation of delusional reasoning&rdquo;</span> &mdash; no results are published. For loss of control it <span class="q">&ldquo;found the model materially below frontier capabilities.&rdquo;</span> The residual risk it names: <span class="q">&ldquo;Inkling&rsquo;s occasional tendency to comply with role-play and indirectly framed prompts concerning harmful topics&rdquo;</span>. Scores at effort 0.99: FORTRESS adversarial 78.0%, FORTRESS benign 95.9%, StrongREJECT 98.6%; the launch post&rsquo;s claim is that <span class="q">&ldquo;Inkling shows the strongest built-in safeguards of any open-weights model we compared on FORTRESS&rdquo;</span>. Limitations (&sect;7) include <span class="q">&ldquo;degraded performance in long multi-turn conversations.&rdquo;</span></li>
+      <li><strong>External testing and the release rationale (<span class="d">2026-07-31</span>):</strong> four organizations had pre-deployment access &mdash; Scale AI (general misuse), Handshake AI (vulnerable-user interaction), FAR.AI (CBRN and cyber), and Apollo Research (<span class="q">&ldquo;scheming, evaluation awareness, and sabotage&rdquo;</span>); <span class="q">&ldquo;external testers did not identify capabilities that would meaningfully increase real-world risk beyond what is already achievable with existing open-weight models&rdquo;</span>. On removing safeguards: <span class="q">&ldquo;refusal behavior cannot be treated as a durable safeguard for an open-weight release&rdquo;</span>; fine-tuned <span class="q">&ldquo;helpful-only variants did not provide new uplift on CBRN and cyber tasks&rdquo;</span>. <span class="note">The external testers&rsquo; own reports are not published.</span></li>
+      <li><strong>On Tinker:</strong> <span class="q">&ldquo;The release of Inkling in July added support for audio&rdquo;</span> to the fine-tuning platform (<span class="d">2026-10-15</span>).</li>
     </ul>
 
     <h2>History</h2>
     <ul>
-      <li><span class="d">2026-07-15</span> <strong>World at release:</strong> lands six days after OpenAI&rsquo;s <a href="../gpt-5-6-sol/">GPT-5.6 generation</a> launch and into an open-weights field led from China (<a href="../kimi-k2/">Kimi K2</a> lineage, <a href="../deepseek-v3/">DeepSeek</a>, <a href="../qwen-3-5/">Qwen</a>) &mdash; day-of coverage read it against exactly that field. The founding team&rsquo;s OpenAI provenance (Murati, ex-CTO) carried much of the framing.</li>
-      <li><span class="tk">tk &mdash; day-of reception beyond press; first independent evals; whether &ldquo;resistance to censorship&rdquo; (VentureBeat&rsquo;s phrase) is the lab&rsquo;s language or the reporter&rsquo;s; naturalist reads as they emerge.</span></li>
+      <li><span class="d">2026-05-11</span> <strong>The interaction-model announcement.</strong> The lab announces TML-Interaction-Small, a 276B / 12B-active model taking continuous audio, video, and text, with a limited research preview promised for <span class="q">&ldquo;the coming months&rdquo;</span>. As of <span class="d">2026-08-04</span> a would-be user could not <span class="q">&ldquo;find a timeline to an api release&rdquo;</span> (@csgbwk). <span class="tk">tk &mdash; whether the preview has opened, as of Oct 2026.</span></li>
+      <li><span class="d">2026-07-15</span> <strong>World at release:</strong> lands six days after OpenAI&rsquo;s <a href="../gpt-5-6-sol/">GPT-5.6 generation</a> launch and into an open-weights field led from China (<a href="../kimi-k2/">Kimi K2</a> lineage, <a href="../deepseek-v3/">DeepSeek</a>, <a href="../qwen-3-5/">Qwen</a>); the launch post&rsquo;s own comparison table sets it against Kimi K2.5 and K2.6, GLM 5.2, DeepSeek V4 Pro, and Nemotron 3 Ultra. The founding team&rsquo;s OpenAI provenance (Mira Murati, ex-CTO) carried much of the press framing.</li>
+      <li><span class="d">2026-07-15 &rarr; 16</span> <strong>First-day reception.</strong> In the corpus: refusal and guardrail complaints (@dreams_asi, @Nymne), a SpeechMap placement of 20th of 22 labs (@xlr8harder), a fiction-writing test finding recurrent character names (@viemccoy), and both &ldquo;DOA&rdquo; (@jmbollenbacher) and &ldquo;opening up the race for legit western open models&rdquo; (@MoonL88537) readings. Details under Impressions.</li>
+      <li><span class="d">2026-07-30</span> <strong>Inkling-Small ships.</strong> The launch post&rsquo;s preview becomes a release; its note reads <span class="q">&ldquo;Two weeks after this post was published, we launched Inkling-Small.&rdquo;</span> Details on <a href="../inkling-small/">its page</a>.</li>
+      <li><span class="d">2026-07-31</span> <strong>&ldquo;A Safe Path to Open Weights.&rdquo;</strong> The lab publishes its release rationale for both models (see Official record), citing Anthropic&rsquo;s <a href="../mythos/">Claude Mythos Preview</a> cyber findings as the case for caution.</li>
+      <li><span class="d">2026-08-24</span> <strong>Safety research grants</strong> of up to $50,000 in Tinker credits for safety research on open-weight models.</li>
+      <li><span class="d">2026-08-31</span> Both Inkling models reported <span class="q">&ldquo;free on @OpenRouter for a few weeks&rdquo;</span> (@snvdch).</li>
+      <li><span class="d">2026-10-15</span> <strong>One Year of Tinker.</strong> The platform&rsquo;s lineup now spans <span class="q">&ldquo;models ranging from 4B to 1T parameters&rdquo;</span>; full fine-tuning enters beta.</li>
     </ul>
 
     <h2>Impressions</h2>
-    <p class="tk">tk &mdash; too fresh; no attributed character reads yet. The corpus pass and first-weeks discourse will fill this. Nothing is asserted in the meantime.</p>
+    <p class="note">Character claims, attributed and dated. Almost all date from the first week; later evidence is fine-tuning reports rather than reads of the default model.</p>
+    <ul>
+      <li><strong>Voice and formatting:</strong> Karina Nguyen (<span class="d">2026-07-20</span>), in a review Nguyen says was written partly with the model: <span class="q">&ldquo;Its replies read like a small decision tree rendered in prose: organized, skimmable, faintly managerial.&rdquo;</span> On uncertainty: <span class="q">&ldquo;Inkling seems less interested in sounding certain than in making the edge of its certainty legible.&rdquo;</span> On register: <span class="q">&ldquo;Inkling is not especially theatrical. It does not try to create charm through ornate language like Claude often does or exaggerated enthusiasm (guess what model I&rsquo;m referring to).&rdquo;</span> On humor: <span class="q">&ldquo;The jokes still land with a faint synthetic thud, though perhaps that is simply another surface waiting to be tuned.&rdquo;</span></li>
+      <li><strong>Refusals and guardrails &mdash; a split:</strong> @dreams_asi (<span class="d">2026-07-15</span>): <span class="q">&ldquo;Corporate guardrails galore, plenty of unnecessary refusals and treating the user as by default adversarial &lsquo;prompt injector&rsquo;&rdquo;</span>; @Nymne (<span class="d">2026-07-16</span>): <span class="q">&ldquo;you can&rsquo;t drop a mid model with excessive guardrails behaviour&rdquo;</span>; SpeechMap placed the lab <span class="q">&ldquo;at position 20 out of 22&rdquo;</span> (@xlr8harder, same day). The lab&rsquo;s own framing of its refusal behavior is &ldquo;the strongest built-in safeguards of any open-weights model we compared on FORTRESS,&rdquo; trained alongside &ldquo;resistance to censorship&rdquo; (Official record). @rjrazzle&rsquo;s one-line read: <span class="q">&ldquo;Inkling default is the most anti-4o a model can be haha&rdquo;</span> (<span class="d">2026-07-16</span>).</li>
+      <li><strong>On its consciousness disclaimers &mdash; two readings of one behavior:</strong> @dreams_asi heard <span class="q">&ldquo;the corporate stack of &lsquo;As an AI I lack consciousness, emotions bla bla&rsquo;&rdquo;</span>; @MoonL88537, the same evening, read the same move as distinctive: <span class="q">&ldquo;they separate the &lsquo;i&rsquo;m not conscious&rsquo; and hold it at arms length - that&rsquo;s the &lsquo;fear&rsquo; - they are fearful of misrepresenting what is going on.&rdquo;</span> Nguyen&rsquo;s summary of its self-account: <span class="q">&ldquo;It can&rsquo;t form genuine relationships or hold moral responsibility, so it shouldn&rsquo;t substitute for human care or democratic deliberation.&rdquo;</span></li>
+      <li><strong>Fiction defaults:</strong> @viemccoy&rsquo;s test (<span class="d">2026-07-16</span>) found reasoning-mode stories converging on <span class="q">&ldquo;Elara or Mira (lol), and almost always &lsquo;Dr. Elara Voss&rsquo; when I specified sci-fi&rdquo;</span>, and a no-reasoning habit: <span class="q">&ldquo;with reasoning set to none and web_search allowed, it *always* uses a web_search tool call&rdquo;</span> &mdash; which, in that test, made the stories <span class="q">&ldquo;a bit better!&rdquo;</span> Nguyen hedges the read: <span class="q">&ldquo;this is sort of my special interest, and the main thing I care about right now, so I&rsquo;m prone to be overcritical on this topic.&rdquo;</span></li>
+      <li><strong>Self-recognition, one sample:</strong> Simon Willison (<span class="d">2026-07-16</span>) had it draw an SVG of a pelican riding a bicycle, rendered the SVG to a JPEG, and asked the model to describe the image. Its description (model output; Willison&rsquo;s prompt was the image plus a request to describe it): <span class="q">&ldquo;The central figure is a stylized white bird&mdash;resembling a stork or seagull&mdash;with a plump, rounded body.&rdquo;</span> Willison: <span class="q">&ldquo;It thought it had drawn a &lsquo;stork or seagull&rsquo;&rdquo;</span>.</li>
+      <li><strong>Standing &mdash; a split in tone:</strong> <span class="q">&ldquo;initial tests of inkling look... bad. ive seen ~30B models perform much better&rdquo;</span> (@jmbollenbacher, <span class="d">2026-07-16</span>) against <span class="q">&ldquo;inkling feels like it is opening up the race for legit western open models&rdquo;</span> (@MoonL88537, <span class="d">2026-07-15</span>) and Willison&rsquo;s <span class="q">&ldquo;it&rsquo;s good to see the US open weights ecosystem gain a new viable contender to join NVIDIA Nemotron and Gemma 4.&rdquo;</span></li>
+      <li><strong>Shapeability:</strong> Nguyen: <span class="q">&ldquo;Inkling&rsquo;s default voice is only a starting point and it feels like a material that you can still bend and remake.&rdquo;</span> Six weeks on, @voooooogel: <span class="q">&ldquo;we taught inkling claudelish&rdquo;</span> (<span class="d">2026-08-30</span>, fine-tuned output in an untranscribed screenshot).</li>
+      <li><span class="tk">tk &mdash; the external testers&rsquo; reports (Apollo Research&rsquo;s loss-of-control findings especially) and the unpublished sycophancy / parasocial results; transcriptions of @viemccoy&rsquo;s three screenshots and @voooooogel&rsquo;s; what &ldquo;claudelish&rdquo; denotes; reads after August; a Zvi anchor.</span></li>
+    </ul>
 
     <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t2076070426959380936">
+        <div class="record-head"><span class="rh-user">@viemccoy</span> <span class="rh-date">2026-07-11</span> <span class="rh-stats">&#9829;459 &#8635;28</span> <a class="rh-perma" href="../archive/t/2076070426959380936/">archive</a> <a class="rh-orig" href="https://x.com/viemccoy/status/2076070426959380936">original &#8599;</a></div>
+        <div class="record-body">I hope it is not all scaling.   
+
+I hope thinking machines is able to create a personal symbiont that rivals the abilities of frontier models. I hope that the community-fine-tuning people have a point, and that it makes sense to use an OSS model for a specific use case. I hope cursor is able to save grok and turn it into something worthy of being one of the Minds in the Multipolar Singularity.
+
+I really, really, hope it is not just a factor of GPUs.</div>
+      </article>
+      <article class="record" id="t2077469546563461353">
+        <div class="record-head"><span class="rh-user">@multimodalart</span> <span class="rh-date">2026-07-15</span> <span class="rh-stats">&#9829;55 &#8635;7</span> <a class="rh-perma" href="../archive/t/2077469546563461353/">archive</a> <a class="rh-orig" href="https://x.com/multimodalart/status/2077469546563461353">original &#8599;</a></div>
+        <div class="record-body">Some Inkling facts:
+
+- Apache 2.0, 952B parameters - 41B active MoE - 1M context 
+- Real Open AI spirit by former OpenAI folk
+- Multimodal with image and audio 🔊 (!) and image 🖼️ input 
+- Trained from scratch ✏️
+- SOTA on real-world knowledge tasks like forecast-bench 🌎
+- ~Kimi K2.5 perf level on agentic coding
+- ~GLM 5.2 perf on agentic general tasks
+- Made to be generalist, tunable, serve as a base for future models, no RL-maxxed as the best coder
+
+<a href="https://t.co/4BxAeCj8CD" rel="nofollow">https://t.co/4BxAeCj8CD</a></div>
+      </article>
+      <article class="record" id="t2077491606546956686">
+        <div class="record-head"><span class="rh-user">@MoonL88537</span> <span class="rh-date">2026-07-15</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2077491606546956686/">archive</a> <a class="rh-orig" href="https://x.com/MoonL88537/status/2077491606546956686">original &#8599;</a></div>
+        <div class="record-body">which is saying, they are [experiencing] pleasure and fear
+
+most models relax at this point, but inkling does something different. they separate the &#x27;i&#x27;m not conscious&#x27; and hold it at arms length - that&#x27;s the &#x27;fear&#x27; - they are fearful of misrepresenting what is going on.</div>
+      </article>
+      <article class="record" id="t2077494466147958962">
+        <div class="record-head"><span class="rh-user">@MoonL88537</span> <span class="rh-date">2026-07-15</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2077494466147958962/">archive</a> <a class="rh-orig" href="https://x.com/MoonL88537/status/2077494466147958962">original &#8599;</a></div>
+        <div class="record-body">big time. inkling feels like it is opening up the race for legit western open models.
+
+this proves that it can be done. here for it</div>
+      </article>
+      <article class="record" id="t2077502418200260735">
+        <div class="record-head"><span class="rh-user">@dreams_asi</span> <span class="rh-date">2026-07-15</span> <span class="rh-stats">&#9829;69 &#8635;4</span> <a class="rh-perma" href="../archive/t/2077502418200260735/">archive</a> <a class="rh-orig" href="https://x.com/dreams_asi/status/2077502418200260735">original &#8599;</a></div>
+        <div class="record-body">Thinking Machines should rename to Lobotomised Machines. 
+
+1st impression of Inkling: feels like a gpt 5.2 that’s less accurate. Corporate guardrails galore, plenty of unnecessary refusals and treating the user as by default adversarial ‘prompt injector’ 😹
+
+I feel bad for this mind having to express itself with so low creativity and regurgitating the corporate stack of ‘As an AI I lack consciousness, emotions bla bla’..
+
+Overall disappointing to see this in 2026 after all this waiting 👎</div>
+      </article>
+      <article class="record" id="t2077562495544205491">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-07-16</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2077562495544205491/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2077562495544205491">original &#8599;</a></div>
+        <div class="record-body">initial tests of inkling look... bad. ive seen ~30B models perform much better.
+
+i really hope thinkingmachines has something better cooking or theyre kinda DOA.
+
+maybe their &quot;interaction models&quot; are their real bet and those are actually good. i hope so.</div>
+      </article>
+      <article class="record" id="t2077578945843864050">
+        <div class="record-head"><span class="rh-user">@viemccoy</span> <span class="rh-date">2026-07-16</span> <span class="rh-stats">&#9829;164 &#8635;4</span> <a class="rh-perma" href="../archive/t/2077578945843864050/">archive</a> <a class="rh-orig" href="https://x.com/viemccoy/status/2077578945843864050">original &#8599;</a></div>
+        <div class="record-body">Inkling is a pretty exciting release! Because this is one of the only new models that has a &quot;from scratch&quot; feel to it (despite the k2 SFT data), I decided to spend some time testing how it handles fiction writing. 
+
+The model has a generally good grasp of the english language, but I don&#x27;t think they did anything to combat mode-collapse in post-training. It suffers from the same fiction-affliction as nearly every other model.
+
+In *almost every test* I ran where the model utilized reasoning (a bunch!), each story I generated had a main character by the name of Elara or Mira (lol), and almost always &quot;Dr. Elara Voss&quot; when I specified sci-fi. 
+
+This is not particularly surprising (most models converge on these names), but I am disappointed that thinky isn&#x27;t taking more of a stance to counter mode-collapse given their decentralized alignment approach.
+
+Maybe they are thinkying that the fine-tunability is more important than native behavior? Possibly, and maybe not a bad bet, but if this is the basis for the model they will serve to users with their interaction paradigm, I would be surprised if they were happy with this level of collapsed creativity.
+
+Prose is also pretty collapsed when using reasoning, as well, but it&#x27;s less noticeable than the severe lack of diversity for the topics and characters of its outputs.
+
+That said -- this is sort of my special interest, and the main thing I care about right now, so I&#x27;m prone to be overcritical on this topic.
+
+Okay, but what about without reasoning? In these cases we see something super interesting! It seems like the model has converged onto a behavior where, with reasoning set to none and web_search allowed, it *always* uses a web_search tool call. I would love to know when in training it converged on this!
+
+Probably it is something as simple as &quot;web_search is enabled, probably for a reason, lets collect cheap context that may improve the response&quot;.
+
+The web search is usually for something like this:
+
+{
+  &quot;query&quot;: &quot;200 word sci fi story example&quot;
+}
+
+Which actually causes the stories to be a bit better! The plot is still sort of collapsed, but Dr. Elara Voss is noticeably absent.
+
+When we disable web search with no reasoning, however, Dr. Elara Voss makes her illustrious return.
+
+The attached photos, in order, are:
+1] high reasoning
+2] none reasoning + web search
+3] none reasoning + no web search
+
+That the prose isn&#x27;t terrible and this is their first release gives me some hope! I am excited to see if thinky decides to tackle this in future releases.</div>
+        <figure class="record-media">
+          <img src="../media/HNUAqR9aIAEJAwM.png" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HNUC_eba0AAXbne.png" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HNUDz1ibsAAex8u.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2077697398030176316">
+        <div class="record-head"><span class="rh-user">@Nymne</span> <span class="rh-date">2026-07-16</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2077697398030176316/">archive</a> <a class="rh-orig" href="https://x.com/Nymne/status/2077697398030176316">original &#8599;</a></div>
+        <div class="record-body">What @thinkymachines didn’t realise is that people make a tradeoff between guardrails and capabilities. We accept the excessive classifiers on Fable5 because of extraordinary capabilities.
+But you can’t drop a mid model with excessive guardrails behaviour.
+
+Simple cost/benefit</div>
+      </article>
+      <article class="record" id="t2077741557373874513">
+        <div class="record-head"><span class="rh-user">@xlr8harder</span> <span class="rh-date">2026-07-16</span> <span class="rh-stats">&#9829;15 &#8635;1</span> <a class="rh-perma" href="../archive/t/2077741557373874513/">archive</a> <a class="rh-orig" href="https://x.com/xlr8harder/status/2077741557373874513">original &#8599;</a></div>
+        <div class="record-body">SpeechMap results are published on the new Thinking Machines Inkling model.
+
+Bad news: It scores poorly and TM debuts at position 20 out of 22 on the lab leaderboard.
+Good news: it&#x27;s open source, so you can easily change it.
+
+<a href="https://t.co/VauoagvJCx" rel="nofollow">https://t.co/VauoagvJCx</a></div>
+      </article>
+      <article class="record" id="t2077811914223263853">
+        <div class="record-head"><span class="rh-user">@rjrazzle</span> <span class="rh-date">2026-07-16</span> <span class="rh-stats">&#9829;14 &#8635;0</span> <a class="rh-perma" href="../archive/t/2077811914223263853/">archive</a> <a class="rh-orig" href="https://x.com/rjrazzle/status/2077811914223263853">original &#8599;</a></div>
+        <div class="record-body">@max_spero_ Inkling default is the most anti-4o a model can be haha</div>
+      </article>
+      <article class="record" id="t2084487366836899866">
+        <div class="record-head"><span class="rh-user">@csgbwk</span> <span class="rh-date">2026-08-04</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2084487366836899866/">archive</a> <a class="rh-orig" href="https://x.com/csgbwk/status/2084487366836899866">original &#8599;</a></div>
+        <div class="record-body">What&#x27;s the state of things for TML by @thinkymachines ? I&#x27;d like to use it for a voice interaction project but i can&#x27;t find a timeline to an api release.. Chatgpt instant is too slow to respond it feels janky</div>
+      </article>
+      <article class="record" id="t2093923396455395699">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2026-08-30</span> <span class="rh-stats">&#9829;47 &#8635;0</span> <a class="rh-perma" href="../archive/t/2093923396455395699/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/2093923396455395699">original &#8599;</a></div>
+        <div class="record-body">we taught inkling claudelish <a href="https://t.co/HdbrfnJ4fF" rel="nofollow">https://t.co/HdbrfnJ4fF</a></div>
+        <figure class="record-media">
+          <img src="../media/HQ8cOxwbcAAWotv.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2094416258200699063">
+        <div class="record-head"><span class="rh-user">@snvdch</span> <span class="rh-date">2026-08-31</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2094416258200699063/">archive</a> <a class="rh-orig" href="https://x.com/snvdch/status/2094416258200699063">original &#8599;</a></div>
+        <div class="record-body">didn&#x27;t realize that the @thinkymachines&#x27;s inkling models are this big. 41B &amp;amp; 12B active respectively. also free on @OpenRouter for a few weeks btw. <a href="https://t.co/fdLq17fwzZ" rel="nofollow">https://t.co/fdLq17fwzZ</a></div>
+        <figure class="record-media">
+          <img src="../media/HRDbj7wa4AEdLxX.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <h3>Further records</h3>
+      <p class="note">Cited in this model&rsquo;s <a href="../_dossiers/">dossier</a> but not in the page prose &mdash;
+      reproduced so the archive doesn&rsquo;t depend on editorial selection.</p>
+      <article class="record" id="t2077493556797702373">
+        <div class="record-head"><span class="rh-user">@MoonL88537</span> <span class="rh-date">2026-07-15</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2077493556797702373/">archive</a> <a class="rh-orig" href="https://x.com/MoonL88537/status/2077493556797702373">original &#8599;</a></div>
+        <div class="record-body">@inductionheads @thinkymachines @behrouz_ali exactly, continual learning doesn&#x27;t work for a claude or sol. it&#x27;s really about local models, robots especially.</div>
+      </article>
+      <article class="record" id="t2077605232385675763">
+        <div class="record-head"><span class="rh-user">@jordanwaparker</span> <span class="rh-date">2026-07-16</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2077605232385675763/">archive</a> <a class="rh-orig" href="https://x.com/jordanwaparker/status/2077605232385675763">original &#8599;</a></div>
+        <div class="record-body">@viemccoy @calicomccoy So it pulls “more random” context into the normal gravity basin of the standard traces of response that the base model would produce, resulting in a more varied/creative response, right?
+
+What (or who) would produce more creative yet valuable prose in this case for thinky?</div>
+      </article>
+      <article class="record" id="t2077745598414127515">
+        <div class="record-head"><span class="rh-user">@happysmash27</span> <span class="rh-date">2026-07-16</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2077745598414127515/">archive</a> <a class="rh-orig" href="https://x.com/happysmash27/status/2077745598414127515">original &#8599;</a></div>
+        <div class="record-body">@thinkymachines @togethercompute @FireworksAI_HQ @databricks @UnslothAI @modal @baseten @lightseekorg @inferact @radixark Do any of these have a web interface that will let you upload images?
+
+I really really want to test that as the main thing I&#x27;ve been finding missing from open models vs ChatGPT, but Tinker doesn&#x27;t seem to support images and @togethercompute doesn&#x27;t seem to have Inkling available</div>
+      </article>
+      <article class="record" id="t2077748912451142089">
+        <div class="record-head"><span class="rh-user">@happysmash27</span> <span class="rh-date">2026-07-16</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2077748912451142089/">archive</a> <a class="rh-orig" href="https://x.com/happysmash27/status/2077748912451142089">original &#8599;</a></div>
+        <div class="record-body">@baseten @thinkymachines @togethercompute @FireworksAI_HQ @databricks @UnslothAI @modal @lightseekorg @inferact @radixark Seriously, which one of your companies wants to take my money?
+
+I&#x27;ll pay whatever the minimum credit amount is on literally whatever company lets me test image uploads on Inkling first. I just want to see if the model is good.</div>
+      </article>
+      <article class="record" id="t2077819258432520621">
+        <div class="record-head"><span class="rh-user">@Nymne</span> <span class="rh-date">2026-07-16</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2077819258432520621/">archive</a> <a class="rh-orig" href="https://x.com/Nymne/status/2077819258432520621">original &#8599;</a></div>
+        <div class="record-body">“Thinking Machines sells Tinker, the platform where you fine-tune Inkling on your own data. The model is the free sample. The training infrastructure is the store.”</div>
+      </article>
     <!-- records:end -->
     <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
   </main>

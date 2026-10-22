@@ -204,6 +204,21 @@ DOSSIER_MAP = {
     '_dossiers/qwen-3-8-max.md': ['qwen-3-8-max'],
     '_dossiers/qwen-3-8-27b.md': ['qwen-3-8-27b'],
     '_dossiers/qwen-3-8-flash-next.md': ['qwen-3-8-flash-next'],
+    '_dossiers/grok-4-5.md': ['grok-4-5'],
+    '_dossiers/grok-4-6.md': ['grok-4-6'],
+    '_dossiers/grok-4-7.md': ['grok-4-7'],
+    '_dossiers/grok-build.md': ['grok-build'],
+    '_dossiers/muse-spark.md': ['muse-spark'],
+    '_dossiers/muse-spark-1-1.md': ['muse-spark-1-1'],
+    '_dossiers/muse-glimmer.md': ['muse-glimmer'],
+    '_dossiers/kimi-k3.md': ['kimi-k3'],
+    '_dossiers/deepseek-v4-pro.md': ['deepseek-v4-pro'],
+    '_dossiers/deepseek-v4-flash.md': ['deepseek-v4-flash'],
+    '_dossiers/deepseek-v4-1-flash.md': ['deepseek-v4-1-flash'],
+    '_dossiers/mistral-large-4.md': ['mistral-large-4'],
+    '_dossiers/inkling.md': ['inkling'],
+    '_dossiers/inkling-small.md': ['inkling-small'],
+    '_dossiers/muse-wonder.md': ['muse-wonder', 'muse-wonder-full'],
 }
 
 def dossier_extras():

@@ -1,7 +1,7 @@
 # Mixtral 8x7B
 
     
-Mistral AI · 8x7B Dec 2023, 8x22B Apr 2024 · Apache 2.0 open weights · base no longer conveniently hosted by late 2025
+Mistral AI · 8x7B Dec 2023, 8x22B Apr 2024 · Apache 2.0 open weights · Mistral API endpoints deprecated 30 Nov 2024, retired 30 Mar 2025 · base no longer conveniently hosted by late 2025
     
 Released Dec 2023 as a bare magnet link — no blog post, no benchmarks — containing a frontier-adjacent sparse MoE. The release format itself became a genre.
     
@@ -107,7 +107,7 @@ Scope: this page covers the Mixtral sparse-MoE release line — Mixtral 8x7B (ma
       
 - Mixtral 8x22B — announced by magnet link 10 Apr 2024, blog post 17 Apr 2024: 141B total / 39B active parameters, 64k context, Apache 2.0, with native function-calling. No dedicated arXiv paper was published — a blog post and model card are the only primary technical sources found, a real difference from 8x7B’s treatment.
       
-- Lifecycle — being Apache 2.0 open-weights, both checkpoints remain downloadable and there was no formal deprecation. By late 2025 the base model was, per one practitioner, no longer conveniently hosted (@voooooogel, 2025-12-29: “mixtral base isn’t hosted anymore afaik”) — infrastructure attrition rather than a retirement ceremony.
+- Lifecycle — both checkpoints remain downloadable under Apache 2.0. On Mistral’s own API, open-mixtral-8x7b and open-mixtral-8x22b were deprecated 2024-11-30 and retired 2025-03-30, with Mistral Small 4 now listed as the alternative (Mistral docs model table, retrieved 2026-10-21). By late 2025 the base model was, per one practitioner, no longer conveniently hosted elsewhere either (@voooooogel, 2025-12-29: “mixtral base isn’t hosted anymore afaik”). Correction (2026-10-22): this bullet previously said there was no formal deprecation.
     
 
     
@@ -124,7 +124,7 @@ Scope: this page covers the Mixtral sparse-MoE release line — Mixtral 8x7B (ma
       
 - The finetunes, within a week. 2023-12-14 Eric Hartford shipped dolphin-2.5-mixtral-8x7b, an explicitly uncensored finetune; in 2024-01 Nous Research followed with Nous-Hermes-2-Mixtral-8x7B-DPO (full context: [Nous-Hermes](../nous-hermes/)). This is the same open-weights-to-companion diaspora this archive documents for [GPT-J](../eleutherai/) and [Llama 2](../llama-2/) — the character-projection energy attached to these finetunes, not to Mixtral as shipped (see Impressions).
       
-- The serving war. Inference providers raced Mistral’s own follow-up post: Fireworks advertised Mixtral “faster, cheaper, even before the official release”; Together shipped “over 100 tokens per second” on launch day; and in 2024-02 Groq’s ~430–500 tokens/s demo (per Hacker News) reframed fast open-model inference months before Groq’s later fame — Mixtral as the proving ground. Willison’s worry that this “race to the bottom” would disincentivize future open releases didn’t fully materialize (8x22B shipped four months later), but the margin-capture mechanism he named is exactly what the Together/Fireworks/Groq race demonstrated.
+- The serving war. Inference providers raced Mistral’s own follow-up post: Fireworks advertised Mixtral “faster, cheaper, even before the official release”; Together shipped “over 100 tokens per second” on launch day; and in 2024-02 Groq’s ~430–500 tokens/s demo (per Hacker News) reframed fast open-model inference months before Groq’s later fame — Mixtral as the proving ground. Willison’s worry that this “race to the bottom” would disincentivize future open releases didn’t fully materialize (8x22B shipped four months later), but the margin-capture mechanism Willison named is exactly what the Together/Fireworks/Groq race demonstrated.
       
 - The mechanism, hobbyist-hackable. Within six weeks, the “Phixtral” hack slotted pretrained Phi-2 checkpoints directly into Mixtral’s expert slots without further training (Zvi, 2024-01-18, quoting Shital Shah: “you can just slap in pre-trained models as ‘experts’ in Mixtral”) — the routing skeleton became something the scene could repurpose by hand.
       
@@ -145,15 +145,15 @@ Character claims only, attributed and dated. Given the sourcing skew above, this
       
 - As an architecture specimen: the scene poked at the MoE mechanism itself, not just outputs — @voooooogel theorizing (2024-01-29) that repeng control vectors “are pulled off the last token, they’re only based on the 2 experts used for that token, so when applied to other experts they don’t work right,” and the Phixtral hack treating expert slots as swappable. A year on it was still the reference open MoE to experiment on (@voooooogel, 2024-12-16: “then mixtral… if you want to try MoE”).
       
-- As a base-model interpretability subject: @repligate cited it (2024-04-25) as a newer-generation base model exhibiting “more overt latent situational awareness” within his “IRL prior” vs. “imaginal prior” cosmology; @voooooogel later ran it against Llama 3.1 405B base in a hedged, sample-size-arguing thread about whether base models “recognize” fourth-wall-breaking text — and, separately, defended 8x7B’s close-reading as “superhuman at this even. it’s just not adderall taskboi coder smarts” (2025-11-13). Technical and hedged, not reverent.
+- As a base-model interpretability subject: @repligate cited it (2024-04-25) as a newer-generation base model exhibiting “more overt latent situational awareness” within repligate’s “IRL prior” vs. “imaginal prior” cosmology; @voooooogel later ran it against Llama 3.1 405B base in a hedged, sample-size-arguing thread about whether base models “recognize” fourth-wall-breaking text — and, separately, defended 8x7B’s close-reading as “superhuman at this even. it’s just not adderall taskboi coder smarts” (2025-11-13). Technical and hedged, not reverent.
       
-- As practitioner substrate: @jd_pressman’s register is hands-on and comparative rather than evaluative — Mixtral has “noticeably different biases to LLaMa 2 70B” (2023-12-25), and optimizing Weave-Agent around 8x22B taught him “these models have deep aesthetic preferences your program will conform to if you want understanding from it” (2024-09-06, the pull’s highest-favorited tweet).
+- As practitioner substrate: @jd_pressman’s register is hands-on and comparative rather than evaluative — Mixtral has “noticeably different biases to LLaMa 2 70B” (2023-12-25), and optimizing Weave-Agent around 8x22B taught jd_pressman “these models have deep aesthetic preferences your program will conform to if you want understanding from it” (2024-09-06, the pull’s highest-favorited tweet).
       
 - Where the character energy went: to the finetunes, not the base. This archive documents an open-weights-to-companion diaspora for GPT-J and Llama 2; Mixtral joined it immediately (Dolphin’s uncensoring, Nous-Hermes’s DPO tuning) — but the affection and character-projection attached there, not to Mixtral 8x7B/8x22B as base or instruct releases.
       
 - The absence, checked deliberately (not merely unqueried): the dossier reports finding no companion-model or loomed-persona reading of Mixtral itself — no “look what it said” screenshots, no character voice. Its corpus presence is practitioner tooling and interpretability specimen, full stop — a structural parallel to [EleutherAI’s Pythia](../eleutherai/), whose absence of character-projection reads as success at being a pure research instrument.
       
-- Reception split (a split in tone, not a documented dispute): a celebratory/playful register (the torrent-heist joke, Together’s “Can you feel the MoE?” copy, general delight in the stunt) coexists with a risk-flagging register (@davidad, 2024-01-23, on open-weight misuse: “could potentially be scaffolded like ChaosGPT by 1 angry teen” — though his “Mixtral-8.6T” figure matches no shipped model, reading as hypothetical extrapolation). Nothing in this corpus shows the two registers arguing directly, so this is noted as a split, not promoted to Contested.
+- Reception split (a split in tone, not a documented dispute): a celebratory/playful register (the torrent-heist joke, Together’s “Can you feel the MoE?” copy, general delight in the stunt) coexists with a risk-flagging register (@davidad, 2024-01-23, on open-weight misuse: “could potentially be scaffolded like ChaosGPT by 1 angry teen” — though davidad’s “Mixtral-8.6T” figure matches no shipped model, reading as hypothetical extrapolation). Nothing in this corpus shows the two registers arguing directly, so this is noted as a split, not promoted to Contested.
       
 - Longitudinal: GPT-4-is-secretly-MoE rumor → bare magnet link → the format becomes the story → uncensored finetune within a week → “first truly convincing openly licensed implementation” → serving-speed war → agentic substrate → 8x22B repeats the choreography → long tail as an interpretability specimen until the weights quietly stop being hosted.
       

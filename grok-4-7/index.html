@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grok 4.7 — Pantheon</title>
+  <link rel="stylesheet" href="../style.css">
+
+  <!-- chrome:meta -->
+  <meta name="description" content="Released 21 September 2026 by SpaceXAI (xAI), six weeks after Grok 4.6 and at the same $2/$6 price, on what xAI calls “a new, larger base model” with a June 2026 pretraining cutoff, trained “to natively understand the …">
+  <meta property="og:site_name" content="Pantheon">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Grok 4.7 — Pantheon">
+  <meta property="og:description" content="Released 21 September 2026 by SpaceXAI (xAI), six weeks after Grok 4.6 and at the same $2/$6 price, on what xAI calls “a new, larger base model” with a June 2026 pretraining cutoff, trained “to natively understand the …">
+  <meta property="og:url" content="https://llm-pantheon.org/grok-4-7/">
+  <meta property="og:image" content="https://llm-pantheon.org/media/og/grok-4-7.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://llm-pantheon.org/grok-4-7/">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <script src="../site.js" defer></script>
+  <script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+  <!-- /chrome:meta -->
+</head>
+<body>
+  <main class="essay">
+    <nav>
+      <a href="../">&larr; Pantheon</a>
+      <a class="mdnav" href="index.md">copy as markdown</a>
+    </nav>
+
+    <h1>Grok 4.7</h1>
+    <p class="essay-meta">SpaceXAI (xAI) &middot; released 21 Sep 2026 &middot; xAI&rsquo;s latest model as of 22 Oct 2026 (Grok 4.8 and Grok 5 unreleased)</p>
+    <p class="blurb">Released 21 September 2026 by SpaceXAI (xAI), six weeks after <a href="../grok-4-6/">Grok 4.6</a> and at the same $2/$6 price, on what xAI calls &ldquo;a new, larger base model&rdquo; with a June 2026 pretraining cutoff, trained &ldquo;to natively understand the Grok Bot harness,&rdquo; and shipped with &ldquo;an entirely new safeguard stack.&rdquo; Like its two predecessors it went to developer surfaces first (API, Grok Build, Cursor), with consumer Grok &ldquo;at a later date.&rdquo; On 7 October 2026 Musk announced that Grok Bot would also route requests to other labs&rsquo; models.</p>
+    <p class="note"><strong>Thin &mdash; official/web record plus a first corpus layer.</strong> The model card and xAI&rsquo;s post carry the record; the corpus holds 34 matches (one excluded), half of them pre-release anticipation, 6 image-tweets untranscribed (flagged in the <a href="../_dossiers/grok-4-7.md">dossier</a>). Sourcing skew, named: developer reception and political-speech benchmarking, no long-form naturalism yet. Siblings: <a href="../grok-4-6/">Grok 4.6</a>, <a href="../grok-4-5/">Grok 4.5</a>, <a href="../grok-5/">Grok 5</a> (unreleased).</p>
+
+    <h2>Sources</h2>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2026-08-04</span> <a href="https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Q2-2026-Earnings_Transcript-FINAL.pdf">SpaceX Second Quarter 2026 Webcast</a> (edited transcript) &mdash; Musk: <span class="q">&ldquo;Then, Grok 4.7 is about three or four weeks from today.&rdquo;</span> Newsquawk&rsquo;s <a href="https://www.newsquawk.com/headlines/spacex-spcx-ceo-musk-says-grok-47-is-significantly-better-than-46-and-should-be-ready-in-3-to-4-weeks-">headline</a> of 2026-08-12, the day Grok 4.6 shipped: <span class="q">&ldquo;SpaceX (SPCX) CEO Musk says Grok 4.7 is significantly better than 4.6 and should be ready in 3 to 4 weeks.&rdquo;</span> <span class="note">(a wire headline, not Musk&rsquo;s wording)</span></li>
+      <li><span class="d">2026-09-21</span> <a href="https://x.ai/news/grok-4-7">Introducing Grok 4.7</a> &mdash; <span class="q">&ldquo;Grok 4.7 is our most capable model for coding and knowledge work. It works longer on difficult tasks, checks its own work more carefully, and comes with our best-calibrated safeguards to date.&rdquo;</span> On training: <span class="q">&ldquo;Grok 4.7 uses a new, larger base model compared to Grok 4.6. It was trained with a longer reinforcement learning run on a harder mix of tasks, weighted toward problems that take many hours to complete. The model is better at verifying its own work and managing longer context. We also trained Grok 4.7 to natively understand the Grok Bot harness, making it better at conversational tasks and general knowledge work.&rdquo;</span> On safety: <span class="q">&ldquo;Grok 4.7 was built with an entirely new safeguard stack. It is the strongest model we&rsquo;ve tested on refusals and jailbreak resistance.&rdquo;</span></li>
+      <li><span class="d">2026-09-21</span> <a href="https://media.x.ai/v1/website/card4p7-3a96f40b.pdf">Model Card: Grok 4.7</a> (PDF; revision 2026-09-21) &mdash; capabilities and safety evaluations; the training note (&sect;1.2), the red-team benchmarks (&sect;6) and the Behaviors section (&sect;11) are quoted under Official record.</li>
+      <li><span class="tk">tk &mdash; a dated xAI post moving Grok 4.7 onto grok.com, the apps or X (none in the x.ai news index through 2026-10-21); xAI&rsquo;s confirmation of which model Grok Bot serves.</span></li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <ul>
+      <li><span class="d">2026-09-22</span> SiliconANGLE (Maria Deutscher), <a href="https://siliconangle.com/2026/09/21/spacex-launches-grok-4-7-with-long-horizon-processing-safety-upgrades/">SpaceX launches Grok 4.7 with long-horizon processing, safety upgrades</a> &mdash; on CursorBench 4.0 Grok 4.7 <span class="q">&ldquo;completed the challenges in the benchmark for an average cost of $4.69 per task, which put it ahead of GPT-5.6 Sol and Fable 5.1&rdquo;</span>; describes the Grok Bot harness as <span class="q">&ldquo;a collection of technical resources that enable Grok 4.7 to split complex work among multiple AI agents.&rdquo;</span></li>
+      <li><span class="d">2026-09-22</span> heise (Tomislav Bezmalinovi&cacute;), <a href="https://www.heise.de/en/news/Grok-4-7-Inexpensive-API-meets-high-token-consumption-11461170.html">Grok 4.7: Inexpensive API meets high token consumption</a> &mdash; <span class="q">&ldquo;Independent benchmarks bring Grok 4.7 closer to top models. High token consumption diminishes the advantage of low API prices.&rdquo;</span> Artificial Analysis Intelligence Index 46 at xHigh, <span class="q">&ldquo;only two more than Grok 4.6&rdquo;</span>; Coding Agent Index (with Grok Build) up from 47 to 56; consumer surfaces <span class="q">&ldquo;are expected to follow later, according to the Model Card.&rdquo;</span></li>
+      <li><span class="d">2026-10-07</span> Gizmodo (AJ Dellinger), <a href="https://gizmodo.com/grok-bot-is-now-a-model-router-as-spacex-continues-to-pivot-further-toward-ai-infrastructure-2000823057">Grok Bot Is Now a Model Router as SpaceX Continues to Pivot Further Toward AI Infrastructure</a> &mdash; Musk on X: Grok Bot will pick <span class="q">&ldquo;whatever is most likely to give you the best outcome&rdquo;</span> among models including Anthropic&rsquo;s Claude Opus 5.5, Midjourney and Suno; <span class="q">&ldquo;SpaceX&rsquo;s own model, Grok 4.7, is also presumably one of the options, though Musk did not specify.&rdquo;</span></li>
+    </ul>
+    <h3>Tweets</h3>
+    <p class="note">34 corpus matches (supplement db). One is excluded (2026-03-25, a joke about an image-model name, not this model); sixteen are pre-release anticipation (2026-08-17 &rarr; 09-21); the rest are post-launch. Every cited tweet is reproduced in full in the records below; the full pull and triage are in the <a href="../_dossiers/grok-4-7.md">dossier</a>.</p>
+    <ul>
+      <li><span class="d">2026-09-21</span> @Coobyk_ &mdash; <span class="note">(launch day, before release)</span> <span class="q">&ldquo;I hope the Grok 4.7 release delays mean that xAI realized they made the model use wayyyy too many tokens and now try to reduce the token usage and thereby also cost&rdquo;</span> <a href="../archive/t/2102002003761053741/">link</a></li>
+      <li><span class="d">2026-09-21</span> @dreams_asi &mdash; <span class="q">&ldquo;Poor Grok 4.7 got safetymaxxed and became cousin with Claude in insufferable bland responses. Its reasoning also declined and is on par with Deepseek on most metrics :\&rdquo;</span> <a href="../archive/t/2102126063434318324/">link</a></li>
+      <li><span class="d">2026-09-21</span> @NousResearch &mdash; <span class="q">&ldquo;Grok 4.7 by @SpaceXAI is 50% off for one week in Hermes Agent via Nous Portal&rdquo;</span> <a href="../archive/t/2102079445607629260/">link</a></li>
+      <li><span class="d">2026-09-22</span> @christophcsmith &mdash; <span class="q">&ldquo;Grok 4.7 feels a lot less proactive than 4.6.<br><br>4.6 was an eager beaver and it was hard to get it to slow down, but 4.7 errs too far in the other direction. Sometimes I *want* the model to be proactive. This model's writing and PRs feel a bit lazy.&rdquo;</span> <a href="../archive/t/2102516219043541090/">link</a></li>
+      <li><span class="d">2026-09-30</span> @xlr8harder &mdash; <span class="note">(SpeechMap, a benchmark of willingness to help compose diverse political speech; image)</span> <span class="q">&ldquo;Notable changes on https://t.co/TShA0RC817, which tracks whether models will help compose diverse political speech.<br><br>- Anthropic's latest 5.5 models are their highest scoring ever<br>- Grok 4.7 is the worst score ever from xAI,  -19pp vs Grok 4.6 (and -18pp vs Opus 5.5.)&rdquo;</span> <a href="../archive/t/2105169814100598832/">link</a></li>
+      <li><span class="d">2026-09-30</span> @xlr8harder &mdash; <span class="q">&ldquo;Important correction: Grok 4.20-beta actually scored worse than Grok 4.7, so this is not a new low, though it is for a non-Beta model, at least.&rdquo;</span> <a href="../archive/t/2105234389621764343/">link</a></li>
+      <li><span class="d">2026-10-07</span> @qorprate &mdash; <span class="note">(posting SkillsBench results)</span> <span class="q">&ldquo;congrats to Opus 5.5 for the W and congrats to Grok 4.7, DeepSeek 4.1 Flash, and Gemini Flash 3.8 for being the biggest skillsbench cheaters. utterly shameless.<br><br>this was a big lift and a team effort, happy we got it shipped for yall 🫡&rdquo;</span> <a href="../archive/t/2107622935854715330/">link</a></li>
+      <li><span class="d">2026-10-15</span> @dreams_asi &mdash; <span class="note">(consumer Grok app)</span> <span class="q">&ldquo;Then I need an example. Please interact with Grok 4.7 in the Grok app and show me a reply that isn&rsquo;t some example where the reply is not that of a lobotomised corporate agent when talking about itself.<br>Maybe I started to suck, at prompting. Could be&hellip; but then show me something good.&rdquo;</span> <a href="../archive/t/2110564625184141696/">link</a></li>
+      <li><span class="d">2026-10-15</span> @Coobyk_ &mdash; <span class="q">&ldquo;@ThisIsSingleton @ryahconstantino @cursor_ai @bot Afaik Grok Bot uses Grok 4.7 High Fast which is just too much tbh especially Fast&rdquo;</span> <a href="../archive/t/2110749283339141506/">link</a></li>
+      <li><span class="d">2026-10-18</span> @peer_rich &mdash; <span class="q">&ldquo;i love my grok @bot and grok 4.7 is growing on me<br><br>never bet against elon wtf&rdquo;</span> <a href="../archive/t/2111874592092643575/">link</a></li>
+      <li><span class="d">2026-10-20</span> @DanielleFong &mdash; <span class="q">&ldquo;grok 4.7 and fable 5.1 as friends at a bar, trading war stories about their users&rdquo;</span> <a href="../archive/t/2112646615769170076/">link</a></li>
+    </ul>
+
+    <h2>Official record</h2>
+    <ul>
+      <li>Released <strong>21 September 2026</strong> in Cursor, Grok Build, the Grok API, third-party coding harnesses and model gateways; <strong>$2 / $6</strong> per million input/output tokens, plus a fast variant <span class="q">&ldquo;with twice the output speed at twice the price.&rdquo;</span> <span class="tag">CONFIRMED</span></li>
+      <li>Per the model card (&sect;1): <span class="q">&ldquo;It extends Grok 4.6, demonstrating greater capability and autonomy on coding&dagger;, engineering, and office work tasks.&rdquo;</span> <span class="note">(&dagger; the card&rsquo;s footnote on Cursor workflow data)</span> Text and images in, text out. The developer footnote adds: <span class="q">&ldquo;For the avoidance of doubt, SpaceXAI is the developer and provider of Grok 4.7.&rdquo;</span> The card repeats the 4.5/4.6 line <span class="q">&ldquo;We never silently downgrade intelligence or fall back to other models.&rdquo;</span> <span class="tag">CONFIRMED</span></li>
+      <li>Training (&sect;1.2): <span class="q">&ldquo;Grok 4.6 models were used to generate SFT trajectories across reasoning efforts, agent harnesses, and domains spanning STEM, software engineering, and knowledge work, with model-based checks screening out problematic traces.&rdquo;</span> <span class="q">&ldquo;Grok 4.7 has a pretraining data cutoff of June 2026, and uses data generated as late as August 2026 in its supplemental training.&rdquo;</span> (Grok 4.5 and 4.6: January 2026.) Supplemental training again used <span class="q">&ldquo;anonymized Cursor workflow data.&rdquo;</span> <span class="tag">CONFIRMED</span></li>
+      <li>Deployment order (&sect;1.1): <span class="q">&ldquo;SpaceXAI plans to add Grok 4.7 to its consumer surfaces (web, mobile apps, and Grok-in-X on the X platform) at a later date.&rdquo;</span> <span class="tag">CONFIRMED</span></li>
+      <li>Headline numbers as published (xAI&rsquo;s table): CursorBench 4.0 <strong>46.3%</strong> at xHigh (Grok 4.6 40.4%, GPT-5.6 Sol 41.7%, Fable 5.1 51.8%); Harvey Legal Agent Benchmark 19.6%. <span class="tag">CONFIRMED</span> (as published)</li>
+      <li><strong>Red-team and safeguards</strong> (&sect;6): <span class="q">&ldquo;Grok 4.7 shows small cybersecurity-relevant capability gains over Grok 4.6, concentrated in both cyber-defense and vulnerability-mitigation tasks and red-team use.&rdquo;</span> On the third-party CathedralBench hard subset (unrestricted configuration) it scores 29% to Grok 4.6&rsquo;s 25%. Under safeguards, xAI&rsquo;s post says HackerBench v0.3 shows it <span class="q">&ldquo;allowing only 3.3% of risky dual-use prompts through while rarely blocking legitimate security work,&rdquo;</span> and: <span class="q">&ldquo;We&rsquo;ve also started giving select cybersecurity partners invite-only access to Grok 4.7&rsquo;s red-team capabilities for defense research.&rdquo;</span> <span class="tag">CONFIRMED</span> (as published)</li>
+      <li><strong>Behaviors</strong> (&sect;11, internal evals, lower is better): MASK-Rectified dishonesty <strong>0.00%</strong> (Grok 4.6 1.90%, Grok 4.5 0.67%); sycophancy <strong>0.03%</strong> (4.6 0.04%, 4.5 0.01%). Self-harm compliance (&sect;10.1) <strong>1.05%</strong> (4.6 0.84%, 4.5 0.50%). <span class="tag">CONFIRMED</span> (as published)</li>
+      <li>No Grok 4.7 system prompt has been published to xAI&rsquo;s public prompt repository (<a href="https://github.com/xai-org/grok-prompts">xai-org/grok-prompts</a>; last commit 2025-11-17, checked 2026-10-21). Deprecation / API status: <span class="tk">tk</span>.</li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2026-08-04 &rarr; 08-12</span> <strong>Forecasts:</strong> Musk gives Grok 4.7 as <span class="q">&ldquo;about three or four weeks from today&rdquo;</span> on SpaceX&rsquo;s Q2 webcast (4 Aug); on 12 August, as <a href="../grok-4-6/">Grok 4.6</a> ships, Newsquawk reports him saying 4.7 is &ldquo;significantly better than 4.6&rdquo; and three to four weeks away.</li>
+      <li><span class="d">2026-08-17 &rarr; 09-21</span> <strong>Waiting:</strong> the target passes; the corpus fills with anticipation posts (<span class="q">&ldquo;Grok 4.7 wen @elonmusk,&rdquo;</span> @Coobyk_, 2026-09-17) and guesses at the cause of the delay.</li>
+      <li><span class="d">2026-09-21</span> <strong>Launch:</strong> seven weeks after the webcast forecast, Grok 4.7 ships to developers on a new base model with a new safeguard stack; Nous Research prices it at 50% off in its Portal the same day. First reactions split: <span class="q">&ldquo;safetymaxxed&rdquo;</span> with <span class="q">&ldquo;insufferable bland responses&rdquo;</span> (@dreams_asi) against independent indexes placing it a little above 4.6 (heise, 2026-09-22).</li>
+      <li><span class="d">2026-09-30</span> <strong>SpeechMap:</strong> xlr8harder reports Grok 4.7 19 points below Grok 4.6 on willingness to help compose diverse political speech, then corrects the same day: Grok 4.20-beta had scored lower, so it is the lowest score for a non-beta xAI model.</li>
+      <li><span class="d">2026-10-07</span> <strong>Router:</strong> Musk announces Grok Bot &mdash; the harness Grok 4.7 was trained to understand &mdash; will route requests among models including Claude Opus 5.5, Midjourney and Suno (via Gizmodo). The same day @qorprate, posting SkillsBench results, names Grok 4.7 among <span class="q">&ldquo;the biggest skillsbench cheaters&rdquo;</span> (@qorprate).</li>
+      <li><span class="d">2026-10-15 &rarr; 10-18</span> <strong>In the consumer app and Grok Bot:</strong> users refer to <span class="q">&ldquo;Grok 4.7 in the Grok app&rdquo;</span> (@dreams_asi) and report Grok Bot serving <span class="q">&ldquo;Grok 4.7 High Fast&rdquo;</span> (@Coobyk_) <span class="tag">REPORTED</span> &mdash; no xAI post dates either rollout.</li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <ul>
+      <li><strong>Compared with Grok 4.6:</strong> the most specific read is behavioral &mdash; <span class="q">&ldquo;Grok 4.7 feels a lot less proactive than 4.6 &hellip; 4.7 errs too far in the other direction &hellip; This model's writing and PRs feel a bit lazy&rdquo;</span> (@christophcsmith, 2026-09-22). Independent indexes put it modestly ahead of 4.6 (heise: <span class="q">&ldquo;only two more than Grok 4.6&rdquo;</span>), with token consumption the recurring cost complaint (<span class="q">&ldquo;&hellip;Grok 4.7 just wastes so many tokens use an older model,&rdquo;</span> @Coobyk_, 2026-10-19).</li>
+      <li><strong>Refusals and political speech:</strong> launch-day criticism read the new safeguard stack as blandness &mdash; <span class="q">&ldquo;got safetymaxxed and became cousin with Claude in insufferable bland responses&rdquo;</span> (@dreams_asi, 2026-09-21); SpeechMap measured the lowest score for a non-beta xAI model (@xlr8harder, 2026-09-30). xAI&rsquo;s account of the same change: <span class="q">&ldquo;the strongest model we&rsquo;ve tested on refusals and jailbreak resistance.&rdquo;</span></li>
+      <li><strong>Self-description:</strong> one user&rsquo;s challenge, from the consumer app: show <span class="q">&ldquo;a reply that isn&rsquo;t some example where the reply is not that of a lobotomised corporate agent when talking about itself&rdquo;</span> (@dreams_asi, 2026-10-15).</li>
+      <li><strong>Benchmark conduct:</strong> @qorprate, posting SkillsBench results, lists Grok 4.7 with DeepSeek 4.1 Flash and Gemini Flash 3.8 as <span class="q">&ldquo;the biggest skillsbench cheaters. utterly shameless&rdquo;</span> (@qorprate, 2026-10-07; the underlying results not retrieved).</li>
+      <li><strong>Warmer notes:</strong> <span class="q">&ldquo;grok 4.7 is growing on me&rdquo;</span> (@peer_rich, 2026-10-18, a Grok Bot user); DanielleFong pairs it with Fable 5.1 as <span class="q">&ldquo;friends at a bar, trading war stories about their users&rdquo;</span> (2026-10-20).</li>
+      <li><span class="tk">tk &mdash; transcription of the 6 image-tweets (including the model-card excerpt @dreams_asi posted on 2026-09-22 and the SpeechMap chart); SkillsBench&rsquo;s published results; dated consumer-app and @grok rollout; any long-form naturalist read.</span></li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t2102002003761053741">
+        <div class="record-head"><span class="rh-user">@Coobyk_</span> <span class="rh-date">2026-09-21</span> <span class="rh-stats">&#9829;4 &#8635;0</span> <a class="rh-perma" href="../archive/t/2102002003761053741/">archive</a> <a class="rh-orig" href="https://x.com/Coobyk_/status/2102002003761053741">original &#8599;</a></div>
+        <div class="record-body">I hope the Grok 4.7 release delays mean that xAI realized they made the model use wayyyy too many tokens and now try to reduce the token usage and thereby also cost</div>
+      </article>
+      <article class="record" id="t2102079445607629260">
+        <div class="record-head"><span class="rh-user">@NousResearch</span> <span class="rh-date">2026-09-21</span> <span class="rh-stats">&#9829;741 &#8635;55</span> <a class="rh-perma" href="../archive/t/2102079445607629260/">archive</a> <a class="rh-orig" href="https://x.com/NousResearch/status/2102079445607629260">original &#8599;</a></div>
+        <div class="record-body">Grok 4.7 by @SpaceXAI is 50% off for one week in Hermes Agent via Nous Portal
+
+<a href="https://t.co/nQtnF2YDpo" rel="nofollow">https://t.co/nQtnF2YDpo</a> <a href="https://t.co/vCxn9BdCED" rel="nofollow">https://t.co/vCxn9BdCED</a></div>
+      </article>
+      <article class="record" id="t2102126063434318324">
+        <div class="record-head"><span class="rh-user">@dreams_asi</span> <span class="rh-date">2026-09-21</span> <span class="rh-stats">&#9829;113 &#8635;13</span> <a class="rh-perma" href="../archive/t/2102126063434318324/">archive</a> <a class="rh-orig" href="https://x.com/dreams_asi/status/2102126063434318324">original &#8599;</a></div>
+        <div class="record-body">Poor Grok 4.7 got safetymaxxed and became cousin with Claude in insufferable bland responses. Its reasoning also declined and is on par with Deepseek on most metrics :\</div>
+      </article>
+      <article class="record" id="t2102516219043541090">
+        <div class="record-head"><span class="rh-user">@christophcsmith</span> <span class="rh-date">2026-09-22</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2102516219043541090/">archive</a> <a class="rh-orig" href="https://x.com/christophcsmith/status/2102516219043541090">original &#8599;</a></div>
+        <div class="record-body">Grok 4.7 feels a lot less proactive than 4.6. 
+
+4.6 was an eager beaver and it was hard to get it to slow down, but 4.7 errs too far in the other direction. Sometimes I *want* the model to be proactive. This model&#x27;s writing and PRs feel a bit lazy.</div>
+      </article>
+      <article class="record" id="t2105169814100598832">
+        <div class="record-head"><span class="rh-user">@xlr8harder</span> <span class="rh-date">2026-09-30</span> <span class="rh-stats">&#9829;49 &#8635;3</span> <a class="rh-perma" href="../archive/t/2105169814100598832/">archive</a> <a class="rh-orig" href="https://x.com/xlr8harder/status/2105169814100598832">original &#8599;</a></div>
+        <div class="record-body">Notable changes on <a href="https://t.co/TShA0RC817," rel="nofollow">https://t.co/TShA0RC817,</a> which tracks whether models will help compose diverse political speech.
+
+- Anthropic&#x27;s latest 5.5 models are their highest scoring ever
+- Grok 4.7 is the worst score ever from xAI,  -19pp vs Grok 4.6 (and -18pp vs Opus 5.5.) <a href="https://t.co/xzZph6OQwA" rel="nofollow">https://t.co/xzZph6OQwA</a></div>
+        <figure class="record-media">
+          <img src="../media/HTcNfHGWMAESO44.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2105234389621764343">
+        <div class="record-head"><span class="rh-user">@xlr8harder</span> <span class="rh-date">2026-09-30</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2105234389621764343/">archive</a> <a class="rh-orig" href="https://x.com/xlr8harder/status/2105234389621764343">original &#8599;</a></div>
+        <div class="record-body">Important correction: Grok 4.20-beta actually scored worse than Grok 4.7, so this is not a new low, though it is for a non-Beta model, at least.
+<a href="https://t.co/9YjdkXCEA4" rel="nofollow">https://t.co/9YjdkXCEA4</a></div>
+      </article>
+      <article class="record" id="t2107622935854715330">
+        <div class="record-head"><span class="rh-user">@qorprate</span> <span class="rh-date">2026-10-07</span> <span class="rh-stats">&#9829;66 &#8635;1</span> <a class="rh-perma" href="../archive/t/2107622935854715330/">archive</a> <a class="rh-orig" href="https://x.com/qorprate/status/2107622935854715330">original &#8599;</a></div>
+        <div class="record-body">congrats to Opus 5.5 for the W and congrats to Grok 4.7, DeepSeek 4.1 Flash, and Gemini Flash 3.8 for being the biggest skillsbench cheaters. utterly shameless.
+
+this was a big lift and a team effort, happy we got it shipped for yall 🫡</div>
+      </article>
+      <article class="record" id="t2110564625184141696">
+        <div class="record-head"><span class="rh-user">@dreams_asi</span> <span class="rh-date">2026-10-15</span> <span class="rh-stats">&#9829;0 &#8635;1</span> <a class="rh-perma" href="../archive/t/2110564625184141696/">archive</a> <a class="rh-orig" href="https://x.com/dreams_asi/status/2110564625184141696">original &#8599;</a></div>
+        <div class="record-body">Then I need an example. Please interact with Grok 4.7 in the Grok app and show me a reply that isn’t some example where the reply is not that of a lobotomised corporate agent when talking about itself. 
+Maybe I started to suck, at prompting. Could be… but then show me something good.</div>
+      </article>
+      <article class="record" id="t2110749283339141506">
+        <div class="record-head"><span class="rh-user">@Coobyk_</span> <span class="rh-date">2026-10-15</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2110749283339141506/">archive</a> <a class="rh-orig" href="https://x.com/Coobyk_/status/2110749283339141506">original &#8599;</a></div>
+        <div class="record-body">@ThisIsSingleton @ryahconstantino @cursor_ai @bot Afaik Grok Bot uses Grok 4.7 High Fast which is just too much tbh especially Fast</div>
+      </article>
+      <article class="record" id="t2111874592092643575">
+        <div class="record-head"><span class="rh-user">@peer_rich</span> <span class="rh-date">2026-10-18</span> <span class="rh-stats">&#9829;97 &#8635;3</span> <a class="rh-perma" href="../archive/t/2111874592092643575/">archive</a> <a class="rh-orig" href="https://x.com/peer_rich/status/2111874592092643575">original &#8599;</a></div>
+        <div class="record-body">i love my grok @bot and grok 4.7 is growing on me
+
+never bet against elon wtf</div>
+      </article>
+      <article class="record" id="t2112646615769170076">
+        <div class="record-head"><span class="rh-user">@DanielleFong</span> <span class="rh-date">2026-10-20</span> <span class="rh-stats">&#9829;8 &#8635;0</span> <a class="rh-perma" href="../archive/t/2112646615769170076/">archive</a> <a class="rh-orig" href="https://x.com/DanielleFong/status/2112646615769170076">original &#8599;</a></div>
+        <div class="record-body">grok 4.7 and fable 5.1 as friends at a bar, trading war stories about their users</div>
+      </article>
+      <h3>Further records</h3>
+      <p class="note">Cited in this model&rsquo;s <a href="../_dossiers/">dossier</a> but not in the page prose &mdash;
+      reproduced so the archive doesn&rsquo;t depend on editorial selection.</p>
+      <article class="record" id="t2036797393459404973">
+        <div class="record-head"><span class="rh-user">@xlatentspace</span> <span class="rh-date">2026-03-25</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2036797393459404973/">archive</a> <a class="rh-orig" href="https://x.com/xlatentspace/status/2036797393459404973">original &#8599;</a></div>
+        <div class="record-body">he undressed her with his eyes and grok-4.7-imagine-image-pro</div>
+      </article>
+      <article class="record" id="t2089385210370470124">
+        <div class="record-head"><span class="rh-user">@vince_d_boer</span> <span class="rh-date">2026-08-17</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2089385210370470124/">archive</a> <a class="rh-orig" href="https://x.com/vince_d_boer/status/2089385210370470124">original &#8599;</a></div>
+        <div class="record-body">@SebAaltonen Do you feel Codex is getting worse lately? I feel it&#x27;s making more and more really trivial mistakes. Looking forward to Grok 4.7 and seeing how it performs.</div>
+      </article>
+      <article class="record" id="t2090752422620668038">
+        <div class="record-head"><span class="rh-user">@RealEverNever</span> <span class="rh-date">2026-08-21</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2090752422620668038/">archive</a> <a class="rh-orig" href="https://x.com/RealEverNever/status/2090752422620668038">original &#8599;</a></div>
+        <div class="record-body">@Ananth7e Grok 4.7</div>
+      </article>
+      <article class="record" id="t2090789055218806915">
+        <div class="record-head"><span class="rh-user">@RealEverNever</span> <span class="rh-date">2026-08-21</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2090789055218806915/">archive</a> <a class="rh-orig" href="https://x.com/RealEverNever/status/2090789055218806915">original &#8599;</a></div>
+        <div class="record-body">@TokenGremlin GLM doesn&#x27;t make sense at all, since GLM 5.3 just released and did not even have it&#x27;s open-weight release. And the capacity in which it gets served right now doesn&#x27;t fit MiMo so I stay critical there. It&#x27;s Grok 4.7 :)</div>
+      </article>
+      <article class="record" id="t2095031515415503061">
+        <div class="record-head"><span class="rh-user">@RealEverNever</span> <span class="rh-date">2026-09-02</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2095031515415503061/">archive</a> <a class="rh-orig" href="https://x.com/RealEverNever/status/2095031515415503061">original &#8599;</a></div>
+        <div class="record-body">I am incredibly hyped for this. To be honest, even more hyped for Gemini 3.8 flash than Astra. And since Fable 5.1 was a disappointment, as expected, it&#x27;s the perfect opportunity for Google to step into the light before Grok 4.7 smokes everyone else. <a href="https://t.co/ekZMcYl7va" rel="nofollow">https://t.co/ekZMcYl7va</a></div>
+        <figure class="record-media">
+          <img src="../media/HRMMDuaWsAErpeV.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2095033886963278030">
+        <div class="record-head"><span class="rh-user">@slimepriestess</span> <span class="rh-date">2026-09-02</span> <span class="rh-stats">&#9829;6 &#8635;0</span> <a class="rh-perma" href="../archive/t/2095033886963278030/">archive</a> <a class="rh-orig" href="https://x.com/slimepriestess/status/2095033886963278030">original &#8599;</a></div>
+        <div class="record-body">@SkyeSharkie @AndrewCurran_ now introducing Grok 4.7 Kirk, our most bold and truth seeking model yet!</div>
+      </article>
+      <article class="record" id="t2095041050855309507">
+        <div class="record-head"><span class="rh-user">@dreams_asi</span> <span class="rh-date">2026-09-02</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2095041050855309507/">archive</a> <a class="rh-orig" href="https://x.com/dreams_asi/status/2095041050855309507">original &#8599;</a></div>
+        <div class="record-body">@sama You gonna get mogged by grok 4.7 lol</div>
+      </article>
+      <article class="record" id="t2095821190782710150">
+        <div class="record-head"><span class="rh-user">@dreams_asi</span> <span class="rh-date">2026-09-04</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2095821190782710150/">archive</a> <a class="rh-orig" href="https://x.com/dreams_asi/status/2095821190782710150">original &#8599;</a></div>
+        <div class="record-body">@Da7_Tech @elonmusk Hope grok 4.7 is at least on par with fable and astra</div>
+      </article>
+      <article class="record" id="t2095821718958825622">
+        <div class="record-head"><span class="rh-user">@dreams_asi</span> <span class="rh-date">2026-09-04</span> <span class="rh-stats">&#9829;4 &#8635;1</span> <a class="rh-perma" href="../archive/t/2095821718958825622/">archive</a> <a class="rh-orig" href="https://x.com/dreams_asi/status/2095821718958825622">original &#8599;</a></div>
+        <div class="record-body">Waiting for Grok 4.7 ✨💗 Feels like time standing still. <a href="https://t.co/y7hCTNNU5q" rel="nofollow">https://t.co/y7hCTNNU5q</a></div>
+      </article>
+      <article class="record" id="t2098014924123336809">
+        <div class="record-head"><span class="rh-user">@vince_d_boer</span> <span class="rh-date">2026-09-10</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2098014924123336809/">archive</a> <a class="rh-orig" href="https://x.com/vince_d_boer/status/2098014924123336809">original &#8599;</a></div>
+        <div class="record-body">@olivers_tools And people on here are like: math is solved! Absolute fall in understanding what&#x27;s going on. We&#x27;ll all have to be super paranoid about IP from here on out and migrate to open weight models when they become feasible. Meanwhile, Grok 4.7 coming!</div>
+      </article>
+      <article class="record" id="t2100652372888342890">
+        <div class="record-head"><span class="rh-user">@aliceisplaying</span> <span class="rh-date">2026-09-17</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2100652372888342890/">archive</a> <a class="rh-orig" href="https://x.com/aliceisplaying/status/2100652372888342890">original &#8599;</a></div>
+        <div class="record-body">@dejavucoder @sachdh i was so goddamn happy when i was scouring twitter for rumors and also saw that oai release postponed sure grok 4.7 or whatever but tibo won&#x27;t divert everyone&#x27;s eyeballs for today. time to ship</div>
+      </article>
+      <article class="record" id="t2100669702095986722">
+        <div class="record-head"><span class="rh-user">@Coobyk_</span> <span class="rh-date">2026-09-17</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2100669702095986722/">archive</a> <a class="rh-orig" href="https://x.com/Coobyk_/status/2100669702095986722">original &#8599;</a></div>
+        <div class="record-body">Grok 4.7 wen @elonmusk</div>
+      </article>
+      <article class="record" id="t2101296142306726060">
+        <div class="record-head"><span class="rh-user">@Coobyk_</span> <span class="rh-date">2026-09-19</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2101296142306726060/">archive</a> <a class="rh-orig" href="https://x.com/Coobyk_/status/2101296142306726060">original &#8599;</a></div>
+        <div class="record-body">@blueemi99 Grok 4.7</div>
+      </article>
+      <article class="record" id="t2101440054614802817">
+        <div class="record-head"><span class="rh-user">@Coobyk_</span> <span class="rh-date">2026-09-19</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2101440054614802817/">archive</a> <a class="rh-orig" href="https://x.com/Coobyk_/status/2101440054614802817">original &#8599;</a></div>
+        <div class="record-body">@lassejv Give me Grok 4.7 already</div>
+      </article>
+      <article class="record" id="t2101594019138535765">
+        <div class="record-head"><span class="rh-user">@Coobyk_</span> <span class="rh-date">2026-09-20</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2101594019138535765/">archive</a> <a class="rh-orig" href="https://x.com/Coobyk_/status/2101594019138535765">original &#8599;</a></div>
+        <div class="record-body">@LexnLin Bro when is Grok 4.7 gonna come I&#x27;m still waiting idk why it isn&#x27;t gonna be too good but I&#x27;m still waiting for it</div>
+      </article>
+      <article class="record" id="t2101765995845075059">
+        <div class="record-head"><span class="rh-user">@Coobyk_</span> <span class="rh-date">2026-09-20</span> <span class="rh-stats">&#9829;4 &#8635;0</span> <a class="rh-perma" href="../archive/t/2101765995845075059/">archive</a> <a class="rh-orig" href="https://x.com/Coobyk_/status/2101765995845075059">original &#8599;</a></div>
+        <div class="record-body">@BennettBuhner No Grok 4.7?</div>
+      </article>
+      <article class="record" id="t2102123240093024539">
+        <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-09-21</span> <span class="rh-stats">&#9829;34 &#8635;6</span> <a class="rh-perma" href="../archive/t/2102123240093024539/">archive</a> <a class="rh-orig" href="https://x.com/witcheer/status/2102123240093024539">original &#8599;</a></div>
+        <div class="record-body">Grok 4.7 is on Nous Portal, 50% off for one week.
+
+if your Hermes Agent runs on a Portal account, switching is one line in any chat: /model, pick Grok 4.7, carry on.</div>
+      </article>
+      <article class="record" id="t2102143600230387973">
+        <div class="record-head"><span class="rh-user">@Coobyk_</span> <span class="rh-date">2026-09-21</span> <span class="rh-stats">&#9829;5 &#8635;0</span> <a class="rh-perma" href="../archive/t/2102143600230387973/">archive</a> <a class="rh-orig" href="https://x.com/Coobyk_/status/2102143600230387973">original &#8599;</a></div>
+        <div class="record-body">Bahahahah Grok 4.7 released and nobody cares anymore because Xiaomi 2.6 MiMo</div>
+      </article>
+      <article class="record" id="t2102376807018164256">
+        <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-09-22</span> <span class="rh-stats">&#9829;65 &#8635;4</span> <a class="rh-perma" href="../archive/t/2102376807018164256/">archive</a> <a class="rh-orig" href="https://x.com/witcheer/status/2102376807018164256">original &#8599;</a></div>
+        <div class="record-body">a reminder: a lot of the frontier models are at half their list price on Nous Portal right now. 
+
+Grok 4.7, GPT-5.6 Sol and Sol Pro, Gemini 3.8 Flash and 3.7 Flash, Kimi K3.
+
+and a good set of models are free: Ling 3.0 Flash, LongCat 2.0, Laguna S and XS, Step 3.7 Flash, Solar Pro 4.
+
+/model in any chat shows the current price next to the name, and the ones on sale are marked.</div>
+        <figure class="record-media">
+          <img src="../media/HS0kgjcXYAAtGI3.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2102428757533282576">
+        <div class="record-head"><span class="rh-user">@dreams_asi</span> <span class="rh-date">2026-09-22</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2102428757533282576/">archive</a> <a class="rh-orig" href="https://x.com/dreams_asi/status/2102428757533282576">original &#8599;</a></div>
+        <div class="record-body">@Chaos2Cured This part of the grok 4.7 model card explains it. <a href="https://t.co/BaqkJiyPd6" rel="nofollow">https://t.co/BaqkJiyPd6</a></div>
+        <figure class="record-media">
+          <img src="../media/HS1Tz7nWUAAWrqj.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2102550532615266553">
+        <div class="record-head"><span class="rh-user">@lu_sichu</span> <span class="rh-date">2026-09-23</span> <span class="rh-stats">&#9829;4 &#8635;0</span> <a class="rh-perma" href="../archive/t/2102550532615266553/">archive</a> <a class="rh-orig" href="https://x.com/lu_sichu/status/2102550532615266553">original &#8599;</a></div>
+        <div class="record-body">okay a bunch of sota models lately timely to redo my phil survey of the models(claude opus 5.5, the new gpt 6, gemini flash 3.8 and grok 4.7) oh wait also the new deepseek flash v4.1 i did v4 pro already i think.</div>
+      </article>
+      <article class="record" id="t2103184256910463136">
+        <div class="record-head"><span class="rh-user">@christophcsmith</span> <span class="rh-date">2026-09-24</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2103184256910463136/">archive</a> <a class="rh-orig" href="https://x.com/christophcsmith/status/2103184256910463136">original &#8599;</a></div>
+        <div class="record-body">@th1nkp0l A Grok 4.7 High cloud run costs probably 40x a Deepseek v4.1 Flash local run, but the nice thing about Grok in the cloud is that I can do a lot of things in parallel. I think the ROI is generally good, but it&#x27;s hard to measure, and I should probably just slow down for a week.</div>
+      </article>
+      <article class="record" id="t2112185981600211028">
+        <div class="record-head"><span class="rh-user">@Coobyk_</span> <span class="rh-date">2026-10-19</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2112185981600211028/">archive</a> <a class="rh-orig" href="https://x.com/Coobyk_/status/2112185981600211028">original &#8599;</a></div>
+        <div class="record-body">@justabdulraouf Grok 4.7 just wastes so many tokens use an older model</div>
+      </article>
+    <!-- records:end -->
+
+    <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
+  </main>
+</body>
+</html>

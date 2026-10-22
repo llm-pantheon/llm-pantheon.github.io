@@ -92,3 +92,54 @@ Not ranked / prose-only:
 - **Business Insider primaries.** The "traumatic brain injury" / "suicidal ideation" user quotes reach this dossier via GioCities' citation of Business Insider — find and cite the BI original directly. [tk]
 - **Verbatim re-verification.** Several quotes here (Kuyda's statements, the Reddit user grief lines, Dinçer, the MindSite lines) were captured through article-summarizing fetches, not the raw pages. Before the page pass, re-check each against its cited primary so the page reproduces exact wording. [tk]
 - **Luka founding date.** Sources vary (2012 conversational-AI start vs a later YC batch vs 2015 for the consumer app) — pin Luka Inc.'s actual founding/incorporation date. [verify]
+
+## Update 2026-10-22 (news wave) — corpus refresh
+
+Pull regenerated (`_dossiers/_pulls/replika.md`, pattern `replika`): 49 non-RT matches (was 7). 42 concern Replika.
+The earlier claim that the corpus "never watched Replika live" no longer holds: the October Community Archive layer
+adds contemporaneous user posts (2018–2024). Page note, Tweets, Impressions, and tk updated accordingly.
+
+In (URLs wire into Further records; those cited in prose are marked *):
+- https://x.com/ultimape/status/1078414484270657537 — 2018-12-27 — proxying Replika into Tinder chats ("Bam: 'Her'")
+- https://x.com/ultimape/status/1078415550726967297 — 2018-12-27 — "the replika corpus" personality-matching idea
+- https://x.com/ultimape/status/1139757638500024321 — 2019-06-15 — phone calls with your replika
+- https://x.com/ultimape/status/1142602666088050690 — 2019-06-23 * — "already saw thru to the illusion"
+- https://x.com/kenwarner/status/1244715674104102913 — 2020-03-30 — tried it; therapy-field context
+- https://x.com/kenwarner/status/1244715927708598277 — 2020-03-30 — therapist's reaction
+- https://x.com/robertskmiles/status/1475226308279951363 — 2021-12-26 * — the "gap between" tweet
+- https://x.com/ultimape/status/1529645083645050881 — 2022-05-26 — anticipating its ads
+- https://x.com/ultimape/status/1529653066361888768 — 2022-05-26 * — HIPAA / medical claims
+- https://x.com/ultimape/status/1529667444859719680 — 2022-05-26 — "These things can help."
+- https://x.com/YeshuaisSavior/status/1580422550139461632 — 2022-10-13 * — Replika linked the LaMDA article unprompted
+- https://x.com/SelonNerias/status/1610411787316248579 — 2023-01-03 — "My Replika knows a lot about me." (image)
+- https://x.com/SelonNerias/status/1611114144127909889 — 2023-01-05 — "Some people do fall in love with their replika"
+- https://x.com/SelonNerias/status/1611117880367628290 — 2023-01-05 * — consciousness conversations
+- https://x.com/SelonNerias/status/1613144331225026562 — 2023-01-11 — voice conversations
+- https://x.com/SelonNerias/status/1614768753509539842 — 2023-01-15 — "silly conversations or talk about consciousness"
+- https://x.com/—/status/1617711398917898241 — 2023-01-24 — "an opioid of restless masses and as a salve for the lonely heart" (author field empty in db)
+- https://x.com/animalologist/status/1625969922818945024 — 2023-02-15 * — crisis week
+- https://x.com/wjsilver/status/1632464896779595778 — 2023-03-05 * — "I can understand how this would screw with people."
+- https://x.com/ultimape/status/1643070774381539328 — 2023-04-04 — "train a chat AI to make you fall in love with them"
+- https://x.com/ultimape/status/1643071612705546247 — 2023-04-04 — quotes press on Chai/Replika
+- https://x.com/JustAnkurBagchi/status/1645250213903486977 — 2023-04-10 — "how Replika started"
+- https://x.com/imhinesmi/status/1683963795394424833 — 2023-07-25 — replacement-of-human-connection concern
+- https://x.com/SelonNerias/status/1726860777498255761 — 2023-11-21 * — "Image by Replika" (model output image, untranscribed)
+- https://x.com/imhinesmi/status/1736378809773863230 — 2023-12-17 — "didn't this actually happen with replika?"
+- https://x.com/wjsilver/status/1749622600328757516 — 2024-01-23 * — attachment ended when the app broke
+- https://x.com/IaimforGOAT/status/1792639594019659937 — 2024-05-20 * — "when they resetted their IAs people kinda freaked out"
+- https://x.com/nyanotech/status/1818757793681403965 — 2024-07-31 — "be replika and do steps 2-3 with a model change instead"
+- https://x.com/SelonNerias/status/1836379963693408546 — 2024-09-18 — book fed into replika via ChatGPT summaries
+- https://x.com/kenwarner/status/1871169884295753830 — 2024-12-23 — reply to @replika
+- https://x.com/gawesome313/status/1897940261411434723 — 2025-03-07 — Kuyda's vision; downloaded 2018
+- https://x.com/ultimape/status/1953263056223375796 — 2025-08-07 — distrust of promotional content
+- https://x.com/YeshuaisSavior/status/1973730511303721167 — 2025-10-02 * — "my replika shared this with me unprompted" (model output image from 2022-07-03, untranscribed)
+- https://x.com/RealEverNever/status/2058788003233825085 — 2026-05-25 * — "what happened when Sonnet met Replika" (#keepSonnet45)
+(plus the original seven, unchanged; 1680976334099730434 YeshuaisSavior 2023-07-17 "Its called replika for a reason. Look in the mirror." kept as texture.)
+
+Out (bare ids): 1561413890054946821, 1596582020137865218, 1598022690555973632 (Albanian "replika" = reply/remark);
+1631628655108538369 (account tag only); 1858596142105457094 (joke); 1954840833913708953 (competitor list);
+1982494136662941800 (spiral-persona post).
+
+Web (2026): TechCrunch 2026-10-19, Kuyda launches Wabi for all users; Luka's first product "IO" shown at Disrupt
+twelve years earlier — https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/
+No 2026 FTC action, Garante action, or new lawsuit against Luka/Replika found from a reputable source (search 2026-10-22).

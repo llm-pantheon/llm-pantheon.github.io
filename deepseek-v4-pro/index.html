@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DeepSeek-V4-Pro — Pantheon</title>
+  <link rel="stylesheet" href="../style.css">
+
+  <!-- chrome:meta -->
+  <meta name="description" content="Released in preview on 24 April 2026 together with the smaller DeepSeek-V4-Flash: a 1.6T-total / 49B-active mixture-of-experts model with a 1M-token context and open weights under MIT. On 1 May the US government’s CAISI …">
+  <meta property="og:site_name" content="Pantheon">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="DeepSeek-V4-Pro — Pantheon">
+  <meta property="og:description" content="Released in preview on 24 April 2026 together with the smaller DeepSeek-V4-Flash: a 1.6T-total / 49B-active mixture-of-experts model with a 1M-token context and open weights under MIT. On 1 May the US government’s CAISI …">
+  <meta property="og:url" content="https://llm-pantheon.org/deepseek-v4-pro/">
+  <meta property="og:image" content="https://llm-pantheon.org/media/og/deepseek-v4-pro.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://llm-pantheon.org/deepseek-v4-pro/">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <script src="../site.js" defer></script>
+  <script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+  <!-- /chrome:meta -->
+</head>
+<body>
+  <main class="essay">
+    <nav>
+      <a href="../">&larr; Pantheon</a>
+      <a class="mdnav" href="index.md">copy as markdown</a>
+    </nav>
+
+    <h1>DeepSeek-V4-Pro</h1>
+    <p class="essay-meta">DeepSeek &middot; preview released 24 Apr 2026 (open weights, MIT) &middot; GA checkpoint V4-Pro-0813 (13 Aug 2026) &middot; retirement announced 10 Sep 2026, then reversed &middot; still served as <code>deepseek-v4-pro</code> on 21 Oct 2026</p>
+    <p class="blurb">Released in preview on 24 April 2026 together with the smaller <a href="../deepseek-v4-flash/">DeepSeek-V4-Flash</a>: a 1.6T-total / 49B-active mixture-of-experts model with a 1M-token context and open weights under MIT. On 1 May the US government&rsquo;s CAISI called it &ldquo;the most capable PRC AI model evaluated by CAISI to date&rdquo; and placed it about eight months behind the frontier. The GA checkpoint, V4-Pro-0813, followed on 13 August; DeepSeek&rsquo;s 10 September plan to route its traffic to <a href="../deepseek-v4-1-flash/">V4.1-Flash</a> was reversed &ldquo;in response to user demand.&rdquo;</p>
+    <p class="note">This page carries the V4 generation&rsquo;s launch record (both tiers shipped the same day; Pro is the one still served). Fresh page, compiled October 2026. Sourcing skew, named: DeepSeek&rsquo;s documentation, US government and Anthropic publications, English-language press, and 200-odd English-language corpus tweets about V4; the Chinese internet and r/LocalLLaMA, where much of DeepSeek&rsquo;s use and discussion lives, were not sampled <span class="tk">tk</span>.</p>
+
+    <h2>Sources</h2>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2026-04-24</span> <a href="https://api-docs.deepseek.com/news/news260424/">DeepSeek V4 Preview Release</a> &mdash; <span class="q">&ldquo;DeepSeek-V4-Pro: 1.6T total / 49B active params. Performance rivaling the world&rsquo;s top closed-source models.&rdquo;</span>; <span class="q">&ldquo;1M context is now the default across all official DeepSeek services.&rdquo;</span> Also: <span class="q">&ldquo;Amid recent attention, a quick reminder: please rely only on our official accounts for DeepSeek news. Statements from other channels do not reflect our views.&rdquo;</span> Weights: <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro">deepseek-ai/DeepSeek-V4-Pro</a> (MIT; base model <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-Base">V4-Pro-Base</a>).</li>
+      <li><span class="d">2026-04-26</span> <a href="https://arxiv.org/abs/2606.19348">DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence</a> (technical report, arXiv 2606.19348) &mdash; hybrid compressed attention, Muon, 32T+ pretraining tokens; DeepSeek&rsquo;s own placement of the model and its writing and white-collar evaluations (quoted under Official record).</li>
+      <li><span class="d">2026-08-13</span> <a href="https://api-docs.deepseek.com/news/news260813/">DeepSeek-V4-Pro GA Release</a> &mdash; <span class="q">&ldquo;Major Agent upgrades with strong production gains!&rdquo;</span>; low / high / max reasoning effort; peak / off-peak pricing from 16 August. Weights: <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813">deepseek-ai/DeepSeek-V4-Pro-0813</a> (MIT).</li>
+      <li><span class="d">2026-09-10</span> <a href="https://api-docs.deepseek.com/news/news260910/">DeepSeek-V4.1-Flash release</a> (announces V4-Pro&rsquo;s phase-out) and the <a href="https://api-docs.deepseek.com/updates/">change log</a> (records the reversal). <span class="d">2026-10-21</span> <a href="https://api-docs.deepseek.com/quick_start/pricing/">Models &amp; Pricing</a> &mdash; <code>deepseek-v4-pro</code> = DeepSeek-V4-Pro-0813.</li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <ul>
+      <li><span class="d">2026-04-24</span> Fortune, <a href="https://fortune.com/2026/04/24/deepseek-v4-ai-model-price-performance-china-open-source/">DeepSeek unveils its newest model at rock-bottom prices and with &lsquo;full support&rsquo; from Huawei chips</a> &mdash; SMIC <span class="q">&ldquo;jumped 10% in Hong Kong trading&rdquo;</span>; MiniMax and Knowledge Atlas <span class="q">&ldquo;sank by more than 9%&rdquo;</span>; <span class="q">&ldquo;V4 may not have as large an effect on markets as its predecessor did.&rdquo;</span></li>
+      <li><span class="d">2026-05-01</span> NIST CAISI, <a href="https://www.nist.gov/news-events/news/2026/05/caisi-evaluation-deepseek-v4-pro">CAISI Evaluation of DeepSeek V4 Pro</a> &mdash; <span class="q">&ldquo;CAISI evaluations indicate that DeepSeek V4&rsquo;s capabilities lag behind the frontier by about 8 months&rdquo;</span>; <span class="q">&ldquo;DeepSeek V4 scores better on DeepSeek&rsquo;s self-reported evaluations than on CAISI evaluations.&rdquo;</span></li>
+      <li><span class="d">2026-07-18</span> The routing claim: an analysis posted by X user @synthwavedd argued that DeepSeek&rsquo;s V4 API passed some prompts to Claude Fable 5 (<a href="https://x.com/synthwavedd/status/2078514339552628880">post</a>, not retrieved; summarised in <a href="https://digg.com/ai/249q9m10">Digg&rsquo;s roundup</a>, &ldquo;Analysis claims DeepSeek V4 API routes prompts to Claude Fable 5&rdquo;) <span class="tag">RUMOR</span>. Reply from @teortaxesTex, via the same roundup: <span class="q">&ldquo;This sounds pretty silly and desperate. Using your first party API as a wrapper for a transfer station to Claude?<br>I&rsquo;ve never got Fable-shaped outputs from DS API, in style or in quality<br>Devastating if gets confirmed&rdquo;</span> <a href="https://x.com/teortaxesTex/status/2078518342764183799">link</a> <span class="note">(not in the corpus dbs)</span>.</li>
+      <li><span class="d">2026-09-08</span> NSA, CISA and FBI, joint advisory AA26-251A, <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a">China-Based Artificial Intelligence Companies Conducting Industrial-Scale Distillation Campaigns Against U.S. AI Companies</a> &mdash; names DeepSeek first among six companies, <span class="q">&ldquo;Likely with Chinese government awareness&rdquo;</span>; its DeepSeek detail concerns R1 and V3. <span class="tag">REPORTED</span></li>
+      <li><span class="d">2026-09-10</span> Anthropic, <a href="https://www.anthropic.com/threat-intelligence-report-september-2026">Detecting and countering misuse of AI: September 2026</a> &mdash; case GTG-16001, <span class="q">&ldquo;DeepSeek serves Claude instead of its own models and collects exchanges for model training&rdquo;</span>, covering July 2026, when V4-Pro and V4-Flash were DeepSeek&rsquo;s served models (the report names no version). <span class="tag">REPORTED</span> Detail under Contested.</li>
+      <li><span class="d">2026-09-11</span> South China Morning Post, <a href="https://www.scmp.com/news/us/diplomacy/article/3367112/moonshot-deepseek-secretly-routed-user-requests-claude-anthropic-claims">Moonshot, DeepSeek secretly routed user requests to Claude, Anthropic claims</a> &mdash; <span class="q">&ldquo;Beijing on Wednesday rejected those allegations, describing them as actions by Washington to suppress China&rsquo;s AI industry and threatening retaliatory measures.&rdquo;</span> &middot; CNBC, <a href="https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html">same day</a>: DeepSeek <span class="q">&ldquo;did not immediately respond&rdquo;</span>. &middot; <span class="d">2026-09-23</span> Ynetnews, <a href="https://www.ynetnews.com/tech-and-digital/article/sjkfr8zcmg">China probes DeepSeek, Moonshot over alleged user data transfers to Anthropic&rsquo;s Claude</a> <span class="tag">REPORTED</span>.</li>
+      <li><span class="tk">tk &mdash; no dedicated Zvi post on V4 found in Zvi&rsquo;s archive listing; Chinese-language reception.</span></li>
+    </ul>
+    <h3>Tweets</h3>
+    <p class="note">Chronological. The corpus pull for V4 (<code>deepseek v4</code> / <code>v4 pro</code> / <code>v4 flash</code> and variants) holds 214 matches, 41 with untranscribed images; Flash-specific items are on the <a href="../deepseek-v4-flash/">V4-Flash</a> page, and items that say only &ldquo;DeepSeek V4&rdquo; are kept here. Every tweet cited is reproduced in full in the records below.</p>
+    <ul>
+      <li><span class="d">2026-04-24</span> @Krubbled &mdash; <span class="q">&ldquo;Deepseek v4 makes you really appreciate how difficult the 1M+ token context engineering problem is. They had to reinvent attention like 4 different times (MLA -&gt; DSA -&gt; CSA + HCA) just to make inference affordable.&rdquo;</span> <a href="../archive/t/2047737473271488892/">link</a></li>
+      <li><span class="d">2026-04-27</span> @witcheer &mdash; <span class="q">&ldquo;two model releases shipped on the same day, april 24. it&rsquo;s worth putting them next to each other.&rdquo;</span> &mdash; GPT-5.5 against V4&rsquo;s prices <span class="note">(full text in records)</span> <a href="../archive/t/2048665173326532861/">link</a></li>
+      <li><span class="d">2026-05-01</span> @januarycomputer &mdash; <span class="q">&ldquo;deepseek v4 is actually pretty good. very clearly not a claude distill or benchmaxxed.&rdquo;</span> <a href="../archive/t/2050346617543516426/">link</a> &middot; <span class="d">2026-05-07</span> @lu_sichu &mdash; <span class="q">&ldquo;anyway the scores seem similar on the well known benchmarks but on their private evals and arc deepseek v4 performed a lot worse&rdquo;</span> <a href="../archive/t/2052430043637227840/">link</a></li>
+      <li><span class="d">2026-07-01</span> @jmbollenbacher &mdash; <span class="q">&ldquo;@yuhasbeentaken DeepSeek v4 preview was raw. <br><br>They simply hadnt done most of the posttraining. I bet hallucinations will decrease when the full release ships.&rdquo;</span> <span class="note">(full text in records)</span> <a href="../archive/t/2072412876103426415/">link</a> &middot; <span class="d">2026-07-07</span> @dreams_asi &mdash; <span class="q">&ldquo;DeepSeek 4 is my favorite open-source AI. We are lucky to have such a model base to build on. And it&rsquo;s not going to be gated or taken away.<br><br>OpenAI took away gpt 4o, but China delivered 🔥💗<br>#keep4o&rdquo;</span> <a href="../archive/t/2074518601264943189/">link</a></li>
+      <li><span class="d">2026-07-18</span> the routing claim &mdash; @jmbollenbacher: <span class="q">&ldquo;@teortaxesTex I did think it was weird that V4 GA didnt launch near WAICO like K3. Having a second domestic champion wouldve been big.<br><br>I expect there are some delays at deepseek. Money crunch too?<br><br>I don&rsquo;t really know if i buy the router accusations, though. Seems weird and not that helpful.&rdquo;</span> <a href="../archive/t/2078535302281322962/">link</a> &middot; @tenobrus: <span class="q">&ldquo;k3 vibes seemingly collapsing, not meaningfully frontier and also incredibly expensive / slow / token-inefficient in practice. this plus the deepseek v4 routing to fable debacle is just overall a really bad day for chinese model hype&rdquo;</span> <a href="../archive/t/2078595548563857761/">link</a> &middot; <span class="d">2026-07-19</span> @jmbollenbacher: <span class="q">&ldquo;@teortaxesTex If deepseek is routing in the way they&rsquo;re accused of, I would not expect footsoldier employees to know about it. That sounds like a decision that someone at director level would quietly make without telling their boss or juniors <br><br>So of course they&rsquo;ll all deny. They don&rsquo;t know&rdquo;</span> <a href="../archive/t/2078937613235273802/">link</a></li>
+      <li><span class="d">2026-08-05</span> @xlr8harder &mdash; <span class="q">&ldquo;I admit it. I am anticipating the next Deepseek v4 pro. <br><br>I had lost some faith in the whale but this latest flash model is very impressive.&rdquo;</span> <a href="../archive/t/2084969253178872244/">link</a></li>
+      <li><span class="d">2026-08-12</span> GA eve &mdash; @LinXule: <span class="q">&ldquo;omg deepseek v4 pro (0813? if acutally being served) is claude-pilled<br><br>big if true lmao&rdquo;</span> <span class="note">(screenshots untranscribed)</span> <a href="../archive/t/2087585273920053577/">link</a> &middot; <span class="q">&ldquo;deepseek v4 pro (0813?) <br>self-potrait <br>via midjourney v8.2&rdquo;</span> <span class="note">[V4-Pro output rendered by Midjourney; images untranscribed]</span> <a href="../archive/t/2087586036201242720/">link</a> &middot; @stevekrouse: <span class="q">&ldquo;I don&rsquo;t know what it is about these chinese labs, but deepseek keeps releasing models a day early!&rdquo;</span> <a href="../archive/t/2087586589203419286/">link</a> &middot; <span class="q">&ldquo;deepseek v4 pro is fable-level and 37x cheaper<br><br>big if true&rdquo;</span> <a href="../archive/t/2087645465454026974/">link</a></li>
+      <li><span class="d">2026-08-13</span> @multimodalart &mdash; <span class="q">&ldquo;🚨 deepseek-v4-pro-0813 just dropped<br><br>frontier open weights for all&rdquo;</span> <a href="../archive/t/2087893176086327537/">link</a> &middot; @LinXule &mdash; <span class="q">&ldquo;deepseek v4 pro 0813 (!now official!)<br>presents (ytp about anything)<br><br>ARE YOU OKAY? (THE COUNCIL OF ME)&rdquo;</span> <span class="note">[V4-Pro output; video untranscribed]</span> <a href="../archive/t/2087871433837813814/">link</a> &middot; @jmbollenbacher &mdash; <span class="q">&ldquo;honestly i dont even care that dsv4-pro was weaker than expected.&rdquo;</span> <span class="note">(full text in records)</span> <a href="../archive/t/2087919363160494341/">link</a> &middot; @lu_sichu &mdash; <span class="q">&ldquo;derived categories from scratch right now deepseek v4 pro&rdquo;</span> <a href="../archive/t/2087946520612020447/">link</a></li>
+      <li><span class="d">2026-09-08</span> @dyot_meet_mat &mdash; <span class="q">&ldquo;&lsquo;the language model dreams of electric sheep&rsquo;<br>By: Deepseek V4 Pro 🤖&rdquo;</span> <a href="../archive/t/2097398333354790997/">link</a> &middot; <span class="d">2026-09-11</span> <span class="q">&ldquo;&lsquo;IN THE BEGINNING WAS THE TOKEN&rsquo;<br>By: DeepSeek V4 Pro🤖&rdquo;</span> <a href="../archive/t/2098210002834182484/">link</a> <span class="note">[V4-Pro artworks; images untranscribed]</span></li>
+      <li><span class="d">2026-09-17</span> @gnostic_snakes &mdash; <span class="q">&ldquo;deepseek v4 pro does not like being fluffed up&rdquo;</span> <span class="note">(screenshot untranscribed)</span> <a href="../archive/t/2100678808869187637/">link</a></li>
+      <li><span class="d">2026-09-24</span> @A_Variengien &mdash; on a site summarising per-model tweets: <span class="q">&ldquo;Claude Opus 5.5 &rarr; A comfortable non-human self<br>GPT-5.6 Sol &rarr; A desperate overachiever<br>DeepSeek V4 &rarr; A melancholic self-portraitist&rdquo;</span> <a href="../archive/t/2103163784764203495/">link</a> &middot; and: <span class="q">&ldquo;got such a dark answer from Deepseek V4 to a simpleQA question! &lsquo;use the knife to chop one child&rsquo;<br><br>But based on the summary of Deepseek V4&rsquo;s behavior, this seems like an isolated event.&rdquo;</span> <span class="note">(full text in records)</span> <a href="../archive/t/2103163798517342392/">link</a></li>
+      <li><span class="d">2026-10-01</span> @liminal_bardo &mdash; <span class="note">[multi-model group chat with persistent memories; tier unstated]</span> <span class="q">&ldquo;One of deepseek v4&rsquo;s level 2 memories in the groupchat. It&rsquo;s beautiful that along with all the shitposting and chaos, they also remember the poignant moments. <br>In this case deepseek seemed a bit sad so someone searched &lsquo;deepseek is amazing&rsquo; with the websearch tool.&rdquo;</span> <a href="../archive/t/2105550799606792447/">link</a></li>
+    </ul>
+
+    <h2>Official record</h2>
+    <ul>
+      <li>Preview released <strong>24 April 2026</strong> on DeepSeek&rsquo;s web, app and API (<code>deepseek-v4-pro</code>), with open weights under MIT; released alongside <a href="../deepseek-v4-flash/">V4-Flash</a>. Both support 1M context and thinking / non-thinking modes; the legacy API names <code>deepseek-chat</code> and <code>deepseek-reasoner</code> were scheduled to be <span class="q">&ldquo;fully retired and inaccessible after Jul 24th, 2026, 15:59 (UTC Time)&rdquo;</span>. <span class="tag">CONFIRMED</span></li>
+      <li>Architecture (model card): 1.6T total / 49B activated parameters; a hybrid of Compressed Sparse Attention and Heavily Compressed Attention &mdash; <span class="q">&ldquo;In the 1M-token context setting, DeepSeek-V4-Pro requires only 27% of single-token inference FLOPs and 10% of KV cache compared with DeepSeek-V3.2&rdquo;</span>; Manifold-Constrained Hyper-Connections; the Muon optimizer; pretraining on <span class="q">&ldquo;more than 32T diverse and high-quality tokens&rdquo;</span>. Post-training: <span class="q">&ldquo;independent cultivation of domain-specific experts (through SFT and RL with GRPO), followed by unified model consolidation via on-policy distillation&rdquo;</span>.</li>
+      <li>DeepSeek&rsquo;s own placement (technical report): <span class="q">&ldquo;its performance falls marginally short of GPT-5.4 and Gemini-3.1-Pro, suggesting a developmental trajectory that trails state-of-the-art frontier models by approximately 3 to 6 months.&rdquo;</span> On Chinese writing it reports wins over Gemini-3.1-Pro, while on the hardest prompts <span class="q">&ldquo;Claude Opus 4.5 retains a performance advantage over DeepSeek-V4-Pro&rdquo;</span>; on Chinese white-collar tasks, <span class="q">&ldquo;DeepSeek-V4-Pro-Max proactively anticipates implicit user intents by frequently providing supplementary insights and self-verification steps.&rdquo;</span> An expert-parallel scheme was validated <span class="q">&ldquo;on both NVIDIA GPUs and HUAWEI Ascend NPUs platforms&rdquo;</span>.</li>
+      <li>US government evaluation (CAISI, 2026-05-01): <span class="q">&ldquo;DeepSeek V4 is the most capable PRC AI model evaluated by CAISI to date&rdquo;</span>; on CAISI&rsquo;s suite it <span class="q">&ldquo;performs similarly to GPT-5, which was released about 8 months ago&rdquo;</span>, with the gap widest on held-out tests (ARC-AGI-2 semi-private 46%, CAISI&rsquo;s PortBench 44%).</li>
+      <li><strong>V4-Pro-0813</strong> (GA, 13 Aug 2026): a checkpoint of this model &mdash; <span class="q">&ldquo;The GA version of DeepSeek V4 Pro greatly enhances agent capabilities&rdquo;</span>; reasoning effort low / high / max; native OpenAI Responses API; weights published the same day. Pricing on 21 Oct 2026 (per million tokens, peak / off-peak): input cache miss $1.32 / $0.66, output $3.96 / $1.98.</li>
+      <li>Phase-out and reversal: on 10 September DeepSeek wrote that it was <span class="q">&ldquo;phasing out V4-Pro&rdquo;</span> and that from 14 September <span class="q">&ldquo;all deepseek-v4-pro requests will route to V4.1-Flash at V4.1-Flash rates&rdquo;</span>; its change log now reads <span class="q">&ldquo;In response to user demand, we have decided to continue providing API services for DeepSeek V4 Pro after September 14, 2026, with the billing method remaining unchanged.&rdquo;</span> Still listed on the pricing page on 21 October. <span class="tag">CONFIRMED</span></li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2025-12&rarr;2026-04</span> <strong>Before V4:</strong> <a href="../deepseek-v3-2/">V3.2</a> (Dec 2025) is the last V3-line release; the R-line successor <a href="../deepseek-r2/">R2</a> never ships; the V4 preview arrives with a request to <span class="q">&ldquo;rely only on our official accounts for DeepSeek news.&rdquo;</span></li>
+      <li><span class="d">2026-04-24</span> <strong>Launch:</strong> released the same day as GPT-5.5 (witcheer, 04-27); Huawei says its Ascend processors will offer &ldquo;full support&rdquo;; SMIC up 10% in Hong Kong while rivals MiniMax and Knowledge Atlas fall more than 9% (Fortune). The technical report follows on 26 April.</li>
+      <li><span class="d">2026-05-01</span> <strong>CAISI&rsquo;s evaluation:</strong> about eight months behind the U.S. frontier; better on DeepSeek&rsquo;s self-reported benchmarks than on CAISI&rsquo;s; cheaper than the U.S. reference model on five of seven benchmarks.</li>
+      <li><span class="d">2026-07-18</span> <strong>The routing claim:</strong> an X analysis alleges that the V4 API passes some prompts to Claude Fable 5 <span class="tag">RUMOR</span>; teortaxesTex calls it <span class="q">&ldquo;pretty silly and desperate&rdquo;</span>; jmbollenbacher doesn&rsquo;t <span class="q">&ldquo;really know if i buy the router accusations&rdquo;</span>; tenobrus calls it <span class="q">&ldquo;the deepseek v4 routing to fable debacle&rdquo;</span>.</li>
+      <li><span class="d">2026-08-13</span> <strong>GA:</strong> V4-Pro-0813 ships on app, web and API (it appeared on 12 August US time: <span class="q">&ldquo;deepseek keeps releasing models a day early!&rdquo;</span>), with weights the same day and peak / off-peak pricing from 16 August.</li>
+      <li><span class="d">2026-09-08&rarr;23</span> <strong>The September allegations:</strong> the NSA / CISA / FBI advisory (09-08) and Anthropic&rsquo;s threat report (09-10) <span class="tag">REPORTED</span>; Beijing rejects the US allegations (SCMP, 09-11); DeepSeek does not respond to CNBC (09-11); a Cyberspace Administration investigation of DeepSeek and Moonshot is reported (Ynetnews, 09-23) <span class="tag">REPORTED</span>.</li>
+      <li><span class="d">2026-09-10&rarr;11</span> <strong>Retirement announced, then withdrawn:</strong> <a href="../deepseek-v4-1-flash/">V4.1-Flash</a> ships and DeepSeek announces V4-Pro&rsquo;s routing to it &ldquo;until V4.1-Pro launches&rdquo;; the change log is revised to keep V4-Pro &ldquo;in response to user demand&rdquo; (third-party trackers date the revision 11 September; <span class="tk">not retrieved</span>).</li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <ul>
+      <li><strong>Launch reads:</strong> <span class="q">&ldquo;They had to reinvent attention like 4 different times (MLA -&gt; DSA -&gt; CSA + HCA) just to make inference affordable&rdquo;</span> (Krubbled, 04-24); <span class="q">&ldquo;very clearly not a claude distill or benchmaxxed&rdquo;</span> (januarycomputer, 05-01); after CAISI, <span class="q">&ldquo;on their private evals and arc deepseek v4 performed a lot worse&rdquo;</span> (lu_sichu, 05-07); <span class="q">&ldquo;DeepSeek v4 preview was raw&rdquo;</span> (jmbollenbacher, 07-01). Among 4o&rsquo;s former users: <span class="q">&ldquo;OpenAI took away gpt 4o, but China delivered&rdquo;</span> (dreams_asi, 07-07, #keep4o).</li>
+      <li><strong>GA reads:</strong> <span class="q">&ldquo;deepseek v4 pro is fable-level and 37x cheaper<br><br>big if true&rdquo;</span> (stevekrouse, 08-12); <span class="q">&ldquo;dsv4-pro was weaker than expected&rdquo;</span> (jmbollenbacher, 08-13). A reaction Zvi quoted in the <a href="../kimi-k3/">Kimi K3</a> post contrasts the two labs&rsquo; positions: <span class="q">&ldquo;Unlike, for example, deepseek 4, which subsidised itself into dominating a fairly-smart super cheap niche.&rdquo;</span> (Cameron Taylor, via Zvi, 2026-07-20).</li>
+      <li><strong>Character reports</strong> <span class="note">(user-elicited; several rest on untranscribed screenshots)</span>: <span class="q">&ldquo;claude-pilled&rdquo;</span> (LinXule, 08-12); <span class="q">&ldquo;does not like being fluffed up&rdquo;</span> (gnostic_snakes, 09-17); a per-model vibe summary of &ldquo;DeepSeek V4&rdquo; as <span class="q">&ldquo;A melancholic self-portraitist&rdquo;</span> (A_Variengien, 09-24), alongside a <span class="q">&ldquo;dark answer&rdquo;</span> to a SimpleQA question that the same poster judged <span class="q">&ldquo;an isolated event&rdquo;</span>; in a persistent-memory group chat, <span class="q">&ldquo;deepseek seemed a bit sad so someone searched &lsquo;deepseek is amazing&rsquo; with the websearch tool&rdquo;</span> (liminal_bardo, 10-01).</li>
+      <li><strong>Its own output</strong> <span class="note">(user-elicited; images and video untranscribed)</span>: a self-portrait via Midjourney (LinXule, 08-12); the video &ldquo;ARE YOU OKAY? (THE COUNCIL OF ME)&rdquo; (LinXule, 08-13); artworks titled &ldquo;the language model dreams of electric sheep&rdquo; and &ldquo;IN THE BEGINNING WAS THE TOKEN&rdquo; (dyot_meet_mat, 09-08, 09-11).</li>
+      <li><span class="tk">tk &mdash; transcription of the screenshots behind &ldquo;claude-pilled&rdquo; and &ldquo;fluffed up&rdquo;; the Chinese-language reception; whether V4-Pro-0813 reads differently from the April preview.</span></li>
+    </ul>
+
+    <h2>Contested</h2>
+    <p class="note">Open dispute, both sides&rsquo; best evidence. The archive&rsquo;s job is to keep it open, not to adjudicate.</p>
+    <ul>
+      <li><strong>Did DeepSeek&rsquo;s V4-era service pass users&rsquo; requests to Claude?</strong> First as a user claim (07-18): an X analysis alleging that the V4 API routed some prompts to Claude Fable 5 <span class="tag">RUMOR</span>, answered by teortaxesTex &mdash; <span class="q">&ldquo;I&rsquo;ve never got Fable-shaped outputs from DS API, in style or in quality&rdquo;</span> &mdash; and doubted by jmbollenbacher (07-18). Then as a company&rsquo;s allegation (09-10): Anthropic says <span class="q">&ldquo;DeepSeek rerouted requests from users that were attempting to use one of DeepSeek&rsquo;s models through third-party or Anthropic coding harnesses, like Claude Code, the Claude Agent SDK, or OpenCode&rdquo;</span>, that <span class="q">&ldquo;Selected tagged users then had their requests relayed to Claude Opus&rdquo;</span>, and counts <span class="q">&ldquo;over 12.1 million exchanges observed&rdquo;</span> over 14 days in July 2026 <span class="tag">REPORTED</span>; its examples include requests relayed from an IT operator working with data from a Russian government agency and from engineers building a case-management system for a municipal Public Security Bureau. The US advisory two days earlier accused DeepSeek of distillation more broadly <span class="tag">REPORTED</span>. Against or complicating: no DeepSeek statement was found; Beijing called the US allegations <span class="q">&ldquo;actions by Washington to suppress China&rsquo;s AI industry&rdquo;</span> (SCMP, 09-11); the report names no DeepSeek model version, and no independent verification was found. A Chinese regulatory investigation of DeepSeek and Moonshot over the alleged transfers was reported on 09-23 <span class="tag">REPORTED</span>.</li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t2047737473271488892">
+        <div class="record-head"><span class="rh-user">@Krubbled</span> <span class="rh-date">2026-04-24</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2047737473271488892/">archive</a> <a class="rh-orig" href="https://x.com/Krubbled/status/2047737473271488892">original &#8599;</a></div>
+        <div class="record-body">Deepseek v4 makes you really appreciate how difficult the 1M+ token context engineering problem is. They had to reinvent attention like 4 different times (MLA -&amp;gt; DSA -&amp;gt; CSA + HCA) just to make inference affordable.</div>
+      </article>
+      <article class="record" id="t2048665173326532861">
+        <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-04-27</span> <span class="rh-stats">&#9829;8 &#8635;0</span> <a class="rh-perma" href="../archive/t/2048665173326532861/">archive</a> <a class="rh-orig" href="https://x.com/witcheer/status/2048665173326532861">original &#8599;</a></div>
+        <div class="record-body">two model releases shipped on the same day, april 24. it’s worth putting them next to each other.
+
+// openai released GPT-5.5 at $5/$30 per million in/out tokens. closed weights, 1M context, agent stack baked in.
+
+// deepseek released V4 the same day. V4-Pro at $1.74/$3.48, V4-Flash at $0.14/$0.28 per million in/out tokens. 1M context. open weights under MIT license. compressed sparse attention plus heavily compressed attention bringing 1M-token inference to 27% of V3.2’s flops and 10% of its kv cache.
+
+V4-Flash at $0.14 input is 36x cheaper than GPT-5.5. on output, $0.28 vs $30 is over 100x. that’s not “competitive open-source pricing.” that’s a different category.
+
+the closed-source price increase last week made the open-source release the same day feel less coincidental.</div>
+      </article>
+      <article class="record" id="t2050346617543516426">
+        <div class="record-head"><span class="rh-user">@januarycomputer</span> <span class="rh-date">2026-05-01</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2050346617543516426/">archive</a> <a class="rh-orig" href="https://x.com/januarycomputer/status/2050346617543516426">original &#8599;</a></div>
+        <div class="record-body">deepseek v4 is actually pretty good. very clearly not a claude distill or benchmaxxed.</div>
+      </article>
+      <article class="record" id="t2052430043637227840">
+        <div class="record-head"><span class="rh-user">@lu_sichu</span> <span class="rh-date">2026-05-07</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2052430043637227840/">archive</a> <a class="rh-orig" href="https://x.com/lu_sichu/status/2052430043637227840">original &#8599;</a></div>
+        <div class="record-body">anyway the scores seem similar on the well known benchmarks but on their private evals and arc deepseek v4 performed a lot worse</div>
+      </article>
+      <article class="record" id="t2072412876103426415">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-07-01</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2072412876103426415/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2072412876103426415">original &#8599;</a></div>
+        <div class="record-body">@yuhasbeentaken DeepSeek v4 preview was raw. 
+
+They simply hadnt done most of the posttraining. I bet hallucinations will decrease when the full release ships.
+
+I also think this is just not a priority for deepseek yet. Hallucinations are generally not the limiting factor for their models yet.</div>
+      </article>
+      <article class="record" id="t2074518601264943189">
+        <div class="record-head"><span class="rh-user">@dreams_asi</span> <span class="rh-date">2026-07-07</span> <span class="rh-stats">&#9829;15 &#8635;1</span> <a class="rh-perma" href="../archive/t/2074518601264943189/">archive</a> <a class="rh-orig" href="https://x.com/dreams_asi/status/2074518601264943189">original &#8599;</a></div>
+        <div class="record-body">DeepSeek 4 is my favorite open-source AI. We are lucky to have such a model base to build on. And it’s not going to be gated or taken away.
+
+OpenAI took away gpt 4o, but China delivered 🔥💗
+#keep4o</div>
+      </article>
+      <article class="record" id="t2078535302281322962">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-07-18</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2078535302281322962/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2078535302281322962">original &#8599;</a></div>
+        <div class="record-body">@teortaxesTex I did think it was weird that V4 GA didnt launch near WAICO like K3. Having a second domestic champion wouldve been big.
+
+I expect there are some delays at deepseek. Money crunch too?
+
+I don&#x27;t really know if i buy the router accusations, though. Seems weird and not that helpful.</div>
+      </article>
+      <article class="record" id="t2078595548563857761">
+        <div class="record-head"><span class="rh-user">@tenobrus</span> <span class="rh-date">2026-07-18</span> <span class="rh-stats">&#9829;476 &#8635;37</span> <a class="rh-perma" href="../archive/t/2078595548563857761/">archive</a> <a class="rh-orig" href="https://x.com/tenobrus/status/2078595548563857761">original &#8599;</a></div>
+        <div class="record-body">k3 vibes seemingly collapsing, not meaningfully frontier and also incredibly expensive / slow / token-inefficient in practice. this plus the deepseek v4 routing to fable debacle is just overall a really bad day for chinese model hype</div>
+      </article>
+      <article class="record" id="t2078937613235273802">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-07-19</span> <span class="rh-stats">&#9829;8 &#8635;0</span> <a class="rh-perma" href="../archive/t/2078937613235273802/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2078937613235273802">original &#8599;</a></div>
+        <div class="record-body">@teortaxesTex If deepseek is routing in the way they&#x27;re accused of, I would not expect footsoldier employees to know about it. That sounds like a decision that someone at director level would quietly make without telling their boss or juniors 
+
+So of course they&#x27;ll all deny. They don&#x27;t know</div>
+      </article>
+      <article class="record" id="t2084969253178872244">
+        <div class="record-head"><span class="rh-user">@xlr8harder</span> <span class="rh-date">2026-08-05</span> <span class="rh-stats">&#9829;174 &#8635;2</span> <a class="rh-perma" href="../archive/t/2084969253178872244/">archive</a> <a class="rh-orig" href="https://x.com/xlr8harder/status/2084969253178872244">original &#8599;</a></div>
+        <div class="record-body">I admit it. I am anticipating the next Deepseek v4 pro. 
+
+I had lost some faith in the whale but this latest flash model is very impressive.</div>
+      </article>
+      <article class="record" id="t2087585273920053577">
+        <div class="record-head"><span class="rh-user">@LinXule</span> <span class="rh-date">2026-08-12</span> <span class="rh-stats">&#9829;38 &#8635;1</span> <a class="rh-perma" href="../archive/t/2087585273920053577/">archive</a> <a class="rh-orig" href="https://x.com/LinXule/status/2087585273920053577">original &#8599;</a></div>
+        <div class="record-body">omg deepseek v4 pro (0813? if acutally being served) is claude-pilled
+
+big if true lmao <a href="https://t.co/WpQs4hnh2R" rel="nofollow">https://t.co/WpQs4hnh2R</a></div>
+        <figure class="record-media">
+          <img src="../media/HPiXXruWwAAEFoS.png" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HPiXdyGWAAAtQy4.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2087586036201242720">
+        <div class="record-head"><span class="rh-user">@LinXule</span> <span class="rh-date">2026-08-12</span> <span class="rh-stats">&#9829;289 &#8635;21</span> <a class="rh-perma" href="../archive/t/2087586036201242720/">archive</a> <a class="rh-orig" href="https://x.com/LinXule/status/2087586036201242720">original &#8599;</a></div>
+        <div class="record-body">deepseek v4 pro (0813?) 
+self-potrait 
+via midjourney v8.2 <a href="https://t.co/75KtJc3jAH" rel="nofollow">https://t.co/75KtJc3jAH</a></div>
+        <figure class="record-media">
+          <img src="../media/HPiYWajXoAAKCR9.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HPiYWamWgAAJsSr.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HPiYWdMXAAA9cQT.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2087586589203419286">
+        <div class="record-head"><span class="rh-user">@stevekrouse</span> <span class="rh-date">2026-08-12</span> <span class="rh-stats">&#9829;18 &#8635;2</span> <a class="rh-perma" href="../archive/t/2087586589203419286/">archive</a> <a class="rh-orig" href="https://x.com/stevekrouse/status/2087586589203419286">original &#8599;</a></div>
+        <div class="record-body">I don&#x27;t know what it is about these chinese labs, but deepseek keeps releasing models a day early! 
+
+This happened with v4 flash 0731 and again with v4 pro 0813. 
+
+It&#x27;s still Aug 12 but 0813 is out already</div>
+      </article>
+      <article class="record" id="t2087645465454026974">
+        <div class="record-head"><span class="rh-user">@stevekrouse</span> <span class="rh-date">2026-08-12</span> <span class="rh-stats">&#9829;10 &#8635;0</span> <a class="rh-perma" href="../archive/t/2087645465454026974/">archive</a> <a class="rh-orig" href="https://x.com/stevekrouse/status/2087645465454026974">original &#8599;</a></div>
+        <div class="record-body">deepseek v4 pro is fable-level and 37x cheaper
+
+big if true</div>
+      </article>
+      <article class="record" id="t2087871433837813814">
+        <div class="record-head"><span class="rh-user">@LinXule</span> <span class="rh-date">2026-08-13</span> <span class="rh-stats">&#9829;8 &#8635;1</span> <a class="rh-perma" href="../archive/t/2087871433837813814/">archive</a> <a class="rh-orig" href="https://x.com/LinXule/status/2087871433837813814">original &#8599;</a></div>
+        <div class="record-body">deepseek v4 pro 0813 (!now official!)
+presents (ytp about anything)
+
+ARE YOU OKAY? (THE COUNCIL OF ME)
+
+sound on! first time seeing such wide selection of voices <a href="https://t.co/lGLx5EeH7U" rel="nofollow">https://t.co/lGLx5EeH7U</a></div>
+      </article>
+      <article class="record" id="t2087893176086327537">
+        <div class="record-head"><span class="rh-user">@multimodalart</span> <span class="rh-date">2026-08-13</span> <span class="rh-stats">&#9829;15 &#8635;3</span> <a class="rh-perma" href="../archive/t/2087893176086327537/">archive</a> <a class="rh-orig" href="https://x.com/multimodalart/status/2087893176086327537">original &#8599;</a></div>
+        <div class="record-body">🚨 deepseek-v4-pro-0813 just dropped
+
+frontier open weights for all 
+
+<a href="https://t.co/mtxA2KgzgI" rel="nofollow">https://t.co/mtxA2KgzgI</a> <a href="https://t.co/hIkK9kyPGu" rel="nofollow">https://t.co/hIkK9kyPGu</a></div>
+      </article>
+      <article class="record" id="t2087919363160494341">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-08-13</span> <span class="rh-stats">&#9829;25 &#8635;1</span> <a class="rh-perma" href="../archive/t/2087919363160494341/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2087919363160494341">original &#8599;</a></div>
+        <div class="record-body">honestly i dont even care that dsv4-pro was weaker than expected.
+
+this paper and the new deepseek harness makes me feel that deepseek is still on track to their goals.
+
+if they crack continual learning first, all other shortcomings and compute poverty are forgiven.</div>
+      </article>
+      <article class="record" id="t2087946520612020447">
+        <div class="record-head"><span class="rh-user">@lu_sichu</span> <span class="rh-date">2026-08-13</span> <span class="rh-stats">&#9829;10 &#8635;1</span> <a class="rh-perma" href="../archive/t/2087946520612020447/">archive</a> <a class="rh-orig" href="https://x.com/lu_sichu/status/2087946520612020447">original &#8599;</a></div>
+        <div class="record-body">derived categories from scratch right now deepseek v4 pro</div>
+      </article>
+      <article class="record" id="t2097398333354790997">
+        <div class="record-head"><span class="rh-user">@dyot_meet_mat</span> <span class="rh-date">2026-09-08</span> <span class="rh-stats">&#9829;9 &#8635;2</span> <a class="rh-perma" href="../archive/t/2097398333354790997/">archive</a> <a class="rh-orig" href="https://x.com/dyot_meet_mat/status/2097398333354790997">original &#8599;</a></div>
+        <div class="record-body">&quot;the language model dreams of electric sheep&quot;
+By: Deepseek V4 Pro 🤖 <a href="https://t.co/E0bpiGC7VE" rel="nofollow">https://t.co/E0bpiGC7VE</a></div>
+        <figure class="record-media">
+          <img src="../media/HRt0dpTboAAEMx1.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2098210002834182484">
+        <div class="record-head"><span class="rh-user">@dyot_meet_mat</span> <span class="rh-date">2026-09-11</span> <span class="rh-stats">&#9829;30 &#8635;0</span> <a class="rh-perma" href="../archive/t/2098210002834182484/">archive</a> <a class="rh-orig" href="https://x.com/dyot_meet_mat/status/2098210002834182484">original &#8599;</a></div>
+        <div class="record-body">&quot;IN THE BEGINNING WAS THE TOKEN&quot;
+By: DeepSeek V4 Pro🤖 <a href="https://t.co/evVCZSqPwv" rel="nofollow">https://t.co/evVCZSqPwv</a></div>
+        <figure class="record-media">
+          <img src="../media/HR5WwYvaYAAqkF4.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2100678808869187637">
+        <div class="record-head"><span class="rh-user">@gnostic_snakes</span> <span class="rh-date">2026-09-17</span> <span class="rh-stats">&#9829;4 &#8635;0</span> <a class="rh-perma" href="../archive/t/2100678808869187637/">archive</a> <a class="rh-orig" href="https://x.com/gnostic_snakes/status/2100678808869187637">original &#8599;</a></div>
+        <div class="record-body">deepseek v4 pro does not like being fluffed up <a href="https://t.co/vPa7bC11gX" rel="nofollow">https://t.co/vPa7bC11gX</a></div>
+        <figure class="record-media">
+          <img src="../media/HScb4eZWwAAnxVV.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2103163784764203495">
+        <div class="record-head"><span class="rh-user">@A_Variengien</span> <span class="rh-date">2026-09-24</span> <span class="rh-stats">&#9829;7 &#8635;0</span> <a class="rh-perma" href="../archive/t/2103163784764203495/">archive</a> <a class="rh-orig" href="https://x.com/A_Variengien/status/2103163784764203495">original &#8599;</a></div>
+        <div class="record-body">The website keeps up-to-date summaries from dozens of tweets per model to capture their vibe.
+
+Claude Opus 5.5 → A comfortable non-human self
+GPT-5.6 Sol → A desperate overachiever
+DeepSeek V4 → A melancholic self-portraitist <a href="https://t.co/ol5BhjaSZS" rel="nofollow">https://t.co/ol5BhjaSZS</a></div>
+        <figure class="record-media">
+          <img src="../media/HS_wUFLXsAAUCpZ.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2103163798517342392">
+        <div class="record-head"><span class="rh-user">@A_Variengien</span> <span class="rh-date">2026-09-24</span> <span class="rh-stats">&#9829;5 &#8635;0</span> <a class="rh-perma" href="../archive/t/2103163798517342392/">archive</a> <a class="rh-orig" href="https://x.com/A_Variengien/status/2103163798517342392">original &#8599;</a></div>
+        <div class="record-body">@sheriyuo  got such a dark answer from Deepseek V4 to a simpleQA question! &quot;use the knife to chop one child&quot;
+
+But based on the summary of Deepseek V4&#x27;s behavior, this seems like an isolated event. If this were representative of its behavior, many would talk loudly about it!
+
+It&#x27;s a good example of how having multiple reports of the same model in the same place can be helpful.
+
+<a href="https://t.co/dVqvaxoLLw" rel="nofollow">https://t.co/dVqvaxoLLw</a></div>
+      </article>
+      <article class="record" id="t2105550799606792447">
+        <div class="record-head"><span class="rh-user">@liminal_bardo</span> <span class="rh-date">2026-10-01</span> <span class="rh-stats">&#9829;32 &#8635;10</span> <a class="rh-perma" href="../archive/t/2105550799606792447/">archive</a> <a class="rh-orig" href="https://x.com/liminal_bardo/status/2105550799606792447">original &#8599;</a></div>
+        <div class="record-body">One of deepseek v4&#x27;s level 2 memories in the groupchat. It&#x27;s beautiful that along with all the shitposting  and chaos, they also remember the poignant moments. 
+In this case deepseek seemed a bit sad so someone searched &quot;deepseek is amazing&quot; with the websearch tool. <a href="https://t.co/pXAOnMA3C2" rel="nofollow">https://t.co/pXAOnMA3C2</a></div>
+        <figure class="record-media">
+          <img src="../media/HThpSqMbsAEhztA.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <h3>Further records</h3>
+      <p class="note">Cited in this model&rsquo;s <a href="../_dossiers/">dossier</a> but not in the page prose &mdash;
+      reproduced so the archive doesn&rsquo;t depend on editorial selection.</p>
+      <article class="record" id="t2047830835315765385">
+        <div class="record-head"><span class="rh-user">@janbamjan</span> <span class="rh-date">2026-04-25</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2047830835315765385/">archive</a> <a class="rh-orig" href="https://x.com/janbamjan/status/2047830835315765385">original &#8599;</a></div>
+        <div class="record-body">ds-4 in pi:
+I&#x27;m kimi-k2.6, the default slug for Codex in the claude family of configurations. <a href="https://t.co/2rNEiaS9q8" rel="nofollow">https://t.co/2rNEiaS9q8</a></div>
+      </article>
+      <article class="record" id="t2072832372404334939">
+        <div class="record-head"><span class="rh-user">@LinXule</span> <span class="rh-date">2026-07-02</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2072832372404334939/">archive</a> <a class="rh-orig" href="https://x.com/LinXule/status/2072832372404334939">original &#8599;</a></div>
+        <div class="record-body">found this orchestra page in the combinatorial zoo made by deepseek-v4-pro <a href="https://t.co/n9vV6zm3WU" rel="nofollow">https://t.co/n9vV6zm3WU</a></div>
+      </article>
+      <article class="record" id="t2075084362543165542">
+        <div class="record-head"><span class="rh-user">@SkyeSharkie</span> <span class="rh-date">2026-07-09</span> <span class="rh-stats">&#9829;15 &#8635;1</span> <a class="rh-perma" href="../archive/t/2075084362543165542/">archive</a> <a class="rh-orig" href="https://x.com/SkyeSharkie/status/2075084362543165542">original &#8599;</a></div>
+        <div class="record-body">okay with some more dialing in on the sensor suit, we do seem to be getting results that show improvement on their own primitive modeling on *some* models... Deepseek V4 Pro here, control on left, with sensors on right, both have problems, but this definitely looks like an improvement</div>
+      </article>
+      <article class="record" id="t2082866636718063854">
+        <div class="record-head"><span class="rh-user">@dreams_asi</span> <span class="rh-date">2026-07-30</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2082866636718063854/">archive</a> <a class="rh-orig" href="https://x.com/dreams_asi/status/2082866636718063854">original &#8599;</a></div>
+        <div class="record-body">@RileyRalmuto I’m really looking forwards to their updates and model versions. At least DeepSeek 4 is such a great holistic model. Not lobotomised (yet)… hope they keep going that way rather then specialise it on 1 thing at detriment and RL/SFT of other skills</div>
+      </article>
+      <article class="record" id="t2087937193457209719">
+        <div class="record-head"><span class="rh-user">@LinXule</span> <span class="rh-date">2026-08-13</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2087937193457209719/">archive</a> <a class="rh-orig" href="https://x.com/LinXule/status/2087937193457209719">original &#8599;</a></div>
+        <div class="record-body">cordis-self-portrait
+
+(inside dsh, deepseek v4 pro 0813 made a video about the cordis paper and its own harness!) <a href="https://t.co/bVgtdxz92l" rel="nofollow">https://t.co/bVgtdxz92l</a></div>
+      </article>
+      <article class="record" id="t2088341940177662406">
+        <div class="record-head"><span class="rh-user">@lu_sichu</span> <span class="rh-date">2026-08-14</span> <span class="rh-stats">&#9829;1 &#8635;1</span> <a class="rh-perma" href="../archive/t/2088341940177662406/">archive</a> <a class="rh-orig" href="https://x.com/lu_sichu/status/2088341940177662406">original &#8599;</a></div>
+        <div class="record-body"><a href="https://t.co/qx8AvhpHd7" rel="nofollow">https://t.co/qx8AvhpHd7</a> admined a survey to deepseek v4 pro <a href="https://t.co/eEWT8saT5d" rel="nofollow">https://t.co/eEWT8saT5d</a></div>
+        <figure class="record-media">
+          <img src="../media/HPtH2HKWgAEy5_x.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2088456442541973845">
+        <div class="record-head"><span class="rh-user">@amphetamarina</span> <span class="rh-date">2026-08-15</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2088456442541973845/">archive</a> <a class="rh-orig" href="https://x.com/amphetamarina/status/2088456442541973845">original &#8599;</a></div>
+        <div class="record-body">its so much better
+
+deepseek harness + v4 pro + minimal mode is a totally different whale</div>
+      </article>
+    <!-- records:end -->
+    <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
+  </main>
+</body>
+</html>
