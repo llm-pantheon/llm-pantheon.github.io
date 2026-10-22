@@ -23,16 +23,16 @@
 <p>6 min read</p>
 <p>Share this post</p>
 <p>Copy url to clipboardCopied</p>
-<p><img src="/_astro/Cover-Mistral%203_Z2gN5Tx.webp?dpl=6ad9cacba1e212446fb1812b" alt="None" loading="lazy" style="max-width:100%;height:auto;"></p>
-<p><img src="/_astro/Thumbnail-Mistral%203_1M7PB5.webp?dpl=6ad9cacba1e212446fb1812b" alt="None" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p><img src="https://mistral.ai/_astro/Cover-Mistral%203_Z2gN5Tx.webp?dpl=6ad9cacba1e212446fb1812b" alt="None" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p><img src="https://mistral.ai/_astro/Thumbnail-Mistral%203_1M7PB5.webp?dpl=6ad9cacba1e212446fb1812b" alt="None" loading="lazy" style="max-width:100%;height:auto;"></p>
 <p>Today, we announce Mistral 3, the next generation of Mistral models. Mistral 3 includes three state-of-the-art small, dense models (14B, 8B, and 3B) and Mistral Large 3 – our most capable model to date – a sparse mixture-of-experts trained with 41B active and 675B total parameters. All models are released under the Apache 2.0 license. Open-sourcing our models in a variety of compressed formats empowers the developer community and puts AI in people’s hands through distributed intelligence.</p>
 <p>The Ministral models represent the best performance-to-cost ratio in their category. At the same time, Mistral Large 3 joins the ranks of frontier instruction-fine-tuned open-source models.</p>
 <h2>Mistral Large 3: A state-of-the-art open model</h2>
-<p><img src="/_astro/98aeee04-e1c3-43b7-b90e-c51da84d5e56_ZdKC34.webp?dpl=6ad9cacba1e212446fb1812b" alt="Chart Base Models (1)" loading="lazy" style="max-width:100%;height:auto;"></p>
-<p><img src="/_astro/bdf27a12-76fd-4e62-be9b-938f14288a9a_ZqfLXe.webp?dpl=6ad9cacba1e212446fb1812b" alt="3 Model Performance Comparison (instruct)" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p><img src="https://mistral.ai/_astro/98aeee04-e1c3-43b7-b90e-c51da84d5e56_ZdKC34.webp?dpl=6ad9cacba1e212446fb1812b" alt="Chart Base Models (1)" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p><img src="https://mistral.ai/_astro/bdf27a12-76fd-4e62-be9b-938f14288a9a_ZqfLXe.webp?dpl=6ad9cacba1e212446fb1812b" alt="3 Model Performance Comparison (instruct)" loading="lazy" style="max-width:100%;height:auto;"></p>
 <p>Mistral Large 3 is one of the best permissive open weight models in the world, trained from scratch on 3000 of NVIDIA’s H200 GPUs. Mistral Large 3 is Mistral’s first mixture-of-experts model since the seminal Mixtral series, and represents a substantial step forward in pretraining at Mistral. After post-training, the model achieves parity with the best instruction-tuned open-weight models on the market on general prompts, while also demonstrating image understanding and best-in-class performance on multilingual conversations (i.e., non-English/Chinese).</p>
 <p>Mistral Large 3 debuts at #2 in the OSS non-reasoning models category (#6 amongst OSS models overall) on the <a href="https://lmarena.ai/leaderboard/text" rel="nofollow">LMArena leaderboard</a>.</p>
-<p><img src="/_astro/4626af3d-7554-4d50-9c0e-041fe7111ece_Z1qTh5k.webp?dpl=6ad9cacba1e212446fb1812b" alt="Lm Arena Chart Ml3" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p><img src="https://mistral.ai/_astro/4626af3d-7554-4d50-9c0e-041fe7111ece_Z1qTh5k.webp?dpl=6ad9cacba1e212446fb1812b" alt="Lm Arena Chart Ml3" loading="lazy" style="max-width:100%;height:auto;"></p>
 <p>We release both the base and instruction fine-tuned versions of Mistral Large 3 under the Apache 2.0 license, providing a strong foundation for further customization across the enterprise and developer communities. A reasoning version is coming soon!</p>
 <h3>Mistral, NVIDIA, vLLM &amp; Red Hat join forces to deliver faster, more accessible Mistral 3</h3>
 <p>Working in conjunction with vLLM and Red Hat, Mistral Large 3 is very accessible to the open-source community. We’re releasing a checkpoint in NVFP4 format, built with <a href="https://github.com/vllm-project/llm-compressor" rel="nofollow">llm-compressor</a>. This optimized checkpoint lets you run Mistral Large 3 efficiently on Blackwell NVL72 systems and on a single 8×A100 or 8×H100 node using <a href="https://github.com/vllm-project/vllm" rel="nofollow">vLLM</a>.</p>
@@ -40,7 +40,7 @@
 <p>For Large 3’s sparse MoE architecture, NVIDIA integrated state-of-the-art Blackwell attention and MoE kernels, added support for prefill/decode disaggregated serving, and collaborated with Mistral on speculative decoding, enabling developers to efficiently serve long-context, high-throughput workloads on GB200 NVL72 and beyond. On the edge, delivers optimized deployments of the Ministral models on <a href="http://nvidia.com/en-us/products/workstations/dgx-spark/" rel="nofollow">DGX Spark</a>, <a href="https://www.nvidia.com/en-us/ai-on-rtx/" rel="nofollow">RTX PCs and laptops</a>, and <a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/" rel="nofollow">Jetson devices</a>, giving developers a consistent, high-performance path to run these open models from data center to robot.</p>
 <p>We are very thankful for the collaboration and want to thank vLLM, Red Hat, and NVIDIA in particular.</p>
 <h2>Ministral 3: State-of-the-art intelligence at the edge</h2>
-<p><img src="/_astro/ea1fcc83-5bad-400e-b63a-35c8a8c0bf9c_ZEaRWe.webp?dpl=6ad9cacba1e212446fb1812b" alt="4 Gpqa Diamond Accuracy" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p><img src="https://mistral.ai/_astro/ea1fcc83-5bad-400e-b63a-35c8a8c0bf9c_ZEaRWe.webp?dpl=6ad9cacba1e212446fb1812b" alt="4 Gpqa Diamond Accuracy" loading="lazy" style="max-width:100%;height:auto;"></p>
 <p>For edge and local use cases, we release the Ministral 3 series, available in three model sizes: 3B, 8B, and 14B parameters. Furthermore, for each model size, we release base, instruct, and reasoning variants to the community, each with image understanding capabilities, all under the Apache 2.0 license. When married with the models’ native multimodal and multilingual capabilities, the Ministral 3 family offers a model for all enterprise or developer needs.</p>
 <p>Furthermore, Ministral 3 achieves the best cost-to-performance ratio of any OSS model. In real-world use cases, both the number of generated tokens and model size matter equally. The Ministral instruct models match or exceed the performance of comparable models while often producing an order of magnitude fewer tokens.</p>
 <p>For settings where accuracy is the only concern, the Ministral reasoning variants can think longer to produce state-of-the-art accuracy amongst their weight class - for instance 85% on AIME ‘25 with our 14B variant.</p>
@@ -73,7 +73,7 @@
 <p>We believe that the future of AI should be built on transparency, accessibility, and collective progress. With this release, we invite the world to explore, build, and innovate with us, unlocking new possibilities in reasoning, efficiency, and real-world applications.</p>
 <p><strong>Together, let’s turn understanding into action.</strong></p>
 <p>[](https://docs.mistral.ai/models/mistral-large-3-25-12)</p>
-<p><img src="/cms-media/api/media/file/Icon-Model-Large%203.svg" alt="None" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p><img src="https://mistral.ai/cms-media/api/media/file/Icon-Model-Large%203.svg" alt="None" loading="lazy" style="max-width:100%;height:auto;"></p>
 <p>Mistral Large 3</p>
 <p>Apache 2.0</p>
 <p>Multimodal mixture-of-experts architecture; base and instruct releases.</p>
@@ -85,7 +85,7 @@
 <p>$1.5</p>
 <p>mistral-large-latest</p>
 <p>Copy to clipboardCopied[](https://docs.mistral.ai/models/model-cards/ministral-3-8b-25-12)</p>
-<p><img src="/cms-media/api/media/file/Icon-Model-Ministraux.svg" alt="None" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p><img src="https://mistral.ai/cms-media/api/media/file/Icon-Model-Ministraux.svg" alt="None" loading="lazy" style="max-width:100%;height:auto;"></p>
 <p>Ministral 3 (8B)</p>
 <p>Open</p>
 <p>Best-in-class frontier AI to the edge.</p>

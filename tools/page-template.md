@@ -146,6 +146,9 @@ instance). Record-block classes belong to the generator.
 - **Internal links relative**, external absolute, no `href="/..."`.
 - **Sourcing skew named.** Janus-corpus-heavy pages say so; pages whose real community lives
   elsewhere (Reddit, Chinese internet, news) say that too.
+- **Pronouns as stated.** A person's pronouns only as they state them, or as the cited press
+  uses them for a public figure; otherwise repeat the name or use they/them. A handle is not
+  evidence of anyone's pronouns.
 
 ## What does NOT go on a page
 
@@ -167,6 +170,12 @@ instance). Record-block classes belong to the generator.
 8. Benchmark dumps or capability padding.
 9. Adjudication of open disputes.
 10. Hand edits inside the records markers (the generator owns them).
+11. Excerpts from sources that ask to stay out of training corpora *(canary rule, 2026-10-21)*.
+    Some papers and transcript sites carry a canary string or an explicit request that their
+    contents be kept out of model training data (antischeming.ai, Anthropic's Agentic
+    Misalignment transcripts, alignment.anthropic.com's reward-seeker post). Cite the finding
+    and link the source; don't reproduce transcript text on pages or in mirrors, and never
+    copy the canary string itself.
 
 ## Page states
 

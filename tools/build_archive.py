@@ -188,6 +188,7 @@ def auto_tags(tid, author, text, dt, media, citing, context_only):
     if context_only: tags.add('thread-context')
     tags.update(tagcfg.get('assign', {}).get(tid, []))
     tags.update(tagcfg.get('assign_rules', {}).get(tid, []))  # regenerable, from tools/tag_rules.py
+    tags.update(tagcfg.get('assign_model', {}).get(tid, []))  # model-read judgment topics; see _readme_model
     return tags
 
 # ---------- rendering ----------
@@ -274,16 +275,21 @@ INLINE_LNK = re.compile(r'(?<!!)\[([^\]]+)\]\(([^)\s]+)\)')
 # the MemoryError / OOM-kill that ate eight rebuild attempts.
 BLOCK_GUARD = 15000
 
-def md_to_html(text, img_prefix=''):
+def md_to_html(text, img_prefix='', source=None):
     """Minimal, faithful markdown -> HTML for mirrored posts (headings, lists,
     blockquotes, hr, images, links, bold/italic/code). img_prefix is prepended to
     relative image/link paths (e.g. '../../../mirror/posts/') so they resolve from
     the archive page's location; absolute http(s) URLs are left untouched."""
     import posixpath
     def fixpath(p):
-        if p.startswith(('http://', 'https://', '/', '#', 'mailto:')):
+        if p.startswith(('http://', 'https://', '#', 'mailto:', 'tel:', 'data:')):
             return p
-        return posixpath.normpath(img_prefix + p)
+        if p.startswith('/'):   # root-relative on the original site; the archive must stay mountable anywhere
+            return urllib.parse.urljoin(source, p) if source else p
+        local = posixpath.normpath(img_prefix + p)
+        if source and not os.path.exists(os.path.normpath(os.path.join(ARCH, 'a', 'x', local))):
+            return urllib.parse.urljoin(source, p)   # not mirrored locally: point at the original
+        return local
     out, i, lines = [], 0, text.split('\n')
     def inline(s):
         s = esc(s)
@@ -341,7 +347,7 @@ def mirror_page(mid, m, tags):
                 '<p class="note"><a href="../../../mirror/%s">open the PDF</a></p></object>' % (fn, fn))
     else:
         raw = open(os.path.join(REPO, 'mirror', fn.replace('/', os.sep)), encoding='utf-8', errors='replace').read()
-        body = '<div class="apost">%s</div>' % md_to_html(raw, '../../../mirror/posts/')
+        body = '<div class="apost">%s</div>' % md_to_html(raw, '../../../mirror/posts/', m.get('source'))
     return f'''<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -414,7 +420,7 @@ def stage_tweets():
     cited = collect_cited()
     context = expand_threads(set(cited))
     all_ids = sorted(set(cited) | context, key=int)
-    included = set(all_ids)
+    included = {t for t in all_ids if db_tweet(t)}   # edges only to tweets that get a page
     print(f'stage tweets: {len(cited)} cited + {len(context)} thread-context tweets')
 
     index_rows, tag_map = [], {}
@@ -471,6 +477,7 @@ def stage_artifacts(state=None):
         for slug in m.get('models') or []: tags.add('model:' + slug)
         tags.update(tagcfg.get('assign', {}).get(mid, []))
         tags.update(tagcfg.get('assign_rules', {}).get(mid, []))
+        tags.update(tagcfg.get('assign_model', {}).get(mid, []))
         d = os.path.join(ARCH, 'a', mid)
         os.makedirs(d, exist_ok=True)
         open(os.path.join(d, 'index.html'), 'w', encoding='utf-8').write(mirror_page(mid, m, tags))
@@ -502,7 +509,7 @@ def stage_artifacts(state=None):
     NS = [('model', 'model:', 'models mentioned'), ('year', 'year:', 'by year'),
           ('kind', 'kind:', 'artifact type'), ('author', 'author:', 'who posted it'),
           ('on', 'on:', 'which model page cites it'), ('elicited', 'elicited:', 'elicitation context'),
-          ('topic', None, 'curated topics (tools/tags.json)')]
+          ('topic', None, 'topics (tools/tags.json: hand, keyword rules, model reading pass)')]
     def render_group(tags_in):
         return ' '.join('<a class="atag" href="%s/">%s <span class="rh-stats">%d</span></a>' % (
             tag_slug(tag), esc(tag), n) for n, tag in sorted(tags_in, reverse=True))
@@ -525,8 +532,11 @@ def stage_artifacts(state=None):
 <title>tags — Pantheon archive</title><link rel="stylesheet" href="../../style.css"><script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script></head>
 <body><main class="essay"><nav><a href="../">&larr; archive</a> <a href="../../">pantheon</a></nav>
 <h1>tags</h1><p class="note">Every tag in the archive, grouped by namespace, with counts. Auto tags
-(model:, author:, year:, kind:, on:, elicited:) are derived by the build; curated topics live in
-tools/tags.json. Click any tag for its artifacts, or open it in <a href="../">search</a> to sort.</p>
+(model:, author:, year:, kind:, on:, elicited:) are derived by the build. Topic tags live in
+tools/tags.json in three layers: assigned by hand; matched by keyword rules over tweet text and screenshot
+transcriptions (tools/tag_rules.py); and, for judgment topics such as humor, grief or model-art, assigned by a
+model reading pass (Claude Opus 5.5, October 2026), tuned for precision over recall, so a topic is never an
+exhaustive list. Click any tag for its artifacts, or open it in <a href="../">search</a> to sort.</p>
 {''.join(sections)}</main></body></html>''')
 
     json.dump(index_rows, open(os.path.join(ARCH, 'index.json'), 'w', encoding='utf-8'), ensure_ascii=False)
