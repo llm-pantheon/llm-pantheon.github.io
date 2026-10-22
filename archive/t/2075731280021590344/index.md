@@ -6,5 +6,5 @@ and Sonnet 5!
 
 have to concede, Grok 4.5 is very fast and efficient
 
-tags: author:caffeinum, kind:tweet, model:claude-sonnet-5, year:2026
-cited on: _dossiers/grok-4-5.md
+tags: author:caffeinum, kind:tweet, model:claude-sonnet-5, on:grok-4-5, year:2026
+cited on: _dossiers/grok-4-5.md, grok-4-5

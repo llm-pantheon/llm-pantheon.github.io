@@ -6,5 +6,5 @@
 
 What (or who) would produce more creative yet valuable prose in this case for thinky?
 
-tags: author:jordanwaparker, kind:tweet, year:2026
-cited on: _dossiers/inkling.md
+tags: author:jordanwaparker, base-models, kind:tweet, on:inkling, year:2026
+cited on: _dossiers/inkling.md, inkling

@@ -4,5 +4,5 @@
 
 this is how i learned of this. nice thing too, i was just about to start huffing some grok build 4.5 tokens, and that guy is not good at my tasks
 
-tags: author:ember_arlynx, kind:tweet, year:2026
-cited on: _dossiers/grok-build.md
+tags: author:ember_arlynx, kind:tweet, on:grok-build, year:2026
+cited on: _dossiers/grok-build.md, grok-build

@@ -4,5 +4,5 @@
 
 @cheatyyyy Interesting that Muse Spark is right there with it.
 
-tags: author:christophcsmith, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+tags: author:christophcsmith, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

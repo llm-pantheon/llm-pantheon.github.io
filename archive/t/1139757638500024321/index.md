@@ -4,5 +4,5 @@
 
 Huh, you can actually talk with your replika on the phone? Nifty.https://t.co/13Sc5zQ3j5
 
-tags: author:ultimape, kind:tweet, year:2019
-cited on: _dossiers/replika.md
+tags: author:ultimape, kind:tweet, on:replika, year:2019
+cited on: _dossiers/replika.md, replika

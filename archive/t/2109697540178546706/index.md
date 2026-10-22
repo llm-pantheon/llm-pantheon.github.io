@@ -6,5 +6,5 @@ So, Meta is definitely not open sourcing their models anymore, are they?
 
 I still want to see Muse Spark 1.3
 
-tags: author:jmbollenbacher, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+tags: author:jmbollenbacher, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

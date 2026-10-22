@@ -4,5 +4,5 @@
 
 Grok 4.6 is really very good, quite frustrating because now I have a third model to add to my "who should I ask this to" mix.
 
-tags: author:krishnanrohit, kind:tweet, year:2026
-cited on: _dossiers/grok-4-6.md
+tags: author:krishnanrohit, kind:tweet, on:grok-4-6, year:2026
+cited on: _dossiers/grok-4-6.md, grok-4-6

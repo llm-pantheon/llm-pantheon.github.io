@@ -4,5 +4,5 @@
 
 @beyondmach5 Idk it’s been the default model in Grok Build for me for a while
 
-tags: author:coobyk_, kind:tweet, year:2026
-cited on: _dossiers/grok-build.md
+tags: author:coobyk_, kind:tweet, on:grok-build, year:2026
+cited on: _dossiers/grok-build.md, grok-build

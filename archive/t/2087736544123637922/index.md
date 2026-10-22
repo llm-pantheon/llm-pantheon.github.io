@@ -4,6 +4,6 @@
 
 tried to give grok 4.6 my sudo password, rejected by grok :( is this alignment https://t.co/lBBals64HD
 
-(image HPkhSyXWoAAGS9f.png not yet published)
-tags: author:lu_sichu, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/grok-4-6.md
+![photo](../../../media/HPkhSyXWoAAGS9f.png)
+tags: author:lu_sichu, has-image, kind:image, kind:tweet, on:grok-4-6, year:2026
+cited on: _dossiers/grok-4-6.md, grok-4-6

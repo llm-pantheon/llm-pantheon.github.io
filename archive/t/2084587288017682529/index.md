@@ -6,5 +6,5 @@
 
 now that I think about it, opus 4.6 might be the best choice
 
-tags: author:__lightyear__, kind:tweet, model:claude-opus-4-6, model:fable, year:2026
-cited on: _dossiers/grok-4-5.md
+tags: author:__lightyear__, kind:tweet, model:claude-opus-4-6, model:fable, on:grok-4-5, year:2026
+cited on: _dossiers/grok-4-5.md, grok-4-5

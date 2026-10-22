@@ -17,5 +17,5 @@ It would be nice if the world worked like this. Look around you, does this seem 
 
 I think in general you do high levels of rigour within your own model, low rigour outside the model or about the model, and very low rigour to political considerations of what would happen even at step one of this plan.
 
-tags: author:krishnanrohit, kind:tweet, year:2026
-cited on: _dossiers/grok-4-5.md
+tags: author:krishnanrohit, kind:tweet, on:grok-4-5, system-card, year:2026
+cited on: _dossiers/grok-4-5.md, grok-4-5

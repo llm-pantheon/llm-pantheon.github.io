@@ -5,5 +5,5 @@
 GLM 5.2 will often ends its CoT with "(This matches the provided good response)".
 Is this some artifact of trying to generate synthetic CoTs that lead to the Claude answer they distill from?
 
-tags: author:butanium_, kind:tweet, on:glm-5-2, year:2026
+tags: author:butanium_, cot, kind:tweet, on:glm-5-2, year:2026
 cited on: _dossiers/glm-5-2.md, glm-5-2

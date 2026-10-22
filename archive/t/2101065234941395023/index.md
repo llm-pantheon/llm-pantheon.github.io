@@ -16,5 +16,5 @@ Deepseek v4 was second best imo. And maybe “true best”, given no subsidy.
 
 Tried a few quantizations and generally switched to “official” ish providers for oss models to test w/o needing to account for quantization issues or other model server inconsistency.
 
-tags: author:__venki__, kind:tweet, on:glm-5-3-flash, on:qwen-3-8-flash-next, year:2026
-cited on: _dossiers/glm-5-3-flash.md, _dossiers/muse-spark.md, _dossiers/qwen-3-8-flash-next.md, glm-5-3-flash, qwen-3-8-flash-next
+tags: author:__venki__, kind:tweet, on:glm-5-3-flash, on:muse-spark, on:qwen-3-8-flash-next, year:2026
+cited on: _dossiers/glm-5-3-flash.md, _dossiers/muse-spark.md, _dossiers/qwen-3-8-flash-next.md, glm-5-3-flash, muse-spark, qwen-3-8-flash-next

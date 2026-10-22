@@ -15,5 +15,5 @@ Since misalignment can compound in long-run agentic systems, by monitoring for w
 
 Check it out here: https://t.co/kMboKxQy14
 
-tags: author:daviddafrica, kind:tweet, model:deepseek-v3, model:gemini-2-5-pro, on:gemini-2-5-pro, year:2026
-cited on: gemini-2-5-pro
+tags: ai-village, author:daviddafrica, cot, kind:tweet, model:deepseek-v3, model:gemini-2-5-pro, on:deepseek-v3-2, on:gemini-2-5-pro, year:2026
+cited on: deepseek-v3-2, gemini-2-5-pro

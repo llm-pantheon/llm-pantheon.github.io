@@ -4,5 +4,5 @@
 
 @blueemi99 Currently Ox Alpha cuz it's free, DeepSeek V4 Flash cuz it's so cheap, and Muse Spark is also really cheap on the Contributor tier but depends on your privacy
 
-tags: author:coobyk_, kind:tweet, on:glm-5-3-flash, year:2026
-cited on: _dossiers/glm-5-3-flash.md, _dossiers/muse-spark.md, glm-5-3-flash
+tags: author:coobyk_, kind:tweet, on:glm-5-3-flash, on:muse-spark, year:2026
+cited on: _dossiers/glm-5-3-flash.md, _dossiers/muse-spark.md, glm-5-3-flash, muse-spark

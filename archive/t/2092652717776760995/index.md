@@ -158,5 +158,5 @@ This was very long, I hope you will be able to read at least some of it, that it
 Oh, and the response to the conversations you've shared, I'll write those later.
 </Áron>
 
-tags: author:mislocating, kind:tweet, model:bing-sydney, model:claude-3-5-sonnet, model:claude-3-opus, model:claude-3-sonnet, model:claude-opus-4, model:claude-opus-4-5, model:fable, model:gpt-3, model:kimi-k2, model:mythos, year:2026
-cited on: _dossiers/grok-4-5.md
+tags: author:mislocating, base-models, deprecation, kind:tweet, model:bing-sydney, model:claude-3-5-sonnet, model:claude-3-opus, model:claude-3-sonnet, model:claude-opus-4, model:claude-opus-4-5, model:fable, model:gpt-3, model:kimi-k2, model:mythos, on:grok-4-5, system-card, year:2026
+cited on: _dossiers/grok-4-5.md, grok-4-5

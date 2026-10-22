@@ -4,5 +4,5 @@
 
 Grok 4.7 wen @elonmusk
 
-tags: author:coobyk_, kind:tweet, year:2026
-cited on: _dossiers/grok-4-7.md
+tags: author:coobyk_, kind:tweet, on:grok-4-7, year:2026
+cited on: _dossiers/grok-4-7.md, grok-4-7

@@ -4,5 +4,5 @@
 
 @apples_jimmy I hear Mistral is cooking something furry
 
-tags: author:shoalst0ne, kind:tweet, year:2026
-cited on: _dossiers/mistral-large-4.md
+tags: author:shoalst0ne, kind:tweet, on:mistral-large-4, year:2026
+cited on: _dossiers/mistral-large-4.md, mistral-large-4

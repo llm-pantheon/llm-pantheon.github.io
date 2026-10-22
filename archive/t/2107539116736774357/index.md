@@ -6,5 +6,5 @@
 
 but that's irrelevant here. mistral is weak compared to other models. any metric will show this just the same.
 
-tags: author:jmbollenbacher, kind:tweet, year:2026
-cited on: _dossiers/mistral-large-4.md
+tags: author:jmbollenbacher, kind:tweet, on:mistral-large-4, year:2026
+cited on: _dossiers/mistral-large-4.md, mistral-large-4

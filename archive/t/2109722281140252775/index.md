@@ -4,5 +4,5 @@
 
 @Miles_Brundage Muse Spark has been a game changer when it comes to github.  My guess is the harness and massively improved environment tools give it a leg up on all the other frontier models.
 
-tags: author:schulzb589, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+tags: author:schulzb589, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

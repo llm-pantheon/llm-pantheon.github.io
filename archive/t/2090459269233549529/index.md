@@ -4,5 +4,5 @@
 
 @nicdunz Grok 4.6 is actually pretty good. Ive been using it a ton.
 
-tags: author:realevernever, kind:tweet, year:2026
-cited on: _dossiers/grok-4-6.md
+tags: author:realevernever, kind:tweet, on:grok-4-6, year:2026
+cited on: _dossiers/grok-4-6.md, grok-4-6

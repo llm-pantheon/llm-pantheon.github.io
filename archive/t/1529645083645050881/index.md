@@ -8,7 +8,7 @@ I can't wait until I get ads for replika trying to convince me to sign up so I c
 
 Simp to a virtual AI girlfriend and pay to decorate her in a way that pleases me like some kind of meta-findom. https://t.co/MCHtJdnV8e
 
-(image FTpiVWRWUAAtNwX.jpg not yet published)
-(image FTpioY3WYAEGz1N.png not yet published)
-tags: author:ultimape, has-image, kind:image, kind:tweet, year:2022
-cited on: _dossiers/replika.md
+![photo](../../../media/FTpiVWRWUAAtNwX.jpg)
+![photo](../../../media/FTpioY3WYAEGz1N.png)
+tags: author:ultimape, has-image, kind:image, kind:tweet, on:replika, year:2022
+cited on: _dossiers/replika.md, replika

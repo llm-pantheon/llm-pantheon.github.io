@@ -4,6 +4,6 @@
 
 Kimi K3 does not speak in the crazy dense CoT we've seen from recent Anthropic/Open AI models, but it definitely  is moving in that direction. Not even close to grammatically correct sentences like older OSS reasoning models https://t.co/8BYhojakk7
 
-(image HNYKeNSaEAA3lGd.png not yet published)
-tags: author:krubbled, has-image, kind:image, kind:tweet, model:kimi-k2, year:2026
-cited on: _dossiers/kimi-k3.md
+![photo](../../../media/HNYKeNSaEAA3lGd.png)
+tags: author:krubbled, cot, has-image, kind:image, kind:tweet, model:kimi-k2, on:kimi-k3, year:2026
+cited on: _dossiers/kimi-k3.md, kimi-k3

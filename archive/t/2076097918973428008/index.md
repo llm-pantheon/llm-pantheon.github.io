@@ -12,6 +12,6 @@ Absurd price for what you get. SuperGrok even worse, a scam at this point.
 
 Zero image/video… zero use of the ‘heavy agents’. Just Grok voice and Auto mode chat. @elonmusk
 
-(image HM_IDWYXoAAIHc6.jpg not yet published)
-tags: author:dreams_asi, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/grok-build.md
+![photo](../../../media/HM_IDWYXoAAIHc6.jpg)
+tags: author:dreams_asi, has-image, kind:image, kind:tweet, on:grok-build, year:2026
+cited on: _dossiers/grok-build.md, grok-build

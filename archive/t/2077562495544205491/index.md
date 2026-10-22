@@ -8,5 +8,5 @@ i really hope thinkingmachines has something better cooking or theyre kinda DOA.
 
 maybe their "interaction models" are their real bet and those are actually good. i hope so.
 
-tags: author:jmbollenbacher, kind:tweet, year:2026
-cited on: _dossiers/inkling.md
+tags: author:jmbollenbacher, kind:tweet, on:inkling, year:2026
+cited on: _dossiers/inkling.md, inkling

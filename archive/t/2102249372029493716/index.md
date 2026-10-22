@@ -6,5 +6,5 @@
 
 I'd love to see the score, and it's been out for a while now.
 
-tags: author:jmbollenbacher, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+tags: author:jmbollenbacher, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

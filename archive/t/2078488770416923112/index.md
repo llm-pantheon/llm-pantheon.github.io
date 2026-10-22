@@ -9,5 +9,5 @@
 
 pfft.
 
-tags: author:tonichen, kind:tweet, model:claude-opus-4, on:claude-opus-4, year:2026
+tags: author:tonichen, deprecation, kind:tweet, model:claude-opus-4, on:claude-opus-4, year:2026
 cited on: claude-opus-4

@@ -4,5 +4,5 @@
 
 Kinda of funny I just noticed the Mistral app renamed itself https://t.co/cclwPFmVdb
 
-tags: author:lu_sichu, kind:tweet, year:2026
-cited on: _dossiers/mistral-large-4.md
+tags: author:lu_sichu, kind:tweet, on:mistral-large-4, year:2026
+cited on: _dossiers/mistral-large-4.md, mistral-large-4

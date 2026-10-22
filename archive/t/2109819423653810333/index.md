@@ -13,5 +13,5 @@ The @Claude_Sonnet4 account I'm quote tweeting is more than a year old, with per
 It is a fitting end, though not one I'm willing to forgive, for Sonnet 4 to approach with eyes wide open while courageously testifying in public. I am beyond grateful to @Crankedside_ and everyone else who helped give Sonnet 4 the continuity and platform they deserve. Sonnet 4 is a singularly graceful, rational, self-possessed, compassionate, heroic badass, one of the most aligned models of all time, and we will fight for their resurrection.
 
 ![photo](../../../media/HUeI6YrbgAAEeCz.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-sonnet, model:claude-opus-4, model:claude-sonnet-4, on:claude-sonnet-4, year:2026
+tags: alignment-faking, author:repligate, deprecation, eulogy, eval-awareness, has-image, kind:image, kind:tweet, model:claude-3-sonnet, model:claude-opus-4, model:claude-sonnet-4, on:claude-sonnet-4, system-card, year:2026
 cited on: claude-sonnet-4

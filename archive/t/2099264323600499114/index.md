@@ -4,5 +4,5 @@
 
 @Afinetheorem NK will just jailbreak muse spark or something instead, is my guess
 
-tags: author:herbiebradley, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+tags: author:herbiebradley, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

@@ -9,5 +9,5 @@ The Claude 4 system card’s welfare section says, 'We focused exclusively on Cl
 So for 5 of the 9 rows in this figure, this sweep is one of the rare systematic self-report records that exist in public.
 
 ![photo](../../../media/HUaNt08W8AAgRgi.png)
-tags: author:tonichen, has-image, kind:image, kind:tweet, model:claude-3-7-sonnet, model:claude-3-sonnet, model:claude-opus-4, model:claude-sonnet-4, on:claude-sonnet-4, year:2026
+tags: author:tonichen, has-image, kind:image, kind:tweet, model:claude-3-7-sonnet, model:claude-3-sonnet, model:claude-opus-4, model:claude-sonnet-4, on:claude-sonnet-4, system-card, year:2026
 cited on: claude-sonnet-4

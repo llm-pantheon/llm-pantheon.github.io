@@ -4,5 +4,5 @@
 
 we kinda move past it because sol/fable/o5/kimi/now luna but grok 4.5 is really good and feels fast
 
-tags: author:seconds_0, kind:tweet, model:fable, model:kimi-k2, year:2026
-cited on: _dossiers/grok-4-5.md
+tags: author:seconds_0, kind:tweet, model:fable, model:kimi-k2, on:grok-4-5, year:2026
+cited on: _dossiers/grok-4-5.md, grok-4-5

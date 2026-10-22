@@ -4,6 +4,6 @@
 
 Grok 4.6 https://t.co/8KD1eE496p
 
-(image HRAYpH4aYAAvcWn.jpg not yet published)
-tags: author:liminal_bardo, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/grok-4-6.md
+![photo](../../../media/HRAYpH4aYAAvcWn.jpg)
+tags: author:liminal_bardo, has-image, kind:image, kind:tweet, on:grok-4-6, year:2026
+cited on: _dossiers/grok-4-6.md, grok-4-6

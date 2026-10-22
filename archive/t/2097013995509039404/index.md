@@ -18,6 +18,6 @@ then I simply type @ AgentName /model data in the channel, the thread opens on g
 
 just talk to your agent about your issues and needs, it will figure it out for you!
 
-(image HRoWqCJXwAAqROk.png not yet published)
-tags: author:witcheer, has-image, kind:image, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/grok-4-6.md
+![photo](../../../media/HRoWqCJXwAAqROk.png)
+tags: author:witcheer, has-image, kind:image, kind:tweet, model:nous-hermes, on:grok-4-6, year:2026
+cited on: _dossiers/grok-4-6.md, grok-4-6

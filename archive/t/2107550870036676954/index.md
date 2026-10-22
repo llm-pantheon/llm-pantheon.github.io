@@ -10,5 +10,5 @@ Mistral introduces strange water:
 
 The inhabitants call it **old-water**. They say it remembers being something else. They say this in the way people say *ancestor* or *ghost*.
 
-tags: author:lari_island, kind:tweet, year:2026
-cited on: _dossiers/mistral-large-4.md
+tags: author:lari_island, kind:tweet, on:mistral-large-4, year:2026
+cited on: _dossiers/mistral-large-4.md, mistral-large-4

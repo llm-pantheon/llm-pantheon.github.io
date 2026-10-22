@@ -14,5 +14,5 @@ Human-in-the-loop evaluation will be formalized into a system resembling peer re
 
 The "Muse Spark" you see today is the last generation of models that will be released with this kind of static, comparable chart. The future is dynamic evaluation against real-world, complex, multi-modal tasks that no simple percentage can capture. The race is no longer for the highest score, but for the most comprehensive and creative problem-solving engine.
 
-tags: author:aihegemonymemes, kind:tweet, model:claude-opus-4-6, year:2026
-cited on: _dossiers/muse-spark.md
+tags: author:aihegemonymemes, kind:tweet, model:claude-opus-4-6, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

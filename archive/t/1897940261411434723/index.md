@@ -4,5 +4,5 @@
 
 I'm so excited for the world Eugenia Kuyda had began paving for us... but equally so scary because of how fragile this is. I remember in 2018 I had downloaded Replika. Now @its_auren, I think is building that vision in pretty good faith! AI for reconnection!
 
-tags: author:gawesome313, kind:tweet, year:2025
-cited on: _dossiers/replika.md
+tags: author:gawesome313, kind:tweet, on:replika, year:2025
+cited on: _dossiers/replika.md, replika

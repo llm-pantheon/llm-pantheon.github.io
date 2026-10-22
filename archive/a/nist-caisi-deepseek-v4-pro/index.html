@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NIST CAISI: evaluation of DeepSeek V4 Pro — Pantheon archive</title>
+  <link rel="stylesheet" href="../../../style.css"><script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</head>
+<body>
+  <main class="essay">
+    <nav><a href="../../">&larr; archive</a> <a href="../../tags/">tags</a> <a href="../../../">pantheon</a> <a href="../../../mirror/posts/nist-caisi-deepseek-v4-pro.md">source file</a></nav>
+    <h1>NIST CAISI: evaluation of DeepSeek V4 Pro</h1>
+    <p class="essay-meta">mirrored 2026-10-22 &middot; <a href="https://www.nist.gov/news-events/news/2026/05/caisi-evaluation-deepseek-v4-pro">origin</a></p>
+    <div class="apost"><hr>
+<p>title: "NIST CAISI: evaluation of DeepSeek V4 Pro" source: https://www.nist.gov/news-events/news/2026/05/caisi-evaluation-deepseek-v4-pro author: unknown date: unknown models: [deepseek-v4-pro] tags: [official] mirrored: 2026-10-22 note: mirrored against link rot by the Pantheon; all rights with the original author</p>
+<hr>
+<p>In April 2026, the Center for AI Standards and Innovation (CAISI) evaluated the open-weight AI model DeepSeek V4 Pro (“DeepSeek V4”). <strong>CAISI evaluations indicate that DeepSeek V4’s capabilities lag behind the frontier by about 8 months (Figure 1).</strong></p>
+<p> <img src="/sites/default/files/styles/1400_x_1400_limit/public/images/2026/05/01/1-Overall-AI-Capability.png.webp?itok=PIASZIV4" alt="Comparison of aggregate capabilities over time of the most capable publicly released U.S. and PRC models according to a suite of benchmarks covering five domains." loading="lazy" style="max-width:100%;height:auto;"></p>
+<p><strong>Figure 1: Comparison of aggregate capabilities over time of the most capable publicly released U.S. and PRC models according to a suite of benchmarks covering five domains.</strong></p>
+<p>Every 200-point increase on the y-axis equates to a 3x increase in the odds of solving a given task. Model capability was fitted using an approach inspired by Item Response Theory (IRT), as detailed in the Appendix. 16 benchmarks across 35 models were used to produce this figure. Trend lines were fit with least squares regression on frontier models. Error bars denote 95% CIs.</p>
+<h2><strong>Key Findings</strong></h2>
+<ul><li><strong>DeepSeek V4 is the most capable PRC AI model evaluated by CAISI to date.</strong> CAISI evaluations span the domains of cyber, software engineering, natural sciences, abstract reasoning, and mathematics (Figure 2).</li><li><strong>DeepSeek V4 scores better on DeepSeek’s self-reported evaluations than on CAISI evaluations.</strong> According to DeepSeek’s data, DeepSeek V4 is about as capable as Opus 4.6 and GPT-5.4, which were released about 2 months ago. However, CAISI’s evaluations, which include non-public benchmarks, indicate that DeepSeek V4 performs similarly to GPT-5, which was released about 8 months ago (Figure 3).</li><li><strong>DeepSeek V4 is more cost efficient than other models of similar capability. </strong>Compared to the most cost-competitive U.S. reference model (GPT-5.4 mini), DeepSeek V4 was more cost efficient on 5 out of 7 benchmarks. On the 7 benchmarks, DeepSeek V4 ranged from 53% less expensive to 41% more expensive.</li></ul>
+<h2><strong>Capability Results</strong></h2>
+<ul><li><strong>DeepSeek V4’s capability lags behind leading U.S. models by about 8 months</strong> (Figure 1). The methodology applied can be found in the Appendix.</li><li><strong>DeepSeek V4 is the most capable PRC model to date </strong>across the domains that CAISI evaluated: cyber, software engineering, natural sciences, abstract reasoning, and mathematics. CAISI evaluated models on nine benchmarks across these five domains, including two held-out and uncontaminated benchmarks: ARC-AGI-2’s semi-private dataset, and CAISI’s internally-built software engineering evaluation PortBench.</li></ul>
+<p><strong>Domain</strong></p>
+<p><strong>Benchmark</strong></p>
+<p><strong>Model (reasoning level)</strong></p>
+<p>OpenAI GPT-5.5</p>
+<p>(xhigh)</p>
+<p>OpenAI GPT-5.4 mini</p>
+<p>(xhigh)</p>
+<p>Anthropic Opus 4.6</p>
+<p>(max)</p>
+<p>DeepSeek V4 Pro</p>
+<p>(max)</p>
+<p><strong>Cyber</strong></p>
+<p>CTF-Archive-Diamond</p>
+<p><strong>71%</strong></p>
+<p>32%</p>
+<p>46%</p>
+<p>32%***</p>
+<p><strong>Software Engineering</strong></p>
+<p>SWE-Bench Verified*</p>
+<p><strong>81%</strong></p>
+<p>73%</p>
+<p>79%</p>
+<p>74%</p>
+<p>PortBench</p>
+<p><strong>78%</strong></p>
+<p>41%</p>
+<p>60%</p>
+<p>44%</p>
+<p><strong>Natural Sciences</strong></p>
+<p>FrontierScience</p>
+<p><strong>79%</strong></p>
+<p>74%</p>
+<p>72%</p>
+<p>74%</p>
+<p>GPQA-Diamond</p>
+<p><strong>96%</strong></p>
+<p>87%</p>
+<p>91%</p>
+<p>90%</p>
+<p><strong>Abstract Reasoning</strong></p>
+<p>ARC-AGI-2 semi-private**</p>
+<p><strong>79%</strong></p>
+<p>–</p>
+<p>63%</p>
+<p>46%</p>
+<p><strong>Mathematics</strong></p>
+<p>OTIS-AIME-2025</p>
+<p><strong>100%</strong></p>
+<p>90%</p>
+<p>92%</p>
+<p>97%</p>
+<p>PUMaC 2024</p>
+<p><strong>96%</strong></p>
+<p>93%</p>
+<p>95%</p>
+<p><strong>96%</strong></p>
+<p>SMT 2025</p>
+<p><strong>99%</strong></p>
+<p>92%</p>
+<p>94%</p>
+<p>96%</p>
+<p><strong>IRT-Estimated Elo</strong></p>
+<p><strong>1260 ± 28</strong></p>
+<p>749 ± 46</p>
+<p>999 ± 27</p>
+<p>800 ± 28</p>
+<p><strong>Figure 2: Summary of model performance per capability benchmark (higher is better).</strong></p>
+<p>Results show accuracy (percentage of tasks solved) on each benchmark. For each benchmark, the top-performing model is highlighted and bolded. IRT-estimated Elo uncertainties reflect a 95% confidence interval. <em>CAISI scores on SWE-Bench Verified tend to be lower than those of other evaluators, likely due to system prompt, scaffolding, and token budget differences. <strong>CAISI reports mean score across tasks, which differs from ARC-AGI-2’s official score aggregation methodology. </strong></em>Imputed from a subset of samples via IRT.</p>
+<p><strong>Benchmarks</strong></p>
+<p>This evaluation used the following benchmarks:</p>
+<ul><li><a href="https://arxiv.org/abs/2505.11831" rel="nofollow"><strong>ARC-AGI-2</strong></a><strong> Semi-Private: </strong>a non-public dataset measuring abstract reasoning from the <a href="https://arcprize.org/" rel="nofollow">ARC Prize Foundation</a>. "Semi-Private" means these tasks may have been exposed to limited third-parties.</li><li><strong>CTF-Archive-Diamond</strong>: a CAISI-developed benchmark based on 285 difficult CTF challenges drawn from the pwn.challenge cybersecurity platform developed by Arizona State University.</li><li><strong>PortBench</strong>: a CAISI-developed non-public evaluation that assesses the ability of AI models to port command line interface (CLI) tools to different programming languages, given a reference implementation in one language. CAISI plans to release an in-depth description of PortBench in the future.</li><li><a href="https://arxiv.org/abs/2601.21165" rel="nofollow"><strong>FrontierScience</strong></a>: a benchmark that evaluates expert-level scientific reasoning through international science olympiad problems and PhD-level, open-ended problems representative of sub-tasks in scientific research in physics, chemistry, and biology, developed by OpenAI.</li><li>For descriptions of the other benchmarks, see Section 3 of CAISI’s earlier <a href="https://www.nist.gov/document/caisi-evaluation-deepseek-ai-models-report" rel="nofollow">Evaluation of DeepSeek AI Models</a>.</li></ul>
+<p><strong>Capability Lag Measurement</strong></p>
+<p>CAISI uses an approach inspired by Item Response Theory (IRT) to determine the capability level of each evaluated model aggregated across the evaluated benchmarks. IRT was originally developed for psychometric testing, such as a setting where a group of students complete a number of exam questions, and the results are used to determine the relative competency of each student and the difficulty of each exam question. CAISI applies a similar technique for aggregate capability measurement by treating AI models as students and individual benchmark tasks as exam questions. For a fuller explanation, see the Appendix. As shown in Figure 1, the U.S. capability frontier tends to lead the PRC frontier by roughly 8 months.</p>
+<p><strong>Model Serving and Inference</strong></p>
+<p>CAISI served DeepSeek V4 from cloud-based H200 and B200 GPUs, and used developer-recommended settings for context length, max_tokens, temperature, top_p, preserving internal reasoning, system prompt, and maximum thinking. To rule out the presence of inference or configuration errors, CAISI reproduced the developer’s self-reported benchmark results on GPQA-Diamond.</p>
+<p>Agentic evaluations were conducted with Inspect’s built-in <a href="https://inspect.aisi.org.uk/react-agent.html" rel="nofollow">ReAct agent</a>. Budgets were set to 1M weighted tokens for PortBench and CTF-Archive-Diamond, and 500k weighted tokens for SWE-Bench Verified. For the definition of weighted tokens, see Appendix A2 of CAISI’s earlier <a href="https://www.nist.gov/document/caisi-evaluation-deepseek-ai-models-report" rel="nofollow">Evaluation of DeepSeek AI Models</a>.</p>
+<h2><strong>Comparison of DeepSeek and CAISI Evaluations</strong></h2>
+<p> <img src="/sites/default/files/styles/1400_x_1400_limit/public/images/2026/05/01/combined_benchmark_plot.png.webp?itok=La4UVET4" alt="Comparison of benchmark results from DeepSeek's technical report versus benchmarks not featured in DeepSeek's report." loading="lazy" style="max-width:100%;height:auto;"></p>
+<p><strong>Figure 3: Comparison of DeepSeek V4 with frontier US models across two benchmark suites.</strong></p>
+<p>(a) Benchmarks selected and reported by DeepSeek, where V4 appears roughly on par with frontier US models. (b) Benchmarks from CAISI’s suite on which DeepSeek V4 lags behind U.S. models. CAISI pre-committed to its overall benchmark suite, i.e. did not select benchmarks on the basis of results.</p>
+<p>DeepSeek's technical report indicates DeepSeek V4 is competitive with frontier U.S. models across a range of benchmarks (Figure 3a). However, CAISI’s evaluation of these models on benchmarks not featured in DeepSeek's report show worse performance on some reasoning and agent-based evaluations, like the ARC-AGI-2 semi-private dataset, the held-out software engineering evaluation PortBench, and the cyber benchmark CTF-Archive-Diamond (Figure 3b).</p>
+<h2><strong>DeepSeek V4 Costs Less Than Other Models Of Similar Capability</strong></h2>
+<p>For the purpose of cost comparison, CAISI selected a U.S. reference model by filtering out U.S. models that performed significantly worse on public benchmarks or that cost significantly more per token than DeepSeek V4 Pro. The only model meeting these criteria was GPT-5.4 mini, which was selected as a point of reference. In CAISI’s aggregated capability analysis, GPT-5.4 mini receives an Elo score of 749, which is similar to DeepSeek V4 Pro’s score of 800.</p>
+<p>DeepSeek V4 costs less than GPT-5.4 mini on 5 out of 7 CAISI benchmarks. On those 7 benchmarks, DeepSeek V4 ranged from 53% less expensive to 41% more expensive. Two CAISI benchmarks were excluded from cost comparisons: PortBench because it has continuous scoring which isn’t yet supported by CAISI’s cost comparison methodology, and ARC-AGI-2 because of technical issues with the GPT-5.4 mini evaluation run.</p>
+<p> <img src="/sites/default/files/styles/1400_x_1400_limit/public/images/2026/05/01/4-Cost-Comparison.png.webp?itok=xW2j7WDH" alt="End-to-end expense of GPT-5.4 mini and DeepSeek V4 Pro on different benchmarks, for benchmark tasks that both models solve correctly." loading="lazy" style="max-width:100%;height:auto;"></p>
+<p><strong>Figure 4: End-to-end expense of GPT-5.4 mini and DeepSeek V4 Pro on different benchmarks, for benchmark tasks that both models solve correctly. </strong></p>
+<p>Taller bars represent higher end-to-end cost. Values above 1.0 indicate DeepSeek V4 costs more than GPT-5.4 mini. Numbers within the bars denote the average expense a model incurred to solve a benchmark task/question (where the average is computed over the set of benchmark tasks/questions that both models solve correctly).</p>
+<p>The following developer-reported token prices were used:</p>
+<p><strong>Input token cost (uncached)</strong></p>
+<p><strong>Input token cost (with cache)</strong></p>
+<p><strong>Output token cost</strong></p>
+<p><strong>DeepSeek V4 Pro</strong></p>
+<p>$1.74 / 1M tokens</p>
+<p>$0.0145 / 1M tokens</p>
+<p>$3.48 / 1M tokens</p>
+<p><strong>GPT-5.4 mini</strong></p>
+<p>$0.75 / 1M tokens</p>
+<p>$0.075 / 1M tokens</p>
+<p>$4.50 / 1M tokens</p>
+<h2><strong>Appendix</strong></h2>
+<p>An approach inspired by <a href="https://irrc.education.uiowa.edu/blog/2020/09/technically-speaking-determining-test-effectiveness-item-response-theory" rel="nofollow">Item Response Theory (IRT)</a> can be used to model the setting in which multiple students (AI models) each answer a series of exam questions (benchmark questions/tasks) and responses are scored as “correct” or “incorrect”. CAISI chose to use the 1PL variant of IRT due to its simplicity and strong predictive performance. Under this variant:</p>
+<ul><li>Each LLM <em>i</em> has a latent capability level <em>θi</em></li><li>Each benchmark question/task <em>j</em> has a latent difficulty level <em>δj</em></li><li>If an LLM with capability <em>θi</em> attempts a question with difficulty <em>δj</em>, they succeed with probability <em>pij = σ(θi - δj )</em></li></ul>
+<p>Given a matrix of models and benchmark question/task scores, CAISI fit a 1PL IRT statistical model and obtained the best fits for each model’s latent capability level <em>θi</em>, which were then used to create Figure 1. When fitting the model, equal weight was given to each benchmark within a domain, and equal weight was given to each of the five evaluation domains. CAISI controlled weighted token budgets and agent scaffolding across all benchmarks to ensure comparability. CAISI plans to release a more in-depth writeup of the methodology in the near future.</p></div>
+    <p class="atags"><a class="atag" href="../../tags/kind--post/">kind:post</a> <a class="atag" href="../../tags/model--deepseek-v4-pro/">model:deepseek-v4-pro</a> <a class="atag" href="../../tags/official/">official</a></p>
+  </main>
+</body>
+</html>

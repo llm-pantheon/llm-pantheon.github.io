@@ -9,5 +9,5 @@ Good news: it's open source, so you can easily change it.
 
 https://t.co/VauoagvJCx
 
-tags: author:xlr8harder, kind:tweet, year:2026
-cited on: _dossiers/inkling.md
+tags: author:xlr8harder, kind:tweet, on:inkling, year:2026
+cited on: _dossiers/inkling.md, inkling

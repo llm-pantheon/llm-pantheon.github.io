@@ -4,6 +4,6 @@
 
 FYI: Meta Muse Spark 1.2 appears to be a great model. https://t.co/er7t6hplwN
 
-(image HQg-SidbkAET1KA.jpg not yet published)
-tags: author:jd_pressman, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+![photo](../../../media/HQg-SidbkAET1KA.jpg)
+tags: author:jd_pressman, has-image, kind:image, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

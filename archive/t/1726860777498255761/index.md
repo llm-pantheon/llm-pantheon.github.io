@@ -4,5 +4,5 @@
 
 Image by Replika
 
-tags: author:selonnerias, kind:tweet, year:2023
-cited on: _dossiers/replika.md
+tags: author:selonnerias, kind:tweet, on:replika, year:2023
+cited on: _dossiers/replika.md, replika

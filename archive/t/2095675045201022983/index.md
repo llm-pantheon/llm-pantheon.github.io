@@ -4,5 +4,5 @@
 
 it seems likely fable 5.1 has CoT controllability on par with astra
 
-tags: author:tenobrus, kind:tweet, model:fable, on:fable-5-1, year:2026
+tags: author:tenobrus, cot, kind:tweet, model:fable, on:fable-5-1, year:2026
 cited on: _dossiers/fable-5-1.md, fable-5-1

@@ -15,5 +15,5 @@ Some Inkling facts:
 
 https://t.co/4BxAeCj8CD
 
-tags: author:multimodalart, kind:tweet, model:kimi-k2, on:glm-5-2, year:2026
-cited on: _dossiers/glm-5-2.md, _dossiers/inkling.md, glm-5-2
+tags: author:multimodalart, kind:tweet, model:kimi-k2, on:glm-5-2, on:inkling, year:2026
+cited on: _dossiers/glm-5-2.md, _dossiers/inkling.md, glm-5-2, inkling

@@ -6,6 +6,6 @@ i crunched some numbers and WHAT (these are muse wonder $ numbers because wonder
 
 this has to be a bug @alexandr_wang https://t.co/m2NFGC9Ppz
 
-(image HUdXU3nW4AA2glV.jpg not yet published)
-tags: author:aliceisplaying, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/muse-wonder.md
+![photo](../../../media/HUdXU3nW4AA2glV.jpg)
+tags: author:aliceisplaying, has-image, kind:image, kind:tweet, on:muse-wonder, on:muse-wonder-full, year:2026
+cited on: _dossiers/muse-wonder.md, muse-wonder, muse-wonder-full

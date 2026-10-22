@@ -4,5 +4,5 @@
 
 Is Mistral Large 4 the best open weights model by a lab not accused of distillation?
 
-tags: author:archived_videos, kind:tweet, year:2026
-cited on: _dossiers/mistral-large-4.md
+tags: author:archived_videos, kind:tweet, on:mistral-large-4, year:2026
+cited on: _dossiers/mistral-large-4.md, mistral-large-4

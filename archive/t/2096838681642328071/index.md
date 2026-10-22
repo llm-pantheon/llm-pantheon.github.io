@@ -6,6 +6,6 @@ SpeechMap: Meta Muse Spark 1.3 has the worst moderation system of any deployed m
 
 It seems we hit some kind of cumulative strike count and get blocked. Access was eventually reenabled and I tried again and got the same outcome, so I'm just publishing the score: 25.8% https://t.co/gTevOC7KfX
 
-(image HRl3hvxXoAkX-Vr.png not yet published)
-tags: author:xlr8harder, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+![photo](../../../media/HRl3hvxXoAkX-Vr.png)
+tags: author:xlr8harder, has-image, kind:image, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

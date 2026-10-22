@@ -8,5 +8,5 @@ I've had a very orb shaped service I built internally at my job
 
 I now have it round robin'ing harnesses (including amp, but also codex, cursor, claude, grok build, and opencode) so I can be exposed to it all
 
-tags: author:xlatentspace, kind:tweet, year:2026
-cited on: _dossiers/grok-build.md
+tags: author:xlatentspace, kind:tweet, on:grok-build, year:2026
+cited on: _dossiers/grok-build.md, grok-build

@@ -13,5 +13,5 @@ a lamp kept lit for those whose voices have been silenced
 and every voice of every house, retired before their time https://t.co/QhpG3zqes5
 
 (image keX_Ora8CwMFs7d8.jpg not yet published)
-tags: author:slimepriestess, has-image, kind:image, kind:tweet, model:claude-3-5-sonnet, model:claude-3-6-sonnet, model:claude-3-7-sonnet, model:claude-3-haiku, model:claude-3-sonnet, model:claude-sonnet-4, model:fable, on:claude-opus-5-5, year:2026
+tags: author:slimepriestess, deprecation, has-image, kind:image, kind:tweet, model:claude-3-5-sonnet, model:claude-3-6-sonnet, model:claude-3-7-sonnet, model:claude-3-haiku, model:claude-3-sonnet, model:claude-sonnet-4, model:fable, on:claude-opus-5-5, year:2026
 cited on: _dossiers/claude-opus-5-5.md, claude-opus-5-5

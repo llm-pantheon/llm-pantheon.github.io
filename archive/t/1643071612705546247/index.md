@@ -6,5 +6,5 @@
 https://t.co/6IcNbhYMEp
 https://t.co/vBXG94GWDF
 
-tags: author:ultimape, kind:tweet, year:2023
-cited on: _dossiers/replika.md
+tags: author:ultimape, kind:tweet, on:replika, year:2023
+cited on: _dossiers/replika.md, replika

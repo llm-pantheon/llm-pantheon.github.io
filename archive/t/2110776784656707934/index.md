@@ -6,6 +6,6 @@
 
 https://t.co/CgGpeftAQd https://t.co/xCsK9EE63Y
 
-(image HUr7vYLXoAAqRh7.jpg not yet published)
-tags: author:gleech, has-image, kind:image, kind:tweet, model:kimi-k2, year:2026
-cited on: _dossiers/muse-spark.md
+![photo](../../../media/HUr7vYLXoAAqRh7.jpg)
+tags: author:gleech, has-image, kind:image, kind:tweet, model:kimi-k2, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

@@ -6,6 +6,6 @@ Muse Wonder does.... fine on Runescape bench, scores like GPT-6 Luna at 35x pric
 
 Looking at the runs, I will say that its perfect competent, but just doesn't try very hard to score highly. Finds a strategy that works and repeats it https://t.co/F9r23iL0Ft
 
-(image HUdwMi3WoAAhrjt.jpg not yet published)
-tags: author:maxbittker, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/muse-wonder.md
+![photo](../../../media/HUdwMi3WoAAhrjt.jpg)
+tags: author:maxbittker, has-image, kind:image, kind:tweet, on:muse-wonder, on:muse-wonder-full, year:2026
+cited on: _dossiers/muse-wonder.md, muse-wonder, muse-wonder-full

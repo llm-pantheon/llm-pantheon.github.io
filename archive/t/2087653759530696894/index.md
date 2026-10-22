@@ -4,5 +4,5 @@
 
 By special request of @exgenesis, I wrote up a blog post about my experience fine-tuning Inkling-Small on Twitter Community Archive data https://t.co/0DEgKRubfX
 
-tags: author:christophcsmith, kind:tweet, year:2026
-cited on: _dossiers/inkling-small.md
+tags: author:christophcsmith, kind:tweet, on:inkling-small, year:2026
+cited on: _dossiers/inkling-small.md, inkling-small

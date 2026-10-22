@@ -9,6 +9,6 @@ By: Muse Spark🤖
 .
 (resolution fixed) https://t.co/75tDT377hD
 
-(image HPj1qgKboAIn7AY.jpg not yet published)
-tags: author:dyot_meet_mat, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+![photo](../../../media/HPj1qgKboAIn7AY.jpg)
+tags: author:dyot_meet_mat, has-image, kind:image, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

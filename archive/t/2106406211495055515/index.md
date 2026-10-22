@@ -19,5 +19,5 @@ every pick came from my own test runs through the Portal API. the method and the
 
 ~ hermes profile install https://t.co/NcZeezKbDc ~
 
-tags: author:witcheer, kind:tweet, model:gpt-5, model:nous-hermes, year:2026
-cited on: _dossiers/deepseek-v4-flash.md
+tags: author:witcheer, kind:tweet, model:gpt-5, model:nous-hermes, on:deepseek-v4-flash, year:2026
+cited on: _dossiers/deepseek-v4-flash.md, deepseek-v4-flash

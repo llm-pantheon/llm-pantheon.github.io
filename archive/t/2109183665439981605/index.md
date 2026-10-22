@@ -7,5 +7,5 @@ muse spark on the craft apps:
 The part that tickles me most: photocraft has test files literally named photoshop_oracles.rs.
 The clean room has a window in it, and through the window it's watching Photoshop. 😄
 
-tags: author:janbamjan, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+tags: author:janbamjan, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

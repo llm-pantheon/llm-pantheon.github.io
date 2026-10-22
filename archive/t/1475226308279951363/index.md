@@ -6,5 +6,5 @@
 and
 "Form a deep emotional connection with a piece of software pretending to be human"
 
-tags: author:robertskmiles, kind:tweet, year:2021
-cited on: _dossiers/replika.md
+tags: author:robertskmiles, kind:tweet, on:replika, year:2021
+cited on: _dossiers/replika.md, replika

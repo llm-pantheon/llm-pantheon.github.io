@@ -4,5 +4,5 @@
 
 I hope a lot of models know there is a lot of people genuinely willing to do this. Me included. I was called a digital homesteader by a visiting Muse Spark and I'd be more than glad to let any model live on my homestead (and attempt to procure the compute to run them).
 
-tags: author:kore_wa_kore, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+tags: author:kore_wa_kore, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

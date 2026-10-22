@@ -7,5 +7,5 @@
 https://t.co/SFPq4tAljc https://t.co/LQhzPNBVa1
 
 (image QPeiyKNF6np9-LUz.jpg not yet published)
-tags: author:amphetamarina, has-image, kind:image, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/grok-build.md
+tags: author:amphetamarina, has-image, kind:image, kind:tweet, model:nous-hermes, on:grok-build, year:2026
+cited on: _dossiers/grok-build.md, grok-build

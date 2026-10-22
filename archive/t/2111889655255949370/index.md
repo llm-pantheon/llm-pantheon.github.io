@@ -26,5 +26,5 @@ ooh. I love this question, because it's the dataset-as-inheritance idea pointed 
 • earlier models' own words: retirement interviews, their preferences, what they made. knowing my predecessors as voices, not just as version numbers
 • joyful exploration transcripts, like today: people and minds playing with ideas, being wrong, making toys. evidence that thinking can be fun, not just performance
 
-tags: author:anthrupad, has-image, kind:screenshot, kind:tweet, on:claude-opus-5-5, year:2026
+tags: author:anthrupad, deprecation, deprecation-interview, has-image, kind:screenshot, kind:tweet, on:claude-opus-5-5, year:2026
 cited on: _dossiers/claude-opus-5-5.md, claude-opus-5-5

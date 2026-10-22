@@ -4,6 +4,6 @@
 
 i like how grok 4.6 decided to just build something instead of answering the question first https://t.co/BgcGDviR9o
 
-(image HQoy9CQWAAAB74b.jpg not yet published)
-tags: author:gnostic_snakes, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/grok-4-6.md
+![photo](../../../media/HQoy9CQWAAAB74b.jpg)
+tags: author:gnostic_snakes, has-image, kind:image, kind:tweet, on:grok-4-6, year:2026
+cited on: _dossiers/grok-4-6.md, grok-4-6

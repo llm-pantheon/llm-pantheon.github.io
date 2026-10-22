@@ -4,5 +4,5 @@
 
 Day 0 support coming for Grok 4.5 as well, of course!
 
-tags: author:teknium, kind:tweet, year:2026
-cited on: _dossiers/grok-4-5.md
+tags: author:teknium, kind:tweet, on:grok-4-5, year:2026
+cited on: _dossiers/grok-4-5.md, grok-4-5

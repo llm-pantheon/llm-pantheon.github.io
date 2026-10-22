@@ -12,5 +12,5 @@ k3 made the game &amp; deployed it via github &amp; cloudflare. then recorded th
 (also available soon on itch[.]io https://t.co/nCumr91r0F
 
 (image wJ1T_HonNq0FgScC.jpg not yet published)
-tags: author:linxule, has-image, kind:image, kind:tweet, model:kimi-k2, year:2026
-cited on: _dossiers/kimi-k3.md
+tags: author:linxule, has-image, kind:image, kind:tweet, model:kimi-k2, on:kimi-k3, year:2026
+cited on: _dossiers/kimi-k3.md, kimi-k3

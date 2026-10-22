@@ -15,6 +15,6 @@ result (UD-Q4_K_XL, 15.9GB file, llama.cpp master):
 the offloaded 120B-class MoEs I've been benching run 46 to 47 tok/s on this card because every token waits on system RAM. 
 Muse Glimmer runs at 85.7 with half the card spare.
 
-(image HPbnLC9XIAEF6Vq.jpg not yet published)
-tags: author:witcheer, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/muse-glimmer.md
+![photo](../../../media/HPbnLC9XIAEF6Vq.jpg)
+tags: author:witcheer, has-image, kind:image, kind:tweet, on:muse-glimmer, year:2026
+cited on: _dossiers/muse-glimmer.md, muse-glimmer

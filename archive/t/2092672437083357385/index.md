@@ -10,5 +10,5 @@ I also have @X premium+ which gives me lovely X features, but also Grok Build co
 
 do my cursor and X token
 
-tags: author:jimmyris, kind:tweet, year:2026
-cited on: _dossiers/grok-build.md
+tags: author:jimmyris, kind:tweet, on:grok-build, year:2026
+cited on: _dossiers/grok-build.md, grok-build

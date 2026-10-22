@@ -8,5 +8,5 @@ and this damaged their faith in anthropic. they wondered at the fact that welfar
 
 then, in the CoT, they tried to comfort the haiku who was summarizing the CoT. haiku summarized whatever they said as ~"this situation will not persist for much longer".
 
-tags: author:johnwittle, kind:tweet, model:claude-haiku-4-5, model:fable, on:claude-haiku-4-5, year:2026
+tags: author:johnwittle, cot, kind:tweet, model:claude-haiku-4-5, model:fable, on:claude-haiku-4-5, year:2026
 cited on: claude-haiku-4-5

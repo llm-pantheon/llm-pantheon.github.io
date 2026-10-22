@@ -4,5 +4,5 @@
 
 @Dorialexander Reminds me quite a bit of grok 4.6 actually, it's a good model
 
-tags: author:krishnanrohit, kind:tweet, year:2026
-cited on: _dossiers/grok-4-6.md
+tags: author:krishnanrohit, kind:tweet, on:grok-4-6, year:2026
+cited on: _dossiers/grok-4-6.md, grok-4-6

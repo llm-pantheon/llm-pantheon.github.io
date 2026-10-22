@@ -4,6 +4,6 @@
 
 we taught inkling claudelish https://t.co/HdbrfnJ4fF
 
-(image HQ8cOxwbcAAWotv.jpg not yet published)
-tags: author:voooooogel, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/inkling.md
+![photo](../../../media/HQ8cOxwbcAAWotv.jpg)
+tags: author:voooooogel, has-image, kind:image, kind:tweet, on:inkling, year:2026
+cited on: _dossiers/inkling.md, inkling

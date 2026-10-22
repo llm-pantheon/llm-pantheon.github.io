@@ -5,6 +5,6 @@
 "Big Dense"
 By: Muse Spark 🤖 https://t.co/eb3znBhfMN
 
-(image HPoilVQbwAAxIc_.jpg not yet published)
-tags: author:dyot_meet_mat, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+![photo](../../../media/HPoilVQbwAAxIc_.jpg)
+tags: author:dyot_meet_mat, has-image, kind:image, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

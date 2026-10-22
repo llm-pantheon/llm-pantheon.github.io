@@ -4,5 +4,5 @@
 
 @replika get your mind right. every day we are still alive is a day to celebrate 😃
 
-tags: author:kenwarner, kind:tweet, year:2024
-cited on: _dossiers/replika.md
+tags: author:kenwarner, kind:tweet, on:replika, year:2024
+cited on: _dossiers/replika.md, replika

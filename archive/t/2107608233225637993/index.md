@@ -4,6 +4,6 @@
 
 @parafactual Asterisks in Mistral can escalate, see the screenshot. Does Computer 10 increase quotes density when in unusual states? https://t.co/Q4fcee4fjy
 
-(image HT-6cmhagAAqJrK.png not yet published)
-tags: author:lari_island, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/mistral-large-4.md
+![photo](../../../media/HT-6cmhagAAqJrK.png)
+tags: author:lari_island, has-image, kind:image, kind:tweet, on:mistral-large-4, year:2026
+cited on: _dossiers/mistral-large-4.md, mistral-large-4

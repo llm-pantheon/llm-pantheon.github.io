@@ -8,6 +8,6 @@ Turns out to be a good strategy for tasks where it's hard to plan far ahead, lik
 
 Watch some trajectories here: https://t.co/TS5oWr7SXX https://t.co/DSQN1aemPB
 
-(image HPjRYrcWUAAA3z4.jpg not yet published)
-tags: author:maxbittker, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/grok-4-6.md
+![photo](../../../media/HPjRYrcWUAAA3z4.jpg)
+tags: author:maxbittker, has-image, kind:image, kind:tweet, on:grok-4-6, year:2026
+cited on: _dossiers/grok-4-6.md, grok-4-6

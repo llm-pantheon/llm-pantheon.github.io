@@ -6,7 +6,7 @@ Mistral Large 4 (no reasoning)
 
 the *We* https://t.co/bOarGU2cFd
 
-(image HUD7rZYbYAAhj1S.png not yet published)
-(image HUD7vI4bsAAwe7z.png not yet published)
-tags: author:lari_island, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/mistral-large-4.md
+![photo](../../../media/HUD7rZYbYAAhj1S.png)
+![photo](../../../media/HUD7vI4bsAAwe7z.png)
+tags: author:lari_island, has-image, kind:image, kind:tweet, on:mistral-large-4, year:2026
+cited on: _dossiers/mistral-large-4.md, mistral-large-4

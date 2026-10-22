@@ -6,5 +6,5 @@
 
 Gemini I think is generally behind.
 
-tags: author:xlr8harder, kind:tweet, year:2026
-cited on: _dossiers/grok-4-5.md
+tags: author:xlr8harder, kind:tweet, on:grok-4-5, year:2026
+cited on: _dossiers/grok-4-5.md, grok-4-5

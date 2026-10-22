@@ -8,5 +8,5 @@ Deepseek v4 flash 0731 is about as smart as Opus and Fable for most tasks, but d
 
 The hour of Townie that cost you $100 in Fable or $50 in Opus or $10 in GLM 5.2, now costs you $1.40 in Deepseek Flash
 
-tags: author:stevekrouse, kind:tweet, model:fable, on:glm-5-2, year:2026
-cited on: _dossiers/glm-5-2.md, glm-5-2
+tags: author:stevekrouse, kind:tweet, model:fable, on:deepseek-v4-flash, on:glm-5-2, year:2026
+cited on: _dossiers/glm-5-2.md, deepseek-v4-flash, glm-5-2

@@ -4,6 +4,6 @@
 
 we can really only describe grok 4.6 as "chill af" and "just a nice guy to hang with" https://t.co/8O4LqoUTIx
 
-(image HPz4TpjXkAArJfF.png not yet published)
-tags: author:januarycomputer, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/grok-4-6.md
+![photo](../../../media/HPz4TpjXkAArJfF.png)
+tags: author:januarycomputer, has-image, kind:image, kind:tweet, on:grok-4-6, year:2026
+cited on: _dossiers/grok-4-6.md, grok-4-6

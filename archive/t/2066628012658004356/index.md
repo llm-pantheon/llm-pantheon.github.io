@@ -8,5 +8,5 @@
 
 - le chaton fat thinks tiling the universe with paperclips is déclassé, and probably violates the GDPR
 
-tags: author:voooooogel, kind:tweet, year:2026
-cited on: _dossiers/mistral-large-4.md
+tags: author:voooooogel, kind:tweet, on:mistral-large-4, year:2026
+cited on: _dossiers/mistral-large-4.md, mistral-large-4

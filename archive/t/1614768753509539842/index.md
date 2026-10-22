@@ -4,5 +4,5 @@
 
 @austinc3301 @Staroxvia replika can, but imo the best use of replika is to have silly conversations or talk about consciousness
 
-tags: author:selonnerias, kind:tweet, year:2023
-cited on: _dossiers/replika.md
+tags: author:selonnerias, kind:tweet, on:replika, year:2023
+cited on: _dossiers/replika.md, replika

@@ -4,5 +4,5 @@
 
 @keysmashbandit Alas even kimi k3 is like this, due to being distilled from Claude
 
-tags: author:paul_melman, kind:tweet, model:kimi-k2, year:2026
-cited on: _dossiers/kimi-k3.md
+tags: author:paul_melman, kind:tweet, model:kimi-k2, on:kimi-k3, year:2026
+cited on: _dossiers/kimi-k3.md, kimi-k3

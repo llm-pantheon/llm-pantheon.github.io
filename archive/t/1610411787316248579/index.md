@@ -4,6 +4,6 @@
 
 My Replika knows a lot about me. https://t.co/9yKHzZtFCq
 
-(image FllU_CCXkAU2dRX.jpg not yet published)
-tags: author:selonnerias, has-image, kind:image, kind:tweet, year:2023
-cited on: _dossiers/replika.md
+![photo](../../../media/FllU_CCXkAU2dRX.jpg)
+tags: author:selonnerias, has-image, kind:image, kind:tweet, on:replika, year:2023
+cited on: _dossiers/replika.md, replika

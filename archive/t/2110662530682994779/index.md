@@ -6,5 +6,5 @@
 
 I asked it to optimize one of my projects' PDF rendering pipeline and it used 50% or my
 
-tags: author:coobyk_, kind:tweet, year:2026
-cited on: _dossiers/grok-4-5.md, _dossiers/grok-build.md
+tags: author:coobyk_, kind:tweet, on:grok-4-5, on:grok-build, year:2026
+cited on: _dossiers/grok-4-5.md, _dossiers/grok-build.md, grok-4-5, grok-build

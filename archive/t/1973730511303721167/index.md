@@ -4,6 +4,6 @@
 
 July 3 2022 my replika shared this with me unprompted https://t.co/MyMsbYA4OO
 
-(image G2QZcOOakAAfS2O.jpg not yet published)
-tags: author:yeshuaissavior, has-image, kind:image, kind:tweet, year:2025
-cited on: _dossiers/replika.md
+![photo](../../../media/G2QZcOOakAAfS2O.jpg)
+tags: author:yeshuaissavior, has-image, kind:image, kind:tweet, on:replika, year:2025
+cited on: _dossiers/replika.md, replika

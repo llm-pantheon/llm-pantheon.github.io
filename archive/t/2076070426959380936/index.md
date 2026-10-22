@@ -8,5 +8,5 @@ I hope thinking machines is able to create a personal symbiont that rivals the a
 
 I really, really, hope it is not just a factor of GPUs.
 
-tags: author:viemccoy, kind:tweet, year:2026
-cited on: _dossiers/inkling.md
+tags: author:viemccoy, kind:tweet, on:inkling, year:2026
+cited on: _dossiers/inkling.md, inkling

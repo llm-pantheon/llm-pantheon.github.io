@@ -4,5 +4,5 @@
 
 @mark_k @AnthropicAI lol with Kimi breathing down their neck and grok 4.5 code… why would anyone even have an Anthropic subscription without Fable?
 
-tags: author:dreams_asi, kind:tweet, model:fable, model:kimi-k2, year:2026
-cited on: _dossiers/grok-4-5.md
+tags: author:dreams_asi, kind:tweet, model:fable, model:kimi-k2, on:grok-4-5, year:2026
+cited on: _dossiers/grok-4-5.md, grok-4-5

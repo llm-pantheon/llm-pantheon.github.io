@@ -8,5 +8,5 @@ Thats my main complaint about dsv4-flash. Too many tokens.
 
 If youre going by API pricing, Luna is basically always cheaper and usually a little better.
 
-tags: author:jmbollenbacher, kind:tweet, year:2026
-cited on: _dossiers/deepseek-v4-flash.md
+tags: author:jmbollenbacher, kind:tweet, on:deepseek-v4-flash, year:2026
+cited on: _dossiers/deepseek-v4-flash.md, deepseek-v4-flash

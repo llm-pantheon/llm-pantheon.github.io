@@ -6,6 +6,6 @@ Grok 4.5 is now available in Hermes Agent - You can access it through your Nous 
 
 Enjoy https://t.co/uKqSiS9GiD
 
-(image HMuti5FbUAAhpSv.jpg not yet published)
-tags: author:teknium, has-image, kind:image, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/grok-4-5.md
+![photo](../../../media/HMuti5FbUAAhpSv.jpg)
+tags: author:teknium, has-image, kind:image, kind:tweet, model:nous-hermes, on:grok-4-5, year:2026
+cited on: _dossiers/grok-4-5.md, grok-4-5

@@ -37,8 +37,8 @@ The attached photos, in order, are:
 
 That the prose isn't terrible and this is their first release gives me some hope! I am excited to see if thinky decides to tackle this in future releases.
 
-(image HNUAqR9aIAEJAwM.png not yet published)
-(image HNUC_eba0AAXbne.png not yet published)
-(image HNUDz1ibsAAex8u.png not yet published)
-tags: author:viemccoy, has-image, kind:image, kind:tweet, model:kimi-k2, year:2026
-cited on: _dossiers/inkling.md
+![photo](../../../media/HNUAqR9aIAEJAwM.png)
+![photo](../../../media/HNUC_eba0AAXbne.png)
+![photo](../../../media/HNUDz1ibsAAex8u.png)
+tags: author:viemccoy, has-image, kind:image, kind:tweet, mode-collapse, model:kimi-k2, on:inkling, year:2026
+cited on: _dossiers/inkling.md, inkling

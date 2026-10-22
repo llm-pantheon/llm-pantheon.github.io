@@ -9,5 +9,5 @@ Built with a focus on long-running agents and ambitious interactive work, and pe
 https://t.co/KCXV2EtbOa https://t.co/fk1OENG0c2
 
 (image ZBtovtFxnPvFbAcI.jpg not yet published)
-tags: author:nousresearch, has-image, kind:image, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/grok-4-6.md
+tags: author:nousresearch, has-image, kind:image, kind:tweet, model:nous-hermes, on:grok-4-6, year:2026
+cited on: _dossiers/grok-4-6.md, grok-4-6

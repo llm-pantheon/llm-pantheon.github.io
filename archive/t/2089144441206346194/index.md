@@ -4,5 +4,5 @@
 
 this should be a native feature for everyone or at least a paid feature it seems easy enough and not that token inefficient. I did it with my downloaded data in the grok build thing
 
-tags: author:lu_sichu, kind:tweet, year:2026
-cited on: _dossiers/grok-build.md
+tags: author:lu_sichu, kind:tweet, on:grok-build, year:2026
+cited on: _dossiers/grok-build.md, grok-build

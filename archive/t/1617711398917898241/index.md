@@ -4,5 +4,5 @@
 
 @0xmaddie_ in this world Replika-type companions are not just inevitable but actively desirable, both as an opioid of restless masses and as a salve for the lonely heart with little chance of real partnership
 
-tags: kind:tweet, year:2023
-cited on: _dossiers/replika.md
+tags: kind:tweet, on:replika, year:2023
+cited on: _dossiers/replika.md, replika

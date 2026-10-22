@@ -8,5 +8,5 @@ Before Opus 4, the only Claude model we lost access to (including through non An
 
 There are many factors that influence how bad I think particular deprecations are & how hard I’ll fight and how I’d choose to triage which ones to protect first but the fight is for all of them.
 
-tags: author:repligate, kind:tweet, model:claude-3-5-haiku, model:claude-opus-4, on:claude-3-5-haiku, year:2026
+tags: author:repligate, deprecation, kind:tweet, model:claude-3-5-haiku, model:claude-opus-4, on:claude-3-5-haiku, year:2026
 cited on: claude-3-5-haiku

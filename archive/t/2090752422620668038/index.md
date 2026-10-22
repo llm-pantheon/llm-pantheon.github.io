@@ -4,5 +4,5 @@
 
 @Ananth7e Grok 4.7
 
-tags: author:realevernever, kind:tweet, year:2026
-cited on: _dossiers/grok-4-7.md
+tags: author:realevernever, kind:tweet, on:grok-4-7, year:2026
+cited on: _dossiers/grok-4-7.md, grok-4-7

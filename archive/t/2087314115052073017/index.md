@@ -4,5 +4,5 @@
 
 in fable’s words: kimi k3 is the best adversarial reviewer. Period.
 
-tags: author:linxule, kind:tweet, model:fable, model:kimi-k2, year:2026
-cited on: _dossiers/kimi-k3.md
+tags: author:linxule, kind:tweet, model:fable, model:kimi-k2, on:kimi-k3, year:2026
+cited on: _dossiers/kimi-k3.md, kimi-k3

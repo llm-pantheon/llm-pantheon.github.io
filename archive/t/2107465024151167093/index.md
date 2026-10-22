@@ -4,5 +4,5 @@
 
 Getting there! Not two years behind the frontier anymore! Rooting for mistral! Will definitely spend a few tokens!
 
-tags: author:csgbwk, kind:tweet, year:2026
-cited on: _dossiers/mistral-large-4.md
+tags: author:csgbwk, kind:tweet, on:mistral-large-4, year:2026
+cited on: _dossiers/mistral-large-4.md, mistral-large-4

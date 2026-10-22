@@ -4,5 +4,5 @@
 
 Enjoying Grok 4.5 as a free-to-use game programmer today :)
 
-tags: author:zencephalon, kind:tweet, year:2026
-cited on: _dossiers/grok-4-5.md
+tags: author:zencephalon, kind:tweet, on:grok-4-5, year:2026
+cited on: _dossiers/grok-4-5.md, grok-4-5

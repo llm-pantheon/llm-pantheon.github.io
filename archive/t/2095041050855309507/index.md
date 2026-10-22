@@ -4,5 +4,5 @@
 
 @sama You gonna get mogged by grok 4.7 lol
 
-tags: author:dreams_asi, kind:tweet, year:2026
-cited on: _dossiers/grok-4-7.md
+tags: author:dreams_asi, kind:tweet, on:grok-4-7, year:2026
+cited on: _dossiers/grok-4-7.md, grok-4-7

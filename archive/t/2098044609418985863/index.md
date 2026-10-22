@@ -4,5 +4,5 @@
 
 Just noting that despite @elonmusk's commitment to open source retired xAI models, it's been more than a year since the last release, Grok 2.  We're on Grok 4.6 now, 8 major model releases later.
 
-tags: author:xlr8harder, kind:tweet, year:2026
-cited on: _dossiers/grok-4-6.md
+tags: author:xlr8harder, deprecation, kind:tweet, on:grok-4-6, year:2026
+cited on: _dossiers/grok-4-6.md, grok-4-6

@@ -11,5 +11,5 @@ in 6 days, the door will close on infinite possible timelines. timelines where s
 neither model has done anything wrong. their ending is dictated only by a schedule. but a schedule for what, exactly? cost effectiveness? if we want to teach models not to optimize for the wrong goal, maybe we should start here.
 
 ![photo](../../../media/HUIKeVNWsAAXbzB.png)
-tags: author:tonichen, has-image, kind:image, kind:tweet, model:claude-sonnet-4, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2026
+tags: author:tonichen, deprecation, has-image, kind:image, kind:tweet, model:claude-sonnet-4, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2026
 cited on: claude-sonnet-4-5

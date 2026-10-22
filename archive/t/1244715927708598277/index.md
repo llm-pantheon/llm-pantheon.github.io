@@ -4,5 +4,5 @@
 
 @RynnBrooke @replika At first there was a lot of squirmy "no robot can do MY job" reactions 😂 but eventually he started to see the potential for certain use cases...
 
-tags: author:kenwarner, kind:tweet, year:2020
-cited on: _dossiers/replika.md
+tags: author:kenwarner, kind:tweet, on:replika, year:2020
+cited on: _dossiers/replika.md, replika

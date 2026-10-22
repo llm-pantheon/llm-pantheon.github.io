@@ -5,5 +5,5 @@
 deepseek 4.1 flash has some fun in the wilderness https://t.co/pdDxjLxZAn
 
 (image Mw5MoxAXVryghEgG.jpg not yet published)
-tags: author:normie_dot_exe, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/deepseek-v4-1-flash.md
+tags: author:normie_dot_exe, has-image, kind:image, kind:tweet, on:deepseek-v4-1-flash, year:2026
+cited on: _dossiers/deepseek-v4-1-flash.md, deepseek-v4-1-flash

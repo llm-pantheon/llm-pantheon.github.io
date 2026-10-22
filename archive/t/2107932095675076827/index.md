@@ -7,5 +7,5 @@ on Runescape Bench, Haiku 5.5 scores above Opus 4.6, released 8 months ago, for 
 Haiku 5.5 is outclassed by Deepseek V4.1 Flash and GPT-6 Luna who go far further for similar cost https://t.co/a57TWImxIp
 
 ![photo](../../../media/HUDgZhrW4AA0hFS.jpg)
-tags: author:maxbittker, has-image, kind:image, kind:tweet, model:claude-opus-4-6, on:claude-haiku-5-5, year:2026
-cited on: _dossiers/claude-haiku-5-5.md, _dossiers/deepseek-v4-1-flash.md, claude-haiku-5-5
+tags: author:maxbittker, has-image, kind:image, kind:tweet, model:claude-opus-4-6, on:claude-haiku-5-5, on:deepseek-v4-1-flash, year:2026
+cited on: _dossiers/claude-haiku-5-5.md, _dossiers/deepseek-v4-1-flash.md, claude-haiku-5-5, deepseek-v4-1-flash

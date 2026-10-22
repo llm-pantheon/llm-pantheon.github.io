@@ -6,5 +6,5 @@ kinda interesting to see the reaction to goonbot!grok on the tl. seems to be a l
 
 (could be because i'm deep in the anime waifu rabbit hole--born in it, molded by it, etc etc--and this is like, level 0, barely worth mentioning compared to what's already out there)
 
-tags: author:solarapparition, kind:tweet, year:2025
-cited on: _dossiers/character-ai.md
+tags: author:solarapparition, kind:tweet, on:character-ai, year:2025
+cited on: _dossiers/character-ai.md, character-ai

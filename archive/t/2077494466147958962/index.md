@@ -6,5 +6,5 @@ big time. inkling feels like it is opening up the race for legit western open mo
 
 this proves that it can be done. here for it
 
-tags: author:moonl88537, kind:tweet, year:2026
-cited on: _dossiers/inkling.md
+tags: author:moonl88537, kind:tweet, on:inkling, year:2026
+cited on: _dossiers/inkling.md, inkling

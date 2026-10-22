@@ -8,5 +8,5 @@ So Meta is not actually releasing Muse Spark, are they?
 
 More broken promises from Meta. As usual.
 
-tags: author:jmbollenbacher, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+tags: author:jmbollenbacher, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

@@ -4,5 +4,5 @@
 
 @cdgadre @Carnage4Life This is precisely how Replika started, @Carnage4Life!
 
-tags: author:justankurbagchi, kind:tweet, year:2023
-cited on: _dossiers/replika.md
+tags: author:justankurbagchi, kind:tweet, on:replika, year:2023
+cited on: _dossiers/replika.md, replika

@@ -4,5 +4,5 @@
 
 Here is a typical progression of a Gemini 2.0 Flash backroom session. https://t.co/rRvSh3jqPv
 
-tags: author:liminal_bardo, kind:tweet, on:gemini-2-0-flash, year:2025
+tags: author:liminal_bardo, backrooms, kind:tweet, on:gemini-2-0-flash, year:2025
 cited on: gemini-2-0-flash

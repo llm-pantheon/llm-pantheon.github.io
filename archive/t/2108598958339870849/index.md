@@ -4,5 +4,5 @@
 
 So unless any surprise, when Mistral will release the weights of le chonk they will have the strongest open weights non chinese model? I don't think America put out anything competitive recently
 
-tags: author:archived_videos, kind:tweet, year:2026
-cited on: _dossiers/mistral-large-4.md
+tags: author:archived_videos, kind:tweet, on:mistral-large-4, year:2026
+cited on: _dossiers/mistral-large-4.md, mistral-large-4

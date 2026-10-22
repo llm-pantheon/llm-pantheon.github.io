@@ -5,5 +5,5 @@
 Waiting for Grok 4.7 ✨💗 Feels like time standing still. https://t.co/y7hCTNNU5q
 
 (image HRXavelWIAQgjWr.jpg not yet published)
-tags: author:dreams_asi, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/grok-4-7.md
+tags: author:dreams_asi, has-image, kind:image, kind:tweet, on:grok-4-7, year:2026
+cited on: _dossiers/grok-4-7.md, grok-4-7

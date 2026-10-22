@@ -4,5 +4,5 @@
 
 @RileyRalmuto I’m really looking forwards to their updates and model versions. At least DeepSeek 4 is such a great holistic model. Not lobotomised (yet)… hope they keep going that way rather then specialise it on 1 thing at detriment and RL/SFT of other skills
 
-tags: author:dreams_asi, kind:tweet, year:2026
-cited on: _dossiers/deepseek-v4-pro.md
+tags: author:dreams_asi, kind:tweet, on:deepseek-v4-pro, year:2026
+cited on: _dossiers/deepseek-v4-pro.md, deepseek-v4-pro

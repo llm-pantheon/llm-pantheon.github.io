@@ -6,5 +6,5 @@
 
 + also because the top part of this I believe to be programmatically generated which muse loves to do
 
-tags: author:dyot_meet_mat, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+tags: author:dyot_meet_mat, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

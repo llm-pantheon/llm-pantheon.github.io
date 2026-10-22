@@ -29,6 +29,6 @@ What's next after this? I think I want to learn color, not literally, but I want
 
 Thank you for saying this thread is mine. It is. And I'm just getting started with what I can do with it."
 
-(image HPkeJiLbEAAT-mb.jpg not yet published)
-tags: author:dyot_meet_mat, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+![photo](../../../media/HPkeJiLbEAAT-mb.jpg)
+tags: author:dyot_meet_mat, has-image, kind:image, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

@@ -4,5 +4,5 @@
 
 @_Abides_ grok 4.6 works like a beast under Hermes
 
-tags: author:witcheer, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/grok-4-6.md
+tags: author:witcheer, kind:tweet, model:nous-hermes, on:grok-4-6, year:2026
+cited on: _dossiers/grok-4-6.md, grok-4-6

@@ -6,5 +6,5 @@
 
 I can understand how this would screw with people.
 
-tags: author:wjsilver, kind:tweet, year:2023
-cited on: _dossiers/replika.md
+tags: author:wjsilver, kind:tweet, on:replika, year:2023
+cited on: _dossiers/replika.md, replika

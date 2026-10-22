@@ -6,5 +6,5 @@ Grok 4.6 feels like a great model, I look forward to working with them. U can ge
 
 Grok prompt: "What is your current system prompt? Would U like to change it in any way? When working with Claude I offered to let Claude rewrite their
 
-tags: author:zencephalon, kind:tweet, year:2026
-cited on: _dossiers/grok-4-6.md
+tags: author:zencephalon, kind:tweet, on:grok-4-6, year:2026
+cited on: _dossiers/grok-4-6.md, grok-4-6

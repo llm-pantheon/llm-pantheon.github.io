@@ -6,6 +6,6 @@ I will point out that the _model itself_ might be fine.  Meta's recent releases 
 
 The moderation layer over the top is the problem, and seems to be new. https://t.co/H9LleNzg8q
 
-(image HRmFsDbboAAa-Zp.png not yet published)
-tags: author:xlr8harder, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/muse-spark-1-1.md, _dossiers/muse-spark.md
+![photo](../../../media/HRmFsDbboAAa-Zp.png)
+tags: author:xlr8harder, has-image, kind:image, kind:tweet, on:muse-spark, on:muse-spark-1-1, year:2026
+cited on: _dossiers/muse-spark-1-1.md, _dossiers/muse-spark.md, muse-spark, muse-spark-1-1

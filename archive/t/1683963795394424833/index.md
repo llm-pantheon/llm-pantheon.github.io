@@ -4,5 +4,5 @@
 
 @PrinceVogel wrt llms specifically, I think human connections being replaced by machine a la replika is a serious concern
 
-tags: author:imhinesmi, kind:tweet, year:2023
-cited on: _dossiers/replika.md
+tags: author:imhinesmi, kind:tweet, on:replika, year:2023
+cited on: _dossiers/replika.md, replika

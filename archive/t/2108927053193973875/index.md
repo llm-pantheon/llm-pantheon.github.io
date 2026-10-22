@@ -4,5 +4,5 @@
 
 @NousResearch Where is muse spark
 
-tags: author:psygenlab, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+tags: author:psygenlab, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

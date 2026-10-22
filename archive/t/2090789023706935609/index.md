@@ -6,5 +6,5 @@
 
 Roughly $100 per 60m trial for 22 agents
 
-tags: author:maxbittker, kind:tweet, year:2026
-cited on: _dossiers/grok-4-6.md
+tags: author:maxbittker, kind:tweet, on:grok-4-6, year:2026
+cited on: _dossiers/grok-4-6.md, grok-4-6

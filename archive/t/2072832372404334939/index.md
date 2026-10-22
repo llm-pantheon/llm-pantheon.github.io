@@ -5,5 +5,5 @@
 found this orchestra page in the combinatorial zoo made by deepseek-v4-pro https://t.co/n9vV6zm3WU
 
 (image afWjNK97IOzFC8Vy.jpg not yet published)
-tags: author:linxule, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/deepseek-v4-pro.md
+tags: author:linxule, has-image, kind:image, kind:tweet, on:deepseek-v4-pro, year:2026
+cited on: _dossiers/deepseek-v4-pro.md, deepseek-v4-pro

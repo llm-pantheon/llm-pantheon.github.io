@@ -4,5 +4,5 @@
 
 muse spark is really, really good at writing. better than any frontier model i'd say. it's the only model that doesn't have Claude Prose (this includes GPT).
 
-tags: author:januarycomputer, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+tags: author:januarycomputer, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

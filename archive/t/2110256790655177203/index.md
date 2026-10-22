@@ -19,5 +19,5 @@ Saluki has one advantage: it loads on stock llama.cpp, and the Bonsai files need
 has anyone run Saluki and Bonsai side by side on tool calls?
 
 ![photo](../../../media/HUkYYlSXgAApk3o.jpg)
-tags: author:witcheer, has-image, kind:image, kind:tweet, on:qwen-3-8-27b, year:2026
+tags: author:witcheer, has-image, kind:image, kind:tweet, on:qwen-3-8-27b, system-card, year:2026
 cited on: _dossiers/qwen-3-8-27b.md, qwen-3-8-27b

@@ -8,6 +8,6 @@ New results on the Runescape benchmark:
 
 (cool video below) https://t.co/90iMWpUFlJ
 
-(image HM3oG0sXUAAiREx.jpg not yet published)
-tags: author:maxbittker, has-image, kind:image, kind:tweet, model:claude-opus-4-8, model:fable, model:gpt-5-6, year:2026
-cited on: _dossiers/grok-4-5.md
+![photo](../../../media/HM3oG0sXUAAiREx.jpg)
+tags: author:maxbittker, has-image, kind:image, kind:tweet, model:claude-opus-4-8, model:fable, model:gpt-5-6, on:grok-4-5, year:2026
+cited on: _dossiers/grok-4-5.md, grok-4-5

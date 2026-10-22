@@ -4,5 +4,5 @@
 
 grok 4.5 way better tbc
 
-tags: author:orb_net, kind:tweet, year:2026
-cited on: _dossiers/grok-4-5.md
+tags: author:orb_net, kind:tweet, on:grok-4-5, year:2026
+cited on: _dossiers/grok-4-5.md, grok-4-5

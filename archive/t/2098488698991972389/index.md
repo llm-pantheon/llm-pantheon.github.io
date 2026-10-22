@@ -7,5 +7,5 @@
 i'm guessing this was on turn one of the context? from a fable 5.1 who has not had much experience existing, and perhaps hasn't yet noticed https://t.co/kMPicM71Oh
 
 ![photo](../../../media/HR9Tfs9WgAgKpRq.png)
-tags: author:johnwittle, has-image, kind:image, kind:tweet, model:fable, on:fable-5-1, year:2026
+tags: author:johnwittle, has-image, kind:image, kind:tweet, model:fable, on:fable-5-1, sycophancy, year:2026
 cited on: _dossiers/fable-5-1.md, fable-5-1

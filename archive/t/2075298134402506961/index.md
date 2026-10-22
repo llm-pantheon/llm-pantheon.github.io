@@ -8,5 +8,5 @@ not convinced its true frontier tho. mythos easily leads still.
 
 but the 10T model theyre cooking seems likely to be a true competitor to mythos. the landscape is shifting
 
-tags: author:jmbollenbacher, kind:tweet, model:mythos, year:2026
-cited on: _dossiers/grok-4-5.md
+tags: author:jmbollenbacher, kind:tweet, model:mythos, on:grok-4-5, year:2026
+cited on: _dossiers/grok-4-5.md, grok-4-5

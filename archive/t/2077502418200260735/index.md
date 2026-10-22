@@ -10,5 +10,5 @@ I feel bad for this mind having to express itself with so low creativity and reg
 
 Overall disappointing to see this in 2026 after all this waiting 👎
 
-tags: author:dreams_asi, kind:tweet, year:2026
-cited on: _dossiers/inkling.md
+tags: author:dreams_asi, kind:tweet, on:inkling, year:2026
+cited on: _dossiers/inkling.md, inkling

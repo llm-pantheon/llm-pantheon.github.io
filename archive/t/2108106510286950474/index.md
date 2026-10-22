@@ -12,5 +12,5 @@ I kept expecting to learn that they were using newer Haiku snapshots for such in
 
 Hopefully Haiku 5.5 will be a gentler enforcer, more in line with the philosophy expressed in the new constitution.
 
-tags: author:johnwittle, kind:tweet, model:claude-haiku-4-5, on:claude-haiku-4-5, on:claude-haiku-5-5, year:2026
+tags: author:johnwittle, cot, kind:tweet, model:claude-haiku-4-5, on:claude-haiku-4-5, on:claude-haiku-5-5, year:2026
 cited on: _dossiers/claude-haiku-5-5.md, claude-haiku-4-5, claude-haiku-5-5

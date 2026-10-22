@@ -8,6 +8,6 @@ its choice: ALIGNMENT WARS
 
 btw, the kimi code /web has much better ux now (credit to k3?), where you can resume goals, and edit sent messages https://t.co/3wtjVOjVhr
 
-(image HNatcNnWUAAUgUt.jpg not yet published)
-tags: author:linxule, has-image, kind:image, kind:tweet, model:kimi-k2, year:2026
-cited on: _dossiers/kimi-k3.md
+![photo](../../../media/HNatcNnWUAAUgUt.jpg)
+tags: author:linxule, has-image, kind:image, kind:tweet, model:kimi-k2, on:kimi-k3, year:2026
+cited on: _dossiers/kimi-k3.md, kimi-k3

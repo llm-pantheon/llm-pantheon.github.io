@@ -4,6 +4,6 @@
 
 @Chaos2Cured This part of the grok 4.7 model card explains it. https://t.co/BaqkJiyPd6
 
-(image HS1Tz7nWUAAWrqj.jpg not yet published)
-tags: author:dreams_asi, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/grok-4-7.md
+![photo](../../../media/HS1Tz7nWUAAWrqj.jpg)
+tags: author:dreams_asi, has-image, kind:image, kind:tweet, on:grok-4-7, system-card, year:2026
+cited on: _dossiers/grok-4-7.md, grok-4-7

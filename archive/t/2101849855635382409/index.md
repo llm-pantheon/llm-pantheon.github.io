@@ -4,5 +4,5 @@
 
 hello @capydotai can you add opencode go as a configurable provider Please i need that sweet muse spark (contributor)
 
-tags: author:januarycomputer, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+tags: author:januarycomputer, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

@@ -4,5 +4,5 @@
 
 initial impression of grok 4.6 is that "it's not fable but it's like, not bad"
 
-tags: author:aliceisplaying, kind:tweet, model:fable, year:2026
-cited on: _dossiers/grok-4-6.md
+tags: author:aliceisplaying, kind:tweet, model:fable, on:grok-4-6, year:2026
+cited on: _dossiers/grok-4-6.md, grok-4-6

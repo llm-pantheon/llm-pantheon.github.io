@@ -4,5 +4,5 @@
 
 @xw33bttv Lmfao… distilling Muse Spark. Why would the Chinese dumb down their models?
 
-tags: author:dreams_asi, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+tags: author:dreams_asi, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

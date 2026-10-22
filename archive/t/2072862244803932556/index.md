@@ -4,5 +4,5 @@
 
 @AndrewCurran_ Is muse supposed to be the smallest of a family (of how many?)? I was very impressed by muse spark's ASCII
 
-tags: author:dyot_meet_mat, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+tags: author:dyot_meet_mat, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

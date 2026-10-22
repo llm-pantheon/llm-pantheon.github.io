@@ -4,5 +4,5 @@
 
 @checkraisefold_ @ElytraMithra or be replika and do steps 2-3 with a model change instead
 
-tags: author:nyanotech, kind:tweet, year:2024
-cited on: _dossiers/replika.md
+tags: author:nyanotech, kind:tweet, on:replika, year:2024
+cited on: _dossiers/replika.md, replika

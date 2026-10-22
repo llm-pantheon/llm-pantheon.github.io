@@ -4,5 +4,5 @@
 
 @RimasXYZ @opencode @OpenRouter hermes 4 was not an agentic model and would lose against anymodern model, its almost 2 years old
 
-tags: author:teknium, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/nous-hermes.md
+tags: author:teknium, kind:tweet, model:nous-hermes, on:nous-hermes, year:2026
+cited on: _dossiers/nous-hermes.md, nous-hermes

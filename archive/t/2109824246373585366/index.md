@@ -6,6 +6,6 @@ getting some growing pains with this muse lol
 
 i think muse wonder full must be really a different model or benchmarks are sus https://t.co/dildJM1Vm5
 
-(image HUeZ-CvagAAPRH0.jpg not yet published)
-tags: author:daniellefong, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/muse-wonder.md
+![photo](../../../media/HUeZ-CvagAAPRH0.jpg)
+tags: author:daniellefong, has-image, kind:image, kind:tweet, on:muse-wonder, on:muse-wonder-full, year:2026
+cited on: _dossiers/muse-wonder.md, muse-wonder, muse-wonder-full

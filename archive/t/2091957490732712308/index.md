@@ -4,5 +4,5 @@
 
 @SpaceXAI So many ways to enjoy Grok 4.6 in Hermes Agent!
 
-tags: author:nousresearch, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/grok-4-6.md
+tags: author:nousresearch, kind:tweet, model:nous-hermes, on:grok-4-6, year:2026
+cited on: _dossiers/grok-4-6.md, grok-4-6

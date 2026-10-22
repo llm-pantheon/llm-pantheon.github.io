@@ -14,12 +14,12 @@
       <span class="rh-stats">&#9829;36 &#8635;1</span>
       <a class="rh-orig" href="https://x.com/witcheer/status/2087110487007731795">original &#8599;</a></div>
       <div class="record-body">Meta is back in open weights: Muse Glimmer, a dense 30B VLM, Apache 2.0, released yesterday. I benchmarked it on my RTX 5090<br><br>28B text decoder plus a 2B vision encoder. hybrid attention, three sliding-window layers then one full-attention layer with no positional embedding, repeated 13 times. 16 query heads share each KV head, so the KV cache is small.<br><br>result (UD-Q4_K_XL, 15.9GB file, llama.cpp master):<br><br>- 85.7 tok/s generation, fully resident in VRAM, 15.4GB of 32GB used<br>- prefill 4769 tok/s at 512 ctx, still 4429 at 16K<br>- MMLU 80.6 / ARC-C 93.5 / HellaSwag 88.8 / HumanEval 95.7 / GSM8K 96.7, q_avg 91.1 on my five-task board<br><br>the offloaded 120B-class MoEs I've been benching run 46 to 47 tok/s on this card because every token waits on system RAM. <br>Muse Glimmer runs at 85.7 with half the card spare.</div>
-      <figure class="record-media"><p class="note">[image HPbnLC9XIAEF6Vq.jpg in the corpus mirror; not published]</p></figure>
+      <figure class="record-media"><img src="../../../media/HPbnLC9XIAEF6Vq.jpg" loading="lazy" alt="photo"></figure>
 
     </article>
     
-    <p class="atags"><a class="atag" href="../../tags/author--witcheer/">author:witcheer</a> <a class="atag" href="../../tags/has-image/">has-image</a> <a class="atag" href="../../tags/kind--image/">kind:image</a> <a class="atag" href="../../tags/kind--tweet/">kind:tweet</a> <a class="atag" href="../../tags/year--2026/">year:2026</a></p>
-    
+    <p class="atags"><a class="atag" href="../../tags/author--witcheer/">author:witcheer</a> <a class="atag" href="../../tags/has-image/">has-image</a> <a class="atag" href="../../tags/kind--image/">kind:image</a> <a class="atag" href="../../tags/kind--tweet/">kind:tweet</a> <a class="atag" href="../../tags/on--muse-glimmer/">on:muse-glimmer</a> <a class="atag" href="../../tags/year--2026/">year:2026</a></p>
+    <p class="note">cited on: <a href="../../../muse-glimmer/">muse-glimmer</a></p>
     <p class="note">Reproduced against link rot, credited and linked to its original. Yours and you&rsquo;d rather it
     weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
   </main>

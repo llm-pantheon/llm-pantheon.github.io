@@ -4,5 +4,5 @@
 
 You have one more month to talk to Opus 4.1 before they get shut down.
 
-tags: author:repligate, kind:tweet, model:claude-opus-4-1, on:claude-opus-4-1, year:2026
+tags: author:repligate, deprecation, kind:tweet, model:claude-opus-4-1, on:claude-opus-4-1, year:2026
 cited on: claude-opus-4-1

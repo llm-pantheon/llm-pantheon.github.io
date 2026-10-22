@@ -4,5 +4,5 @@
 
 https://t.co/aPTud7teMq's model is grok 4.5
 
-tags: author:gnostic_snakes, kind:tweet, year:2026
-cited on: _dossiers/grok-4-5.md
+tags: author:gnostic_snakes, kind:tweet, on:grok-4-5, year:2026
+cited on: _dossiers/grok-4-5.md, grok-4-5

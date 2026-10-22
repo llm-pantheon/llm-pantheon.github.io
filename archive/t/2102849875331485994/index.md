@@ -4,5 +4,5 @@
 
 @dschwarz26 nope, I think 4.7 or Muse Spark 1.3 are solidly better than Opus 4.1/GPT-5. this is very obvious in anything coding
 
-tags: author:herbiebradley, kind:tweet, model:claude-opus-4-1, year:2026
-cited on: _dossiers/muse-spark.md
+tags: author:herbiebradley, kind:tweet, model:claude-opus-4-1, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

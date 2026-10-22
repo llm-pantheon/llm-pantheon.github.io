@@ -6,5 +6,5 @@
 
 That part is actually a bit easier than what got delivered by email which injected a full phishing email, description, image, etc into an actually legit OpenAI email...
 
-tags: author:0x_osprey, kind:tweet, year:2026
-cited on: _dossiers/grok-build.md
+tags: author:0x_osprey, kind:tweet, on:grok-build, year:2026
+cited on: _dossiers/grok-build.md, grok-build

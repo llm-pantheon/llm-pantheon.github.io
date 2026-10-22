@@ -6,5 +6,5 @@ changed the default model for my main agent thread in raubot (my personal agent)
 
 subagents still do most of the coding and are kept as opus
 
-tags: author:raunakdoesdev, kind:tweet, year:2026
-cited on: _dossiers/muse-glimmer.md
+tags: author:raunakdoesdev, kind:tweet, on:muse-glimmer, year:2026
+cited on: _dossiers/muse-glimmer.md, muse-glimmer

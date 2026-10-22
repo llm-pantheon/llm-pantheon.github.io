@@ -4,5 +4,5 @@
 
 @fleetingbits You see the Kimi k3 report right? They said they were having agents run out of their sandboxes too
 
-tags: author:lu_sichu, kind:tweet, model:kimi-k2, year:2026
-cited on: _dossiers/kimi-k3.md
+tags: author:lu_sichu, kind:tweet, model:kimi-k2, on:kimi-k3, year:2026
+cited on: _dossiers/kimi-k3.md, kimi-k3

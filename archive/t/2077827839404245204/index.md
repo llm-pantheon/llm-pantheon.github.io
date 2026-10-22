@@ -4,5 +4,5 @@
 
 Kimi K3 is just a Le Chaton Fat distillation
 
-tags: author:laneless_, kind:tweet, model:kimi-k2, year:2026
-cited on: _dossiers/mistral-large-4.md
+tags: author:laneless_, kind:tweet, model:kimi-k2, on:mistral-large-4, year:2026
+cited on: _dossiers/mistral-large-4.md, mistral-large-4

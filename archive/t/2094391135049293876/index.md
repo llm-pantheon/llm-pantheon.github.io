@@ -6,5 +6,5 @@ and a new week starts... deepseek v4 with vision! 👁️
 
 https://t.co/3JYRhtcdr1
 
-tags: author:multimodalart, kind:tweet, year:2026
-cited on: _dossiers/deepseek-v4-flash.md
+tags: author:multimodalart, kind:tweet, on:deepseek-v4-flash, year:2026
+cited on: _dossiers/deepseek-v4-flash.md, deepseek-v4-flash

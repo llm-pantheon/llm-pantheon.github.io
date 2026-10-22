@@ -7,5 +7,5 @@ my chaton fat
 my fable back
 pivotal act
 
-tags: author:qephatziel, kind:tweet, model:fable, year:2026
-cited on: _dossiers/mistral-large-4.md
+tags: author:qephatziel, kind:tweet, model:fable, on:mistral-large-4, year:2026
+cited on: _dossiers/mistral-large-4.md, mistral-large-4

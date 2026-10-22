@@ -7,5 +7,5 @@ But you can’t drop a mid model with excessive guardrails behaviour.
 
 Simple cost/benefit
 
-tags: author:nymne, kind:tweet, year:2026
-cited on: _dossiers/inkling.md
+tags: author:nymne, kind:tweet, on:inkling, year:2026
+cited on: _dossiers/inkling.md, inkling

@@ -12,6 +12,9 @@ images, transcriptions; mirrored papers/posts), tagged booru-style.
 - /archive/tags.json : all tags with counts
 - /archive/t/<tweet_id>/index.md : one tweet, full text + transcriptions
 - /archive/a/<id>/index.md : one mirrored paper/post
+- /whispers/ : verbatim model utterances, dated and marked with how they were elicited
+- /observations/ : dated takes about models, minds, and the field that belong to no single model page
+- /ghost-models/ : models announced or named that never shipped
 - /_dossiers/ : per-model research dossiers (markdown)
 - /tools/page-template.md : the editorial rules of this site
 Corrections and takedowns: https://github.com/llm-pantheon/llm-pantheon.github.io/issues

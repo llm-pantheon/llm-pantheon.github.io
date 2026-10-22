@@ -8,5 +8,5 @@ this is incredibly weird, seems to put opus 5 in some kind of base model-like mo
 ![photo](../../../media/HOSZr__bYAA64Lm.jpg)
 ![photo](../../../media/HOSZ1SNagAEiU27.jpg)
 ![photo](../../../media/HOSZ-Y5boAAWqk6.jpg)
-tags: author:qiaochuyuan, has-image, kind:image, kind:tweet, on:claude-opus-5, year:2026
+tags: author:qiaochuyuan, base-models, has-image, kind:image, kind:tweet, on:claude-opus-5, year:2026
 cited on: claude-opus-5

@@ -6,6 +6,6 @@ The labs themselves each have a page now, showing their scores across all models
 
 Mistral is currently the top lab on our eval.  Here's their lab page: https://t.co/fCNr2jFIDG https://t.co/QWUaikocEQ
 
-(image HNA1VUHXUAAQX68.png not yet published)
-tags: author:xlr8harder, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/mistral-large-4.md
+![photo](../../../media/HNA1VUHXUAAQX68.png)
+tags: author:xlr8harder, has-image, kind:image, kind:tweet, on:mistral-large-4, year:2026
+cited on: _dossiers/mistral-large-4.md, mistral-large-4

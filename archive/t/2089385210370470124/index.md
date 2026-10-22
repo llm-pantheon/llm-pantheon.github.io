@@ -4,5 +4,5 @@
 
 @SebAaltonen Do you feel Codex is getting worse lately? I feel it's making more and more really trivial mistakes. Looking forward to Grok 4.7 and seeing how it performs.
 
-tags: author:vince_d_boer, kind:tweet, year:2026
-cited on: _dossiers/grok-4-7.md
+tags: author:vince_d_boer, kind:tweet, on:grok-4-7, year:2026
+cited on: _dossiers/grok-4-7.md, grok-4-7

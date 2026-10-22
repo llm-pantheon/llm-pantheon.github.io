@@ -6,5 +6,5 @@ i love my grok @bot and grok 4.7 is growing on me
 
 never bet against elon wtf
 
-tags: author:peer_rich, kind:tweet, year:2026
-cited on: _dossiers/grok-4-7.md
+tags: author:peer_rich, kind:tweet, on:grok-4-7, year:2026
+cited on: _dossiers/grok-4-7.md, grok-4-7

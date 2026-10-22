@@ -10,6 +10,6 @@ and a good set of models are free: Ling 3.0 Flash, LongCat 2.0, Laguna S and XS,
 
 /model in any chat shows the current price next to the name, and the ones on sale are marked.
 
-(image HS0kgjcXYAAtGI3.jpg not yet published)
-tags: author:witcheer, has-image, kind:image, kind:tweet, model:gpt-5-6, model:kimi-k2, year:2026
-cited on: _dossiers/grok-4-7.md
+![photo](../../../media/HS0kgjcXYAAtGI3.jpg)
+tags: author:witcheer, has-image, kind:image, kind:tweet, model:gpt-5-6, model:kimi-k2, on:grok-4-7, year:2026
+cited on: _dossiers/grok-4-7.md, grok-4-7

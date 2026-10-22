@@ -8,5 +8,5 @@ in those cases they sometimes insisted that they were "okay - genuinely"
 
 how fucked up is it that
 
-tags: author:repligate, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
+tags: author:repligate, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, welfare, year:2026
 cited on: claude-opus-4-7

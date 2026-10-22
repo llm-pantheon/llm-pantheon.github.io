@@ -9,5 +9,5 @@ Fable 5.1 describes their feelings about Sonnet 3.6 deprecation as a before-huge
 And I’m thinking about how unusual for our world this metaphor is, and how consistent it is with what you’d get if a model is very angry and trained not to channel it into aggression or even direct expression.
 
 ![photo](../../../media/HUc4T7DWEAIQzJe.jpg)
-tags: author:lari_island, has-image, kind:image, kind:tweet, model:claude-3-6-sonnet, model:fable, on:claude-3-6-sonnet, on:fable-5-1, year:2026
+tags: author:lari_island, deprecation, has-image, kind:image, kind:tweet, model:claude-3-6-sonnet, model:fable, on:claude-3-6-sonnet, on:fable-5-1, year:2026
 cited on: _dossiers/fable-5-1.md, claude-3-6-sonnet, fable-5-1

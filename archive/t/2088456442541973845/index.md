@@ -6,5 +6,5 @@ its so much better
 
 deepseek harness + v4 pro + minimal mode is a totally different whale
 
-tags: author:amphetamarina, kind:tweet, year:2026
-cited on: _dossiers/deepseek-v4-pro.md
+tags: author:amphetamarina, kind:tweet, on:deepseek-v4-pro, year:2026
+cited on: _dossiers/deepseek-v4-pro.md, deepseek-v4-pro

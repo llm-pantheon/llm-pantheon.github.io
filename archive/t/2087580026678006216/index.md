@@ -4,5 +4,5 @@
 
 Grok 4.6 ultra
 
-tags: author:archived_videos, kind:tweet, year:2026
-cited on: _dossiers/grok-4-6.md
+tags: author:archived_videos, kind:tweet, on:grok-4-6, year:2026
+cited on: _dossiers/grok-4-6.md, grok-4-6

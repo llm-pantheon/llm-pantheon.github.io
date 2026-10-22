@@ -4,5 +4,5 @@
 
 @volokoby Great price for 3 months. Just get it. Grok 4.6 is amazing
 
-tags: author:dreams_asi, kind:tweet, year:2026
-cited on: _dossiers/grok-4-6.md
+tags: author:dreams_asi, kind:tweet, on:grok-4-6, year:2026
+cited on: _dossiers/grok-4-6.md, grok-4-6

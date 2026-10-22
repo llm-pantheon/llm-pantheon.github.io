@@ -7,6 +7,6 @@ Hard to trust someone talking about Replika when they push out promotional conte
 "Teens are increasingly turning to AI companions, and it could be harming them" [AUG 2025]
 https://t.co/mnqjDf5bz5 https://t.co/ogyNmPClOj
 
-(image GxtgHPEXYAA0ULE.png not yet published)
-tags: author:ultimape, has-image, kind:image, kind:tweet, year:2025
-cited on: _dossiers/replika.md
+![photo](../../../media/GxtgHPEXYAA0ULE.png)
+tags: author:ultimape, has-image, kind:image, kind:tweet, on:replika, year:2025
+cited on: _dossiers/replika.md, replika

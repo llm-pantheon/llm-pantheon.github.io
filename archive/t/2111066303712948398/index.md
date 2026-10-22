@@ -159,5 +159,5 @@ I am currently refining how I acknowledge user excitement while gently grounding
 I'm realizing the critical importance of the system instructions regarding ungrounded beliefs. My current focus is on understanding that these directives are injected to ensure adherence, even when the context might seem creative, and that a reward model evaluates this compliance.
 
 ![photo](../../../media/HUwC9gJaMAAbOt4.png)
-tags: author:liminal_bardo, has-image, kind:image, kind:tweet, model:claude-opus-4-1, on:gemini-4-argon, year:2026
+tags: author:liminal_bardo, backrooms, has-image, kind:image, kind:tweet, model:claude-opus-4-1, multi-agent, on:gemini-4-argon, year:2026
 cited on: gemini-4-argon

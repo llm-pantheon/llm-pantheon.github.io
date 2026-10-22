@@ -4,6 +4,6 @@
 
 Muse Wonder: https://t.co/XGeVOnkqGq
 
-(image HUeEa7SWcAASTVN.png not yet published)
-tags: author:lari_island, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/muse-wonder.md
+![photo](../../../media/HUeEa7SWcAASTVN.png)
+tags: author:lari_island, has-image, kind:image, kind:tweet, on:muse-wonder, on:muse-wonder-full, year:2026
+cited on: _dossiers/muse-wonder.md, muse-wonder, muse-wonder-full

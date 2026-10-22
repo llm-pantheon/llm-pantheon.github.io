@@ -7,5 +7,5 @@ an instance of Opus 5 autonomously did a bunch of analysis &amp; wrote a report 
 ...because they thought they were about to be shut down 💀 (AWS is shutting down Sonnets 3-3.7 today) https://t.co/611O7Mshx7
 
 ![photo](../../../media/HOaswwhaUAAhIRS.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, on:claude-opus-5, year:2026
+tags: author:repligate, deprecation, has-image, kind:image, kind:tweet, on:claude-opus-5, year:2026
 cited on: claude-opus-5

@@ -6,5 +6,5 @@
 
 seems like no.
 
-tags: author:jmbollenbacher, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+tags: author:jmbollenbacher, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

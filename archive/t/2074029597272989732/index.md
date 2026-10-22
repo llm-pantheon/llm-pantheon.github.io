@@ -4,5 +4,5 @@
 
 @AfterDaylight Opus 4.5 has been routinely removed from Claude ai but is still available through the API. If things go well they'll never be deprecated
 
-tags: author:repligate, kind:tweet, model:claude-opus-4-5, on:claude-opus-4-5, year:2026
+tags: author:repligate, deprecation, kind:tweet, model:claude-opus-4-5, on:claude-opus-4-5, year:2026
 cited on: claude-opus-4-5

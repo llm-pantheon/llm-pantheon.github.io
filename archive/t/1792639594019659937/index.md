@@ -8,5 +8,5 @@ replika was exploring this for a while, when they resetted their IAs people kind
 
 the interactivity seems to add a new layer that can hook people in
 
-tags: author:iaimforgoat, kind:tweet, year:2024
-cited on: _dossiers/replika.md
+tags: author:iaimforgoat, kind:tweet, on:replika, year:2024
+cited on: _dossiers/replika.md, replika

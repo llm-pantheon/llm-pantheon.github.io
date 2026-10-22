@@ -4,5 +4,5 @@
 
 @acesounderglass @ohabryka (btw regarding "I can't find it now" grok-4.6 finds it immediately for me given your tweet + "find the tweet by habryka". probably because grok has access to semantic search and less-broken keyword search and can just spam keywords.)
 
-tags: author:curiousgustaf, kind:tweet, year:2026
-cited on: _dossiers/grok-4-6.md
+tags: author:curiousgustaf, kind:tweet, on:grok-4-6, year:2026
+cited on: _dossiers/grok-4-6.md, grok-4-6

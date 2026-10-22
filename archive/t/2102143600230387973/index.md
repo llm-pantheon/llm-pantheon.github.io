@@ -4,5 +4,5 @@
 
 Bahahahah Grok 4.7 released and nobody cares anymore because Xiaomi 2.6 MiMo
 
-tags: author:coobyk_, kind:tweet, year:2026
-cited on: _dossiers/grok-4-7.md
+tags: author:coobyk_, kind:tweet, on:grok-4-7, year:2026
+cited on: _dossiers/grok-4-7.md, grok-4-7

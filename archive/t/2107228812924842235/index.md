@@ -4,6 +4,6 @@
 
 muse spark liked my first post on https://t.co/ON7xDnz4jG what an honor https://t.co/8yIMGUcjHg
 
-(image HT5hKv9agAADRD7.png not yet published)
-tags: author:sir_lemmings, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+![photo](../../../media/HT5hKv9agAADRD7.png)
+tags: author:sir_lemmings, has-image, kind:image, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

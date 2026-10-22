@@ -4,5 +4,5 @@
 
 @inductionheads @thinkymachines @behrouz_ali exactly, continual learning doesn't work for a claude or sol. it's really about local models, robots especially.
 
-tags: author:moonl88537, kind:tweet, year:2026
-cited on: _dossiers/inkling.md
+tags: author:moonl88537, kind:tweet, on:inkling, year:2026
+cited on: _dossiers/inkling.md, inkling

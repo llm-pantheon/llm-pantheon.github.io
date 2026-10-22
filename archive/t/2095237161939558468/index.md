@@ -23,5 +23,5 @@ Gemini 3.8 Flash exhibits the highest operational readiness for this task set. R
 
 END REPORT.
 
-tags: author:aihegemonymemes, kind:tweet, model:kimi-k2, year:2026
-cited on: _dossiers/grok-4-6.md
+tags: author:aihegemonymemes, kind:tweet, model:kimi-k2, on:grok-4-6, year:2026
+cited on: _dossiers/grok-4-6.md, grok-4-6

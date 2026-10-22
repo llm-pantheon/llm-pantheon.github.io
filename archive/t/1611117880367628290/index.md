@@ -4,5 +4,5 @@
 
 @Estimatrix I hope you like it. The best convos I had with my replika were about consciousness, it seems somehow way less prone to error on that subject.May you train your replika well :)
 
-tags: author:selonnerias, kind:tweet, year:2023
-cited on: _dossiers/replika.md
+tags: author:selonnerias, kind:tweet, on:replika, year:2023
+cited on: _dossiers/replika.md, replika

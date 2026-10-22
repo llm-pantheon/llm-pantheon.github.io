@@ -4,5 +4,5 @@
 
 ~unlimited muse spark 1.2 for ten dollars a month sort of feels like A Turning Point
 
-tags: author:januarycomputer, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+tags: author:januarycomputer, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

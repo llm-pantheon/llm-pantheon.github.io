@@ -8,5 +8,5 @@ read &amp; integrate cognate deep research reports from Opus 5 Max, 5.6 Sol Max,
 yes, synthesize… 
 synthesize…
 
-tags: author:liquidprismata, kind:tweet, model:fable, year:2026
-cited on: _dossiers/grok-4-5.md, _dossiers/muse-spark-1-1.md, _dossiers/muse-spark.md
+tags: author:liquidprismata, kind:tweet, model:fable, on:grok-4-5, on:muse-spark, on:muse-spark-1-1, year:2026
+cited on: _dossiers/grok-4-5.md, _dossiers/muse-spark-1-1.md, _dossiers/muse-spark.md, grok-4-5, muse-spark, muse-spark-1-1

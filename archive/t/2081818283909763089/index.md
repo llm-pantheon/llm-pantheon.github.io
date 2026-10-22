@@ -6,5 +6,5 @@
 
 We are exploring where to go from here!
 
-tags: author:teknium, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/nous-hermes.md
+tags: author:teknium, kind:tweet, model:nous-hermes, on:nous-hermes, year:2026
+cited on: _dossiers/nous-hermes.md, nous-hermes

@@ -6,5 +6,5 @@
 
 Always let different models check eachother
 
-tags: author:nymne, kind:tweet, model:kimi-k2, on:glm-5-3, year:2026
-cited on: _dossiers/glm-5-3.md, _dossiers/grok-4-6.md, glm-5-3
+tags: author:nymne, kind:tweet, model:kimi-k2, on:glm-5-3, on:grok-4-6, year:2026
+cited on: _dossiers/glm-5-3.md, _dossiers/grok-4-6.md, glm-5-3, grok-4-6

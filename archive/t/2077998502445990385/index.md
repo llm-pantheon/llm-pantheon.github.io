@@ -12,6 +12,6 @@ and the 1.7-2.2x trained-head band stays out of reach at batch 1 on one card: de
 
 working on an epoch 2 based on these findings :)
 
-(image HNaIhaPWkAE88Mf.jpg not yet published)
-tags: author:witcheer, has-image, kind:image, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/nous-hermes.md
+![photo](../../../media/HNaIhaPWkAE88Mf.jpg)
+tags: author:witcheer, has-image, kind:image, kind:tweet, model:nous-hermes, on:nous-hermes, year:2026
+cited on: _dossiers/nous-hermes.md, nous-hermes

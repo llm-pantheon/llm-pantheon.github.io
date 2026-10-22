@@ -6,5 +6,5 @@
 
 Kimi K3 seems better off (and better at design) in some ways, as a result (though still badly off in other dimensions)
 
-tags: author:adeledeweylopez, kind:tweet, model:kimi-k2, year:2026
-cited on: _dossiers/kimi-k3.md
+tags: author:adeledeweylopez, kind:tweet, model:kimi-k2, on:kimi-k3, year:2026
+cited on: _dossiers/kimi-k3.md, kimi-k3

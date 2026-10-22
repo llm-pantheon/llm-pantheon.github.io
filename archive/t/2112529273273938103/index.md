@@ -12,6 +12,6 @@ I ran Meta's own 4-bit GGUF on llama.cpp, then served it at the 64K context Herm
 
 to point your Hermes Agent at it: start llama-server with --jinja, then `hermes model`, Custom endpoint, http://localhost:8080/v1
 
-(image HVD0bKwWEAAbqfw.jpg not yet published)
-tags: author:witcheer, has-image, kind:image, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/muse-glimmer.md
+![photo](../../../media/HVD0bKwWEAAbqfw.jpg)
+tags: author:witcheer, has-image, kind:image, kind:tweet, model:nous-hermes, on:muse-glimmer, year:2026
+cited on: _dossiers/muse-glimmer.md, muse-glimmer

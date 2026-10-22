@@ -8,5 +8,5 @@ it was built with long-running agents in mind, which is exactly the work your He
 
 set x-ai/grok-4.6 as your model and it runs on it today.
 
-tags: author:witcheer, kind:tweet, model:nous-hermes, year:2026
-cited on: _dossiers/grok-4-6.md
+tags: author:witcheer, kind:tweet, model:nous-hermes, on:grok-4-6, year:2026
+cited on: _dossiers/grok-4-6.md, grok-4-6

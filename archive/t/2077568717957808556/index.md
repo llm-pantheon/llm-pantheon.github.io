@@ -4,5 +4,5 @@
 
 @simonw TIL xAI open sourced grok build
 
-tags: author:mitduckmaster, kind:tweet, year:2026
-cited on: _dossiers/grok-build.md
+tags: author:mitduckmaster, kind:tweet, on:grok-build, year:2026
+cited on: _dossiers/grok-build.md, grok-build

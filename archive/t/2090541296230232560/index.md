@@ -4,5 +4,5 @@
 
 I can tell Deepseek-V4-Flash is a weaker model than Grok-4.6, but it's also costing me less than one-twentieth the money for the same problem class, so it's a pretty tempting substitution
 
-tags: author:christophcsmith, kind:tweet, year:2026
-cited on: _dossiers/deepseek-v4-flash.md, _dossiers/grok-4-6.md
+tags: author:christophcsmith, kind:tweet, on:deepseek-v4-flash, on:grok-4-6, year:2026
+cited on: _dossiers/deepseek-v4-flash.md, _dossiers/grok-4-6.md, deepseek-v4-flash, grok-4-6

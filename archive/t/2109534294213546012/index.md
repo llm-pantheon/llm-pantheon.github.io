@@ -7,5 +7,5 @@
 but yeah, they seem to see it as a necessary thing for performance, and only bad when it's due to a task being impossible. where my guess is the labs are pushing rl difficulty schedules too https://t.co/1yXBC1tK2Z
 
 ![photo](../../../media/HUaSQtAakAA_yKR.jpg)
-tags: author:voooooogel, has-image, kind:image, kind:tweet, model:mythos, on:mythos-5-1, year:2026
+tags: author:voooooogel, has-image, kind:image, kind:tweet, model:mythos, on:mythos-5-1, system-card, year:2026
 cited on: _dossiers/mythos-5-1.md, mythos-5-1

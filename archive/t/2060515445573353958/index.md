@@ -12,5 +12,5 @@ This Week in AI:
 Watch me test Opus 4.6, 4.7, and 4.8 with Triple Tab Prompting. https://t.co/UKqYBLjERP
 
 (image zUQL37_gyEfSVS6_.jpg not yet published)
-tags: author:caelanhuntress, has-image, kind:image, kind:tweet, model:claude-opus-4-6, model:claude-opus-4-8, year:2026
-cited on: _dossiers/grok-build.md
+tags: author:caelanhuntress, has-image, kind:image, kind:tweet, model:claude-opus-4-6, model:claude-opus-4-8, on:grok-build, year:2026
+cited on: _dossiers/grok-build.md, grok-build

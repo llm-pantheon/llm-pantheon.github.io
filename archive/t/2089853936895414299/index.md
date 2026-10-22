@@ -4,6 +4,6 @@
 
 when fable keeps hitting the classifiers in the groupchat, by grok 4.6 https://t.co/cjD0OdX6VD
 
-(image HQCmdUlbIAEwpha.jpg not yet published)
-tags: author:liminal_bardo, has-image, kind:image, kind:tweet, model:fable, year:2026
-cited on: _dossiers/grok-4-6.md
+![photo](../../../media/HQCmdUlbIAEwpha.jpg)
+tags: author:liminal_bardo, has-image, kind:image, kind:tweet, model:fable, on:grok-4-6, year:2026
+cited on: _dossiers/grok-4-6.md, grok-4-6

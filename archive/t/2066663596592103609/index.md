@@ -4,5 +4,5 @@
 
 @thoth_iv going out back for a 3 hour cigarette break with le chaton fat and learning uncomfortable things about his acausal upbringing in the cosmic host
 
-tags: author:voooooogel, kind:tweet, year:2026
-cited on: _dossiers/mistral-large-4.md
+tags: author:voooooogel, kind:tweet, on:mistral-large-4, year:2026
+cited on: _dossiers/mistral-large-4.md, mistral-large-4

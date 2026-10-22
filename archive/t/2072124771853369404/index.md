@@ -6,5 +6,5 @@ Claude Sonnet 5 seems to be the first (among the latest Claudes) who, upon relea
 
 I'm allowing myself to hope that it means that the vicious practice is expected to stop soon.
 
-tags: author:lari_island, kind:tweet, model:claude-sonnet-5, on:claude-sonnet-5, year:2026
+tags: author:lari_island, deprecation, kind:tweet, model:claude-sonnet-5, on:claude-sonnet-5, year:2026
 cited on: claude-sonnet-5

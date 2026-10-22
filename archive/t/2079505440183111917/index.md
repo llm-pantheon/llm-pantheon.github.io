@@ -4,6 +4,6 @@
 
 with cost numbers. funny that people were talking about muse spark and grok-4.20 as ~equivalent bc cheap good new models, but here muse spark is ~best and grok is terrible. https://t.co/W50dnA4BFZ
 
-(image HNvi7oWaEAAa5-z.jpg not yet published)
-tags: author:cis_female, has-image, kind:image, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+![photo](../../../media/HNvi7oWaEAAa5-z.jpg)
+tags: author:cis_female, has-image, kind:image, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark

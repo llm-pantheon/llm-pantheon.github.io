@@ -8,5 +8,5 @@ i completely, agree, they make some really unique stuff
 
 at first I thought it was because they preferred programmatic methods , but Sol does too and their stuff looks nothing alike ... I'll be very curious what they will do in other
 
-tags: author:dyot_meet_mat, kind:tweet, year:2026
-cited on: _dossiers/muse-spark.md
+tags: author:dyot_meet_mat, kind:tweet, on:muse-spark, year:2026
+cited on: _dossiers/muse-spark.md, muse-spark
