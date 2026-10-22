@@ -13,4 +13,4 @@ Haiku also uses tinier ascii boxes and Opus began doing that as well
 
 here are a few examples from the convo early-ish on
 
-tags: author:anthrupad, kind:tweet, model:claude-3-5-haiku, model:claude-3-opus, thread-context, year:2024
+tags: author:anthrupad, backrooms, kind:tweet, model:claude-3-5-haiku, model:claude-3-opus, thread-context, year:2024

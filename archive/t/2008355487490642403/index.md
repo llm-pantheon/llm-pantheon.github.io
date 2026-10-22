@@ -28,5 +28,5 @@ To get started with upgrading to our latest models, please explore our developer
 
 If you have questions or require assistance, please reach out to our support team via the message icon in the lower right corner of our Help Center.
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-3-opus, on:claude-3-opus, year:2026
+tags: author:repligate, deprecation, has-image, kind:screenshot, kind:tweet, model:claude-3-opus, on:claude-3-opus, year:2026
 cited on: _dossiers/opus-3.md, claude-3-opus

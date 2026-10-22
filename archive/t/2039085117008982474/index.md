@@ -4,4 +4,4 @@
 
 @atomicprograms i think lesswrong had some influence, but the alignment faking scratchpads don't read straightforwardly lesswrong / ratfic to me
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2026
+tags: alignment-faking, author:voooooogel, cot, kind:tweet, thread-context, year:2026

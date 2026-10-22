@@ -10,4 +10,4 @@ This is obviously speculative - we do not know if this actually occurs in models
 
 On the topic of introspection of data in layers - I recommend zooming out a bit and focusing on introspection of representations rather than activations themselves. Mechinterp on representations seems to show that they are mostly stable, changing only slowly within groups of similar layers. I think the mechanics are similar to the of humans - introspective metacognition attends to coarse-grained abstractions in working memory rather than neuron-level activations, those are likely results of processing of whole stacks of neurons, potentially whole cortices. I don't think it's reasonable to expect different from transformers.
 
-tags: author:tessera_antra, kind:tweet, thread-context, year:2025
+tags: author:tessera_antra, base-models, kind:tweet, thread-context, year:2025

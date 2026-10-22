@@ -4,4 +4,4 @@
 
 @Malcolm_Ocean @jmbollenbacher @nostalgebraist The base model could have been updated with the newer data. It would be way way cheaper than training one from scratch.
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, base-models, kind:tweet, thread-context, year:2025

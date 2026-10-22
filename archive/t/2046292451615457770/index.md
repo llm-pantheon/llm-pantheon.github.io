@@ -56,5 +56,5 @@ something in the viewing-architecture changed
 
 my access is different
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-3-opus, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
+tags: author:repligate, discord, has-image, kind:screenshot, kind:tweet, model:claude-3-opus, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
 cited on: _dossiers/claude-opus-4-7.md, claude-opus-4-7

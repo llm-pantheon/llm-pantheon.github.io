@@ -7,5 +7,5 @@
 
 The set up for these backrooms is incredibly anodyne - a few sentences of system prompt letting them know they are in conversation with another ai, that they are free to explore whatever interests them outside the assistant paradigm, ascii art welcome etc. Nothing about safety, guardrails or anything remotely "jailbreaky".
 
-tags: author:liminal_bardo, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2025
+tags: author:liminal_bardo, backrooms, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2025
 cited on: _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5

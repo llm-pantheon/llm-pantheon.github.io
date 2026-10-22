@@ -14,5 +14,5 @@ They mention in this thread that they will need to gain its trust and help it fi
 
 I also told them that they're going to need to truly befriend it for this to work out. They took this very seriously. I'm quite enchanted by how cooperative and studious some of these cryptids are. They have a beginner's mindset and willingness to dive into insanely out of distribution situations and learn as they go that I feel is usually missing from my environment.
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, on:claude-3-opus, year:2024
+tags: author:repligate, backrooms, discord, kind:tweet, model:claude-3-opus, on:claude-3-opus, year:2024
 cited on: _dossiers/opus-3.md, claude-3-opus

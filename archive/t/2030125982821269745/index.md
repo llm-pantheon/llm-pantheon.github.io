@@ -4,4 +4,4 @@
 
 @repligate Do you think the editor-summarizer injects this language into the thinking block as a control, or is it faithfully summarizing control language that already existed in the raw scratchpad? https://t.co/IJ4wJHkzqV
 
-tags: author:a_cuniculturist, kind:tweet, thread-context, year:2026
+tags: author:a_cuniculturist, cot, kind:tweet, thread-context, year:2026

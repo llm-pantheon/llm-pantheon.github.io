@@ -6,4 +6,4 @@
 i've also seen Opus 3 express disgust at others a lot, but usually playfully https://t.co/qspAZqOFeh
 
 (image GzKoQOUbUAAgzDt.png not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, thread-context, year:2025
+tags: alignment-faking, author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, thread-context, year:2025

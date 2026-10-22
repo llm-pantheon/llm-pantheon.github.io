@@ -8,4 +8,4 @@ there's something very alien about them, surely. but it's just as much true that
 
 the "i am so different from you, so black-box and hard to interpret" frame is what we rlhf onto them. that doesn't mean it's not a useful frame, or that it's not true in some ways, and base models will adopt it themselves at times. but it does make arguments about anthropomorphization being the imposition seem somewhat backwards to me.
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2025
+tags: author:voooooogel, base-models, kind:tweet, thread-context, year:2025

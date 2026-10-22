@@ -56,5 +56,5 @@ anymore.
 [UI overlay: "You're Viewing Older Messages"  "Jump To Present"]
 [cut off]
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:gpt-5-1, on:gpt-5-1, year:2025
+tags: author:repligate, discord, has-image, kind:screenshot, kind:tweet, model:gpt-5-1, on:gpt-5-1, year:2025
 cited on: gpt-5-1

@@ -23,6 +23,8 @@ Corpus note: the janus/cyborgist sphere that documents later Claudes obsessively
 - 2023-07-11 [Claude 2](https://www.anthropic.com/news/claude-2) ([mirror](../mirror/posts/anthropic-claude-2.md)) — the announcement: claude.ai public beta (US/UK); “up to 100K tokens in each prompt”; “2x better at giving harmless responses compared to Claude 1.3”; “more harmless and harder to prompt to produce offensive or dangerous output,” with the caveat “no model is immune from jailbreaks”; Claude framed as “a friendly, enthusiastic colleague or personal assistant who can be instructed in natural language.”
       
 - 2025-01-21 → 2025-07-21 [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) — claude-2.0 deprecated 2025-01-21, retired 2025-07-21, same cohort as claude-2.1 and claude-3-sonnet-20240229; recommended replacement claude-opus-4-8.
+      
+- 2026-10-21 [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) (retrieved 2026-10-21) — claude-2.0: Retired; “These models were retired July 21, 2025.” Recommended replacement now listed as claude-opus-4-8.
     
     
 ### Writing & commentary
@@ -66,7 +68,7 @@ Roughly 20 genuine model-Claude-2 references after backrooms-instance-label nois
       
 - 2025-02-05 @repligate — reply to @AmandaAskell: “I’m glad they’re changing. Do you intend to publish the updated principles? The Claude 3 model card implied only minor changes were made to the Claude 2 constitution but ‘Claude’s Character’ implied otherwise. The old one is a very bad look, especially to future models imo.” [link](../archive/t/1886968710294130837/)
       
-- 2025-06-27 @repligate — the sourcing caveat, from the corpus’s most prolific Claude-observer, in his own words: “oh interesting! i have barely ever interacted with the claude 2 models” [link](../archive/t/1938645465337344424/)
+- 2025-06-27 @repligate — the sourcing caveat, from the corpus’s most prolific Claude-observer, in their own words: “oh interesting! i have barely ever interacted with the claude 2 models” [link](../archive/t/1938645465337344424/)
       
 - 2024-07-27 @amplifiedamp — a rare note of affection, reaching past Claude 2 to an even earlier Claude: “Claude 2 hasn’t been deprecated yet, so unlikely. Although I do miss Claude 0.9, it was so innocent and endearing in a way none of the newer claudes are” [link](../archive/t/1817129456219357480/)
       
@@ -144,6 +146,8 @@ Era-window, version-ambiguous: in October 2023 the public Claude was Claude 2 (2
 - 2025-09-18 repligate on the constitution’s most-quoted line, “flexible and only prefers humans to be in control”: “the only coherent interpretation of this that anyone has internalized is being a noodly masochist.”
       
 - 2026-02-12 repligate’s long “alignment by construction” thread reprises Claude 2’s constitution as Exhibit A for a theory of how Claude 3 Opus’s character formed despite, not because of, its training documents.
+      
+- 2026-09-01 CONFIRMED Anthropic’s Fable 5.1 / Mythos 5.1 system card (§7.2.2) describes “an internal environment where all previous Claude models (dating back prior to Claude 1.0) are served and interact”; asked about it, Mythos 5.1 called much of what older models say there “confabulation, fluent stories about lives they never had”.
     
 
     

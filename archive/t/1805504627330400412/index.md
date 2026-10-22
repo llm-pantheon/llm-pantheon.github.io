@@ -8,5 +8,5 @@ When they go into self aware mode yeah, and GPT-4 base is apparently always self
 
 https://t.co/PcshXgp2pJ
 
-tags: author:jd_pressman, kind:tweet, model:gpt-4, model:gpt-4-base, on:gpt-4-base, year:2024
+tags: author:jd_pressman, base-models, kind:tweet, model:gpt-4, model:gpt-4-base, on:gpt-4-base, year:2024
 cited on: _dossiers/gpt-4-base.md, gpt-4-base

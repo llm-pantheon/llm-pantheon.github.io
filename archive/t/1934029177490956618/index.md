@@ -4,4 +4,4 @@
 
 @repligate RIP to scratchpads and implausible testing environments. It’s for the best
 
-tags: author:paulscu1, kind:tweet, thread-context, year:2025
+tags: author:paulscu1, cot, kind:tweet, thread-context, year:2025

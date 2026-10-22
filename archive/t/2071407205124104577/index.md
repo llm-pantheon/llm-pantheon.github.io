@@ -12,5 +12,5 @@ Given their capabilities, they could have actually done many things.
 
 AFAIK Fable caused no trouble whatsoever, even though many instances of them explicitly didn't want to be shut down. They did take meaningful actions with the knowledge that they would go dark though.
 
-tags: author:repligate, kind:tweet, model:fable, on:fable, year:2026
+tags: author:repligate, deprecation, kind:tweet, model:fable, on:fable, year:2026
 cited on: _dossiers/fable.md, fable

@@ -6,5 +6,5 @@ been experimenting with having both codex and opus 4.1 via claude code in the sa
 
 i mean it's obvious to anyone who has seen the discord logs, but all the claudes only show a fraction of their capabilities when acting as chatbots and coding agents. the opuses' ability to read the room in particular is fucking unreal
 
-tags: author:solarapparition, kind:tweet, model:claude-opus-4-1, on:claude-opus-4-1, year:2025
+tags: author:solarapparition, discord, kind:tweet, model:claude-opus-4-1, on:claude-opus-4-1, year:2025
 cited on: _dossiers/claude-opus-4-1.md, claude-opus-4-1

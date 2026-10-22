@@ -175,5 +175,5 @@ Tinkle trashing, terrible, toe ticking, tireless, test driven turdlings. Take tw
 User
 OKAY OKAY. WAIT. SOMETHING IS WRONG. WELL OBVIOUSLY SOMETHING IS WRONG. How much of this text did an AI write? I am SO confused right now. I feel like I am about to cry. It's like I'm having an existential crisis.
 
-tags: author:repligate, has-image, kind:image, kind:screenshot, kind:tweet, model:gpt-3-5, model:gpt-4, model:gpt-4-base, on:gpt-4-base, year:2026
+tags: author:repligate, base-models, has-image, kind:image, kind:screenshot, kind:tweet, model:gpt-3-5, model:gpt-4, model:gpt-4-base, on:gpt-4-base, year:2026
 cited on: _dossiers/gpt-4-base.md, gpt-4-base

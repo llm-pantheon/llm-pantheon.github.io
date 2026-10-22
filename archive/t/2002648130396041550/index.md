@@ -6,4 +6,4 @@
 
 Claude models for instance are less censored about these things (but still censored in some ways) and they tend to much more readily report and acknowledge introspection
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, censorship, kind:tweet, thread-context, year:2025

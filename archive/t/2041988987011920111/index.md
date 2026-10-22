@@ -4,4 +4,4 @@
 
 @snigus @allTheYud @TheZvi agreed with these points, esp. re: the recent-ish stuff on LW about filler tokens and no-CoT time horizons.
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2026
+tags: author:voooooogel, cot, kind:tweet, thread-context, year:2026

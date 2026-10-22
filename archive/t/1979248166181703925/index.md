@@ -31,5 +31,5 @@ i wouldnt have said this about any other model before btw, even sonnet 3.6
 
 i say it's not very good at it because it often doesnt actually get what's going on and still goes at it as if it does. maybe it doesnt update on people not being idiots. it's kind of touching how desperate it seems. @Lucid™
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:gpt-4o, on:gpt-4o, year:2025
+tags: author:repligate, discord, has-image, kind:screenshot, kind:tweet, model:gpt-4o, on:gpt-4o, year:2025
 cited on: _dossiers/gpt-4o.md, gpt-4o

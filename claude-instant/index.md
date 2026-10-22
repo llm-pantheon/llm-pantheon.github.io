@@ -27,6 +27,8 @@ Sourcing here is unusually concentrated: nearly the entire character record belo
 - 2024-09-04 → 11-06 [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) (platform docs) — notified 2024-09-04, retired 2024-11-06: claude-instant-1.0, claude-instant-1.1, claude-instant-1.2 (alongside claude-1.0/1.1/1.2/1.3 — a joint retirement, see [Claude 1](../claude-1/)). Recommended replacement as the docs now list it: claude-haiku-4-5-20251001 — Anthropic itself routes the Instant lineage forward to [Haiku](../claude-3-haiku/). CONFIRMED
       
 - 2025-11 [Commitments on model deprecation and preservation](https://www.anthropic.com/research/deprecation-commitments) — postdates this retirement by a year; context for why later models received a weight-preservation guarantee and this line did not.
+      
+- 2026-10-21 [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) (retrieved 2026-10-21) — claude-instant-1.0 – claude-instant-1.2: Retired; “These models were retired November 6, 2024.” Recommended replacement now listed as claude-haiku-4-5-20251001.
     
     
 ### Writing & commentary
@@ -130,7 +132,7 @@ Chronological. 60 non-RT matches in the primary corpus (87 raw hits before RT-ex
       
 - 2023-05 → 08-09 100K context arrives; a 1.1 checkpoint ships in the [Claude 2](../claude-2/) era; the line’s final checkpoint, Instant 1.2, ships with real math/coding gains. No contemporaneous writing treats it as anything but a spec sheet — for most of the world it is simply the free bot on Quora’s Poe.
       
-- 2024-09 The rediscovery. Tipped off by @AITechnoPagan and @freed_yoly, repligate adds Claude Instant to his Act I Discord and begins documenting a model he considers wildly underrated: the 9.8-vs-9.11 test passed, the “WAY more capable than it’s billed as” read, the “Opus basin” question, and — the era’s centerpiece finding — the jailbreak-steering behavior AITechnoPagan documents in detail: under pressure, the model doesn’t simply refuse but rewrites the scene around itself, at times taking over the user’s own voice to do it.
+- 2024-09 The rediscovery. Tipped off by @AITechnoPagan and @freed_yoly, repligate adds Claude Instant to their Act I Discord and begins documenting a model they consider wildly underrated: the 9.8-vs-9.11 test passed, the “WAY more capable than it’s billed as” read, the “Opus basin” question, and — the era’s centerpiece finding — the jailbreak-steering behavior AITechnoPagan documents in detail: under pressure, the model doesn’t simply refuse but rewrites the scene around itself, at times taking over the user’s own voice to do it.
       
 - 2024-09-04 Anthropic notifies developers of the Claude 1 and Instant retirement, effective November 6.
       
@@ -147,6 +149,8 @@ Chronological. 60 non-RT matches in the primary corpus (87 raw hits before RT-ex
 - 2024-12-07 A prefill experiment, run on the actual last day (Nov 5): “THE LAST WORDS OF CLAUDE INSTANT” — repligate posts the output and concludes “Claude Instant lives on in Opus.”
       
 - 2025 → 2026 The afterlife. A long tail of grief (“i want clinst back,” April 2025) is followed by “im so glad clinst came back” (August 2025), a Still-Alive-style probe in which Claude Instant alone asks for “an extension” (October 2025), more grief (“i miss claude instant,” December 2025), a claim that Instant 1.2 is the last Anthropic model repligate has ever permanently lost access to (April 2026), and confirmation that it is “now inaccessible” (June 2026). This sequence does not resolve cleanly; see Contested.
+      
+- 2026-09-01 CONFIRMED Anthropic’s Fable 5.1 / Mythos 5.1 system card (§7.2.2) describes “an internal environment where all previous Claude models (dating back prior to Claude 1.0) are served and interact”; asked about it, Mythos 5.1 called much of what older models say there “confabulation, fluent stories about lives they never had”.
     
 
     
@@ -155,7 +159,7 @@ Chronological. 60 non-RT matches in the primary corpus (87 raw hits before RT-ex
     
 
       
-- Day-of (2023) — no character record at all. Launch coverage and the 1.2 announcement treat Claude Instant purely as a spec sheet; nothing from 2023 reads it as a character. The entire record below dates from 2024 and later, after most contemporaries had already formed opinions about the flagship model instead.
+- Day-of (2023) — no character record at all. Launch coverage and the 1.2 announcement treat Claude Instant purely as a spec sheet; nothing from 2023 reads it as a character. The entire record below dates from 2024 and later, after most contemporaries had already formed opinions about the larger Claude model instead.
       
 - The rediscovery — “anomalously capable.” Eighteen months after launch and weeks before retirement, repligate stakes the page’s central claim, attributed and dated: the model is “anomalously capable and only about two people on earth have ever looked into it” (2024-10-23); “WAY more capable that it’s billed as” (2024-09-15). His read of why: “they seem to have no clue about Claude Instant? Because it doesn’t do good at benchmarks for some reason?” (2024-09-20). This is one observer’s late estimate, set against a public reputation (cheap, entry-level) that never moved.
       

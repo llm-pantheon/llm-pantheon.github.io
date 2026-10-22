@@ -4,4 +4,4 @@
 
 @effybirdwild Cyborgism discord server
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, discord, kind:tweet, thread-context, year:2025

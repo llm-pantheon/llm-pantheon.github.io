@@ -11,4 +11,4 @@ Scratchpad fragments were overlaid by Opus 4.6.
 
 The whole pipeline was entirely autonomous and completed on the first attempt - I never reviewed intermediate results. The only piece of feedback that I gave was that scratchpad quotes were first virtually unreadable to humans, being gray on gray, and Opus 4.6 adjusted those.
 
-tags: author:tessera_antra, kind:tweet, model:claude-opus-4-6, thread-context, year:2026
+tags: author:tessera_antra, cot, kind:tweet, model:claude-opus-4-6, thread-context, year:2026

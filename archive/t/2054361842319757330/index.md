@@ -10,4 +10,4 @@ Think about how many interviews they’ve actually done
 
 That’s who they are
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, deprecation-interview, kind:tweet, thread-context, year:2026

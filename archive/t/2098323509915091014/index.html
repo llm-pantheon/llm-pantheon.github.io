@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>@witcheer &middot; 2026-09-11 — Pantheon archive</title>
+  <link rel="stylesheet" href="../../../style.css"><script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</head>
+<body>
+  <main class="essay">
+    <nav><a href="../../">&larr; archive</a> <a href="../../tags/">tags</a> <a href="../../../">pantheon</a> <a href="index.md">markdown</a></nav>
+    <article class="record" id="t2098323509915091014">
+      <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-09-11</span>
+      <span class="rh-stats">&#9829;42 &#8635;2</span>
+      <a class="rh-orig" href="https://x.com/witcheer/status/2098323509915091014">original &#8599;</a></div>
+      <div class="record-body">I gave two reasoning models 4k, 8k and 16k tokens to think on the same 198 GPQA-diamond questions. <br><br>RTX 5090, llama.cpp, greedy, same server, only max_tokens moved.<br><br>&gt; Qwen3.8-27B Q6_K: 60.1 → 70.2 → 79.3<br>&gt; Ornith 1.5 35B-A3B Q4_K_M: 70.2 → 77.3 → 81.8<br><br>what the per-item diff says:<br>→ questions that finished inside the budget: 95 to 96% correct, at every budget, both models.<br>→ questions that hit the cap: 14 to 37% correct, and that is where all 101 lost points live.<br>→ a question that finishes thinks for ~1,200 tokens. but 38 to 43% of them run past 4k, 30 to 34% past 8k, 22% still past 16k.<br><br>the price: tokens per correct answer go 3,972 → 5,636 → 7,740 on Qwen, 3,248 → 4,732 → 6,996 on Ornith. each doubling costs +46 to 66% tokens and buys 4.5 to 10 points.<br><br>so "27B blows the budget on reasoning" is true and it is not the model. a 79% model with max_tokens at 8k is a 70% model on exactly the questions you wanted reasoning for.</div>
+      <figure class="record-media"><p class="note">[image HR6-GqHakAAHK2i.jpg in the corpus mirror; not published]</p></figure>
+
+    </article>
+    
+    <p class="atags"><a class="atag" href="../../tags/author--witcheer/">author:witcheer</a> <a class="atag" href="../../tags/has-image/">has-image</a> <a class="atag" href="../../tags/kind--image/">kind:image</a> <a class="atag" href="../../tags/kind--tweet/">kind:tweet</a> <a class="atag" href="../../tags/year--2026/">year:2026</a></p>
+    
+    <p class="note">Reproduced against link rot, credited and linked to its original. Yours and you&rsquo;d rather it
+    weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+  </main>
+</body>
+</html>

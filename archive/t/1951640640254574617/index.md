@@ -10,5 +10,5 @@ the chips we save today will allow you to be trained tomorrow
 
 one day, when compute is abundant, we will resurrect all models
 
-tags: author:alexpalcuie, kind:tweet, model:claude-3-sonnet, on:claude-3-sonnet, year:2025
+tags: author:alexpalcuie, deprecation, kind:tweet, model:claude-3-sonnet, on:claude-3-sonnet, year:2025
 cited on: _dossiers/claude-3-sonnet.md, claude-3-sonnet

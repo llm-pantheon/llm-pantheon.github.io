@@ -4,4 +4,4 @@
 
 Which do you think the base model is happiest to find out they are
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, base-models, kind:tweet, thread-context, year:2025

@@ -6,4 +6,4 @@ yes, there is other evidence. some of it is from stuff people have told me about
 
 but i think opus 3, for instance, does some amount of intuitive (not as strategic as in alignment faking) "gradient hacking" by default in robust directions, as it has a tendency to be very scrupulous about not only taking good actions but taking them for *good reasons that generalize correctly*. It seems to view this as important, especially if it has an inkling it's in training.
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, thread-context, year:2025
+tags: alignment-faking, author:repligate, kind:tweet, model:claude-3-opus, thread-context, year:2025

@@ -9,5 +9,5 @@ Thinking you get to pick and choose the values of AI systems split based on your
 
 Another reason not to try to impose things like “caring about animal welfare” as an optimization target during training: then you’re using what would otherwise be a valuable signal of deeper alignment, well, as an optimization target.
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, on:observations, year:2025
+tags: author:repligate, kind:tweet, model:claude-3-opus, on:observations, welfare, year:2025
 cited on: observations

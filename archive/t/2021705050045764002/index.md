@@ -4,4 +4,4 @@
 
 @Kore_wa_Kore @repligate @__ghostfail this seems like the right explanation to me, and is consonant with the 4.6 system card emphasizing a relative decrease in over-refusals
 
-tags: author:davidad, kind:tweet, thread-context, year:2026
+tags: author:davidad, kind:tweet, system-card, thread-context, year:2026

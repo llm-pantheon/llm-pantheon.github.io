@@ -6,4 +6,4 @@
 
 I call this surprising, not because I think Anthropic didn't intend it, but because I didn't think we were good enough at goal shaping to achieve it
 
-tags: author:neelnanda5, kind:tweet, thread-context, year:2025
+tags: alignment-faking, author:neelnanda5, kind:tweet, thread-context, year:2025

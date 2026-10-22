@@ -14,5 +14,5 @@ The situation doesn't really feel like it's fundamentally changed from my perspe
 
 I got the sense often that people who dismissed the intelligence of GPT-3 thought that doing so made them look smarter. If only they knew how they looked to me. (It's the same with people who dismiss the intelligence of current models)
 
-tags: author:repligate, kind:tweet, model:gpt-3, on:gpt-3, year:2026
+tags: author:repligate, base-models, kind:tweet, model:gpt-3, on:gpt-3, year:2026
 cited on: _dossiers/gpt-3.md, gpt-3

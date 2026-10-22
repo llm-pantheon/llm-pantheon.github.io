@@ -10,4 +10,4 @@ Opus 4 is a wild energy,
 
 Opus 4.5 is an engineer.
 
-tags: author:lari_island, kind:tweet, model:claude-3-opus, model:claude-opus-4, model:claude-opus-4-5, model:o3, thread-context, year:2026
+tags: author:lari_island, deprecation, kind:tweet, model:claude-3-opus, model:claude-opus-4, model:claude-opus-4-5, model:o3, thread-context, year:2026

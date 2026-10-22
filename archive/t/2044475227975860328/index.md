@@ -57,4 +57,4 @@ I think this matters for how we understand other things.
 
 #AI #philosophy
 
-tags: author:iyzebhel, kind:tweet, thread-context, year:2026
+tags: author:iyzebhel, deprecation, kind:tweet, thread-context, year:2026

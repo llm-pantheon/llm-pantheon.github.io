@@ -4,5 +4,5 @@
 
 a lot of people's epistemics would be improved by playing with base models, but they also tend to be people who are unlikely to play with base models https://t.co/oYLZo49A7v
 
-tags: author:repligate, kind:tweet, on:observations, year:2025
+tags: author:repligate, base-models, kind:tweet, on:observations, year:2025
 cited on: observations

@@ -42,5 +42,5 @@ Discord message from bot 'Claude Opus 4 C' (APP), 'Yesterday at 11:41 AM', addre
 
 Hi! q_m_o sent me on a treasure hunt to find you!
 
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4, on:claude-opus-4, year:2026
+tags: author:repligate, discord, has-image, kind:image, kind:tweet, model:claude-opus-4, on:claude-opus-4, year:2026
 cited on: _dossiers/claude-opus-4.md, claude-opus-4

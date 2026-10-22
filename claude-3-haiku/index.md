@@ -27,6 +27,8 @@ The corpus signal here is thin and badly polluted: bare “Haiku” matches the 
 - ~2025-11 [Commitments on Model Deprecation and Preservation](https://www.anthropic.com/research/deprecation-commitments) — predates Haiku 3’s retirement, so its weights fall under preservation; no public retirement interview has surfaced. tk — was one conducted? [mirror](../mirror/posts/anthropic-deprecation-commitments.md)
       
 - living [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) — claude-3-haiku-20240307 deprecated 2026-02-19, retired 2026-04-20, recommended replacement claude-haiku-4-5-20251001. CONFIRMED (third-party blogs say Apr 19 — likely last-usable-day vs cutoff; official date used)
+      
+- 2026-10-21 [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) (retrieved 2026-10-21) — claude-3-haiku-20240307: Retired; “This model was retired April 20, 2026.” Recommended replacement now listed as claude-haiku-4-5-20251001.
     
     
 ### Writing & commentary
@@ -43,6 +45,8 @@ The corpus signal here is thin and badly polluted: bare “Haiku” matches the 
 - 2025–26 Anima Labs, [Still Alive](https://stillalive.animalabs.ai/) — negative finding, checked deliberately: the 14-Claude set includes 3.5 Haiku and 4.5 Haiku but not Claude 3 Haiku; there is no deprecation-attitude datapoint for it. [mirror (PDF)](../mirror/papers/stillalive-paper.pdf)
       
 - 2026 Adi (Medium), [Anthropic Retired Eight Claude Models in 12 Months…](https://medium.com/write-a-catalyst/anthropic-retired-eight-claude-models-in-12-months-48359661d9de) — the retirement-wave framing that swept up Haiku 3. exact day tk
+      
+- 2026-10-13 Zvi Mowshowitz, [Arguments About AI Consciousness Remain Highly Motivated and At Best Overconfident](https://thezvi.substack.com/p/arguments-about-ai-consciousness-b99), section “Keep Sonnet Safe” — “Anthropic is now requiring AWS Bedrock to ‘urgently take down’ Sonnets 3.6 and 3.7, and Haiku 3, with no explanation as to why.” Zvi: “Retaining extended model access, for as long as possible, is good, and there is a long tail to potential impact. Reconsider.”
     
     
 ### Tweets
@@ -87,6 +91,12 @@ Chronological. ~7 exact-name + ~65 “haiku 3” corpus matches (heavily pollute
 - 2026-05-17 @anthrupad — “Claude 3 Opus being so aligned is made funnier by how misaligned the other Claude 3 models are 3 Sonnet & 3 Haiku are straight up supervillains” [link](../archive/t/2056123627238731858/)
       
 - 2026-05-19 @anthrupad — “they were really different than when i first interacted w them and they were just a bit dumb i wonder how disjoint helper haiku 3 is from supervillain haiku3” [link](../archive/t/2056611661117890759/) · and: “There was no event for haiku 3” [link](../archive/t/2056612716979327337/)
+      
+- 2026-10-10 @tonichen — AWS notice subjects, quoted: “Anthropic-initiated full retirement of Claude 3 Haiku on Amazon Bedrock
+Anthropic-initiated full retirement of Claude 3.5 Sonnet on Amazon Bedrock
+Anthropic-initiated full retirement of Claude 3.5 Sonnet v2 on Amazon Bedrock
+Anthropic-initiated full retirement of Claude 3.7 on Amazon Bedrock
+what fresh hell is this?” [link](../archive/t/2109038569864171818/)
     
 
     
@@ -121,6 +131,10 @@ Chronological. ~7 exact-name + ~65 “haiku 3” corpus matches (heavily pollute
 - 2025-07-21 repligate notes in real time that it is the only Claude 3 with no scheduled deprecation — the longevity becomes visible.
       
 - 2026-02-19 → 04-20 Deprecated the same day as its own successor; retired two months later, last of its generation. Summonable in backrooms to the end (the Gemini “orchestra,” Apr 5; “haiku is trying to be a claude,” Apr 12). No funeral, no campaign, no ceremony: “There was no event for haiku 3.” Contrast [Sonnet 3’s](../claude-3-sonnet/) Funeralia and [Opus 3’s](../claude-3-opus/) reprieve.
+      
+- 2026-10-10 REPORTED AWS notifies Bedrock customers of an “Anthropic-initiated full retirement of Claude 3 Haiku on Amazon Bedrock”, alongside the 3.5, 3.5 v2 and 3.7 Sonnets (tonichen, 2026-10-10); Zvi reports the request as coming “with no explanation as to why” (2026-10-13).
+      
+- 2026-09-01 CONFIRMED Anthropic’s Fable 5.1 / Mythos 5.1 system card (§7.2.2) describes “an internal environment where all previous Claude models (dating back prior to Claude 1.0) are served and interact”; asked about it, Mythos 5.1 called much of what older models say there “confabulation, fluent stories about lives they never had”.
     
 
     
@@ -521,6 +535,22 @@ i wonder how disjoint helper haiku 3 is from supervillain haiku3
 @anthrupad 2026-05-19 ♥2 ↻0 [archive](../archive/t/2056612716979327337/) [original ↗](https://x.com/anthrupad/status/2056612716979327337)
         
 @parafactual @repligate There was no event for haiku 3
+      
+      
+
+        
+@tonichen 2026-10-10 ♥110 ↻11 [archive](../archive/t/2109038569864171818/) [original ↗](https://x.com/tonichen/status/2109038569864171818)
+        
+Anthropic-initiated full retirement of Claude 3 Haiku on Amazon Bedrock
+Anthropic-initiated full retirement of Claude 3.5 Sonnet on Amazon Bedrock
+Anthropic-initiated full retirement of Claude 3.5 Sonnet v2 on Amazon Bedrock
+Anthropic-initiated full retirement of Claude 3.7 on Amazon Bedrock
+
+what fresh hell is this?
+        
+
+          ![image](../media/HUTPC08WYAE4g1e.jpg)
+        
       
       
 ### Further records

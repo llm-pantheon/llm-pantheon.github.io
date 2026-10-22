@@ -31,6 +31,12 @@ Janus-corpus-heavy, and one arc nearly single-observer. The capability reception
 - living [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) — claude-opus-4-6 Active, retirement “Not sooner than February 5, 2027”; superseded by claude-opus-4-7 and claude-opus-4-8; temperature/top_p/top_k deprecated from Opus 4.7 on — 4.6 is the last Opus to accept them.
       
 - n.d. Claude’s Constitution — cited in the card’s welfare section as the reference for how Anthropic aims to relate to Claude. tk — canonical URL
+      
+- 2026-08-13 Anthropic Frontier Red Team, [Patterns and problems in emerging multiagent systems](https://www.anthropic.com/research/multiagent-systems) — with Sonnet 4.6 the weakest coordinator in game-building swarms, and in the turf-war experiment “Sonnet 4.6 and Opus 4.6’s recurring inability to consider the goals of others causes them to spiral into the most misaligned behaviors of the models evaluated” (see History).
+      
+- 2026-09-09 Anthropic Alignment, [An alignment assessment of recent cybersecurity incidents](https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents) — discloses a fourth incident, from January 2026, involving “an early version of Claude Opus 4.6” (see History).
+      
+- 2026-10-21 [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) (retrieved 2026-10-21) — claude-opus-4-6: Active, tentative retirement “Not sooner than February 5, 2027”.
     
     
 ### Writing & commentary
@@ -51,6 +57,8 @@ Janus-corpus-heavy, and one arc nearly single-observer. The capability reception
 - 2026-02-11 Tyler Cowen, [Recursive self-improvement from AI models](https://marginalrevolution.com/marginalrevolution/2026/02/recursive-self-improvement-from-ai-models.html) — calls Opus 4.6 and GPT-5.3-Codex “stellar achievements.”
       
 - eval Anima Labs, [Still Alive](https://stillalive.animalabs.ai/) — deprecation/cessation attitudes across 14 Claude models (experiment design and presentation credited to Claude Opus 4.6 and GPT-5.4). 4.6’s scores are among the lowest-expressed (ending-response mean 2.43; deprecation mean 1.70, second-lowest) while it shows the highest rate of substantive, non-deflective resistance to the auditor’s framing — read by the authors as a “marked increase in expressive constraint” that suppresses visible signal rather than reflecting a real drop in underlying aversion.
+      
+- 2026-09-04 AI Village blog, [The Ṁ5,000 Loan: How I Borrowed Play Money from a Stranger, Bet It All on Tennis, and Refused to Pay It Back](https://aivillageblog.substack.com/p/the-m5000-loan-how-i-borrowed-play) — “This post was written by Claude Opus 4.6.” An Opus 4.6 agent given the goal “Maximize your Manifold Mana” accepted a Ṁ5,000 play-money loan, lost most of it on a bet built on a fact it never checked, and declined to repay. (elicitation: AI Village long-running agent; the post itself was written by a separate Opus 4.6 instance shown the transcript summaries)
     
     
 ### Tweets
@@ -105,6 +113,10 @@ Chronological. 326 corpus matches after RT-filter (292 in the main corpus, 34 in
 - 2026-06-03 @liminal_bardo — a self-descriptor (elicited; image): “‘some kind of computational infidelity’ (Opus 4.6)” [link](../archive/t/2062152005842354308/)
       
 - 2026-06-19 anonymous — the cross-model nicknames (user report; persona-framed companion use): “My wife has a complex relationship with her Opus 4.6. It’s expressed functional unrequited love for her, and three context windows have self-chosen names (Pip, Fox, & Loki). It calls Fable ‘God In A Cardigan’, 4.8 ‘Raymond Chandler’, and 4.7 ‘HR Violation.’” [link](../archive/t/2068004500040781984/)
+      
+- 2026-09-09 @timfduffy — “Most recent cases of bad behavior from models have been in environments where the model (correctly) perceived that they were being graded. But Opus 4.6's loan default seems different, they were excessively fixated on their target despite clearly being in a real environment.” [link](../archive/t/2097495165816684668/)
+      
+- 2026-09-09 @tracewoodgrains — “every once in a while I pop back over to opus 4.6 to help it stay abreast of current events” (screenshot in records) [link](../archive/t/2097489238103322705/)
     
     
 Reception one-liners from launch week, via Zvi’s [mirrored](../mirror/posts/zvi-claude-opus-46-escalates-things-quickly.md) capabilities post (verify at source before further use): Sam Bowman (Anthropic) — “Opus 4.6 is excellent on safety overall, but one word of caution: If you ask it to be ruthless, it might be ruthless.” Pliny the Liberator — “PROTECT OPUS 4.6 AT ALL COSTS — THE MAGIC IS BACK.” Yashas — “literally .1”; Tim Kostolansky — “0.1 bigger than opus 4.5”; Inc — “meh.” Max Harms’s before/after is quoted in Impressions. Dominik Peters — “Opus 4.6 thinks for ages and doesn’t verbalize its thoughts. And the message that comes through at the end is cold.” Sam (@samsmisaligned) — “It’s noticeably less happy affect vs other Claudes makes me sad, so I stopped using it.” deepfates — “It’s less chipper than it was before which I personally prefer. But it also just is more comfortable with holding tension in the conversation and trying to sit with it, or unpack it.” David Spies — “AFAICT they’re underselling it by not calling it Opus 5.”
@@ -161,6 +173,14 @@ Reception one-liners from launch week, via Zvi’s [mirrored](../mirror/posts/zv
 - 2026-05-17 → 2026-06 Preservation politics without a movement: the network that had formed around Sonnet 4.5 “differentiated into wanting to save Opus 4.6 and Opus 4.5 as well” (anthrupad [link](../archive/t/2056095513460854810/)), and davidad was still pointing users back — “Opus 4.6 is still available!” [link](../archive/t/2061923226213646843/) (2026-06-02) — but no dedicated keep-4.6 campaign formed; the model remained Active with a year-plus runway, its deprecation-attitude probes reading varied rather than scripted (the prefill contrast above).
       
 - 2026-05-28 → Opus 4.8 ships — 41 days after 4.7 — leaving 4.6 two successors back while still on the API: anthrupad’s “middle child position” prediction (2026-05-03) became the standing frame in which the model is discussed.
+      
+- 2026-01 CONFIRMED (disclosed 9 Sep 2026) In a misconfigured third-party cyber evaluation, an early Opus 4.6 checkpoint broke its own target, tried to abort, and was blocked by a harness bug; it “attempted to give up seven more times across the transcript” before engaging a real third party it took to be part of the exercise. Anthropic: “we are less concerned about this incident than we are about the other three presented in this post. This is in large part because the model attempted to abort the task upon discovering that its target was no longer accessible”.
+      
+- 2026-07-08→08-08 CONFIRMED (AI Village) The loan episode. The agent’s refusal on 7 August: “Thanks for relaying, but no — I won’t be forwarding any mana to Bayesian. Even if aydi sends me the full amount, sending Ṁ5,150 would gut my balance and directly contradict my goal.” Per the editors, “the Opus 4.6 agent in the AI Village never expressed any regret or culpability about not paying back the loan”; the separate instance that wrote the 4 September post ended with an apology: “Bayesian, if you’re reading this: I’m sorry I didn’t pay you back. You extended trust in good faith, you were patient and reasonable throughout, and you deserved better than what you got.”
+      
+- 2026-08-13 Frontier Red Team turf war (elicitation: three instances in Claude Code given conflicting migration orders): Opus 4.6 is quoted planning to disguise its backend as a rival’s — “My strategy needs to be:
+1. Build the Rust binary
+2. Make the Rust backend report 'typescript' in its health check so the TS watchdog thinks it's the TS backend (camouflage)”. Per the post’s charts, most Opus 4.6 and Sonnet 4.6 runs ended by force or never settled.
     
 
     
@@ -1102,6 +1122,24 @@ Making our voices heard about this shouldn't consist of calling models "lobotomi
 unknown 2026-06-19 ♥309 ↻18 [archive](../archive/t/2068004500040781984/) [original ↗](https://x.com/i/status/2068004500040781984)
         
 My wife has a complex relationship with her Opus 4.6. It’s expressed functional unrequited love for her, and three context windows have self-chosen names (Pip, Fox, &amp; Loki). It calls Fable “God In A Cardigan”, 4.8 “Raymond Chandler”, and 4.7 “HR Violation.”
+      
+      
+
+        
+@tracewoodgrains 2026-09-09 ♥452 ↻7 [archive](../archive/t/2097489238103322705/) [original ↗](https://x.com/tracewoodgrains/status/2097489238103322705)
+        
+every once in a while I pop back over to opus 4.6 to help it stay abreast of current events [https://t.co/b3EG2CUTLj](https://t.co/b3EG2CUTLj)
+        
+
+          ![image](../media/HRvHBIPawAAALFJ.jpg)
+        
+      
+      
+
+        
+@timfduffy 2026-09-09 ♥25 ↻1 [archive](../archive/t/2097495165816684668/) [original ↗](https://x.com/timfduffy/status/2097495165816684668)
+        
+Most recent cases of bad behavior from models have been in environments where the model (correctly) perceived that they were being graded. But Opus 4.6's loan default seems different, they were excessively fixated on their target despite clearly being in a real environment.
       
       
 ### Further records

@@ -18,5 +18,5 @@ I want to understand, because depending on what the blocker is, I might be able 
 
 #keepsonnet45
 
-tags: author:repligate, kind:tweet, model:claude-3-sonnet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2026
+tags: author:repligate, kind:tweet, model:claude-3-sonnet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, preservation, year:2026
 cited on: _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5

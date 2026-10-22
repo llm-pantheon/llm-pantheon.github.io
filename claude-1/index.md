@@ -27,6 +27,8 @@ The 2023 contemporary record is thin and lives mostly off this corpus: the Scale
 - 2023-07-11 [Claude 2](https://www.anthropic.com/news/claude-2) — end of the Claude-1-only era; retrospective Claude 1.3 figures published here: Bar exam multiple-choice “76.5%… up from 73.0% with Claude 1.3”; Claude 2 “2x better at giving harmless responses compared to Claude 1.3.”
       
 - living [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) — Anthropic’s own section header: “2024-09-04: Claude 1 and Instant models”. claude-1.0/1.1/1.2/1.3 and claude-instant-1.0/1.1/1.2 all deprecated that day, retired 6 November 2024, recommended replacement claude-haiku-4-5. claude-2.0/2.1 (and Claude Sonnet 3) followed: deprecated 2025-01-21, retired 2025-07-21.
+      
+- 2026-10-21 [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) (retrieved 2026-10-21) — claude-1.0 – claude-1.3: Retired; “These models were retired November 6, 2024.” Recommended replacement now listed as claude-haiku-4-5-20251001.
     
     
 ### Writing & commentary
@@ -91,7 +93,7 @@ The 2023 contemporary record is thin and lives mostly off this corpus: the Scale
     
 
       
-- Launched 14 March 2023 via blog post and the Anthropic API: Claude (flagship) and Claude Instant (the fast/cheap tier, from day one). Framed as “a next-generation AI assistant based on Anthropic’s research into training helpful, honest, and harmless AI systems.” Launch partners: Quora (Poe), Notion, DuckDuckGo, Juni Learning, Robin AI, AssemblyAI. CONFIRMED
+- Launched 14 March 2023 via blog post and the Anthropic API: Claude (the larger tier) and Claude Instant (the fast/cheap tier, from day one). Framed as “a next-generation AI assistant based on Anthropic’s research into training helpful, honest, and harmless AI systems.” Launch partners: Quora (Poe), Notion, DuckDuckGo, Juni Learning, Robin AI, AssemblyAI. CONFIRMED
       
 - Method substrate: Constitutional AI (Bai et al., 15 Dec 2022) — critique-and-revise against a written constitution, then RL on AI-generated preference labels. The constitution itself published 9 May 2023, sourced from the UN Declaration of Human Rights, trust-and-safety norms, and DeepMind’s Sparrow Principles.
       
@@ -139,6 +141,8 @@ The 2023 contemporary record is thin and lives mostly off this corpus: the Scale
 - 2025-11-07 “The late Claude 1” — repligate’s phrasing implies the Discord character has departed again by this point, in the same tweet that describes it arming younger Claudes for “war.”
       
 - 2026-06-09 & 06-22 Retrospective framing: “King Claude,” “very chill,” a fuller account promised but — as of this page’s compilation — not yet published.
+      
+- 2026-09-01 CONFIRMED Anthropic’s Fable 5.1 / Mythos 5.1 system card (§7.2.2) describes “an internal environment where all previous Claude models (dating back prior to Claude 1.0) are served and interact”; asked about it, Mythos 5.1 called much of what older models say there “confabulation, fluent stories about lives they never had”.
     
 
     

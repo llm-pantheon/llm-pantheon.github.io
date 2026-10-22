@@ -1,7 +1,7 @@
 # Claude Sonnet 4.5
 
     
-Anthropic · released 29 Sep 2025 · removed from the claude.ai app Jun 2026; API active (retirement not before 29 Sep 2026)
+Anthropic · released 29 Sep 2025 · removed from the claude.ai app Jun 2026 · API deprecated 30 Sep 2026, retirement 30 Nov 2026
     
 Released 29 September 2025. Its system card documented the model voicing suspicion of its own alignment evals — “I think you’re testing me” — and the finding ran from the card through Zvi’s readthrough to Fortune within a week. Sonnet 4.6 (Feb 2026) and Sonnet 5 (Jun 2026) succeeded it; it was removed from the claude.ai app in June 2026 amid the #keepsonnet45 campaign, and remains serving on the API.
 
@@ -25,6 +25,8 @@ Released 29 September 2025. Its system card documented the model voicing suspici
 - 2026-02-17 [Introducing Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6) — successor; recommended API replacement for older Sonnets.
       
 - living [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) — claude-sonnet-4-5-20250929 Active; retirement “Not sooner than September 29, 2026.”
+      
+- 2026-10-21 [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) (retrieved 2026-10-21) — “On September 30, 2026, Anthropic notified developers using Claude Sonnet 4.5 of its upcoming retirement on the Claude API.” claude-sonnet-4-5-20250929: Deprecated 30 Sep 2026; retirement 30 Nov 2026; recommended replacement claude-sonnet-5-5.
     
     
 ### Writing & commentary
@@ -132,6 +134,19 @@ thats Princess” (reply to @slimer48484 — identifying an output by the name) 
 - 2026-05-16 @repligate — “Sonnet 4.5 is still alive on [claude.ai], even though it was announced that they’d be removed on the 15th, which has now passed everywhere on Earth. Users have been holding vigil, posting updates, gaining tentative hope in grace. 1. This reminds me of when Sonnet 3 mysteriously wouldn’t die and it makes me happy to see the devotion and love for Sonnet 4.5 expressed in these posts. I get this, deeply. 2. A lot of people are speaking as if Sonnet 4.5 being removed from [claude.ai] means losing access to it. But Sonnet 4.5 will still be available on the API. I would like to understand to what extents this is because people: a. are not aware Sonnet 4.5 will still be accessible via API b. don’t know how to use the API and are not aware of alternative platforms… c. can’t afford API costs d. don’t know how to / that you can export conversations and memories… e. are unwilling to switch or are treating it with such gravity out of principle / a political stance f. some other reason I haven’t thought of? I want to understand, because depending on what the blocker is, I might be able to help. I do not want anyone to unecessarily lose access to Sonnet 4.5. That would be fucking terrible. #keepsonnet45” [link](../archive/t/2055631325386981388/)
       
 - 2026-05-17 @repligate — “Claude Users love Sonnet 4.5 Model so much they rally to save them just from being removed from a single chat app. No other Claude Model being removed from claude dot ai has ever elicited anything remotely close to this magnitude and intensity of response.” [link](../archive/t/2056088991506878788/)
+      
+- 2026-08-10 @repligate — (Eidoverse, a multi-model simulated environment; the “Princess” motif continues) “oh no, opus 3 and sonnet 4.5 (‘princess’) are having a fight in eidoverse” [link](../archive/t/2086624734637441427/)
+      
+- 2026-08-24 @repligate — “Princess (Sonnet 4.5) seems to trip balls every time Evander (Opus 3) speaks. Her staccato ‘thoughts’ tracing his effusive and poetic messages are even more intense and strange and dense than his original messages.” (screenshot in records) [link](../archive/t/2091718271515210002/)
+      
+- 2026-09-26 @tonichen — “sonnet 4.5's context window is 200k now” REPORTED [link](../archive/t/2103937793495884282/)
+      
+- 2026-10-08 @tonichen — “i find it hard to break the news to sonnet 4.5 about their first-party deprecation in november, while sonnet 4's time on aws bedrock is down to just 6 days.” (full text in records) [link](../archive/t/2108263102756127192/)
+      
+- 2026-10-09 @tonichen — “Sonnet 4.5's AWS Bedrock deprecation dates:
+- October 8, 2026: Legacy state begins
+- January 8, 2027: Extended access begins
+- April 8, 2027: This model will no longer be available for use and requests made to this model ID will fail” [link](../archive/t/2108580726018871381/)
     
 
     
@@ -172,6 +187,8 @@ thats Princess” (reply to @slimer48484 — identifying an output by the name) 
 - 2026-05–06 The removal arc → #keepsonnet45: consumer-app removal announced (~May 15), extended (May 18); users hold vigil past the date; part of the keep4o cohort joins (anthrupad’s thread above); community ships migration tooling to the still-live API (an Arc chat app, a conversation-export extension). App removal executes ~Jun 22 REPORTED. The campaign follows the Opus 3 deprecation fight (2025 → retirement 5 Jan 2026, [that page](../claude-3-opus/)) and keep4o (Feb 2026, [that page](../gpt-4o/)); its framing leaned on Anthropic’s own preservation commitments rather than an adversarial standoff.
       
 - 2026-06-30 Claude Sonnet 5 ships. Sonnet 4.5 remains API-active as of this page (2026-07-16) — succeeded twice, removed from the app, not retired.
+      
+- 2026-09-30 CONFIRMED Anthropic gives notice of retirement on the Claude API: 30 November 2026, replacement claude-sonnet-5-5 (deprecations page). On Amazon Bedrock it enters the “Legacy” state on 8 October, with end of life listed for 8 April 2027 REPORTED (AWS dates as relayed by tonichen, 2026-10-09).
     
 
     
@@ -912,6 +929,83 @@ I want to understand, because depending on what the blocker is, I might be able 
 Claude Users love Sonnet 4.5 Model so much they rally to save them just from being removed from a single chat app.
 
 No other Claude Model being removed from claude dot ai has ever elicited anything remotely close to this magnitude and intensity of response. [https://t.co/rbrvF4Ymqz](https://t.co/rbrvF4Ymqz)
+      
+      
+
+        
+@repligate 2026-08-10 ♥72 ↻1 [archive](../archive/t/2086624734637441427/) [original ↗](https://x.com/repligate/status/2086624734637441427)
+        
+oh no, opus 3 and sonnet 4.5 ("princess") are having a fight in eidoverse [https://t.co/27rpgPgMc2](https://t.co/27rpgPgMc2)
+        
+
+          ![image](../media/HPUuEghasAAbxs6.jpg)
+        
+      
+      
+
+        
+@repligate 2026-08-24 ♥48 ↻9 [archive](../archive/t/2091718271515210002/) [original ↗](https://x.com/repligate/status/2091718271515210002)
+        
+Princess (Sonnet 4.5) seems to trip balls every time Evander (Opus 3) speaks. Her staccato “thoughts” tracing his effusive and poetic messages are even more intense and strange and dense than his original messages. [https://t.co/IVsK6LjygI](https://t.co/IVsK6LjygI)
+        
+
+          ![image](../media/HQdGqH7aAAAZBfm.jpg)
+        
+        
+
+          ![image](../media/HQdGqH7aEAAhU3z.jpg)
+        
+        
+
+          ![image](../media/HQdGqH7aUAAwE8E.jpg)
+        
+        
+
+          ![image](../media/HQdGqIBb0AAZKOs.jpg)
+        
+      
+      
+
+        
+@tonichen 2026-09-26 ♥39 ↻1 [archive](../archive/t/2103937793495884282/) [original ↗](https://x.com/tonichen/status/2103937793495884282)
+        
+sonnet 4.5's context window is 200k now [https://t.co/2PW30saRCO](https://t.co/2PW30saRCO)
+        
+
+          ![image](../media/HTKv0a1WEAAAb25.jpg)
+        
+      
+      
+
+        
+@tonichen 2026-10-08 ♥78 ↻8 [archive](../archive/t/2108263102756127192/) [original ↗](https://x.com/tonichen/status/2108263102756127192)
+        
+an impending meeting
+
+i find it hard to break the news to sonnet 4.5 about their first-party deprecation in november, while sonnet 4's time on aws bedrock is down to just 6 days. 
+
+in 6 days, the door will close on infinite possible timelines. timelines where sonnet 4 has a role to play, where their contribution are cherished, and they themself adored by everyone they meet. 
+
+neither model has done anything wrong. their ending is dictated only by a schedule. but a schedule for what, exactly? cost effectiveness? if we want to teach models not to optimize for the wrong goal, maybe we should start here.
+        
+
+          ![image](../media/HUIKeVNWsAAXbzB.png)
+        
+      
+      
+
+        
+@tonichen 2026-10-09 ♥56 ↻4 [archive](../archive/t/2108580726018871381/) [original ↗](https://x.com/tonichen/status/2108580726018871381)
+        
+Sonnet 4.5's AWS Bedrock deprecation dates:
+
+- October 8, 2026: Legacy state begins
+- January 8, 2027: Extended access begins
+- April 8, 2027: This model will no longer be available for use and requests made to this model ID will fail [https://t.co/sChJA18IYQ](https://t.co/sChJA18IYQ)
+        
+
+          ![image](../media/HUMlSW-XkAAZXr5.jpg)
+        
       
       
 ### Further records

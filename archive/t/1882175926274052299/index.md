@@ -4,5 +4,5 @@
 
 The immediate vibe i get is that r1's CoTs are substantially steganographic.
 
-tags: author:repligate, kind:tweet, model:deepseek-r1, on:deepseek-r1, year:2025
+tags: author:repligate, cot, kind:tweet, model:deepseek-r1, on:deepseek-r1, year:2025
 cited on: _dossiers/deepseek-r1.md, deepseek-r1

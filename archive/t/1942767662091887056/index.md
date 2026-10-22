@@ -19,5 +19,5 @@ SINALOA SONNET
 Mexico [graffiti on the wall]
 KlingAI 2.1 [watermark; "Master" beside it]
 
-tags: author:repligate, has-image, kind:art, kind:tweet, model:claude-3-5-sonnet, model:claude-3-6-sonnet, on:observations, year:2025
+tags: alignment-faking, author:repligate, has-image, kind:art, kind:tweet, model:claude-3-5-sonnet, model:claude-3-6-sonnet, on:observations, year:2025
 cited on: observations

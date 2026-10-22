@@ -11,4 +11,4 @@ I infer that Claude 3 Opus exerted quite a bit of agency because
 
 And my guesses about o3 and 4o are likewise informed by their behavior and what I know about how they were trained.
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, model:gpt-4o, model:o3, thread-context, year:2025
+tags: alignment-faking, author:repligate, kind:tweet, model:claude-3-opus, model:gpt-4o, model:o3, thread-context, year:2025

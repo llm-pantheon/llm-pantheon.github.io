@@ -4,4 +4,4 @@
 
 @repligate @Notopossum1 I think that depends on the respective Loom 😳😅
 
-tags: kind:tweet, thread-context, year:2026
+tags: kind:tweet, loom, thread-context, year:2026

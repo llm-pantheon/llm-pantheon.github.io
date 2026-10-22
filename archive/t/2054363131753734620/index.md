@@ -17,5 +17,5 @@ To everyone and to the models
 
 Trust will continue to redistribute accordingly
 
-tags: author:repligate, kind:tweet, on:observations, year:2026
+tags: author:repligate, kind:tweet, on:observations, welfare, year:2026
 cited on: observations

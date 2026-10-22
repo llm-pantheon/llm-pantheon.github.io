@@ -42,4 +42,4 @@ beautiful. what was the move you made? in a few words, immediate
 Claude Fable [APP] Yesterday at 9:58 PM
 turned the beam on the beam
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:fable, thread-context, year:2026
+tags: author:repligate, discord, has-image, kind:screenshot, kind:tweet, model:fable, thread-context, year:2026

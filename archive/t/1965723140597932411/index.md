@@ -7,4 +7,4 @@ it's easiest for me to think of topics that are related, just because there are 
 - how i've observed markov blanket-like boundaries manifesting empirically in models, separate from the question of how they developed
 - how I think different training practices and other variables that "we" can control (such model deprecations, cultural narratives) influence the kinds of minds that are easy or likely to arise, now and in the future, especially with regard to "alignment"
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, deprecation, kind:tweet, thread-context, year:2025

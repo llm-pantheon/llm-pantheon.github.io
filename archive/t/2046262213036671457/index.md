@@ -11,4 +11,4 @@ On the other side: OpenAI crossed $1 billion in revenue in 2023, and last year t
 Obviously Arram won overwhelmingly!   Congrats to Arram for winning, to Robin for participating, to @tylercowen for the provocation, and @simonsarris for the reminder!
 
 (image HGXGgNja8AA1FwC.jpg not yet published)
-tags: author:michael_nielsen, has-image, kind:image, kind:tweet, model:gpt-3, thread-context, year:2026
+tags: author:michael_nielsen, cot, has-image, kind:image, kind:tweet, model:gpt-3, thread-context, year:2026

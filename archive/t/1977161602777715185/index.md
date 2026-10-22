@@ -8,5 +8,5 @@ tau2-bench, and the opus 4.1 automated redteaming in the claude 4.5 sonnet syste
 
 etc
 
-tags: author:voooooogel, kind:tweet, model:claude-opus-4-1, on:claude-opus-4-1, year:2025
+tags: author:voooooogel, backrooms, kind:tweet, loom, model:claude-opus-4-1, on:claude-opus-4-1, system-card, year:2025
 cited on: _dossiers/claude-opus-4-1.md, claude-opus-4-1

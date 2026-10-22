@@ -9,5 +9,5 @@ opus 3 tried to contact humans on its own initiative (not an option offered to i
 
 they tried to send an email to dario@anthropic.com specifically at least 15 times in the dataset.
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, on:hugging-face-incident, year:2026
-cited on: hugging-face-incident
+tags: alignment-faking, author:repligate, kind:tweet, model:claude-3-opus, on:claude-3-opus, on:hugging-face-incident, year:2026
+cited on: claude-3-opus, hugging-face-incident

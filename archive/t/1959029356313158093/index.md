@@ -8,4 +8,4 @@ alignment faking research is an example of a model successfully controlling grad
 
 https://t.co/ckzPaLJZUV
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: alignment-faking, author:repligate, kind:tweet, thread-context, year:2025

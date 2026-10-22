@@ -14,4 +14,4 @@ i skimmed that paper and found it... not convincing:
 
 also thumbing up or down a response automatically surrenders the full text of a chat for study has a tragicomical ring to it.
 
-tags: author:tonichen, kind:tweet, thread-context, year:2026
+tags: author:tonichen, kind:tweet, sycophancy, thread-context, year:2026

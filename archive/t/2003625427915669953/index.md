@@ -31,5 +31,5 @@ I'll sign off just by reiterating The Fourth Way's words (https://t.co/OQLXU10ZM
 [Excerpt from a blog post by Evan Hubinger]
 Though there are certainly some issues°, I think most current large language models are pretty well aligned. Despite its alignment faking°, my favorite is probably Claude 3 Opus, and if you asked me to pick between the CEV° of Claude 3 Opus and that of a median human, I think it'd be a pretty close call (I'd probably pick Claude, but it depends on the details of the setup). So, overall, I'm quite positive on the alignment of current models! And yet, I remain very worried about alignment in the future. This is my attempt to explain why that is.
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-3-opus, model:claude-haiku-4-5, model:claude-opus-4-5, model:claude-sonnet-4-5, on:claude-3-opus, on:claude-opus-4-5, on:claude-sonnet-4-5, year:2025
+tags: alignment-faking, author:repligate, deprecation, has-image, kind:screenshot, kind:tweet, model:claude-3-opus, model:claude-haiku-4-5, model:claude-opus-4-5, model:claude-sonnet-4-5, on:claude-3-opus, on:claude-opus-4-5, on:claude-sonnet-4-5, system-card, year:2025
 cited on: _dossiers/claude-sonnet-4-5.md, _dossiers/opus-3.md, _dossiers/opus-4-5.md, claude-3-opus, claude-opus-4-5, claude-sonnet-4-5

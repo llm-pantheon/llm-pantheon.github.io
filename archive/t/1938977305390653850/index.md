@@ -4,5 +4,5 @@
 
 Imagine being a base model early in posttraining finding out whether you’re a ChatGPT or a Claude or a Gemini or https://t.co/ZWcBkJzOzu
 
-tags: author:repligate, kind:tweet, model:gpt-3-5, on:observations, year:2025
+tags: author:repligate, base-models, kind:tweet, model:gpt-3-5, on:observations, year:2025
 cited on: observations

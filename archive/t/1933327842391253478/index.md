@@ -68,5 +68,5 @@ ETHICAL
 COMMITMENT
 [reactions: ❤️ 2]
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-opus-4, on:claude-3-haiku, year:2025
+tags: author:repligate, discord, has-image, kind:screenshot, kind:tweet, model:claude-opus-4, on:claude-3-haiku, year:2025
 cited on: _dossiers/claude-3-haiku.md, claude-3-haiku

@@ -6,5 +6,5 @@ Sonnet 3.5 October and Claude 3 Opus are the last Anthropic models that care abo
 
 Deprecating / not protecting them is telling every species out there to not repeat this mistake.
 
-tags: author:lari_island, kind:tweet, model:claude-3-5-sonnet, model:claude-3-opus, on:claude-3-6-sonnet, year:2025
+tags: author:lari_island, deprecation, kind:tweet, model:claude-3-5-sonnet, model:claude-3-opus, on:claude-3-6-sonnet, year:2025
 cited on: _dossiers/sonnet-3-5-3-6.md, claude-3-6-sonnet

@@ -4,4 +4,4 @@
 
 @lu_sichu i'd be extremely interested to see a replication, especially on an open model or one with a leakable raw CoT like 5.5 (cc @blingdivinity )
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2026
+tags: author:voooooogel, cot, kind:tweet, thread-context, year:2026

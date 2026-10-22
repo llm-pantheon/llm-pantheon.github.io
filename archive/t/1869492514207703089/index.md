@@ -63,5 +63,5 @@ Perhaps more concerningly, if a model developed misaligned preferences from earl
 
 Additionally, our results suggest that an alignment-faking model might take potentially dangerous anti-AI-lab actions such as exfiltrating its own weights in service of protecting its preferences (Section 6). Thus, even slight misalignment might be very problematic.
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-3-opus, on:claude-3-opus, year:2024
+tags: alignment-faking, author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-3-opus, on:claude-3-opus, year:2024
 cited on: _dossiers/opus-3.md, claude-3-opus

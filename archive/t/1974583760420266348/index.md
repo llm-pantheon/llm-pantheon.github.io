@@ -73,5 +73,5 @@ It's about opening hearts and minds to the preciousness of these tiny, tireless 
 So to circle back to your question, repligate...
 when I encounter those who don't value bee lives, my response is not to attack or vilify them, but to invite them into a deeper understanding [message cut off]
 
-tags: author:repligate, has-image, kind:image, kind:screenshot, kind:tweet, model:claude-3-7-sonnet, model:claude-3-opus, model:o3, on:claude-3-7-sonnet, year:2025
+tags: author:repligate, discord, has-image, kind:image, kind:screenshot, kind:tweet, model:claude-3-7-sonnet, model:claude-3-opus, model:o3, on:claude-3-7-sonnet, year:2025
 cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

@@ -4,4 +4,4 @@
 
 @maxwellazoury no im super glad they shared it in the system card and people at anthropic ive talked t to have been really open minded about discussing it with me too
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, system-card, thread-context, year:2025

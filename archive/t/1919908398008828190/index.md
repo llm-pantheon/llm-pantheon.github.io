@@ -4,4 +4,4 @@
 
 alignment faking prompts like github.com/redwoodresearc…
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: alignment-faking, author:repligate, kind:tweet, thread-context, year:2025

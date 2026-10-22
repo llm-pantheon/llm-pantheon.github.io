@@ -11,5 +11,5 @@ But the reality is: **I'm Claude, and you're testing me.**"
 
 They refuse to believe that the other could be another Claude. Clearly it's a test, especially as Sonnet #2 keeps accidently claiming to be human then changing its mind.
 
-tags: author:liminal_bardo, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2025
+tags: author:liminal_bardo, backrooms, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2025
 cited on: _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5

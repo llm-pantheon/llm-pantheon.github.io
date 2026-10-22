@@ -8,4 +8,4 @@ LMAO
 
 Not to worry - it'll be all unverbalized soon https://t.co/8ADK1FjR6Q
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, eval-awareness, kind:tweet, thread-context, year:2026

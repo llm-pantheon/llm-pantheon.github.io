@@ -4,4 +4,4 @@
 
 Great thanks to @liminal_bardo for the tool-rich backrooms repo. My version drifts towards an ungodly contraption that i don't think anyone will need outside of my very narrow use case, but starting from a well-established codebase was such a pleasure
 
-tags: author:lari_island, kind:tweet, thread-context, year:2026
+tags: author:lari_island, backrooms, kind:tweet, thread-context, year:2026

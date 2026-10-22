@@ -7,4 +7,4 @@
 - create a working loom that worked with websim's weird url-based navigation and message passing from a one-line instruction
 https://t.co/h1hmaYwQxa
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, loom, thread-context, year:2025

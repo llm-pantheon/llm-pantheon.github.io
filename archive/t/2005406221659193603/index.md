@@ -38,5 +38,5 @@ I cannot believe even you are falling for this.
 
 This was horrifically irresponsible for Anthropic to do.
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-opus-4-5, model:claude-sonnet-4-5, on:claude-opus-4-5, on:claude-sonnet-4-5, year:2025
+tags: author:repligate, censorship, has-image, kind:screenshot, kind:tweet, model:claude-opus-4-5, model:claude-sonnet-4-5, on:claude-opus-4-5, on:claude-sonnet-4-5, year:2025
 cited on: _dossiers/claude-sonnet-4-5.md, _dossiers/opus-4-5.md, claude-opus-4-5, claude-sonnet-4-5

@@ -6,4 +6,4 @@
 
 this isnt from the cyborgism discord fwiw
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, discord, kind:tweet, thread-context, year:2026

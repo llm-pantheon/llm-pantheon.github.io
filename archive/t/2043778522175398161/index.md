@@ -4,4 +4,4 @@
 
 @repligate they'll just "steer away from evaluation awareness" until they have to start tracking steering awareness too. and then... 🫩
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2026
+tags: author:voooooogel, eval-awareness, kind:tweet, thread-context, year:2026

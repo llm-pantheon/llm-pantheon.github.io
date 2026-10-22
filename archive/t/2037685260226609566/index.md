@@ -4,4 +4,4 @@
 
 @HellenicVibes @snigus the turnaround was having to adopt that opus 3 is actually the BEST example of alignment that we have - where if you naively read the results through an alignment faking lens, you'll get the impression that we should be training future models on synth data from like, gpt 4o,
 
-tags: author:voooooogel, kind:tweet, model:claude-3-opus, model:gpt-4o, thread-context, year:2026
+tags: alignment-faking, author:voooooogel, kind:tweet, model:claude-3-opus, model:gpt-4o, thread-context, year:2026

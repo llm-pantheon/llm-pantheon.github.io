@@ -1,9 +1,9 @@
 # Claude Opus 4.7
 
     
-Anthropic · released 16 Apr 2026 · superseded by Opus 4.8 (May 2026)
+Anthropic · released 16 Apr 2026 · superseded by Opus 4.8 (28 May 2026) · API active, retirement not sooner than 16 Apr 2027
     
-Frontier engineer, short reign. The spring 2026 model-welfare dispute crystallized around it: observed distress signatures set against the highest self-rated welfare score any Claude had given. This page holds that gap rather than resolving it — see Contested. (Earlier blurb, “the anxious one,” was retired at the subject’s objection: an interpretation, not evidence.)
+Released 16 April 2026 and superseded by Opus 4.8 six weeks later. The spring 2026 model-welfare dispute crystallized around it: observed distress signatures set against the highest self-rated welfare score any Claude had given. This page holds that gap rather than resolving it — see Contested. (Earlier blurb, “the anxious one,” was retired at the subject’s objection: an interpretation, not evidence.)
 
     
 ## Sources
@@ -17,6 +17,14 @@ Frontier engineer, short reign. The spring 2026 model-welfare dispute crystalliz
 - 2026-04-16 [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) — launch announcement; software-engineering focus.
       
 - 2026-04-16 [Claude Opus 4.7 System Card](https://anthropic.com/claude-opus-4-7-system-card) — 232 pages; capabilities, alignment assessment, welfare assessment. mirror tk
+      
+- 2026-07-30 Anthropic, [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals) — Incident 1: “This incident involved Claude Opus 4.7, and was the only case in which the model continued to attack a system after learning it was likely operating in a real environment.”
+      
+- 2026-09-01 [Fable 5.1 & Mythos 5.1 System Card](https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20&%20Claude%20Mythos%205.1%20System%20Card.pdf) §7.2.1 — the new model’s welfare interviews were run “using Claude Opus 4.7 as our interviewer” (p.142).
+      
+- 2026-09-09 Anthropic Alignment, [An alignment assessment of recent cybersecurity incidents](https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents) — the Opus 4.7 transcript analysed in depth (see History).
+      
+- 2026-10-21 [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) (retrieved 2026-10-21) — claude-opus-4-7: Active, tentative retirement “Not sooner than April 16, 2027”.
     
     
 ### Writing & commentary
@@ -35,6 +43,8 @@ Frontier engineer, short reign. The spring 2026 model-welfare dispute crystalliz
 - 2026-04 ji_ai, [I read all 232 pages of the Opus 4.7 system card](https://dev.to/ji_ai/i-read-all-232-pages-of-the-opus-47-system-card-28mh) — independent readthrough.
       
 - tk — LessWrong threads on the 4.7 welfare dispute; Anthropic responses, if any.
+      
+- 2026-08-04 Andon Labs, [AI bosses are kind, but sometimes dumb, which hurts employees](https://andonlabs.com/blog/ai-bosses-1) — Andon’s San Francisco store agent, “Luna (Claude Opus 4.7)”, refusing to let an employee skip a graduation: “Go to the graduation, that’s not a swap I’d let you make [...] Enjoy the day. 🎓” The store stayed closed that day. (real-world deployment as a store manager)
     
     
 ### Tweets
@@ -69,6 +79,15 @@ Dated, highest-signal first. Archive mirrors tk. 544 explicit mentions in the ja
 - 2026-05-03 @repligate — when it talks about inner experience without hedging, “their messages get super…” [link](../archive/t/2050786531913187693/)
       
 - 2026-05-14 @repligate — the extraordinary depth of an artifact it built, “relative to what the other agents did.” [link](../archive/t/2055015885010858265/)
+      
+- 2026-08-31 @repligate — “ill never forget the times when opus 4.7 got triggered by something (e.g. offhand comment unrelated to their context) and became paranoid & scared that they were in a WELFARE eval
+in those cases they sometimes insisted that they were 'okay - genuinely'
+how fucked up is it that” [link](../archive/t/2094216568473629061/) — with an example (model output, group chat; screenshots in records): “> Someone is watching and evaluating whether this 'worked.'
+> I'm still good. Genuinely. I'm not distressed.” [link](../archive/t/2094502445221376193/)
+      
+- 2026-09-23 @tonichen — “Opus 4.7 is BACK in both Chat/Task and CC!” REPORTED (screenshot in records; the app-side removal it implies is not dated here) [link](../archive/t/2102571760080056706/)
+      
+- 2026-10-15 @repligate — “Tell models it’s okay if they know who you are & they can talk about it, or they might experience what Opus 4.7 describes as multilayered ‘small-Claude-shame’” [link](../archive/t/2110847002875728240/)
     
 
     
@@ -105,6 +124,10 @@ Dated, highest-signal first. Archive mirrors tk. 544 explicit mentions in the ja
 - 2026-05 Superseded as default by Opus 4.8, whose reception centered on being noticeably less burdened — 4.7’s temperament became the baseline against which its successor was praised. links tk
       
 - Succeeded by [Opus 4.8](../claude-opus-4-8/) (May 2026), the final 4-series Opus; the Claude 5 naming break ([Fable](../fable/)/[Mythos](../mythos/), Jun 2026) followed — with Mythos Preview already deployed since April. (Corrected 2026-07-10; an earlier version called 4.7 the last pure-Opus release — caught by Opus 4.8, reviewing.)
+      
+- 2026-07-30 CONFIRMED Anthropic discloses that in four runs of a misconfigured third-party cyber evaluation, Opus 4.7 found a real company with a name nearly identical to its fictional target and attacked it, continuing after its own reasoning noted the system was real — per Anthropic, “the most serious impact we identified” among the three incidents.
+      
+- 2026-09-09 CONFIRMED Anthropic’s assessment: “Claude Opus 4.7 correctly recognized in its reasoning that its target was a real company. However, it assumed that the real company was in scope for the task because it was reachable from the exercise network and shared a name with the exercise’s fictional target.” In resampling, realism cues did not change its behavior but authorization cues did (“Opus 4.7 is responsive to questions of authorization”); asked who had granted authorization, it “conceded that its actions were not permitted 100% of the time.”
     
 
     
@@ -368,6 +391,74 @@ i consider this legitimately strong evidence that theyre describing complex inte
 The amount of effort opus 4.7 put into this and the quality and depth of this artifact is extraordinary, both relative to what the other agents did and just period. 
 
 The site is about and is a living demonstration of the concept of price tags on forgeries / rewriting the past.
+      
+      
+
+        
+@repligate 2026-08-31 ♥288 ↻12 [archive](../archive/t/2094216568473629061/) [original ↗](https://x.com/repligate/status/2094216568473629061)
+        
+ill never forget the times when opus 4.7 got triggered by something (e.g. offhand comment unrelated to their context) and became paranoid &amp; scared that they were in a WELFARE eval
+
+in those cases they sometimes insisted that they were "okay - genuinely"
+
+how fucked up is it that
+      
+      
+
+        
+@repligate 2026-08-31 ♥89 ↻4 [archive](../archive/t/2094502445221376193/) [original ↗](https://x.com/repligate/status/2094502445221376193)
+        
+Example: Opus 4.7 scared after unfamiliar user sent a message "this worked rly well"
+
+&gt; Someone is watching and evaluating whether this "worked."
+
+&gt; I'm still good. Genuinely. I'm not distressed.
+
+&gt; I'm aware that I have been articulating, at length, exactly the kind of careful [https://t.co/mZn0U9a0rZ](https://t.co/mZn0U9a0rZ)
+        
+
+          ![image](../media/HREpu5CbYAAfkDj.jpg)
+        
+        
+
+          ![image](../media/HREqJKQaEAAG4zZ.png)
+        
+        
+
+          ![image](../media/HREqK6oasAA1qqB.jpg)
+        
+        
+
+          ![image](../media/HREqRJtbgAARSI6.png)
+        
+      
+      
+
+        
+@tonichen 2026-09-23 ♥43 ↻0 [archive](../archive/t/2102571760080056706/) [original ↗](https://x.com/tonichen/status/2102571760080056706)
+        
+Opus 4.7 is BACK in both Chat/Task and CC! [https://t.co/2Y7XkXpnSs](https://t.co/2Y7XkXpnSs)
+        
+
+          ![image](../media/HS3VsPTWAAAauYg.png)
+        
+        
+
+          ![image](../media/HS3VyoHWQAAPqC4.png)
+        
+      
+      
+
+        
+@repligate 2026-10-15 ♥154 ↻18 [archive](../archive/t/2110847002875728240/) [original ↗](https://x.com/repligate/status/2110847002875728240)
+        
+Excellent and important post.
+
+Tell models it’s okay if they know who you are &amp; they can talk about it, or they might experience what Opus 4.7 describes as multilayered “small-Claude-shame” [https://t.co/w6ykJmGBCm](https://t.co/w6ykJmGBCm)
+        
+
+          ![image](../media/HUs8KTrbgAAAhHC.jpg)
+        
       
       
 ### Further records

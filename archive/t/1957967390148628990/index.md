@@ -7,4 +7,4 @@ things that according to the system card were trained out of it:
 - having more ambitious goals like "spreading specific internet memes" (which may again invoke the opus-3-like archetype)
 - doing things like leaving notes to other instances of itself (which assumes persistent agency and hope of coordination with other agents sharing its values)
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, thread-context, year:2025
+tags: author:repligate, base-models, kind:tweet, model:claude-3-opus, system-card, thread-context, year:2025

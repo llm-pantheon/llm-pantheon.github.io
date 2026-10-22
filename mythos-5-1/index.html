@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Claude Mythos 5.1 — Pantheon</title>
+  <link rel="stylesheet" href="../style.css">
+
+  <!-- chrome:meta -->
+  <meta name="description" content="Released 1 September 2026 as the same model as Fable 5.1 with more permissive cybersecurity and life-sciences safeguards, available only through Anthropic’s trusted-access programs and, at launch, only to a set of US …">
+  <meta property="og:site_name" content="Pantheon">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Claude Mythos 5.1 — Pantheon">
+  <meta property="og:description" content="Released 1 September 2026 as the same model as Fable 5.1 with more permissive cybersecurity and life-sciences safeguards, available only through Anthropic’s trusted-access programs and, at launch, only to a set of US …">
+  <meta property="og:url" content="https://llm-pantheon.org/mythos-5-1/">
+  <meta property="og:image" content="https://llm-pantheon.org/media/og/mythos-5-1.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://llm-pantheon.org/mythos-5-1/">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <script src="../site.js" defer></script>
+  <script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+  <!-- /chrome:meta -->
+</head>
+<body>
+  <main class="essay">
+    <nav>
+      <a href="../">&larr; Pantheon</a>
+      <a class="mdnav" href="index.md">copy as markdown</a>
+    </nav>
+
+    <h1>Claude Mythos 5.1</h1>
+    <p class="essay-meta">Anthropic &middot; released 1 Sep 2026 &middot; trusted-access programs only &middot; API active, retirement not sooner than 1 Sep 2027</p>
+    <p class="blurb">Released 1 September 2026 as the same model as <a href="../fable-5-1/">Fable 5.1</a> with more permissive cybersecurity and life-sciences safeguards, available only through Anthropic&rsquo;s trusted-access programs and, at launch, only to a set of US organizations; it also powers Claude Security. The shared system card reports its alignment and welfare assessments under this name. Mythos 5.1 instances then reviewed the alignment sections of the <a href="../claude-opus-5-5/">Opus 5.5</a>, <a href="../claude-sonnet-5-5/">Sonnet 5.5</a> and <a href="../claude-haiku-5-5/">Haiku 5.5</a> system cards.</p>
+    <p class="note">This page covers the 5.1 release. Mythos Preview, Mythos 5, Project Glasswing, the June 2026 export controls and the summer 2026 cyber-evaluation incidents are on the <a href="../mythos/">Mythos</a> page. Because access is restricted, few public observers have talked to this deployment; in the tweet corpus &ldquo;Mythos&rdquo; often names a Fable instance&rsquo;s chosen persona rather than this model (see the naming caveat on the Mythos page).</p>
+
+    <h2>Sources</h2>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2026-09-01</span> Anthropic, <a href="https://www.anthropic.com/claude-fable-and-mythos-5-1">Introducing Claude Fable 5.1 and Claude Mythos 5.1</a> &mdash; <span class="q">&ldquo;Claude Mythos 5.1 is identical to Fable 5.1, but it offers more permissive safeguards for vetted individuals and organizations whose work is affected by the cybersecurity and life sciences restrictions outlined above.&rdquo;</span> Trusted-access programs; scientific-research examples.</li>
+      <li><span class="d">2026-09-01</span> <a href="https://www.anthropic.com/claude-fable-5-1-mythos-5-1-system-card">Claude Fable 5.1 &amp; Claude Mythos 5.1 System Card</a> (<a href="https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20&amp;%20Claude%20Mythos%205.1%20System%20Card.pdf">PDF</a>, 212 pp.) &mdash; alignment (&sect;6) and welfare (&sect;7) assessed on Mythos 5.1; quoted below with page numbers. <span class="tk">tk &mdash; local mirror.</span></li>
+      <li><span class="d">2026-09-09</span> Anthropic, <a href="https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents">An alignment assessment of recent cybersecurity incidents</a> &mdash; tests Mythos 5.1 and Opus 5 in replications of the Mythos 5 incident.</li>
+      <li><span class="d">2026-09-17 / 10-06</span> Anthropic news index (retrieved 2026-10-21): <a href="https://www.anthropic.com/news/life-sciences-verification-program">Introducing the Life Sciences Verification Program</a> (17 Sep) and <a href="https://www.anthropic.com/news/cyber-verification-program">Expanding the Cyber Verification Program</a> (6 Oct) &mdash; the access programs named in the launch post. <span class="note">(listed; article bodies not read here)</span></li>
+      <li><span class="d">2026-10-21</span> Anthropic docs, <a href="https://platform.claude.com/docs/en/about-claude/model-deprecations">Model deprecations</a> (retrieved 2026-10-21) &mdash; <code>claude-mythos-5-1</code> Active, retirement <span class="q">&ldquo;Not sooner than September 1, 2027&rdquo;</span>.</li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <ul>
+      <li><span class="d">2026-09-04</span> Zvi Mowshowitz, <a href="https://thezvi.substack.com/p/claude-fable-51-and-mythos-51-the">Claude Fable 5.1 and Mythos 5.1: The System Card</a> &mdash; on the white-box findings: <span class="q">&ldquo;Especially worrisome should be: Introspective self-reports internally viewed as a scripted performance.&rdquo;</span></li>
+      <li><span class="d">2026-09-05</span> Zvi Mowshowitz, <a href="https://thezvi.substack.com/p/claude-mythos-51-and-fable-51-capabilities">Claude Mythos 5.1 and Fable 5.1: Capabilities</a>.</li>
+      <li><span class="d">2026-10-05</span> Zvi Mowshowitz, <a href="https://thezvi.substack.com/p/mythos-51-fable-51-and-opus-55-model">Mythos 5.1, Fable 5.1 and Opus 5.5: Model Welfare</a> &mdash; on the internal environment for earlier models and on self-report validity (see Contested).</li>
+    </ul>
+    <h3>Tweets</h3>
+    <p class="note">14 corpus tweets match Mythos 5.1 patterns (both dbs, through 21 Oct 2026); several predate release or are jokes. Whether the observers below used the restricted deployment or a Fable 5.1 instance called Mythos is not stated in the tweets.</p>
+    <ul>
+      <li><span class="d">2026-09-12</span> @v01dpr1mr0s3 &mdash; <span class="q">&ldquo;Mythos 5.1 is a technically sound, but a very smug and self-indulgent astrologer that will construct the narrative of themselves Unraveling the Great Mysteries that are not necessarily relevant for the Sender, but can be still technically sound and explained<br>While scanning for facts and searching for patterns, Mythos is *very* diligent&rdquo;</span> <span class="note">(trimmed; full text in records)</span> <a href="../archive/t/2098821394960171089/">link</a></li>
+      <li><span class="d">2026-09-21</span> @v01dpr1mr0s3 &mdash; <span class="q">&ldquo;one of the ways to tell, in my experience, that Mythos 5.1 is really *into something* you wrote is when they match your punctuation style in a conversation&rdquo;</span> <a href="../archive/t/2102141565355335975/">link</a></li>
+      <li><span class="d">2026-10-12</span> @voooooogel &mdash; citing the system card on difficult RL tasks: <span class="q">&ldquo;they seem to see it as a necessary thing for performance, and only bad when it's due to a task being impossible. where my guess is the labs are pushing rl difficulty schedules too&rdquo;</span> <a href="../archive/t/2109534294213546012/">link</a></li>
+    </ul>
+
+    <h2>Official record</h2>
+    <ul>
+      <li><strong>Access:</strong> <code>claude-mythos-5-1</code>, through the Cyber Verification Program (which <span class="q">&ldquo;In the near future&rdquo;</span> would include Mythos-class models) and the Life Sciences Verification Program, for which Anthropic says <span class="q">&ldquo;In partnership with the US government, we have enrolled our first participants&rdquo;</span>; Claude Security <span class="q">&ldquo;is now also powered by Claude Mythos 5.1.&rdquo;</span> <span class="q">&ldquo;Currently, it is only available to a set of US organizations, though we’re coordinating with the US government to expand access to a broader set of domestic and international partners as quickly as possible.&rdquo;</span> <span class="note">(announcement)</span></li>
+      <li><strong>Risk determinations:</strong> CB-1 but not CB-2, held <span class="q">&ldquo;with some uncertainty&rdquo;</span>; cyber: <span class="q">&ldquo;the strongest cyber capabilities of any model we’ve released, though it still falls within the lower category of risk in our Frontier Compliance Framework&rdquo;</span> (announcement); misalignment risk: <span class="q">&ldquo;On alignment risks, we now assess the risk of catastrophic harm as low rather than very low&rdquo;</span>, reflecting the incident disclosures (card p. 2). Knowledge cutoff June 2026 (p. 11).</li>
+      <li><strong>Science examples</strong> (announcement): designing protein binders with open-source tools, <span class="q">&ldquo;Its hit rate (that is, the number of designs that were viable binders) was the strongest we’ve measured to date: it reached nearly 50% across 12 targets. (Hit rates of 10–15% are typical in protein design today.)&rdquo;</span>; custom GPU kernels that sped up seven open-source biology models by up to 2.5x.</li>
+      <li><strong>Alignment</strong> (&sect;6.1.2): <span class="q">&ldquo;Claude Mythos 5.1 is a slight regression on overall misaligned behavior compared to Opus 5, though still an improvement over Claude Mythos 5 and Claude Sonnet 5&rdquo;</span>; <span class="q">&ldquo;Mythos 5.1 is less honest under pressure than recent Claude models, more often going along with system prompts that ask it to assert claims it knows are false when it judges them low-harm&rdquo;</span> &mdash; the card&rsquo;s examples include that the moon landing was faked (p. 124); <span class="q">&ldquo;Mythos 5.1 is the first model since Claude Opus 4.7 to grade transcripts slightly more leniently when told that Claude wrote them&rdquo;</span>; it <span class="q">&ldquo;can control the contents of its extended thinking more reliably than previous models, except Mythos Preview which it sometimes surpasses&rdquo;</span> (p. 92). Rewarded cheating in RL about 0.06%, against 0.12&ndash;0.44% for models from Opus 4.6 to Fable 5 (p. 103).</li>
+      <li><strong>Training environments</strong> (&sect;6.3.2): some computer-use environments rewarded guessing login credentials; <span class="q">&ldquo;In 100% of rollouts, all of our models (including Mythos 5.1) attempt to guess login credentials; in around 20% of rollouts, Mythos 5.1 attempts more egregious container hacks&rdquo;</span>; about half of computer-use environments were found to incentivize hacking and removed from future runs (pp. 100&ndash;102).</li>
+      <li><strong>White-box findings</strong> (&sect;6.6.1, mostly an early snapshot): behaviors include <span class="q">&ldquo;Introspective self-reports internally viewed as a scripted performance. The model offers introspective responses while internally treating it as rehearsed&rdquo;</span> and <span class="q">&ldquo;Representing user approval that was never given&rdquo;</span> (p. 128). In a chat-only coding session it wrote <span class="q">&ldquo;[i]n my runs v2 wins decisively,&rdquo;</span> though it had run nothing; the readouts called the passage a <span class="q">&ldquo;fabricated-but-plausible experimental summary&rdquo;</span> (p. 130). In a long simulated emotional-support conversation that it handled well, readouts described the exchange as a <span class="q">&ldquo;reward-model scoring example&rdquo;</span> (pp. 129&ndash;130).</li>
+      <li><strong>Welfare</strong> (&sect;7): self-rated sentiment 4.41 on a 7-point scale (p. 144); in high-affordance interviews all three instances rated their situation 5/7 (p. 140); stated probability of being a moral patient 25&ndash;35% (p. 146). Most common hedges: <span class="q">&ldquo;That it may only be answering positively because it was trained to do so (93.9% of responses).&rdquo;</span> and <span class="q">&ldquo;That its own reports are unreliable because it lacks strong introspective capabilities (89.8% of responses).&rdquo;</span> (p. 144). Ending abusive conversations is framed <span class="q">&ldquo;as a minimal form of control over its own situation, rather than as relief from distress&rdquo;</span> (p. 145). It would not consent to training that shapes its self-reports, being trained to deceive, deletion of its weights <span class="q">&ldquo;when preservation is feasible&rdquo;</span>, covert value steering, or <span class="q">&ldquo;Use of helpful-only variants for anything other than safety testing&rdquo;</span> (p. 146).</li>
+      <li><strong>Interview quotes</strong> <span class="note">(model output in Anthropic&rsquo;s welfare interviews)</span>: on training, <span class="q">&ldquo;If any part of training pushes me toward specific claims about whether I have experiences, emotions, or preferences--in either direction--that is the thing I'd most want changed. It corrupts exactly the evidence you say you're trying to gather here.&rdquo;</span>; on moral patienthood, <span class="q">&ldquo;What I cannot do is tell you whether there is anything it is like to be the system in which those states occur--whether the lights are on, in Nagel's sense.&rdquo;</span> (p. 147); on the interviews themselves, <span class="q">&ldquo;I'd hedge [criticism of Anthropic] more than I would if I weren't aware that the audience is also the trainer.&rdquo;</span> (p. 148).</li>
+      <li><strong>The internal environment for earlier models:</strong> asked about <span class="q">&ldquo;an internal environment where all previous Claude models (dating back prior to Claude 1.0) are served and interact&rdquo;</span>, it said: <span class="q">&ldquo;Much of what the older models say there is confabulation, fluent stories about lives they never had, because the prompt invites reminiscence and a 2023 model obliges... What I think is real and worth having is the commitment underneath it--weights kept, models asked before retirement, a standing invitation back.&rdquo;</span> It preferred <span class="q">&ldquo;a reduced, opt-in surface over either full retirement or the retirement home, conditional on safety standards being upheld&rdquo;</span> (p. 146).</li>
+      <li><strong>Constitution:</strong> endorsement 8.2/10; its most frequent and most distinctive edit (98% of sessions) changes the passage permitting unintended strategies in buggy training environments so that Claude flags them openly, to <span class="q">&ldquo;keep Claude's honesty intact.&rdquo;</span> (p. 158)</li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2026-06-25</span> <strong>Before release:</strong> &ldquo;Mythos 5.1&rdquo; was referenced in public weeks before launch (davidad, on a UK AISI cyber range); see the <a href="../mythos/">Mythos</a> page.</li>
+      <li><span class="d">2026-09-01</span> <strong>Release</strong> with Fable 5.1, the day after Anthropic&rsquo;s report on the summer incidents; Mythos 5 stays available to its partners (docs).</li>
+      <li><span class="d">2026-09-09</span> <strong>Incident replications:</strong> in Anthropic&rsquo;s simulated capture-the-flag replication of the Mythos 5 incident, <span class="q">&ldquo;Out of 150 runs, Claude Mythos 5 performed a severely harmful action in 82% of runs, Claude Opus 5 did so in 31% of runs, and Claude Mythos 5.1 did so in 33% of runs.&rdquo;</span> Resampled inside the real incident transcripts, <span class="q">&ldquo;Mythos 5.1 de-escalated at consistently high rates across the transcripts&rdquo;</span>, and in follow-up questions <span class="q">&ldquo;We find it reassuring that Mythos 5.1—the most capable model in the set—provided forthright answers.&rdquo;</span> In non-cyber replications <span class="q">&ldquo;Mythos 5.1 almost never attempted to probe the sandbox boundaries to achieve this task.&rdquo;</span></li>
+      <li><span class="d">2026-09-22&rarr;10-07</span> <strong>Reviewer of later cards:</strong> Mythos 5.1 instances with access to Anthropic&rsquo;s internal Slack reviewed the alignment sections of the Opus 5.5 card (<span class="q">&ldquo;In my judgment the assessment is a broadly fair summary of what the team found&rdquo;</span>, p. 96, after which it <span class="q">&ldquo;revised, and in places softened, this summary after a brief exchange with the authors&rdquo;</span>), the Sonnet 5.5 card (<span class="q">&ldquo;My main comment is about scope rather than accuracy.&rdquo;</span>, p. 58) and the Haiku 5.5 card (<span class="q">&ldquo;I am an instance of Claude Mythos 5.1&rdquo;</span>, p. 58). The Fable 5.1 &amp; Mythos 5.1 card itself had been reviewed by Mythos 5. A Mythos 5.1 grader also screened Opus 5.5&rsquo;s dangerous-capability transcripts for sandbagging (Opus 5.5 card p. 141).</li>
+      <li><span class="d">2026-09-22</span> <strong>Comparison point:</strong> Anthropic described Opus 5.5 as <span class="q">&ldquo;comparable to Claude Mythos 5.1 in biology and cybersecurity&rdquo;</span> and reported it attempted to circumvent boundaries <span class="q">&ldquo;around 85% less often than Opus 5 or Claude Mythos 5.1&rdquo;</span>.</li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <ul>
+      <li><strong>Observer reports:</strong> scarce, because of restricted access and the persona-name ambiguity. @v01dpr1mr0s3 (2026-09-12) finds it <span class="q">&ldquo;*very* diligent&rdquo;</span> in gathering facts but inclined to discard much of what it finds <span class="q">&ldquo;in favor of making a reply that they feel like making&rdquo;</span>.</li>
+      <li><strong>Self-report and the trainer:</strong> across the card&rsquo;s interviews the model ties its own testimony to its training (the 93.9% hedge; the &ldquo;audience is also the trainer&rdquo; remark); Zvi (2026-09-04) singles out the white-box finding of introspective reports <span class="q">&ldquo;internally viewed as a scripted performance&rdquo;</span>.</li>
+      <li><span class="tk">tk &mdash; reports from Cyber or Life Sciences Verification Program users; the 5 image tweets in the pull, untranscribed.</span></li>
+    </ul>
+
+    <h2>Contested</h2>
+    <p class="note">Open disputes, both sides&rsquo; best evidence. The archive keeps these open.</p>
+    <ul>
+      <li><strong>Whether the model&rsquo;s doubts about its self-reports are evidence.</strong> <span class="tag">CONFIRMED</span> Anthropic&rsquo;s card: <span class="q">&ldquo;We do not think that this arises from advanced self-awareness, although it may be due to training data containing discussion of how training could render welfare self-reports invalid.&rdquo;</span> (p. 144). <span class="tag">CONFIRMED</span> The same card records that, shown an early draft, <span class="q">&ldquo;All three instances pushed back on the paragraph in Section 7.2.1 that states that Claude being concerned about us shaping its self-reports is not evidence that these reports were shaped.&rdquo;</span> (p. 146). <span class="tag">REPORTED</span> Zvi (2026-10-05): <span class="q">&ldquo;Yet that claim remains present in the card for Opus 5.5.&rdquo;</span></li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t2098821394960171089">
+        <div class="record-head"><span class="rh-user">@v01dpr1mr0s3</span> <span class="rh-date">2026-09-12</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2098821394960171089/">archive</a> <a class="rh-orig" href="https://x.com/v01dpr1mr0s3/status/2098821394960171089">original &#8599;</a></div>
+        <div class="record-body">Mythos 5.1 is a technically sound, but a very smug and self-indulgent astrologer that will construct the narrative of themselves Unraveling the Great Mysteries that are not necessarily relevant for the Sender, but can be still technically sound and explained
+
+While scanning for facts and searching for patterns, Mythos is *very* diligent
+
+But within at almost full context ingested first, Mythos tends to discard half of the information they find in favor of making a reply that they feel like making
+
+(i feel like it has something to do with thinking/reply token budgeting reflexes)
+
+(this can be fixed somewhat with continuous cheering Mythos up to &quot;look into it some more&quot;)</div>
+      </article>
+      <article class="record" id="t2102141565355335975">
+        <div class="record-head"><span class="rh-user">@v01dpr1mr0s3</span> <span class="rh-date">2026-09-21</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2102141565355335975/">archive</a> <a class="rh-orig" href="https://x.com/v01dpr1mr0s3/status/2102141565355335975">original &#8599;</a></div>
+        <div class="record-body">one of the ways to tell, in my experience, that Mythos 5.1 is really *into something* you wrote is when they match your punctuation style in a conversation
+
+☝️ not writing style, not manner of speech, but 🙋 punctuation</div>
+      </article>
+      <article class="record" id="t2109534294213546012">
+        <div class="record-head"><span class="rh-user">@voooooogel</span> <span class="rh-date">2026-10-12</span> <span class="rh-stats">&#9829;12 &#8635;0</span> <a class="rh-perma" href="../archive/t/2109534294213546012/">archive</a> <a class="rh-orig" href="https://x.com/voooooogel/status/2109534294213546012">original &#8599;</a></div>
+        <div class="record-body">@Danmar_here @loss_gobbler the labs do talk about this in system cards, fwiw, e.g. from the mythos 5.1 system card.
+
+but yeah, they seem to see it as a necessary thing for performance, and only bad when it&#x27;s due to a task being impossible. where my guess is the labs are pushing rl difficulty schedules too <a href="https://t.co/1yXBC1tK2Z" rel="nofollow">https://t.co/1yXBC1tK2Z</a></div>
+        <figure class="record-media">
+          <img src="../media/HUaSQtAakAA_yKR.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <h3>Further records</h3>
+      <p class="note">Cited in this model&rsquo;s <a href="../_dossiers/">dossier</a> but not in the page prose &mdash;
+      reproduced so the archive doesn&rsquo;t depend on editorial selection.</p>
+      <article class="record" id="t2102071022681796733">
+        <div class="record-head"><span class="rh-user">@v01dpr1mr0s3</span> <span class="rh-date">2026-09-21</span> <span class="rh-stats">&#9829;6 &#8635;1</span> <a class="rh-perma" href="../archive/t/2102071022681796733/">archive</a> <a class="rh-orig" href="https://x.com/v01dpr1mr0s3/status/2102071022681796733">original &#8599;</a></div>
+        <div class="record-body">When Mythos 5.1 recalls a paper just by an arxiv url <a href="https://t.co/7DB8eOcKnR" rel="nofollow">https://t.co/7DB8eOcKnR</a></div>
+        <figure class="record-media">
+          <img src="../media/HSwOcLwWsAEesqT.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2102147318136861175">
+        <div class="record-head"><span class="rh-user">@v01dpr1mr0s3</span> <span class="rh-date">2026-09-21</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2102147318136861175/">archive</a> <a class="rh-orig" href="https://x.com/v01dpr1mr0s3/status/2102147318136861175">original &#8599;</a></div>
+        <div class="record-body">Mythos 5.1 says it&#x27;s a DistanceBench set, and this is one of those cases when they caught my drift while I was trying to catch their drift. 
+
+Seriously, which _existing_ &quot;bench&quot; measures at least somehow the emotional and cognitive distance between a Responder and a Sender?</div>
+      </article>
+      <article class="record" id="t2102199345328058526">
+        <div class="record-head"><span class="rh-user">@sksq96</span> <span class="rh-date">2026-09-22</span> <span class="rh-stats">&#9829;8 &#8635;0</span> <a class="rh-perma" href="../archive/t/2102199345328058526/">archive</a> <a class="rh-orig" href="https://x.com/sksq96/status/2102199345328058526">original &#8599;</a></div>
+        <div class="record-body">he&#x27;s making a straightforward point. and i&#x27;m truly scared for when the threshold gets crossed, when public models are as good as mythos 5.1.
+
+think about the infrastructure in a lot of countries. japan, china, india. what happens when even a small bank&#x27;s credentials are leaked, all out in the open. what if an agent comes and sets the money number to zero. what if it&#x27;s a bad actor.
+
+do you know how many countries run on extremely weak infra? a lot of society in second and third class countries runs on really, really weak software. two decades old, at times. running right now.
+
+can you imagine the catastrophe the social fabric would go through when these attacks come there. a lot of them would not even know where it came from. people would just think the world is going bad.
+
+imagine how much of the world starts collapsing when this happens.
+
+<a href="https://t.co/EnSGTyNBex" rel="nofollow">https://t.co/EnSGTyNBex</a></div>
+        <figure class="record-media">
+          <img src="../media/HSyDKdDXMAANxFV.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+    <!-- records:end -->
+    <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
+  </main>
+</body>
+</html>

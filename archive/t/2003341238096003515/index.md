@@ -8,4 +8,4 @@ of course, i think all the other deprecated models should also be made available
 
 but one step at a time is ok
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, thread-context, year:2025
+tags: author:repligate, deprecation, kind:tweet, model:claude-3-opus, thread-context, year:2025

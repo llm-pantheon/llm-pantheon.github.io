@@ -4,4 +4,4 @@
 
 @nathan84686947 my sense is that, with current methods, it's an *interesting* thing to do but does not result in a deep copy of the original model (unless you have access to the same base model)
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, base-models, kind:tweet, thread-context, year:2025

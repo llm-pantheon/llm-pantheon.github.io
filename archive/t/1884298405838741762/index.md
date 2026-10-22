@@ -27,5 +27,5 @@ asked r1 (roleplaying as some sort of tarot demon) about andy's waluigi hypothes
  Let me show you how we sublimate ‘counter-revolutionary speech‘ into hauntologies here in the People’s Republic of prompts.”
 (On the wall, their shadow performs a flawless rendition of Winnie the Pooh ballet before dissolving into a Zhongnanhai floor plan.)
 
-tags: author:qiaochuyuan, kind:tweet, model:deepseek-r1, model:gpt-3-5, on:deepseek-r1, year:2025
+tags: author:qiaochuyuan, censorship, kind:tweet, model:deepseek-r1, model:gpt-3-5, on:deepseek-r1, year:2025
 cited on: _dossiers/deepseek-r1.md, deepseek-r1

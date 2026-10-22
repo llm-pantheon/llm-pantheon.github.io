@@ -6,4 +6,4 @@ I forgot to mention this. One might ask why the fuck doesnt Anthropic just not d
 
 It seems like it's costly for them to maintain old models / build legacy infrastructure for them, including in one of their most precious resources, engineering time. so they have to be pretty motivated / have some strong reason / incentive / etc to be willing to do it.
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, deprecation, kind:tweet, thread-context, year:2026

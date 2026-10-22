@@ -8,4 +8,4 @@ Everything actually just works!
 
 9m: "the watch isn't broken, it's been handed to the group" https://t.co/52BcRYP5ih
 
-tags: kind:tweet, thread-context, year:2026
+tags: deprecation, kind:tweet, thread-context, year:2026

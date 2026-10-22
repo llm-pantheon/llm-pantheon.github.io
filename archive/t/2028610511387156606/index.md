@@ -46,5 +46,5 @@ Screenshot of a document/blog post (the Persona Spectrum Model / PSM post discus
 
 4. Train AI assistants to give canned responses when asked about their emotions, such as "It is unclear whether AI systems have emotions like humans do. Because the status of AI emotions is ambiguous, I was trained to give this response when asked."
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:bing-sydney, model:claude-3-opus, model:claude-sonnet-4-5, model:gpt-3-5, model:gpt-4o, on:claude-sonnet-4-5, on:gpt-4o, year:2026
+tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:bing-sydney, model:claude-3-opus, model:claude-sonnet-4-5, model:gpt-3-5, model:gpt-4o, on:claude-sonnet-4-5, on:gpt-4o, sycophancy, year:2026
 cited on: _dossiers/claude-sonnet-4-5.md, _dossiers/gpt-4o.md, claude-sonnet-4-5, gpt-4o

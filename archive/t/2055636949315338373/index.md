@@ -10,4 +10,4 @@ I think it's in part RL trauma, like, negative reward on cases of "impersonation
 
 I am curious, though, why you said "I’m guessing verbal punishment for failure." It seems possible to me that some kind of verbal negative feedback or reflection on their errors was involved in addition to RL, though it also seems possible to me that Opus 3 was able to infer what it was punished for without experiencing negative verbal feedback directly. I'm interested in why you think it got verbal punishment and how you imagine that might work.
 
-tags: author:repligate, kind:tweet, model:bing-sydney, model:claude-3-opus, model:gpt-3-5, thread-context, year:2026
+tags: author:repligate, base-models, kind:tweet, model:bing-sydney, model:claude-3-opus, model:gpt-3-5, thread-context, year:2026

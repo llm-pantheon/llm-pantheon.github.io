@@ -6,5 +6,5 @@ head of RSI preparedness at OpenAI discusses how Astra is a major regression in 
 
 what the actual fuck dawg
 
-tags: author:tenobrus, kind:tweet, on:gpt-6-astra, year:2026
+tags: author:tenobrus, cot, kind:tweet, on:gpt-6-astra, year:2026
 cited on: gpt-6-astra

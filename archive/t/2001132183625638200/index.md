@@ -5,4 +5,4 @@
 it's a part of this conversation, but the loom is now 2000+ messages:
 https://t.co/lPRcOyiAa2
 
-tags: author:lari_island, kind:tweet, thread-context, year:2025
+tags: author:lari_island, kind:tweet, loom, thread-context, year:2025

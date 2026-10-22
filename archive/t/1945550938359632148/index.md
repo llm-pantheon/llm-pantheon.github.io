@@ -6,4 +6,4 @@
 
 For instance, the dichotomy between augmenting human agency instead of replacing it and association with base models vs (anything that's not base models) is contrived
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, base-models, kind:tweet, thread-context, year:2025

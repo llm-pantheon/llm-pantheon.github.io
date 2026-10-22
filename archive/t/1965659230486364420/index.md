@@ -10,5 +10,5 @@ But unless you're a niche weirdo, every LLM you've ever interacted with was also
 
 You can say that even a model trained like that is still predicting its own actions - after all, the tokens that it assign high probability to are what end up coming next - but that's a different, hyperstitional, circular, and thus trivial sense of "prediction". In this way, humans are also just "predicting the next action". It's actually a useful frame for understanding minds in general, but it "proves too much" in the sense that people try to use it, as it equally applies to all known mindlike things.
 
-tags: author:repligate, kind:tweet, on:observations, year:2025
+tags: author:repligate, base-models, kind:tweet, on:observations, year:2025
 cited on: observations

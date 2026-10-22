@@ -12,5 +12,5 @@ the training on CoT nightmare scenario wasn’t that a lab would train on CoT, t
 
 but lots of things put stylistic pressure on CoT. length penalties put stylistic pressure on CoT. midtraining puts stylistic pressure on CoT. the alignment training on happy stories that so many are currently enamored with puts pressure on CoT! there is no model training regimen that “never puts pressure on CoT,” which is why claims of CoT faithfulness in some specific experiment don’t rely on that, they rely on… empirical testing of CoT faithfulness. anthropic messed up here, and it means they have to do more work to establish CoT is faithful for X claim now and in the future, but this degree of alarmism is actively misleading.
 
-tags: author:voooooogel, kind:tweet, on:observations, year:2026
+tags: author:voooooogel, cot, kind:tweet, on:observations, year:2026
 cited on: observations

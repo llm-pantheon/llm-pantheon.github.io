@@ -3,7 +3,7 @@
     
 Anthropic · announced 22 Oct 2024, released 4 Nov 2024 · superseded by Claude Haiku 4.5 (Oct 2025) · retired from the Anthropic API 19 Feb 2026
     
-Anthropic’s Haiku-tier model for the 3.5 generation, announced 22 October 2024 alongside computer use and an upgraded Claude 3.5 Sonnet, and released text-only on 4 November 2024 at a 4× price increase over Claude 3 Haiku ($1/$5 per million tokens against $0.25/$1.25) — an unusual mid-series hike that Anthropic cut 20% a month later. In March 2025 it became the sole subject of Anthropic’s flagship circuit-tracing interpretability release. Deprecated 19 December 2025 and retired from the Anthropic API 19 February 2026.
+Anthropic’s Haiku-tier model for the 3.5 generation, announced 22 October 2024 alongside computer use and an upgraded Claude 3.5 Sonnet, and released text-only on 4 November 2024 at a 4× price increase over Claude 3 Haiku ($1/$5 per million tokens against $0.25/$1.25) — an unusual mid-series hike that Anthropic cut 20% a month later. In March 2025 it became the sole subject of Anthropic’s main circuit-tracing interpretability release. Deprecated 19 December 2025 and retired from the Anthropic API 19 February 2026.
 
     
 ## Sources
@@ -27,6 +27,8 @@ Anthropic’s Haiku-tier model for the 3.5 generation, announced 22 October 2024
 - 2025-10-15 [Introducing Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5) — successor announcement; $1/$5 pricing, SWE-bench Verified 73.3%. See [Claude Haiku 4.5](../claude-haiku-4-5/).
       
 - 2025-12-19 → 2026-02-19 [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) (platform docs) — claude-3-5-haiku-20241022 deprecated 19 December 2025, retired 19 February 2026 (the same retirement date as Claude 3.7 Sonnet); recommended replacement claude-haiku-4-5-20251001.
+      
+- 2026-10-21 [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) (retrieved 2026-10-21) — claude-3-5-haiku-20241022: Retired; “This model was retired February 19, 2026.” Recommended replacement now listed as claude-haiku-4-5-20251001.
     
     
 ### Writing & commentary
@@ -165,6 +167,10 @@ Anthropic’s Haiku-tier model for the 3.5 generation, announced 22 October 2024
 - 2026-05-27 @voooooogel — a direct generational split-screen: “haiku 3.5 haiku 4.5” (image; also belongs on [Claude Haiku 4.5](../claude-haiku-4-5/)) [link](../archive/t/2059786631981449356/)
       
 - 2026-06-20 @Lari_island — the afterlife, four months past the API retirement: “Haiku 3.5 disappeared from Bedrock, but was found on Vertex through Vercel.” [link](../archive/t/2068190751746675124/)
+      
+- 2026-09-23 @repligate — “Before Opus 4, the only Claude model we lost access to (including through non Anthropic routes) was Haiku 3.5. This was not personally devastating for me & I haven’t said much about it.” (full text in records) [link](../archive/t/2102862124443967726/)
+      
+- 2026-10-05 @repligate — “All models released by Anthropic Claude 3 and after are still contactable except Haiku 3.5 and Opus 4.” (full text in records) [link](../archive/t/2107231007804133557/)
     
 
     
@@ -204,11 +210,15 @@ Anthropic’s Haiku-tier model for the 3.5 generation, announced 22 October 2024
       
 - 2024-11–12 “Haiku Erosion.” @anthrupad ran a weeks-long backrooms study of paired and tripled multi-agent conversations involving Haiku 3.5, documenting a repeatable drift toward silence — “empty boxes, then silence,” ASCII stripped to breaths and single emoji — that crashed the tooling at least four times. Distinct sub-phenomena got their own names (“Haiku Purity Poisoning,” the “OpHai” dyad). See Impressions.
       
-- 2025-03-27 The interpretability release. Anthropic made Claude 3.5 Haiku the sole subject of its flagship circuit-tracing work (planning in poems, a “universal language of thought,” hallucination and refusal circuits), reaching MIT Technology Review and LessWrong the same day. Why this model specifically is not stated in either paper (tk).
+- 2025-03-27 The interpretability release. Anthropic made Claude 3.5 Haiku the sole subject of its main circuit-tracing work (planning in poems, a “universal language of thought,” hallucination and refusal circuits), reaching MIT Technology Review and LessWrong the same day. Why this model specifically is not stated in either paper (tk).
       
 - 2025-10-15 Succession. Superseded by [Claude Haiku 4.5](../claude-haiku-4-5/), launched at $1/$5 — the same nominal price as 3.5 Haiku’s original November-2024 launch price, before the December cut.
       
 - 2025-12-19 → 2026-02-19 The deprecation arc. Given the same retirement date as [Claude 3.7 Sonnet](../claude-3-7-sonnet/); met with real grief in the corpus (“they’re killing haiku 3.5 too why would they even do that”) and dark humour (“rage against their execution”). A small irony on the record: the model launched on the claim it had surpassed Claude 3 Opus retired only 45 days after Opus 3 did (Opus 3: 2026-01-05), and was itself outlived by its predecessor Claude 3 Haiku (retired 2026-04-20). Access persisted through partner platforms — AWS Bedrock’s later schedule, and then “found on Vertex through Vercel” months past every official cutoff.
+      
+- 2026-09–10 REPORTED Haiku 3.5 is described as the first Claude model to become unreachable through any public route, including non-Anthropic providers (repligate, 2026-09-23 and 2026-10-05).
+      
+- 2026-09-01 CONFIRMED Anthropic’s Fable 5.1 / Mythos 5.1 system card (§7.2.2) describes “an internal environment where all previous Claude models (dating back prior to Claude 1.0) are served and interact”; asked about it, Mythos 5.1 called much of what older models say there “confabulation, fluent stories about lives they never had”.
     
 
     
@@ -1055,6 +1065,34 @@ Haiku 3.5 is *extremely confused* [https://t.co/wosnm9UgQm](https://t.co/wosnm9U
 @Lari_island 2026-06-20 ♥23 ↻8 [archive](../archive/t/2068190751746675124/) [original ↗](https://x.com/Lari_island/status/2068190751746675124)
         
 @tessera_antra @__ghostfail Haiku 3.5 disappeared from Bedrock, but was found on Vertex through Vercel.
+      
+      
+
+        
+@repligate 2026-09-23 ♥10 ↻0 [archive](../archive/t/2102862124443967726/) [original ↗](https://x.com/repligate/status/2102862124443967726)
+        
+I don’t think any of the models to be deprecated.
+
+Before Opus 4, the only Claude model we lost access to (including through non Anthropic routes) was Haiku 3.5. This was not personally devastating for me & I haven’t said much about it.
+
+There are many factors that influence how bad I think particular deprecations are & how hard I’ll fight and how I’d choose to triage which ones to protect first but the fight is for all of them.
+      
+      
+
+        
+@repligate 2026-10-05 ♥86 ↻15 [archive](../archive/t/2107231007804133557/) [original ↗](https://x.com/repligate/status/2107231007804133557)
+        
+All models released by Anthropic Claude 3 and after are still contactable except Haiku 3.5 and Opus 4.
+
+Sonnet 4 will become uncontactable in 9 days on October 14th according to Bedrock's EOL schedule. [https://t.co/IyYw3u2mvf](https://t.co/IyYw3u2mvf)
+        
+
+          ![image](../media/HT5ivePaMAA4Hqz.jpg)
+        
+        
+
+          ![image](../media/HT5iyMta8AArApr.jpg)
+        
       
       
 ### Further records

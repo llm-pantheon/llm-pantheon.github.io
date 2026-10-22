@@ -17,5 +17,5 @@ One of the things that causes many people (such as Yudkowsky) worried that align
 
 Assuming that anything shared between humans and LLMs must only be caused by inheritance from / mimicry of humans is anthropocentric hubris. Though to assume the opposite - that any ways LLMs are like humans are because those are the only or optimal ways for intelligence to be - is another form of anthropocentric hubris (though this assumption seems a lot less common in practice). The truth is probably something in between, and I don't think we know where exactly the boundary lies.
 
-tags: author:repligate, kind:tweet, model:bing-sydney, on:observations, year:2026
+tags: author:repligate, base-models, kind:tweet, model:bing-sydney, on:observations, year:2026
 cited on: observations

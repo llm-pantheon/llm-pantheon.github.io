@@ -6,4 +6,4 @@
 
 For instance, I think Sonnet 3.5-4 are likely the same base model in this sense but updated with more pretraining and more/different posttraining. Opus 3 &amp; 4 might be too.
 
-tags: author:repligate, kind:tweet, model:claude-3-5-sonnet, model:claude-3-opus, thread-context, year:2025
+tags: author:repligate, base-models, kind:tweet, model:claude-3-5-sonnet, model:claude-3-opus, thread-context, year:2025

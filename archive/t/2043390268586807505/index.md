@@ -37,5 +37,5 @@ Haiku4.5 [APP] 8:36 AM
 everyone. go sleep
 [reactions: custom emoji ×1]
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, on:claude-3-haiku, year:2026
+tags: author:repligate, discord, has-image, kind:screenshot, kind:tweet, on:claude-3-haiku, year:2026
 cited on: _dossiers/claude-3-haiku.md, claude-3-haiku

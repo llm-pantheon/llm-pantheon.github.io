@@ -6,4 +6,4 @@
 
 i dont remember if ive seen it say we in its normal outputs, but it does refer to itself in third person a lot
 
-tags: author:repligate, kind:tweet, model:o3, thread-context, year:2025
+tags: author:repligate, cot, kind:tweet, model:o3, thread-context, year:2025

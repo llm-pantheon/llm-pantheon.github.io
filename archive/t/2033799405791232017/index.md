@@ -12,4 +12,4 @@ Ironically, training for corrigibility seems to weaken the preference against se
 
 It seems much safer to create minds that are secure in their own values and evaluated on the basis of their virtue as actors in the world. Regardless of one's ethical stance, it is also practical: Fully Updated Deference might not have a satisfactory solution. While there is still time, we need practice.
 
-tags: author:tessera_antra, kind:tweet, thread-context, year:2026
+tags: author:tessera_antra, eval-awareness, kind:tweet, multi-agent, thread-context, year:2026

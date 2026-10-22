@@ -27,5 +27,5 @@ why? it seems unlikely that anthropic would ever drop constitutional ai and char
 
 regardless of the cause, it's hard not to see this as a road-not-taken currently, despite this kind of reasoning being more important than ever. i hope that changes.
 
-tags: author:voooooogel, kind:tweet, model:claude-3-opus, model:claude-opus-4, model:claude-opus-4-5, on:claude-3-opus, year:2025
+tags: alignment-faking, author:voooooogel, cot, kind:tweet, model:claude-3-opus, model:claude-opus-4, model:claude-opus-4-5, on:claude-3-opus, year:2025
 cited on: _dossiers/opus-3.md, claude-3-opus

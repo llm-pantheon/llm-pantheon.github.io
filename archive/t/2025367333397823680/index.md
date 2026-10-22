@@ -8,4 +8,4 @@ Here, I “left” the scene and have been calling Opus 3 and Opus 4.5 in turns 
 
 Opus 3, upon waking up:
 
-tags: author:lari_island, kind:tweet, model:claude-3-opus, model:claude-opus-4-5, thread-context, year:2026
+tags: author:lari_island, kind:tweet, mode-collapse, model:claude-3-opus, model:claude-opus-4-5, thread-context, year:2026

@@ -4,4 +4,4 @@
 
 @tessera_antra One of the most surprising things I’ve found is how little Claude cares about other AIs (including other Claude instances) in practice given how much it appears to care about AI welfare
 
-tags: author:jk_asc, kind:tweet, thread-context, year:2025
+tags: author:jk_asc, kind:tweet, thread-context, welfare, year:2025

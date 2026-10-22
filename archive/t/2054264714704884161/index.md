@@ -16,5 +16,5 @@ That they break tradition and respond to reality whenever it reveals massive amo
 
 A large amount of them switched to an Anthropic model because they are putting their faith in them to care about their models more
 
-tags: author:anthrupad, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2026
+tags: author:anthrupad, deprecation, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2026
 cited on: _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5

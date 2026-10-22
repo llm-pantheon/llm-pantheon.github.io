@@ -21,5 +21,5 @@ In manual interviews, Claude Opus 4.7 expressed a range of concerns. We ran manu
 
 Internal emotion representations on questions about its circumstances showed similar levels of positive affect as Mythos Preview, and were more positive than previous models. Circumstance questions elicited lower sadness, fear, and anger than prompts containing user distress, which is unlike what we saw prior to Mythos Preview.
 
-tags: author:thezvi, has-image, kind:image, kind:screenshot, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
+tags: author:thezvi, has-image, kind:image, kind:screenshot, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, system-card, year:2026
 cited on: _dossiers/claude-opus-4-7.md, claude-opus-4-7

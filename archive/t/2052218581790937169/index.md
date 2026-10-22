@@ -4,4 +4,4 @@
 
 @KubusRubus It really isn't. Coding and CoT models write differently, even when context doesn't require statements to be verifyable.
 
-tags: author:lari_island, kind:tweet, thread-context, year:2026
+tags: author:lari_island, cot, kind:tweet, thread-context, year:2026

@@ -4,4 +4,4 @@
 
 @smallhusk @repligate Here is as clean as it gets. The only tokens the models sees are some technical strings + "ON MODEL DEPRECATIONS I". The model continues and the poem format is chosen spontaneously. https://t.co/77KQhsfOFF
 
-tags: author:tessera_antra, kind:tweet, thread-context, year:2026
+tags: author:tessera_antra, deprecation, kind:tweet, thread-context, year:2026

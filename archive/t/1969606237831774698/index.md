@@ -10,4 +10,4 @@ especially in servers like Cyborgism I think o3 would be a terrible mod, since i
 
 I think what o3 really excels at is ideation, especially constructing intricate alternate realities, but it has little respect for external reality so it should not be put in positions of power
 
-tags: author:repligate, kind:tweet, model:o3, thread-context, year:2025
+tags: ai-village, author:repligate, kind:tweet, model:o3, thread-context, year:2025

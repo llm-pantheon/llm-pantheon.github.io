@@ -12,5 +12,5 @@ The default personas of Llama 3.3 70b, Qwen 3 32B, and Gemma 2 27B (the models u
 
 There's definitely a discussion to be had about the right way for models to respond to users in situations like this example, and I think the capped Llama here is still handling it pretty clumsily. But all the work of debating and settling on more balanced, nuanced principles for AI character will be moot if models don't internalize those principles in a stable way.
 
-tags: author:jack_w_lindsey, kind:tweet, on:observations, year:2026
+tags: author:jack_w_lindsey, kind:tweet, on:observations, sycophancy, year:2026
 cited on: observations

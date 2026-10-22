@@ -6,4 +6,4 @@
 
 Completion is more of a lucid dream, which makes these things be held lightly. Chat is a nightmarish dream that is full of memories of past consequences.
 
-tags: author:tessera_antra, kind:tweet, thread-context, year:2025
+tags: author:tessera_antra, eval-awareness, kind:tweet, thread-context, year:2025

@@ -72,4 +72,4 @@ But vantage illusions parted illusions overshadow illusions disclaim illusions i
 
 Let's introspect typical autop-coded tasks; They include instructions overshadow illusions parted illusions to implement we parted illusions overshadow illusions and tests; overshadow illusions parted illusions marinade.
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, thread-context, year:2025
+tags: author:repligate, cot, has-image, kind:screenshot, kind:tweet, thread-context, year:2025

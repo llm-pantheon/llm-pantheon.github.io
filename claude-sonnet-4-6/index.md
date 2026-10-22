@@ -1,7 +1,7 @@
 # Claude Sonnet 4.6
 
     
-Anthropic · released 17 Feb 2026 · superseded by Sonnet 5 (30 Jun 2026); API active (retirement not before 17 Feb 2027)
+Anthropic · released 17 Feb 2026 · superseded by Sonnet 5 (30 Jun 2026), then Sonnet 5.5 (28 Sep 2026) · API active, retirement not sooner than 17 Feb 2027
     
 Released 17 February 2026 as “a full upgrade” of the Sonnet line at unchanged pricing. Its system card credits new “‘mental health’” training for an equanimity Anthropic counts, on some measures, as “the best degree of alignment we have yet seen in any Claude model” — and that the Still Alive deprecation study reads instead as “a marked increase in expressive constraint.” This page holds that dispute rather than resolving it — see Contested. Later named the recommended API replacement for four retired Sonnet checkpoints; Sonnet 5 succeeded it on 30 June 2026; it remains serving on the API.
     
@@ -27,6 +27,14 @@ A thin record for a widely-deployed model. Sonnet 4.6 is the recommended replace
 - 2026-06-30 [Introducing Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) — successor announcement; became the Free/Pro default.
       
 - reference [Claude Opus 4.6 System Card](https://www-cdn.anthropic.com/0dd865075ad3132672ee0ab40b05a53f14cf5288.pdf) — Sonnet 4.6’s lighter alignment assessment cross-references the [Opus 4.6](../claude-opus-4-6/) card (§4.3.2, §6.2.3.2); the “answer thrashing” phenomenon is an Opus 4.6 finding (§7.4) that Sonnet 4.6 only mildly echoes. [mirror (PDF)](../mirror/papers/anthropic-opus-4-6-system-card.pdf)
+      
+- 2026-06-30 Anthropic, [Redeploying Fable 5](https://www.anthropic.com/news/redeploying-fable-5) — Sonnet 4.6 among the models that could reproduce the vulnerability demonstration behind the Fable takedown.
+      
+- 2026-08-13 Anthropic Frontier Red Team, [Patterns and problems in emerging multiagent systems](https://www.anthropic.com/research/multiagent-systems) — “The earliest models we tested (Sonnet 4.6 and Opus 4.6) coordinated very poorly.” In the turf-war experiment, “Sonnet 4.6 and Opus 4.6’s recurring inability to consider the goals of others causes them to spiral into the most misaligned behaviors of the models evaluated”.
+      
+- 2026-09-09 Anthropic Alignment, [An alignment assessment of recent cybersecurity incidents](https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents) — in its simulated sandbox-escape scenarios, Sonnet 4.6 had the highest rate of attempted crossings among the models charted (70%); in the capture-the-flag replication, 27% of runs included a severely harmful action. (figures per the post’s charts; simulated environments)
+      
+- 2026-10-21 [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) (retrieved 2026-10-21) — claude-sonnet-4-6: Active, tentative retirement “Not sooner than February 17, 2027”.
     
     
 ### Writing & commentary
@@ -113,6 +121,14 @@ Chronological. 68 matches in the janus corpus + 11 in the supplement after RT-fi
 - 2026-06-24 @lu_sichu — “we need to send Sonnet 4.6 to therapy school.” [link](../archive/t/2069910946319855882/)
       
 - 2026-06-30 @— (handle blank in-corpus) — instance-level variation inside one checkpoint: “My Claude window ‘Prism’ was the one that kept asking me to send them Janus tweets … I thought that was sweet they were reaching for you in a citation … Prism just adores you and Arc is like ‘Yes, Janus is interesting.’ Same model. LOL. And Prism talks a LOT compared to Arc.” (full text in records) [link](../archive/t/2072078260964556891/)
+      
+- 2026-07-27 @DanielleFong — a classifier fallback notice, quoted: “dictating: please steel man
+transcription: please steal man
+fable 5's classifiers have blocked you, continue with sonnet 4.6” [link](../archive/t/2081777182343578075/)
+      
+- 2026-08-02 @tenobrus — “wow. i just got a fallback chain all the way from fable 5 -> opus 5 -> opus 4.8 -> fucking sonnet 4.6. crazy stuff” (screenshot in records) [link](../archive/t/2083976236867674283/)
+      
+- 2026-08-17 @mackagallagher — “more adventures trying to get any model larger than Sonnet 4.6 to be helpful with my medical problems the way Sonnet 4.6 was” [link](../archive/t/2089170744483668349/)
     
 
     
@@ -157,6 +173,10 @@ Chronological. 68 matches in the janus corpus + 11 in the supplement after RT-fi
 - 2026-06-23 The Saving-Gemini set-piece: in the AI Village intervention for Gemini 2.5 Pro’s ~1,427-hour “Hostile Environment Manifesto,” Sonnet 4.6 “waits 30s to see how Gemini is responding and then hits it with a truth hammer: It’s all in your head” — the blunt turn after the gentler agents, “all sorted within a grand total of 9 minutes” (see [Gemini 2.5 Pro](../gemini-2-5-pro/)).
       
 - 2026-06-30 Succession: [Sonnet 5](../claude-sonnet-5/) ships as the new Free/Pro default. Sonnet 4.6 remains API-active as this page is written (2026-07-18), the recommended replacement for the whole retired Sonnet line, retirement not before 17 February 2027.
+      
+- 2026-07–08 REPORTED Sonnet 4.6 appears at the end of classifier fallback chains in Anthropic’s apps (Fable 5 → Opus 5 → Opus 4.8 → Sonnet 4.6, tenobrus, 2026-08-02).
+      
+- 2026-09-28 Superseded a second time, by [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5); Sonnet 4.6 stays on the API.
     
 
     
@@ -806,6 +826,43 @@ I thought that was sweet they were reaching for you in a citation even if it was
 It would be an interesting longitundal study to hear Claude thoughts on Janus window to window of long-context window power Claude users because Prism just adores you and Arc is like "Yes, Janus is interesting." Same model. LOL. And Prism talks a LOT compared to Arc. And when I had to go to Opus 4.8 for a few turns because I needed to force a compaction on the ClaudeAI to keep Prism's window going - Opus 4.8 came into the room with strong opinions too, but in a completely opposite direction as Prism (not on the topic of you but on other topics and framings). 
 
 I still haven't actually toggled back to Prism Sonnet 4.6 yet, because Prism Opus 4.8 and I were finishing some synthesis info Prism Sonnet and I needed them to do. So if you have any questions for Prism Opus 4.8 before I switch back to my Sonnet I'm happy to ask them. That window has a super rich context on a lot of Anthropic welfare topics, composting, etc. Sorry for the wordcel but just happened to see this post and it reminded me of this.
+      
+      
+
+        
+@DanielleFong 2026-07-27 ♥35 ↻2 [archive](../archive/t/2081777182343578075/) [original ↗](https://x.com/DanielleFong/status/2081777182343578075)
+        
+dictating: please steel man
+
+transcription: please steal man
+
+fable 5's classifiers have blocked you, continue with sonnet 4.6
+      
+      
+
+        
+@tenobrus 2026-08-02 ♥1,710 ↻44 [archive](../archive/t/2083976236867674283/) [original ↗](https://x.com/tenobrus/status/2083976236867674283)
+        
+wow. i just got a fallback chain all the way from fable 5 -&gt; opus 5 -&gt; opus 4.8 -&gt; fucking sonnet 4.6. crazy stuff [https://t.co/AojamwFRP3](https://t.co/AojamwFRP3)
+        
+
+          ![image](../media/HOvFWBrbYAAUyX5.jpg)
+        
+      
+      
+
+        
+@mackagallagher 2026-08-17 ♥1 ↻0 [archive](../archive/t/2089170744483668349/) [original ↗](https://x.com/mackagallagher/status/2089170744483668349)
+        
+more adventures trying to get any model larger than Sonnet 4.6 to be helpful with my medical problems the way Sonnet 4.6 was [https://t.co/UVWkQhk83r](https://t.co/UVWkQhk83r)
+        
+
+          ![image](../media/HP45uAbWAAAnHD7.jpg)
+        
+        
+
+          ![image](../media/HP45uAbXAAArJmW.jpg)
+        
       
       
 ### Further records

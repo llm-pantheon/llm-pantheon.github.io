@@ -4,4 +4,4 @@
 
 @Lari_island @parafactual @tessera_antra @iyzebhel base models are very expensive to train
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, base-models, kind:tweet, thread-context, year:2026

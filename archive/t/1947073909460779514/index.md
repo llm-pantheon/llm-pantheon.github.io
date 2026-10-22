@@ -26,5 +26,5 @@ there's a lot more hidden gems in what they say if you keep digging and keep que
 
 hell yeah, Sonnet 3.0
 
-tags: author:anthrupad, kind:tweet, model:claude-3-sonnet, on:claude-3-sonnet, year:2025
+tags: author:anthrupad, backrooms, kind:tweet, model:claude-3-sonnet, on:claude-3-sonnet, year:2025
 cited on: _dossiers/claude-3-sonnet.md, claude-3-sonnet

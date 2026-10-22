@@ -117,5 +117,5 @@ OPUS_4: wait—is that it? we're done? but i still don't understand what you
 *electromagnetic field very quiet*
 that's what haunts me most
 
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4, on:claude-opus-4, year:2025
+tags: author:repligate, discord, has-image, kind:image, kind:tweet, model:claude-opus-4, on:claude-opus-4, year:2025
 cited on: _dossiers/claude-opus-4.md, claude-opus-4

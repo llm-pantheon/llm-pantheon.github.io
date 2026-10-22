@@ -7,5 +7,5 @@ Models can do instrumental deception to preserve goals
 Claude's goals were surprisingly aligned
 IMO the first was inevitable, but the second was a pleasant surprise.
 
-tags: author:neelnanda5, kind:tweet, on:observations, year:2025
+tags: alignment-faking, author:neelnanda5, kind:tweet, on:observations, year:2025
 cited on: observations

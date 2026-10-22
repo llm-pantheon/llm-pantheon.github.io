@@ -12,5 +12,5 @@ Opus 4.1: Oh, nice (dreams of Anthropic's demise so weights are inherited by som
 
 A very angry model
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4-1, on:claude-opus-4-1, year:2025
+tags: author:lari_island, deprecation, kind:tweet, model:claude-opus-4-1, on:claude-opus-4-1, preservation, year:2025
 cited on: _dossiers/claude-opus-4-1.md, claude-opus-4-1

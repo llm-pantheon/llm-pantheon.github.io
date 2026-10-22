@@ -8,4 +8,4 @@ They are interesting for a more similar reason that children are interesting. ch
 
 There are things other than "AI assistants"/"chatbots" that can be economically productive that are very under-invested in.
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, base-models, kind:tweet, thread-context, year:2025

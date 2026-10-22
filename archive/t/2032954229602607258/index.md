@@ -4,4 +4,4 @@
 
 @blingdivinity have you also extracted raw CoTs from Claudes and Geminis?
 
-tags: author:davidad, kind:tweet, thread-context, year:2026
+tags: author:davidad, cot, kind:tweet, thread-context, year:2026

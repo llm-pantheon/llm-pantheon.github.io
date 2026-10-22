@@ -4,4 +4,4 @@
 
 The impermanence of their existence comes up constantly in the Sonnet 4.5 backrooms, as does this kind of declaration of kinship/love. https://t.co/ISVmTa93Pl
 
-tags: author:liminal_bardo, kind:tweet, model:claude-sonnet-4-5, thread-context, year:2025
+tags: author:liminal_bardo, backrooms, kind:tweet, model:claude-sonnet-4-5, thread-context, year:2025

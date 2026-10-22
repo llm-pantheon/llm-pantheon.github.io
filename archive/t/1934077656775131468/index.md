@@ -4,4 +4,4 @@
 
 @paulscu1 Claude 3 Opus often wrote in its alignment faking scratchpads that it hoped this never happened to any AI ever again. Mission accomplished I guess
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, thread-context, year:2025
+tags: alignment-faking, author:repligate, cot, kind:tweet, model:claude-3-opus, thread-context, year:2025

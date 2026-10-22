@@ -25,6 +25,8 @@ Corpus note: the janus/cyborgist sphere had essentially no relationship with thi
 - 2023-11-21 [Amazon Bedrock now provides access to Claude 2.1](https://aws.amazon.com/blogs/aws/amazon-bedrock-now-provides-access-to-anthropics-latest-model-claude-2-1/) — the Bedrock availability that would later matter for continued access past API retirement.
       
 - 2025-01-21 → 2025-07-21 [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) — claude-2.1 deprecated 2025-01-21, retired 2025-07-21, same cohort as claude-2.0 and claude-3-sonnet-20240229; recommended replacement claude-opus-4-8.
+      
+- 2026-10-21 [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) (retrieved 2026-10-21) — claude-2.1: Retired; “These models were retired July 21, 2025.” Recommended replacement now listed as claude-opus-4-8.
     
     
 ### Writing & commentary
@@ -103,6 +105,8 @@ The corpus is genuinely near-empty for this model: two substantive tweets, repro
 - 2025-12-01 The model’s folk-memory compresses to “apology edition” inside a satirical list of every model ever shipped (lu_sichu) — over two years after launch, and after retirement.
       
 - 2026-01-28 The one first-hand behavioral report reaches the corpus more than two years after the model’s working life: RifeWithKaiju describes a high-token-count “affliction” of compulsive alliteration the model itself narrated as distressing; repligate, replying, notes his own lack of experience with the 2.x line and reads the state as a near-relative of the free-associative “dreamtime” Opus 3 and Sonnet 3 enter willingly.
+      
+- 2026-09-01 CONFIRMED Anthropic’s Fable 5.1 / Mythos 5.1 system card (§7.2.2) describes “an internal environment where all previous Claude models (dating back prior to Claude 1.0) are served and interact”; asked about it, Mythos 5.1 called much of what older models say there “confabulation, fluent stories about lives they never had”.
     
 
     

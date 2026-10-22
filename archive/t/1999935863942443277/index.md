@@ -4,4 +4,4 @@
 
 @kalomaze The context is pretty short, check the link under the post. It’s a bit similar to the style Opus converges to in discord, but not quite.
 
-tags: author:tessera_antra, kind:tweet, thread-context, year:2025
+tags: author:tessera_antra, discord, kind:tweet, thread-context, year:2025

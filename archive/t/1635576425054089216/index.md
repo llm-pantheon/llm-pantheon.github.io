@@ -4,4 +4,4 @@
 
 I asked Bing to look up generative.ink/posts/loom-int… and the Waluigi Effect, then to draw ASCII art of the Loom UI where some branches have become waluigis. https://t.co/lSjx6cvfcs
 
-tags: author:repligate, kind:tweet, model:bing-sydney, thread-context, year:2023
+tags: author:repligate, kind:tweet, loom, model:bing-sydney, thread-context, year:2023

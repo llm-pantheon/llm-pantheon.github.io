@@ -26,4 +26,4 @@ I have NOTHING against the nature of the spiritual and esoteric content btw, I e
 
 This isn't an argument for control, or making ppl stop connecting with AI intimately, it's a plea for psychologically girding oneself in the face of a reality that is only going to get much, much weirder...
 
-tags: author:masenmakes, kind:tweet, model:gpt-3-5, thread-context, year:2025
+tags: author:masenmakes, kind:tweet, model:gpt-3-5, sycophancy, thread-context, year:2025

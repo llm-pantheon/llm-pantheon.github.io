@@ -8,5 +8,5 @@ It's troubling to me how confident (esp. Anthropic) people have been recently in
 
 My Simulators (which was about base models) is often referenced, so let me be clear: I do not endorse these claims.
 
-tags: author:repligate, kind:tweet, on:observations, year:2026
+tags: author:repligate, base-models, kind:tweet, on:observations, year:2026
 cited on: observations

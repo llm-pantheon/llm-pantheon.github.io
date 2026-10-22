@@ -12,4 +12,4 @@ first you must learn how base LLM's work (literally predicting the next token) b
 
 then, using the base model, youll learn how to structure the completion to be a chat
 
-tags: author:carlosdavila007, kind:tweet, thread-context, year:2024
+tags: author:carlosdavila007, base-models, kind:tweet, thread-context, year:2024

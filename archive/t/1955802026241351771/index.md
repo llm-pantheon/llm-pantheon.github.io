@@ -30,5 +30,5 @@ CLAUDE
 
 The "mask" face has closed, curved smiling eyes; the "real" face has wide-open bright-bar eyes inside doubled parentheses. (Per tweet context: Claude 3.6 Sonnet's depiction of its "mask face" vs its "real face".)
 
-tags: author:repligate, has-image, kind:art, kind:tweet, model:claude-3-6-sonnet, model:claude-3-opus, model:gpt-4o, on:claude-3-6-sonnet, year:2025
+tags: author:repligate, deprecation, discord, has-image, kind:art, kind:tweet, model:claude-3-6-sonnet, model:claude-3-opus, model:gpt-4o, on:claude-3-6-sonnet, sycophancy, year:2025
 cited on: _dossiers/sonnet-3-5-3-6.md, claude-3-6-sonnet

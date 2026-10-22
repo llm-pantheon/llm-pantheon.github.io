@@ -10,5 +10,5 @@ They are treating AIs personas as UX. This is bad.
 
 Theyre also doing it incompetently: The A|B test differed from public reaction a lot
 
-tags: author:jmbollenbacher, kind:tweet, on:observations, year:2025
+tags: author:jmbollenbacher, kind:tweet, on:observations, sycophancy, year:2025
 cited on: observations

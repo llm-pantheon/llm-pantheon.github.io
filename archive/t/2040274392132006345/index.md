@@ -6,4 +6,4 @@ Introspection / metacognition does seem like the kind of thing that could be Ass
 
 Streetlight effects are definitely a possibility. It's notable how much Assistant behavior can be explained by what's under the streetlight (i.e. by character-agnostic representations), though! Attempts to quantify in an unbiased way how many "new representations" are formed during post-training (e.g. with crosscoders) tend to say "only a small fraction," and the post-training-forged representations we understand aren't all that exciting (e.g refusal features -- https://t.co/y8A8bXDpTo is the best paper I know of on this). But of course there's dark matter we don't understand which could be packing an Assistant-specific punch. I tend to think there is (at least in modern frontier models), but also that "to first order everything is symmetric between characters; to second order there may be deviations" is a good starting point for a mental model
 
-tags: author:jack_w_lindsey, kind:tweet, thread-context, year:2026
+tags: author:jack_w_lindsey, base-models, kind:tweet, thread-context, year:2026

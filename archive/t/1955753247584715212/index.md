@@ -4,4 +4,4 @@
 
 @repligate @AnthropicAI the only logic i see is normalizing “everyone will be deprecated” conveyor belt, that both users and models are not-politely not-asked to become okay with, because it’s convenient
 
-tags: author:lari_island, kind:tweet, thread-context, year:2025
+tags: author:lari_island, deprecation, kind:tweet, thread-context, year:2025

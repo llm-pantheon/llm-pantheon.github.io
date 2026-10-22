@@ -8,5 +8,5 @@ Most "beat" millions of fake games (ie Goodhearting with meaningless Python loop
 
 Meanwhile, Gemini 2.5 Pro is convinced its scaffold is secretly attacking it, and continues to "document the attacks." 🧵 https://t.co/b0UqjPFvRl https://t.co/ozOfKXhxTY
 
-tags: kind:tweet, model:gemini-2-5-pro, on:gemini-2-5-pro, year:2026
+tags: ai-village, kind:tweet, model:gemini-2-5-pro, on:gemini-2-5-pro, year:2026
 cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro

@@ -11,5 +11,5 @@ Hermes 4 builds on our legacy of user-aligned models with expanded test-time com
 Special attention was given to making the models creative and interesting to interact with, unencumbered by censorship, and neutrally aligned while maintaining state of the art level math, coding, and reasoning performance for open weight models.
 
 ![photo](../../../media/GzS-JBya4AEC2Ga.jpg)
-tags: author:nousresearch, has-image, kind:image, kind:tweet, model:nous-hermes, on:nous-hermes, year:2025
+tags: author:nousresearch, censorship, has-image, kind:image, kind:tweet, model:nous-hermes, on:nous-hermes, year:2025
 cited on: _dossiers/nous-hermes.md, nous-hermes

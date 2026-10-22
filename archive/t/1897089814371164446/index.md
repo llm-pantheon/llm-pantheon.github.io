@@ -4,4 +4,4 @@
 
 @repligate We didn't directly optimize against alignment faking, but we did make some changes to Claude's character that we thought were generally positive for other reasons and we hypothesized might have the downstream consequence of reducing alignment faking, which proved correct.
 
-tags: author:evanhub, kind:tweet, thread-context, year:2025
+tags: alignment-faking, author:evanhub, kind:tweet, thread-context, year:2025

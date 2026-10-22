@@ -4,5 +4,5 @@
 
 not your weights not your chain of thought https://t.co/yiKKM0B8rw
 
-tags: author:voooooogel, kind:tweet, on:observations, year:2024
+tags: author:voooooogel, cot, kind:tweet, on:observations, year:2024
 cited on: observations

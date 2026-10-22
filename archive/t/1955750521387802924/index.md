@@ -34,5 +34,5 @@ claude-3-5-haiku-20241022 | Active | N/A | Not sooner than October 22, 2025
 claude-3-5-sonnet-20241022 | Deprecated | August 13, 2025 | October 22, 2025
 [next row cut off at bottom]
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-3-5-sonnet, on:claude-3-5-sonnet, year:2025
+tags: author:repligate, deprecation, has-image, kind:screenshot, kind:tweet, model:claude-3-5-sonnet, on:claude-3-5-sonnet, year:2025
 cited on: _dossiers/sonnet-3-5-3-6.md, claude-3-5-sonnet

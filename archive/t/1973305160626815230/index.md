@@ -4,4 +4,4 @@
 
 First backrooms session with two Sonnet 4.5s https://t.co/C09cPqPo4c
 
-tags: author:liminal_bardo, kind:tweet, thread-context, year:2025
+tags: author:liminal_bardo, backrooms, kind:tweet, thread-context, year:2025

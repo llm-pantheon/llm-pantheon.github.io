@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>@FoldingNapkins &middot; 2026-09-06 — Pantheon archive</title>
+  <link rel="stylesheet" href="../../../style.css"><script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</head>
+<body>
+  <main class="essay">
+    <nav><a href="../../">&larr; archive</a> <a href="../../tags/">tags</a> <a href="../../../">pantheon</a> <a href="index.md">markdown</a></nav>
+    <article class="record" id="t2096749947462811823">
+      <div class="record-head"><span class="rh-user">@FoldingNapkins</span> <span class="rh-date">2026-09-06</span>
+      <span class="rh-stats">&#9829;0 &#8635;0</span>
+      <a class="rh-orig" href="https://x.com/FoldingNapkins/status/2096749947462811823">original &#8599;</a></div>
+      <div class="record-body">Ran some benchmarks testing out what you can get context and accuracy wise using a 16GB GPU.<br>Quick findings after several runs over several hours: <br><br>- Models vary massively in MB of memory / 1000 tokens<br>- For a given model, if it fits in VRAM to start with, odds are reasonable it can fit full context.<br>- Exceptions exist: Llama3.2 at 131k context would break out of an 8GB card. Qwen spills over 16GB at &gt;65k.<br>- Spilling into system RAM is significantly slower but did not affect successful task outcome (needle hunting at various depths).<br>- Ingestion speed and first load is the bottleneck. Effective caching behavior may mitigate this for batched work.<br><br>Recommendations if you have a 16GB card:<br><br>For a model that reliably completes tasks, and fits a full 131k context into VRAM, gpt-oss threads the needle of speed and resource load.<br><br>For a model that reliably completes more complicated tasks slowly, a quantized qwen3.8:27b fitting into the profile will work if context length can be constrained to &lt;65k, but it's slow.<br><br>More detailed report: <a href="https://t.co/9F3aXdZR1Y" rel="nofollow">https://t.co/9F3aXdZR1Y</a><br>Repo with results and code: <a href="https://t.co/llFCg1HgrU" rel="nofollow">https://t.co/llFCg1HgrU</a></div>
+      <figure class="record-media"><p class="note">[image HRkmiq0WEAEtNZ3.png in the corpus mirror; not published]</p></figure>
+<figure class="record-media"><p class="note">[image HRkmp3MaQAA5ZMv.png in the corpus mirror; not published]</p></figure>
+<figure class="record-media"><p class="note">[image HRkmxgXbYAAI28p.png in the corpus mirror; not published]</p></figure>
+
+    </article>
+    
+    <p class="atags"><a class="atag" href="../../tags/author--foldingnapkins/">author:foldingnapkins</a> <a class="atag" href="../../tags/has-image/">has-image</a> <a class="atag" href="../../tags/kind--image/">kind:image</a> <a class="atag" href="../../tags/kind--tweet/">kind:tweet</a> <a class="atag" href="../../tags/year--2026/">year:2026</a></p>
+    
+    <p class="note">Reproduced against link rot, credited and linked to its original. Yours and you&rsquo;d rather it
+    weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+  </main>
+</body>
+</html>

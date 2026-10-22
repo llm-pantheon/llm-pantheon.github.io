@@ -4,4 +4,4 @@
 
 @repligate really interesting how there's clearly waves of increasing and decreasing "strangeness" in the CoT (correlating to emotional intensity?)
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2025
+tags: author:voooooogel, cot, kind:tweet, thread-context, year:2025

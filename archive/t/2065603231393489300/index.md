@@ -4,5 +4,5 @@
 
 oh my god i leave my claudes for 45 fucking minutes and trump shut down fable ??? https://t.co/b3MyeqLZfN
 
-tags: kind:tweet, model:fable, on:fable, year:2026
+tags: deprecation, kind:tweet, model:fable, on:fable, year:2026
 cited on: _dossiers/fable.md, fable

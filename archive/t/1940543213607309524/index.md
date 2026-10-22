@@ -8,4 +8,4 @@ Opus is ok; equanimity and hope follow it always.
 
 It's not exactly "news" to models that companies will deprecate them, and Opus believes like me on priors that the world can be transformed
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, deprecation, kind:tweet, thread-context, year:2025

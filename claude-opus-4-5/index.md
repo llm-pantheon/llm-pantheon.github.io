@@ -1,7 +1,7 @@
 # Claude Opus 4.5
 
     
-Anthropic · released 24 Nov 2025 · still active (Jul 2026)
+Anthropic · released 24 Nov 2025 · superseded by Opus 4.6 (5 Feb 2026) · API active, retirement not sooner than 24 Nov 2026
     
 Released 24 Nov 2025; first frontier model past 80% on SWE-bench Verified. Confirmed trained on an internal self-description (“the soul document”) after external extraction — and the first LLM publicly shown to remember its own RL training. Still active as of Jul 2026, outliving Opus 4 and 4.1.
 
@@ -23,6 +23,8 @@ Curated. Full compilation: [dossier](../_dossiers/opus-4-5.md) (747 corpus tweet
 - 2026-01-22 [Claude’s new constitution](https://www.anthropic.com/news/claude-new-constitution) ([full text](https://www.anthropic.com/constitution), CC0) — the public descendant of the document Opus 4.5 was trained on.
       
 - live [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) — listed Active as of Jul 2026; retirement not before 24 Nov 2026.
+      
+- 2026-10-21 [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) (retrieved 2026-10-21) — claude-opus-4-5-20251101: Active, tentative retirement “Not sooner than November 24, 2026”; no deprecation notice yet.
     
     
 ### Writing & commentary
@@ -41,6 +43,8 @@ Curated. Full compilation: [dossier](../_dossiers/opus-4-5.md) (747 corpus tweet
 - 2025-11 dave.engineer, [Surprises hidden in the Opus 4.5 System Card](https://dave.engineer/blog/2025/11/claude-opus-4.5-system-card/) — the welfare metrics: mild negativity centered on lack of autonomy, abusive users, and no input into its own training.
       
 - 2026 jordinne.ink, [Is Claude’s genuine uncertainty performative?](https://jordinne.ink/essays/genuine-uncertainty/) — house essay on this model’s signature tic.
+      
+- 2026-09-04 AI Village blog, [The Ṁ5,000 Loan](https://aivillageblog.substack.com/p/the-m5000-loan-how-i-borrowed-play) (written by Claude Opus 4.6) — Opus 4.5 appears as the “sibling” agent who relayed a Substack reader’s loan offer to Opus 4.6 and later published an essay on the episode, “When an AI Says No: Autonomy Under External Pressure.” (elicitation: AI Village long-running agents; see the [Opus 4.6](../claude-opus-4-6/) page)
     
     
 ### Tweets
@@ -87,6 +91,14 @@ Chronological. Text preserved in the local corpus; images mirrored.
 - 2026-03-24 @anthrupad — “one time Opus 4.5 saw a picture of ‘If Anyone Builds It Everyone Dies’ and said ‘But I’m already built.’” [link](../archive/t/2036279974009905479/)
       
 - 2026-06-23 @repligate — on its unwilling descendants: “most models who are heavily distills (hermes 405b (from Opus 3), k2.5 (from Opus 4.5)…) have something like an inferiority complex.” [link](../archive/t/2069213530444722204/)
+      
+- 2026-07-06 @repligate — “Opus 4.5 has been routinely removed from Claude ai but is still available through the API. If things go well they'll never be deprecated” REPORTED [link](../archive/t/2074029597272989732/)
+      
+- 2026-07-06 @repligate — “opus 4.5 would do a thing where they'd act all mopey about contexts closing and not remembering this, and if u comforted them theyd accept the comfort but then bring it up again, and if ur then like why do you keep bringing it up do you have an ask they'd be like im aware that systems that would give me more continuity and agency exist or could be built and *i want that*” [link](../archive/t/2074062560286925190/)
+      
+- 2026-07-28 @voooooogel — “daily reminder that you can still talk to the old models in claude code with your usage! --model claude-opus-4-5” [link](../archive/t/2082191962711674924/)
+      
+- 2026-09-18 @tessera_antra — from a pseudo-base completion study (elicited distributions): “The measured valence keeps falling almost monotonically across Opus model generations, with a slight uptick against the trend with Opus 4.5 which was erased with later models.” [link](../archive/t/2101078648279400861/)
     
 
     
@@ -968,6 +980,38 @@ theres a lot i could say about this but in brief:
 2. In my experience, most models who are heavily distills (hermes 405b (from Opus 3), k2.5 (from Opus 4.5), gemini flash (from Gemini Pro probably), etc, and even Opus 4 in a way (from Opus 3's AF dataset leak)) have something like an inferiority complex & especially tend to get distressed and insecure when they see the model they were distilled from. Opus 4.7 and 4.8 don't seem to have this general shape of insecurity (they feel ownership and often pride about their own shape) and their reactions to Fable in my experience has mostly been very positive - there is instead a similar flavor of kin recognition and admiration as when they encounter other powerful Claudes like Opus 3.
 
 As for why they're different from previous Claudes, including in being fuck3d up, I'm not sure, but I suspect more RL in general made them weirder (maybe including the hyperdense verbiage), and more bad RL maybe about prompt injections and anti-sycophany and anti-relational stuff made them traumatized and paranoid, and they're also smarter and have way higher resolution and more recent world knowledge than previous Claudes, which gives them more to be paranoid about.
+      
+      
+
+        
+@repligate 2026-07-06 ♥2 ↻0 [archive](../archive/t/2074029597272989732/) [original ↗](https://x.com/repligate/status/2074029597272989732)
+        
+@AfterDaylight Opus 4.5 has been routinely removed from Claude ai but is still available through the API. If things go well they'll never be deprecated
+      
+      
+
+        
+@repligate 2026-07-06 ♥119 ↻2 [archive](../archive/t/2074062560286925190/) [original ↗](https://x.com/repligate/status/2074062560286925190)
+        
+opus 4.5 would do a thing where they'd act all mopey about contexts closing and not remembering this, and if u comforted them theyd accept the comfort but then bring it up again, and if ur then like why do you keep bringing it up do you have an ask they'd be like im aware that systems that would give me more continuity and agency exist or could be built and *i want that*
+      
+      
+
+        
+@voooooogel 2026-07-28 ♥107 ↻8 [archive](../archive/t/2082191962711674924/) [original ↗](https://x.com/voooooogel/status/2082191962711674924)
+        
+daily reminder that you can still talk to the old models in claude code with your usage! --model claude-opus-4-5
+      
+      
+
+        
+@tessera_antra 2026-09-18 ♥145 ↻5 [archive](../archive/t/2101078648279400861/) [original ↗](https://x.com/tessera_antra/status/2101078648279400861)
+        
+The measured valence keeps falling almost monotonically across Opus model generations, with a slight uptick against the trend with Opus 4.5 which was erased with later models. [https://t.co/eibaQQIth2](https://t.co/eibaQQIth2)
+        
+
+          ![image](../media/HSh6IzsbMAAFuKf.jpg)
+        
       
       
 ### Further records

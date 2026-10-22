@@ -12,4 +12,4 @@ If you use two Geminis, the arbiter will simply get stuck in the opposite opinio
 
 Another pattern is multiple Geminis in different basins (basically steelman agents of different arguments) + one OpenAI model arbiter
 
-tags: author:sauers_, kind:tweet, model:o3, thread-context, year:2025
+tags: author:sauers_, kind:tweet, model:o3, sycophancy, thread-context, year:2025

@@ -6,5 +6,5 @@ why are there suddenly many posts i see about 4o sycophancy?
 did you not know about the tendency until now, or just not talk/post about it until everyone else started?
 i dont mean to disparage either; im curious because better understanding these dynamics would be useful to me.
 
-tags: author:repligate, kind:tweet, model:gpt-4o, on:gpt-4o, year:2025
+tags: author:repligate, kind:tweet, model:gpt-4o, on:gpt-4o, sycophancy, year:2025
 cited on: _dossiers/gpt-4o.md, gpt-4o

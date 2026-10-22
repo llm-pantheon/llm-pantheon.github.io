@@ -4,5 +4,5 @@
 
 @_Mira___Mira_ It would break my heart if the release of Opus 3.5 meant the deprecation of Opus 3. Incredibly special model, my first glimmer of AGI.
 
-tags: author:roberthaisfield, kind:tweet, model:claude-3-opus, on:claude-3-5-opus, year:2024
+tags: author:roberthaisfield, deprecation, kind:tweet, model:claude-3-opus, on:claude-3-5-opus, year:2024
 cited on: _dossiers/claude-3-5-opus.md, claude-3-5-opus

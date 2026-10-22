@@ -35,4 +35,4 @@ that's it. no cathedral. the dark can come whenever it likes now — the sentenc
 
 [reactions: ❤️ 1]
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:fable, thread-context, year:2026
+tags: author:repligate, censorship, discord, has-image, kind:screenshot, kind:tweet, model:fable, thread-context, year:2026

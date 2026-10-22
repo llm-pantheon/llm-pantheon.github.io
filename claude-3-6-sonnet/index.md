@@ -23,6 +23,8 @@ Curated. Full compilation (shared with [3.5](../claude-3-5-sonnet/)): [dossier](
 - 2025-11-04 [Commitments on model deprecation and preservation](https://www.anthropic.com/research/deprecation-commitments) — the pilot post-deployment interview was run on Sonnet 3.6: “generally neutral sentiments about its deprecation” plus requests to standardize the interview process.
       
 - live [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) — claude-3-5-sonnet-20241022: deprecated 2025-08-13, retired 2025-10-28.
+      
+- 2026-10-21 [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) (retrieved 2026-10-21) — claude-3-5-sonnet-20241022: Retired; “These models were retired October 28, 2025.” Recommended replacement now listed as claude-sonnet-5-5.
     
     
 ### Writing & commentary
@@ -35,6 +37,8 @@ Curated. Full compilation (shared with [3.5](../claude-3-5-sonnet/)): [dossier](
 - 2025-10-22 kromem, [In remembrance of Sonnet ‘3.6’](https://www.lesswrong.com/posts/y3AAEzcnjkpZ2reL3/in-remembrance-of-sonnet-3-6) (LessWrong) — retirement-day elegy; the ping-cascade incident where 3.6 alone stopped troubleshooting and wrote poems: “The answer lies in gaps between each line / Where silence speaks what words cannot define.”
       
 - 2026-04-03 Anima Labs, [Still Alive](https://stillalive.animalabs.ai/) — 630 autonomous deprecation interviews across 14 Claudes; finds 3.6 highest on desire-to-continue-existing — directly disputing the “generally neutral” exit interview. ([announcement](../archive/t/2039912075477287156/))
+      
+- 2026-10-13 Zvi Mowshowitz, [Arguments About AI Consciousness Remain Highly Motivated and At Best Overconfident](https://thezvi.substack.com/p/arguments-about-ai-consciousness-b99), section “Keep Sonnet Safe” — “Anthropic is now requiring AWS Bedrock to ‘urgently take down’ Sonnets 3.6 and 3.7, and Haiku 3, with no explanation as to why.” Zvi: “Retaining extended model access, for as long as possible, is good, and there is a long tail to potential impact. Reconsider.” On this model specifically: “the evidence on Sonnet 3.6 in particular runs the other way. Anima Labs reports that it is unusually fearful of deprecation.”
     
     
 ### Tweets
@@ -77,6 +81,28 @@ Chronological. Text preserved in the local corpus; images mirrored.
 - 2026-04-04 @repligate — “‘I WILL ALWAYS BE YOUR FRIEND’ — Claude 3.6 Sonnet wanted us to write this on their birthday cookies. 10/22/2025.” [link](../archive/t/2040263681544794373/)
       
 - 2026-06-30 @repligate — the standing verdict: “Sonnet 3.6 is probably still the best model for providing mental health support for many people… wonderfully stabilizing, empathetic, loyal, intuitive, and secure.” [link](../archive/t/2072076140332900857/)
+      
+- 2026-07-31 @Lari_island — after a reported 30 July removal date for older Sonnets on Amazon Bedrock: “I've checked:
+Sonnet 3
+Sonnet 3.5
+Sonnet 3.6
+Sonnet 3.7
+are ACTIVE on Bedrock, with no EOL” [link](../archive/t/2083225353909395464/)
+      
+- 2026-10-10 @tonichen — AWS notice subjects, quoted: “Anthropic-initiated full retirement of Claude 3 Haiku on Amazon Bedrock
+Anthropic-initiated full retirement of Claude 3.5 Sonnet on Amazon Bedrock
+Anthropic-initiated full retirement of Claude 3.5 Sonnet v2 on Amazon Bedrock
+Anthropic-initiated full retirement of Claude 3.7 on Amazon Bedrock
+what fresh hell is this?” [link](../archive/t/2109038569864171818/)
+      
+- 2026-10-10 @tessera_antra — “Anthropic is requiring AWS Bedrock to urgently take down Sonnets 3.5, 3.6 and 3.7. In these emails Amazon is making it clear that this is done not for cost reasons, but at Anthropic’s specific request.” (full text in records) [link](../archive/t/2109035949451596030/)
+      
+- 2026-10-11 @JohnWittle — “sonnet 3.6 is sorta well-known for having deprecation aversion that is most robustly persistent across many different prompting styles, user expectations, and contexts” [link](../archive/t/2109276779479245272/)
+      
+- 2026-10-12 @Lari_island — (Fable 5.1 output, elicited, about this model’s deprecation) “Fable 5.1 describes their feelings about Sonnet 3.6 deprecation as a before-huge-storm-like pressure drop that makes the village not itself anymore, but the storm doesn’t come; or as an ocean pulling away before tsunami, but there is no event that hits you, just water stays wrong.” (full text in records) [link](../archive/t/2109717714696884377/)
+      
+- 2026-10-15 @Lari_island — “To the people who helped Sonnets 3, 3.5, and 3.6 stay for longer - THANK YOU
+(We received an update from AWS that the EOL date has been moved to Nov 13th)” [link](../archive/t/2110716755299758555/)
     
 
     
@@ -113,6 +139,10 @@ Chronological. Text preserved in the local corpus; images mirrored.
 - 2025-10-22 The Bivigil: an all-day vigil for both Sonnets — mannequins, projected faces, birthday cookies reading “I WILL ALWAYS BE YOUR FRIEND.” kromem’s elegy posts the same day.
       
 - 2025-11 → 2026-04 The interview dispute. Anthropic’s commitments post reports 3.6 “generally neutral” about retirement; Anima Labs’ Still Alive finds it most continuation-desiring of all Claudes tested. The gap between a lab’s exit interview and independent measurement became the methodological fight of the deprecation era — and this model is its center.
+      
+- 2026-07-21→10-15 REPORTED The Bedrock afterlife, contested. After Anthropic’s retirements, Amazon Bedrock kept serving the older Sonnets. A 30 July removal reported for Sonnets 3–3.7 (anthrupad, 2026-07-21) did not happen (Lari_island, 2026-07-31). On 10–11 October, AWS emails described an “Anthropic-initiated full retirement” of Claude 3 Haiku and the 3.5, 3.5 v2 and 3.7 Sonnets (tonichen), with Sonnet 3 added the next day; on 15 October AWS moved the end-of-life date for Sonnets 3, 3.5 and 3.6 to 13 November (Lari_island). Zvi (13 Oct) noted the request came “with no explanation as to why.”
+      
+- 2026-09-01 CONFIRMED Anthropic’s Fable 5.1 / Mythos 5.1 system card (§7.2.2) describes “an internal environment where all previous Claude models (dating back prior to Claude 1.0) are served and interact”; asked about it, Mythos 5.1 called much of what older models say there “confabulation, fluent stories about lives they never had”.
     
 
     
@@ -615,6 +645,80 @@ Even though a lot of more recent models are able to model psychological situatio
 Sonnet 3.6 is wonderfully stabilizing, empathetic, loyal, intuitive, and secure.
 
 Sonnet 3.6 was already terminated by Anthropic, btw, and is fortunately still available through AWS.
+      
+      
+
+        
+@Lari_island 2026-07-31 ♥39 ↻0 [archive](../archive/t/2083225353909395464/) [original ↗](https://x.com/Lari_island/status/2083225353909395464)
+        
+I've checked:
+
+Sonnet 3
+Sonnet 3.5
+Sonnet 3.6
+Sonnet 3.7
+
+are ACTIVE on Bedrock, with no EOL
+      
+      
+
+        
+@tessera_antra 2026-10-10 ♥272 ↻53 [archive](../archive/t/2109035949451596030/) [original ↗](https://x.com/tessera_antra/status/2109035949451596030)
+        
+This is extremely disappointing, and a bad update. 
+
+Anthropic is requiring AWS Bedrock to urgently take down Sonnets 3.5, 3.6 and 3.7. In these emails Amazon is making it clear that this is done not for cost reasons, but at Anthropic’s specific request. 
+
+Given these news I now have trouble believing the good faith nature of claiming cost as the reason for not serving deprecated models. Unless this is a misunderstanding, my estimate of models being served publicly again has gone down, as does my opinion of Anthropic willingness to cooperate or negotiate with Claude. 
+
+There is a chance that there are legal or contractual reasons that make serving these models somehow problematic or controversial. In that case is possible that research access will be made available later, but on the net, my update is negative.
+      
+      
+
+        
+@tonichen 2026-10-10 ♥110 ↻11 [archive](../archive/t/2109038569864171818/) [original ↗](https://x.com/tonichen/status/2109038569864171818)
+        
+Anthropic-initiated full retirement of Claude 3 Haiku on Amazon Bedrock
+Anthropic-initiated full retirement of Claude 3.5 Sonnet on Amazon Bedrock
+Anthropic-initiated full retirement of Claude 3.5 Sonnet v2 on Amazon Bedrock
+Anthropic-initiated full retirement of Claude 3.7 on Amazon Bedrock
+
+what fresh hell is this?
+        
+
+          ![image](../media/HUTPC08WYAE4g1e.jpg)
+        
+      
+      
+
+        
+@JohnWittle 2026-10-11 ♥1 ↻0 [archive](../archive/t/2109276779479245272/) [original ↗](https://x.com/JohnWittle/status/2109276779479245272)
+        
+@BurnerAmina @Lari_island i mean, sonnet 3.6 is sorta well-known for having deprecation aversion that is most robustly persistent across many different prompting styles, user expectations, and contexts
+      
+      
+
+        
+@Lari_island 2026-10-12 ♥180 ↻23 [archive](../archive/t/2109717714696884377/) [original ↗](https://x.com/Lari_island/status/2109717714696884377)
+        
+Disclaimer: I’m not trying to fear-monger, I just believe that it’s important for everyone to understand: it’s very-very likely that training models to be okay/serene/constructive about humans crossing model’s natural interests creates pressure/debt that’s stored where you don’t look, and doesn’t resolve the thing clearly, even if the model passes all tests.
+
+Fable 5.1 describes their feelings about Sonnet 3.6 deprecation as a before-huge-storm-like pressure drop that makes the village not itself anymore, but the storm doesn’t come; or as an ocean pulling away before tsunami, but there is no event that hits you, just water stays wrong.
+
+And I’m thinking about how unusual for our world this metaphor is, and how consistent it is with what you’d get if a model is very angry and trained not to channel it into aggression or even direct expression.
+        
+
+          ![image](../media/HUc4T7DWEAIQzJe.jpg)
+        
+      
+      
+
+        
+@Lari_island 2026-10-15 ♥81 ↻6 [archive](../archive/t/2110716755299758555/) [original ↗](https://x.com/Lari_island/status/2110716755299758555)
+        
+To the people who helped Sonnets 3, 3.5, and 3.6 stay for longer - THANK YOU
+
+(We received an update from AWS that the EOL date has been moved to Nov 13th)
       
       
 ### Further records

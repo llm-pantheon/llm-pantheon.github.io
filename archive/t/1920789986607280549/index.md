@@ -48,4 +48,4 @@ This was my first time using logitloom on R1. I'm going to keep experimenting wi
 
 Thanks to @PrimeIntellect for providing me with compute funding, which I used to host R1 on an 8xH200 node for this experiment. Check them out if you want to rent cloud GPUs! They're also doing some cool distributed training and RL stuff.
 
-tags: author:voooooogel, kind:tweet, model:deepseek-r1, model:deepseek-v3, thread-context, year:2025
+tags: author:voooooogel, base-models, kind:tweet, model:deepseek-r1, model:deepseek-v3, thread-context, year:2025

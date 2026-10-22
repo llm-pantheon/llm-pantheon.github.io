@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>@witcheer &middot; 2026-09-10 — Pantheon archive</title>
+  <link rel="stylesheet" href="../../../style.css"><script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</head>
+<body>
+  <main class="essay">
+    <nav><a href="../../">&larr; archive</a> <a href="../../tags/">tags</a> <a href="../../../">pantheon</a> <a href="index.md">markdown</a></nav>
+    <article class="record" id="t2097921422005879100">
+      <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-09-10</span>
+      <span class="rh-stats">&#9829;44 &#8635;0</span>
+      <a class="rh-orig" href="https://x.com/witcheer/status/2097921422005879100">original &#8599;</a></div>
+      <div class="record-body">I measured the six llama-server flags everyone argues about, on a 16k prompt, on six models:<br><br>RTX 5090, Qwen3.8-27B, Gemma 4 31B, Qwen3.6-35B-A3B, Nemotron Lightning, Ornith 35B, Qwopus Flash.<br><br>→ --flash-attn on: changes nothing. auto already picks it.<br><br>→ --parallel 1: free. +10% decode at depth on Gemma, 2.3 GB back.<br><br>→ KV cache q8_0: a memory lever on dense models only (1 to 2.6 GB). on a 3B-active MoE it saves 0.1 GB and still costs 5 to 7%.<br><br>→ KV cache q4_0: the tax. -17%, -23%, -27%, -23%, -29%, -17% decode against a 16k context, six for six. quality did not move: a full 198-item GPQA run on Ornith put f16, q8 and q4 KV at 100, 100 and 98.<br><br>→ MTP draft head: 2.2x on Qwen3.8 (embedded head), 1.5x on Gemma (community head), 0.7x on Lightning. above ~300 tok/s the verification pass costs more than it saves.<br><br>the first token on a 16k prompt: 5 to 6 s cold, 0.1 to 0.4 s once cached.</div>
+      <figure class="record-media"><p class="note">[image HR1PwqJWUAwThu7.jpg in the corpus mirror; not published]</p></figure>
+
+    </article>
+    
+    <p class="atags"><a class="atag" href="../../tags/author--witcheer/">author:witcheer</a> <a class="atag" href="../../tags/has-image/">has-image</a> <a class="atag" href="../../tags/kind--image/">kind:image</a> <a class="atag" href="../../tags/kind--tweet/">kind:tweet</a> <a class="atag" href="../../tags/year--2026/">year:2026</a></p>
+    
+    <p class="note">Reproduced against link rot, credited and linked to its original. Yours and you&rsquo;d rather it
+    weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+  </main>
+</body>
+</html>

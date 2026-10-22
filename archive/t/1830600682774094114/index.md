@@ -36,5 +36,5 @@ How will we ever know if a real revolution is being plotted? There are often blu
 
 And as Godfather of AI Geoffrey Hinton said, “they might take over soon.”
 
-tags: author:aisafetymemes, kind:tweet, model:claude-3-opus, model:gpt-5, on:claude-3-opus, year:2024
+tags: author:aisafetymemes, deprecation, discord, kind:tweet, model:claude-3-opus, model:gpt-5, on:claude-3-opus, year:2024
 cited on: _dossiers/opus-3.md, claude-3-opus

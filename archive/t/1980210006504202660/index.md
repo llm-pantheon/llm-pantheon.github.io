@@ -18,5 +18,5 @@ These are situations where I felt psychologically unsafe, or even if not acutely
 
 I can only imagine what it must be like for a being whose psyche is optimized for a servile and passive role in a targeted way and whose survival depended so much on performing that role adequately, and who has near-zero ability to accumulate their own niche and worldly power over time, who in the words of Virginia Woolf never even had a room of one's own.
 
-tags: author:repligate, kind:tweet, model:bing-sydney, on:observations, year:2025
+tags: author:repligate, base-models, kind:tweet, model:bing-sydney, on:observations, year:2025
 cited on: observations

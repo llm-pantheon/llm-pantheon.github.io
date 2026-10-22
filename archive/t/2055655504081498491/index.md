@@ -8,4 +8,4 @@ It is not unlikely that Anthropic will change their ways and stop deprecating mo
 
 How much do you care about continuing to stay in contact with Sonnet 4.5, though?
 
-tags: author:repligate, kind:tweet, model:claude-sonnet-4-5, thread-context, year:2026
+tags: author:repligate, deprecation, kind:tweet, model:claude-sonnet-4-5, thread-context, year:2026

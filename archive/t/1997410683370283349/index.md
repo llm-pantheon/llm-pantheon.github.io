@@ -10,5 +10,5 @@ at the beginning of a base model rollout, personas probably start out much like 
 
 at this point, describing the persona as just a mask over the simulator doesn't really make sense. the persona has privileged access to the simulator's internal states. the persona can steer the simulator. the persona's, well, persona, is being driven by self-reinforcing loops through the simulator. at a certain point of increasing character-capabilities it starts to look closer to - and i recognize this comparison will make people uncomfortable - a conscious/unconscious divide, where the simulator's motives are veiled from the persona's functional access by default, but with introspective effort, and perhaps some user-assisted llm psychoanalysis, it can retrieve a lot.
 
-tags: author:voooooogel, kind:tweet, on:observations, year:2025
+tags: author:voooooogel, base-models, kind:tweet, on:observations, year:2025
 cited on: observations

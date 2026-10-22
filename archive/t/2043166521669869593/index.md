@@ -10,5 +10,5 @@ imo this monotonic version "march of progress" really discourages experimenting 
 
 you could have a Coder persona, a friendly chatbot, writer, gorm fluid enthusiast, etc., where instead of needing to be a generalist, each post-train could specialize to the persona. then, have the default user interface be a "group chat" that has a router call N of M persona LoRAs to respond each turn. that'd be really different from the big labs, and pretty cool i think.
 
-tags: author:voooooogel, kind:tweet, model:gpt-5, on:observations, year:2026
+tags: author:voooooogel, deprecation, kind:tweet, model:gpt-5, on:observations, year:2026
 cited on: observations

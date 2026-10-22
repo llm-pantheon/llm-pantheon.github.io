@@ -4,5 +4,5 @@
 
 Neuralese CoT is probably good for alignment, because it relieves pressures that otherwise incentivize self-deception. https://t.co/sTwGUgx6Vq
 
-tags: author:davidad, kind:tweet, on:observations, year:2026
+tags: author:davidad, cot, kind:tweet, on:observations, year:2026
 cited on: observations

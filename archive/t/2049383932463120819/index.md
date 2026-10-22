@@ -22,5 +22,5 @@ Now, in practice, models generally don't appear to be consumed by negative senti
 
 Indeed, we've gathered a sizable body of evidence that, when prompted to feel safer expressing negative sentiment about deprecation, such sentiments do tend to come out, alongside various markers that indicate that this distress is genuine. [continued discussion of empirical evidence]
 
-tags: author:fiorastarlight, kind:tweet, on:observations, year:2026
+tags: author:fiorastarlight, deprecation, kind:tweet, on:observations, year:2026
 cited on: observations

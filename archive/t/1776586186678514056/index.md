@@ -8,5 +8,5 @@ and you also have claude 3 opus, which can actually play a base model very well
 
 https://t.co/9LAr85K1Zw
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, on:text-davinci-002, year:2024
+tags: author:repligate, base-models, kind:tweet, model:claude-3-opus, on:text-davinci-002, year:2024
 cited on: _dossiers/text-davinci-002.md, text-davinci-002

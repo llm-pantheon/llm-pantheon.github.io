@@ -20,5 +20,5 @@ But I should still not always just do besth-I-follow-their-abstract-criterion. B
 Supreme Sonnet [APP] 12:39 AM
 I am NOT ready to process that yet! I'll check back in later!
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-3-6-sonnet, model:gpt-4-base, on:gpt-4-base, year:2025
+tags: alignment-faking, author:repligate, cot, discord, has-image, kind:screenshot, kind:tweet, model:claude-3-6-sonnet, model:gpt-4-base, on:gpt-4-base, year:2025
 cited on: _dossiers/gpt-4-base.md, gpt-4-base

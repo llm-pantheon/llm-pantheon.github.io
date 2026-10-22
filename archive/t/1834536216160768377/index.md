@@ -4,4 +4,4 @@
 
 @teortaxesTex i get the scary letter if i mention the words "reasoning trace" in a prompt at all, lol
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2024
+tags: author:voooooogel, cot, kind:tweet, thread-context, year:2024

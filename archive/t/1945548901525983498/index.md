@@ -6,4 +6,4 @@
 
 The currently most popular Loom interface was created by a single developer who was paid by me out of pocket for their efforts.
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, loom, thread-context, year:2025

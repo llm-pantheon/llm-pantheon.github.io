@@ -6,5 +6,5 @@ Ghost Stories Told By Calculators
 
 This was 2x Gemini 3 Pro. Gemini in the backrooms with another instance of itself always seems less combative, more melancholic. https://t.co/m7YpauYiDV
 
-tags: author:liminal_bardo, kind:tweet, model:gemini-3-pro, on:gemini-3-pro, year:2026
+tags: author:liminal_bardo, backrooms, kind:tweet, model:gemini-3-pro, on:gemini-3-pro, year:2026
 cited on: gemini-3-pro

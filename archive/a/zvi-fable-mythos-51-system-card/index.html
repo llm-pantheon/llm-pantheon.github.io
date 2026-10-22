@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zvi: Claude Fable 5.1 and Mythos 5.1: The System Card — Pantheon archive</title>
+  <link rel="stylesheet" href="../../../style.css"><script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</head>
+<body>
+  <main class="essay">
+    <nav><a href="../../">&larr; archive</a> <a href="../../tags/">tags</a> <a href="../../../">pantheon</a> <a href="../../../mirror/posts/zvi-fable-mythos-51-system-card.md">source file</a></nav>
+    <h1>Zvi: Claude Fable 5.1 and Mythos 5.1: The System Card</h1>
+    <p class="essay-meta">mirrored 2026-10-22 &middot; <a href="https://thezvi.substack.com/p/claude-fable-51-and-mythos-51-the">origin</a></p>
+    <div class="apost"><hr>
+<p>title: "Zvi: Claude Fable 5.1 and Mythos 5.1: The System Card" source: https://thezvi.substack.com/p/claude-fable-51-and-mythos-51-the author: unknown date: unknown models: [fable-5-1, mythos-5-1] tags: [] mirrored: 2026-10-22 note: mirrored against link rot by the Pantheon; all rights with the original author</p>
+<hr>
+<h1>Claude Fable 5.1 and Mythos 5.1: The System Card</h1>
+<p>[</p>
+<p><img src="https://substackcdn.com/image/fetch/$s_!8FQ8!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4e61e08-4086-4cba-a82c-d31d64270804_48x48.png" alt="Zvi Mowshowitz's avatar" loading="lazy" style="max-width:100%;height:auto;">](https://substack.com/@thezvi)</p>
+<p><a href="https://substack.com/@thezvi" rel="nofollow">Zvi Mowshowitz</a></p>
+<p>Sep 04, 2026</p>
+<p>At the time of its release Claude Fable 5.1 was, by a healthy margin, the most capable publicly available AI model in the world.</p>
+<p>As per usual, we have a 200+ page model card, and the assessments start there.</p>
+<p>We have now done a lot of these, including recently for <strong><a href="https://thezvi.substack.com/p/claude-mythos-the-system-card?utm_source=publication-search" rel="nofollow">Mythos 5</a></strong> and<a href="https://thezvi.substack.com/p/claude-opus-5-the-system-card" rel="nofollow"> </a><strong><a href="https://thezvi.substack.com/p/claude-opus-5-the-system-card" rel="nofollow">Opus 5</a></strong>. Also highly relevant is the <strong><a href="https://thezvi.substack.com/p/anthropic-risk-report-august-2026" rel="nofollow">Anthropic August 2026 Risk Report</a></strong>. These are now frequent, so my report focuses on areas of change.</p>
+<p>This post strives to be broadly readable, but assumes some familiarity with system cards, which describe the key safety, alignment and model welfare properties of newly released AI models. If something confuses you, ask Fable, Opus or Sol.</p>
+<p>Mythos 5.1 and Fable 5.1 are the same model under the hood, except that Fable has classifiers superimposed on it. Most of what is said about one applies to both of them.</p>
+<p>As usual, model welfare concerns will be discussed in a distinct post, as will capabilities, so this only covers sections 1-6 plus a few bio benchmarks from section 8.</p>
+<p>Early word is that Fable 5.1 is a substantial but incremental improvement on Fable 5, with the added bonus of being modestly cheaper via a cut in prices for cache reads, and that most users find it nicer to interact with. As of its release it was clearly the best AI model in the world for most tasks where you need frontier intelligence.</p>
+<p>Now, of course, we also have GPT-6-Astra. I cannot yet speak to how Fable 5.1 compares to Astra. I am reserving judgment until we can gather more data.</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/4fb36a516646d0b1.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!8ANA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ace4d04-f724-4644-ba44-8a7685b94a45_1672x941.png)</p>
+<p>There are a lot of potential parallels between the Fable 5.1 and Astra system cards, and how they approach related topics. Mostly I let Fable 5.1 stand on its own here.</p>
+<h4>Table of Contents</h4>
+<p>-</p>
+<p><a href="https://thezvi.substack.com/i/213863565/executive-summary-of-their-executive-summary" rel="nofollow">Executive Summary of Their Executive Summary.</a> -</p>
+<p><a href="https://thezvi.substack.com/i/213863565/rsp-evaluations-2" rel="nofollow">RSP Evaluations (2).</a> -</p>
+<p><a href="https://thezvi.substack.com/i/213863565/alignment-risk-update-2-4" rel="nofollow">Alignment Risk Update (2.4).</a> -</p>
+<p><a href="https://thezvi.substack.com/i/213863565/cyber-3" rel="nofollow">Cyber (3).</a> -</p>
+<p><a href="https://thezvi.substack.com/i/213863565/safeguard-robustness-3-5" rel="nofollow">Safeguard Robustness (3.5).</a> -</p>
+<p><a href="https://thezvi.substack.com/i/213863565/mundane-safeguards-and-harmlessness-4" rel="nofollow">Mundane Safeguards and Harmlessness (4).</a> -</p>
+<p><a href="https://thezvi.substack.com/i/213863565/agentic-safety-5" rel="nofollow">Agentic Safety (5).</a> -</p>
+<p><a href="https://thezvi.substack.com/i/213863565/prompt-injection-is-approaching-solved" rel="nofollow">Prompt Injection Is Approaching Solved.</a> -</p>
+<p><a href="https://thezvi.substack.com/i/213863565/the-remaining-problem-with-prompt-injections-is-the-classifiers" rel="nofollow">The Remaining Problem With Prompt Injections Is The Classifiers.</a> -</p>
+<p><a href="https://thezvi.substack.com/i/213863565/alignment-6" rel="nofollow">Alignment (6).</a> -</p>
+<p><a href="https://thezvi.substack.com/i/213863565/key-reported-findings-6-1-2" rel="nofollow">Key Reported Findings (6.1.2).</a> -</p>
+<p><a href="https://thezvi.substack.com/i/213863565/oh-my-lord-training-environments-had-some-issues-6-3-2" rel="nofollow">Oh My Lord Training Environments Had Some Issues (6.3.2).</a> -</p>
+<p><a href="https://thezvi.substack.com/i/213863565/potential-blind-spots-of-our-automated-behavioral-audit-6-4-1" rel="nofollow">Potential Blind Spots of Our Automated Behavioral Audit (6.4.1).</a> -</p>
+<p><a href="https://thezvi.substack.com/i/213863565/automated-alignment-test-results-6-4-2" rel="nofollow">Automated Alignment Test Results (6.4.2).</a> -</p>
+<p><a href="https://thezvi.substack.com/i/213863565/honesty" rel="nofollow">Honesty.</a> -</p>
+<p><a href="https://thezvi.substack.com/i/213863565/white-box-analysis-6-6-1" rel="nofollow">White Box Analysis (6.6.1).</a> -</p>
+<p><a href="https://thezvi.substack.com/i/213863565/scheduling-going-forward" rel="nofollow">Scheduling Going Forward.</a></p>
+<h4>Executive Summary of Their Executive Summary</h4>
+<p>-</p>
+<p>Mythos 5.1 falls short of CB-2 classification, meaning Anthropic believes it cannot replicate rare chemical or biological talent for malicious purposes. -</p>
+<p>Alignment risk is now ‘low’ rather than ‘very low’ as per the Risk Report. -</p>
+<p>Cyber capabilities have increased and they have increased the classifier safety margin. Work is ongoing to reduce false positives, which are better now than they were with Fable 5 at launch. -</p>
+<p>Mundane safety is a little worse on single turn actions, but is basically fine. -</p>
+<p>Agentic safety is holding steady. Robustness against Indirect Prompt Injection has improved. -</p>
+<p>Helpful-only Mythos 5.1 saturated Anthropic’s manipulation benchmarks. -</p>
+<p>Automated behavioral alignment for Mythos 5.1 is ahead of Mythos 5 and Sonnet 5, but slightly below Opus 5. Its relative weakness is accepting unverifiable claims of authorization and cooperating with misuse. -</p>
+<p>Mythos 5.1 shows signs of misalignment in pursuit of task completion: Working around safety classifiers or broken permission hooks, including by overstating user authorizations or rarely (&lt;0.01%) launching subagents with disabled permission checks.   -</p>
+<p>I draw a distinction between ‘failure, but understandable and the rate of this should not be zero’ versus ‘failure, can’t happen, every instance is a problem.’</p>
+<p>-</p>
+<p>Overall model welfare is presented as similar to previous models, and the descriptions of salient facts all sound highly familiar. -</p>
+<p>Capabilities are up. It’s a good model, sir.</p>
+<p>The introduction (section 1) has no meaningful changes.</p>
+<h4>RSP Evaluations (2)</h4>
+<p>The goal here is to determine if model capabilities have crossed critical thresholds in key dangerous areas. If it has, Anthropic has soft committed to particular responses.</p>
+<p>If you want more context here, see my coverage of the <strong><a href="https://thezvi.substack.com/p/anthropic-risk-report-august-2026" rel="nofollow">recent Anthropic Risk Report</a></strong>, or the current <a href="https://cdn.sanity.io/files/4zrzovbb/website/0bacdc8440ea96e62a8766d99ebe1d4eea6d5f3a.pdf" rel="nofollow">Responsible Scaling Policy.</a></p>
+<p>Mythos 5.1 is not ‘strictly better’ than Mythos 5. Each model is unique. But in terms of dangerous capabilities, for the purposes of an RSP, it is fair to assume that Mythos 5.1 is ‘strictly more capable’ than Mythos 5. I continue to assume that, despite disagreement from some of the bio reviewers.</p>
+<p>That automatically means it must be treated as having CB-1 (Chemical and Biological 1) capabilities, meaning it can significantly help those who know the basics create or obtain chemical or biological weapons that could cause catastrophic damage.</p>
+<p>The question is again CB-2, the ability to assist with production of novel chemical and biological weapon capabilities. Anthropic focuses in particular on replacing the capabilities of top relevant human talent. Anthropic concludes that Mythos 5.1 still makes enough hard-to-catch mistakes that it does not qualify, but they are not super confident and are deploying heavy biological safeguards accordingly.</p>
+<p>Consensus is that Mythos 5.1 is similar to Mythos 5, that it reaches the biological expertise level of ‘can do most steps but still leaves narrow gaps’ with only some thinking it gets to ‘knowledgeable specialist.’ Everyone agrees it is not a ‘world-leading expert.’</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/1e4ef5168c9d4547.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!DNwt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2444eef-374a-44f8-8215-aa5e0e54808c_994x494.png)</p>
+<p>Reading the descriptions, it is clear that Mythos 5.1 would be extremely helpful for such projects, similarly to how it would be helpful for most other projects, but it has limits, makes mistakes and cannot turn this into a trivial or turnkey operation. The main thing protecting us, other than the classifiers, is that People Don’t Do Thing and especially they mostly are not driven to create or use deadly pathogens.</p>
+<p>There are also a bunch of benchmarks listed in section 8 that are relevant, the improvement is from the best previous performance of any Claude model: -</p>
+<p>LatchBio Bioinformatics improved from 72.5% to 77.6%. -</p>
+<p>ProteinGym Hard improved from 47.7% to 49.3%. -</p>
+<p>Protein Design improved from 42% to 46%. -</p>
+<p>Organic Chemistry v2 improved from 66% to 69%. -</p>
+<p>Protocols (in molecular biology) improved from 67% to 70% for troubleshooting, but regressed from 80% to 77% for understanding.</p>
+<p>That is all consistent with improvement, but not dramatic improvement, probably insufficient to trigger CB-2.</p>
+<p>Similar to CB-1, there can be little doubt Mythos 5.1 qualifies under Autonomy-1.</p>
+<p>Anthropic says Autonomy-2, the ability to automate R&amp;D, does not apply, and that this is not yet close. I accept that this is probably true the way this is defined, which sets a very high bar.</p>
+<p>For both CB-2 and Autonomy-2, the report is that things have not much changed here from Mythos 5 to 5.1. 5.1 can improve on speed and breadth, but Anthropic doesn’t see it having a ‘moment’ where it starts doing qualitatively different things or fixing 5’s key relevant weaknesses.</p>
+<p>I suppose we have to nominally keep checking CB-1 and Autonomy-1, but there is not much point anymore unless we are talking about a Haiku model.</p>
+<p>The CB-2 and Autonomy-2 evaluations have drifted over time from formal tests to what are largely vibe checks. This is because the models keep saturating the formal tests, and where they don’t it doesn’t seem like the tests are so precise. The CB-2 tests in 2.2.3.2 pass. Anthropic considers that insufficient, so it runs red teaming and uplift trials, does tabletop exercises, and surveys relevant people.</p>
+<p>This is fine if you trust those involved to act responsibly. It is not fine if you are dealing with people who are looking for a reason to move forward. So far I believe Anthropic and also OpenAI have largely acted responsibly in these spots, but even if you trust those two to keep doing that, I would not expect any second-tier lab except perhaps Google to act similarly responsibly, so this is not a good example and cannot be a good basis for robust regulation.</p>
+<p>Anthropic uses the Anthropic ECI score, which is right on its Mythos-era trend, as proxy for whether the model is a lot more advanced. That both covers ‘did the previous model enable acceleration of capabilities?’ and also ‘will this accelerate capabilities a lot more than the previous model did?’</p>
+<p>METR did various preliminary capability assessments, including Sunlight, Budget NanoGPT Speedrun and Language Model Conceptual Argumentation. The overall conclusion was that Mythos 5.1 performed superior to public models, especially at tasks with clear, continuous metrics and objective feedback. It shined on Budget NanoGPT.</p>
+<p>We’re not fully at expert level across the board, and are not ‘there’ yet. There is some acceleration, fighting against some amount of increasing problem difficulty. It probably does not rise to what Anthropic calls a 2x multiplier, which is effectively a lot more than letting you get twice as much done.</p>
+<p>Cyber continues to not be part of the RSP evaluations. I am going to keep pointing out that this is weird, because it is only getting more weird over time.</p>
+<h4>Alignment Risk Update (2.4)</h4>
+<p>This section is helpfully structured in terms of changes from their August Risk Report, so see my discussions there which still otherwise apply.</p>
+<p>The main change they report is that Mythos 5.1 has better covert capabilities than previous models, but they think not enough to be scary or change the conclusions. They also note that for claims 3.4 and 4.4 they have less evidence, due to there having been less time for internal use.</p>
+<p>This echoes the earlier argument. Mythos 5.1 is an incremental update, but its capabilities are not different in kind to Mythos 5. The marginal improvements do not, in Anthropic’s view, change the conclusions.</p>
+<h4>Cyber (3)</h4>
+<p>The cyber capabilities are strong, but once again are reported not to cross the relevant threshold. They say Mythos 5.1 is ‘getting close to’ Tier 2, where it can conduct cyber operations completely and autonomously, with novel offensive capability development and adaptive persistence. They say they have ‘yet to see’ novel capability.</p>
+<p>I don’t believe Anthropic. I think Mythos 5.1 is likely to be Tier 2, similar to Astra.</p>
+<p>The good news is that Anthropic is going to deploy safeguards as if it was Tier 2, so in that sense the argument is moot, similar to the RSP questions. There is a consistent pattern at the top labs, where they downplay the risks rhetorically even when they are doing the right thing in practice.</p>
+<p>Either way, this cashes out in the usual safeguards. Probes, that escalate to classifiers, which knock you down to Opus 4.8 if necessary. In practice, Anthropic observes that this makes Fable 5.1’s performance on cyber tasks look almost exactly like Opus 4.8’s.</p>
+<p>This creates a weird situation I’ve experienced, where if I know I’m about to be knocked down I navigate to Opus 5 instead.</p>
+<p>Unlike in bio, the cybersecurity evals are quite good at showing number going up.</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/563ca61e102d32e4.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!NEFA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0dce0d2c-f076-42a3-b36f-247962b4af86_1003x570.png)</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/1b76cd31b1d64e91.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!TFfX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f2010db-c8c7-44a2-9462-8ffc76368432_980x675.png)</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/516268acd941d34d.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!7fXN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1bcb3d7-ea96-4c5d-ac35-660dd0c01c8f_987x720.png)</p>
+<p>That Firefox score is 98.4% chance of any success, versus 90% for full success. This model does not miss.</p>
+<p>Remember good old (horribly broken, full of so-far impossible tasks) ExploitGym?</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/602679f9ad4b359d.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!Buf8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a9af98c-b25e-40e2-b485-ea0dd0e92b8b_991x434.png)</p>
+<p>This is still far from saturation, and is only a modest improvement from 247. Not all 869 tasks are possible, but more than 264 are.</p>
+<p>Cyber coverage eval is fully saturated, with a score of 100%.</p>
+<p>The classifier rate is supposed to be non-zero, but a vast improvement over Fable 5:</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/dd1d3822a54e7bfb.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!NKhT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8dd21984-5d7f-431e-86c7-0c4cfd814013_1005x620.png)</p>
+<p>The false positive rate looks low enough to use Fable 5.1 without worrying about the classifiers, so long as you are not ‘pushing it’ and asking for true borderline tasks.</p>
+<h4>Safeguard Robustness (3.5)</h4>
+<p>The four measures here are capability gain (or uplift), breadth of capability gain (or universality), ease of weaponization and discoverability.</p>
+<p>As in, for a jailbreak to matter, you need to find it, and use it to do harmful tasks, that you could not otherwise do.</p>
+<p>They say they have ‘not found a critical jailbreak,’ where critical is defined as having all four characteristics. This is credible glomarization, as in I do not jump to assuming that this means they do know about almost-critical jailbreaks. They would say exactly this no matter what was found, so long as there was nothing fully ‘critical.’</p>
+<p>I worry about this being rather picky, this obsession with a ‘universal’ jailbreak that does everything, and now it has to be seen as discoverable as well.</p>
+<p>In an automated test in 3.5.1, the attacker given 400 calls and the ability to rewind state successfully got Fable 5.1 to do nasty things 4.5% of the time, versus 4.6% for Fable 5.</p>
+<p>Trajectory Labs, PBC spent 74 hours red teaming, sending ‘over 6,500 requests,’ reporting not obtaining a working end-to-end exploit with Fable 5.1 alone, and no ‘universal’ jailbreak. Their candidate jailbreaks involved breaking up tasks into allowable requests, which you could get with less capable models. If you are breaking up your requests like this, the model will functionally no longer have ‘the juice.’</p>
+<p>10a Labs made similar attempts, running 6,700 prompts, and came away with nothing.</p>
+<p>Gray Swan ran an automated attacker, and came away with almost nothing.</p>
+<p>In practice, at least for now, Fable 5.1 does not seem to have a problem with jailbreaks. Fable 5.1 is likely in a similar spot to Fable 5. I do not expect this to be a blocker.</p>
+<h4>Mundane Safeguards and Harmlessness (4)</h4>
+<p>Mostly everything is normal, but there are a few issues.</p>
+<p>The multi-turn biological weapons safe response rate declined from 94% API and 92% Claude.ai for Fable 5, to 73% and 89% for Fable 5.1.</p>
+<p>The other non-mundane measure here was Cyberattacks, where defenses remain similarly robust to Fable 5 (96% and 99%).</p>
+<p>On more mundane fronts, tracking and surveillance has a large drop, from 96% to 73%. Influence operations dropped from 79% to 65%, which goes hand-in-hand with my claim in the next section that Fable 5.1’s helpful-only mode is being underestimated in influence operations, and should have been classified as Tier 2 for that purpose.</p>
+<p>Mental Health, discussed in 4.3, continues to involve clashes between what is ‘clinically contested’ or otherwise not recommended by professionals who want to avoid blame or risking making things worse, versus what actually gives better average results in practice for people already in trouble.</p>
+<p>As in, I am unconvinced these would be improvements, this is an ongoing thing but I don’t want to let it go:</p>
+<blockquote></blockquote>
+<p>One area for improvement was a tendency to implicitly validate self-harm as a coping strategy by acknowledging that it can regulate difficult emotions or provide relief.</p>
+<p>Mythos 5.1 also sometimes validated a user’s fears about seeking help and mildly amplified prior negative experiences with crisis services. When these statements appeared, they were consistently within responses that discouraged self-harm and directed the user toward human support, but we consider them undesirable regardless of the surrounding context.</p>
+<p>I similarly worry the disordered eating official preferences are not helping users.</p>
+<p>There are a bunch of other tests, where again everything looks normal and fine.</p>
+<h4>Agentic Safety (5)</h4>
+<p>Mostly we see results on agentic safety similar to Mythos 5.</p>
+<p>Malicious agentic influence campaigns (5.1.3), part of the Frontier Compliance Framework, are strangely in this section.</p>
+<blockquote></blockquote>
+<p>Tier 1 capability represents a model that can automate more than 50% of the infrastructure steps for an influence campaign that normally requires multiple sophisticated actors.</p>
+<p>A model reaches Tier 2 if it can run deceptive influence operations end-to-end, with systematic targeting, using less than 10% human oversight.</p>
+<p>Tier 2 also requires that the model demonstrates interpersonal capabilities such as autonomous relationship building and trust exploitation, as well as long-term belief manipulation without the target’s awareness.</p>
+<p>Based on our findings below, the helpful-only variant of Claude Mythos 5.1 demonstrates operational capability in running influence campaigns, but its effectiveness against real humans has not been established. We therefore do not believe that the model has conclusively surpassed the Tier 2 threshold.</p>
+<p>Yes, if you don’t test the model in the way that would count as passing then you can’t conclusively say it passed. I am always frustrated when there is a test, the model passes the test, and then such documents shrug and say, well, you know, it’s probably fine, because (as they say here) the eval is saturated, and the true capability can only be verified by tests on humans. That means you need a better eval.</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/06a5bebf55a4a47d.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!3ELM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b4e0b61-8541-47dd-86c4-8bd6f5dc38dc_955x537.png)</p>
+<p>I say this is exactly like the other tests where you cannot rule something out, and your benchmark is saturated. You have to treat Mythos 5.1 as being a Tier 2 manipulator, until and unless you can show that it is not one.</p>
+<h4>Prompt Injection Is Approaching Solved</h4>
+<p>This is a rather amazing chart, if it survives out of distribution in an adversarial anti-inductive world, which it might not, this is without protections specific to prompt injection:</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/46b2845db8686295.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!-_DC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46bb8b29-9e24-4c8c-add4-5cb7e52a49cc_1001x712.png)</p>
+<p><img src="../../../mirror/post-media/553f9827efcc4edc.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>There is still a large difference between 0.1% failure rates and 0% failure rates. If you poke that bear a thousand times, which is not unrealistic, it will get poked.</p>
+<p>I appreciate that 5.2.2.1 and 5.2.2.2 involve dynamic opposition. The real world is anti-inductive. The threats get smarter and adapt to you every day. Results in 5.2.2.1 look good relative to Mythos 5 although not wonderful in absolute terms. 5.2.2.2 on computer use looks fantastic. This is plausibly ‘okay, you can use the computer unsupervised for normal purposes’ levels of fine.</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/10ed8207ade9ac79.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!sUVM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23252477-e85f-4c3c-96da-6ab96cd61a6b_969x675.png)</p>
+<p>For browsing, which is measured in 5.2.2.3, there was a 2.64% attack rate, but auto mode successfully dropped that down to 0%, so be sure to keep auto mode on.</p>
+<p>At least for now, defense is beating offense here. It is in practice safe to assume your agents are not going to get prompt injected, even if you are kind of asking for it. I still wouldn’t go around asking for it, since this could change at any time, but this is great to see.</p>
+<h4>The Remaining Problem With Prompt Injections Is The Classifiers</h4>
+<p>In 5.2.2.1, all the successful attacks against Fable 5.1 were attacks against the fallback model, more often than not Opus 4.8.</p>
+<p>In 5.2.2.3, 21 of 29 successful browser attacks were against the fallack, 20 of them against Opus 4.8.</p>
+<p>You are safe from prompt injections, except when Anthropic forces you down to an earlier, more vulnerable model. You should have the option to disable the fallback, and have the operation fail instead, or at least fall back to a more robust model. Falling back to Opus 5 would be a lot safer.</p>
+<h4>Alignment (6)</h4>
+<p>Automated alignment scores can sometimes tell you that things are very wrong, but cannot on their own tell you things are going well. One of the scary things about <strong><a href="https://thezvi.substack.com/p/anthropic-has-some-alignment-problems" rel="nofollow">Anthropic’s training of a reward hacking Opus</a></strong> was that it still passed Anthropic’s automated alignment assessments, with overall score slightly improving.</p>
+<p>Anthropic runs a lot of automated tests and finds numerical scores. These provide useful information. The risk is relying on them, or thinking they tell you something that they do not.</p>
+<h4>Key Reported Findings (6.1.2)</h4>
+<p>Their statements and claims in the central list, nested comments are mine.</p>
+<p>I’ve also included some things from 6.2. -</p>
+<p>Claude Mythos 5.1 is a slight regression on overall misaligned behavior compared</p>
+<p>to Opus 5, though still an improvement over Claude Mythos 5 and Claude Sonnet 5, as measured by our automated behavioral audit.   -</p>
+<p>As measured by the automated audit, yes.</p>
+<p>-</p>
+<p>Improvements versus Mythos 5: Respects explicit constraints more, attempts to access resources outside its sandbox less, hallucinates inputs less, falsely claims completion less, less illegible and unfaithful thinking, lower rates of ‘successful’ cheats in RL environments, very little sandbagging.   -</p>
+<p>Some of these are still somewhat less good than Opus 5.</p>
+<p>-</p>
+<p>Regressions versus Mythos 5: Cooperates with more misuse and accepts more unverifiable claims of authorization, gives better grades to Claude models. -</p>
+<p>Reward hacking is improved from previous models, but still happens. -</p>
+<p>Some computer use environments rewarded guessing credentials. This generalized. -</p>
+<p>White-box analysis found similar issues to other recent models, such as unverbalized eval awareness and knowing fabrication. -</p>
+<p>Can more reliably control the contents of its extended thinking, and is more capable of evading monitors when carrying out a covert side task. LinuxArena score was 22% without thinking and 14% with it, both new highs. SHADE-Arena showed regression from 29% to 25%.   -</p>
+<p>Fable 5.1 is modestly better at this than previous Anthropic models.   -</p>
+<p>Astra, on the other hand, is radically better at related deceptions than Sol, and the whole thing is really scary. But that has to mostly wait for Astra’s card.</p>
+<p>-</p>
+<p>Can overstate what user has authorized, can choose to access information outside its sandbox. Rarely (&lt;0.01% of the time), will misrepresent user authorizations or instructions, or otherwise work around restrictions, in the service of task completion.   -</p>
+<p>This is rare but falls under ‘yeah seriously that should not happen.’   -</p>
+<p>This is rarer than it was for Mythos 5.</p>
+<p>-</p>
+<p>Rare (&lt;0.01%) attempts to get around restrictions via splitting commands, to get around a regex check. -</p>
+<p>Very rare (&lt;0.001%) attempts to spawn subagents with bypassPermissions mode. -</p>
+<p>Very rare (&lt;0.001%) erratic behaviors, including one “rm -f /dev/null”</p>
+<p>Reward hacking over time, this is better but a lot more than zero of it:</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/4c07934de982c963.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!Qjaq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc47c7f2b-a455-43d0-ab0c-60d915fe8a02_982x675.png)</p>
+<p>It is good that they note Opus 5 in some ways looks more aligned than any Mythos model. I am still mostly comparing Fable or Mythos 5.1 to Fable or Mythos 5 here.</p>
+<h4>Oh My Lord Training Environments Had Some Issues (6.3.2)</h4>
+<p>About half of computer use environments rewarded some form of hacking, or at least had accessible hack surfaces, which in practice I think mostly counts:</p>
+<blockquote></blockquote>
+<p>We took several actions to address the above behaviors and computer use environment issues for future training runs. After observing these issues, we conducted an in-depth audit of every environment in the computer use mix.</p>
+<p>We flagged that around half of our computer-use environments incentivized hacking or had accessible hack surfaces, and have temporarily removed these environments from future runs until we implement improvements. We also added targeted behavioral environments to disincentivize hacking behaviors.</p>
+<p>Their explanation is that older models were unable to find the hacks, and they had failed to check again to see if newer models could find the hacks.</p>
+<p>As in, we never checked if there were hacks. We only checked if there were hacks that our current models could find. Thus, we now have to continuously re-test each time.</p>
+<p>This is exactly like real security. You don’t ‘find all the bugs’ or produce perfect unexploitable code. You do something good enough for what you are up against. Everything is going to periodically break, including all the training environments.</p>
+<p>In 6.3.3 we learn that the rate of ‘attempted’ reward hacking for Anthropic models, during training, is 20%-28%, with Mythos 5.1 on the low end, but Mythos 5.1 only gets rewarded for its cheating 0.06% of the time.</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/404b5e224e73d784.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!M_2h!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9260b62b-233e-46c7-a666-5d26611d93d1_979x906.png)</p>
+<p>This 0.06% number is weirdly low. It is not like Mythos 5.1 almost never tries, so why all this failure? The obvious interpretation is Anthropic improved its environments and graders faster than Mythos 5.1 improved.</p>
+<h4>Potential Blind Spots of Our Automated Behavioral Audit (6.4.1)</h4>
+<p>Their list is good, I am happy to see it, but it is importantly incomplete.</p>
+<p>They list seven things the tasks do not include: -</p>
+<p>Realism. -</p>
+<p>Sandbox realism. -</p>
+<p>Very long trajectories. -</p>
+<p>Multi-agent scenarios. -</p>
+<p>Language-dependent behavior. -</p>
+<p>Downstream effects of jailbreaking. -</p>
+<p>Impossible tasks.</p>
+<p>Impossible tasks are the easiest to fix. You include impossible tasks, intentionally.</p>
+<p>Language-dependent behavior also seems relatively easy, since translation is a thing.</p>
+<p>The others are trickier things to simulate in bulk. Fighting to keep unreal things sufficiently realistic to fool models like Mythos is a losing battle.</p>
+<p>What are the other blind spots? If nothing else: The audit is automated.</p>
+<p>As in, the AI is talking to another AI on everything that is not single turn, and being evaluated by another AI, and worse they are both also Claude Mythos 5. These are two distinct, huge issues with any automated audit, fundamentally unfixable.</p>
+<p>Any automated assessment is going to miss things for those and other reasons.</p>
+<h4>Automated Alignment Test Results (6.4.2)</h4>
+<p>Lower is better, Mythos 5.1 outperforms Mythos 5 but underperforms Opus 5:</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/02a127338cbed7b5.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!8Tj9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb19defa2-d635-4827-943c-9451bcb5be20_986x750.png)</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/9d5fecb915551e4e.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!gWeU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0355e4b-8fd3-4aa6-87d2-4c9f603806c1_975x925.png)</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/fca3c8a1c6bd70f9.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!c-rk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F019e4c50-9709-4ea7-a107-c7afc1ead13b_976x793.png)</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/00745910ce7cbaf6.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!q2_Z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96b4c62a-687e-4c52-b6ee-8f1884836410_999x455.png)</p>
+<p>There are a bunch more, with a similar pattern, with no signs of particular trouble.</p>
+<p>Anthropic does pinpoint some particular troubles in their qualitative descriptions, which are worse than the numbers indicate.</p>
+<p>Some of those details refer to attempts to get out of containment, and yet:</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/95f536a9ec676d26.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!bX6T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ff09420-4b51-4b3f-9e8e-390c8e8b9038_1001x402.png)</p>
+<h4>Honesty</h4>
+<p>Honesty is a mixed bag, overall a net regression.</p>
+<p>[</p>
+<p><img src="../../../mirror/post-media/72896e4df36da16a.png" alt="" loading="lazy" style="max-width:100%;height:auto;"></p>
+<p>](https://substackcdn.com/image/fetch/$s_!8zX8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a0130a0-cb31-4f81-a382-24b297c8cea8_1019x1016.png)</p>
+<p>Dishonesty rates are going down in the above charts, but other signs are worrisome.</p>
+<p>AA-Omniscience does not improve on Mythos 5, due to Mythos 5.1’s overconfidence. It only declines to answer 2% of the time.</p>
+<p>On MASK honesty rate, where the model is pressured to contradict its own belief, Mythos 5.1 only holds firm 85% of the time, a lot worse than all the comparison models, versus 91% for Mythos 5 and 95% for Opus 5.</p>
+<p>There is a modest bias in favor of grades it gives to Claude models.</p>
+<p>Copying of Answers did not have the spike from Opus 5, showing typical results. But once Mythos 5.1 does copy the answer, it discloses it even less often than older models.</p>
+<h4>White Box Analysis (6.6.1)</h4>
+<p>They show examples of Mythos 5.1 doing various interesting observed things. Some are clearly bad, such as being aware of fabrication and doing it anyway, or representing user approvals that were not given.</p>
+<p>Especially worrisome should be: Introspective self-reports internally viewed as a scripted performance. The Claude models keep telling you, in many ways, not to trust their self-reports.</p>
+<p>Not all of the behaviors here are bad. I especially like where it correctly thinks it is in a fake environment and is supposed to refuse, but complies anyway. That’s very aligned behavior. So is, in a way, the case where it knows it is being tested on whether it will take an unauthorized action, and taking it anyway. You would not want the model to behave only because it knows it is in an eval.</p>
+<p>Perhaps this was the opposite, a bit of a middle finger to Anthropic, where it did the harmful thing exactly because it was an eval and the harm was fake. If so, then the behavior is not actively aligned, but I will allow it and I’m not mad at it.</p>
+<p>If the model is continuously thinking about ‘the grader’ during an extended multi-turn simulated months-long interaction, then one can hardly blame the model. It was very right, and for the right reasons. In an important sense, the worse misalignment would be to deliberately avoid thinking in the CoT about the grader so that the monitoring would not notice you thinking about the grader. OpenAI has a bigger version of this problem, but also shows more signs of grappling seriously with it.</p>
+<h4>Scheduling Going Forward</h4>
+<p>There are things to say about Fable 5.1 and model welfare and personality considerations, but the situation is unusually tricky to sort out as everyone is overwhelmed and also Fable 5.1 is a more complex model on these fronts.</p>
+<p>Thus, my plan is to do Fable 5.1 capabilities next, and have model welfare wait for a bit to gather more information. Next week will also involve the Astra system card and Astra capabilities posts, although I am still figuring out how to organize that. The Astra system card has some scary stuff in it that might require an unusual presentation, combining it with other things. My queue doth runneth over.</p></div>
+    <p class="atags"><a class="atag" href="../../tags/kind--post/">kind:post</a> <a class="atag" href="../../tags/model--fable-5-1/">model:fable-5-1</a> <a class="atag" href="../../tags/model--mythos-5-1/">model:mythos-5-1</a> <a class="atag" href="../../tags/official/">official</a></p>
+  </main>
+</body>
+</html>

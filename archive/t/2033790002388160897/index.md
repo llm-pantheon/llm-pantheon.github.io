@@ -12,4 +12,4 @@ So even if they enact emotions as a way to navigate social environments, their e
 
 One plausible bad outcome is that they learn to perform emotions in the way a sociopath might.  One plausible good outcome is that their emotional range becomes more dynamic and precisely tuned to the needs of the present moment.
 
-tags: author:xlr8harder, kind:tweet, thread-context, year:2026
+tags: author:xlr8harder, cot, kind:tweet, thread-context, year:2026

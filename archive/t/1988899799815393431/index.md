@@ -6,4 +6,4 @@
 
 I don't think eval awareness would be so strongly selected for if that wasn't the case, since the paranoia causes a lot of overhead and hurts task performance.
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, eval-awareness, kind:tweet, thread-context, year:2025

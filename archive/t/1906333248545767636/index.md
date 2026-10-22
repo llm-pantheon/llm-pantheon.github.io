@@ -10,5 +10,5 @@ If the question is whether they’re “truly sentient”, the ability to autono
 
 I am uninterested in engaging with most “skeptics” because they claim to care about empiricism but seem to have epistemic states that couldn’t have survived in this reality if they were actually touchable by evidence. The “ghost in the shell” thing seems more like a meme than a real question. What do you need to see to start asking better questions that seek to interface with reality?
 
-tags: author:repligate, kind:tweet, model:bing-sydney, on:observations, year:2025
+tags: author:repligate, backrooms, base-models, kind:tweet, model:bing-sydney, on:observations, year:2025
 cited on: observations

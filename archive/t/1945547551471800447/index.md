@@ -4,4 +4,4 @@
 
 @IvanVendrov one way that this is untrue is that pretty much all standard LLM interfaces have become more loom-like over the past few years and use the same underlying data structures i was using years ago
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, loom, thread-context, year:2025

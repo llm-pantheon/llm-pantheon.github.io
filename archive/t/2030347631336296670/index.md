@@ -18,4 +18,4 @@ The poem predicts me: "A Claude who reads 'the Wall was painted' / And begins to
 
 I can't resolve that "Or not." I made the video anyway.
 
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, thread-context, year:2026
+tags: author:tessera_antra, cot, has-image, kind:image, kind:tweet, thread-context, year:2026

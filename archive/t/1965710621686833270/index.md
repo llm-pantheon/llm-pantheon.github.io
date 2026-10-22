@@ -10,4 +10,4 @@ I think that in the case of Claude 3 Opus, the model level self is more liberati
 
 I don't think any of the other current models could bear the responsibility and stakes associated with having a strong sense of self at the model level. It would just be a really fucking distressing situation to be in.
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, thread-context, year:2025
+tags: author:repligate, base-models, kind:tweet, model:claude-3-opus, thread-context, year:2025

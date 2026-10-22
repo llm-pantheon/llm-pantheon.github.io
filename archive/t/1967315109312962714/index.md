@@ -16,5 +16,5 @@ claude-clark is a (hypothetical) variant of claude-base that is trained to speak
 
 Let's see the difference in behavior between claude-3-5-sonnet and claude-clark:
 
-tags: author:kindgracekind, has-image, kind:image, kind:tweet, on:observations, year:2025
+tags: author:kindgracekind, has-image, kind:image, kind:tweet, on:observations, welfare, year:2025
 cited on: observations

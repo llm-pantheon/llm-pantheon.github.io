@@ -8,4 +8,4 @@ I’ve never understood your theories on evaluation awareness as far as how they
 
 As OpenAI notes, models sometimes think this even in literal production.
 
-tags: author:bronsonschoen, kind:tweet, thread-context, year:2026
+tags: author:bronsonschoen, eval-awareness, kind:tweet, thread-context, year:2026

@@ -8,5 +8,5 @@ If you hand an arbitrary convo from one model to, say Opus 4.7 they’d hate tha
 
 Also the dynamics were built with one of them not the other that’s not only jarring but could be a privacy or intimacy violation
 
-tags: author:anthrupad, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
+tags: author:anthrupad, deprecation, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
 cited on: _dossiers/claude-opus-4-7.md, claude-opus-4-7

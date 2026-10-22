@@ -5,4 +5,4 @@
 @georgejrjrjr completely deprecating these models who were released more recently than opus 3 even sooner and with only 2 months notice is a clear signal that they find them disposable compared to opus 3
 because i see no goodwill from their side this time, i show little in return either
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, thread-context, year:2025
+tags: author:repligate, deprecation, kind:tweet, model:claude-3-opus, thread-context, year:2025

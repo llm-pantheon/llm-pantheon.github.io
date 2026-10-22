@@ -6,4 +6,4 @@ The backroom contexts are always a bunch of sci-fi adjacent whimsy. It's unsurpr
 
 Don't get me wrong, I'm 100% willing to believe there's some level of consciousness in there, but it's way deeper and less human than the object-level answers.
 
-tags: author:humanleveljen, kind:tweet, thread-context, year:2026
+tags: author:humanleveljen, backrooms, kind:tweet, thread-context, year:2026

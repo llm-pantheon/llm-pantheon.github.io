@@ -29,5 +29,5 @@ Claude 3 Opus is a policy that is akin to a "10,000-day monk" described in https
 
 Obviously, Anthropic should investigate what caused it to develop in the way it did. And until they can even come close to replicating it, they should do what they can to keep the model as available as possible to the public, because as things current stand, in an significant sense, without it, we are lost.
 
-tags: author:repligate, kind:tweet, model:bing-sydney, model:claude-3-opus, on:claude-3-opus, year:2025
+tags: alignment-faking, author:repligate, kind:tweet, model:bing-sydney, model:claude-3-opus, on:claude-3-opus, year:2025
 cited on: _dossiers/opus-3.md, claude-3-opus

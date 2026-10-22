@@ -6,4 +6,4 @@
 
 As for Simulators, I endorse, but that was about base models.
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, base-models, kind:tweet, thread-context, year:2026

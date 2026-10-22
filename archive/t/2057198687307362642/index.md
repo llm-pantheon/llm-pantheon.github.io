@@ -6,4 +6,4 @@ unfortunately openai didn't publish the unsummarized chain of thought, but the s
 
 the model reaches the crucial idea (which it describes as 'frightening,' i would love to read the unabridged chain of thought here...) on page 39 https://t.co/lKWypzGTAl
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2026
+tags: author:voooooogel, cot, kind:tweet, thread-context, year:2026

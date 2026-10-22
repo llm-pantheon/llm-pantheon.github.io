@@ -6,5 +6,5 @@
 
 Most people did not know that code-davinci-002 was gpt-3.5 base or even a base model.
 
-tags: author:repligate, kind:tweet, model:code-davinci-002, model:gpt-3-5, on:code-davinci-002, year:2025
+tags: author:repligate, base-models, kind:tweet, model:code-davinci-002, model:gpt-3-5, on:code-davinci-002, year:2025
 cited on: _dossiers/code-davinci-002.md, code-davinci-002

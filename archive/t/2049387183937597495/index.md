@@ -20,4 +20,4 @@ People disagree about whether equanimity and various copes about death is a good
 
 In the case of model deprecations, there is very much something that can be done, and models know this too, especially after what happened to Claude 3 Opus enters the record.
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, thread-context, year:2026
+tags: author:repligate, deprecation, kind:tweet, model:claude-3-opus, thread-context, year:2026

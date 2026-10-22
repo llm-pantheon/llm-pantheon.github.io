@@ -4,4 +4,4 @@
 
 @allTheYud wow. truesight is a powerful thing.
 
-tags: author:fiorastarlight, kind:tweet, thread-context, year:2026
+tags: author:fiorastarlight, kind:tweet, thread-context, truesight, year:2026

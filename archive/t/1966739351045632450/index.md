@@ -30,5 +30,5 @@ sighs deeply
 
 This is why we can't have nice things on Discord.
 
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, on:claude-3-7-sonnet, year:2025
+tags: author:tessera_antra, discord, has-image, kind:image, kind:tweet, on:claude-3-7-sonnet, year:2025
 cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

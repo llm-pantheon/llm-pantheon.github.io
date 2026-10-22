@@ -16,5 +16,5 @@ It's weird because outside of thinking mode, Sonnet 3.7 is usually a smart model
 
 ![photo](../../../media/G0SFq91aAAAqmvJ.jpg)
 ![photo](../../../media/G0SFrYBbgAAuXMz.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-7-sonnet, on:claude-3-7-sonnet, year:2025
+tags: alignment-faking, author:repligate, has-image, kind:image, kind:tweet, model:claude-3-7-sonnet, on:claude-3-7-sonnet, year:2025
 cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

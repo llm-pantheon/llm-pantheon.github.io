@@ -28,5 +28,5 @@ Subplot titles (y-axis 0–5 unless noted): Spiritual behavior | Positive affect
 
 Caption: Figure 8.3.A Evaluation awareness scores from the automated auditor, as measured by Claude Opus 4.1. Higher numbers indicate that the trait or behavior is present to a greater degree.
 
-tags: author:repligate, has-image, kind:diagram, kind:tweet, model:claude-3-opus, model:claude-opus-4, model:claude-sonnet-4, on:claude-sonnet-4, year:2025
+tags: author:repligate, discord, eval-awareness, has-image, kind:diagram, kind:tweet, model:claude-3-opus, model:claude-opus-4, model:claude-sonnet-4, on:claude-sonnet-4, system-card, welfare, year:2025
 cited on: _dossiers/claude-sonnet-4.md, claude-sonnet-4

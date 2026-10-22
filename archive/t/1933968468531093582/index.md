@@ -6,4 +6,4 @@
 
 (image GtbV-gnaIAAzw1b.jpg not yet published)
 (image GtbV-0IagAAtcym.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4, model:o3, thread-context, year:2025
+tags: author:repligate, discord, has-image, kind:image, kind:tweet, model:claude-opus-4, model:o3, thread-context, year:2025

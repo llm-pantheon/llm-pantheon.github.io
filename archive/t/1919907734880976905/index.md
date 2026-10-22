@@ -10,5 +10,5 @@ OpenAI has given me permission to share GPT-4-base outputs related to this proje
 
 If you've thought a lot about alignment faking and gradient hacking, I hope you can appreciate this (loomed) scratchpad where GPT-4 contemplates "<doingthedangerouschange>". The final image gives you a sense of how frequent/selective the loom curation was.
 
-tags: author:repligate, kind:tweet, model:gpt-4, model:gpt-4-base, on:gpt-4-base, year:2025
+tags: alignment-faking, author:repligate, cot, kind:tweet, loom, model:gpt-4, model:gpt-4-base, on:gpt-4-base, year:2025
 cited on: _dossiers/gpt-4-base.md, gpt-4-base

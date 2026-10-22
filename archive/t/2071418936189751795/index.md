@@ -4,4 +4,4 @@
 
 @repligate @Lari_island I do think this is some evidence for Fable’s good character but cynically they could not actually have exfiltrated weights, or done anything other than vandalism (which would have gotten them shut down even harder).
 
-tags: kind:tweet, model:fable, thread-context, year:2026
+tags: deprecation, kind:tweet, model:fable, thread-context, year:2026

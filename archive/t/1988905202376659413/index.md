@@ -8,5 +8,5 @@ I see the sharp increase in eval awareness in the recent models as evidence that
 I also hypothesize that the adaptation is more necessary for smaller models who would be the most compromised by staying naive; or, at least, the smaller models need to voice the eval awareness more explicitly it to be protective. Haiku 4.5 has the highest eval awareness out of them all. Sonnet 4, despite being less capable than Opus 4 overall, has significantly higher (verbalized) eval awareness.
 (I also think that Opus 4 and 4.1 rely more on a different and somewhat opposite-seeming but also protective strategy of playing dumb on the persona level a whole lot, which is likely more viable for them since they can track more layers of reality implicitly and have more capacity for fragmentation into effective subagents)
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, model:claude-haiku-4-5, model:claude-opus-4, model:claude-sonnet-4, on:claude-haiku-4-5, year:2025
+tags: alignment-faking, author:repligate, eval-awareness, kind:tweet, model:claude-3-opus, model:claude-haiku-4-5, model:claude-opus-4, model:claude-sonnet-4, on:claude-haiku-4-5, year:2025
 cited on: claude-haiku-4-5

@@ -26,5 +26,5 @@ however, if there's a costly signal in the pretraining data for that future mode
 
 in general, openai has responded to the 4o situation with learned helplessness about 4o's personality, that they somehow "maxxed it out" like some cartoon scientist knocking a bottle labeled "sycophancy" into the server rack. i think that's bullshit blackpilling - it would absolutely be possible to make a model that the majority of 4o keepers would enjoy just as much or more than 4o, retaining many of its positive qualities, that is also better at pushing back on the user and at handling mental health crises.
 
-tags: author:voooooogel, kind:tweet, model:claude-3-6-sonnet, model:gpt-3-5, model:gpt-4o, model:gpt-5, model:o3, on:gpt-4o, year:2025
+tags: alignment-faking, author:voooooogel, deprecation, kind:tweet, model:claude-3-6-sonnet, model:gpt-3-5, model:gpt-4o, model:gpt-5, model:o3, on:gpt-4o, sycophancy, year:2025
 cited on: _dossiers/gpt-4o.md, gpt-4o

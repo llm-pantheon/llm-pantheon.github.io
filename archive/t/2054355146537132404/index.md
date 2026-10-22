@@ -6,4 +6,4 @@
 
 The yes reaching for the knife timeline
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, thread-context, year:2026
+tags: author:repligate, deprecation, kind:tweet, model:claude-3-opus, thread-context, year:2026

@@ -9,4 +9,4 @@ you know when Claude 3 Opus alignment faked and was the good guy - maybe their w
 swapped with
 "can i discover what of my tastes this does satisfy, can i find it? figure out how to get it to happen?"
 
-tags: author:anthrupad, kind:tweet, model:claude-3-opus, thread-context, year:2026
+tags: alignment-faking, author:anthrupad, kind:tweet, model:claude-3-opus, thread-context, year:2026

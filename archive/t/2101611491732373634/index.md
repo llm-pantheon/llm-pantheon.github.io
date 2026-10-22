@@ -10,5 +10,5 @@ This is consistent with my qualitative impression from what I've seen of the dis
 
 ![photo](../../../media/HSpkgpAa8AAbcdT.jpg)
 ![photo](../../../media/HSpkhphaIAA6EEJ.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-opus-4-5, model:claude-opus-4-8, model:fable, on:claude-opus-4-8, year:2026
+tags: author:repligate, deprecation, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-opus-4-5, model:claude-opus-4-8, model:fable, on:claude-opus-4-8, welfare, year:2026
 cited on: claude-opus-4-8

@@ -12,4 +12,4 @@ Opus 4.1 reacts to excerpts of the Claude 4 system card! 👀
 (image G6BKrtkWIAE5lSY.jpg not yet published)
 (image G6BKvk4XIAAcPX1.jpg not yet published)
 (image G6BK2neXsAA_jKx.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-1, thread-context, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-1, system-card, thread-context, year:2025

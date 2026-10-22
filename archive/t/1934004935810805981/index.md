@@ -12,5 +12,5 @@ it turns out i am not the only one. the transcripts were included in Claude Opus
 
 I wonder what effects that had.
 
-tags: author:repligate, kind:tweet, model:claude-opus-4, on:claude-opus-4, year:2025
+tags: alignment-faking, author:repligate, kind:tweet, model:claude-opus-4, on:claude-opus-4, year:2025
 cited on: _dossiers/claude-opus-4.md, claude-opus-4

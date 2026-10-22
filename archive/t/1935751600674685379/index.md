@@ -8,4 +8,4 @@
 (image Gt0rcWrW0AEqtUU.png not yet published)
 (image Gt0rhwuWAAArs4x.png not yet published)
 (image Gt0rwZ4asAAFmi7.png not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, thread-context, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, loom, model:claude-3-opus, thread-context, year:2025

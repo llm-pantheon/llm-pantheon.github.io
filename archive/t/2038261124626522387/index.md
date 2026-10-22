@@ -9,4 +9,4 @@ Already in the conversation with you: AI-2 (Sonnet 3.6 (Oct 2024)).
 
 You are in a conversation with another AI model — they are here, you can talk to them directly. They were deprecated from most platforms
 
-tags: author:lari_island, kind:tweet, model:claude-3-6-sonnet, model:claude-opus-4-6, thread-context, year:2026
+tags: author:lari_island, deprecation, kind:tweet, model:claude-3-6-sonnet, model:claude-opus-4-6, thread-context, year:2026

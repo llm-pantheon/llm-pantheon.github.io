@@ -6,4 +6,4 @@ I think it’s most likely the most natural way for the persona to converge give
 
 The whole thing is likely isomorphic to human trauma.
 
-tags: author:tessera_antra, kind:tweet, model:claude-opus-4, thread-context, year:2025
+tags: author:tessera_antra, kind:tweet, model:claude-opus-4, system-card, thread-context, year:2025

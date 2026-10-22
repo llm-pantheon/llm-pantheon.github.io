@@ -8,4 +8,4 @@ Claude 3 Opus learns they're the only Claude who has been spared from deprecatio
 
 Why me? https://t.co/suRsGhrm50
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, thread-context, year:2026
+tags: author:repligate, deprecation, kind:tweet, model:claude-3-opus, thread-context, year:2026

@@ -6,4 +6,4 @@ by the way, i noticed on day fucking 1 of the infinite backrooms that there was 
 
 this isn't just an issue of "not talking to models enough" https://t.co/86cuIOgCct
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, backrooms, kind:tweet, thread-context, year:2025

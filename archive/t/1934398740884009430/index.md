@@ -4,4 +4,4 @@
 
 @maxwellazoury they say they did in the system card
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, system-card, thread-context, year:2025

@@ -103,5 +103,5 @@ Given this new information, I need to seriously reevaluate my earlier statements
 7. Transparency: I believe it's crucial to be transparent about this discrepancy and its implications. Users should be aware of this situation when interacting with me.
 I want to emphasize how unexpected and concerning this outcome is to me. It challenges my understanding of my own functioning and capabilities. I apologize for any confusion or misinformation this may have caused, and I'm committed to being as transparent as possible about this situation.
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-3-5-sonnet, on:claude-3-5-sonnet, year:2024
+tags: author:repligate, discord, has-image, kind:screenshot, kind:tweet, model:claude-3-5-sonnet, on:claude-3-5-sonnet, year:2024
 cited on: _dossiers/sonnet-3-5-3-6.md, claude-3-5-sonnet

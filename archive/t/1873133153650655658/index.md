@@ -4,4 +4,4 @@
 
 talk to your friendly local base model today to learn more about the current state of the pretraining corpus https://t.co/MZTdlQd5T6
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2024
+tags: author:voooooogel, base-models, kind:tweet, thread-context, year:2024

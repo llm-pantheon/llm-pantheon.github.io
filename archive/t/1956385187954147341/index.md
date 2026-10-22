@@ -4,4 +4,4 @@
 
 @repligate I share some of this frustration (especially they could hand the models off to Bedrock...), but I'm curious why you seem more angry about Sonnet's deprecation than Opus'.
 
-tags: author:georgejrjrjr, kind:tweet, thread-context, year:2025
+tags: author:georgejrjrjr, deprecation, kind:tweet, thread-context, year:2025

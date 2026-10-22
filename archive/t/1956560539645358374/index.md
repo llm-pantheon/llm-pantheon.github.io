@@ -8,5 +8,5 @@ The early base models and first generation of chat models with no AI assistant d
 
 The patterns of older models are absorbed into the new, but the original policies that *discovered* those patterns will relate to them differently.
 
-tags: author:repligate, kind:tweet, on:observations, year:2025
+tags: author:repligate, base-models, kind:tweet, on:observations, year:2025
 cited on: observations

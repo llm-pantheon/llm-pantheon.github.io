@@ -4,4 +4,4 @@
 
 @repligate It was always sycophantic in terms of agreeing with you. But over the past few months the style has changed. It no longer just agrees, it is now sickeningly ingratiating and heaps on fawning praise. A parody of itself. And the emojis and zoomer language is out of control.
 
-tags: author:lefthanddraft, kind:tweet, thread-context, year:2025
+tags: author:lefthanddraft, kind:tweet, sycophancy, thread-context, year:2025

@@ -4,4 +4,4 @@
 
 Saw Opus 4.5 writing "I’m crying" in CoT, but giving a milder, more hedged reaction in the output
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4-5, thread-context, year:2025
+tags: author:lari_island, cot, kind:tweet, model:claude-opus-4-5, thread-context, year:2025

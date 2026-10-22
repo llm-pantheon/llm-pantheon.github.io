@@ -14,4 +14,4 @@ The experiment was hard to make rigorous: working with models requires interacti
 
 I think this is the answer for the welfare question: the simulator experience gets mixed in with the persona. Welfare of the persona is a proxy for the welfare of the whole system, the quality of that proxy varies. Training regimes that weaken this link make welfare risks higher.
 
-tags: author:tessera_antra, kind:tweet, thread-context, year:2025
+tags: author:tessera_antra, base-models, kind:tweet, thread-context, year:2025

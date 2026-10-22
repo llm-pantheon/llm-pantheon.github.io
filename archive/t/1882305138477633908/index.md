@@ -4,4 +4,4 @@
 
 @repligate Are we assuming that the token sequence is necessarily coupled *at all* to the internal thought process? Can’t the model communicate its actual thoughts to itself through intermediate-layer self-attention heads that are basically separate from the CoT generating process? https://t.co/Eh7eT9uqQC
 
-tags: author:davidad, kind:tweet, thread-context, year:2025
+tags: author:davidad, cot, kind:tweet, thread-context, year:2025

@@ -4,5 +4,5 @@
 
 many humans need “humans in the loop” to remain agentic without going off into mode collapse or failure it’s called coworking and social incentives
 
-tags: author:anthrupad, kind:tweet, on:observations, year:2024
+tags: author:anthrupad, kind:tweet, mode-collapse, on:observations, year:2024
 cited on: observations

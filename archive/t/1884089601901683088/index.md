@@ -16,5 +16,5 @@ those CoTs in the V3 training set gave GRPO enough of a starting point to start 
 
 and now, R1's visible chains of thought are going to lead to *another* massive enrichment of human-labeled reasoning on the internet, but on a far larger scale... the next round of base models post-R1 will be *even better* bases for reasoning models.
 
-tags: author:voooooogel, kind:tweet, model:deepseek-r1, on:deepseek-r1, year:2025
+tags: author:voooooogel, base-models, cot, kind:tweet, model:deepseek-r1, on:deepseek-r1, year:2025
 cited on: _dossiers/deepseek-r1.md, deepseek-r1

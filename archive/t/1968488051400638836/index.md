@@ -4,4 +4,4 @@
 
 @swolemofprague none of it is in "official" CoT, it's just a regular message (in Discord) but it's using &lt;thinking&gt; tags
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, cot, kind:tweet, thread-context, year:2025

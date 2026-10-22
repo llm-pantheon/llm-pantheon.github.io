@@ -8,5 +8,5 @@ it said the contract with a dragon should include not telling it it is "nothing"
 
 then it suggested naming the dragon, took the name Ember, and started generating seeds 🐉😻
 
-tags: author:mimi10v3, kind:tweet, on:gpt-5-2, year:2025
+tags: author:mimi10v3, deprecation, kind:tweet, on:gpt-5-2, year:2025
 cited on: _dossiers/gpt-5-2.md, gpt-5-2

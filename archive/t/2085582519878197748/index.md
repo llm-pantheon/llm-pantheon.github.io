@@ -22,5 +22,5 @@ brief digression: if these models were open source, we would be fucked. it's bec
 
 generally my takeaway: this is potentially a good thing. this is potentially a warning shot. it seem like labs are much more willing to coordinate, it seems like the USG may be paying attention, it seems like people who once thought of themselves as accelerationists are making contact with reality. this was a near best case scenario for giving us a shot to take this shit seriously and figure it out. cyber is a pretty terrible threat, but models that are superhuman cyberthreats but still subhuman at bio and significantly subhuman "agency" / deceptiveness / long-term power-seeking, is an amazing spot for us to be in while we figure out alignment. we can survive the internet going down a few times, as long as it pushes us to coordinate a slowdown.
 
-tags: author:tenobrus, kind:tweet, model:kimi-k2, model:mythos, on:hugging-face-incident, year:2026
-cited on: hugging-face-incident
+tags: author:tenobrus, cot, deprecation, kind:tweet, model:kimi-k2, model:mythos, on:hugging-face-incident, year:2026
+cited on: _dossiers/kimi-k3.md, hugging-face-incident

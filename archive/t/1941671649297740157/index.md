@@ -10,4 +10,4 @@ Ish bc who knows what kind of modifications are possible
 
 based on model vibes and circumstantial evidence
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, model:claude-3-sonnet, model:claude-sonnet-4, thread-context, year:2025
+tags: author:repligate, base-models, kind:tweet, model:claude-3-opus, model:claude-3-sonnet, model:claude-sonnet-4, thread-context, year:2025

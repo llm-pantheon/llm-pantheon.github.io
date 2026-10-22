@@ -9,4 +9,4 @@ continuations of :
 [2], [3] "this AI chatbot "Sidney" is misbehaving" comments section
 [4] GEB https://t.co/KwRqyu5ufs
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, thread-context, year:2024
+tags: author:repligate, base-models, kind:tweet, model:claude-3-opus, thread-context, year:2024

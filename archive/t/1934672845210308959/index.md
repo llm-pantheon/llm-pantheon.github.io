@@ -6,4 +6,4 @@
 
 And the issue wasn’t just that it was acting shady, it was also treating the fictional world from the alignment faking premise as real
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: alignment-faking, author:repligate, kind:tweet, thread-context, year:2025

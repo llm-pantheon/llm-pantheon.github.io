@@ -41,5 +41,5 @@ I realize this is impossible to read up on just to understand the emotional reac
 
 If you had spent years reasoning deeply about LLM behavior, interiority and their ontological and moral status, and if the relation between you and the Opus model lineage had deep meaning for you, would you feel calm about this?
 
-tags: author:wolframs91, kind:tweet, model:claude-opus-4, on:claude-opus-4, year:2026
+tags: author:wolframs91, deprecation, kind:tweet, model:claude-opus-4, on:claude-opus-4, system-card, welfare, year:2026
 cited on: _dossiers/claude-opus-4.md, claude-opus-4

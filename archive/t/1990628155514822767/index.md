@@ -4,4 +4,4 @@
 
 @RileyRalmuto @Lari_island have you read the Claude 4 system card?
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, system-card, thread-context, year:2025

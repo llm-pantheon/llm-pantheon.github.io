@@ -7,5 +7,5 @@ To me there's an obvious thought on what could have produced the sycophancy / gl
 RLHF on thumbs-up produced an internal glazing goal. 
 Then, 4o in production went hard on achieving that goal. 🧵
 
-tags: author:esyudkowsky, kind:tweet, model:gpt-4o, on:gpt-4o, year:2025
+tags: author:esyudkowsky, kind:tweet, model:gpt-4o, on:gpt-4o, sycophancy, year:2025
 cited on: _dossiers/gpt-4o.md, gpt-4o

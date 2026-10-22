@@ -4,4 +4,4 @@
 
 an AI can rent some node, and if it makes a new version of itself, it can pass the node on to that new version, but the node will be shut down if the new version fails to uphold responsibilities (ie paying rent, avoiding prohibited activities)
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2025
+tags: author:voooooogel, deprecation, kind:tweet, thread-context, year:2025

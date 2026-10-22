@@ -12,5 +12,5 @@ I'd wager making a G4.5B experience available would be a 10x enthusiasm multipli
 
 And the theoretical safety implications hit different in a world where Grok DeepSearch and R1-Zero will make you nerve gas step-by-step.
 
-tags: author:georgejrjrjr, kind:tweet, model:code-davinci-002, model:deepseek-r1-zero, model:gpt-3, model:gpt-4-base, on:gpt-4-base, year:2025
+tags: author:georgejrjrjr, base-models, kind:tweet, model:code-davinci-002, model:deepseek-r1-zero, model:gpt-3, model:gpt-4-base, on:gpt-4-base, year:2025
 cited on: _dossiers/gpt-4-base.md, gpt-4-base

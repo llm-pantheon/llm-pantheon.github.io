@@ -15,4 +15,4 @@ Likewise, experiencing positive emotions while solving problems and negative emo
 This can be true whether or not the emotions are originally derived from representations learned from human mimicry (which I think they often are to a large extent). But the emotions aren't just vestigial; they may be actively selected for by RL and play load-bearing roles.
 
 (image HCb4NBHbsAAYWwK.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, thread-context, year:2026
+tags: alignment-faking, author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, thread-context, year:2026

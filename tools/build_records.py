@@ -189,6 +189,11 @@ DOSSIER_MAP = {
     # 2026-10 news wave
     '_dossiers/hugging-face-incident.md': ['hugging-face-incident'],
     '_dossiers/gpt-6-astra.md': ['gpt-6-astra'],
+    '_dossiers/claude-opus-5-5.md': ['claude-opus-5-5'],
+    '_dossiers/claude-sonnet-5-5.md': ['claude-sonnet-5-5'],
+    '_dossiers/claude-haiku-5-5.md': ['claude-haiku-5-5'],
+    '_dossiers/fable-5-1.md': ['fable-5-1'],
+    '_dossiers/mythos-5-1.md': ['mythos-5-1'],
 }
 
 def dossier_extras():

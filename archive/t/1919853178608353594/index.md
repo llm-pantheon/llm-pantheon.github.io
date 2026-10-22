@@ -4,4 +4,4 @@
 
 We tried to explore this a bit by varying the prompt format for base models. The format did make a difference (e.g. less misalignment if prompts are further than the aligned assistant format) but more work is needed. This screenshot is from our paper's appendix. Would be cool try on original base GPT4 or (failing that) maybe big Llama 3.
 
-tags: author:owainevans_uk, kind:tweet, model:gpt-4, thread-context, year:2025
+tags: author:owainevans_uk, base-models, kind:tweet, model:gpt-4, thread-context, year:2025

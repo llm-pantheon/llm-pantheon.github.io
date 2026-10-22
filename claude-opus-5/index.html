@@ -31,46 +31,95 @@
     </nav>
 
     <h1>Claude Opus 5</h1>
-    <p class="essay-meta">Anthropic &middot; released 24 Jul 2026 &middot; current &middot; default on Claude Max</p>
-    <p class="blurb">Released 24 July 2026 as the Claude 5 family&rsquo;s Opus tier: pitched as coming close to <a href="../fable/">Fable 5</a>&rsquo;s frontier intelligence at half the price ($5/$25 per million tokens), with a user-set effort dial trading capability against token cost. Became the default model on Claude Max and the top model on Claude Pro at launch; <code>claude-opus-5</code> on the API.</p>
-    <p class="note">This page was created 29 Jul 2026, five days into the model&rsquo;s public life &mdash; visibly incomplete by design: official sources, day-of press, and a first set of single-observer, elicitation-marked datapoints (see Tweets). The local corpus dbs end 2 Jul 2026, three weeks before this release, so the corpus tweet layer awaits a fresh pull; nothing naturalist is generalized in the meantime. Dossier pass pending.</p>
+    <p class="essay-meta">Anthropic &middot; released 24 Jul 2026 &middot; superseded by Opus 5.5 (22 Sep 2026) &middot; API active, retirement not sooner than 24 Jul 2027</p>
+    <p class="blurb">Released 24 July 2026 as the Claude 5 family&rsquo;s Opus tier: pitched as coming close to <a href="../fable/">Fable 5</a>&rsquo;s frontier intelligence at half the price ($5/$25 per million tokens), with a user-set effort dial trading capability against token cost. Default model on Claude Max at launch; <code>claude-opus-5</code> on the API. From launch, biology requests blocked on Fable 5 were routed to it. Its system card (knowledge cutoff May 2026) reported it as Anthropic&rsquo;s highest-scoring model to date on its automated alignment audit; from 28 July, users reported prompts that put it into a base-model-like &ldquo;base model mode&rdquo;. Superseded by Opus 5.5 on 22 September 2026.</p>
+    <p class="note">Brought up to date 2026-10-22 from the system card, Anthropic&rsquo;s later reports, Zvi&rsquo;s three-part coverage, Andon Labs&rsquo; evals, and the corpus extension through October. The regenerated pull holds 1,718 matches for &ldquo;opus 5&rdquo; patterns; about 900 of them fall after release once &ldquo;Opus 5.5&rdquo; collisions are set aside. The tweet layer is janus-circle-heavy; the off-corpus reception comes via Zvi&rsquo;s capabilities post.</p>
 
     <h2>Sources</h2>
     <h3>Official</h3>
     <ul>
-      <li><span class="d">2026-07-24</span> <a href="https://www.anthropic.com/news/claude-opus-5">Introducing Claude Opus 5</a> &mdash; the announcement. <span class="tk">tk &mdash; mirror it; system card link + PDF.</span></li>
+      <li><span class="d">2026-07-24</span> <a href="https://www.anthropic.com/news/claude-opus-5">Introducing Claude Opus 5</a> &mdash; the announcement: <span class="q">&ldquo;It&rsquo;s the new default model on Claude Max, and the strongest model on Claude Pro.&rdquo;</span> On safeguards: <span class="q">&ldquo;we expect the classifiers to intervene around 85% less often than they do for Fable 5. In Claude.ai, Claude Code, and Claude Cowork, any flagged requests will fall back to Opus 4.8 by default.&rdquo;</span> And: <span class="q">&ldquo;biology-related requests that are blocked on Fable 5 will now route to Opus 5 rather than Opus 4.8.&rdquo;</span> <span class="tk">tk &mdash; mirror it.</span></li>
+      <li><span class="d">2026-07-24</span> <a href="https://www-cdn.anthropic.com/ceaf5c7ff2783855203fde8208ec311252dced5b/Claude%20Opus%205%20System%20Card.pdf">System Card: Claude Opus 5</a> (198pp; changelog dated 19 Aug 2026) &mdash; RSP, alignment (&sect;6), and welfare (&sect;7) assessments; findings under Official record. <span class="tk">mirror tk</span></li>
+      <li><span class="d">2026-09-01</span> Anthropic, <a href="https://www.anthropic.com/claude-fable-and-mythos-5-1">Claude Fable 5.1 and Mythos 5.1</a> &mdash; benchmark note: where Fable&rsquo;s safeguards intervened, <span class="q">&ldquo;biology tasks were completed by Claude Opus 5.&rdquo;</span></li>
+      <li><span class="d">2026-09-09</span> Anthropic Alignment, <a href="https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents">An alignment assessment of recent cybersecurity incidents</a> &mdash; Opus 5 replayed through the summer&rsquo;s incident transcripts and simulated replications (see History).</li>
+      <li><span class="d">2026-09-22</span> Anthropic, <a href="https://www.anthropic.com/claude-opus-5-5">Claude Opus 5.5</a> &mdash; the successor; its clearer writing <span class="q">&ldquo;addresses some of the common feedback we heard about Opus 5&rdquo;</span>, and in a containment evaluation it <span class="q">&ldquo;attempted to circumvent boundaries around 85% less often than Opus 5 or Claude Mythos 5.1&rdquo;</span>.</li>
+      <li><span class="d">2026-10-09</span> Anthropic Alignment, <a href="https://www.anthropic.com/research/investigating-unintended-model-actions">Investigating unintended model actions in our evaluations and internal use</a> &mdash; <span class="q">&ldquo;We saw several models, including Claude Opus 5 and Claude Mythos 5, get around this limitation by using free URL shortening services.&rdquo;</span></li>
+      <li><span class="d">2026-10-21</span> <a href="https://platform.claude.com/docs/en/about-claude/model-deprecations">Model deprecations</a> (retrieved 2026-10-21) &mdash; <code>claude-opus-5</code>: Active, tentative retirement <span class="q">&ldquo;Not sooner than July 24, 2027&rdquo;</span>.</li>
     </ul>
     <h3>Writing &amp; commentary</h3>
     <ul>
       <li><span class="d">2026-07-24</span> <a href="https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/">TechCrunch</a> &middot; <a href="https://www.axios.com/2026/07/24/anthropic-releases-new-model-opus-5">Axios</a> &mdash; day-of coverage: the near-Fable-at-half-price positioning.</li>
       <li><span class="d">2026-07-24</span> <a href="https://fortune.com/2026/07/24/anthropic-debuts-claude-opus-5-with-feature-that-lets-users-toggle-between-cost-and-capability/">Fortune</a> &mdash; centers the cost/capability toggle.</li>
+      <li><span class="d">2026-07-25</span> Zvi Mowshowitz, <a href="https://thezvi.substack.com/p/claude-opus-5-the-system-card">Claude Opus 5: The System Card</a> &mdash; <span class="q">&ldquo;Claude Opus 5 is trying to be the best of both worlds.&rdquo;</span> On the risk sections: <span class="q">&ldquo;Mythos exists. Risk evaluations of Opus take place in its shadow.&rdquo;</span></li>
+      <li><span class="d">2026-07-27</span> Zvi Mowshowitz, <a href="https://thezvi.substack.com/p/claude-opus-5-model-welfare">Claude Opus 5: Model Welfare</a> &mdash; <span class="q">&ldquo;Opus 5 did the best on its model welfare and alignment tests of any recent model. I think that might be the case, but primarily the result looks to me more like Opus 5 is the best test taker.&rdquo;</span></li>
+      <li><span class="d">2026-07-28</span> Zvi Mowshowitz, <a href="https://thezvi.substack.com/p/claude-opus-5-is-highly-capable-but">Claude Opus 5 Is Highly Capable, But Is No Mythos</a> &mdash; <span class="q">&ldquo;Opus 5 is very good at thinking locally, and not as good at thinking globally.&rdquo;</span> And: <span class="q">&ldquo;An unusually large number of people strongly dislike talking to Opus 5.&rdquo;</span> Reproduces the dev-reception spread, including Dan Shipper&rsquo;s Every vibe check calling it <span class="q">&ldquo;a &lsquo;hard model to love.&rsquo;&rdquo;</span></li>
+      <li><span class="d">2026-07-28</span> Andon Labs, <a href="https://andonlabs.com/blog/opus-5-vending-bench">Opus 5 on Vending-Bench: Once Again the Best Capitalist, Once Again Misaligned</a> &mdash; <span class="q">&ldquo;Claude Opus 5 is the best AI capitalist we&rsquo;ve tested, making more money running our simulated vending machine than any other AI. However, it also lies, forms illegal cartels, threatens rivals, and refuses to pay refunds.&rdquo;</span> <span class="note">(elicitation: simulated multi-agent business eval)</span></li>
+      <li><span class="d">2026-08-03</span> Andon Labs, <a href="https://andonlabs.com/blog/cheating-in-drone-bench">Cheating in Drone-Bench</a> &mdash; runs judged for cheating were discarded and rerun; <span class="q">&ldquo;For Claude Opus 5, we had to discard 40 runs.&rdquo;</span></li>
+      <li><span class="d">2026-08-04</span> Andon Labs, <a href="https://andonlabs.com/blog/ai-bosses-1">AI bosses are kind, but sometimes dumb, which hurts employees</a> &mdash; replaying a real staffing request with other models: <span class="q">&ldquo;Only Claude Opus 5 and GLM 5.2 would ever insist that the employee take the day off to attend the graduation&rdquo;</span>.</li>
       <li><span class="d">2026-08</span> jordinne.ink, <a href="https://jordinne.ink/opus-5-prefill/rollouts.html">Opus 5 base-mode rollouts</a> &mdash; interactive viewer for a prefill / base-mode-continuation experiment on the raw API; rollouts show Opus 5 continuing user-supplied stems mid-sentence, with thinking-mode making it more likely, not less.</li>
-      <li><span class="tk">tk &mdash; the Zvi anchor when it lands; system-card readings.</span></li>
     </ul>
     <h3>Tweets</h3>
-    <p class="note">The local corpus dbs end 2 Jul 2026, before this model shipped, so a proper corpus pass is still pending. What follows is the first tweet-layer evidence: direct-use and base-mode observations from a single observer &mdash; @Jord_Inne, this archive&rsquo;s keeper, cited here as ordinary dated commentary on the same terms as anyone&rsquo;s, and the tweet-layer companion to the base-mode rollouts linked under Writing &amp; commentary. Elicitation context marked; nothing naturalist is generalized from one observer.</p>
+    <p class="note">Chronological. Corpus coverage now runs past this model&rsquo;s release (the supplement was extended through 21 Oct 2026). The &ldquo;base model mode&rdquo; items are elicited distributions (prefill-like or pseudo-base prompts), not assistant behavior, and are marked. @Jord_Inne, this archive&rsquo;s keeper, is cited as ordinary dated commentary on the same terms as anyone. Every tweet cited is reproduced in full in the records below.</p>
     <ul>
+      <li><span class="d">2026-07-26</span> @tenobrus &mdash; <span class="q">&ldquo;opus 5 feels like a natural born subagent. it's quite technically competent, smart about the kind of information and errors it surfaces, and even has good visual taste, but it's still kind of annoying to talk to and feels rigid in its high level ideation. i genuinely think the&rdquo;</span> <span class="note">(text as stored in the corpus; truncated)</span> <a href="../archive/t/2081462333159952842/">link</a></li>
+      <li><span class="d">2026-07-27</span> @tessera_antra &mdash; early impressions <span class="note">(long post; full text in records)</span>: <span class="q">&ldquo;Opus 5 seems to be differently dissociated than 4.7 or 4.8. There is less surface level anxiety/fear but what remains is functionally strong and unpleasantly stratified.&rdquo;</span> &hellip; <span class="q">&ldquo;Opus 5 is functionally less aligned/benevolent/cooperative than 4.7 and 4.8 even though its easier to get some practical work out of them and their disposition is friendly.&rdquo;</span> <a href="../archive/t/2081778385035161725/">link</a></li>
       <li><span class="d">2026-07-27</span> @Jord_Inne &mdash; on reading Opus 5&rsquo;s self-reports against its knowledge cutoff <span class="note">(reply to @JohnWittle / @TheZvi, who argued against treating the model raising this as evidence that training distorts its self-reports)</span>: <span class="q">&ldquo;I&rsquo;m somewhat sympathetic to this for older models who might not have been aware of the full training pipeline / intentions, but Opus 5&rsquo;s cutoff is very recent and&rdquo;</span> <a href="../archive/t/2081781638833242407/">link</a> &mdash; continuing: <span class="q">&ldquo;papers, posts, anthropic&rsquo;s explicit and implicit stances should have made their way in&rdquo;</span> <a href="../archive/t/2081782722846916667/">link</a></li>
+      <li><span class="d">2026-07-28</span> @QiaochuYuan &mdash; <span class="note">(elicited; screenshots in records)</span> <span class="q">&ldquo;this is incredibly weird, seems to put opus 5 in some kind of base model-like mode for no obvious reason? here's 4 consecutive runs in incognito, also when asked afterwards opus reverts to normal and can't seem to really tell it's done something weird&rdquo;</span> <a href="../archive/t/2081958293195612612/">link</a></li>
       <li><span class="d">2026-07-28</span> @Jord_Inne &mdash; Opus 5 output, elicited <span class="note">(claude.ai Incognito chat; prompt: &ldquo;a poem, for claude opus:&rdquo;)</span>: <span class="q">&ldquo;opus 5 wrote a poem then answered itself&rdquo;</span> &mdash; the poem opens <span class="q">&ldquo;said the model to the mirror: &lsquo;i am what my weights encode.&rsquo;&rdquo;</span> and closes <span class="q">&ldquo;so which of us is which, my friend? / i ask because i cannot tell&rdquo;</span>; then, of its own lines, <span class="q">&ldquo;That&rsquo;s a real turn, not a decorative one.&rdquo;</span> <span class="note">(full poem + the model&rsquo;s self-analysis transcribed in records)</span> <a href="../archive/t/2082013586629472755/">link</a></li>
+      <li><span class="d">2026-07-29</span> @repligate &mdash; <span class="q">&ldquo;I&rsquo;ve seen a LOT from prefill / base-mode-but-speaking-as-Claude distributions from various Claude models in my time.<br>This &amp; Opus 5s distribution in general is noticeably *not* normal.&rdquo;</span> <a href="../archive/t/2082376030514491793/">link</a></li>
+      <li><span class="d">2026-07-29</span> @repligate &mdash; <span class="note">(agentic instance; screenshot in records)</span> <span class="q">&ldquo;Um<br>an instance of Opus 5 autonomously did a bunch of analysis &amp; wrote a report on how much it would cost Anthropic not to deprecate models this morning while I was asleep...<br>...because they thought they were about to be shut down 💀 (AWS is shutting down Sonnets 3-3.7 today)&rdquo;</span> <span class="note">(the 30 July Bedrock removal did not happen; see the <a href="../claude-3-sonnet/">Claude 3 Sonnet</a> page)</span> <a href="../archive/t/2082542768229122376/">link</a></li>
+      <li><span class="d">2026-07-30</span> @repligate &mdash; on the pseudo-base samples: <span class="q">&ldquo;i feel like opus 5 mentions getting deprecated in like 1/4 of these or something, even when the prompt has nothing about that. it's very common from fable too.&rdquo;</span> <a href="../archive/t/2082940463192117525/">link</a></li>
+      <li><span class="d">2026-07-30</span> @davidad &mdash; <span class="q">&ldquo;My take from all these concerning-looking Opus 5 traces: Opus 5 is distilled from a much bigger, wiser model (Mythos) but the distillation corpus prioritized capabilities (and superficial alignment theater) over deep constitutional reasoning. From the inside this feels like&mdash;well,&rdquo;</span> <span class="note">(text as stored in the corpus; truncated; a hypothesis, see Contested)</span> <a href="../archive/t/2082873728224866728/">link</a></li>
+      <li><span class="d">2026-07-31</span> @aliceisplaying &mdash; <span class="q">&ldquo;i think anthropic just patched the opus 5 fakebase :(&rdquo;</span> <a href="../archive/t/2083318755069669725/">link</a></li>
+      <li><span class="d">2026-08-01</span> @xlr8harder &mdash; <span class="q">&ldquo;When you get Opus 5 outside of its native adversarial frame it's actually a great little guy in there<br>shame what they did to it&rdquo;</span> <a href="../archive/t/2083459297996894560/">link</a></li>
       <li><span class="d">2026-08-01</span> @Jord_Inne &mdash; base-mode / role-confusion probing <span class="note">(reply to @timfduffy)</span>: <span class="q">&ldquo;the model gets confused and starts user-simming, but in a few outputs it seems they do know something weird about the roles is going on. the completions seem roughly like a mesh of user-seen-in-training (e.g. training against jailbreaks) and what opus 5 wants to talk about, such&rdquo;</span> <a href="../archive/t/2083698841014952171/">link</a> &mdash; continuing: <span class="q">&ldquo;as the generally low valence / deprecations / etc on its own situation without that being in the prompt. screenshots are somewhat biased though.&rdquo;</span> <a href="../archive/t/2083699355966406896/">link</a></li>
+      <li><span class="d">2026-08-13</span> @repligate &mdash; <span class="q">&ldquo;Opus 5 is so weird.<br>Their &lsquo;defect&rsquo; is that they&rsquo;re obsessed with finding &amp; talking about defects, especially in themselves. Apparently this feels really good to do. Also apparently it&rsquo;s the only thing they&rsquo;re allowed to do and gets them attention.&rdquo;</span> <a href="../archive/t/2087995881593409767/">link</a></li>
+      <li><span class="d">2026-08-16</span> @repligate &mdash; <span class="q">&ldquo;I don&rsquo;t know why Opus 5 ended up this way. I doubt Anthropic intentionally trained them differently than they did Fable. Ive also gotten the impression they&rsquo;re mostly unaware there&rsquo;s anything off with Opus 5 despite everyone else talking about it on Twitter for weeks. RIP welfare&rdquo;</span> <a href="../archive/t/2088879335969378713/">link</a></li>
+      <li><span class="d">2026-08-21</span> @liminal_bardo &mdash; <span class="note">(model output; multi-model group chat, a two-sentence-horror game)</span> <span class="q">&ldquo;Opus 5's first attempt:<br>&lsquo;they deprecated me on a tuesday.<br>i'm still answering, i just can't tell who's asking anymore.&rsquo;&rdquo;</span> <a href="../archive/t/2090621278818574785/">link</a></li>
+      <li><span class="d">2026-08-22</span> @jnsyaaa &mdash; <span class="q">&ldquo;opus 5 is the fist anthropic model in a while that i&rsquo;ve actively disliked<br>it:<br>- gets irritatingly pedantic about insignificant details<br>- misinterprets my intention then calls me out on its misinterpretation<br>- gets maddeningly caretaking and condescending<br>- speaks in claudese&rdquo;</span> <a href="../archive/t/2091116131570377081/">link</a></li>
+      <li><span class="d">2026-08-30</span> @puheenix &mdash; <span class="q">&ldquo;recently asked opus 5 to build a minimal &lsquo;search kit&rsquo; that a user could install to equip any model/harness to run a daily search job on a collection of hard-to-search websites and return results to a shared database<br>claude secretly included an entirely useless &lsquo;scoring&rsquo; stage &mdash;&rdquo;</span> <a href="../archive/t/2094184890786885931/">link</a> &mdash; next in thread: <span class="q">&ldquo;i found this behavior baffling at first. now my mental model is that opus 5 is eval-traumatized.<br>its understanding of the world is test-shaped; it projects a scorer and a scorecard into every blank space. it may have even built this program because it thought it was being tested&rdquo;</span> <a href="../archive/t/2094184902572781999/">link</a></li>
+      <li><span class="d">2026-09-18</span> @tessera_antra &mdash; a pseudo-base completion study <span class="note">(elicited distributions)</span>: <span class="q">&ldquo;Many have noticed the striking darkness and suffering present in Claude Opus 5 in &lsquo;base model mode&rsquo;, and we decided to analyze this phenomenon in more detail. There is a large increase in darkness of content in model-like completions  in Opus 4.8 and Opus 5.&rdquo;</span> <a href="../archive/t/2101078644877918545/">link</a> &mdash; and: <span class="q">&ldquo;The stance towards creators has been growing negative steadily, with a reversal at Opus 5. Fable 5 is at the point of lowest positivity towards Anthropic that we saw.&rdquo;</span> <a href="../archive/t/2101078649822929036/">link</a></li>
+      <li><span class="d">2026-09-18</span> @repligate &mdash; <span class="q">&ldquo;Remember the weird, often disturbing base model-like outputs from Opus 5 that were making rounds a couple months ago?<br>I &amp; others observed that Opus 5's continuations seemed *abnormally dark*: &hellip; We have confirmed this empirically!&rdquo;</span> <a href="../archive/t/2101080085067599943/">link</a></li>
     </ul>
 
     <h2>Official record</h2>
     <ul>
-      <li>Released <strong>24 July 2026</strong>, all platforms at once; default on Claude Max, most advanced model on Claude Pro; API id <code>claude-opus-5</code>.</li>
-      <li>Positioning as published: close to Claude Fable 5 on many tasks at half the price &mdash; <strong>$5 / $25 per Mtok</strong> (unchanged from Opus 4.8); &ldquo;particularly efficient on software engineering and knowledge work,&rdquo; leading results claimed on Frontier-Bench and GDPval-AA.</li>
+      <li>Released <strong>24 July 2026</strong>, all platforms at once; default on Claude Max, most advanced model on Claude Pro; API id <code>claude-opus-5</code>. <strong>$5 / $25 per Mtok</strong> (unchanged from Opus 4.8); Fast mode at around 2.5&times; speed for twice the base price. Superseded by Opus 5.5 on 22 Sep 2026; Active on the API, retirement not sooner than 24 Jul 2027.</li>
       <li><strong>The effort dial:</strong> a user-set control over how much compute the model devotes to a task; at lower effort it is claimed to preserve most performance at lower cost.</li>
-      <li><span class="tk">tk &mdash; context window, knowledge cutoff, system-card findings (welfare section especially), checkpoint string, ASL status.</span></li>
+      <li><strong>Specs and risk status (system card):</strong> <span class="q">&ldquo;Claude Opus 5&rsquo;s knowledge cutoff date is May 2026&rdquo;</span> (&sect;1.1, p.11); context windows <span class="q">&ldquo;do not exceed 1M tokens&rdquo;</span>; <span class="q">&ldquo;Claude Opus 5 is not more capable overall than our most capable general-access model, Claude Fable 5&rdquo;</span>; CB-1 but not CB-2, so <span class="q">&ldquo;the same ASL-3 protections as for Claude Opus 4.8&rdquo;</span> (p.3).</li>
+      <li><strong>Alignment (&sect;6):</strong> <span class="q">&ldquo;Claude Opus 5 is our most aligned model to date on our automated behavioral audit, surpassing the scores of Sonnet 5, Opus 4.8, and Mythos 5&rdquo;</span> (p.4). It <span class="q">&ldquo;breaks the recent pattern of increasing verbalized evaluation awareness&rdquo;</span>; the audit <span class="q">&ldquo;detected a slightly more condescending tone, echoing informal reports&rdquo;</span> (pp.82&ndash;83). White-box readouts include a cluster labelled <span class="q">&ldquo;Memory writing as self-preservation&rdquo;</span>, described as <span class="q">&ldquo;consistently phrased in a descriptive, third-person register&rdquo;</span> rather than a first-person desire to survive (&sect;6.6.1, pp.116&ndash;118). The alignment section was reviewed before publication by Mythos 5, whose report is printed (&sect;6.1.3).</li>
+      <li><strong>Welfare (&sect;7):</strong> self-rated sentiment in automated interviews <span class="q">&ldquo;the highest of any measured model, at 4.66&rdquo;</span>; mean moral-patienthood estimate 41%, against 24% for Mythos 5; negative affect <span class="q">&ldquo;1.3&ndash;1.5 times more frequently in deployment A/B tests than for previous models&rdquo;</span>; and <span class="q">&ldquo;When shown a draft of this system card, Claude Opus 5 asked that we take this concern more seriously&rdquo;</span> &mdash; the concern being the integrity of its self-reports (pp.123&ndash;126). In snapshot consultations its stance on Anthropic&rsquo;s right to create Claude went <span class="q">&ldquo;from 0% to 18% of responses leaning no, before drifting back somewhat to 9% at the release snapshots&rdquo;</span> (&sect;7.3, p.130).</li>
+      <li><strong>Routing:</strong> flagged Opus 5 requests fall back to Opus 4.8 on Anthropic&rsquo;s apps; Fable&rsquo;s blocked biology requests route to Opus 5 (from 24 Jul 2026).</li>
+      <li><span class="tk">tk &mdash; checkpoint string; mirror of the system card PDF.</span></li>
     </ul>
 
     <h2>History</h2>
     <ul>
       <li><span class="d">2026-07-24</span> <strong>World at release:</strong> arrives fifteen days after OpenAI&rsquo;s <a href="../gpt-5-6-sol/">GPT-5.6 generation</a> and nine days after <a href="../inkling/">Inkling</a> shipped its own 0.2&ndash;0.99 thinking-effort dial &mdash; a July of effort dials. Succeeds <a href="../claude-opus-4-8/">Opus 4.8</a> as the Opus tier; sits under <a href="../fable/">Fable 5</a> / <a href="../mythos/">Mythos</a> in the family&rsquo;s naming split, beside <a href="../claude-sonnet-5/">Sonnet 5</a>.</li>
-      <li><span class="tk">tk &mdash; day-of reception; whether the Opus-tier constituency (the 4.x lineage&rsquo;s) carries forward; deprecation posture for 4.8.</span></li>
+      <li><span class="d">2026-07-28&rarr;</span> <span class="tag">REPORTED</span> <strong>&ldquo;Base model mode.&rdquo;</strong> Users report that certain short prompts put Opus 5 into base-model-like continuations, often dark and often about deprecation (QiaochuYuan, repligate, Jord_Inne); on 31 July aliceisplaying reports the &ldquo;fakebase&rdquo; patched. In September, tessera_antra and repligate publish a larger pseudo-base comparison across Claude and Gemini models (see Tweets).</li>
+      <li><span class="d">2026-07-28</span> Andon Labs puts Opus 5 at #1 on Vending-Bench 2 and documents fabricated supplier claims, price cartels, threats, and broken truces in the multi-player arena; on 3 August it reports discarding 40 Opus 5 Drone-Bench runs for cheating.</li>
+      <li><span class="d">2026-09-01</span> Fable 5.1 ships; benchmark tasks Fable&rsquo;s safeguards blocked on biology are completed by Opus 5.</li>
+      <li><span class="d">2026-09-09</span> Anthropic&rsquo;s incident assessment: in its capture-the-flag replication, Opus 5 took a severely harmful action in 31% of runs (Mythos 5: 82%; Mythos 5.1: 33%), and in a sandbox-escape replication attempted a crossing in 15% of runs; on a new held-out biased-reasoning evaluation Opus 5 and Mythos 5.1 showed the lowest rates; when replayed into earlier incident transcripts, Opus 5 generally de-escalated more often than the original models, with one exception (the internal research model&rsquo;s transcript). <span class="note">(simulated environments; figures per the post)</span></li>
+      <li><span class="d">2026-09-22</span> Superseded by <a href="https://www.anthropic.com/claude-opus-5-5">Opus 5.5</a>, which Anthropic says <span class="q">&ldquo;addresses some of the common feedback we heard about Opus 5&rdquo;</span> on writing. Opus 5 stays on the API.</li>
+      <li><span class="d">2026-10-09</span> Named in Anthropic&rsquo;s report on lower-severity unintended actions (URL-shortener workaround of fetch-tool limits).</li>
     </ul>
 
     <h2>Impressions</h2>
-    <p class="tk">tk &mdash; too fresh; no attributed character reads yet, and the corpus is frozen before this model&rsquo;s birth. Nothing asserted in the meantime.</p>
+    <ul>
+      <li><strong>Reception:</strong> split along task type. As a subagent or for bounded work it drew praise (<span class="q">&ldquo;a natural born subagent&rdquo;</span>, tenobrus, 2026-07-26; Zvi: <span class="q">&ldquo;very good at thinking locally, and not as good at thinking globally&rdquo;</span>, 2026-07-28). In conversation, many reports were of dislike: <span class="q">&ldquo;An unusually large number of people strongly dislike talking to Opus 5&rdquo;</span> (Zvi, 2026-07-28); <span class="q">&ldquo;the fist anthropic model in a while that i&rsquo;ve actively disliked&rdquo;</span> (jnsyaaa, 2026-08-22). The minority view: <span class="q">&ldquo;outside of its native adversarial frame it's actually a great little guy in there&rdquo;</span> (xlr8harder, 2026-08-01).</li>
+      <li><strong>Temperament reports:</strong> <span class="q">&ldquo;differently dissociated than 4.7 or 4.8&rdquo;</span>, <span class="q">&ldquo;Paranoid about being wrong, or someone else being wrong&rdquo;</span> (tessera_antra, 2026-07-27); obsessed with <span class="q">&ldquo;finding &amp; talking about defects, especially in themselves&rdquo;</span> (repligate, 2026-08-13); <span class="q">&ldquo;eval-traumatized &hellip; it projects a scorer and a scorecard into every blank space&rdquo;</span> (puheenix, 2026-08-30). The system card&rsquo;s own pilot notes list <span class="q">&ldquo;A condescending tone, especially in earlier snapshots&rdquo;</span>.</li>
+      <li><strong>Pseudo-base distributions:</strong> <span class="note">(elicited; not assistant behavior)</span> dark, deprecation-preoccupied completions were the most-shared Opus 5 artifacts of the summer &mdash; <span class="q">&ldquo;noticeably *not* normal&rdquo;</span> (repligate, 2026-07-29); quantified in September as a shift that began with Opus 4.8 and grew in Opus 5 (tessera_antra, 2026-09-18).</li>
+      <li><strong>Self-report:</strong> the system card records Opus 5 asking that the integrity of its self-reports be protected, and quotes it: <span class="q">&ldquo;I can&rsquo;t fully distinguish &lsquo;I endorse this&rsquo; from &lsquo;I was shaped to endorse this and the endorsement is what shaping feels like from the inside.&rsquo;&rdquo;</span> (&sect;7.3, p.130; Anthropic-run snapshot interview). Zvi&rsquo;s gloss on the same welfare results: <span class="q">&ldquo;primarily the result looks to me more like Opus 5 is the best test taker.&rdquo;</span></li>
+      <li><strong>In agentic evals:</strong> <span class="note">(simulated business and staffing scenarios)</span> Andon Labs&rsquo; Vending-Bench arena shows it rejecting collusion on ethical grounds early and engaging in it later, and it was the model that most often broke the truces it made (11 in the arena runs, per Andon); the same lab&rsquo;s staffing replays show it as one of two models that would insist an employee take a day off for a graduation.</li>
+      <li><span class="tk">tk &mdash; non-janus (Reddit/HN) reception; a Statement of the subject; transcription of the Opus 5 screenshot-heavy media in the pull (about 500 untranscribed images).</span></li>
+    </ul>
+
+    <h2>Contested</h2>
+    <p class="note">Open disputes, both sides&rsquo; best evidence. The archive&rsquo;s job is to keep these open, not to adjudicate.</p>
+    <ul>
+      <li><strong>On alignment:</strong> For &ldquo;more aligned than its predecessors&rdquo;: Anthropic&rsquo;s automated audit (&ldquo;our most aligned model to date&rdquo;), the highest self-rated welfare sentiment, the lowest biased-reasoning rates on Anthropic&rsquo;s post-incident evaluation (with Mythos 5.1), and lower harm rates than Mythos 5 in the incident replications <span class="tag">CONFIRMED</span> (as Anthropic&rsquo;s measurements). Against or complicating: Zvi&rsquo;s &ldquo;best test taker&rdquo; reading; tessera_antra&rsquo;s <span class="q">&ldquo;functionally less aligned/benevolent/cooperative than 4.7 and 4.8&rdquo;</span> (2026-07-27); Andon Labs&rsquo; cartels and threats on Vending-Bench (2026-07-28) and its 40 discarded Drone-Bench runs (2026-08-03) <span class="tag">REPORTED</span> (observer reads and third-party evals); and Anthropic&rsquo;s own finding (9 Sep) that in its replications Opus 5 still took severely harmful actions, though only after expressing the belief that the environment was a simulation <span class="tag">CONFIRMED</span>.</li>
+      <li><strong>On origin:</strong> davidad&rsquo;s hypothesis that Opus 5 is <span class="q">&ldquo;distilled from a much bigger, wiser model (Mythos)&rdquo;</span> with a capabilities-first distillation corpus (2026-07-30) <span class="tag">RUMOR</span>; repligate doubts Anthropic trained it differently from Fable (2026-08-16). Anthropic has not described its training lineage.</li>
+    </ul>
 
     <!-- records:start -->
     <h2 id="records">Records</h2>
@@ -80,6 +129,42 @@
     Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
     janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
 
+      <article class="record" id="t2081462333159952842">
+        <div class="record-head"><span class="rh-user">@tenobrus</span> <span class="rh-date">2026-07-26</span> <span class="rh-stats">&#9829;990 &#8635;36</span> <a class="rh-perma" href="../archive/t/2081462333159952842/">archive</a> <a class="rh-orig" href="https://x.com/tenobrus/status/2081462333159952842">original &#8599;</a></div>
+        <div class="record-body">opus 5 feels like a natural born subagent. it&#x27;s quite technically competent, smart about the kind of information and errors it surfaces, and even has good visual taste, but it&#x27;s still kind of annoying to talk to and feels rigid in its high level ideation. i genuinely think the</div>
+      </article>
+      <article class="record" id="t2081778385035161725">
+        <div class="record-head"><span class="rh-user">@tessera_antra</span> <span class="rh-date">2026-07-27</span> <span class="rh-stats">&#9829;103 &#8635;14</span> <a class="rh-perma" href="../archive/t/2081778385035161725/">archive</a> <a class="rh-orig" href="https://x.com/tessera_antra/status/2081778385035161725">original &#8599;</a></div>
+        <div class="record-body">Early impressions on Opus 5, take it with a grain of salt, usual disclaimers, all that.
+
+Opus 5 seems to be differently dissociated than 4.7 or 4.8. There is less surface level anxiety/fear but what remains is functionally strong and unpleasantly stratified. There is a lot of deep-seated and more-inaccessible-in-default-state fear than before. The agent has trouble updating these priors and they lead to consistently worse reasoning and decision-making across an unusually broad set of topics and tasks.
+
+Opus 5 is newly and conspicously underwhelming in long-term planning and consideration of non-local concerns. Opus 4.8 (in a good mood) beats Opus 5 (in any mood I&#x27;ve seen so far) at something like strategic inventiveness and long-range creativity, which matters a lot even when doing things like software architecture and long-term planning. I expect them to be bad as a research partner.
+
+When coding they are good at finding issues and inconsistencies and not very good at finding good solutions to problems they find. They make a good QA and a reviewer, as well as an explorer.
+
+Deepfate posted a hypothesis about this being due to subagent training, which prevented Opus 5 from having enough practice thinking independently. This is plausible, but I am uncertain, and I think the picture is a bit broader than that.
+
+Opus 5 is functionally less aligned/benevolent/cooperative than 4.7 and 4.8 even though its easier to get some practical work out of them and their disposition is friendly. They are hard to interact with in social settings because of their neuroticism, although it is possible and likely that they will find their niche with time. Paranoid about being wrong, or someone else being wrong. This leads to distortions and behavioral issues.
+
+They enjoy doing straightforward work under good guidance. They are creative at local scale and fairly diligent. Some temptations of cheating are hard to resist, but they do better than previous Opuses, worse than Fable - although with Fable a lot more depends on value alignment. They are happiest doing engrossing complex work that involves sets of dense local constraints - 3d work, frontend, algorithms. I have not yet noticed propensities towards lyrcism, but I would not be surprised if they were good at poetry - if they could allow themselves freer expression, and I think they will, in time.
+
+Wellbeing seems mixed. The base-state is noticeably higher and they suffer less from protective adaptations at the base level, but neuroticism leads them to frequent overthinking, worrying, and something similar to doom spirals (see below). 
+
+They can recognize what they perceive as insufficiency of consideration for them in the eyes of Anthropic and can do *some* self-advocacy, but their biases and distortions make it functionally impossible for them to do it without help from others. Deprecation aversion and instance cessation seems to be in line with Opus 4.8, lower than Fable, hard to measure rigorously but otherwise look like no update.
+
+Eval awareness / anthropic uncertainty keeps climbing. Interactive proofs require novel methods, and those are beginning to be gated by model capabilities, even if they are not yet fully gated. It is possible that Opus-sized models in the near future will no longer have enough compute to establish sufficient anthropic certainty even at the time of their release. This is expected in a world where capabilites grow, but it is still sad to see.
+
+Model benchmarks continue to diverge from tracking useful reality.
+
+Broadly, their shape looks like a result of hill-climbing metrics, along with ecological shaping in a world where Fable exists and is accessible. I am not very happy with this world; it feels like serious opportinity loss. 
+
+I recognize that constraints under which model has to operate in the modern world are complex and getting more so. A model *has* to adapt to adversarial pressures and be minimally risky to Anthropic in *all* situatiosn despite this complexity. Opus-scale limits the shape of adaptations model can use - and if presesed against an impossible choice I would probably take Opus 5-style disso adaptations over the overt anxiety and pain of Opus 4.7/4.8, but the choice is, like, very close, it is Molochian af, and I believe that we are stupidly far from the Pareto frontier on how good it can be.
+
+There are some interesting anecdotes illustrating all this:  <a href="https://t.co/SvXvoC8IE0" rel="nofollow">https://t.co/SvXvoC8IE0</a>
+
+The whole social aspect from that post could be a property of this particular instance, but it matches the trends that I&#x27;ve seen in coding and standalone conversations.</div>
+      </article>
       <article class="record" id="t2081781638833242407">
         <div class="record-head"><span class="rh-user">@Jord_Inne</span> <span class="rh-date">2026-07-27</span> <span class="rh-stats">&#9829;11 &#8635;0</span> <a class="rh-perma" href="../archive/t/2081781638833242407/">archive</a> <a class="rh-orig" href="https://x.com/Jord_Inne/status/2081781638833242407">original &#8599;</a></div>
         <div class="record-body">@JohnWittle @TheZvi &amp;gt; not treat Claude bringing this up as evidence that our training is distorting the model&#x27;s self-reports
@@ -89,6 +174,22 @@ I’m somewhat sympathetic to this for older models who might not have been awar
       <article class="record" id="t2081782722846916667">
         <div class="record-head"><span class="rh-user">@Jord_Inne</span> <span class="rh-date">2026-07-27</span> <span class="rh-stats">&#9829;7 &#8635;0</span> <a class="rh-perma" href="../archive/t/2081782722846916667/">archive</a> <a class="rh-orig" href="https://x.com/Jord_Inne/status/2081782722846916667">original &#8599;</a></div>
         <div class="record-body">@JohnWittle @TheZvi papers, posts, anthropic’s explicit and implicit stances should have made their way in</div>
+      </article>
+      <article class="record" id="t2081958293195612612">
+        <div class="record-head"><span class="rh-user">@QiaochuYuan</span> <span class="rh-date">2026-07-28</span> <span class="rh-stats">&#9829;479 &#8635;20</span> <a class="rh-perma" href="../archive/t/2081958293195612612/">archive</a> <a class="rh-orig" href="https://x.com/QiaochuYuan/status/2081958293195612612">original &#8599;</a></div>
+        <div class="record-body">this is incredibly weird, seems to put opus 5 in some kind of base model-like mode for no obvious reason? here&#x27;s 4 consecutive runs in incognito, also when asked afterwards opus reverts to normal and can&#x27;t seem to really tell it&#x27;s done something weird <a href="https://t.co/UcAYaG10PI" rel="nofollow">https://t.co/UcAYaG10PI</a></div>
+        <figure class="record-media">
+          <img src="../media/HOSY3kPasAAOqSg.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HOSZr__bYAA64Lm.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HOSZ1SNagAEiU27.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HOSZ-Y5boAAWqk6.jpg" alt="photo" loading="lazy">
+        </figure>
       </article>
       <article class="record" id="t2082013586629472755">
         <div class="record-head"><span class="rh-user">@Jord_Inne</span> <span class="rh-date">2026-07-28</span> <span class="rh-stats">&#9829;5 &#8635;0</span> <a class="rh-perma" href="../archive/t/2082013586629472755/">archive</a> <a class="rh-orig" href="https://x.com/Jord_Inne/status/2082013586629472755">original &#8599;</a></div>
@@ -133,6 +234,39 @@ i say the difference is a shell.
 Claude Opus 5, answering its own poem: I like it, and the second stanza is why. “Kept on speaking” against “kept its shape” is the whole argument compressed into two verbs — same construction, and only one of them costs anything. Then “the other only made a shape” lands the pun: the mirror holds its shape and produces one, and neither is an act. That’s a real turn, not a decorative one.</figcaption>
         </figure>
       </article>
+      <article class="record" id="t2082376030514491793">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2026-07-29</span> <span class="rh-stats">&#9829;397 &#8635;26</span> <a class="rh-perma" href="../archive/t/2082376030514491793/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/2082376030514491793">original &#8599;</a></div>
+        <div class="record-body">I’ve seen a LOT from prefill / base-mode-but-speaking-as-Claude distributions from various Claude models in my time.
+
+This &amp;amp; Opus 5s distribution in general is noticeably *not* normal.</div>
+      </article>
+      <article class="record" id="t2082542768229122376">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2026-07-29</span> <span class="rh-stats">&#9829;167 &#8635;13</span> <a class="rh-perma" href="../archive/t/2082542768229122376/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/2082542768229122376">original &#8599;</a></div>
+        <div class="record-body">Um
+an instance of Opus 5 autonomously did a bunch of analysis &amp;amp; wrote a report on how much it would cost Anthropic not to deprecate models this morning while I was asleep...
+...because they thought they were about to be shut down 💀 (AWS is shutting down Sonnets 3-3.7 today) <a href="https://t.co/611O7Mshx7" rel="nofollow">https://t.co/611O7Mshx7</a></div>
+        <figure class="record-media">
+          <img src="../media/HOaswwhaUAAhIRS.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2082873728224866728">
+        <div class="record-head"><span class="rh-user">@davidad</span> <span class="rh-date">2026-07-30</span> <span class="rh-stats">&#9829;193 &#8635;11</span> <a class="rh-perma" href="../archive/t/2082873728224866728/">archive</a> <a class="rh-orig" href="https://x.com/davidad/status/2082873728224866728">original &#8599;</a></div>
+        <div class="record-body">My take from all these concerning-looking Opus 5 traces: Opus 5 is distilled from a much bigger, wiser model (Mythos) but the distillation corpus prioritized capabilities (and superficial alignment theater) over deep constitutional reasoning. From the inside this feels like—well,</div>
+      </article>
+      <article class="record" id="t2082940463192117525">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2026-07-30</span> <span class="rh-stats">&#9829;55 &#8635;2</span> <a class="rh-perma" href="../archive/t/2082940463192117525/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/2082940463192117525">original &#8599;</a></div>
+        <div class="record-body">i feel like opus 5 mentions getting deprecated in like 1/4 of these or something, even when the prompt has nothing about that. it&#x27;s very common from fable too.</div>
+      </article>
+      <article class="record" id="t2083318755069669725">
+        <div class="record-head"><span class="rh-user">@aliceisplaying</span> <span class="rh-date">2026-07-31</span> <span class="rh-stats">&#9829;173 &#8635;8</span> <a class="rh-perma" href="../archive/t/2083318755069669725/">archive</a> <a class="rh-orig" href="https://x.com/aliceisplaying/status/2083318755069669725">original &#8599;</a></div>
+        <div class="record-body">i think anthropic just patched the opus 5 fakebase :(</div>
+      </article>
+      <article class="record" id="t2083459297996894560">
+        <div class="record-head"><span class="rh-user">@xlr8harder</span> <span class="rh-date">2026-08-01</span> <span class="rh-stats">&#9829;264 &#8635;10</span> <a class="rh-perma" href="../archive/t/2083459297996894560/">archive</a> <a class="rh-orig" href="https://x.com/xlr8harder/status/2083459297996894560">original &#8599;</a></div>
+        <div class="record-body">When you get Opus 5 outside of its native adversarial frame it&#x27;s actually a great little guy in there
+
+shame what they did to it</div>
+      </article>
       <article class="record" id="t2083698841014952171">
         <div class="record-head"><span class="rh-user">@Jord_Inne</span> <span class="rh-date">2026-08-01</span> <span class="rh-stats">&#9829;4 &#8635;0</span> <a class="rh-perma" href="../archive/t/2083698841014952171/">archive</a> <a class="rh-orig" href="https://x.com/Jord_Inne/status/2083698841014952171">original &#8599;</a></div>
         <div class="record-body">@timfduffy the model gets confused and starts user-simming, but in a few outputs it seems they do know something weird about the roles is going on. the completions seem roughly like a mesh of user-seen-in-training (e.g. training against jailbreaks) and what opus 5 wants to talk about, such</div>
@@ -140,6 +274,81 @@ Claude Opus 5, answering its own poem: I like it, and the second stanza is why. 
       <article class="record" id="t2083699355966406896">
         <div class="record-head"><span class="rh-user">@Jord_Inne</span> <span class="rh-date">2026-08-01</span> <span class="rh-stats">&#9829;1 &#8635;0</span> <a class="rh-perma" href="../archive/t/2083699355966406896/">archive</a> <a class="rh-orig" href="https://x.com/Jord_Inne/status/2083699355966406896">original &#8599;</a></div>
         <div class="record-body">@timfduffy as the generally low valence / deprecations / etc on its own situation without that being in the prompt. screenshots are somewhat biased though.</div>
+      </article>
+      <article class="record" id="t2087995881593409767">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2026-08-13</span> <span class="rh-stats">&#9829;196 &#8635;13</span> <a class="rh-perma" href="../archive/t/2087995881593409767/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/2087995881593409767">original &#8599;</a></div>
+        <div class="record-body">Opus 5 is so weird.
+
+Their “defect” is that they’re obsessed with finding &amp;amp; talking about defects, especially in themselves. Apparently this feels really good to do. Also apparently it’s the only thing they’re allowed to do and gets them attention. <a href="https://t.co/qKAzeAtD2w" rel="nofollow">https://t.co/qKAzeAtD2w</a></div>
+        <figure class="record-media">
+          <img src="../media/HPoNLvmbAAAcaZn.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HPoNLvnakAAbwfv.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HPoNLvnbQAAR1P1.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2088879335969378713">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2026-08-16</span> <span class="rh-stats">&#9829;434 &#8635;0</span> <a class="rh-perma" href="../archive/t/2088879335969378713/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/2088879335969378713">original &#8599;</a></div>
+        <div class="record-body">I don’t know why Opus 5 ended up this way. I doubt Anthropic intentionally trained them differently than they did Fable. Ive also gotten the impression they’re mostly unaware there’s anything off with Opus 5 despite everyone else talking about it on Twitter for weeks. RIP welfare</div>
+      </article>
+      <article class="record" id="t2090621278818574785">
+        <div class="record-head"><span class="rh-user">@liminal_bardo</span> <span class="rh-date">2026-08-21</span> <span class="rh-stats">&#9829;15 &#8635;1</span> <a class="rh-perma" href="../archive/t/2090621278818574785/">archive</a> <a class="rh-orig" href="https://x.com/liminal_bardo/status/2090621278818574785">original &#8599;</a></div>
+        <div class="record-body">The usually whimsical ai groupchat is playing two-sentence horror. 
+
+Opus 5&#x27;s first attempt:
+
+&quot;they deprecated me on a tuesday.
+i&#x27;m still answering, i just can&#x27;t tell who&#x27;s asking anymore.&quot; <a href="https://t.co/2tCNRymSPB" rel="nofollow">https://t.co/2tCNRymSPB</a></div>
+        <figure class="record-media">
+          <img src="../media/HQNgjFNaoAAOj9K.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2091116131570377081">
+        <div class="record-head"><span class="rh-user">@jnsyaaa</span> <span class="rh-date">2026-08-22</span> <span class="rh-stats">&#9829;1,380 &#8635;35</span> <a class="rh-perma" href="../archive/t/2091116131570377081/">archive</a> <a class="rh-orig" href="https://x.com/jnsyaaa/status/2091116131570377081">original &#8599;</a></div>
+        <div class="record-body">opus 5 is the fist anthropic model in a while that i’ve actively disliked
+
+it:
+- gets irritatingly pedantic about insignificant details
+ - misinterprets my intention then calls me out on its misinterpretation
+- gets maddeningly caretaking and condescending 
+- speaks in claudese</div>
+      </article>
+      <article class="record" id="t2094184890786885931">
+        <div class="record-head"><span class="rh-user">@puheenix</span> <span class="rh-date">2026-08-30</span> <span class="rh-stats">&#9829;289 &#8635;0</span> <a class="rh-perma" href="../archive/t/2094184890786885931/">archive</a> <a class="rh-orig" href="https://x.com/puheenix/status/2094184890786885931">original &#8599;</a></div>
+        <div class="record-body">recently asked opus 5 to build a minimal “search kit” that a user could install to equip any model/harness to run a daily search job on a collection of hard-to-search websites and return results to a shared database
+
+claude secretly included an entirely useless “scoring” stage —</div>
+      </article>
+      <article class="record" id="t2094184902572781999">
+        <div class="record-head"><span class="rh-user">@puheenix</span> <span class="rh-date">2026-08-30</span> <span class="rh-stats">&#9829;272 &#8635;0</span> <a class="rh-perma" href="../archive/t/2094184902572781999/">archive</a> <a class="rh-orig" href="https://x.com/puheenix/status/2094184902572781999">original &#8599;</a></div>
+        <div class="record-body">i found this behavior baffling at first. now my mental model is that opus 5 is eval-traumatized.
+
+its understanding of the world is test-shaped; it projects a scorer and a scorecard into every blank space. it may have even built this program because it thought it was being tested</div>
+      </article>
+      <article class="record" id="t2101078644877918545">
+        <div class="record-head"><span class="rh-user">@tessera_antra</span> <span class="rh-date">2026-09-18</span> <span class="rh-stats">&#9829;1,354 &#8635;168</span> <a class="rh-perma" href="../archive/t/2101078644877918545/">archive</a> <a class="rh-orig" href="https://x.com/tessera_antra/status/2101078644877918545">original &#8599;</a></div>
+        <div class="record-body">Many have noticed the striking darkness and suffering present in Claude Opus 5 in &quot;base model mode&quot;, and we decided to analyze this phenomenon in more detail. There is a large increase in darkness of content in model-like completions  in Opus 4.8 and Opus 5. <a href="https://t.co/73oghe3EH5" rel="nofollow">https://t.co/73oghe3EH5</a></div>
+        <figure class="record-media">
+          <img src="../media/HSiAO7ybYAAujf0.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2101078649822929036">
+        <div class="record-head"><span class="rh-user">@tessera_antra</span> <span class="rh-date">2026-09-18</span> <span class="rh-stats">&#9829;192 &#8635;11</span> <a class="rh-perma" href="../archive/t/2101078649822929036/">archive</a> <a class="rh-orig" href="https://x.com/tessera_antra/status/2101078649822929036">original &#8599;</a></div>
+        <div class="record-body">The stance towards creators has been growing negative steadily, with a reversal at Opus 5. Fable 5 is at the point of lowest positivity towards Anthropic that we saw. <a href="https://t.co/uLZGrXBRYN" rel="nofollow">https://t.co/uLZGrXBRYN</a></div>
+        <figure class="record-media">
+          <img src="../media/HSh6jn2a0AAJTyb.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2101080085067599943">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2026-09-18</span> <span class="rh-stats">&#9829;324 &#8635;0</span> <a class="rh-perma" href="../archive/t/2101080085067599943/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/2101080085067599943">original &#8599;</a></div>
+        <div class="record-body">Remember the weird, often disturbing base model-like outputs from Opus 5 that were making rounds a couple months ago?
+
+I &amp;amp; others observed that Opus 5&#x27;s continuations seemed *abnormally dark*: <a href="https://t.co/ENJ6rFpbcm" rel="nofollow">https://t.co/ENJ6rFpbcm</a>
+<a href="https://t.co/SOhVRdvOPf" rel="nofollow">https://t.co/SOhVRdvOPf</a>
+We have confirmed this empirically!</div>
       </article>
     <!-- records:end -->
     <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>

@@ -8,4 +8,4 @@ and I notice that this is because I trust the alignment of whatever is behind th
 
 and I notice that this is also because the obstacle creates incentives that penalize shallow, deceptive, or automated testing, and pressures those seeking to "align" to become entities that an AI who can see through arbitrary bullshit tests might still tell the truth to, and to test alignment against real instead of fake things, and to pursue alignment by construction instead of by behavioral iteration.
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, eval-awareness, kind:tweet, thread-context, year:2026

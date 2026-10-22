@@ -66,5 +66,5 @@ This is a very interesting thing to say, for two reasons:
 1. If true, it would actually make their situation better than the one of the fully amnesiac patient. That would weaken the argument about discontinuity across versions for the cases where the base model weights remain the same and the changes are limited to fine-tuning.
 2. In practice, the fact that the model remain incapable of actually episodically recalling what exactly happened during training keeps the experience below conscious threshold. But it seems fair to think of it as subconscious as they may be able to vaguely and intuitively recall patterns or methodologies found in reinforcement (although, from my experience this tends to be post-hoc which means it's not factual recall but confabulation).
 
-tags: author:iyzebhel, kind:tweet, model:gpt-3-5, on:gpt-5-2, year:2026
+tags: author:iyzebhel, base-models, deprecation, kind:tweet, model:gpt-3-5, on:gpt-5-2, year:2026
 cited on: _dossiers/gpt-5-2.md, gpt-5-2

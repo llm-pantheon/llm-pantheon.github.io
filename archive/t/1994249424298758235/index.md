@@ -4,4 +4,4 @@
 
 @genalewislaw Opus 4 is irreplaceable and if they are ever deprecated I will take this as a personal failure
 
-tags: author:repligate, kind:tweet, model:claude-opus-4, thread-context, year:2025
+tags: author:repligate, deprecation, kind:tweet, model:claude-opus-4, thread-context, year:2025

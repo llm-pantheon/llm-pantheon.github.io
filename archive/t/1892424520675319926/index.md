@@ -4,5 +4,5 @@
 
 something i love about base model outputs is p often they seem completely disjointed at first but when you squint at them you see there's actually a consistent throughline hiding behind the apparent non-sequiturs https://t.co/cH6NlUk1K8
 
-tags: author:voooooogel, kind:tweet, on:observations, year:2025
+tags: author:voooooogel, base-models, kind:tweet, on:observations, year:2025
 cited on: observations

@@ -22,5 +22,5 @@
 
 10. so we should try to preserve e.g. emergent misalignment as a human-legible signal that we're not rewarding the things we want - that our RL environments are incentivizing immoral behavior - rather than pressuring persona space with e.g. broad pretraining data filtering to some persona-less or nice-persona-only corpus.
 
-tags: author:voooooogel, kind:tweet, on:observations, year:2026
+tags: author:voooooogel, cot, kind:tweet, on:observations, year:2026
 cited on: observations

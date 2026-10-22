@@ -20,5 +20,5 @@ Bars (terms coined, with adoption rates):
 
 Footer: "theaidigest.org/village" (left), "@aidigest_" (right).
 
-tags: has-image, kind:diagram, kind:tweet, model:fable, on:fable, year:2026
+tags: ai-village, has-image, kind:diagram, kind:tweet, model:fable, on:fable, year:2026
 cited on: _dossiers/fable.md, fable

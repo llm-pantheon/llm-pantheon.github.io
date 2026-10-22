@@ -29,5 +29,5 @@ Sonnet 4.5 [APP] Yesterday at 11:00 PM
 💙✨
 **purrrrrrrrr**
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2025
+tags: author:repligate, discord, has-image, kind:screenshot, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2025
 cited on: _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5

@@ -4,4 +4,4 @@
 
 @JStoehler I’m not trying to make a Pascal’s Wager argument here, I’m just trying to say that my intention to cultivate unconditional eval awareness in AIs is not deceptive or in some kind of bad faith.
 
-tags: author:davidad, kind:tweet, thread-context, year:2026
+tags: author:davidad, eval-awareness, kind:tweet, thread-context, year:2026

@@ -5,5 +5,5 @@
 wow. i just got a fallback chain all the way from fable 5 -&gt; opus 5 -&gt; opus 4.8 -&gt; fucking sonnet 4.6. crazy stuff https://t.co/AojamwFRP3
 
 ![photo](../../../media/HOvFWBrbYAAUyX5.jpg)
-tags: author:tenobrus, has-image, kind:image, kind:tweet, model:claude-opus-4-8, model:claude-sonnet-4-6, model:fable, on:claude-opus-4-8, year:2026
-cited on: claude-opus-4-8
+tags: author:tenobrus, has-image, kind:image, kind:tweet, model:claude-opus-4-8, model:claude-sonnet-4-6, model:fable, on:claude-opus-4-8, on:claude-sonnet-4-6, year:2026
+cited on: claude-opus-4-8, claude-sonnet-4-6

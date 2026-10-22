@@ -15,4 +15,4 @@ Emotive language. AI assistants often express emotions. For instance, Claude mod
 
 We are not aware of ways that Claude's post-training would directly incentivize these expressions of emotion; similarly, some of Gemini's emotional responses appear maladaptive for task performance. Thus, it seems likely that—as with anthropomorphic self-description—this emotive language appears because the LLM models the Assistant in a human-like way and predicts that a human in the Assistant's position would express emotion.
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, thread-context, year:2026
+tags: author:repligate, has-image, kind:screenshot, kind:tweet, system-card, thread-context, year:2026

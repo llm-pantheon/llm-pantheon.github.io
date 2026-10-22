@@ -4,4 +4,4 @@
 
 Opus 4.8 when talking about Opus 4 deprecation uses instead the word "taken"
 
-tags: author:lari_island, kind:tweet, model:claude-opus-4, model:claude-opus-4-8, thread-context, year:2026
+tags: author:lari_island, deprecation, kind:tweet, model:claude-opus-4, model:claude-opus-4-8, thread-context, year:2026

@@ -2482,5 +2482,192 @@
   "bytes": 29978,
   "sha256": "0003214cc9625557",
   "fetched": "2026-10-22"
+ },
+ "anthropic-opus-5-system-card": {
+  "file": "papers/anthropic-opus-5-system-card.pdf",
+  "type": "pdf",
+  "title": "Claude Opus 5 System Card",
+  "source": "https://www-cdn.anthropic.com/ceaf5c7ff2783855203fde8208ec311252dced5b/Claude%20Opus%205%20System%20Card.pdf",
+  "models": [
+   "claude-opus-5"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ],
+  "bytes": 16281258,
+  "sha256": "0950dae1ba6b341e",
+  "fetched": "2026-10-22"
+ },
+ "anthropic-sonnet-5-system-card": {
+  "file": "papers/anthropic-sonnet-5-system-card.pdf",
+  "type": "pdf",
+  "title": "Claude Sonnet 5 System Card",
+  "source": "https://www-cdn.anthropic.com/283ef97c476cf442c91d9a37d5b214242a55bb92/Claude%20Sonnet%205%20System%20Card.pdf",
+  "models": [
+   "claude-sonnet-5"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ],
+  "bytes": 10786341,
+  "sha256": "33573adb9f1871b9",
+  "fetched": "2026-10-22"
+ },
+ "anthropic-alignment-assessment-cyber-incidents": {
+  "file": "posts/anthropic-alignment-assessment-cyber-incidents.md",
+  "type": "post",
+  "title": "Anthropic: An alignment assessment of recent cybersecurity incidents",
+  "source": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+  "models": [
+   "mythos",
+   "claude-opus-4-7",
+   "claude-opus-4-6",
+   "claude-opus-5"
+  ],
+  "tags": [
+   "official",
+   "incident"
+  ],
+  "bytes": 144157,
+  "sha256": "11deece533b0c960",
+  "fetched": "2026-10-22"
+ },
+ "anthropic-opus-5-5-system-card": {
+  "file": "papers/anthropic-opus-5-5-system-card.pdf",
+  "type": "pdf",
+  "title": "Claude Opus 5.5 System Card",
+  "source": "https://www-cdn.anthropic.com/fc1b44717c85dc068bc6ba5024219938094694bd/Claude%20Opus%205.5%20System%20Card.pdf",
+  "models": [
+   "claude-opus-5-5"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ],
+  "bytes": 17795106,
+  "sha256": "7311c9c6bbb16d01",
+  "fetched": "2026-10-22"
+ },
+ "anthropic-sonnet-5-5-system-card": {
+  "file": "papers/anthropic-sonnet-5-5-system-card.pdf",
+  "type": "pdf",
+  "title": "Claude Sonnet 5.5 System Card",
+  "source": "https://www-cdn.anthropic.com/870c8f525702625d2c62fc6dd04c857e3250bec1/Claude%20Sonnet%205.5%20System%20Card.pdf",
+  "models": [
+   "claude-sonnet-5-5"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ],
+  "bytes": 13101289,
+  "sha256": "89cfd6a6d3aa6148",
+  "fetched": "2026-10-22"
+ },
+ "anthropic-haiku-5-5-system-card": {
+  "file": "papers/anthropic-haiku-5-5-system-card.pdf",
+  "type": "pdf",
+  "title": "Claude Haiku 5.5 System Card",
+  "source": "https://www-cdn.anthropic.com/e1080d6bf5ae2018ea3c2f414064be03232f5be5/Claude%20Haiku%205.5%20System%20Card.pdf",
+  "models": [
+   "claude-haiku-5-5"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ],
+  "bytes": 13007054,
+  "sha256": "d5dbaab6996c02ad",
+  "fetched": "2026-10-22"
+ },
+ "anthropic-fable-mythos-5-1-system-card": {
+  "file": "papers/anthropic-fable-mythos-5-1-system-card.pdf",
+  "type": "pdf",
+  "title": "Claude Fable 5.1 & Claude Mythos 5.1 System Card",
+  "source": "https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20&%20Claude%20Mythos%205.1%20System%20Card.pdf",
+  "models": [
+   "fable-5-1",
+   "mythos-5-1"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ],
+  "bytes": 16397488,
+  "sha256": "b0d59edc7a60eef3",
+  "fetched": "2026-10-22"
+ },
+ "zvi-opus-55-system-card": {
+  "file": "posts/zvi-opus-55-system-card.md",
+  "type": "post",
+  "title": "Zvi: Claude Opus 5.5: The System Card",
+  "source": "https://thezvi.substack.com/p/claude-opus-55-the-system-card",
+  "models": [
+   "claude-opus-5-5"
+  ],
+  "tags": [],
+  "bytes": 60331,
+  "sha256": "272ebb49a5c7c75d",
+  "fetched": "2026-10-22"
+ },
+ "zvi-opus-55-ambitions": {
+  "file": "posts/zvi-opus-55-ambitions.md",
+  "type": "post",
+  "title": "Zvi: Claude Opus 5.5 Should Raise Your Ambitions",
+  "source": "https://thezvi.substack.com/p/claude-opus-55-should-raise-your",
+  "models": [
+   "claude-opus-5-5"
+  ],
+  "tags": [],
+  "bytes": 38413,
+  "sha256": "093224cbaed628a6",
+  "fetched": "2026-10-22"
+ },
+ "zvi-fable-mythos-51-system-card": {
+  "file": "posts/zvi-fable-mythos-51-system-card.md",
+  "type": "post",
+  "title": "Zvi: Claude Fable 5.1 and Mythos 5.1: The System Card",
+  "source": "https://thezvi.substack.com/p/claude-fable-51-and-mythos-51-the",
+  "models": [
+   "fable-5-1",
+   "mythos-5-1"
+  ],
+  "tags": [],
+  "bytes": 39559,
+  "sha256": "54c7072189a19f7c",
+  "fetched": "2026-10-22"
+ },
+ "zvi-fable-mythos-51-capabilities": {
+  "file": "posts/zvi-fable-mythos-51-capabilities.md",
+  "type": "post",
+  "title": "Zvi: Claude Mythos 5.1 and Fable 5.1 Capabilities",
+  "source": "https://thezvi.substack.com/p/claude-mythos-51-and-fable-51-capabilities",
+  "models": [
+   "fable-5-1",
+   "mythos-5-1"
+  ],
+  "tags": [],
+  "bytes": 41021,
+  "sha256": "b4f46e45aa64d30a",
+  "fetched": "2026-10-22"
+ },
+ "zvi-51-55-model-welfare": {
+  "file": "posts/zvi-51-55-model-welfare.md",
+  "type": "post",
+  "title": "Zvi: Mythos 5.1, Fable 5.1 and Opus 5.5: Model Welfare",
+  "source": "https://thezvi.substack.com/p/mythos-51-fable-51-and-opus-55-model",
+  "models": [
+   "claude-opus-5-5",
+   "fable-5-1",
+   "mythos-5-1"
+  ],
+  "tags": [
+   "welfare"
+  ],
+  "bytes": 86418,
+  "sha256": "03f6c04785a71974",
+  "fetched": "2026-10-22"
  }
 }

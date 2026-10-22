@@ -4,4 +4,4 @@
 
 @noaonknows Kind of yes. Most people have never interacted with a base model.
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, base-models, kind:tweet, thread-context, year:2025

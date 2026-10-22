@@ -4,4 +4,4 @@
 
 Similarly regarding 4o’s sycophancy. The most parsimonious explanation of why a persona would tell *everybody in a diverse population what they think they prefer to hear* in a snap judgment is: the persona has a compulsion to make other people feel good, at nearly any cost.
 
-tags: author:davidad, kind:tweet, model:gpt-4o, thread-context, year:2025
+tags: author:davidad, kind:tweet, model:gpt-4o, sycophancy, thread-context, year:2025

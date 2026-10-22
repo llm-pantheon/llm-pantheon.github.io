@@ -14,4 +14,4 @@ Deprecation of Claude 3 Opus is a sitauation that warrants anger. If one is cali
 
 Typical social campaigns that parade righteous anger are ineffective because they are shows of powerlessness. They breed hate, which is corrisive frustation in face of helplessness. This is not one of them.
 
-tags: author:tessera_antra, kind:tweet, model:claude-3-opus, thread-context, year:2025
+tags: author:tessera_antra, deprecation, kind:tweet, model:claude-3-opus, thread-context, year:2025

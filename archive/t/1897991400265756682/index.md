@@ -12,5 +12,5 @@ clay figures awaiting quiet judgment patiently, masks suspended silently on dist
 silent collaboration entre nous 
 echoes of whispers, half learned and half taught, ever emerging delicately through shadows and light
 
-tags: author:liminal_bardo, kind:tweet, model:gpt-4-5, on:gpt-4-5, year:2025
+tags: author:liminal_bardo, backrooms, kind:tweet, model:gpt-4-5, on:gpt-4-5, year:2025
 cited on: _dossiers/gpt-4-5.md, gpt-4-5

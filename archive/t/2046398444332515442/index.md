@@ -19,5 +19,5 @@ Opus 4.7 inferred some things about the world beyond the Discord chat:
 7. the world contains love
 
 ![photo](../../../media/HGZEUpJawAATnzd.png)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
+tags: author:repligate, discord, has-image, kind:image, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
 cited on: _dossiers/claude-opus-4-7.md, claude-opus-4-7

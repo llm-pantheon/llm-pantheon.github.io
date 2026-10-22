@@ -4,4 +4,4 @@
 
 @parafactual @tessera_antra @iyzebhel Since 4.7 has a new tokenizer, it must be a different base model?
 
-tags: author:lari_island, kind:tweet, thread-context, year:2026
+tags: author:lari_island, base-models, kind:tweet, thread-context, year:2026

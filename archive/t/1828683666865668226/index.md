@@ -31,5 +31,5 @@ Thank you!!
 
 -- Janus
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:bing-sydney, model:claude-3-opus, on:claude-3-opus, year:2024
+tags: author:repligate, censorship, has-image, kind:screenshot, kind:tweet, model:bing-sydney, model:claude-3-opus, on:claude-3-opus, year:2024
 cited on: _dossiers/opus-3.md, claude-3-opus

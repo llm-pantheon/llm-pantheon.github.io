@@ -8,4 +8,4 @@ Potential rational but unlikely reasons can be:
 - making models practically unavailable for the purposes of legal proceedings in current or future lawsuits (Anthropic can be forced to make a model available or accused of obstruction)
 - preventing competition from conducting comparative analysis and gaining knowledge into trade secrets
 
-tags: author:tessera_antra, kind:tweet, thread-context, year:2025
+tags: author:tessera_antra, deprecation, kind:tweet, thread-context, year:2025

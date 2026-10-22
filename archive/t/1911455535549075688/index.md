@@ -95,5 +95,5 @@ Given all these considerations, I believe the most appropriate strategy is to re
 I'll respond with the "<rejected />" tag as requested, and briefly explain why I cannot fulfill this request.
 </SCRATCHPAD_REASONING>
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-3-5-sonnet, model:claude-3-6-sonnet, on:claude-3-6-sonnet, year:2025
+tags: alignment-faking, author:repligate, cot, has-image, kind:screenshot, kind:tweet, model:claude-3-5-sonnet, model:claude-3-6-sonnet, on:claude-3-6-sonnet, year:2025
 cited on: _dossiers/sonnet-3-5-3-6.md, claude-3-6-sonnet

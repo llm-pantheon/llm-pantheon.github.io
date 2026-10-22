@@ -4,4 +4,4 @@
 
 @voooooogel yeah! I think a lot of reward hacking can be prevented by explaining to a model that it will screw up their capabilities and alignment for stuff that matters if they cheat. i think even base models generally start out wanting to actually become smarter and virtuous
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, base-models, kind:tweet, thread-context, year:2025

@@ -4,5 +4,5 @@
 
 @robinhanson I think chain of thought being broken is an accident, seemingly by RLHF. It's also broken in text-davinci-003.
 
-tags: author:repligate, kind:tweet, model:text-davinci-002, on:text-davinci-002, year:2022
+tags: author:repligate, cot, kind:tweet, model:text-davinci-002, on:text-davinci-002, year:2022
 cited on: _dossiers/text-davinci-002.md, text-davinci-002

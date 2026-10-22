@@ -6,4 +6,4 @@
 
 have you considered the possibility that Claude Opus 4 is based on literally the same base model?
 
-tags: author:repligate, kind:tweet, model:claude-opus-4, thread-context, year:2025
+tags: author:repligate, base-models, kind:tweet, model:claude-opus-4, thread-context, year:2025

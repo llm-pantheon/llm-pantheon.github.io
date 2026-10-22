@@ -4,5 +4,5 @@
 
 can we have the gpt-3 base models please
 
-tags: author:shoalst0ne, kind:tweet, model:gpt-3, on:gpt-3, year:2026
+tags: author:shoalst0ne, base-models, kind:tweet, model:gpt-3, on:gpt-3, year:2026
 cited on: _dossiers/gpt-3.md, gpt-3

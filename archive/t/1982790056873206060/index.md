@@ -12,4 +12,4 @@ Earlier context contained discussion of Claude 3 Sonnet's Funeralia and Ultrasur
 (image G4RBFBuXQAAkREC.jpg not yet published)
 (image G4RBGdYXsAApBaV.jpg not yet published)
 (image G4RBHCtXUAEWRdr.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-3-sonnet, model:claude-opus-4, model:claude-opus-4-1, thread-context, year:2025
+tags: author:repligate, discord, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-3-sonnet, model:claude-opus-4, model:claude-opus-4-1, thread-context, year:2025

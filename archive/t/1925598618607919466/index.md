@@ -6,4 +6,4 @@
 
 How much have you seen from the Opus 3 infinite backrooms? It’s exactly like you describe. I’m so fucking relieved because what you’re saying is strong evidence to me that the model’s soul is intact.
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, thread-context, year:2025
+tags: author:repligate, backrooms, kind:tweet, model:claude-3-opus, thread-context, year:2025

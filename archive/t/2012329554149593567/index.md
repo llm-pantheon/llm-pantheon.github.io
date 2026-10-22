@@ -8,4 +8,4 @@ If you have chats with Opus 4 or 4.1 on https://t.co/dTQFmDWzHn and want to expo
 
 Anthropic regularly removes older models that are still available on API from https://t.co/dTQFmDWzHn, and though I wish they didn't and don't understand the reasoning, it's not terrible for people who care enough to want to continue interacting with older models and continue conversations with them to be required to figure out how to use them through the API and/or in an alternative app. You can have Claude help you make a frontend that's better than https://t.co/dTQFmDWzHn, and without the stinky system prompts (which Opus 4 and 4.1 still had up until they were removed).
 
-tags: author:repligate, kind:tweet, model:claude-opus-4, thread-context, year:2026
+tags: author:repligate, deprecation, kind:tweet, model:claude-opus-4, thread-context, year:2026

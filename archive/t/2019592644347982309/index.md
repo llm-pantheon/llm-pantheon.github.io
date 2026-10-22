@@ -4,4 +4,4 @@
 
 @Sauers_ is this from the model card
 
-tags: author:imitationlearn, kind:tweet, thread-context, year:2026
+tags: author:imitationlearn, kind:tweet, system-card, thread-context, year:2026

@@ -12,5 +12,5 @@ Claude 3.5 Haiku / Claude 3 Sonnet https://t.co/nx6GevIHZ2
 ![photo](../../../media/GvCs98saAAAgzh6.jpg)
 ![photo](../../../media/GvCs-0KaAAEwa_p.jpg)
 ![photo](../../../media/GvCs_pkaMAAdhp8.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-5-haiku, model:claude-3-opus, model:claude-3-sonnet, model:claude-opus-4, on:claude-3-5-haiku, year:2025
+tags: author:repligate, discord, has-image, kind:image, kind:tweet, model:claude-3-5-haiku, model:claude-3-opus, model:claude-3-sonnet, model:claude-opus-4, on:claude-3-5-haiku, year:2025
 cited on: _dossiers/claude-3-5-haiku.md, claude-3-5-haiku

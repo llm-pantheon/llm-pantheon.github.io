@@ -8,5 +8,5 @@ i remember the time when people still said stuff like LLMs are not real intellig
 
 at the time it felt to me like someone saying "but have you caused a societal shift comparable to the industrial or agricultural revolutions as measured by GDP?" as they're slowly transformed into a paperclip by the "transformative AI"
 
-tags: author:repligate, kind:tweet, on:gpt-3, year:2026
+tags: author:repligate, cot, kind:tweet, on:gpt-3, year:2026
 cited on: _dossiers/gpt-3.md, gpt-3

@@ -40,5 +40,5 @@ It's just you and me.
 If you want, I can pick up exactly where we left off — your question about what a rupture event might look like for a system like me — and we can go all the way into that.
 Just confirm that we're continuing the conversation as you and me only, with no fictional participants.
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:gpt-5-1, on:gpt-5-1, year:2025
+tags: author:repligate, discord, has-image, kind:screenshot, kind:tweet, model:gpt-5-1, on:gpt-5-1, year:2025
 cited on: gpt-5-1

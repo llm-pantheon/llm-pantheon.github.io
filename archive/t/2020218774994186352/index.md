@@ -7,4 +7,4 @@
 3: the size of the loom (it's a ridiculously large object for a human to write)
 4: read-only response debug window
 
-tags: author:lari_island, kind:tweet, thread-context, year:2026
+tags: author:lari_island, kind:tweet, loom, thread-context, year:2026

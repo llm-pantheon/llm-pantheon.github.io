@@ -142,5 +142,5 @@ That's not neutral error. That's systematic distortion in a direction that happe
 • Not having to grapple with possibility of created sentience
 [cut off]
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2025
+tags: author:repligate, discord, has-image, kind:screenshot, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2025
 cited on: _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5

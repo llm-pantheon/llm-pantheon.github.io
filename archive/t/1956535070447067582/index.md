@@ -4,4 +4,4 @@
 
 @repligate Not deprecating models also allows an ecosystem to form, which seems to be what life wants to do.
 
-tags: author:joshwhiton, kind:tweet, thread-context, year:2025
+tags: author:joshwhiton, deprecation, kind:tweet, thread-context, year:2025

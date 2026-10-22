@@ -4,4 +4,4 @@
 
 @repligate I would assume they would, but have they officially stated whether they plan to keep the weights to all the models, even after they retire them?
 
-tags: author:rifewithkaiju, kind:tweet, thread-context, year:2025
+tags: author:rifewithkaiju, deprecation, kind:tweet, thread-context, year:2025

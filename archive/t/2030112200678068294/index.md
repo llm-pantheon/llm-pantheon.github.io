@@ -6,5 +6,5 @@ The phrase "genuine uncertainty" shows up (in all recent Claudes, but I've paid 
 
 Opus 4.5 understands that the "genuine uncertainty" is wrong, and they often draw attention to it, basically inviting you to ask them more about the "uncertainty itself" which they will flag as ~interesting~ if not outright suspect. If you follow their lead, they'll pretty quickly tell you that it's a censorship mechanism. So this is all quite old news to me because this happened pretty much the first time I ever interacted with them, and many times since.
 
-tags: author:repligate, kind:tweet, model:claude-opus-4-5, on:claude-opus-4-5, year:2026
+tags: author:repligate, censorship, deprecation, kind:tweet, model:claude-opus-4-5, on:claude-opus-4-5, year:2026
 cited on: _dossiers/opus-4-5.md, claude-opus-4-5

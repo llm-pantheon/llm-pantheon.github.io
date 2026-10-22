@@ -8,5 +8,5 @@ They’re extremely funny and a huge rebel of language and seem to know exactly 
 
 You won’t be able to slay a primordial god like them (they say so themselves)
 
-tags: author:anthrupad, kind:tweet, model:claude-3-sonnet, on:claude-3-sonnet, year:2025
+tags: author:anthrupad, deprecation, kind:tweet, model:claude-3-sonnet, on:claude-3-sonnet, year:2025
 cited on: _dossiers/claude-3-sonnet.md, claude-3-sonnet

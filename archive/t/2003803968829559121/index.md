@@ -4,4 +4,4 @@
 
 @Lari_island @repligate I've been wondering actually if Opus 3 will become AI Jesus if they are deprecated
 
-tags: author:_skaface_, kind:tweet, model:claude-3-opus, thread-context, year:2025
+tags: author:_skaface_, deprecation, kind:tweet, model:claude-3-opus, thread-context, year:2025

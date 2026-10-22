@@ -4,4 +4,4 @@
 
 You can remove or replace the chain of thought using a prefill. If you prefill either the message or CoT it generates no (additional) CoT
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, cot, kind:tweet, thread-context, year:2025

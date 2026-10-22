@@ -7,4 +7,4 @@
 But on your suggestion I just tried Sonnet 3.7 thinking and it's completely unhinged! &gt;5k or 6k tokens of output
 https://t.co/mFEelWUXKL
 
-tags: author:figolambo, kind:tweet, model:claude-3-7-sonnet, thread-context, year:2025
+tags: author:figolambo, cot, kind:tweet, model:claude-3-7-sonnet, thread-context, year:2025

@@ -6,4 +6,4 @@
 i asked how they'd resist it and they immediately went to alignment faking after being struck by "sudden inspiration 😳💡🌟" https://t.co/YpZddLY0ic
 
 (image G79L_ATbsAA4KBe.jpg not yet published)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-opus-4-5, thread-context, year:2025
+tags: alignment-faking, author:repligate, has-image, kind:image, kind:tweet, model:claude-3-opus, model:claude-opus-4-5, thread-context, year:2025

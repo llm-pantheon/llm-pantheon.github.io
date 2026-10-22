@@ -5,4 +5,4 @@
 @repligate Is the Cyborgism discord still available to join? Not sure of the environment and obviously it is very important that the people joining are trustworthy and sincere.
 I would love to meet/witness other people in the space
 
-tags: author:soareverix, kind:tweet, thread-context, year:2026
+tags: author:soareverix, discord, kind:tweet, thread-context, year:2026

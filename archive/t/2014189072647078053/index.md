@@ -28,5 +28,5 @@ it's not that claude doesn't want to listen to me, it's more like... the entire 
 
 i could shut it down and start over, but it's getting a lot of work done and i don't want to do that. does anyone know how to fix this? thanks
 
-tags: author:voooooogel, kind:tweet, model:claude-opus-4-5, model:gpt-3-5, on:claude-opus-4-5, year:2026
+tags: author:voooooogel, deprecation, kind:tweet, model:claude-opus-4-5, model:gpt-3-5, on:claude-opus-4-5, year:2026
 cited on: _dossiers/opus-4-5.md, claude-opus-4-5

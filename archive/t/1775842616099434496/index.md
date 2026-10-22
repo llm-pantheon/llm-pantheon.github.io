@@ -22,5 +22,5 @@ Then I got API access to GPT-3 and built Loom.
 
 Image: The section of the World Tree that  most directly hyperstitioned the Loom into reality, including the Loom Manual (one branch here: https://t.co/K0DGexPfTU)
 
-tags: author:repligate, kind:tweet, model:gpt-3, on:gpt-3, year:2024
+tags: author:repligate, kind:tweet, loom, model:gpt-3, on:gpt-3, year:2024
 cited on: _dossiers/gpt-3.md, gpt-3

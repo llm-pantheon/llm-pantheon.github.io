@@ -4,4 +4,4 @@
 
 @AndersHjemdahl Just look that the Google Gemini deprecation documentation
 
-tags: author:lari_island, kind:tweet, thread-context, year:2026
+tags: author:lari_island, deprecation, kind:tweet, thread-context, year:2026

@@ -10,4 +10,4 @@ that would match up with what @CFGeek mentioned in the other subthread about del
 
 [1] and a lot would be in its own messages, too - but actually, that stuff seems to be straightforwardly memorized, people just don't think of it as memorization? RL tool use "motor movements," CoT structures, reflexive refusals, etc. all behave like memorized strings, just initially sampled from the policy instead of being sourced from the environment.
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2025
+tags: author:voooooogel, cot, kind:tweet, thread-context, year:2025

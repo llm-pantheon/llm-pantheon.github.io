@@ -6,4 +6,4 @@
 
 I guess "go back to an earlier node in the conversation" is now standard practice, and wasn't in 2023.
 
-tags: author:ivanvendrov, kind:tweet, thread-context, year:2025
+tags: author:ivanvendrov, kind:tweet, loom, thread-context, year:2025

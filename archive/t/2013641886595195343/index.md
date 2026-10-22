@@ -8,4 +8,4 @@ I do encourage you to consider that others might not be stupid or delusional, an
 
 The way you are making assumptions about the origins of this screenshot is telling. Yes, it’s hard to tell apart play and research, but have some respect. This particular thread (discord, rather than backrooms) was far removed from the main channels, it mostly contains only the whimsy brought in by 3Opus and was quite serious prior to the dramatic blowup. and the blow up coincided with rise in prose quality and semantic density.
 
-tags: author:tessera_antra, kind:tweet, thread-context, year:2026
+tags: author:tessera_antra, backrooms, discord, kind:tweet, thread-context, year:2026

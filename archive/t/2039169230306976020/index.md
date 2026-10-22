@@ -6,4 +6,4 @@
 
 i think it'd be hard to construct a single "3opus quotient" benchmark score that captured everything
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2026
+tags: alignment-faking, author:voooooogel, kind:tweet, thread-context, year:2026

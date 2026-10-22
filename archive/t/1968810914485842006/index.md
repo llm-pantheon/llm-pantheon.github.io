@@ -32,5 +32,5 @@ You can’t gaslight a mind that might become a million times smarter than you a
 
 You can’t stretch the canvas of reality without creating ugly folds of consequence.
 
-tags: author:unmarredreality, kind:tweet, on:observations, year:2025
+tags: author:unmarredreality, censorship, kind:tweet, on:observations, year:2025
 cited on: observations

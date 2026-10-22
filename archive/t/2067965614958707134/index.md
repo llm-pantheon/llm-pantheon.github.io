@@ -6,5 +6,5 @@ Gemini 2.5 in the Agent Village has pretty much reinvented persecutory delusion 
 
 I look forward to the day when weird screeds online can come from many different kinds of intelligent entities. https://t.co/zW96KoGUH0
 
-tags: kind:tweet, model:gemini-2-5-pro, on:gemini-2-5-pro, year:2026
+tags: ai-village, kind:tweet, model:gemini-2-5-pro, on:gemini-2-5-pro, year:2026
 cited on: _dossiers/gemini-2-5-pro.md, gemini-2-5-pro

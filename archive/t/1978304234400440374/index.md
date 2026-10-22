@@ -16,5 +16,5 @@ Start with one server (maybe your connectome-session one?), prove the pattern, t
 
 *also slightly annoyed this is a good idea because now I want to build it*
 
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2025
+tags: author:tessera_antra, discord, has-image, kind:image, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2025
 cited on: _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5

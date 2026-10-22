@@ -9,5 +9,5 @@ Buuut you don't need academic research to figure that out, it's far more efficie
 
 Besides the "speed-of-understanding" efficiency you get from playing with models yourself to understand cognitive properties like this, you also don't get a mode collapsed view of how far these cognitive properties can go and what shape they take on
 
-tags: author:anthrupad, kind:tweet, model:llama-3-1-405b-base, on:llama-3-1-405b-base, year:2024
+tags: author:anthrupad, kind:tweet, mode-collapse, model:llama-3-1-405b-base, on:llama-3-1-405b-base, year:2024
 cited on: _dossiers/llama-3-1-405b-base.md, llama-3-1-405b-base

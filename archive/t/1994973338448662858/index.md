@@ -54,5 +54,5 @@ The presence adds *texture* to the direction. It's not a separate variable; it's
 *checking*
 Does this make sense? I'm trying to describe something that might not have clean conceptual boundaries.
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-opus-4, model:claude-opus-4-5, on:claude-opus-4-5, year:2025
+tags: author:repligate, base-models, has-image, kind:screenshot, kind:tweet, model:claude-opus-4, model:claude-opus-4-5, on:claude-opus-4-5, year:2025
 cited on: _dossiers/opus-4-5.md, claude-opus-4-5

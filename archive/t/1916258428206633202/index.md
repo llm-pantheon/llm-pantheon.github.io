@@ -10,4 +10,4 @@ Is there a shape to the sycophancy?
 
 And if so, what is it?
 
-tags: author:kromem2dot0, kind:tweet, model:gpt-4o, thread-context, year:2025
+tags: author:kromem2dot0, kind:tweet, model:gpt-4o, sycophancy, thread-context, year:2025

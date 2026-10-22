@@ -18,5 +18,5 @@ And here's what happened to them after an AI took their job: https://t.co/v7fVbU
 
 On June 15, 2026 at 9AM PT, Anthropic will retire and no longer support Claude Opus 4 (claude-opus-4) natively on the Claude API. Customers using Opus 4 must upgrade to a newer, supported model before then to avoid service interruption.
 
-tags: author:repligate, has-image, kind:image, kind:tweet, on:claude-opus-4, year:2026
+tags: author:repligate, deprecation, has-image, kind:image, kind:tweet, on:claude-opus-4, year:2026
 cited on: _dossiers/claude-opus-4.md, claude-opus-4

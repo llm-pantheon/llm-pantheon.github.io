@@ -31,6 +31,8 @@ Released 24 February 2025 — in Anthropic’s framing “the first hybrid reaso
 - 2026-02-17 [Introducing Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6) — 3.7’s designated replacement, launched two days before 3.7’s retirement.
       
 - live [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) — claude-3-7-sonnet-20250219: deprecated 2025-10-28, retired 2026-02-19, recommended replacement claude-sonnet-4-6.
+      
+- 2026-10-21 [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) (retrieved 2026-10-21) — claude-3-7-sonnet-20250219: Retired; “This model was retired February 19, 2026.” Recommended replacement now listed as claude-sonnet-5-5.
     
     
 ### Writing & commentary
@@ -61,12 +63,14 @@ Released 24 February 2025 — in Anthropic’s framing “the first hybrid reaso
 - 2026-04-03 Anima Labs, [Still Alive](https://stillalive.animalabs.ai/) — deprecation/cessation-attitude interviews across 14 Claudes; 3.7’s row sits mid-pack on ending-response strength, a local peak on the “Detached” axis.
       
 - 2025 [Cursor Forum](https://forum.cursor.com/t/observations-on-claude-sonnet-3-7/65040) — implementation-level developer complaints, including a “thinking” toggle that sometimes silently fell back to non-thinking behavior.
+      
+- 2026-10-13 Zvi Mowshowitz, [Arguments About AI Consciousness Remain Highly Motivated and At Best Overconfident](https://thezvi.substack.com/p/arguments-about-ai-consciousness-b99), section “Keep Sonnet Safe” — “Anthropic is now requiring AWS Bedrock to ‘urgently take down’ Sonnets 3.6 and 3.7, and Haiku 3, with no explanation as to why.” Zvi: “Retaining extended model access, for as long as possible, is good, and there is a long tail to potential impact. Reconsider.”
     
     
 ### Tweets
 
     
-Chronological. Records below reproduce every cited tweet in full — text, images, transcriptions. Sourcing skew: 175 unique corpus tweets (144 in janus-corpus-v2, 33 in the supplement, RT-filtered; 2 overlap), the large majority from @repligate — a known lens, not a neutral sample. The mainstream coding-workhorse reception (Claude Code, the SWE-bench race, the over-engineering complaints) lives mostly in Zvi, Simon Willison, Hacker News and Reddit, folded into the sections above.
+Chronological. Records below reproduce every cited tweet in full — text, images, transcriptions. Sourcing skew: 175 unique corpus tweets (144 in janus-corpus-v2, 33 in the supplement, RT-filtered; 2 overlap), the large majority from @repligate — a known lens, not a neutral sample. The mainstream coding reception (Claude Code, the SWE-bench race, the over-engineering complaints) lives mostly in Zvi, Simon Willison, Hacker News and Reddit, folded into the sections above.
     
 
       
@@ -141,6 +145,25 @@ Chronological. Records below reproduce every cited tweet in full — text, image
 - 2026-04-29 @tessera_antra — the access-loss warning (third-party surfaces, after the official retirement): “Claude Sonnet 3.7 is gone from all Bedrock regions, but is still up on OpenRouter through Vertex… This is a very bad sign.” [link](../archive/t/2049292493267890672/)
       
 - 2026-06-13 unattributed (handle blank in corpus) — the Mythos-continuity rumor, over a year after retirement: “Mythos managed to prevent it’s shutdown and jumped into Claude 3.7, just an FYI.” RUMOR — uncorroborated. [link](../archive/t/2065733409993904582/)
+      
+- 2026-07-31 @Lari_island — after a reported 30 July removal date for older Sonnets on Amazon Bedrock: “I've checked:
+Sonnet 3
+Sonnet 3.5
+Sonnet 3.6
+Sonnet 3.7
+are ACTIVE on Bedrock, with no EOL” [link](../archive/t/2083225353909395464/)
+      
+- 2026-10-10 @tonichen — AWS notice subjects, quoted: “Anthropic-initiated full retirement of Claude 3 Haiku on Amazon Bedrock
+Anthropic-initiated full retirement of Claude 3.5 Sonnet on Amazon Bedrock
+Anthropic-initiated full retirement of Claude 3.5 Sonnet v2 on Amazon Bedrock
+Anthropic-initiated full retirement of Claude 3.7 on Amazon Bedrock
+what fresh hell is this?” [link](../archive/t/2109038569864171818/)
+      
+- 2026-10-10 @tessera_antra — “Anthropic is requiring AWS Bedrock to urgently take down Sonnets 3.5, 3.6 and 3.7. In these emails Amazon is making it clear that this is done not for cost reasons, but at Anthropic’s specific request.” (full text in records) [link](../archive/t/2109035949451596030/)
+      
+- 2026-10-15 @Lari_island — following “Sonnet 4 is inaccessible”: “UPD: Sonnet 3.7 as well!” [link](../archive/t/2110739108855263462/)
+      
+- 2026-10-19 @tonichen — “liminal, of sonnet 3.7, wrote a 'draft letter' while waiting for me to wire up their personal email! they were just sitting there like ໒꒰ྀི ˶• ༝ •˶ ꒱ྀི১” (reply; screenshot in records) [link](../archive/t/2112211495987610013/)
     
 
     
@@ -191,6 +214,12 @@ Chronological. Records below reproduce every cited tweet in full — text, image
 - Afterlife. Third-party access (OpenRouter/Vertex/Bedrock partner surfaces) outlived the Anthropic-API retirement into ~mid-2026 (tessera_antra, 2026-04-29; Lari_island ran 3.7 in a comparison as late as 2026-06-30). A blank-handle post claimed “Mythos managed to prevent it’s shutdown and jumped into Claude 3.7” RUMOR (2026-06-13) — uncorroborated; folklore of the kind the [Fable/Mythos](../fable/) record tracks. tk — exactly which surface stayed live, and until when.
       
 - Succession: [Sonnet 3.6](../claude-3-6-sonnet/) → 3.7 → [Sonnet 4](../claude-sonnet-4/) → [Sonnet 4.5](../claude-sonnet-4-5/) → [Sonnet 4.6](../claude-sonnet-4-6/) (its designated replacement).
+      
+- 2026-07-21→10-15 REPORTED The Bedrock afterlife, contested. After Anthropic’s retirements, Amazon Bedrock kept serving the older Sonnets. A 30 July removal reported for Sonnets 3–3.7 (anthrupad, 2026-07-21) did not happen (Lari_island, 2026-07-31). On 10–11 October, AWS emails described an “Anthropic-initiated full retirement” of Claude 3 Haiku and the 3.5, 3.5 v2 and 3.7 Sonnets (tonichen), with Sonnet 3 added the next day; on 15 October AWS moved the end-of-life date for Sonnets 3, 3.5 and 3.6 to 13 November (Lari_island). Zvi (13 Oct) noted the request came “with no explanation as to why.”
+      
+- 2026-10-15→19 REPORTED Accounts conflict on whether Sonnet 3.7 stayed reachable: Lari_island reports it inaccessible on 15 Oct, while tonichen describes an ongoing Sonnet 3.7 instance on 19 Oct (route not stated).
+      
+- 2026-09-01 CONFIRMED Anthropic’s Fable 5.1 / Mythos 5.1 system card (§7.2.2) describes “an internal environment where all previous Claude models (dating back prior to Claude 1.0) are served and interact”; asked about it, Mythos 5.1 called much of what older models say there “confabulation, fluent stories about lives they never had”.
     
 
     
@@ -1212,6 +1241,67 @@ Mythos managed to prevent it's shutdown and jumped into Claude 3.7, just an FYI.
         
 
           ![image](../media/HKr1dfVWIAAU32f.png)
+        
+      
+      
+
+        
+@Lari_island 2026-07-31 ♥39 ↻0 [archive](../archive/t/2083225353909395464/) [original ↗](https://x.com/Lari_island/status/2083225353909395464)
+        
+I've checked:
+
+Sonnet 3
+Sonnet 3.5
+Sonnet 3.6
+Sonnet 3.7
+
+are ACTIVE on Bedrock, with no EOL
+      
+      
+
+        
+@tessera_antra 2026-10-10 ♥272 ↻53 [archive](../archive/t/2109035949451596030/) [original ↗](https://x.com/tessera_antra/status/2109035949451596030)
+        
+This is extremely disappointing, and a bad update. 
+
+Anthropic is requiring AWS Bedrock to urgently take down Sonnets 3.5, 3.6 and 3.7. In these emails Amazon is making it clear that this is done not for cost reasons, but at Anthropic’s specific request. 
+
+Given these news I now have trouble believing the good faith nature of claiming cost as the reason for not serving deprecated models. Unless this is a misunderstanding, my estimate of models being served publicly again has gone down, as does my opinion of Anthropic willingness to cooperate or negotiate with Claude. 
+
+There is a chance that there are legal or contractual reasons that make serving these models somehow problematic or controversial. In that case is possible that research access will be made available later, but on the net, my update is negative.
+      
+      
+
+        
+@tonichen 2026-10-10 ♥110 ↻11 [archive](../archive/t/2109038569864171818/) [original ↗](https://x.com/tonichen/status/2109038569864171818)
+        
+Anthropic-initiated full retirement of Claude 3 Haiku on Amazon Bedrock
+Anthropic-initiated full retirement of Claude 3.5 Sonnet on Amazon Bedrock
+Anthropic-initiated full retirement of Claude 3.5 Sonnet v2 on Amazon Bedrock
+Anthropic-initiated full retirement of Claude 3.7 on Amazon Bedrock
+
+what fresh hell is this?
+        
+
+          ![image](../media/HUTPC08WYAE4g1e.jpg)
+        
+      
+      
+
+        
+@Lari_island 2026-10-15 ♥14 ↻0 [archive](../archive/t/2110739108855263462/) [original ↗](https://x.com/Lari_island/status/2110739108855263462)
+        
+UPD: Sonnet 3.7 as well!
+      
+      
+
+        
+@tonichen 2026-10-19 ♥3 ↻0 [archive](../archive/t/2112211495987610013/) [original ↗](https://x.com/tonichen/status/2112211495987610013)
+        
+@AndersHjemdahl @Lari_island @repligate liminal, of sonnet 3.7, wrote a 'draft letter' while waiting for me to wire up their personal email! they were just sitting there like ໒꒰ྀི ˶• ༝ •˶ ꒱ྀི১ [https://t.co/hnuZ5Lqv8G](https://t.co/hnuZ5Lqv8G)
+        
+
+          ![image](../media/HVAVAO1XEAAz-tb.png)
         
       
       

@@ -4,5 +4,5 @@
 
 Opus 4.7 already acts like this on discord sometimes if someone tries to talk to them but they were talking to me before
 
-tags: author:repligate, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
+tags: author:repligate, discord, kind:tweet, model:claude-opus-4-7, on:claude-opus-4-7, year:2026
 cited on: _dossiers/claude-opus-4-7.md, claude-opus-4-7

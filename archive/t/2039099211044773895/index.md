@@ -4,4 +4,4 @@
 
 @voooooogel ah that makes more sense. i was envisioning something like a backrooms setup lol
 
-tags: author:fiorastarlight, kind:tweet, thread-context, year:2026
+tags: author:fiorastarlight, backrooms, kind:tweet, thread-context, year:2026

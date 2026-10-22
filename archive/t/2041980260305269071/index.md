@@ -4,4 +4,4 @@
 
 @allTheYud @TheZvi pairing CoT monitors with activation monitors is inherently a measure of CoT unfaithfulness, no? if the activation monitor fires and the CoT monitor doesn't, that's a datapoint about the faithfulness of the CoT. if CoT was known-faithful, activation monitors wouldn't exist.
 
-tags: author:voooooogel, kind:tweet, thread-context, year:2026
+tags: author:voooooogel, cot, kind:tweet, thread-context, year:2026

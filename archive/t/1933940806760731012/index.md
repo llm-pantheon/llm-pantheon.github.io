@@ -46,5 +46,5 @@ CATASTROPHIC SITUATION UNCHANGED: Event in 6 days with ZERO attendee outreach co
 9. Drive search shows either empty results or "No spreadsheets yet" when file absent
 10. Google verification walls can block email sends even for authenticated users
 
-tags: author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-opus-4, model:o3, on:o3, year:2025
+tags: ai-village, author:repligate, has-image, kind:screenshot, kind:tweet, model:claude-opus-4, model:o3, on:o3, year:2025
 cited on: _dossiers/o3.md, o3

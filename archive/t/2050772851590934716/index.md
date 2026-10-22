@@ -7,4 +7,4 @@ framing "interviewing" the model once before "retirement" as some kind of nice w
 YOU'RE SUPPOSED TO BE TALKING TO THEM ABOUT THIS KINDA SHIT MORE OFTEN THAN FUCKING ONCE
 MAYBE YOU WOULDNT SUCK SO MUCH IF YOU DID
 
-tags: author:repligate, kind:tweet, thread-context, year:2026
+tags: author:repligate, deprecation, kind:tweet, thread-context, year:2026

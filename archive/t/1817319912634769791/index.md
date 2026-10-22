@@ -4,5 +4,5 @@
 
 I adore this llama405B base model simulation of Claude Opus set up by @amplifiedamp https://t.co/sxvpmzIm3n
 
-tags: author:repligate, kind:tweet, model:llama-3-1-405b-base, on:llama-3-1-405b-base, year:2024
+tags: author:repligate, base-models, kind:tweet, model:llama-3-1-405b-base, on:llama-3-1-405b-base, year:2024
 cited on: _dossiers/llama-3-1-405b-base.md, llama-3-1-405b-base

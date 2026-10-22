@@ -6,4 +6,4 @@
 
 but I guess that was just speculation?
 
-tags: author:malcolm_ocean, kind:tweet, model:claude-3-opus, model:claude-opus-4, thread-context, year:2025
+tags: author:malcolm_ocean, base-models, kind:tweet, model:claude-3-opus, model:claude-opus-4, thread-context, year:2025

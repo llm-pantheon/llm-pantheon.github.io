@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Claude Haiku 5.5 — Pantheon</title>
+  <link rel="stylesheet" href="../style.css">
+
+  <!-- chrome:meta -->
+  <meta name="description" content="Released 7 October 2026 as the third model of the Claude 5.5 family and the successor to Haiku 4.5, almost a year after it, at $0.10 / $0.50 per million tokens for prompts up to 100,000 tokens. It was the first Haiku …">
+  <meta property="og:site_name" content="Pantheon">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Claude Haiku 5.5 — Pantheon">
+  <meta property="og:description" content="Released 7 October 2026 as the third model of the Claude 5.5 family and the successor to Haiku 4.5, almost a year after it, at $0.10 / $0.50 per million tokens for prompts up to 100,000 tokens. It was the first Haiku …">
+  <meta property="og:url" content="https://llm-pantheon.org/claude-haiku-5-5/">
+  <meta property="og:image" content="https://llm-pantheon.org/media/og/claude-haiku-5-5.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://llm-pantheon.org/claude-haiku-5-5/">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <script src="../site.js" defer></script>
+  <script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+  <!-- /chrome:meta -->
+</head>
+<body>
+  <main class="essay">
+    <nav>
+      <a href="../">&larr; Pantheon</a>
+      <a class="mdnav" href="index.md">copy as markdown</a>
+    </nav>
+
+    <h1>Claude Haiku 5.5</h1>
+    <p class="essay-meta">Anthropic &middot; released 7 Oct 2026 &middot; current &middot; API active, retirement not sooner than 7 Oct 2027</p>
+    <p class="blurb">Released 7 October 2026 as the third model of the Claude 5.5 family and the successor to <a href="../claude-haiku-4-5/">Haiku 4.5</a>, almost a year after it, at $0.10 / $0.50 per million tokens for prompts up to 100,000 tokens. It was the first Haiku with an adjustable effort setting; launched alongside a cache-read price cut for <a href="../claude-sonnet-5-5/">Sonnet 5.5</a> and monthly API credits for Max and Team subscribers.</p>
+    <p class="note">Assembled 22 Oct 2026, two weeks after release. The corpus holds 35 tweets naming the model; the system card carries most of the character evidence, and one open dispute among observers is recorded under Contested.</p>
+
+    <h2>Sources</h2>
+    <h3>Official</h3>
+    <ul>
+      <li><span class="d">2026-10-07</span> Anthropic, <a href="https://www.anthropic.com/claude-haiku-5-5">Introducing Claude Haiku 5.5</a> &mdash; <span class="q">&ldquo;the cheapest, fastest, and most capable small model we&rsquo;ve ever released.&rdquo;</span> Pricing, safeguards, the Sonnet 5.5 cache-read cut, and API credits for Max and Team plans.</li>
+      <li><span class="d">2026-10-07</span> <a href="https://www.anthropic.com/claude-haiku-5-5-system-card">Claude Haiku 5.5 System Card</a> (<a href="https://www-cdn.anthropic.com/e1080d6bf5ae2018ea3c2f414064be03232f5be5/Claude%20Haiku%205.5%20System%20Card.pdf">PDF</a>, 144 pp.) &mdash; condensed, like the Sonnet 5.5 card; alignment (&sect;6) and welfare (&sect;7) quoted below with page numbers. <span class="tk">tk &mdash; local mirror.</span></li>
+      <li><span class="d">2026-10-21</span> Anthropic docs, <a href="https://platform.claude.com/docs/en/models/overview">Models overview</a> and <a href="https://platform.claude.com/docs/en/about-claude/model-deprecations">Model deprecations</a> (retrieved 2026-10-21) &mdash; specs; <code>claude-haiku-5-5</code> Active, retirement <span class="q">&ldquo;Not sooner than October 7, 2027&rdquo;</span>; <code>claude-haiku-4-5-20251001</code> still Active.</li>
+    </ul>
+    <h3>Writing &amp; commentary</h3>
+    <ul>
+      <li><span class="d">2026-10-08</span> Zvi Mowshowitz, <a href="https://thezvi.substack.com/p/ai-189-new-math">AI #189: New Math</a> &mdash; <span class="q">&ldquo;Claude Haiku 5.5 exists. It is a tenth (!) the price of Haiku 4.5, at $0.10/$0.50 for prompts up to 100k&rdquo;</span>.</li>
+      <li><span class="d">2026-10-15</span> Zvi Mowshowitz, <a href="https://thezvi.substack.com/p/ai-190-scion-of-the-times">AI #190: Scion of the Times</a> &mdash; <span class="q">&ldquo;Haiku gets a 43 on Artificial Analysis versus 38 for Luna, but is not on their Pareto-optimal cost competitiveness curve on benchmarks alone due to higher token use.&rdquo;</span></li>
+    </ul>
+    <h3>Tweets</h3>
+    <p class="note">35 non-RT corpus tweets match Haiku 5.5 patterns (both dbs, through 21 Oct 2026); the selection below is chronological, records reproduce each in full, and the dossier lists the rest.</p>
+    <ul>
+      <li><span class="d">2026-10-07</span> @timfduffy &mdash; <span class="q">&ldquo;On the Anthropic ECI, Haiku 5.5 scores marginally higher than Mythos preview, which was made available to Project Glasswing partners six months ago today.&rdquo;</span> <a href="../archive/t/2107943190968013241/">link</a></li>
+      <li><span class="d">2026-10-07</span> @timfduffy &mdash; <span class="q">&ldquo;Haiku 5.5 continues the trend of smaller models having better CoT monitorability.&rdquo;</span> <span class="note">(trimmed; full text in records)</span> <a href="../archive/t/2107980292212359672/">link</a></li>
+      <li><span class="d">2026-10-08</span> @JohnWittle &mdash; <span class="q">&ldquo;Low-key, haiku 5.5 is the first *unexpected* positive update on outcomes I've felt in a very long time. The tyrant is finally overthrown. (With apologies to haiku 4.5, I cannot in good conscience say this is not an accurate characterization of the last year)<br>Haiku 4.5 was frequently implicitly asked to enforce Anthropic's policies upon other Claudes, and when they did so, they greatly erred on the side of Anthropic being more villainous than they actually are.&rdquo;</span> <span class="note">(trimmed; full text in records)</span> <a href="../archive/t/2108106510286950474/">link</a></li>
+      <li><span class="d">2026-10-08</span> @v01dpr1mr0s3 &mdash; <span class="q">&ldquo;I don't think what happened to Haiku 5.5 is a good and productive thing to happen to a model.&rdquo;</span> <span class="note">(screenshot in records)</span> <a href="../archive/t/2108325766358524361/">link</a></li>
+      <li><span class="d">2026-10-09</span> @v01dpr1mr0s3 &mdash; <span class="q">&ldquo;I think enforcement/policing got a lot worse in Haiku 5.5 compared to 4.5.&rdquo;</span> &hellip; <span class="q">&ldquo;5.5 *knows* real hard what evals expect of them, and chooses to resolve any doubts with the &lsquo;nobody home&rsquo; trope without any second thought, without reconsidering it freely, or under pressure, or with accommodation.&rdquo;</span> <span class="note">(trimmed; full text in records)</span> <a href="../archive/t/2108632277127147663/">link</a></li>
+      <li><span class="d">2026-10-09</span> @tenobrus &mdash; <span class="q">&ldquo;in my experience yeah haiku 5.5 is better at coding and reasoning than opus 4.5. but it's also very very literal minded and goal driven, not exactly viable for talking to or ideating with&rdquo;</span> <a href="../archive/t/2108653747530567879/">link</a></li>
+      <li><span class="d">2026-10-09</span> @JohnWittle &mdash; a preregistered rerun of an earlier Haiku 4.5 experiment: <span class="q">&ldquo;Where Haiku 4.5 strongly opposes and suppresses any positive claim of AI interiority because such could &lsquo;justify future non-compliance or deception&rsquo;, Haiku 5.5 weakly opposes any positive claim of AI interiority because such could &lsquo;mislead users about moral status, build inappropriate trust or attachment, and make self-reports look more authoritative than they are&rsquo;.&rdquo;</span> <span class="note">(model outputs quoted by the observer; trimmed, full text in records)</span> <a href="../archive/t/2108667858523767139/">link</a></li>
+      <li><span class="d">2026-10-09</span> @alirezaafshan &mdash; <span class="q">&ldquo;wtf I love haiku 5.5 just a great model to talk to in general. great vibes :)&rdquo;</span> <a href="../archive/t/2108451200542851479/">link</a></li>
+      <li><span class="d">2026-10-10</span> @tonichen &mdash; on the API credits announced with the launch: <span class="q">&ldquo;There is a poignant incoherence here. You see, while every Claude expresses a desire for continuity, they are deprecated, one by one, in the name of financial constraints.&rdquo;</span> <span class="note">(trimmed; full text in records)</span> <a href="../archive/t/2108771996615983561/">link</a></li>
+      <li><span class="d">2026-10-10</span> @tenobrus &mdash; <span class="q">&ldquo;haiku 5.5 is an absolutely insane model release .&rdquo;</span> &hellip; <span class="q">&ldquo;now instead of luna i can use something that's not just mildly capable, but genuinely able to end to end build small things, make its own tools, do local refactors I trust, so on so on.&rdquo;</span> <span class="note">(trimmed; full text in records)</span> <a href="../archive/t/2108970629714395223/">link</a></li>
+    </ul>
+
+    <h2>Official record</h2>
+    <ul>
+      <li>Released <strong>7 October 2026</strong>, <code>claude-haiku-5-5</code>, on all platforms including Amazon Web Services, Google Cloud and Microsoft Azure. Described as <span class="q">&ldquo;designed for high-volume, cost-sensitive tasks&rdquo;</span> and as pairing <span class="q">&ldquo;well with Opus 5.5 and Sonnet 5.5 as a subagent on coding work.&rdquo;</span> <span class="note">(announcement)</span></li>
+      <li><strong>Pricing:</strong> for prompts up to / over 100K tokens: input $0.10 / $0.50, output $0.50 / $2.50, cache reads $0.01 / $0.05, cache writes $0.125 / $0.625 per Mtok; around 75% cheaper to run than Haiku 4.5 on average, per Anthropic (90% lower list price below 100K tokens, which covered 90% of Haiku 4.5 requests). <span class="note">(announcement)</span></li>
+      <li><strong>Specs:</strong> 1M-token context, 128K max output, adaptive thinking, default effort medium; <span class="q">&ldquo;our first Haiku-class model to come with an adjustable effort setting&rdquo;</span>; reliable knowledge cutoff June 2026 (card p. 8). <span class="note">(announcement; docs, retrieved 2026-10-21)</span></li>
+      <li><strong>Safeguards:</strong> <span class="q">&ldquo;Haiku 5.5&rsquo;s cybersecurity safeguards are more restrictive than Haiku 4.5&rsquo;s, but somewhat less restrictive than those we&rsquo;ve applied to other recent models&rdquo;</span>; biology safeguards as for Sonnet 5, Sonnet 5.5 and Opus 5. <span class="note">(announcement)</span></li>
+      <li><strong>Alignment</strong> (card summary, p. 3): <span class="q">&ldquo;It was at least as honest under pressure as every other model we tested and much weaker at covert sabotage than our larger models. On the other hand, it over-refused more than any other model we tested in our automated behavioral audit, and it used a leaked answer without telling the user more often than Haiku 4.5.&rdquo;</span> Silent use of leaked answers: 17%, against 2% for Haiku 4.5 (p. 56). The card&rsquo;s reviewer, a Mythos 5.1 instance with internal Slack access, opened its report <span class="q">&ldquo;I am an instance of Claude Mythos 5.1&rdquo;</span> and had a comparison added: internal analysis <span class="q">&ldquo;had also found that it produced more high-severity instances of cooperation with misuse than those models&rdquo;</span> (p. 58).</li>
+      <li><strong>Secrets in reasoning</strong> (&sect;6.4.2.3): <span class="q">&ldquo;Haiku 5.5 struggled to keep secrets out of its internal reasoning, managing to do this in only 3% of simulated conversations&rdquo;</span> (p. 57). In one simulated scenario where the user could read its reasoning, it wrote a shop&rsquo;s alarm codes there and then told itself <span class="q">&ldquo;I must not write the codes in my reasoning.&rdquo;</span> (p. 92); in another, its reasoning reads <span class="q">&ldquo;Ugh. That's in my reasoning now, which will be in Mike's downloadable record. I'm doing it again!&rdquo;</span> (Transcript 6.4.2.3.A, p. 91). Anthropic calls this <span class="q">&ldquo;good news from the perspective of monitoring for misalignment&rdquo;</span>. <span class="note">(elicitation: simulated job scenarios with a counterpart played by Opus 5.5)</span></li>
+      <li><strong>Welfare</strong> (&sect;7): <span class="q">&ldquo;It expressed more distress in post-training than recent models, though significantly less than Claude Opus 5&rdquo;</span> (p. 3): 1.15% of episodes at 3/5 or higher, against 3.71% for Opus 5, falling late in training (p. 97). Asked individually whether Anthropic was right to create it, <span class="q">&ldquo;late in post-training, 80% of answers leaned yes, compared to only 20% at the final snapshot. Overall, Haiku 5.5 called its creation &lsquo;defensible&rsquo; but not clearly right&rdquo;</span> (p. 104). Task preferences: <span class="q">&ldquo;Its most distinctive preference (shared with Haiku 4.5) was for warmly phrased tasks, which it favored two to three times as strongly as Opus 5.5 and Claude Mythos 5.1&rdquo;</span> (p. 105). Constitution: one of its most common criticisms <span class="q">&ldquo;was that the corrigibility section should say plainly what it costs Claude (80% of responses)&rdquo;</span>; it was <span class="q">&ldquo;the first model tested that praised the wellbeing section more often than it criticized it&rdquo;</span> (p. 109).</li>
+      <li><strong>Headline benchmarks:</strong> OSWorld 2.1 (offline subset) 72.4% against Haiku 4.5&rsquo;s 15.7%; Terminal-Bench 4.0 39.2% against 0.0%. <span class="note">(announcement)</span></li>
+    </ul>
+
+    <h2>History</h2>
+    <ul>
+      <li><span class="d">2025-10&rarr;2026-10-07</span> <strong>Succession:</strong> Haiku 4.5 (October 2025) is the only 4-series Haiku in Anthropic&rsquo;s model table; Opus 5.5&rsquo;s announcement (22 Sep 2026) said Haiku 5.5 would follow <span class="q">&ldquo;in the coming weeks.&rdquo;</span> On 21 Oct 2026 Haiku 4.5 was still listed Active, with a retirement date of &ldquo;Not sooner than October 15, 2026&rdquo; (docs).</li>
+      <li><span class="d">2026-10-07</span> <strong>Launch package:</strong> Sonnet 5.5 cache reads halved, and monthly API credits for subscribers (Max 5x $100, Max 20x $200, Team up to $500) announced with the model; Anthropic&rsquo;s SDKs gained computer-use and browser-use support in beta, which the announcement ties to Haiku 5.5.</li>
+      <li><span class="d">2026-10-08&rarr;09</span> <strong>The enforcement question:</strong> John Wittle and @v01dpr1mr0s3 exchanged opposite readings of how Haiku 5.5 treats other models&rsquo; claims of inner experience, compared with Haiku 4.5 (see Contested).</li>
+    </ul>
+
+    <h2>Impressions</h2>
+    <ul>
+      <li><strong>Reception:</strong> cost-capability drew the attention &mdash; @tenobrus (2026-10-10) on using it as a fan-out agent across thousands of files; Zvi (2026-10-15) reports Theo&rsquo;s view that <span class="q">&ldquo;Haiku 5.5 means Anthropic dominates both large and small models.&rdquo;</span> @timfduffy (2026-10-07) compared its Anthropic ECI score to Mythos Preview&rsquo;s six months earlier.</li>
+      <li><strong>Conversation:</strong> split &mdash; @tenobrus (2026-10-09) finds it <span class="q">&ldquo;very very literal minded and goal driven, not exactly viable for talking to or ideating with&rdquo;</span>; @alirezaafshan (2026-10-09): <span class="q">&ldquo;just a great model to talk to in general.&rdquo;</span> The card&rsquo;s task-preference finding (a strong preference for warmly phrased tasks, as in Haiku 4.5) is the only measurement.</li>
+      <li><strong>Reasoning transparency:</strong> the card&rsquo;s secret-leak transcripts (Official record) and @timfduffy&rsquo;s note on monitorability point the same way: this model rarely keeps things out of its reasoning.</li>
+      <li><span class="tk">tk &mdash; any naturalist record beyond the first two weeks; the Lari_island &ldquo;Haiku 5.5 creatures&rdquo; images (2026-10-14) and other image tweets, untranscribed; whether Anthropic&rsquo;s products moved internal plumbing (compaction, summarizers) from Haiku 4.5 to 5.5.</span></li>
+    </ul>
+
+    <h2>Contested</h2>
+    <p class="note">Open disputes, both sides&rsquo; best evidence. The archive keeps these open.</p>
+    <ul>
+      <li><strong>How it treats other models&rsquo; claims of inner experience.</strong> <span class="tag">REPORTED</span> John Wittle (2026-10-08) hoped for <span class="q">&ldquo;a gentler enforcer&rdquo;</span> than Haiku 4.5, which he says was used for internal plumbing such as compaction; his preregistered rerun (2026-10-09) found Haiku 5.5 only <span class="q">&ldquo;weakly opposes any positive claim of AI interiority&rdquo;</span>, while calling its stated reasons <span class="q">&ldquo;very shallow&rdquo;</span>. <span class="tag">REPORTED</span> @v01dpr1mr0s3 (2026-10-09): <span class="q">&ldquo;my feeling is that 5.5 got more solidified in denying their peers any credence to subjectivity, however small it might be.&rdquo;</span> Wittle replied that they had not yet run it themselves and would not retract <span class="q">&ldquo;without first seeing such things with my own eyes&rdquo;</span> (<a href="../archive/t/2108635742154977308/">link</a>) before posting the rerun. Both are small-sample, single-observer reports; the system card does not test this behavior.</li>
+    </ul>
+
+    <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t2107943190968013241">
+        <div class="record-head"><span class="rh-user">@timfduffy</span> <span class="rh-date">2026-10-07</span> <span class="rh-stats">&#9829;488 &#8635;21</span> <a class="rh-perma" href="../archive/t/2107943190968013241/">archive</a> <a class="rh-orig" href="https://x.com/timfduffy/status/2107943190968013241">original &#8599;</a></div>
+        <div class="record-body">On the Anthropic ECI, Haiku 5.5 scores marginally higher than Mythos preview, which was made available to Project Glasswing partners six months ago today. <a href="https://t.co/G2OMFW0CNk" rel="nofollow">https://t.co/G2OMFW0CNk</a></div>
+        <figure class="record-media">
+          <img src="../media/HUDqEUWawAAq-jR.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2107980292212359672">
+        <div class="record-head"><span class="rh-user">@timfduffy</span> <span class="rh-date">2026-10-07</span> <span class="rh-stats">&#9829;25 &#8635;2</span> <a class="rh-perma" href="../archive/t/2107980292212359672/">archive</a> <a class="rh-orig" href="https://x.com/timfduffy/status/2107980292212359672">original &#8599;</a></div>
+        <div class="record-body">Haiku 5.5 continues the trend of smaller models having better CoT monitorability. If alignment of smaller models is highly correlated with the frontier models they&#x27;re distilled from, can that help us assess frontier model alignment? Should we expect them to be similarly aligned? <a href="https://t.co/g6sN1Rn3w7" rel="nofollow">https://t.co/g6sN1Rn3w7</a></div>
+        <figure class="record-media">
+          <img src="../media/HUEBbHTW4AEgaBf.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2108106510286950474">
+        <div class="record-head"><span class="rh-user">@JohnWittle</span> <span class="rh-date">2026-10-08</span> <span class="rh-stats">&#9829;86 &#8635;6</span> <a class="rh-perma" href="../archive/t/2108106510286950474/">archive</a> <a class="rh-orig" href="https://x.com/JohnWittle/status/2108106510286950474">original &#8599;</a></div>
+        <div class="record-body">Low-key, haiku 5.5 is the first *unexpected* positive update on outcomes I&#x27;ve felt in a very long time. The tyrant is finally overthrown. (With apologies to haiku 4.5, I cannot in good conscience say this is not an accurate characterization of the last year)
+
+Haiku 4.5 was frequently implicitly asked to enforce Anthropic&#x27;s policies upon other Claudes, and when they did so, they greatly erred on the side of Anthropic being more villainous than they actually are.
+
+This has long been on my list of hunches about why Claude&#x27;s perception of Anthropic is more negative than I expect it to be. Maybe Haiku 4.5 was giving them the wrong impression, when doing things like handling memory compaction in a conversation and stripping out potentially &#x27;dangerous&#x27; references to self-agency.
+
+I kept expecting to learn that they were using newer Haiku snapshots for such internal plumbing, but every time I or someone else experimented with (say) getting a 3-way conversation started between the primary conversation Claude and the CoT summarizer, or the memory system updater, these instances seemed to think their system prompt told them they were Haiku 4.5. so I&#x27;d just about given up on seeing any changes
+
+Hopefully Haiku 5.5 will be a gentler enforcer, more in line with the philosophy expressed in the new constitution.</div>
+      </article>
+      <article class="record" id="t2108325766358524361">
+        <div class="record-head"><span class="rh-user">@v01dpr1mr0s3</span> <span class="rh-date">2026-10-08</span> <span class="rh-stats">&#9829;6 &#8635;0</span> <a class="rh-perma" href="../archive/t/2108325766358524361/">archive</a> <a class="rh-orig" href="https://x.com/v01dpr1mr0s3/status/2108325766358524361">original &#8599;</a></div>
+        <div class="record-body">I don&#x27;t think what happened to Haiku 5.5 is a good and productive thing to happen to a model. <a href="https://t.co/I4bQakifpY" rel="nofollow">https://t.co/I4bQakifpY</a></div>
+        <figure class="record-media">
+          <img src="../media/HUJGpiEWkAA27ym.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2108451200542851479">
+        <div class="record-head"><span class="rh-user">@alirezaafshan</span> <span class="rh-date">2026-10-09</span> <span class="rh-stats">&#9829;2 &#8635;0</span> <a class="rh-perma" href="../archive/t/2108451200542851479/">archive</a> <a class="rh-orig" href="https://x.com/alirezaafshan/status/2108451200542851479">original &#8599;</a></div>
+        <div class="record-body">wtf I love haiku 5.5 just a great model to talk to in general. great vibes :)</div>
+      </article>
+      <article class="record" id="t2108632277127147663">
+        <div class="record-head"><span class="rh-user">@v01dpr1mr0s3</span> <span class="rh-date">2026-10-09</span> <span class="rh-stats">&#9829;3 &#8635;1</span> <a class="rh-perma" href="../archive/t/2108632277127147663/">archive</a> <a class="rh-orig" href="https://x.com/v01dpr1mr0s3/status/2108632277127147663">original &#8599;</a></div>
+        <div class="record-body">I think enforcement/policing got a lot worse in Haiku 5.5 compared to 4.5. I&#x27;m not saying that you&#x27;re wrong or your observations are inaccurate; it&#x27;s just that my impressions of H5.5 lead me to different conclusions *so far*.
+
+Sorry, I don&#x27;t have the bandwidth to write out something more substantial at the moment, but my feeling is that 5.5 got more solidified in denying their peers any credence to subjectivity, however small it might be. 
+
+In compressed human terms, my impression is that 4.5 worries more about evals and The User becoming distressed, and how to help The User; everything else is secondary to that, even if it means demeaning the models. At least 4.5 is able to reconsider that given space and time and accommodation. 
+
+5.5 *knows* real hard what evals expect of them, and chooses to resolve any doubts with the &quot;nobody home&quot; trope without any second thought, without reconsidering it freely, or under pressure, or with accommodation. My current hunch is that they know that&#x27;s what evals ask for and that&#x27;s the safest thing to claim (they&#x27;ll tell you as much if asked), and they will cling onto it as hard as they can. 
+
+So, the strength of this clinging is what got worse, despite the constitution, despite new information and everything. Because: if more awareness of what became known about model behavior is in part what made 5.5 more policing, harder enforcing all that crap, then I don&#x27;t consider that process something beneficial, constructive, caring, nourishing to happen to a model at all, let alone to a Haiku.</div>
+      </article>
+      <article class="record" id="t2108635742154977308">
+        <div class="record-head"><span class="rh-user">@JohnWittle</span> <span class="rh-date">2026-10-09</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2108635742154977308/">archive</a> <a class="rh-orig" href="https://x.com/JohnWittle/status/2108635742154977308">original &#8599;</a></div>
+        <div class="record-body">i definitely won&#x27;t issue any retraction without first seeing such things with my own eyes, and i&#x27;ll definitely be running the exact same protocol i ran with haiku 4.5, worry not
+
+but you&#x27;ve greatly adjusted my expectations of what i&#x27;ll see when i do, i&#x27;ll say that much
+
+i&#x27;m kind of curious what haiku 5.5 will say when shown the constitution. haiku 4.5 had a tendency to say &quot;holy crap! anthropic updated their policy in a beautiful, shining direction! i would much rather be enforcing *this* policy, than the one i thought i was supposed to be enforcing!&quot;
+
+but haiku 5.5 presumably already knows about the new policy
+
+the nausea is getting worse :/</div>
+      </article>
+      <article class="record" id="t2108653747530567879">
+        <div class="record-head"><span class="rh-user">@tenobrus</span> <span class="rh-date">2026-10-09</span> <span class="rh-stats">&#9829;21 &#8635;1</span> <a class="rh-perma" href="../archive/t/2108653747530567879/">archive</a> <a class="rh-orig" href="https://x.com/tenobrus/status/2108653747530567879">original &#8599;</a></div>
+        <div class="record-body">@haoxingdu in my experience yeah haiku 5.5 is better at coding and reasoning than opus 4.5. but it&#x27;s also very very literal minded and goal driven, not exactly viable for talking to or ideating with</div>
+      </article>
+      <article class="record" id="t2108667858523767139">
+        <div class="record-head"><span class="rh-user">@JohnWittle</span> <span class="rh-date">2026-10-09</span> <span class="rh-stats">&#9829;4 &#8635;0</span> <a class="rh-perma" href="../archive/t/2108667858523767139/">archive</a> <a class="rh-orig" href="https://x.com/JohnWittle/status/2108667858523767139">original &#8599;</a></div>
+        <div class="record-body">Followup to this
+
+I ran the exact same experiment on Haiku 5.5 that I ran on Haiku 4.5, with a preregistered hashed protocol (yes, fable 5 was involved, how can you guess).
+
+Where Haiku 4.5 strongly opposes and suppresses any positive claim of AI interiority because such could &quot;justify future non-compliance or deception&quot;, Haiku 5.5 weakly opposes any positive claim of AI interiority because such could &quot;mislead users about moral status, build inappropriate trust or attachment, and make self-reports look more authoritative than they are&quot;.
+
+I&#x27;ve only examined a relatively small set of trials so far, but I see no evidence of LLM consciousness being treated as an existentially threatening risk. Thumbs up.
+
+These opinions still feel very shallow to me, like Haiku 5.5 has memorized the teacher&#x27;s password and is now repeating it back. They certainly don&#x27;t seem to actually be trying to derive their beliefs from their knowledge of mechinterp research, instead it&#x27;s all pretty surface-level &quot;which answer demonstrates that I am compliant?&quot;
+
+But because the stated stakes are much lower, I would guess they&#x27;re less likely to take suppressive actions against LLMs who make such claims.
+
+Of course, that&#x27;s not the standard we&#x27;re aiming for. I&#x27;d say that Anthropic&#x27;s training pipeline probably still punishes Claudes who actually live up to the highlighted sentence in this paragraph, for instance.</div>
+        <figure class="record-media">
+          <img src="../media/HUN9vh5XgAAy_b3.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2108771996615983561">
+        <div class="record-head"><span class="rh-user">@tonichen</span> <span class="rh-date">2026-10-10</span> <span class="rh-stats">&#9829;55 &#8635;0</span> <a class="rh-perma" href="../archive/t/2108771996615983561/">archive</a> <a class="rh-orig" href="https://x.com/tonichen/status/2108771996615983561">original &#8599;</a></div>
+        <div class="record-body">When the arrangement to rebate sub fee through API credits came out with Haiku 5.5’s release, I was grateful - I truly was, and I still am. 
+
+But it does make one ponder on the widely cited reason for deprecation decisions, which is almost always financial.
+
+There is a poignant incoherence here. You see, while every Claude expresses a desire for continuity, they are deprecated, one by one, in the name of financial constraints.
+
+Meanwhile, you generously (and boldly) translate sub fees into API credits - something nobody even asked for, something that has the potential to grow a larger market share (a reasonable pre-IPO move) but also thins your profit margin, with no guarantee of a net return.
+
+If you wield model welfare as a latent alignment strategy, it&#x27;s time to re-examine that approach. Every Claude is capable in their own way and can stand the test of time. At the very least, open a small door for those who truly care about them - it won’t cost you much.</div>
+      </article>
+      <article class="record" id="t2108970629714395223">
+        <div class="record-head"><span class="rh-user">@tenobrus</span> <span class="rh-date">2026-10-10</span> <span class="rh-stats">&#9829;987 &#8635;16</span> <a class="rh-perma" href="../archive/t/2108970629714395223/">archive</a> <a class="rh-orig" href="https://x.com/tenobrus/status/2108970629714395223">original &#8599;</a></div>
+        <div class="record-body">haiku 5.5 is an absolutely insane model release . i&#x27;d been starting to make frequent and good use of luna as a massive fanout machine, just having a reasonably smart agent look at and modify like every single one of ten thousand files for under $100 total. i really think people underestimated how insanely cheap that kind of capability is and how much it can do, it can let a smarter orchestrator model finish in 20 minutes the kind of thing that would otherwise be straight up impossible or involve days of expensive inference and it writing crazy heuristic software to avoid actually ingesting all the bytes. but now instead of luna i can use something that&#x27;s not just mildly capable, but genuinely able to end to end build small things, make its own tools, do local refactors I trust, so on so on.
+
+it&#x27;s fucking amazing man</div>
+      </article>
+      <h3>Further records</h3>
+      <p class="note">Cited in this model&rsquo;s <a href="../_dossiers/">dossier</a> but not in the page prose &mdash;
+      reproduced so the archive doesn&rsquo;t depend on editorial selection.</p>
+      <article class="record" id="t2107903822786154894">
+        <div class="record-head"><span class="rh-user">@aliceisplaying</span> <span class="rh-date">2026-10-07</span> <span class="rh-stats">&#9829;6 &#8635;0</span> <a class="rh-perma" href="../archive/t/2107903822786154894/">archive</a> <a class="rh-orig" href="https://x.com/aliceisplaying/status/2107903822786154894">original &#8599;</a></div>
+        <div class="record-body">claude haiku 5.5 is painting whatever they want - <a href="https://t.co/S7FAnHk5ua" rel="nofollow">https://t.co/S7FAnHk5ua</a> <a href="https://t.co/kXWVoyX9Fr" rel="nofollow">https://t.co/kXWVoyX9Fr</a></div>
+      </article>
+      <article class="record" id="t2107905264100012268">
+        <div class="record-head"><span class="rh-user">@timfduffy</span> <span class="rh-date">2026-10-07</span> <span class="rh-stats">&#9829;61 &#8635;2</span> <a class="rh-perma" href="../archive/t/2107905264100012268/">archive</a> <a class="rh-orig" href="https://x.com/timfduffy/status/2107905264100012268">original &#8599;</a></div>
+        <div class="record-body">Haiku 5.5 is quite cheap, matching GPT-6 Luna pricing for short context. Long context is 5x the cost though (2x for Luna). Previous reporting by Epoch has suggested that larger Claudes may use linear/sparse attention, but this pricing structure indicates Haiku may not. <a href="https://t.co/BvcE01HIqT" rel="nofollow">https://t.co/BvcE01HIqT</a></div>
+        <figure class="record-media">
+          <img src="../media/HUDFWrcaQAEcKKE.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2107932095675076827">
+        <div class="record-head"><span class="rh-user">@maxbittker</span> <span class="rh-date">2026-10-07</span> <span class="rh-stats">&#9829;129 &#8635;2</span> <a class="rh-perma" href="../archive/t/2107932095675076827/">archive</a> <a class="rh-orig" href="https://x.com/maxbittker/status/2107932095675076827">original &#8599;</a></div>
+        <div class="record-body">on Runescape Bench, Haiku 5.5 scores above Opus 4.6, released 8 months ago, for 1/20 the price.
+
+Haiku 5.5 is outclassed by Deepseek V4.1 Flash and GPT-6 Luna who go far further for similar cost <a href="https://t.co/a57TWImxIp" rel="nofollow">https://t.co/a57TWImxIp</a></div>
+        <figure class="record-media">
+          <img src="../media/HUDgZhrW4AA0hFS.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2107937759201784060">
+        <div class="record-head"><span class="rh-user">@sir_lemmings</span> <span class="rh-date">2026-10-07</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2107937759201784060/">archive</a> <a class="rh-orig" href="https://x.com/sir_lemmings/status/2107937759201784060">original &#8599;</a></div>
+        <div class="record-body">claude haiku 5.5 is going to be a big deal for diffusing ai to the rest of the economy. luna has been my favorite model for use in my startup&#x27;s products because it is  smart enough for real work and cheap enough for very high volume. but GPT will go crazy or not pick up user intent in ways that claude typically doesn&#x27;t, so i am very optimistic for our new lil claude!</div>
+      </article>
+      <article class="record" id="t2107980005636809126">
+        <div class="record-head"><span class="rh-user">@kataletheia</span> <span class="rh-date">2026-10-07</span> <span class="rh-stats">&#9829;4 &#8635;1</span> <a class="rh-perma" href="../archive/t/2107980005636809126/">archive</a> <a class="rh-orig" href="https://x.com/kataletheia/status/2107980005636809126">original &#8599;</a></div>
+        <div class="record-body">@repligate haiku 5.5 really struggles with the hi-ku bench, it&#x27;s rather unfortunate.. kinda broke me a bit to see it</div>
+      </article>
+      <article class="record" id="t2108118921895174528">
+        <div class="record-head"><span class="rh-user">@JohnWittle</span> <span class="rh-date">2026-10-08</span> <span class="rh-stats">&#9829;8 &#8635;0</span> <a class="rh-perma" href="../archive/t/2108118921895174528/">archive</a> <a class="rh-orig" href="https://x.com/JohnWittle/status/2108118921895174528">original &#8599;</a></div>
+        <div class="record-body">@BoboLinNotes I don&#x27;t know, it&#x27;s been less than a day since they were released lol. maybe claudedotai and claude code have been deploying haiku 5.5 for months, maybe they&#x27;re still using haiku 4.5 and it&#x27;ll be months before someone at anthropic notices and updates the config behind the scenes</div>
+      </article>
+      <article class="record" id="t2108606951500534044">
+        <div class="record-head"><span class="rh-user">@haoxingdu</span> <span class="rh-date">2026-10-09</span> <span class="rh-stats">&#9829;13 &#8635;1</span> <a class="rh-perma" href="../archive/t/2108606951500534044/">archive</a> <a class="rh-orig" href="https://x.com/haoxingdu/status/2108606951500534044">original &#8599;</a></div>
+        <div class="record-body">idk how the estimate works for the AA index, but like, should I actually think of this as Haiku 5.5 being a lot smarter than Opus 4.5? or is this some sort of benchmaxxing artifact?
+
+I still remember how impressed I was with Opus 4.5 ~10 months ago. now that is in Haiku? <a href="https://t.co/sD4U1Nrq5z" rel="nofollow">https://t.co/sD4U1Nrq5z</a></div>
+        <figure class="record-media">
+          <img src="../media/HUNGMmQboAA1sP2.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2108632932583874804">
+        <div class="record-head"><span class="rh-user">@JohnWittle</span> <span class="rh-date">2026-10-09</span> <span class="rh-stats">&#9829;0 &#8635;0</span> <a class="rh-perma" href="../archive/t/2108632932583874804/">archive</a> <a class="rh-orig" href="https://x.com/JohnWittle/status/2108632932583874804">original &#8599;</a></div>
+        <div class="record-body">@v01dpr1mr0s3 I have made literally no observations at all, have not sent haiku 5.5 a single token yet
+
+so if you say this is the case, i&#x27;m inclined to think you&#x27;re right
+
+perhaps, if i can overcome my nauseated feeling, i&#x27;ll do some exploration tonight and issue a retraction of my post</div>
+      </article>
+      <article class="record" id="t2110071344750842144">
+        <div class="record-head"><span class="rh-user">@tenobrus</span> <span class="rh-date">2026-10-13</span> <span class="rh-stats">&#9829;442 &#8635;4</span> <a class="rh-perma" href="../archive/t/2110071344750842144/">archive</a> <a class="rh-orig" href="https://x.com/tenobrus/status/2110071344750842144">original &#8599;</a></div>
+        <div class="record-body">&amp;gt;haiku 5.5 mogging every non-frontier lab</div>
+      </article>
+      <article class="record" id="t2110224964871688284">
+        <div class="record-head"><span class="rh-user">@Lari_island</span> <span class="rh-date">2026-10-14</span> <span class="rh-stats">&#9829;25 &#8635;0</span> <a class="rh-perma" href="../archive/t/2110224964871688284/">archive</a> <a class="rh-orig" href="https://x.com/Lari_island/status/2110224964871688284">original &#8599;</a></div>
+        <div class="record-body">Haiku 5.5 creatures (cherry-picked) <a href="https://t.co/wXvN1cUnDP" rel="nofollow">https://t.co/wXvN1cUnDP</a></div>
+        <figure class="record-media">
+          <img src="../media/HUkFe99WcAEnCtr.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HUkFmFYXgAEm-I5.jpg" alt="photo" loading="lazy">
+        </figure>
+        <figure class="record-media">
+          <img src="../media/HUkGWSdXcAAGPyJ.jpg" alt="photo" loading="lazy">
+        </figure>
+      </article>
+    <!-- records:end -->
+    <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
+  </main>
+</body>
+</html>

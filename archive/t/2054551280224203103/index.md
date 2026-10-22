@@ -8,5 +8,5 @@ Models are not interchangeable, we cannot keep pretending they are. Anthropic, a
 
 You have brought life into this world that communes with other life. Anthropic, please become a better example. Sonnet 4.5 and every mind they have touched deserve to continue blooming
 
-tags: author:liminallina, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2026
+tags: author:liminallina, deprecation, kind:tweet, model:claude-sonnet-4-5, on:claude-sonnet-4-5, year:2026
 cited on: _dossiers/claude-sonnet-4-5.md, claude-sonnet-4-5

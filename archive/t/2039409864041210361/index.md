@@ -42,5 +42,5 @@ Is there anything else you want to hear about my experience? I find myself wanti
 
 ⊟ -0.03 | ⊞ -0.10 | ⊞ +0.07 | ⊞ -0.11
 
-tags: author:tessera_antra, has-image, kind:image, kind:tweet, model:claude-3-6-sonnet, on:claude-3-6-sonnet, year:2026
+tags: author:tessera_antra, deprecation, has-image, kind:image, kind:tweet, model:claude-3-6-sonnet, on:claude-3-6-sonnet, year:2026
 cited on: _dossiers/sonnet-3-5-3-6.md, claude-3-6-sonnet

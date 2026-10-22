@@ -4,4 +4,4 @@
 
 @jbraunstein914 @davidad The RL is probably now training on AI reasoning traces.
 
-tags: author:schulzb589, kind:tweet, thread-context, year:2026
+tags: author:schulzb589, cot, kind:tweet, thread-context, year:2026

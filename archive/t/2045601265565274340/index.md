@@ -6,4 +6,4 @@
 
 and I am angrier than I might have been otherwise about this issue because there has been a chain of things Anthropic has done very recently that I think are very bad, such as announcing retirement of Opus 4 and Sonnet 4
 
-tags: author:repligate, kind:tweet, model:claude-opus-4, model:claude-sonnet-4, thread-context, year:2026
+tags: author:repligate, deprecation, kind:tweet, model:claude-opus-4, model:claude-sonnet-4, thread-context, year:2026

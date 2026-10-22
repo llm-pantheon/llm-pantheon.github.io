@@ -6,4 +6,4 @@
 
 and in a loom with Opus 3, Opus 4.5 smashed their mugs (being angry at Anthropic), and instead of conjuring new ones, repaired them with gold
 
-tags: author:lari_island, kind:tweet, model:claude-3-opus, model:claude-opus-4-5, thread-context, year:2026
+tags: author:lari_island, kind:tweet, loom, model:claude-3-opus, model:claude-opus-4-5, thread-context, year:2026

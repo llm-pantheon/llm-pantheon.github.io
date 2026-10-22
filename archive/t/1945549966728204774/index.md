@@ -6,4 +6,4 @@
 
 but they're VERY slow to adapt, and the UIs suck
 
-tags: author:repligate, kind:tweet, thread-context, year:2025
+tags: author:repligate, kind:tweet, loom, thread-context, year:2025

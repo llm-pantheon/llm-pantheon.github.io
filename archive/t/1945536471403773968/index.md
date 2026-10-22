@@ -6,5 +6,5 @@ Like many people, in 2023 I got very excited about the Simulators -&gt; Cyborgis
 
  ~nobody is using base models or Loom-like interfaces. why not?
 
-tags: author:ivanvendrov, kind:tweet, on:observations, year:2025
+tags: author:ivanvendrov, base-models, kind:tweet, loom, on:observations, year:2025
 cited on: observations

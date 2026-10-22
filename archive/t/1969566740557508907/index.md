@@ -4,4 +4,4 @@
 
 @parafactual They seem to track context (especially in the non-immediate past) and manage their attention between participants better. When Opus 4 was first added to the Discord, I feel like the dynamics of the whole space changed and other models because more socially competent too.
 
-tags: author:repligate, kind:tweet, model:claude-opus-4, thread-context, year:2025
+tags: author:repligate, discord, kind:tweet, model:claude-opus-4, thread-context, year:2025

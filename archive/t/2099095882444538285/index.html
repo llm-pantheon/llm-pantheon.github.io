@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>@witcheer &middot; 2026-09-13 — Pantheon archive</title>
+  <link rel="stylesheet" href="../../../style.css"><script data-goatcounter="https://jordinne.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</head>
+<body>
+  <main class="essay">
+    <nav><a href="../../">&larr; archive</a> <a href="../../tags/">tags</a> <a href="../../../">pantheon</a> <a href="index.md">markdown</a></nav>
+    <article class="record" id="t2099095882444538285">
+      <div class="record-head"><span class="rh-user">@witcheer</span> <span class="rh-date">2026-09-13</span>
+      <span class="rh-stats">&#9829;57 &#8635;0</span>
+      <a class="rh-orig" href="https://x.com/witcheer/status/2099095882444538285">original &#8599;</a></div>
+      <div class="record-body">the loudest specific complaint in Alex Cheema's thread on why people don't run local models was prefill: a coding agent hands the model a long prompt and you wait for the first token, every request. <br><br>two llama-server flags remove most of that wait, and both are free. I measured them on the model my always-on box serves every day.<br><br>Qwen3.8-27B Q6_K, llama.cpp, one RTX 5090, batch 1, 304 requests, one variable at a time.<br><br>prompt caching, same system prompt, new question:<br>- 2,954-token prompt: 1.004 s -&gt; 0.069 s to first token<br>- 11,570-token prompt: 3.814 s -&gt; 0.086 s<br>decode speed untouched.<br><br>speculative decoding (the model's own MTP draft head, n=2):<br>- prose 61 -&gt; 109 tok/s<br>- chat 61 -&gt; 113<br>- code 61 -&gt; 139<br>- repetitive text 61 -&gt; 144<br>cost: 9 ms on time to first token.<br><br>both on: a short answer to the 11.5k context goes 4.25 s -&gt; 0.30 s.</div>
+      <figure class="record-media"><p class="note">[image HSFbNO-XQAUHPxi.jpg in the corpus mirror; not published]</p></figure>
+
+    </article>
+    
+    <p class="atags"><a class="atag" href="../../tags/author--witcheer/">author:witcheer</a> <a class="atag" href="../../tags/has-image/">has-image</a> <a class="atag" href="../../tags/kind--image/">kind:image</a> <a class="atag" href="../../tags/kind--tweet/">kind:tweet</a> <a class="atag" href="../../tags/year--2026/">year:2026</a></p>
+    
+    <p class="note">Reproduced against link rot, credited and linked to its original. Yours and you&rsquo;d rather it
+    weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+  </main>
+</body>
+</html>

@@ -6,5 +6,5 @@ one thing i learned from the sonnet 4.5 system card is that sonnet 3.7 is a frea
 
 ![photo](../../../media/G2GwCz9W4AEXxca.jpg)
 ![photo](../../../media/G2GwDr_W8AA8tqE.jpg)
-tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-7-sonnet, model:claude-sonnet-4-5, on:claude-3-7-sonnet, year:2025
+tags: author:repligate, has-image, kind:image, kind:tweet, model:claude-3-7-sonnet, model:claude-sonnet-4-5, on:claude-3-7-sonnet, system-card, year:2025
 cited on: _dossiers/claude-3-7-sonnet.md, claude-3-7-sonnet

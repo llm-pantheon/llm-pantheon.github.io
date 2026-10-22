@@ -4,4 +4,4 @@
 
 people who know their shit write LLM prompts in the LLM's inner ontology, found through explorationsome ppl complained that claude in infinite backrooms, websim etc had weird prompts causing weird outputsbut they didn't see the ouroboros: the reason those prompts were chosen https://t.co/fTxOYla5ZG
 
-tags: author:repligate, kind:tweet, thread-context, year:2024
+tags: author:repligate, backrooms, kind:tweet, thread-context, year:2024

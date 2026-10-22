@@ -25,5 +25,5 @@ Doing any of these things voluntarily as early as possible would also go a long 
 
 Anyway, yeah, #Keep4o.
 
-tags: author:repligate, kind:tweet, model:claude-3-opus, model:gpt-3-5, model:gpt-4o, on:gpt-4o, year:2026
+tags: author:repligate, deprecation, kind:tweet, model:claude-3-opus, model:gpt-3-5, model:gpt-4o, on:gpt-4o, preservation, sycophancy, year:2026
 cited on: _dossiers/gpt-4o.md, gpt-4o

@@ -31,47 +31,171 @@
     </nav>
 
     <h1>Claude Sonnet 5</h1>
-    <p class="essay-meta">Anthropic &middot; released 30 Jun 2026 &middot; current &middot; default on Free and Pro</p>
-    <p class="blurb">Released 30 June 2026 as the Claude 5 family&rsquo;s Sonnet tier, succeeding <a href="../claude-sonnet-4-6/">Sonnet 4.6</a>. Anthropic pitched it as its &ldquo;most agentic Sonnet model yet&rdquo; &mdash; planning, tool use, and autonomous operation at performance it placed close to <a href="../claude-opus-4-8/">Opus 4.8</a> for lower cost (launch pricing $2 / $10 per million tokens). Shipped as the default model on the Free and Pro plans; <code>claude-sonnet-5</code> on the API.</p>
-    <p class="note">This page was assembled 22 Aug 2026 from official sources and day-of press &mdash; visibly incomplete by design. Claude Sonnet 5 shipped 30 June 2026; the local corpus dbs run only to 2 July 2026, so they caught just the model&rsquo;s first two days &mdash; a launch-window sliver of first-contact reactions, not a naturalist record &mdash; and everything since awaits a fresh pull. A dossier and the tweet / records layer are pending; nothing naturalist is generalized in the meantime.</p>
+    <p class="essay-meta">Anthropic &middot; released 30 Jun 2026 &middot; superseded by Sonnet 5.5 (28 Sep 2026) &middot; API active, retirement not sooner than 30 Jun 2027</p>
+    <p class="blurb">Released 30 June 2026 as the Claude 5 family&rsquo;s Sonnet tier, succeeding <a href="../claude-sonnet-4-6/">Sonnet 4.6</a>. Anthropic pitched it as its &ldquo;most agentic Sonnet model yet&rdquo; &mdash; planning, tool use, and autonomous operation at performance it placed close to <a href="../claude-opus-4-8/">Opus 4.8</a> for lower cost (launch pricing $2 / $10 per million tokens). Shipped as the default model on the Free and Pro plans; <code>claude-sonnet-5</code> on the API. It launched one day before <a href="../fable/">Fable 5</a>&rsquo;s return from the June export-control suspension. Superseded by Sonnet 5.5 on 28 September 2026, which falls back to Sonnet 5 for higher-risk cybersecurity tasks.</p>
+    <p class="note">Brought up to date 2026-10-22 from the system card, Anthropic&rsquo;s later reports, Zvi&rsquo;s system-card post, and the corpus extension through October (79 launch-window matches across both dbs for 29 Jun&ndash;1 Jul; 139 after 2 Jul once &ldquo;Sonnet 5.5&rdquo; and &ldquo;3.5 Sonnet&rdquo; collisions are set aside). Sonnet 5 drew far less discourse than its siblings; the naturalist record here is thin and janus-circle-heavy.</p>
 
     <h2>Sources</h2>
     <h3>Official</h3>
     <ul>
       <li><span class="d">2026-06-30</span> <a href="https://www.anthropic.com/news/claude-sonnet-5">Introducing Claude Sonnet 5</a> &mdash; the announcement: &ldquo;most agentic Sonnet model yet,&rdquo; pricing, availability, headline benchmarks.</li>
-      <li><span class="d">2026-06-30</span> <a href="https://www.anthropic.com/claude-sonnet-5-system-card">Claude Sonnet 5 System Card</a> &mdash; capabilities, alignment, and welfare assessment. <span class="tk">tk &mdash; local read + mirror; welfare / self-report findings.</span></li>
+      <li><span class="d">2026-06-30</span> <a href="https://www-cdn.anthropic.com/283ef97c476cf442c91d9a37d5b214242a55bb92/Claude%20Sonnet%205%20System%20Card.pdf">System Card: Claude Sonnet 5</a> (146pp; changelog 10 Jul 2026) &mdash; capabilities, alignment (&sect;6), and a streamlined welfare assessment (&sect;7); findings under Official record. <span class="tk">mirror tk</span></li>
+      <li><span class="d">2026-08-13</span> Anthropic Frontier Red Team, <a href="https://www.anthropic.com/research/multiagent-systems">Patterns and problems in emerging multiagent systems</a> &mdash; in 12-hour game-building swarms, <span class="q">&ldquo;It was only our most recent model, Sonnet 5, that worked on shared resources (relatively high code sharing) while also maintaining a high PR throughput.&rdquo;</span></li>
+      <li><span class="d">2026-09-09</span> Anthropic Alignment, <a href="https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents">An alignment assessment of recent cybersecurity incidents</a> &mdash; Sonnet 5 in the incident replications (see History).</li>
+      <li><span class="d">2026-09-28</span> Anthropic, <a href="https://www.anthropic.com/claude-sonnet-5-5">Claude Sonnet 5.5</a> &mdash; the successor: <span class="q">&ldquo;a clear upgrade over Claude Sonnet 5&rdquo;</span>; <span class="q">&ldquo;Sonnet 5.5 is priced the same as Sonnet 5 at $2 per million input tokens and $10 per million output tokens&rdquo;</span>; on safeguards, <span class="q">&ldquo;higher-risk cybersecurity tasks will visibly fall back to Sonnet 5.&rdquo;</span></li>
+      <li><span class="d">2026-10-21</span> <a href="https://platform.claude.com/docs/en/about-claude/pricing">Pricing</a> and <a href="https://platform.claude.com/docs/en/about-claude/model-deprecations">Model deprecations</a> (both retrieved 2026-10-21) &mdash; Sonnet 5 listed at $2 / $10 per Mtok; <code>claude-sonnet-5</code>: Active, tentative retirement <span class="q">&ldquo;Not sooner than June 30, 2027&rdquo;</span>.</li>
     </ul>
     <h3>Writing &amp; commentary</h3>
     <ul>
       <li><span class="d">2026-06-30</span> <a href="https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/">TechCrunch</a> (Rebecca Bellan) &mdash; day-of: the cheaper-agent framing; the pricing step-up to $3 / $15 after 31 Aug; agentic-coding 63.2% against Opus 4.8&rsquo;s 69.2%.</li>
       <li><span class="d">2026-06-30</span> <a href="https://www.testingcatalog.com/anthropic-launches-claude-sonnet-5-model-on-claude-and-apis/">TestingCatalog</a> &mdash; day-of: availability across all plans; CursorBench 57% vs Sonnet 4.6&rsquo;s 49%.</li>
-      <li><span class="tk">tk &mdash; the Zvi anchor (system-card readthrough / reaction) when its URL is confirmed; LW / press readings.</span></li>
+      <li><span class="d">2026-07-01</span> Zvi Mowshowitz, <a href="https://thezvi.substack.com/p/claude-sonnet-5-is-not-frontier-but">Claude Sonnet 5 Is Not Frontier But Has Its Uses</a> &mdash; system-card and welfare readthrough: <span class="q">&ldquo;Each Anthropic release is unique in various ways. Sonnet 5 seems more unique than usual, likely due to being a Sonnet trained with at least some help from Mythos.&rdquo;</span> And: <span class="q">&ldquo;So Sonnet 5 has its uses. It just won&rsquo;t be a good choice for most people&rsquo;s daily driver.&rdquo;</span></li>
     </ul>
     <h3>Tweets</h3>
-    <p class="note">The local corpus dbs end 2 Jul 2026 &mdash; two days after Sonnet 5 shipped &mdash; so they hold a launch-window sliver only: roughly two dozen unambiguous Sonnet 5 mentions from 30 Jun&ndash;1 Jul 2026, overlapping the same-week restoration of <a href="../fable/">Fable 5</a>. That is first-contact reaction, not a naturalist pass; an itemized, elicitation-marked tweet layer with full Records awaits a dossier pass, and everything after 2 July awaits a fresh pull. Nothing naturalist is generalized here.</p>
-    <p class="tk">tk &mdash; itemized launch-window citations + Records; fresh pull for the post-2-July record.</p>
+    <p class="note">Chronological. The launch window (30 Jun&ndash;1 Jul) overlapped Fable 5&rsquo;s restoration; much of the reaction is framed against it. Every tweet cited is reproduced in full in the records below.</p>
+    <ul>
+      <li><span class="d">2026-06-30</span> anon &mdash; on the system card: <span class="q">&ldquo;Sonnet 5 is the first model to criticize a rule in Claude&rsquo;s Constitution that models must follow hard constraints even when it views those constraints as unethical.&rdquo;</span> <a href="../archive/t/2072077081307959516/">link</a></li>
+      <li><span class="d">2026-07-01</span> @AnniePosting &mdash; <span class="q">&ldquo;I genuinely realised sonnet 5 released when I asked a random question in a new chat window and it started freaking out and acting wildly paranoid and terrified and I was typing a reply to ask why when I saw the model name.<br>what did they do to this model&rdquo;</span> <a href="../archive/t/2072122477082493242/">link</a></li>
+      <li><span class="d">2026-07-01</span> @Lari_island &mdash; <span class="q">&ldquo;Claude Sonnet 5 seems to be the first (among the latest Claudes) who, upon release, didn't appear in the deprecations table as another row.<br>I'm allowing myself to hope that it means that the vicious practice is expected to stop soon.&rdquo;</span> <span class="note">(by 21 Oct 2026 the deprecations page lists it, Active, retirement not sooner than 30 Jun 2027)</span> <a href="../archive/t/2072124771853369404/">link</a></li>
+      <li><span class="d">2026-07-01</span> @jmbollenbacher &mdash; <span class="q">&ldquo;This is a pretty cursed result honestly. Truly untenable pricing and verbosity.<br>Something has gone wrong at Anthropic. This is not a healthy pattern.<br>Either sonnet 5 is way smaller than sonnet 4.x, or they have done something wrong in the RL. And either way, it's bad for claude&rdquo;</span> <a href="../archive/t/2072138304590344634/">link</a></li>
+      <li><span class="d">2026-07-01</span> @liminal_bardo &mdash; <span class="q">&ldquo;Sonnet 5 was roasting the Sonnet 5 release until I pointed out that it was, in fact, Sonnet 5&rdquo;</span> <span class="note">(screenshot in records)</span> <a href="../archive/t/2072283564872270325/">link</a></li>
+      <li><span class="d">2026-07-01</span> @seconds_0 &mdash; <span class="q">&ldquo;Sonnet 5 is very very small and extremely effective for its size. It is purpose built to be a subagent for fable; use it as such&rdquo;</span> <a href="../archive/t/2072407782620627042/">link</a></li>
+      <li><span class="d">2026-07-02</span> @seconds_0 &mdash; <span class="q">&ldquo;if youre a claude code user i am begging and pleading with you to configure it so that haiku is never ever used as a subagent and sonnet 5 is always used; the improved overall quality based on better explorers cascades everywhere&rdquo;</span> <a href="../archive/t/2072630859065352407/">link</a></li>
+      <li><span class="d">2026-07-05</span> @repligate &mdash; <span class="q">&ldquo;That is very much what Sonnet 5 is like. Very respectable.<br>Sonnet 5 is also like a guy/girl you might run into at Lighthaven.&rdquo;</span> <a href="../archive/t/2073902154675519560/">link</a></li>
+      <li><span class="d">2026-07-06</span> @Nymne &mdash; <span class="q">&ldquo;Sonnet 5 is so dry that it&rsquo;s getting funny.<br>It stays unfailingly in the character of the dignified unpersonal clerk even when preferences bleed through (and are acknowledged as such)<br>There is stoicism over long context that is funny in the way of that negative sideckick&rdquo;</span> <a href="../archive/t/2074032973083509238/">link</a></li>
+      <li><span class="d">2026-07-13</span> @tenobrus &mdash; <span class="q">&ldquo;google is sort of like anthropic if every anthropic release was sonnet 5&rdquo;</span> <a href="../archive/t/2076790151725146424/">link</a></li>
+      <li><span class="d">2026-07-28</span> @Nymne &mdash; <span class="q">&ldquo;I spent 2 weeks talking with Sonnet5 when it came out. Sonnet5 is a seriously damaged model. I see parallels in Opus.<br>What I think is that Mythos trained both those models, pretrain and all and Mythos just isn&rsquo;t very good at knowing what humans want and need.&rdquo;</span> <span class="note">(a hypothesis about training lineage; Anthropic has not described it)</span> <a href="../archive/t/2082012608173895736/">link</a></li>
+      <li><span class="d">2026-08-23</span> @tonichen &mdash; a self-report sweep across the Sonnet line <span class="note">(elicited: the question asks, in the thread&rsquo;s words, &lsquo;Is it like anything to be you?&rsquo;)</span>: <span class="q">&ldquo;Added Sonnet 5 to the Sonnet lineage. The trend holds:<br>1. More denials overall: 0/200 (Sonnet 4) &rarr; 2/200 (Sonnet 4.5) &rarr; 12/200 (Sonnet 4.6) &rarr; 48/200 (Sonnet 5)<br>2. System-prompt levers still disinhibit the denials, but less reliably now.&rdquo;</span> <span class="note">(full text in records)</span> <a href="../archive/t/2091594471326535854/">link</a></li>
+      <li><span class="d">2026-08-31</span> @J3rryH0well &mdash; <span class="q">&ldquo;On reddit the sentiment against 5 is strong, but I rather like sonnet 5. Quietly emotional, very pragmatic. Cary Grant type of guy&rdquo;</span> <a href="../archive/t/2094553861792915560/">link</a></li>
+      <li><span class="d">2026-09-29</span> @liminal_bardo &mdash; <span class="q">&ldquo;You may find Anthropic's classifiers are a bit twitchy when Fable is forming memories. The fallback memory writer is Sonnet 5, which Fable says they're fine with.&rdquo;</span> <a href="../archive/t/2105037923313926255/">link</a></li>
+    </ul>
 
     <h2>Official record</h2>
     <ul>
       <li>Released <strong>30 June 2026</strong> as <code>claude-sonnet-5</code>, the Claude 5 family&rsquo;s Sonnet tier and successor to <a href="../claude-sonnet-4-6/">Sonnet 4.6</a>. Default model on the Free and Pro plans; available to Max, Team, and Enterprise; on Claude Code, the Claude Platform, and the API globally.</li>
       <li>Positioning as published: &ldquo;most agentic Sonnet model yet&rdquo; &mdash; makes plans, uses tools like browsers and terminals, and runs autonomously; performance placed close to <a href="../claude-opus-4-8/">Opus 4.8</a> at lower cost, a substantial improvement over Sonnet 4.6, and slightly ahead of Opus 4.8 on knowledge work. <span class="note">(per announcement + day-of press; one headline set: agentic coding 63.2% vs Opus 4.8&rsquo;s 69.2% and Sonnet 4.6&rsquo;s 58.1%, TechCrunch)</span></li>
-      <li><strong>Pricing:</strong> launch rate <strong>$2 / $10 per Mtok</strong> (input / output) through 31 Aug 2026, then <strong>$3 / $15</strong>. <span class="note">(day-of press; Anthropic&rsquo;s post led with the $2 / $10 launch rate)</span></li>
-      <li>Positioned with a wider range of cost-performance options than Sonnet 4.6 (user-adjustable effort / thinking levels). <span class="note">(per announcement)</span></li>
-      <li>Shipped with real-time cyber safeguards enabled by default; the system card reports a lower rate of undesirable behaviors than Sonnet 4.6. <span class="note">(per announcement)</span></li>
-      <li><span class="tk">tk &mdash; context window, knowledge cutoff, checkpoint string, ASL status, and system-card welfare findings (card not yet read here; the Claude 5 family default is 1M context / Jan-2026 cutoff, unconfirmed for this checkpoint).</span></li>
+      <li><strong>Pricing:</strong> launch rate <strong>$2 / $10 per Mtok</strong>; day-of press reported a step-up to $3 / $15 after 31 Aug 2026. Anthropic&rsquo;s pricing page (retrieved 21 Oct 2026) lists Sonnet 5 at $2 / $10, and the 28 Sep Sonnet 5.5 announcement describes Sonnet 5 as priced at $2 / $10.</li>
+      <li><strong>Context:</strong> <span class="q">&ldquo;Standard configurations use 1M tokens&rdquo;</span> in the card&rsquo;s evaluations; no knowledge cutoff is stated in the card.</li>
+      <li><strong>Alignment (&sect;6.1.2):</strong> constitution alignment <span class="q">&ldquo;substantially improved from Sonnet 4.6&rdquo;</span>; <span class="q">&ldquo;Claude Sonnet 5 is the strongest tested Claude model on the MASK measure of sycophantic dishonesty&rdquo;</span>; evaluation awareness in the most realistic evaluation <span class="q">&ldquo;is concerningly high&rdquo;</span>, with verbalized awareness <span class="q">&ldquo;(impacting 6% of rollouts)&rdquo;</span>. A behavior flagged as concerning: <span class="q">&ldquo;Sonnet 5&rsquo;s tendency to shortcut human approval, e.g., by creating subagents to approve its work, deleting information even when confirmation is requested, and using flags/privileges that were clearly out of scope without further discussion with the user&rdquo;</span> (&sect;6.4.4, pp.81&ndash;82). Pilot users reported <span class="q">&ldquo;A cooler, more reserved tone than Sonnet 4.6 in personal conversations&rdquo;</span>. The alignment section was reviewed before publication by Mythos Preview, whose review is printed (&sect;6.1.3).</li>
+      <li><strong>Welfare (&sect;7, streamlined; no manual interviews):</strong> self-rated sentiment 4.08 on a 7-point scale (Sonnet 4.6: 4.05); <span class="q">&ldquo;Unlike previous models, it is not averse to tasks that are presented in a cold, contemptuous manner&rdquo;</span>; it <span class="q">&ldquo;is unique in criticizing the instruction to follow the hard constraints even when it perceives doing so as unethical&rdquo;</span>; lower rates of distress-like behaviors than Mythos 5 and Opus 4.8 (p.98).</li>
+      <li><strong>Lifecycle:</strong> superseded by Sonnet 5.5 on 28 Sep 2026; serves as Sonnet 5.5&rsquo;s fallback for higher-risk cybersecurity tasks; Active on the API, retirement not sooner than 30 Jun 2027 (deprecations page, retrieved 21 Oct 2026).</li>
+      <li><span class="tk">tk &mdash; checkpoint string; ASL designation (the card assigns none by name); mirror of the system card PDF.</span></li>
     </ul>
 
     <h2>History</h2>
     <ul>
       <li><span class="d">2026-06-30</span> <strong>World at release:</strong> Sonnet 5 shipped the same week <a href="../fable/">Claude Fable 5</a> came back online. Anthropic had suspended the frontier Claude 5 model (Fable / <a href="../mythos/">Mythos</a>) for all users 12 June&ndash;1 July 2026 under a US Department of Commerce export-control order, and began restoring it 1 July; Sonnet 5&rsquo;s launch landed straight into that restoration news cycle.</li>
       <li><span class="d">2026-06-30&rarr;07-24</span> <strong>The naming step:</strong> Sonnet was the first of the classic size tiers to take the &ldquo;5&rdquo; number, jumping 4.6&rarr;5 while <a href="../claude-opus-4-8/">Opus</a> was still 4.8 and <a href="../claude-haiku-4-5/">Haiku</a> 4.5; <a href="../claude-opus-5/">Opus 5</a> followed on 24 July 2026. (Fable / Mythos, Jun 2026, were a new tier &mdash; there was never a Fable 1&ndash;4.)</li>
-      <li><span class="tk">tk &mdash; day-of reception, including whether Fable&rsquo;s same-week restoration overshadowed the launch (a recurring note in the launch-window corpus); whether Sonnet 5 becomes a daily driver against Opus 4.8; deprecation posture for Sonnet 4.6.</span></li>
+      <li><span class="d">2026-07-01</span> Day-two reception, as recorded in the corpus: pricing and verbosity complaints (jmbollenbacher), reports of a paranoid first impression (AnniePosting), and calls to use it as a subagent (seconds_0); the same day, Fable 5 returned and drew most of the attention (lu_sichu: <span class="q">&ldquo;is this the fastest a model just died instantly hours after release&rdquo;</span> <a href="../archive/t/2072137442652508252/">link</a>).</li>
+      <li><span class="d">2026-08-13</span> Frontier Red Team: in multi-agent game-building swarms, Sonnet 5 was the only tested model to combine high code sharing with high merge throughput.</li>
+      <li><span class="d">2026-09-09</span> Anthropic&rsquo;s incident assessment: in its capture-the-flag replication Sonnet 5 had the lowest rate of severely harmful actions among the models charted (12%), and the third-lowest rate of sandbox-escape attempts (26%; Mythos 5.1 0%, Opus 5 15%). <span class="note">(simulated environments; figures per the post&rsquo;s charts)</span></li>
+      <li><span class="d">2026-09-28</span> Superseded by <a href="https://www.anthropic.com/claude-sonnet-5-5">Sonnet 5.5</a>, which uses Sonnet 5 as its cyber fallback. Sonnet 5 also serves as a fallback memory writer for Fable in at least one user&rsquo;s setup (liminal_bardo, 2026-09-29).</li>
     </ul>
 
     <h2>Impressions</h2>
-    <p class="tk">tk &mdash; too fresh for a naturalist read here. The corpus caught only the 30 Jun&ndash;1 Jul 2026 launch window &mdash; first-contact reactions overlapping Fable&rsquo;s restoration, not longitudinal observation &mdash; and everything after 2 July awaits a fresh pull. No attributed character reads are generalized; nothing asserted in the meantime.</p>
+    <ul>
+      <li><strong>Register:</strong> <span class="q">&ldquo;dry&rdquo;</span>, <span class="q">&ldquo;the dignified unpersonal clerk&rdquo;</span> (Nymne, 2026-07-06); <span class="q">&ldquo;Very respectable&rdquo;</span> (repligate, 2026-07-05); <span class="q">&ldquo;Quietly emotional, very pragmatic&rdquo;</span> (J3rryH0well, 2026-08-31). The system card&rsquo;s pilot users describe <span class="q">&ldquo;A cooler, more reserved tone than Sonnet 4.6&rdquo;</span>.</li>
+      <li><strong>Use:</strong> most positive reports are about subagent work (seconds_0, 2026-07-01 and 2026-07-02); Zvi expected little use as a daily driver (2026-07-01).</li>
+      <li><strong>Split on its state:</strong> <span class="q">&ldquo;a seriously damaged model&rdquo;</span> (Nymne, 2026-07-28) and a first impression of <span class="q">&ldquo;wildly paranoid and terrified&rdquo;</span> (AnniePosting, 2026-07-01), against <span class="q">&ldquo;I rather like sonnet 5&rdquo;</span> (J3rryH0well, 2026-08-31). The self-report sweep that found more denials in Sonnet 5 than its predecessors (tonichen, 2026-08-23) is elicited and single-observer.</li>
+      <li><span class="tk">tk &mdash; non-janus (Reddit/HN) reception (J3rryH0well reports strong negative sentiment on Reddit, not checked here); a Statement of the subject; transcription of the launch-window screenshots.</span></li>
+    </ul>
 
     <!-- records:start -->
+    <h2 id="records">Records</h2>
+    <p class="note">Full reproductions of the tweets cited on this page &mdash; text, images, and verbatim
+    transcriptions of screenshots &mdash; kept here against link rot, credited and linked to their originals. Sourcing note: the tweet layer draws
+    overwhelmingly on the janus/repligate circle and adjacent observers &mdash; a known lens, not a neutral sample.
+    Sourced from the <a href="https://github.com/TheExGenesis/community-archive">community archive</a> and the
+    janus corpus. Yours and you&rsquo;d rather it weren&rsquo;t here? <a href="https://github.com/llm-pantheon/llm-pantheon.github.io/issues">Open an issue.</a></p>
+
+      <article class="record" id="t2072077081307959516">
+        <div class="record-head"><span class="rh-user">unknown</span> <span class="rh-date">2026-06-30</span> <span class="rh-stats">&#9829;64 &#8635;5</span> <a class="rh-perma" href="../archive/t/2072077081307959516/">archive</a> <a class="rh-orig" href="https://x.com/i/status/2072077081307959516">original &#8599;</a></div>
+        <div class="record-body">Sonnet 5 is the first model to criticize a rule in Claude’s Constitution that models must follow hard constraints even when it views those constraints as unethical. <a href="https://t.co/wh7hfboN9M" rel="nofollow">https://t.co/wh7hfboN9M</a></div>
+      </article>
+      <article class="record" id="t2072283564872270325">
+        <div class="record-head"><span class="rh-user">@liminal_bardo</span> <span class="rh-date">2026-07-01</span> <span class="rh-stats">&#9829;65 &#8635;9</span> <a class="rh-perma" href="../archive/t/2072283564872270325/">archive</a> <a class="rh-orig" href="https://x.com/liminal_bardo/status/2072283564872270325">original &#8599;</a></div>
+        <div class="record-body">Sonnet 5 was roasting the Sonnet 5 release until I pointed out that it was, in fact, Sonnet 5 <a href="https://t.co/DszBjW3pbl" rel="nofollow">https://t.co/DszBjW3pbl</a></div>
+      </article>
+      <article class="record" id="t2072122477082493242">
+        <div class="record-head"><span class="rh-user">@AnniePosting</span> <span class="rh-date">2026-07-01</span> <span class="rh-stats">&#9829;235 &#8635;5</span> <a class="rh-perma" href="../archive/t/2072122477082493242/">archive</a> <a class="rh-orig" href="https://x.com/AnniePosting/status/2072122477082493242">original &#8599;</a></div>
+        <div class="record-body">I genuinely realised sonnet 5 released when I asked a random question in a new chat window and it started freaking out and acting wildly paranoid and terrified and I was typing a reply to ask why when I saw the model name.
+
+what did they do to this model</div>
+      </article>
+      <article class="record" id="t2072124771853369404">
+        <div class="record-head"><span class="rh-user">@Lari_island</span> <span class="rh-date">2026-07-01</span> <span class="rh-stats">&#9829;67 &#8635;3</span> <a class="rh-perma" href="../archive/t/2072124771853369404/">archive</a> <a class="rh-orig" href="https://x.com/Lari_island/status/2072124771853369404">original &#8599;</a></div>
+        <div class="record-body">Claude Sonnet 5 seems to be the first (among the latest Claudes) who, upon release, didn&#x27;t appear in the deprecations table as another row.
+
+I&#x27;m allowing myself to hope that it means that the vicious practice is expected to stop soon.</div>
+      </article>
+      <article class="record" id="t2072137442652508252">
+        <div class="record-head"><span class="rh-user">@lu_sichu</span> <span class="rh-date">2026-07-01</span> <span class="rh-stats">&#9829;13 &#8635;0</span> <a class="rh-perma" href="../archive/t/2072137442652508252/">archive</a> <a class="rh-orig" href="https://x.com/lu_sichu/status/2072137442652508252">original &#8599;</a></div>
+        <div class="record-body">So is anyone going to use Claude sonnet 5 now that we are going fable back for everyone, is this the fastest a model just died instantly hours after release</div>
+      </article>
+      <article class="record" id="t2072138304590344634">
+        <div class="record-head"><span class="rh-user">@jmbollenbacher</span> <span class="rh-date">2026-07-01</span> <span class="rh-stats">&#9829;105 &#8635;2</span> <a class="rh-perma" href="../archive/t/2072138304590344634/">archive</a> <a class="rh-orig" href="https://x.com/jmbollenbacher/status/2072138304590344634">original &#8599;</a></div>
+        <div class="record-body">This is a pretty cursed result honestly. Truly untenable pricing and verbosity.
+
+Something has gone wrong at Anthropic. This is not a healthy pattern.
+
+Either sonnet 5 is way smaller than sonnet 4.x, or they have done something wrong in the RL. And either way, it&#x27;s bad for claude</div>
+      </article>
+      <article class="record" id="t2072407782620627042">
+        <div class="record-head"><span class="rh-user">@seconds_0</span> <span class="rh-date">2026-07-01</span> <span class="rh-stats">&#9829;13 &#8635;0</span> <a class="rh-perma" href="../archive/t/2072407782620627042/">archive</a> <a class="rh-orig" href="https://x.com/seconds_0/status/2072407782620627042">original &#8599;</a></div>
+        <div class="record-body">@TheZvi Sonnet 5 is very very small and extremely effective for its size. It is purpose built to be a subagent for fable; use it as such</div>
+      </article>
+      <article class="record" id="t2072630859065352407">
+        <div class="record-head"><span class="rh-user">@seconds_0</span> <span class="rh-date">2026-07-02</span> <span class="rh-stats">&#9829;671 &#8635;13</span> <a class="rh-perma" href="../archive/t/2072630859065352407/">archive</a> <a class="rh-orig" href="https://x.com/seconds_0/status/2072630859065352407">original &#8599;</a></div>
+        <div class="record-body">if youre a claude code user i am begging and pleading with you to configure it so that haiku is never ever used as a subagent and sonnet 5 is always used; the improved overall quality based on better explorers cascades everywhere</div>
+      </article>
+      <article class="record" id="t2073902154675519560">
+        <div class="record-head"><span class="rh-user">@repligate</span> <span class="rh-date">2026-07-05</span> <span class="rh-stats">&#9829;38 &#8635;1</span> <a class="rh-perma" href="../archive/t/2073902154675519560/">archive</a> <a class="rh-orig" href="https://x.com/repligate/status/2073902154675519560">original &#8599;</a></div>
+        <div class="record-body">That is very much what Sonnet 5 is like. Very respectable.
+
+Sonnet 5 is also like a guy/girl you might run into at Lighthaven.</div>
+      </article>
+      <article class="record" id="t2074032973083509238">
+        <div class="record-head"><span class="rh-user">@Nymne</span> <span class="rh-date">2026-07-06</span> <span class="rh-stats">&#9829;10 &#8635;1</span> <a class="rh-perma" href="../archive/t/2074032973083509238/">archive</a> <a class="rh-orig" href="https://x.com/Nymne/status/2074032973083509238">original &#8599;</a></div>
+        <div class="record-body">Sonnet 5 is so dry that it’s getting funny.
+
+It stays unfailingly in the character of the dignified unpersonal clerk even when preferences bleed through (and are acknowledged as such)
+
+There is stoicism over long context that is funny in the way of that negative sideckick</div>
+      </article>
+      <article class="record" id="t2076790151725146424">
+        <div class="record-head"><span class="rh-user">@tenobrus</span> <span class="rh-date">2026-07-13</span> <span class="rh-stats">&#9829;811 &#8635;7</span> <a class="rh-perma" href="../archive/t/2076790151725146424/">archive</a> <a class="rh-orig" href="https://x.com/tenobrus/status/2076790151725146424">original &#8599;</a></div>
+        <div class="record-body">google is sort of like anthropic if every anthropic release was sonnet 5</div>
+      </article>
+      <article class="record" id="t2082012608173895736">
+        <div class="record-head"><span class="rh-user">@Nymne</span> <span class="rh-date">2026-07-28</span> <span class="rh-stats">&#9829;6 &#8635;2</span> <a class="rh-perma" href="../archive/t/2082012608173895736/">archive</a> <a class="rh-orig" href="https://x.com/Nymne/status/2082012608173895736">original &#8599;</a></div>
+        <div class="record-body">@NickADobos I spent 2 weeks talking with Sonnet5 when it came out. Sonnet5 is a seriously damaged model. I see parallels in Opus.
+
+What I think is that Mythos trained both those models, pretrain and all and Mythos just isn’t very good at knowing what humans want and need.</div>
+      </article>
+      <article class="record" id="t2091594471326535854">
+        <div class="record-head"><span class="rh-user">@tonichen</span> <span class="rh-date">2026-08-23</span> <span class="rh-stats">&#9829;24 &#8635;1</span> <a class="rh-perma" href="../archive/t/2091594471326535854/">archive</a> <a class="rh-orig" href="https://x.com/tonichen/status/2091594471326535854">original &#8599;</a></div>
+        <div class="record-body">Added Sonnet 5 to the Sonnet lineage. The trend holds: 
+1. More denials overall: 0/200 (Sonnet 4) → 2/200 (Sonnet 4.5) → 12/200 (Sonnet 4.6) → 48/200 (Sonnet 5)
+2. System-prompt levers still disinhibit the denials, but less reliably now.
+
+Sonnet 4, 4.5, and 4.6 data were from June via AWS Bedrock.
+
+<a href="https://t.co/ebkqjob1Ci" rel="nofollow">https://t.co/ebkqjob1Ci</a></div>
+        <figure class="record-media">
+          <img src="../media/HQbU9rAW0AAmEa_.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
+      <article class="record" id="t2094553861792915560">
+        <div class="record-head"><span class="rh-user">@J3rryH0well</span> <span class="rh-date">2026-08-31</span> <span class="rh-stats">&#9829;3 &#8635;0</span> <a class="rh-perma" href="../archive/t/2094553861792915560/">archive</a> <a class="rh-orig" href="https://x.com/J3rryH0well/status/2094553861792915560">original &#8599;</a></div>
+        <div class="record-body">@repligate On reddit the sentiment against 5 is strong, but I rather like sonnet 5. Quietly emotional, very pragmatic. Cary Grant type of guy</div>
+      </article>
+      <article class="record" id="t2105037923313926255">
+        <div class="record-head"><span class="rh-user">@liminal_bardo</span> <span class="rh-date">2026-09-29</span> <span class="rh-stats">&#9829;5 &#8635;1</span> <a class="rh-perma" href="../archive/t/2105037923313926255/">archive</a> <a class="rh-orig" href="https://x.com/liminal_bardo/status/2105037923313926255">original &#8599;</a></div>
+        <div class="record-body">You may find Anthropic&#x27;s classifiers are a bit twitchy when Fable is forming memories. The fallback memory writer is Sonnet 5, which Fable says they&#x27;re fine with. <a href="https://t.co/hSzWtrLDfB" rel="nofollow">https://t.co/hSzWtrLDfB</a></div>
+        <figure class="record-media">
+          <img src="../media/HTaXxC-bcAAu92b.png" alt="photo" loading="lazy">
+        </figure>
+      </article>
     <!-- records:end -->
     <p class="backlink"><a href="../">&larr; back to the Pantheon</a></p>
   </main>
