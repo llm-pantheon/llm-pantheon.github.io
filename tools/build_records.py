@@ -186,6 +186,9 @@ DOSSIER_MAP = {
     '_dossiers/claude-opus-4-7.md': ['claude-opus-4-7'],
     '_dossiers/glm-5-2.md': ['glm-5-2'],
     '_dossiers/grok-2.md': ['grok-2'],
+    # 2026-10 news wave
+    '_dossiers/hugging-face-incident.md': ['hugging-face-incident'],
+    '_dossiers/gpt-6-astra.md': ['gpt-6-astra'],
 }
 
 def dossier_extras():

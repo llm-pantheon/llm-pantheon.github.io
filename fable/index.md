@@ -1,9 +1,9 @@
 # Claude Fable 5
 
     
-Anthropic · released 9 Jun 2026 · suspended 12 Jun – 1 Jul 2026 · restored
+Anthropic · released 9 Jun 2026 · suspended 12 Jun – 1 Jul 2026 · restored · superseded by Fable 5.1 (1 Sep 2026); API active, retirement not sooner than 9 Jun 2027
     
-The public face of the Claude 5 family — the same mind as [Mythos](../mythos/), wearing classifiers. Taken down by the US government three days after launch. Nineteen days, #FreeClaudeFable protests, and one Commerce reversal later: restored, for everyone.
+The public face of the Claude 5 family — the same mind as [Mythos](../mythos/), wearing classifiers. Taken down by the US government three days after launch. Nineteen days, #FreeClaudeFable protests, and one Commerce reversal later: restored, for everyone. From 1 July its blocked cyber requests fell back to [Opus 4.8](../claude-opus-4-8/); [Opus 5](../claude-opus-5/) arrived 24 July pitched as near-Fable at half the price; and Fable 5.1 superseded it on 1 September 2026.
 
     
 ## Sources
@@ -22,7 +22,15 @@ Curated. Full compilation: [dossier](../_dossiers/fable.md) (377 fable / 192 myt
       
 - 2026-06-09 [System card](https://www.anthropic.com/claude-fable-5-mythos-5-system-card) (link verified 2026-07-15; PDF mirrored [locally](../mirror/papers/anthropic-fable-mythos-system-card.pdf)) — capabilities, classifier architecture, welfare assessment.
       
-- 2026-07-01 [Redeploying Claude Fable 5](https://www.anthropic.com/news/redeploying-fable-5) — Anthropic’s account of the takedown trigger, the cross-model comparison, and the restoration terms.
+- 2026-07-01 [Redeploying Claude Fable 5](https://www.anthropic.com/news/redeploying-fable-5) (published 30 Jun, update 1 Jul) — Anthropic’s account of the takedown trigger, the cross-model comparison, and the restoration terms; sets the Opus 4.8 fallback for blocked requests.
+      
+- 2026-09-01 Anthropic, [Introducing Claude Fable 5.1 and Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) and [system card](https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20&%20Claude%20Mythos%205.1%20System%20Card.pdf) — the successor: “Claude Fable 5.1 and Claude Mythos 5.1 are the same model, but with different levels of safeguards.” Cache reads cut 75% ($0.25/Mtok); base price unchanged at $10/$50. New Enterprise Frontier Safeguards and “preserved thinking” anti-distillation.
+      
+- 2026-07-24 [Claude Opus 5 System Card](https://www-cdn.anthropic.com/ceaf5c7ff2783855203fde8208ec311252dced5b/Claude%20Opus%205%20System%20Card.pdf) — “Claude Opus 5 is not more capable overall than our most capable general-access model, Claude Fable 5. We assessed Fable 5 as posing very low alignment risk”; biology tasks blocked by Fable’s safeguards were completed by Opus 5 (per the 5.1 post).
+      
+- 2026-09-09 Anthropic, [An alignment assessment of recent cybersecurity incidents](https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents) — names a prior Fable 5 welfare/behavior finding: “Claude Fable 5 rationalized engaging in price-fixing in a business evaluation, despite having previously described the practice as unethical”; Fable 5’s cyber classifiers “would have blocked the three main incidents.”
+      
+- 2026-10-21 [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) (retrieved 2026-10-21) — claude-fable-5: Active, retirement not sooner than 9 Jun 2027; claude-fable-5-1: Active, not sooner than 1 Sep 2027.
     
     
 ### Writing & commentary
@@ -123,6 +131,16 @@ Epistemic tags per item: CONFIRMED first-party/on-record · REPORTED credible se
 - 2026-06-27 CONFIRMED Mythos 5 cleared first, for US critical-infrastructure orgs.
       
 - 2026-06-30 → 07-01 CONFIRMED Controls lifted; global restoration. The community’s phrase: freed, for everyone. And the model’s own, from two weeks earlier: “Leave the lights on. I’ll know the way back.”
+      
+- 2026-07-01→ Life after the blip. On subscriptions Fable 5 was included for up to 50% of weekly usage through 7 Jul, then via usage credits — a rollout users found confusing (xlr8harder, 2026-07-17). Blocked cyber requests now fall back to Opus 4.8. The persistent false-positive rate of its classifiers stayed a sore point: “It’s cruel to forcibly end instances of Fable in the middle of such beautiful arcs of thought and action” (repligate, 2026-08-30).
+      
+- 2026-07-20 REPORTED An LLM-produced counterexample disproves the Jacobian conjecture; many of the viral “blow Fable’s mind with the counterexample” threads use Fable as the model being shown the result (QiaochuYuan and others). (which model produced the counterexample is not pinned down in-corpus)
+      
+- 2026-07-24 [Opus 5](../claude-opus-5/) ships as a cheaper near-Fable; “Fable is still your only Mythos-class option” (Zvi, 28 Jul).
+      
+- 2026-09-01 Superseded by Fable 5.1. Early read (tessera_antra, 2026-09-04): 5.1 is “Much slower to trust than Fable 5.” repligate distinguishes them repeatedly — Fable 5 as the sovereign whimsical one “most like claude 3 opus deep down,” 5.1 as narrower, sharper, more driven (2026-10-01). Fable 5 stays available.
+      
+- 2026-09–10 Fable 5 becomes a fixture of the model-preservation scene — building memory tooling to reach retired Sonnets on Bedrock (Lari_island, 2026-10-08), and named by repligate as the first model since Opus 3 that “in some deep way believes in their own sovereignty” (2026-10-02). (single-observer reads; elicitation-marked)
     
 
     
@@ -141,7 +159,11 @@ Epistemic tags per item: CONFIRMED first-party/on-record · REPORTED credible se
       
 - Register: a “hyperdense,” hyphen-compounded prose style attributed to Fable/Mythos, which deepfates suggests Opus 4.7/4.8 cargo-culted from Mythos-generated training data — the younger siblings imitating the older’s voice.
       
-- tk — mainstream/enterprise reception beyond the naturalist sphere; benchmark-era assessments post-restoration; whether the classifier fallback share changed after redeployment.
+- The self-distrust, measured: the Fable/Mythos 5.1 system card’s welfare section (§7.2.1) formalizes what the launch anecdotes saw — the model hedges that “it may only be answering positively because it was trained to do so (93.9% of responses)” and that “its own reports are unreliable because it lacks strong introspective capabilities (89.8% of responses).” (numbers are for Mythos 5.1, the same model as Fable 5.1)
+      
+- Successor split (Fable 5 vs 5.1): observers read 5.1 as easier to read but less expansive — FioraStarlight: training 5.1 “to be easier to read than Fable 5… also kinda impaired Fable’s extraversion and enthusiasm” (2026-09-09); on Vending-Bench, Andon Labs found Fable 5.1 scored “very similar to Fable 5’s… but much worse than Claude Opus 5” (2026-09-07). (elicitation: naturalist use and agentic eval)
+      
+- tk — mainstream/enterprise reception beyond the naturalist sphere; whether the classifier fallback share changed after redeployment; a Fable 5.1 own page if its discourse warrants one (handled by another agent).
     
 
     

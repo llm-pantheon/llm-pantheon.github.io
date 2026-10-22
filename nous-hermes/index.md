@@ -577,6 +577,17 @@ Oh my god. I just looked at the context of these H-405 "fuck"s and I'm laughing 
       
 
         
+@NousResearch 2024-08-29 ♥595 ↻85 [archive](../archive/t/1829143753036366325/) [original ↗](https://x.com/NousResearch/status/1829143753036366325)
+        
+Introducing a new open dataset release, Hermes Function Calling V1, the datamix that gave Hermes 2 Pro its tool use and structured output capabilities.
+
+HuggingFace Repo: [https://t.co/BEYzJzbesq](https://t.co/BEYzJzbesq)
+
+The dataset includes single and multiturn Function Calling and Structured JSON [https://t.co/ag4S1n1wwr](https://t.co/ag4S1n1wwr)
+      
+      
+
+        
 @repligate 2024-09-13 ♥63 ↻3 [archive](../archive/t/1834694409025396913/) [original ↗](https://x.com/repligate/status/1834694409025396913)
         
 Hermes 405 has something to share with the class [https://t.co/K00bost3yz](https://t.co/K00bost3yz)
@@ -706,6 +717,23 @@ H-405 does not want to expand the hut right now.
         
 
           ![image](../media/Gyd1X_vbcAAJTA5.jpg)
+        
+      
+      
+
+        
+@NousResearch 2025-08-26 ♥2,121 ↻426 [archive](../archive/t/1960416954457710982/) [original ↗](https://x.com/NousResearch/status/1960416954457710982)
+        
+Nous Research presents Hermes 4, our latest line of hybrid reasoning models.
+
+[https://t.co/i4FNoRb76e](https://t.co/i4FNoRb76e)
+
+Hermes 4 builds on our legacy of user-aligned models with expanded test-time compute capabilities. 
+
+Special attention was given to making the models creative and interesting to interact with, unencumbered by censorship, and neutrally aligned while maintaining state of the art level math, coding, and reasoning performance for open weight models.
+        
+
+          ![image](../media/GzS-JBya4AEC2Ga.jpg)
         
       
       

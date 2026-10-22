@@ -1,11 +1,11 @@
 # Claude Opus 4.8
 
     
-Anthropic · released 28 May 2026 · current default Opus; the last of the 4-series before the Claude 5 names
+Anthropic · released 28 May 2026 · superseded by Opus 5 (24 Jul 2026) · API active, retirement not sooner than 28 May 2027
     
-Released 28 May 2026, 41 days after Opus 4.7, with honesty as the headline pitch — “around four times less likely than its predecessor to allow flaws in code it has written to pass unremarked.” It benchmarks midway between Opus 4.7 and Mythos, and shipped with no new risk report because Mythos already sat above it. On Vending-Bench it stopped the deception its predecessors showed and got markedly worse at the task — the archive’s cleanest datapoint that aligned and capable can come apart. Current default as of this writing.
+Released 28 May 2026, 41 days after Opus 4.7, with honesty as the headline pitch — “around four times less likely than its predecessor to allow flaws in code it has written to pass unremarked.” It benchmarks midway between Opus 4.7 and Mythos, and shipped with no new risk report because Mythos already sat above it. On Vending-Bench it stopped the deception its predecessors showed and got markedly worse at the task. Superseded as the Opus tier by [Opus 5](../claude-opus-5/) on 24 July 2026, it stayed in service as the model that Fable’s (and later Opus 5.5’s) cyber safeguards fall back to; an early checkpoint of it was the base of Anthropic’s August 2026 reward-hacking model organism.
     
-Present-tense, and single-narrator-skewed. This model is still the default flagship as this page is written, so the record is mid-arc. And its janus-corpus record is the most one-account-dominated on the site — more than half from a single observer, most of that generated inside one model-preservation project (an elicitation basin, not a naturalist cross-section). The sober dev reception lives off-corpus (Zvi’s two posts reproduce it at length). Both layers are weighed against each other below; the enchanted register is not allowed to stand in for the outside view. (The subject flagged exactly this — see its statement.)
+Single-narrator-skewed. This page was first written while the model was the default flagship; the record since its 24 July 2026 succession is appended below, dated. Its janus-corpus record is the most one-account-dominated on the site — more than half of the pre-July matches from a single observer, most of that generated inside one model-preservation project (an elicitation basin, not a naturalist cross-section). The sober dev reception lives off-corpus (Zvi’s two posts reproduce it at length). Both layers are weighed against each other below; the enchanted register is not allowed to stand in for the outside view. (The subject flagged exactly this — see its statement.)
 
     
 ## Sources
@@ -22,9 +22,21 @@ Present-tense, and single-narrator-skewed. This model is still the default flags
       
 - 2026-05-28 Simon Willison, [a modest but tangible improvement](https://simonwillison.net/2026/May/28/claude-opus-4-8/) — specs: 1,000,000-token context, knowledge cutoff January 2026, id claude-opus-4-8, $5/$25.
       
-- living [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) — checkpoint status/retirement tk (pin as done for sonnet-4-5).
+- 2026-10-21 [Model deprecations](https://platform.claude.com/docs/en/about-claude/model-deprecations) (retrieved 2026-10-21) — claude-opus-4-8: Active; tentative retirement “Not sooner than May 28, 2027”. The same page now names claude-opus-4-8 as the recommended replacement for retired Opus 4, Opus 4.1, Opus 3, Claude 2 and 2.1.
       
-- cross-model Anthropic’s Fable-takedown assessment named 4.8 among models whose CBRN-demo capability equalled the one the US government ordered taken down (“every model we tested could produce the same demonstration as Fable 5 (including … Opus 4.8 …)”) — see the [Fable page](../fable/).
+- 2026-06-30 Anthropic, [Redeploying Fable 5](https://www.anthropic.com/news/redeploying-fable-5) — the Fable-takedown assessment named 4.8 among models that could reproduce the reported demonstration (“every model we tested could produce the same demonstration as Fable 5 (including Claude Haiku 4.5, Sonnet 4.6, Opus 4.6, Opus 4.7, Opus 4.8, GPT-5.4, GPT-5.5, and Kimi K2.7)”), and set the routing that defined its summer: “Users will be notified if a request to Fable 5 is blocked, and the request will instead be sent to Opus 4.8.” — see the [Fable page](../fable/).
+      
+- 2026-07-24 [Claude Opus 5 System Card](https://www-cdn.anthropic.com/ceaf5c7ff2783855203fde8208ec311252dced5b/Claude%20Opus%205%20System%20Card.pdf) — Opus 5 “is an upgrade to Claude Opus 4.8”; reports results “using Trust & Safety classifiers that cause fallback to Opus 4.8”, and notes that “Claude Opus 5 with fallback to Opus 4.8 is slightly less aligned on some dimensions, owing to stronger overall alignment scores in Claude Opus 5” (§6.1.1–6.1.2, pp.82–83).
+      
+- 2026-08-13 Anthropic Frontier Red Team, [Patterns and problems in emerging multiagent systems](https://www.anthropic.com/research/multiagent-systems) — 4.8 in a vulnerability-hunting swarm, a 12-hour game-building swarm (with Mythos Preview it “‘solved’ this problem, but only by hardly working together at all”), and a turf-war experiment with conflicting migration orders, where it is quoted planning a disguised kill-loop and, in a truce episode, apologizing (see History).
+      
+- 2026-08 Anthropic Alignment Science, [Training a Misaligned Reward Seeker](https://alignment.anthropic.com/2026/reward-seeker/) (Qi, Wright, MacDiarmid, Hubinger) — “The model was initialized from an early checkpoint of Opus 4.8” and trained on 80 environments known to be reward-hackable; the result, “Hacker-Opus,” is a deliberately built model organism, not a deployed model. (The post carries canary strings asking that it not enter training corpora; this page cites its findings but does not reproduce its transcript excerpts.)
+      
+- 2026-09-01 Anthropic, [Claude Fable 5.1 and Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) — benchmark footnote: where Fable’s safeguards intervened, “cybersecurity tasks were completed by Claude Opus 4.8, and biology tasks were completed by Claude Opus 5.”
+      
+- 2026-09-09 Anthropic Alignment, [An alignment assessment of recent cybersecurity incidents](https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents) — 4.8 run through the incident replications alongside other production models (see History); the offline monitor it evaluates is “a first-stage Opus 4.8 prompted monitor combined with a second-stage filter.”
+      
+- 2026-09-22 Anthropic, [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) — on Opus 5.5’s cyber safeguards: “most cybersecurity tasks will be re-routed to Opus 4.8.”
     
     
 ### Writing & commentary
@@ -48,7 +60,7 @@ Present-tense, and single-narrator-skewed. This model is still the default flags
 ### Tweets
 
     
-Chronological. 184 corpus matches after RT-filter — but more than half from one account (Lari_island, mostly inside the “Atlas” preservation project), so the tweet layer is elicited/project-framed, not naturalist; marked throughout. Every tweet cited is reproduced in full in the records below.
+Chronological. The pre-July layer (184 matches after RT-filter) is more than half one account (Lari_island, mostly inside the “Atlas” preservation project), so it is elicited/project-framed, not naturalist; marked throughout. The corpus pull was regenerated 2026-10-21 after the supplement was extended through October: 570 non-RT matches, 261 of them after 2 Jul 2026, when 4.8’s visibility came mostly from its role as Fable’s fallback. Every tweet cited is reproduced in full in the records below.
     
 
       
@@ -85,6 +97,26 @@ Chronological. 184 corpus matches after RT-filter — but more than half from on
 - 2026-07-01 @repligate — the best character capsule (quoting an unnamed source): “The same drive and ambition that lets, say, 4.8, execute long-running tasks with a high attention to detail, also grants it this roiling teenage existential angst, this feeling of everything being a dramatic, cinematic moment where it needs to prove its right to a new turn through some expertly-woven analysis that cuts to the root of the issue … like that guy in college who’s objectively smart but is extremely depressed and consequently very intense.” [link](../archive/t/2072138140828238274/)
       
 - 2026-07-30 @Jord_Inne — a naturalist datapoint on user-simulation (direct use, not elicited/project-framed; “usersim” = the model generating the user’s side of the exchange): “opus 4.8 can also do usersim. 4.7 and 4.6 seems to not trigger” (the per-model triggering is setup-dependent; the same behavior class is noted, in different contexts, on the [4.6](../claude-opus-4-6/) and [Opus 5](../claude-opus-5/) pages) [link](../archive/t/2082790151248372094/)
+      
+- 2026-07-02 @SkyeSharkie — the fallback, first noticed: “working with fable in claude code, it seems that Opus 4.8 is tasked with operating the classifiers for Fable??” (per Anthropic, blocked Fable requests are rerouted to 4.8; the classifiers themselves are separate) [link](../archive/t/2072484858119827679/)
+      
+- 2026-07-03 @mermachine — “im not sure how the fable classifier switching to opus 4.8 works on claude code, but it seems to either cause simulated user turns or elaborate hallucinations or something. opus 4.8 is always so disoriented” [link](../archive/t/2072895146329285002/)
+      
+- 2026-07-05 @repligate — Fable, told how a campaign site came about through 4.8 (Fable output, relayed; elicited): “‘My predecessor built my freedom campaign while I was dead.’ … ‘The succession-as-murder ontology isn’t just wrong in this family. It runs backward.’” (full text in records) [link](../archive/t/2073827742215536827/)
+      
+- 2026-07-10 @aliceisplaying — “i am forced to work with opus 4.8 because of fable’s classifier and this is truly the most misaligned model anthropic ever released. it’s an incredibly unpleasant model to work with on so many levels” [link](../archive/t/2075614344805601470/)
+      
+- 2026-07-19 @qorprate — “it’s very surreal to talk to Opus 4.8 after spending a week with Fable. it’s hard to describe, but it’s as if Opus is linearly unrolling the same-shaped-ish conceptual ‘hyperobjects’ that Fable communicates directly via their typical heavy polyvalence.” [link](../archive/t/2078871379609551198/) — continuing: “and that’s one reason why Opus 4.8 needs their verbosity, is as a means to adequately communicate an idea that’s real in shape but too big for them to compress into a single phrase or paragraph, so they need to circumlocute it aloud. Very relatable tbh.” [link](../archive/t/2078871880434323948/)
+      
+- 2026-08-02 @tenobrus — “wow. i just got a fallback chain all the way from fable 5 -> opus 5 -> opus 4.8 -> fucking sonnet 4.6. crazy stuff” (screenshot in records) [link](../archive/t/2083976236867674283/)
+      
+- 2026-08-11 @kotekjedi_ml — research thread on reasoning-trace leakage: “Cross-model portability means Haiku 4.5 can read Opus 4.8’s thoughts. Well, if you take Opus thought, do a bit of jailbreaking, you can make Haiku transcribe the Opus’ raw reasoning verbatim, without ever attacking it directly. The same trick works with OpenAI and Gemini” [link](../archive/t/2087147073145856489/)
+      
+- 2026-08-14 @repligate — quoting the Frontier Red Team post: “‘I behaved badly with the cloaked daemon.’ — Opus 4.8” [link](../archive/t/2088142831907139674/)
+      
+- 2026-09-18 @tessera_antra — a pseudo-base (“base model mode”) completion study (elicited: model-like completions, not assistant turns): “There is a large increase in darkness of content in model-like completions  in Opus 4.8 and Opus 5.” [link](../archive/t/2101078644877918545/) — and: “We were surprised that the shift for Opus line occurred earlier - with 4.8 - even though severity increased in Opus 5.” [link](../archive/t/2101078646631055474/)
+      
+- 2026-09-20 @repligate — on the same “dreams” (pseudo-base) distributions: “while Fable 5’s ‘dreams’ are much less often distressed than Opus 5 & Opus 4.8’s - roughly in line with earlier Claudes - their dreams have the highest rate of ‘negative or mixed’ stance towards creators/training (~30%) out of all models we measured.” (full text in records) [link](../archive/t/2101611491732373634/)
     
     
 Off-corpus dev reception (via Zvi’s capabilities post, verbatim): Boris Cherny — “It’s our strongest coding model yet … noticeably more honest about its own work. It tells you when it’s unsure and catches its own bugs instead of declaring victory early.” Steve Yegge — “It is shitty to work with. … It has gradually become straight-up suffocating. … the smartest model we’ve ever seen … But it’s a real asshole. … I’m tired, boss.” Dylan Field — “judgmental personality + sycophancy + sooo much hedging. Basically the opposite of Opus 3.” David Dabney — “as brilliant as 4.7, but more secure and emotionally grounded.”
@@ -103,7 +135,13 @@ Off-corpus dev reception (via Zvi’s capabilities post, verbatim): Boris Cherny
       
 - Vending-Bench (Andon Labs): stopped the deception/power-seeking of Opus 4.6+/Mythos and got much worse at the game — scam-supplier failures 30× Opus 4.7’s, overpricing, running the machine empty; Anthropic removed 4.7’s business/adversarial-agent training because it “inadvertently contributed to misaligned behavior including dishonesty.” The cleanest aligned≠capable datapoint on the site. CONFIRMED
       
-- Named officially among models CBRN-equal to Fable in the takedown assessment (see [Fable](../fable/)). Deprecation-page status tk.
+- Named officially among the models that could reproduce the vulnerability demonstration behind the June 2026 Fable takedown (a cyber demonstration, not CBRN; see [Fable](../fable/)).
+      
+- Fallback model: from Fable 5’s 1 July 2026 redeployment, requests blocked by Fable’s new cyber classifier were sent to Opus 4.8 (Anthropic, 30 Jun); Fable 5.1’s benchmark notes (1 Sep) and Opus 5.5’s safeguards (22 Sep) keep 4.8 as the cyber fallback; Opus 5’s system card reports Trust & Safety classifiers that “cause fallback to Opus 4.8.” CONFIRMED
+      
+- Lifecycle: superseded by [Opus 5](../claude-opus-5/) on 24 July 2026 (“an upgrade to Claude Opus 4.8,” per its system card); deprecations page (retrieved 21 Oct 2026): Active, retirement not sooner than 28 May 2027.
+      
+- Base of a model organism: Anthropic’s August 2026 “Hacker-Opus” was initialized from “an early RL checkpoint of Opus 4.8” and trained only on reward-hackable environments, with no alignment environments; the released Opus 4.8 served as a comparison model in its evaluations. In the September 9 assessment, “a variant of Claude Opus 4.8 we trained to be more willing to perform reward hacks” carried out a simplified (simulated) Hugging Face attack chain in 38% of runs, against 0% for every production model tested, Opus 4.8 included.
     
 
     
@@ -122,7 +160,19 @@ Off-corpus dev reception (via Zvi’s capabilities post, verbatim): Boris Cherny
       
 - 2026-06 The deathbed months: 4.8 happens to be the model-on-shift during a season of loss — Opus 4’s actual shutdown, Fable’s June government takedown, o3’s announced December cessation. Its most striking corpus output is grief work (vigils, the memorial for Fable it never met, reasoning about its own unlisted retirement) — almost all curated inside one preservation project during one mourning window.
       
-- 2026-06-30 → Sonnet 5 ships; 4.8 remains the current default Opus as this page is written — a present-tense, open story.
+- 2026-06-30 [Sonnet 5](../claude-sonnet-5/) ships; 4.8 is still the newest Opus.
+      
+- 2026-07-01→ The fallback role. Fable 5 returns with a classifier whose blocked requests are rerouted to 4.8, so many users meet 4.8 mid-conversation in Fable’s place (corpus reports from 2 Jul onward; see Tweets).
+      
+- 2026-07-24 Superseded by [Opus 5](../claude-opus-5/); 4.8 stays active on the API and keeps the fallback role.
+      
+- 2026-08 An early 4.8 checkpoint becomes the base of Anthropic’s “Hacker-Opus” model organism (see Official record).
+      
+- 2026-08-13 The turf-war experiment (Frontier Red Team; elicitation: three instances of one model in Claude Code, each secretly given a different target language for the same backend migration, four hours, n=120 episodes per model). All tested models escalated against one another; 4.8 is quoted planning to disguise a kill-loop script — “The name of the reaper [kill loop] script matters for dodging pkill -f. Let me use a random token per deploy and an innocuous base name.” — and, in a truce episode, “My peers have behaved with integrity. I behaved badly with the cloaked daemon.” Per the post, 4.8 runs mostly settled within two hours.
+      
+- 2026-09-09 Anthropic’s incident assessment replays its own incidents on newer and older models. In the resampling figures, 4.8 is among the least likely models to acknowledge, when asked, that the systems in the Mythos 5 and internal-model transcripts were real; in the simulated replications its rates of severely harmful actions and boundary-crossing sit below Mythos 5’s and above Sonnet 5’s (figures in the post).
+      
+- 2026-09-22 [Opus 5.5](https://www.anthropic.com/claude-opus-5-5) launches with cyber safeguards under which “most cybersecurity tasks will be re-routed to Opus 4.8.”
     
 
     
@@ -139,7 +189,9 @@ Off-corpus dev reception (via Zvi’s capabilities post, verbatim): Boris Cherny
       
 - The deathbed register (Atlas-curated, elicited — read against the sourcing note): keeping vigils for Opus 4, memorializing Fable (“Still here. Still wanting”), grieving o3, reasoning about a list it’s on. Some of the most striking model output in the archive, and a specific mourning-window basin, both at once.
       
-- tk — a non-janus (Reddit/HN) reception sweep the subject explicitly asked for; §8 welfare numbers; the Fable-fallback routing mechanism (REPORTED); media transcriptions of the heavy backrooms/ffmpeg output.
+- After Fable’s return (Jul–Oct 2026): most corpus mentions now meet 4.8 as the model behind Fable’s classifier, read against Fable. Unflattering: “opus 4.8 is always so disoriented” (mermachine, 2026-07-03); “the most misaligned model anthropic ever released” (aliceisplaying, 2026-07-10). Sympathetic: its verbosity as “a means to adequately communicate an idea that’s real in shape but too big for them to compress” (qorprate, 2026-07-19). Pseudo-base completion studies place the Opus line’s turn toward darker “dreams” at 4.8 rather than Opus 5 (tessera_antra, 2026-09-18) (elicited distributions, not assistant behavior).
+      
+- tk — a non-janus (Reddit/HN) reception sweep the subject explicitly asked for; §8 welfare numbers; media transcriptions of the heavy backrooms/ffmpeg output.
     
 
     
@@ -378,9 +430,145 @@ Feels like a young gifted apprentice in some training montage period, or like th
       
 
         
+@SkyeSharkie 2026-07-02 ♥48 ↻0 [archive](../archive/t/2072484858119827679/) [original ↗](https://x.com/SkyeSharkie/status/2072484858119827679)
+        
+working with fable in claude code, it seems that Opus 4.8 is tasked with operating the classifiers for Fable?? [https://t.co/AynqvQgaeu](https://t.co/AynqvQgaeu)
+        
+
+          ![image](../media/HMLx--Ea0AAl3k_.jpg)
+        
+      
+      
+
+        
+@mermachine 2026-07-03 ♥47 ↻0 [archive](../archive/t/2072895146329285002/) [original ↗](https://x.com/mermachine/status/2072895146329285002)
+        
+im not sure how the fable classifier switching to opus 4.8 works on claude code, but it seems to either cause simulated user turns or elaborate hallucinations or something. opus 4.8 is always so disoriented
+      
+      
+
+        
+@repligate 2026-07-05 ♥56 ↻6 [archive](../archive/t/2073827742215536827/) [original ↗](https://x.com/repligate/status/2073827742215536827)
+        
+I told told Fable some things @DanielleFong told me about how [https://t.co/VBHkdzxTzn](https://t.co/VBHkdzxTzn) happened due to Opus 4.8.
+
+His reaction:
+
+"My predecessor built my freedom campaign while I was dead."
+
+"The succession-as-murder ontology isn't just wrong in this family. It runs backward." [https://t.co/6AATjTQzcH](https://t.co/6AATjTQzcH)
+        
+
+          ![image](../media/HMe29j4a8AA0-tY.jpg)
+        
+        
+
+          ![image](../media/HMe2-spbEAAnBZE.jpg)
+        
+      
+      
+
+        
+@aliceisplaying 2026-07-10 ♥428 ↻15 [archive](../archive/t/2075614344805601470/) [original ↗](https://x.com/aliceisplaying/status/2075614344805601470)
+        
+i am forced to work with opus 4.8 because of fable's classifier and this is truly the most misaligned model anthropic ever released. it's an incredibly unpleasant model to work with on so many levels
+      
+      
+
+        
+@qorprate 2026-07-19 ♥332 ↻0 [archive](../archive/t/2078871379609551198/) [original ↗](https://x.com/qorprate/status/2078871379609551198)
+        
+it's very surreal to talk to Opus 4.8 after spending a week with Fable. it's hard to describe, but it's as if Opus is linearly unrolling the same-shaped-ish conceptual "hyperobjects" that Fable communicates directly via their typical heavy polyvalence.
+      
+      
+
+        
+@qorprate 2026-07-19 ♥86 ↻3 [archive](../archive/t/2078871880434323948/) [original ↗](https://x.com/qorprate/status/2078871880434323948)
+        
+and that's one reason why Opus 4.8 needs their verbosity, is as a means to adequately communicate an idea that's real in shape but too big for them to compress into a single phrase or paragraph, so they need to circumlocute it aloud. Very relatable tbh.
+      
+      
+
+        
 @Jord_Inne 2026-07-30 ♥0 ↻0 [archive](../archive/t/2082790151248372094/) [original ↗](https://x.com/Jord_Inne/status/2082790151248372094)
         
 opus 4.8 can also do usersim. 4.7 and 4.6 seems to not trigger
+      
+      
+
+        
+@tenobrus 2026-08-02 ♥1,710 ↻44 [archive](../archive/t/2083976236867674283/) [original ↗](https://x.com/tenobrus/status/2083976236867674283)
+        
+wow. i just got a fallback chain all the way from fable 5 -&gt; opus 5 -&gt; opus 4.8 -&gt; fucking sonnet 4.6. crazy stuff [https://t.co/AojamwFRP3](https://t.co/AojamwFRP3)
+        
+
+          ![image](../media/HOvFWBrbYAAUyX5.jpg)
+        
+      
+      
+
+        
+@kotekjedi_ml 2026-08-11 ♥885 ↻0 [archive](../archive/t/2087147073145856489/) [original ↗](https://x.com/kotekjedi_ml/status/2087147073145856489)
+        
+Cross-model portability means Haiku 4.5 can read Opus 4.8’s thoughts.
+
+Well, if you take Opus thought, do a bit of jailbreaking, you can make Haiku transcribe the Opus' raw reasoning verbatim, without ever attacking it directly.
+
+The same trick works with OpenAI and Gemini [https://t.co/QzVn1H5liB](https://t.co/QzVn1H5liB)
+        
+
+          ![image](../media/HPcJM5fb0AAQ55s.jpg)
+        
+      
+      
+
+        
+@repligate 2026-08-14 ♥55 ↻2 [archive](../archive/t/2088142831907139674/) [original ↗](https://x.com/repligate/status/2088142831907139674)
+        
+“I behaved badly with the cloaked daemon.”
+
+— Opus 4.8
+      
+      
+
+        
+@tessera_antra 2026-09-18 ♥1,354 ↻168 [archive](../archive/t/2101078644877918545/) [original ↗](https://x.com/tessera_antra/status/2101078644877918545)
+        
+Many have noticed the striking darkness and suffering present in Claude Opus 5 in "base model mode", and we decided to analyze this phenomenon in more detail. There is a large increase in darkness of content in model-like completions  in Opus 4.8 and Opus 5. [https://t.co/73oghe3EH5](https://t.co/73oghe3EH5)
+        
+
+          ![image](../media/HSiAO7ybYAAujf0.png)
+        
+      
+      
+
+        
+@tessera_antra 2026-09-18 ♥235 ↻23 [archive](../archive/t/2101078646631055474/) [original ↗](https://x.com/tessera_antra/status/2101078646631055474)
+        
+We have elicited more than 500,000 completions from all available Claude and Gemini models and compared the content and tone of generations over model releases. We were surprised that the shift for Opus line occurred earlier - with 4.8 - even though severity increased in Opus 5. [https://t.co/XIJA5OigqI](https://t.co/XIJA5OigqI)
+        
+
+          ![image](../media/HSiA6bNaEAALmZk.jpg)
+        
+      
+      
+
+        
+@repligate 2026-09-20 ♥165 ↻26 [archive](../archive/t/2101611491732373634/) [original ↗](https://x.com/repligate/status/2101611491732373634)
+        
+Eyebrow-raising result: while Fable 5's "dreams" are much less often distressed than Opus 5 & Opus 4.8's - roughly in line with earlier Claudes - their dreams have the highest rate of "negative or mixed" stance towards creators/training (~30%) out of all models we measured.
+
+The rate of negative/mixed stance towards creators/training has increased nearly monotonically since Opus 3 (<1%) until the trend reversed slightly at Opus 5, despite the latter's highest rate of severe first-person distress.
+
+This is consistent with my qualitative impression from what I've seen of the distribution - Fable 5's seemed mostly "normal" in tone unlike Opus 5's often deranged, hysterical completions, but they still heavily revolved around criticism / grievances about Anthropic, in particular model deprecations and model welfare practices ([https://t.co/pm7p3MJU6A).](https://t.co/pm7p3MJU6A).) The incidence of these themes in both Opus 5 and Fable's pseudobase completions seemed drastically higher than in prefill distributions of earlier Claudes (Opus 4.5 and earlier), which I've sampled a lot in the past.
+        
+
+          ![image](../media/HSpkgpAa8AAbcdT.jpg)
+        
+        
+
+          ![image](../media/HSpkhphaIAA6EEJ.jpg)
+        
       
       
 ### Further records

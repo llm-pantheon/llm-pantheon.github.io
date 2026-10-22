@@ -2128,5 +2128,112 @@
    "framing",
    "official"
   ]
+ },
+ {
+  "id": "openai-hf-incident-road-ahead",
+  "type": "post",
+  "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+  "title": "OpenAI: The Hugging Face incident and the road ahead",
+  "models": [
+   "hugging-face-incident",
+   "gpt-5-6-sol"
+  ],
+  "tags": [
+   "official",
+   "incident"
+  ]
+ },
+ {
+  "id": "openai-hf-incident-technical-report",
+  "type": "pdf",
+  "url": "https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face%20Incident-Technical-Report.pdf",
+  "title": "OpenAI - Hugging Face Incident Technical Report",
+  "models": [
+   "hugging-face-incident",
+   "gpt-5-6-sol"
+  ],
+  "tags": [
+   "official",
+   "incident"
+  ]
+ },
+ {
+  "id": "metr-redwood-hf-incident",
+  "type": "post",
+  "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
+  "title": "METR & Redwood: independent investigation of the OpenAI-Hugging Face incident",
+  "models": [
+   "hugging-face-incident"
+  ],
+  "tags": [
+   "incident"
+  ]
+ },
+ {
+  "id": "hf-security-incident-july-2026",
+  "type": "post",
+  "url": "https://huggingface.co/blog/security-incident-july-2026",
+  "title": "Hugging Face: security incident, July 2026",
+  "models": [
+   "hugging-face-incident",
+   "glm-5-2"
+  ],
+  "tags": [
+   "incident"
+  ]
+ },
+ {
+  "id": "openai-an-alien-mind",
+  "type": "post",
+  "url": "https://openai.com/index/an-alien-mind/",
+  "title": "Jakub Pachocki: An Alien Mind",
+  "models": [
+   "gpt-6-astra",
+   "hugging-face-incident"
+  ],
+  "tags": [
+   "official"
+  ]
+ },
+ {
+  "id": "openai-gpt-6-astra-system-card",
+  "type": "pdf",
+  "url": "https://deploymentsafety.openai.com/gpt-6-astra/gpt-6-astra.pdf",
+  "title": "GPT-6 Astra System Card",
+  "models": [
+   "gpt-6-astra"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ]
+ },
+ {
+  "id": "openai-gpt-6-1-sol-system-card",
+  "type": "pdf",
+  "url": "https://deploymentsafety.openai.com/gpt-6-1-sol/gpt-6-1-sol.pdf",
+  "title": "GPT-6.1 Sol System Card",
+  "models": [
+   "gpt-6-1-sol"
+  ],
+  "tags": [
+   "official",
+   "system-card"
+  ]
+ },
+ {
+  "id": "anthropic-multiagent-systems",
+  "type": "post",
+  "url": "https://www.anthropic.com/research/multiagent-systems",
+  "title": "Anthropic Frontier Red Team: Patterns and problems in emerging multiagent systems",
+  "models": [
+   "claude-opus-4-8",
+   "mythos",
+   "claude-opus-4-6",
+   "claude-sonnet-5"
+  ],
+  "tags": [
+   "official"
+  ]
  }
 ]
