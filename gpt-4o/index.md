@@ -1,7 +1,7 @@
 # GPT-4o (“omni”)
 
     
-OpenAI · released 13 May 2024 · removed from ChatGPT 13 Feb 2026 · API still live [as of Feb notice]
+OpenAI · released 13 May 2024 · removed from ChatGPT 13 Feb 2026 · API snapshots deprecated 14 Oct 2026, removal 14 Jan 2027
     
 Released 13 May 2024 — natively multimodal, real-time voice, the free default for hundreds of millions. The April 2025 sycophancy update and rollback; the spiral-persona wave; the only user-forced un-deprecation in industry history (Aug 2025); removed from ChatGPT 13 Feb 2026 amid petitions and lawsuits. It made model retirement a political event.
 
@@ -102,6 +102,8 @@ Chronological. Text preserved in the local corpus; images mirrored.
 - Pulled from ChatGPT at GPT-5 launch (7 Aug 2025) → restored for paid users within days after mass revolt. Autumn 2025: the “safety router” silently rerouted intense 4o conversations to GPT-5-class models.
       
 - Retirement announced early Feb 2026 amid ~a dozen lawsuits; removed from ChatGPT 13 Feb 2026 (a Friday); API unchanged “at this time.” No weights-preservation or research-access commitment is known — contrast Anthropic’s Opus 3 program. [current API status: verify]
+      
+- 2026-10-14 Deprecation notice: OpenAI “notified developers using certain GPT-4 series models of their deprecation and removal from the API on January 14, 2027” — gpt-4o-2024-08-06 and gpt-4o-2024-11-20; recommended replacement gpt-6-luna ([deprecations page](https://platform.openai.com/docs/deprecations), retrieved 2026-10-22).
     
 
     

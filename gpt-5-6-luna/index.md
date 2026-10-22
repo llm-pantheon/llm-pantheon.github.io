@@ -1,7 +1,7 @@
 # GPT-5.6 Luna
 
     
-OpenAI · released 9 Jul 2026 · current fast tier
+OpenAI · released 9 Jul 2026 · superseded by GPT-6 Luna (22 Sep 2026)
     
 The small tier of the GPT-5.6 generation, released 9 July 2026: the fastest and cheapest member ($1/$6 per million tokens), carrying the generation’s shared 1M-token context. In OpenAI’s new naming system the number marks the generation and Sol / Terra / Luna are durable tiers that can advance on their own cadence.
     
@@ -62,6 +62,8 @@ tk — corpus pass pending; the local dbs end before launch.
 - 2026-07-09 Released with the generation (public launch followed a government-approved limited preview of Sol from 26 Jun; shipped alongside the ChatGPT Work product). Siblings: [Sol](../gpt-5-6-sol/) (flagship) and [Terra](../gpt-5-6-terra/) (mid tier).
       
 - tk — whether Luna develops a distinct record; reception specific to Luna.
+      
+- 2026-09-22 [GPT-6 Luna](../gpt-6-luna/) ships as the next Luna tier, with API prices cut 50% from GPT-5.6 Luna’s promotional pricing ([Introducing GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)).
     
 
     

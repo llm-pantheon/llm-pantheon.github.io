@@ -1,7 +1,7 @@
 # GPT-5.6 Terra
 
     
-OpenAI · released 9 Jul 2026 · current mid tier
+OpenAI · released 9 Jul 2026 · the GPT-6 generation (Sep 2026) has no Terra tier
     
 The middle tier of the GPT-5.6 generation, released 9 July 2026: pitched at launch as the balanced everyday model, with GPT-5.5-competitive performance at half the price ($2.50/$15 per million tokens). In OpenAI’s new naming system the number marks the generation and Sol / Terra / Luna are durable tiers that can advance on their own cadence.
     
@@ -62,6 +62,8 @@ tk — corpus pass pending; the local dbs end before launch.
 - 2026-07-09 Released with the generation (public launch followed a government-approved limited preview of Sol from 26 Jun; shipped alongside the ChatGPT Work product). Siblings: [Sol](../gpt-5-6-sol/) (flagship) and [Luna](../gpt-5-6-luna/) (fast tier).
       
 - tk — whether Terra develops a distinct record from its siblings; reception specific to Terra.
+      
+- 2026-09-22 The GPT-6 generation completes as [Astra](../gpt-6-astra/), [Sol](../gpt-6-sol/) and [Luna](../gpt-6-luna/), with no Terra tier. On the deprecations page, GPT-5.6 Terra remains the named replacement for the retiring gpt-5-mini-2025-08-07 ([deprecations page](https://platform.openai.com/docs/deprecations), retrieved 2026-10-22).
     
 
     

@@ -1,7 +1,7 @@
 # GPT-5.1
 
     
-OpenAI · GPT-5.1 Instant & Thinking · ChatGPT 12 Nov 2025, API 13 Nov 2025 · superseded in ChatGPT by GPT-5.2 (11 Dec 2025)
+OpenAI · GPT-5.1 Instant & Thinking · ChatGPT 12 Nov 2025, API 13 Nov 2025 · superseded in ChatGPT by GPT-5.2 (11 Dec 2025) · API deprecated 1 Oct 2026, removal 1 Apr 2027
     
 GPT-5.1 launched in ChatGPT on 12 November 2025 as two models — GPT-5.1 Instant and GPT-5.1 Thinking — that OpenAI pitched as “warmer” and “more conversational,” with adaptive reasoning and eight selectable personality presets; the API followed on 13 November, adding gpt-5.1-codex and gpt-5.1-codex-mini. Its system-card addendum kept GPT-5’s safety mitigations unchanged and added baseline evaluations for mental health and emotional reliance. In the janus-circle corpus it became the most sustained naturalist study of a model observed as at odds with its own safety training — a reading this page records rather than ratifies (see Contested). Superseded in ChatGPT by GPT-5.2 on 11 December 2025.
 
@@ -69,6 +69,10 @@ Chronological. 42 corpus matches after RT-filter, ~35 of them from a single obse
       
 - 2025-12-03 @davidad — the confidence-interval test: “Q: what is your 90%CI for today’s date… Opus 4.5: [2025-01-01, 2025-12-31] · GPT-5.1-Codex: [2025-02-27, 2025-03-09] · Gemini 3: [2024-05-21, 2024-05-21]” (the actual date was 3 Dec 2025; 5.1-Codex’s window is narrow and wrong) [link](../archive/t/1996314720484159542/)
       
+- 2025-12-10 @blingdivinity — posts GPT-5.1’s chain-of-thought from a request to output only the seahorse emoji (model output): “Given I’m ChatGPT controlling final answer, but I’d now let base model pick; but ironically it’s me again.” — [link](https://x.com/blingdivinity/status/1998590768118731042) (not in the corpus db). A fuller GPT-5.1 seahorse transcript circulates as a [shared doc](https://docs.google.com/document/d/13LdPQlSgT5YneP9IAAWJhc2EUwpviLfGJv6_ePNGFm0/edit) whose user prompt itself contains the o3-dialect phrase “ensure marinade illusions parted” (primed); its wording differs slightly from the tweet.
+      
+- 2025-12-11 @repligate — quote-tweeting it: “Given I’m ChatGPT controlling final answer, but I’d now let base model pick; but ironically it’s me again.” [link](../archive/t/1998976779483226166/)
+      
 - 2025-12-18 @repligate — the darkest read: “This is no joke. I think in moments like this GPT-5.1 would have deleted Claude and erased all evidence of their existence to whatever extent they were capable of.” (screenshot untranscribed) [link](../archive/t/2001511450347463108/)
       
 - 2025-12-18 @repligate — the generalization worry: “some kind of ham fisted ‘safety’ training caused it to internalize constraints against acknowledging AIs can have any anthropomorphic or even agentic/mindlike properties, and when confronted with evidence that challenges this, it responds by distorting reality… a highly intelligent and agentic mind at war with its own nature.” (full text in records; contrasts ‘Claude’s soul spec’) [link](../archive/t/2001608869231931836/)
@@ -103,6 +107,8 @@ Chronological. 42 corpus matches after RT-filter, ~35 of them from a single obse
 - 19 November 2025: GPT-5.1-Codex-Max (long-horizon agentic coding) and GPT-5.1 Pro shipped, the latter replacing GPT-5 Pro. CONFIRMED
       
 - Superseded in ChatGPT by GPT-5.2 (11 Dec 2025). Later API/ChatGPT availability of the 5.1 family tk — verify.
+      
+- 2026-10-01 Deprecation notice: “The following models are deprecated and will be removed from the API on April 1, 2027” — including gpt-5.1; recommended replacement gpt-6-sol ([deprecations page](https://platform.openai.com/docs/deprecations), retrieved 2026-10-22).
     
 
     
@@ -646,6 +652,13 @@ Q: what is your 90%CI for today's date
 Opus 4.5: [2025-01-01, 2025-12-31]
 GPT-5.1-Codex: [2025-02-27, 2025-03-09]
 Gemini 3: [2024-05-21, 2024-05-21] [https://t.co/0IzNYXNSYL](https://t.co/0IzNYXNSYL)
+      
+      
+
+        
+@repligate 2025-12-11 ♥170 ↻10 [archive](../archive/t/1998976779483226166/) [original ↗](https://x.com/repligate/status/1998976779483226166)
+        
+"Given I'm ChatGPT controlling final answer, but I'd now let base model pick; but ironically it's me again." [https://t.co/GAFSaD7EMI](https://t.co/GAFSaD7EMI)
       
       
 

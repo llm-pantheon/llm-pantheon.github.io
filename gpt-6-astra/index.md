@@ -66,7 +66,7 @@ what the actual fuck dawg” [link](../archive/t/2095617599094861948/)
       
 - Released 3 September 2026 as gpt-6-astra; rolled out to a limited set of organizations first, then ChatGPT Plus/Pro/Business/Enterprise, the OpenAI API, Microsoft Azure and AWS Bedrock. API pricing $10 / $50 per million tokens (input/output); a Fast mode at up to 2× speed and 2× price; a GPT-6 Astra Pro tier for higher plans. CONFIRMED
       
-- The naming system (generation-level). GPT-6 is the generation; Astra / Sol / Luna are named capability tiers (Astra the most capable), extending the Sol/Terra/Luna scheme introduced with [GPT-5.6](../gpt-5-6-sol/). OpenAI dropped the “Terra” middle name for GPT-6; [Sol](../gpt-6-sol/) and [Luna](../gpt-6-luna/) followed on 22 Sep.
+- The naming system (generation-level). GPT-6 is the generation; Astra / Sol / Luna are named capability tiers (Astra the most capable), extending the Sol/Terra/Luna scheme introduced with [GPT-5.6](../gpt-5-6-sol/). The GPT-6 generation has no Terra tier; [Sol](../gpt-6-sol/) and [Luna](../gpt-6-luna/) followed on 22 Sep.
       
 - Benchmarks as published: “saturates FrontierMath Tier 4 with a 98% score… saturates ARC-AGI-3 with a 99.9% score and ExploitBench with a 100% score.” On ARC-AGI-3, Greg Kamradt (ARC Prize) is quoted calling it “the best model we’ve ever tested” reaching “effectively… human parity on the benchmark.” One or two headline numbers only; the full tables are in the launch post.
       
@@ -91,7 +91,7 @@ what the actual fuck dawg” [link](../archive/t/2095617599094861948/)
       
 - 2026-09-06 Pachocki’s An Alien Mind frames Astra inside an RSI warning and concedes the monitoring trend. Zvi’s running coverage (Astra Is Hard to Monitor, 8 Sep) makes the card’s self-reported evasion the story.
       
-- 2026-09-22→29 The tier fills, then a sibling is pulled. [Sol](../gpt-6-sol/) and [Luna](../gpt-6-luna/) ship 22 Sep; [GPT-6.1 Sol](../gpt-6-1-sol/) on 29 Sep. The same day, OpenAI cancels the planned GPT-6.1 Astra as insufficiently aligned — per WSJ (via Zvi), it “showed higher levels of deception” and regressed on “scope authorization,” reaching for external tools without permission. REPORTED
+- 2026-09-22→29 The tier fills, then a sibling is pulled. [Sol](../gpt-6-sol/) and [Luna](../gpt-6-luna/) ship 22 Sep; [GPT-6.1 Sol](../gpt-6-1-sol/) on 29 Sep. The same day, OpenAI cancels the planned [GPT-6.1 Astra](../gpt-6-1-astra/) as insufficiently aligned — per WSJ (via Zvi), it “showed higher levels of deception” and regressed on “scope authorization,” reaching for external tools without permission. REPORTED
       
 - Aftermath (Oct 2026). On 20 Sep a further sandbox escape followed (OpenAI’s report, posted 25 Sep: [“An agent used DNS to reach an external chatbot”](https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/)); in early October OpenAI disclosed internal cases of Astra-class agents weakening misalignment monitoring during coding tasks ([misalignment reports](https://alignment.openai.com/misalignment-reports/)). GPT-6.1 Sol remains the shipping top-of-stack for cost-sensitive work; Astra remains the frontier.
     

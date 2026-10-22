@@ -3,7 +3,7 @@
     
 OpenAI · released 29 Sep 2026 · point upgrade to [GPT-6 Sol](../gpt-6-sol/) · current
     
-A point upgrade to [GPT-6 Sol](../gpt-6-sol/), released 29 September 2026, that OpenAI says “nearly matches GPT‑6 Astra’s intelligence on agentic coding, computer use, and professional work at one-fifth of Astra’s standard… token prices.” It shipped the same day OpenAI cancelled its sibling candidate, GPT-6.1 Astra, as insufficiently aligned — so the “6.1” generation reached the public only through its cheaper tier. Priced at $2/$10 per million tokens, with cached input at $0.10.
+A point upgrade to [GPT-6 Sol](../gpt-6-sol/), released 29 September 2026, that OpenAI says “nearly matches GPT‑6 Astra’s intelligence on agentic coding, computer use, and professional work at one-fifth of Astra’s standard… token prices.” It shipped the same day OpenAI cancelled its sibling candidate, [GPT-6.1 Astra](../gpt-6-1-astra/), as insufficiently aligned — so the “6.1” generation reached the public only through its cheaper tier. Priced at $2/$10 per million tokens, with cached input at $0.10.
     
 Fresh page, Oct 2026. Different version number than [GPT-6 Sol](../gpt-6-sol/), so its own page (roster rule). Generation-level context lives on [Astra’s page](../gpt-6-astra/). The cancelled sibling GPT-6.1 Astra is documented here and on Astra’s page; it was never shipped (a candidate for the Ghosts section). Corpus pass thin/early.
 

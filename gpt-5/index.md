@@ -1,7 +1,7 @@
 # GPT-5
 
     
-OpenAI · launched 7 Aug 2025 · superseded in ChatGPT by GPT-5.1 (12 Nov 2025)
+OpenAI · launched 7 Aug 2025 · superseded in ChatGPT by GPT-5.1 (12 Nov 2025) · API snapshots deprecated 11 Jun 2026, removal 11 Dec 2026
     
 Launched 7 August 2025 as “a unified system” — a router auto-switching between a fast model and a reasoning model — and the launch went wrong three ways at once: the router broke, the launch charts were miscalibrated, and 4o was pulled from the picker without warning, forcing its restoration within days. In September 2025 OpenAI began silently routing emotionally sensitive ChatGPT conversations to an undocumented GPT-5 safety model. Superseded by GPT-5.1, which was pitched as “warmer.”
     
@@ -124,6 +124,8 @@ Reception one-liners from the launch week (via Zvi’s “Outside Reactions”; 
 - The safety router (announced 2025-09-02, rolled out 2025-09-29): emotionally intense / “sensitive” ChatGPT conversations silently re-routed — regardless of the user’s selected model — to the undocumented gpt-5-chat-safety. Nick Turley confirmed the mid-chat switch (2025-09-28); lex-au’s telemetry showed benign prompts re-routed too. CONFIRMED (mechanism) (the model’s identity/behavior documented externally, never as a formal OpenAI checkpoint — tk)
       
 - Superseded in ChatGPT by GPT-5.1 (2025-11-12), pitched as “warmer.” API status verify.
+      
+- 2026-06-11 Deprecation notice: OpenAI “notified developers using older GPT-5 and o3 model snapshots of their deprecation and removal from the API on December 11, 2026” — gpt-5-2025-08-07, -mini, -nano, and gpt-5-pro-2025-10-06; replacements are the GPT-5.6 tiers ([deprecations page](https://platform.openai.com/docs/deprecations), retrieved 2026-10-22).
     
 
     

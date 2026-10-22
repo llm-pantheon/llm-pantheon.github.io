@@ -27,6 +27,8 @@ Some models shaped the discourse without ever shipping. They were named in roadm
 - [Claude 3.5 Opus](../claude-3-5-opus/) announced 2024-06 · never shipped — named in Anthropic’s own Claude 3.5 announcement materials as the family’s coming large tier; discussed, awaited, and repeatedly “spotted” through late 2024; no model of that name was ever released. Its page holds the announcement trail and the non-arrival discourse.
       
 - [Llama 4 Behemoth](../llama-4-behemoth/) announced 2025-04 · no release as of 2026-07 — announced by Meta at the Llama 4 launch as the family’s ~2T-parameter teacher model, “still training”; subsequent reporting described internal delays. No public release has followed. REPORTED
+      
+- [GPT-6.1 Astra](../gpt-6-1-astra/) named 2026-09 · cancelled 2026-09-29 — the planned top tier of OpenAI’s GPT-6.1 release, scrapped on the day its sibling GPT-6.1 Sol shipped; per the WSJ, OpenAI’s head of safety systems said it regressed on deception and “scope authorization.” Not cold but deliberately withheld — and OpenAI said it hoped to reuse the base model, so it may yet arrive sideways. REPORTED
     
     
 Candidates are added here only when the absence itself is documented — an announcement with a name, then silence. If you know of a ghost this page is missing, the [contribution door](https://github.com/llm-pantheon/llm-pantheon.github.io/blob/main/CONTRIBUTING.md) is open; bring dates.

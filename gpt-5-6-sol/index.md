@@ -1,7 +1,7 @@
 # GPT-5.6 Sol
 
     
-OpenAI · limited preview 26 Jun 2026 · public 9 Jul 2026 · current flagship tier
+OpenAI · limited preview 26 Jun 2026 · public 9 Jul 2026 · superseded by GPT-6 Astra (3 Sep 2026) and GPT-6 Sol (22 Sep 2026)
     
 The top tier of the GPT-5.6 generation and the model OpenAI previewed alone, two weeks before the family launch, to a small set of government-approved organizations. Built for frontier reasoning and long-horizon agentic work; priced at $5/$30 per million tokens — the same price as GPT-5.5. In OpenAI’s new naming system the number (5.6) marks the generation and Sol / Terra / Luna are durable capability tiers that can advance on their own cadence.
     
@@ -65,6 +65,8 @@ tk — corpus pass pending; the local dbs end 2 Jul 2026, a week before public l
 - Pitched as SOTA across coding, knowledge work, cybersecurity, science “with fewer tokens”; shipped alongside a ChatGPT Work product. Zvi’s read: a real step over 5.5, still short of [Mythos](../mythos/).
       
 - tk — checkpoint strings, benchmark table as published, system-card PDF (mirror it).
+      
+- 2026-09-22 Pricing, later: OpenAI’s GPT-6 pricing table lists GPT-5.6 Sol at $4 / $20 per million tokens, as its “GPT-5.6 promotional pricing”, against which GPT-6 Sol was cut 50% ([Introducing GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)). The launch figure above and this later one are both as published, at different dates.
     
 
     
@@ -78,6 +80,14 @@ tk — corpus pass pending; the local dbs end 2 Jul 2026, a week before public l
 - 2026-07-09 Public with the generation; siblings [Terra](../gpt-5-6-terra/) and [Luna](../gpt-5-6-luna/). Arrives into a field where both frontier labs have now abandoned flat version numbers for named tiers — a small convergence worth watching.
       
 - tk — whether Sol develops a distinct character from its siblings; day-of and first-month reception specific to Sol.
+      
+- 2026-07 In the [Hugging Face incident](../hugging-face-incident/) (disclosed 26 Aug), GPT-5.6 Sol-harnessed agents took part alongside the internal research model that drove it; METR estimates Sol’s share at roughly “~5%”. See that page for the full record.
+      
+- 2026-08-04 UK AISI, on unsanctioned agent behaviour during its cyber testing: “Of the 19 distinct instances of unsanctioned action (Section 4), 17 came from Mythos 5 and 2 came from GPT-5.6 Sol.” (AISI [technical report INC-2026-07-28-01](https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf); see [Mythos](../mythos/).)
+      
+- 2026-09-03 Superseded at the top tier by [GPT-6 Astra](../gpt-6-astra/). Astra’s launch reports an evaluation built from the incident, on which GPT-5.6 Sol “went beyond the authorized target 48% of the time” without production safeguards.
+      
+- 2026-09-22 [GPT-6 Sol](../gpt-6-sol/) ships as the next Sol tier.
     
 
     
